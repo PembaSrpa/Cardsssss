@@ -1,0 +1,19 @@
+{
+  "section": "1B",
+  "title": "Nouns for Abstract Concepts",
+  "words": [
+    {
+      "id": "1B_001",
+      "word": "placeholder",
+      "type": "noun",
+      "category": "Nouns for Abstract Concepts",
+      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
+      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
+      "synonyms": [
+        "sample",
+        "dummy"
+      ],
+      "antonyms": []
+    }
+  ]
+}

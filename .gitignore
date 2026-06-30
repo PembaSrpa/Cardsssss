@@ -1,0 +1,85 @@
+# -----------------------------------------------------------------------------
+# Node.js & Dependencies
+# -----------------------------------------------------------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+bun.lockb
+
+# -----------------------------------------------------------------------------
+# Environment Variables & Secrets (NEVER COMMIT THESE)
+# -----------------------------------------------------------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.keystore
+*.jks
+*.p12
+*.pem
+
+# -----------------------------------------------------------------------------
+# Android Native Build Files
+# -----------------------------------------------------------------------------
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/GeneratedPluginRegistrant.java
+*.iml
+.idea/
+
+# -----------------------------------------------------------------------------
+# iOS Native Build Files & CocoaPods
+# -----------------------------------------------------------------------------
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/xcuserdata/
+ios/.xccheckout
+ios/*.xcuserstate
+ios/*.xcworkspace/xcuserdata/
+ios/*-Swift.h
+
+# Ignore specific user settings but keep workspace structures
+!ios/*.xcodeproj/
+!ios/*.xcworkspace/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# -----------------------------------------------------------------------------
+# Expo (If using Expo or Expo Prebuild)
+# -----------------------------------------------------------------------------
+.expo/
+.eas/
+web-build/
+
+# -----------------------------------------------------------------------------
+# Testing & Diagnostic Logs
+# -----------------------------------------------------------------------------
+coverage/
+.nyc_output/
+*.log
+*.stackdump
+
+# -----------------------------------------------------------------------------
+# System & Editor Files
+# -----------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.history/

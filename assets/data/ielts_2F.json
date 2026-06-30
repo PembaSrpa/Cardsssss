@@ -1,0 +1,19 @@
+{
+  "section": "2F",
+  "title": "Language for Maps & Spatial Changes",
+  "words": [
+    {
+      "id": "2F_001",
+      "word": "placeholder",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
+      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
+      "synonyms": [
+        "sample",
+        "dummy"
+      ],
+      "antonyms": []
+    }
+  ]
+}

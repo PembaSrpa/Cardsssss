@@ -1,0 +1,1655 @@
+{
+  "level": "A2",
+  "words": [
+    {
+      "id": "A2_001",
+      "word": "Ahnung",
+      "artikel": "die",
+      "meaning": "idea/notion"
+    },
+    {
+      "id": "A2_002",
+      "word": "Ampel",
+      "artikel": "die",
+      "meaning": "traffic light"
+    },
+    {
+      "id": "A2_003",
+      "word": "Angst",
+      "artikel": "die",
+      "meaning": "fear"
+    },
+    {
+      "id": "A2_004",
+      "word": "Anzug",
+      "artikel": "der",
+      "meaning": "suit"
+    },
+    {
+      "id": "A2_005",
+      "word": "Apotheke",
+      "artikel": "die",
+      "meaning": "pharmacy"
+    },
+    {
+      "id": "A2_006",
+      "word": "Apparat",
+      "artikel": "der",
+      "meaning": "device"
+    },
+    {
+      "id": "A2_007",
+      "word": "Artikel",
+      "artikel": "der",
+      "meaning": "article"
+    },
+    {
+      "id": "A2_008",
+      "word": "Ausbildung",
+      "artikel": "die",
+      "meaning": "training"
+    },
+    {
+      "id": "A2_009",
+      "word": "Ausstellung",
+      "artikel": "die",
+      "meaning": "exhibition"
+    },
+    {
+      "id": "A2_010",
+      "word": "Babysitter",
+      "artikel": "der",
+      "meaning": "babysitter"
+    },
+    {
+      "id": "A2_011",
+      "word": "Ball",
+      "artikel": "der",
+      "meaning": "ball"
+    },
+    {
+      "id": "A2_012",
+      "word": "Band",
+      "artikel": "die",
+      "meaning": "band"
+    },
+    {
+      "id": "A2_013",
+      "word": "Basketball",
+      "artikel": "der",
+      "meaning": "basketball"
+    },
+    {
+      "id": "A2_014",
+      "word": "Baustelle",
+      "artikel": "die",
+      "meaning": "construction site"
+    },
+    {
+      "id": "A2_015",
+      "word": "Berg",
+      "artikel": "der",
+      "meaning": "mountain"
+    },
+    {
+      "id": "A2_016",
+      "word": "Bescheid",
+      "artikel": "der",
+      "meaning": "notice/word"
+    },
+    {
+      "id": "A2_017",
+      "word": "Besuch",
+      "artikel": "der",
+      "meaning": "visit"
+    },
+    {
+      "id": "A2_018",
+      "word": "Bewerbung",
+      "artikel": "die",
+      "meaning": "application"
+    },
+    {
+      "id": "A2_019",
+      "word": "Bibliothek",
+      "artikel": "die",
+      "meaning": "library"
+    },
+    {
+      "id": "A2_020",
+      "word": "Blatt",
+      "artikel": "das",
+      "meaning": "sheet of paper"
+    },
+    {
+      "id": "A2_021",
+      "word": "Bluse",
+      "artikel": "die",
+      "meaning": "blouse"
+    },
+    {
+      "id": "A2_022",
+      "word": "Bohne",
+      "artikel": "die",
+      "meaning": "bean"
+    },
+    {
+      "id": "A2_023",
+      "word": "Brille",
+      "artikel": "die",
+      "meaning": "glasses"
+    },
+    {
+      "id": "A2_024",
+      "word": "Brücke",
+      "artikel": "die",
+      "meaning": "bridge"
+    },
+    {
+      "id": "A2_025",
+      "word": "Büro",
+      "artikel": "das",
+      "meaning": "office"
+    },
+    {
+      "id": "A2_026",
+      "word": "Cafeteria",
+      "artikel": "die",
+      "meaning": "cafeteria"
+    },
+    {
+      "id": "A2_027",
+      "word": "Club",
+      "artikel": "der",
+      "meaning": "club"
+    },
+    {
+      "id": "A2_028",
+      "word": "Creme",
+      "artikel": "die",
+      "meaning": "cream"
+    },
+    {
+      "id": "A2_029",
+      "word": "Datei",
+      "artikel": "die",
+      "meaning": "file"
+    },
+    {
+      "id": "A2_030",
+      "word": "Ding",
+      "artikel": "das",
+      "meaning": "thing"
+    },
+    {
+      "id": "A2_031",
+      "word": "E-Book",
+      "artikel": "das",
+      "meaning": "e-book"
+    },
+    {
+      "id": "A2_032",
+      "word": "Einkaufszentrum",
+      "artikel": "das",
+      "meaning": "shopping center"
+    },
+    {
+      "id": "A2_033",
+      "word": "Eis",
+      "artikel": "das",
+      "meaning": "ice cream"
+    },
+    {
+      "id": "A2_034",
+      "word": "Erdgeschoss",
+      "artikel": "das",
+      "meaning": "ground floor"
+    },
+    {
+      "id": "A2_035",
+      "word": "Erfahrung",
+      "artikel": "die",
+      "meaning": "experience"
+    },
+    {
+      "id": "A2_036",
+      "word": "Erlaubnis",
+      "artikel": "die",
+      "meaning": "permission"
+    },
+    {
+      "id": "A2_037",
+      "word": "Ermäßigung",
+      "artikel": "die",
+      "meaning": "discount"
+    },
+    {
+      "id": "A2_038",
+      "word": "Fach",
+      "artikel": "das",
+      "meaning": "subject"
+    },
+    {
+      "id": "A2_039",
+      "word": "Fahrplan",
+      "artikel": "der",
+      "meaning": "timetable"
+    },
+    {
+      "id": "A2_040",
+      "word": "Fan",
+      "artikel": "der",
+      "meaning": "fan"
+    },
+    {
+      "id": "A2_041",
+      "word": "Feier",
+      "artikel": "die",
+      "meaning": "celebration"
+    },
+    {
+      "id": "A2_042",
+      "word": "Fenster",
+      "artikel": "das",
+      "meaning": "window"
+    },
+    {
+      "id": "A2_043",
+      "word": "Ferien",
+      "artikel": "die",
+      "meaning": "vacation"
+    },
+    {
+      "id": "A2_044",
+      "word": "Fernseher",
+      "artikel": "der",
+      "meaning": "television"
+    },
+    {
+      "id": "A2_045",
+      "word": "Fest",
+      "artikel": "das",
+      "meaning": "celebration"
+    },
+    {
+      "id": "A2_046",
+      "word": "Festival",
+      "artikel": "das",
+      "meaning": "festival"
+    },
+    {
+      "id": "A2_047",
+      "word": "Flohmarkt",
+      "artikel": "der",
+      "meaning": "flea market"
+    },
+    {
+      "id": "A2_048",
+      "word": "Flug",
+      "artikel": "der",
+      "meaning": "flight"
+    },
+    {
+      "id": "A2_049",
+      "word": "Fluss",
+      "artikel": "der",
+      "meaning": "river"
+    },
+    {
+      "id": "A2_050",
+      "word": "Fotoapparat",
+      "artikel": "der",
+      "meaning": "camera"
+    },
+    {
+      "id": "A2_051",
+      "word": "Führerschein",
+      "artikel": "der",
+      "meaning": "driver's license"
+    },
+    {
+      "id": "A2_052",
+      "word": "Fundsachen",
+      "artikel": "die",
+      "meaning": "lost and found"
+    },
+    {
+      "id": "A2_053",
+      "word": "Freundin",
+      "artikel": "die",
+      "meaning": "girlfriend"
+    },
+    {
+      "id": "A2_054",
+      "word": "Gabel",
+      "artikel": "die",
+      "meaning": "fork"
+    },
+    {
+      "id": "A2_055",
+      "word": "Garage",
+      "artikel": "die",
+      "meaning": "garage"
+    },
+    {
+      "id": "A2_056",
+      "word": "Gegenteil",
+      "artikel": "das",
+      "meaning": "opposite"
+    },
+    {
+      "id": "A2_057",
+      "word": "Gehalt",
+      "artikel": "das",
+      "meaning": "salary"
+    },
+    {
+      "id": "A2_058",
+      "word": "Geldbörse",
+      "artikel": "die",
+      "meaning": "wallet"
+    },
+    {
+      "id": "A2_059",
+      "word": "Gerät",
+      "artikel": "das",
+      "meaning": "device"
+    },
+    {
+      "id": "A2_060",
+      "word": "Gericht",
+      "artikel": "das",
+      "meaning": "dish"
+    },
+    {
+      "id": "A2_061",
+      "word": "Geschichte",
+      "artikel": "die",
+      "meaning": "story"
+    },
+    {
+      "id": "A2_062",
+      "word": "Geschirr",
+      "artikel": "das",
+      "meaning": "dishes"
+    },
+    {
+      "id": "A2_063",
+      "word": "Gesicht",
+      "artikel": "das",
+      "meaning": "face"
+    },
+    {
+      "id": "A2_064",
+      "word": "Gesundheit",
+      "artikel": "die",
+      "meaning": "health"
+    },
+    {
+      "id": "A2_065",
+      "word": "Gewitter",
+      "artikel": "das",
+      "meaning": "thunderstorm"
+    },
+    {
+      "id": "A2_066",
+      "word": "Gitarre",
+      "artikel": "die",
+      "meaning": "guitar"
+    },
+    {
+      "id": "A2_067",
+      "word": "Grippe",
+      "artikel": "die",
+      "meaning": "flu"
+    },
+    {
+      "id": "A2_068",
+      "word": "Hals",
+      "artikel": "der",
+      "meaning": "neck"
+    },
+    {
+      "id": "A2_069",
+      "word": "Hamburger",
+      "artikel": "der",
+      "meaning": "hamburger"
+    },
+    {
+      "id": "A2_070",
+      "word": "Handtuch",
+      "artikel": "das",
+      "meaning": "towel"
+    },
+    {
+      "id": "A2_071",
+      "word": "Hauptstadt",
+      "artikel": "die",
+      "meaning": "capital city"
+    },
+    {
+      "id": "A2_072",
+      "word": "Haushalt",
+      "artikel": "der",
+      "meaning": "household"
+    },
+    {
+      "id": "A2_073",
+      "word": "Heft",
+      "artikel": "das",
+      "meaning": "notebook"
+    },
+    {
+      "id": "A2_074",
+      "word": "Heizung",
+      "artikel": "die",
+      "meaning": "heating"
+    },
+    {
+      "id": "A2_075",
+      "word": "Hemd",
+      "artikel": "das",
+      "meaning": "shirt"
+    },
+    {
+      "id": "A2_076",
+      "word": "Himmel",
+      "artikel": "der",
+      "meaning": "sky"
+    },
+    {
+      "id": "A2_077",
+      "word": "Homepage",
+      "artikel": "die",
+      "meaning": "homepage"
+    },
+    {
+      "id": "A2_078",
+      "word": "Hose",
+      "artikel": "die",
+      "meaning": "pants"
+    },
+    {
+      "id": "A2_079",
+      "word": "Idee",
+      "artikel": "die",
+      "meaning": "idea"
+    },
+    {
+      "id": "A2_080",
+      "word": "Insel",
+      "artikel": "die",
+      "meaning": "island"
+    },
+    {
+      "id": "A2_081",
+      "word": "Instrument",
+      "artikel": "das",
+      "meaning": "instrument"
+    },
+    {
+      "id": "A2_082",
+      "word": "Interesse",
+      "artikel": "das",
+      "meaning": "interest"
+    },
+    {
+      "id": "A2_083",
+      "word": "Interview",
+      "artikel": "das",
+      "meaning": "interview"
+    },
+    {
+      "id": "A2_084",
+      "word": "Jeans",
+      "artikel": "die",
+      "meaning": "jeans"
+    },
+    {
+      "id": "A2_085",
+      "word": "Jugendherberge",
+      "artikel": "die",
+      "meaning": "youth hostel"
+    },
+    {
+      "id": "A2_086",
+      "word": "Kalender",
+      "artikel": "der",
+      "meaning": "calendar"
+    },
+    {
+      "id": "A2_087",
+      "word": "Kamera",
+      "artikel": "die",
+      "meaning": "camera"
+    },
+    {
+      "id": "A2_088",
+      "word": "Käse",
+      "artikel": "der",
+      "meaning": "cheese"
+    },
+    {
+      "id": "A2_089",
+      "word": "Katze",
+      "artikel": "die",
+      "meaning": "cat"
+    },
+    {
+      "id": "A2_090",
+      "word": "Keller",
+      "artikel": "der",
+      "meaning": "cellar"
+    },
+    {
+      "id": "A2_091",
+      "word": "Kenntnisse",
+      "artikel": "die",
+      "meaning": "knowledge/skills"
+    },
+    {
+      "id": "A2_092",
+      "word": "Kette",
+      "artikel": "die",
+      "meaning": "chain/necklace"
+    },
+    {
+      "id": "A2_093",
+      "word": "Kirche",
+      "artikel": "die",
+      "meaning": "church"
+    },
+    {
+      "id": "A2_094",
+      "word": "Klavier",
+      "artikel": "das",
+      "meaning": "piano"
+    },
+    {
+      "id": "A2_095",
+      "word": "Kleid",
+      "artikel": "das",
+      "meaning": "dress"
+    },
+    {
+      "id": "A2_096",
+      "word": "Kontakt",
+      "artikel": "der",
+      "meaning": "contact"
+    },
+    {
+      "id": "A2_097",
+      "word": "Konzert",
+      "artikel": "das",
+      "meaning": "concert"
+    },
+    {
+      "id": "A2_098",
+      "word": "Körper",
+      "artikel": "der",
+      "meaning": "body"
+    },
+    {
+      "id": "A2_099",
+      "word": "Kosmetik",
+      "artikel": "die",
+      "meaning": "cosmetics"
+    },
+    {
+      "id": "A2_100",
+      "word": "Krankenhaus",
+      "artikel": "das",
+      "meaning": "hospital"
+    },
+    {
+      "id": "A2_101",
+      "word": "Krankenkasse",
+      "artikel": "die",
+      "meaning": "health insurance"
+    },
+    {
+      "id": "A2_102",
+      "word": "Krankheit",
+      "artikel": "die",
+      "meaning": "illness"
+    },
+    {
+      "id": "A2_103",
+      "word": "Kredit",
+      "artikel": "der",
+      "meaning": "loan"
+    },
+    {
+      "id": "A2_104",
+      "word": "Kreuzung",
+      "artikel": "die",
+      "meaning": "intersection"
+    },
+    {
+      "id": "A2_105",
+      "word": "Krimi",
+      "artikel": "der",
+      "meaning": "crime novel/thriller"
+    },
+    {
+      "id": "A2_106",
+      "word": "Kultur",
+      "artikel": "die",
+      "meaning": "culture"
+    },
+    {
+      "id": "A2_107",
+      "word": "Kunst",
+      "artikel": "die",
+      "meaning": "art"
+    },
+    {
+      "id": "A2_108",
+      "word": "Lampe",
+      "artikel": "die",
+      "meaning": "lamp"
+    },
+    {
+      "id": "A2_109",
+      "word": "Landschaft",
+      "artikel": "die",
+      "meaning": "landscape"
+    },
+    {
+      "id": "A2_110",
+      "word": "Link",
+      "artikel": "der",
+      "meaning": "link"
+    },
+    {
+      "id": "A2_111",
+      "word": "Löffel",
+      "artikel": "der",
+      "meaning": "spoon"
+    },
+    {
+      "id": "A2_112",
+      "word": "Lüge",
+      "artikel": "die",
+      "meaning": "lie"
+    },
+    {
+      "id": "A2_113",
+      "word": "Lust",
+      "artikel": "die",
+      "meaning": "desire/mood"
+    },
+    {
+      "id": "A2_114",
+      "word": "Magen",
+      "artikel": "der",
+      "meaning": "stomach"
+    },
+    {
+      "id": "A2_115",
+      "word": "Mailbox",
+      "artikel": "die",
+      "meaning": "mailbox"
+    },
+    {
+      "id": "A2_116",
+      "word": "Mannschaft",
+      "artikel": "die",
+      "meaning": "team"
+    },
+    {
+      "id": "A2_117",
+      "word": "Mantel",
+      "artikel": "der",
+      "meaning": "coat"
+    },
+    {
+      "id": "A2_118",
+      "word": "Markt",
+      "artikel": "der",
+      "meaning": "market"
+    },
+    {
+      "id": "A2_119",
+      "word": "Medikament",
+      "artikel": "das",
+      "meaning": "medication"
+    },
+    {
+      "id": "A2_120",
+      "word": "Meinung",
+      "artikel": "die",
+      "meaning": "opinion"
+    },
+    {
+      "id": "A2_121",
+      "word": "Menge",
+      "artikel": "die",
+      "meaning": "amount"
+    },
+    {
+      "id": "A2_122",
+      "word": "Messe",
+      "artikel": "die",
+      "meaning": "trade fair"
+    },
+    {
+      "id": "A2_123",
+      "word": "Messer",
+      "artikel": "das",
+      "meaning": "knife"
+    },
+    {
+      "id": "A2_124",
+      "word": "Mineralwasser",
+      "artikel": "das",
+      "meaning": "mineral water"
+    },
+    {
+      "id": "A2_125",
+      "word": "Mitarbeiter",
+      "artikel": "der",
+      "meaning": "employee"
+    },
+    {
+      "id": "A2_126",
+      "word": "Mittagessen",
+      "artikel": "das",
+      "meaning": "lunch"
+    },
+    {
+      "id": "A2_127",
+      "word": "Mittel",
+      "artikel": "das",
+      "meaning": "means"
+    },
+    {
+      "id": "A2_128",
+      "word": "Mobiltelefon",
+      "artikel": "das",
+      "meaning": "mobile phone"
+    },
+    {
+      "id": "A2_129",
+      "word": "Mode",
+      "artikel": "die",
+      "meaning": "fashion"
+    },
+    {
+      "id": "A2_130",
+      "word": "Motor",
+      "artikel": "der",
+      "meaning": "engine"
+    },
+    {
+      "id": "A2_131",
+      "word": "Motorroller",
+      "artikel": "der",
+      "meaning": "scooter"
+    },
+    {
+      "id": "A2_132",
+      "word": "Müll",
+      "artikel": "der",
+      "meaning": "trash"
+    },
+    {
+      "id": "A2_133",
+      "word": "Museum",
+      "artikel": "das",
+      "meaning": "museum"
+    },
+    {
+      "id": "A2_134",
+      "word": "Musik",
+      "artikel": "die",
+      "meaning": "music"
+    },
+    {
+      "id": "A2_135",
+      "word": "Mütze",
+      "artikel": "die",
+      "meaning": "cap"
+    },
+    {
+      "id": "A2_136",
+      "word": "Nachbar",
+      "artikel": "der",
+      "meaning": "neighbor"
+    },
+    {
+      "id": "A2_137",
+      "word": "Nachricht",
+      "artikel": "die",
+      "meaning": "message"
+    },
+    {
+      "id": "A2_138",
+      "word": "Nähe",
+      "artikel": "die",
+      "meaning": "vicinity"
+    },
+    {
+      "id": "A2_139",
+      "word": "Natur",
+      "artikel": "die",
+      "meaning": "nature"
+    },
+    {
+      "id": "A2_140",
+      "word": "Note",
+      "artikel": "die",
+      "meaning": "grade"
+    },
+    {
+      "id": "A2_141",
+      "word": "Notiz",
+      "artikel": "die",
+      "meaning": "note"
+    },
+    {
+      "id": "A2_142",
+      "word": "Nudel",
+      "artikel": "die",
+      "meaning": "noodle"
+    },
+    {
+      "id": "A2_143",
+      "word": "Ohr",
+      "artikel": "das",
+      "meaning": "ear"
+    },
+    {
+      "id": "A2_144",
+      "word": "Öl",
+      "artikel": "das",
+      "meaning": "oil"
+    },
+    {
+      "id": "A2_145",
+      "word": "Orange",
+      "artikel": "die",
+      "meaning": "orange"
+    },
+    {
+      "id": "A2_146",
+      "word": "Paar",
+      "artikel": "das",
+      "meaning": "pair"
+    },
+    {
+      "id": "A2_147",
+      "word": "Paket",
+      "artikel": "das",
+      "meaning": "package"
+    },
+    {
+      "id": "A2_148",
+      "word": "Parfüm",
+      "artikel": "das",
+      "meaning": "perfume"
+    },
+    {
+      "id": "A2_149",
+      "word": "Park",
+      "artikel": "der",
+      "meaning": "park"
+    },
+    {
+      "id": "A2_150",
+      "word": "Partnerin",
+      "artikel": "die",
+      "meaning": "partner"
+    },
+    {
+      "id": "A2_151",
+      "word": "Passwort",
+      "artikel": "das",
+      "meaning": "password"
+    },
+    {
+      "id": "A2_152",
+      "word": "Person",
+      "artikel": "die",
+      "meaning": "person"
+    },
+    {
+      "id": "A2_153",
+      "word": "Pferd",
+      "artikel": "das",
+      "meaning": "horse"
+    },
+    {
+      "id": "A2_154",
+      "word": "Pflanze",
+      "artikel": "die",
+      "meaning": "plant"
+    },
+    {
+      "id": "A2_155",
+      "word": "Pizza",
+      "artikel": "die",
+      "meaning": "pizza"
+    },
+    {
+      "id": "A2_156",
+      "word": "Plakat",
+      "artikel": "das",
+      "meaning": "poster"
+    },
+    {
+      "id": "A2_157",
+      "word": "Portion",
+      "artikel": "die",
+      "meaning": "portion"
+    },
+    {
+      "id": "A2_158",
+      "word": "Poster",
+      "artikel": "das",
+      "meaning": "poster"
+    },
+    {
+      "id": "A2_159",
+      "word": "Postkarte",
+      "artikel": "die",
+      "meaning": "postcard"
+    },
+    {
+      "id": "A2_160",
+      "word": "Produkt",
+      "artikel": "das",
+      "meaning": "product"
+    },
+    {
+      "id": "A2_161",
+      "word": "Programm",
+      "artikel": "das",
+      "meaning": "program"
+    },
+    {
+      "id": "A2_162",
+      "word": "Projekt",
+      "artikel": "das",
+      "meaning": "project"
+    },
+    {
+      "id": "A2_163",
+      "word": "Pullover",
+      "artikel": "der",
+      "meaning": "sweater"
+    },
+    {
+      "id": "A2_164",
+      "word": "Qualität",
+      "artikel": "die",
+      "meaning": "quality"
+    },
+    {
+      "id": "A2_165",
+      "word": "Quiz",
+      "artikel": "das",
+      "meaning": "quiz"
+    },
+    {
+      "id": "A2_166",
+      "word": "Radio",
+      "artikel": "das",
+      "meaning": "radio"
+    },
+    {
+      "id": "A2_167",
+      "word": "Rathaus",
+      "artikel": "das",
+      "meaning": "city hall"
+    },
+    {
+      "id": "A2_168",
+      "word": "Rätsel",
+      "artikel": "das",
+      "meaning": "puzzle"
+    },
+    {
+      "id": "A2_169",
+      "word": "Reifen",
+      "artikel": "der",
+      "meaning": "tire"
+    },
+    {
+      "id": "A2_170",
+      "word": "Reihe",
+      "artikel": "die",
+      "meaning": "row"
+    },
+    {
+      "id": "A2_171",
+      "word": "Reinigung",
+      "artikel": "die",
+      "meaning": "dry cleaner"
+    },
+    {
+      "id": "A2_172",
+      "word": "Rentner",
+      "artikel": "der",
+      "meaning": "pensioner"
+    },
+    {
+      "id": "A2_173",
+      "word": "Rest",
+      "artikel": "der",
+      "meaning": "rest/remainder"
+    },
+    {
+      "id": "A2_174",
+      "word": "Rezept",
+      "artikel": "das",
+      "meaning": "recipe"
+    },
+    {
+      "id": "A2_175",
+      "word": "Rind",
+      "artikel": "das",
+      "meaning": "beef/cattle"
+    },
+    {
+      "id": "A2_176",
+      "word": "Ring",
+      "artikel": "der",
+      "meaning": "ring"
+    },
+    {
+      "id": "A2_177",
+      "word": "Rock",
+      "artikel": "der",
+      "meaning": "skirt"
+    },
+    {
+      "id": "A2_178",
+      "word": "Rose",
+      "artikel": "die",
+      "meaning": "rose"
+    },
+    {
+      "id": "A2_179",
+      "word": "Rücken",
+      "artikel": "der",
+      "meaning": "back"
+    },
+    {
+      "id": "A2_180",
+      "word": "Rucksack",
+      "artikel": "der",
+      "meaning": "backpack"
+    },
+    {
+      "id": "A2_181",
+      "word": "Ruhe",
+      "artikel": "die",
+      "meaning": "quiet"
+    },
+    {
+      "id": "A2_182",
+      "word": "Rundgang",
+      "artikel": "der",
+      "meaning": "tour"
+    },
+    {
+      "id": "A2_183",
+      "word": "Sache",
+      "artikel": "die",
+      "meaning": "thing"
+    },
+    {
+      "id": "A2_184",
+      "word": "Schere",
+      "artikel": "die",
+      "meaning": "scissors"
+    },
+    {
+      "id": "A2_185",
+      "word": "Schiff",
+      "artikel": "das",
+      "meaning": "ship"
+    },
+    {
+      "id": "A2_186",
+      "word": "Schirm",
+      "artikel": "der",
+      "meaning": "umbrella"
+    },
+    {
+      "id": "A2_187",
+      "word": "Schlafzimmer",
+      "artikel": "das",
+      "meaning": "bedroom"
+    },
+    {
+      "id": "A2_188",
+      "word": "Schloss",
+      "artikel": "das",
+      "meaning": "castle"
+    },
+    {
+      "id": "A2_189",
+      "word": "Schmerz",
+      "artikel": "der",
+      "meaning": "pain"
+    },
+    {
+      "id": "A2_190",
+      "word": "Schnee",
+      "artikel": "der",
+      "meaning": "snow"
+    },
+    {
+      "id": "A2_191",
+      "word": "Schokolade",
+      "artikel": "die",
+      "meaning": "chocolate"
+    },
+    {
+      "id": "A2_192",
+      "word": "Schwein",
+      "artikel": "das",
+      "meaning": "pig"
+    },
+    {
+      "id": "A2_193",
+      "word": "Seife",
+      "artikel": "die",
+      "meaning": "soap"
+    },
+    {
+      "id": "A2_194",
+      "word": "Seite",
+      "artikel": "die",
+      "meaning": "page"
+    },
+    {
+      "id": "A2_195",
+      "word": "Sendung",
+      "artikel": "die",
+      "meaning": "broadcast"
+    },
+    {
+      "id": "A2_196",
+      "word": "Service",
+      "artikel": "der",
+      "meaning": "service"
+    },
+    {
+      "id": "A2_197",
+      "word": "Situation",
+      "artikel": "die",
+      "meaning": "situation"
+    },
+    {
+      "id": "A2_198",
+      "word": "Ski",
+      "artikel": "der",
+      "meaning": "ski"
+    },
+    {
+      "id": "A2_199",
+      "word": "Spaß",
+      "artikel": "der",
+      "meaning": "fun"
+    },
+    {
+      "id": "A2_200",
+      "word": "Spaziergang",
+      "artikel": "der",
+      "meaning": "walk"
+    },
+    {
+      "id": "A2_201",
+      "word": "Spiel",
+      "artikel": "das",
+      "meaning": "game"
+    },
+    {
+      "id": "A2_202",
+      "word": "Sportplatz",
+      "artikel": "der",
+      "meaning": "sports field"
+    },
+    {
+      "id": "A2_203",
+      "word": "Sprechstunde",
+      "artikel": "die",
+      "meaning": "office hours"
+    },
+    {
+      "id": "A2_204",
+      "word": "Stadtplan",
+      "artikel": "der",
+      "meaning": "city map"
+    },
+    {
+      "id": "A2_205",
+      "word": "Star",
+      "artikel": "der",
+      "meaning": "star (celebrity)"
+    },
+    {
+      "id": "A2_206",
+      "word": "Stiefel",
+      "artikel": "der",
+      "meaning": "boot"
+    },
+    {
+      "id": "A2_207",
+      "word": "Stift",
+      "artikel": "der",
+      "meaning": "pen"
+    },
+    {
+      "id": "A2_208",
+      "word": "Stipendium",
+      "artikel": "das",
+      "meaning": "scholarship"
+    },
+    {
+      "id": "A2_209",
+      "word": "Stockwerk",
+      "artikel": "das",
+      "meaning": "floor"
+    },
+    {
+      "id": "A2_210",
+      "word": "Strand",
+      "artikel": "der",
+      "meaning": "beach"
+    },
+    {
+      "id": "A2_211",
+      "word": "Stress",
+      "artikel": "der",
+      "meaning": "stress"
+    },
+    {
+      "id": "A2_212",
+      "word": "Stück",
+      "artikel": "das",
+      "meaning": "piece"
+    },
+    {
+      "id": "A2_213",
+      "word": "Stuhl",
+      "artikel": "der",
+      "meaning": "chair"
+    },
+    {
+      "id": "A2_214",
+      "word": "Supermarkt",
+      "artikel": "der",
+      "meaning": "supermarket"
+    },
+    {
+      "id": "A2_215",
+      "word": "Suppe",
+      "artikel": "die",
+      "meaning": "soup"
+    },
+    {
+      "id": "A2_216",
+      "word": "Süßigkeiten",
+      "artikel": "die",
+      "meaning": "sweets"
+    },
+    {
+      "id": "A2_217",
+      "word": "Tablet",
+      "artikel": "das",
+      "meaning": "tablet"
+    },
+    {
+      "id": "A2_218",
+      "word": "Tablette",
+      "artikel": "die",
+      "meaning": "pill"
+    },
+    {
+      "id": "A2_219",
+      "word": "Tafel",
+      "artikel": "die",
+      "meaning": "board/bar"
+    },
+    {
+      "id": "A2_220",
+      "word": "Taschengeld",
+      "artikel": "das",
+      "meaning": "pocket money"
+    },
+    {
+      "id": "A2_221",
+      "word": "Tasse",
+      "artikel": "die",
+      "meaning": "cup"
+    },
+    {
+      "id": "A2_222",
+      "word": "Team",
+      "artikel": "das",
+      "meaning": "team"
+    },
+    {
+      "id": "A2_223",
+      "word": "Teller",
+      "artikel": "der",
+      "meaning": "plate"
+    },
+    {
+      "id": "A2_224",
+      "word": "Tennis",
+      "artikel": "das",
+      "meaning": "tennis"
+    },
+    {
+      "id": "A2_225",
+      "word": "Theater",
+      "artikel": "das",
+      "meaning": "theater"
+    },
+    {
+      "id": "A2_226",
+      "word": "Tier",
+      "artikel": "das",
+      "meaning": "animal"
+    },
+    {
+      "id": "A2_227",
+      "word": "Tipp",
+      "artikel": "der",
+      "meaning": "tip"
+    },
+    {
+      "id": "A2_228",
+      "word": "Titel",
+      "artikel": "der",
+      "meaning": "title"
+    },
+    {
+      "id": "A2_229",
+      "word": "Topf",
+      "artikel": "der",
+      "meaning": "pot"
+    },
+    {
+      "id": "A2_230",
+      "word": "Torte",
+      "artikel": "die",
+      "meaning": "cake"
+    },
+    {
+      "id": "A2_231",
+      "word": "Tour",
+      "artikel": "die",
+      "meaning": "tour"
+    },
+    {
+      "id": "A2_232",
+      "word": "Tourist",
+      "artikel": "der",
+      "meaning": "tourist"
+    },
+    {
+      "id": "A2_233",
+      "word": "Training",
+      "artikel": "das",
+      "meaning": "training"
+    },
+    {
+      "id": "A2_234",
+      "word": "Traum",
+      "artikel": "der",
+      "meaning": "dream"
+    },
+    {
+      "id": "A2_235",
+      "word": "T-Shirt",
+      "artikel": "das",
+      "meaning": "T-shirt"
+    },
+    {
+      "id": "A2_236",
+      "word": "Tür",
+      "artikel": "die",
+      "meaning": "door"
+    },
+    {
+      "id": "A2_237",
+      "word": "Übersetzung",
+      "artikel": "die",
+      "meaning": "translation"
+    },
+    {
+      "id": "A2_238",
+      "word": "Umzug",
+      "artikel": "der",
+      "meaning": "move (relocation)"
+    },
+    {
+      "id": "A2_239",
+      "word": "Unfall",
+      "artikel": "der",
+      "meaning": "accident"
+    },
+    {
+      "id": "A2_240",
+      "word": "Universität",
+      "artikel": "die",
+      "meaning": "university"
+    },
+    {
+      "id": "A2_241",
+      "word": "Unterkunft",
+      "artikel": "die",
+      "meaning": "accommodation"
+    },
+    {
+      "id": "A2_242",
+      "word": "Unterschied",
+      "artikel": "der",
+      "meaning": "difference"
+    },
+    {
+      "id": "A2_243",
+      "word": "Veranstaltung",
+      "artikel": "die",
+      "meaning": "event"
+    },
+    {
+      "id": "A2_244",
+      "word": "Verkehr",
+      "artikel": "der",
+      "meaning": "traffic"
+    },
+    {
+      "id": "A2_245",
+      "word": "Verkehrsmittel",
+      "artikel": "das",
+      "meaning": "means of transportation"
+    },
+    {
+      "id": "A2_246",
+      "word": "Verspätung",
+      "artikel": "die",
+      "meaning": "delay"
+    },
+    {
+      "id": "A2_247",
+      "word": "Vertrag",
+      "artikel": "der",
+      "meaning": "contract"
+    },
+    {
+      "id": "A2_248",
+      "word": "Vogel",
+      "artikel": "der",
+      "meaning": "bird"
+    },
+    {
+      "id": "A2_249",
+      "word": "Volleyball",
+      "artikel": "der",
+      "meaning": "volleyball"
+    },
+    {
+      "id": "A2_250",
+      "word": "Vorschlag",
+      "artikel": "der",
+      "meaning": "suggestion"
+    },
+    {
+      "id": "A2_251",
+      "word": "Wagen",
+      "artikel": "der",
+      "meaning": "car"
+    },
+    {
+      "id": "A2_252",
+      "word": "Wald",
+      "artikel": "der",
+      "meaning": "forest"
+    },
+    {
+      "id": "A2_253",
+      "word": "Wäsche",
+      "artikel": "die",
+      "meaning": "laundry"
+    },
+    {
+      "id": "A2_254",
+      "word": "Webseite",
+      "artikel": "die",
+      "meaning": "website"
+    },
+    {
+      "id": "A2_255",
+      "word": "Weg",
+      "artikel": "der",
+      "meaning": "way"
+    },
+    {
+      "id": "A2_256",
+      "word": "Werkstatt",
+      "artikel": "die",
+      "meaning": "workshop"
+    },
+    {
+      "id": "A2_257",
+      "word": "Wettbewerb",
+      "artikel": "der",
+      "meaning": "competition"
+    },
+    {
+      "id": "A2_258",
+      "word": "Witz",
+      "artikel": "der",
+      "meaning": "joke"
+    },
+    {
+      "id": "A2_259",
+      "word": "Wohnzimmer",
+      "artikel": "das",
+      "meaning": "living room"
+    },
+    {
+      "id": "A2_260",
+      "word": "Wolke",
+      "artikel": "die",
+      "meaning": "cloud"
+    },
+    {
+      "id": "A2_261",
+      "word": "Workshop",
+      "artikel": "der",
+      "meaning": "workshop"
+    },
+    {
+      "id": "A2_262",
+      "word": "Wunsch",
+      "artikel": "der",
+      "meaning": "wish"
+    },
+    {
+      "id": "A2_263",
+      "word": "Wurst",
+      "artikel": "die",
+      "meaning": "sausage"
+    },
+    {
+      "id": "A2_264",
+      "word": "Zahl",
+      "artikel": "die",
+      "meaning": "number"
+    },
+    {
+      "id": "A2_265",
+      "word": "Zahn",
+      "artikel": "der",
+      "meaning": "tooth"
+    },
+    {
+      "id": "A2_266",
+      "word": "Zeitschrift",
+      "artikel": "die",
+      "meaning": "magazine"
+    },
+    {
+      "id": "A2_267",
+      "word": "Zelt",
+      "artikel": "das",
+      "meaning": "tent"
+    },
+    {
+      "id": "A2_268",
+      "word": "Zentrum",
+      "artikel": "das",
+      "meaning": "center"
+    },
+    {
+      "id": "A2_269",
+      "word": "Zettel",
+      "artikel": "der",
+      "meaning": "note (slip of paper)"
+    },
+    {
+      "id": "A2_270",
+      "word": "Zeugnis",
+      "artikel": "das",
+      "meaning": "report card"
+    },
+    {
+      "id": "A2_271",
+      "word": "Ziel",
+      "artikel": "das",
+      "meaning": "goal"
+    },
+    {
+      "id": "A2_272",
+      "word": "Zirkus",
+      "artikel": "der",
+      "meaning": "circus"
+    },
+    {
+      "id": "A2_273",
+      "word": "Zitrone",
+      "artikel": "die",
+      "meaning": "lemon"
+    },
+    {
+      "id": "A2_274",
+      "word": "Zoo",
+      "artikel": "der",
+      "meaning": "zoo"
+    },
+    {
+      "id": "A2_275",
+      "word": "Zucker",
+      "artikel": "der",
+      "meaning": "sugar"
+    }
+  ]
+}
