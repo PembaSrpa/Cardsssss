@@ -14,8 +14,8 @@ export interface ThemeColors {
 }
 
 const LIGHT: ThemeColors = {
-  background: "#F5F5F5", // neutral-100
-  backgroundAlt: "#FFFFFF", // white
+  background: "#FFFFFF", // white
+  backgroundAlt: "#F5F5F5", // neutral-100
   text: "#262626", // neutral-800
   textMuted: "#404040", // neutral-700
   border: "#D4D4D4", // neutral-300

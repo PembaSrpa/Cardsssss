@@ -21,6 +21,7 @@ const FEEDBACK_INCORRECT = "#ef4444";
 
 interface ArtikelCardProps {
   word: string;
+  correctArtikel: GermanArtikel;
   feedbackState: FeedbackState;
   onSwipe: (artikel: GermanArtikel) => void;
 }
@@ -28,7 +29,7 @@ interface ArtikelCardProps {
 const SCREEN_WIDTH = Dimensions.get("window").width;
 const SWIPE_THRESHOLD = 100;
 
-export function ArtikelCard({ word, feedbackState, onSwipe }: ArtikelCardProps): React.JSX.Element {
+export function ArtikelCard({ word, correctArtikel, feedbackState, onSwipe }: ArtikelCardProps): React.JSX.Element {
   const { colors } = useTheme();
   const translateX = useSharedValue<number>(0);
   const translateY = useSharedValue<number>(0);
@@ -108,17 +109,52 @@ export function ArtikelCard({ word, feedbackState, onSwipe }: ArtikelCardProps):
           />
           <Text style={[styles.word, { color: colors.text }]}>{word}</Text>
           {feedbackState !== "idle" && (
-            <Text style={[styles.resultMark, { color: isCorrect ? FEEDBACK_CORRECT : FEEDBACK_INCORRECT }]}>
-              {isCorrect ? "✓" : "✕"}
-            </Text>
+            <>
+              <Text style={[styles.resultMark, { color: isCorrect ? FEEDBACK_CORRECT : FEEDBACK_INCORRECT }]}>
+                {isCorrect ? "✓" : "✕"}
+              </Text>
+              <Text style={[styles.answerLabel, { color: isCorrect ? FEEDBACK_CORRECT : FEEDBACK_INCORRECT }]}>
+                {correctArtikel} {word}
+              </Text>
+            </>
           )}
         </Animated.View>
       </GestureDetector>
 
       <View style={styles.hintRow}>
-        <Text style={[styles.hintLabel, { color: colors.textMuted, borderColor: colors.border }]}>← der</Text>
-        <Text style={[styles.hintLabel, { color: colors.textMuted, borderColor: colors.border }]}>↓ die</Text>
-        <Text style={[styles.hintLabel, { color: colors.textMuted, borderColor: colors.border }]}>das →</Text>
+        <Text
+          style={[
+            styles.hintLabel,
+            {
+              color: feedbackState !== "idle" && correctArtikel === "der" ? FEEDBACK_CORRECT : colors.textMuted,
+              borderColor: feedbackState !== "idle" && correctArtikel === "der" ? FEEDBACK_CORRECT : colors.border,
+            },
+          ]}
+        >
+          ← der
+        </Text>
+        <Text
+          style={[
+            styles.hintLabel,
+            {
+              color: feedbackState !== "idle" && correctArtikel === "die" ? FEEDBACK_CORRECT : colors.textMuted,
+              borderColor: feedbackState !== "idle" && correctArtikel === "die" ? FEEDBACK_CORRECT : colors.border,
+            },
+          ]}
+        >
+          ↓ die
+        </Text>
+        <Text
+          style={[
+            styles.hintLabel,
+            {
+              color: feedbackState !== "idle" && correctArtikel === "das" ? FEEDBACK_CORRECT : colors.textMuted,
+              borderColor: feedbackState !== "idle" && correctArtikel === "das" ? FEEDBACK_CORRECT : colors.border,
+            },
+          ]}
+        >
+          das →
+        </Text>
       </View>
     </View>
   );
@@ -154,6 +190,12 @@ const styles = StyleSheet.create({
     fontFamily: FONTS.bold,
     fontSize: FONT_SIZES.xl,
     marginTop: 16,
+  },
+  answerLabel: {
+    fontFamily: FONTS.medium,
+    fontSize: FONT_SIZES.md,
+    marginTop: 8,
+    letterSpacing: 1,
   },
   hintRow: {
     flexDirection: "row",

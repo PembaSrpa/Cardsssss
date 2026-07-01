@@ -1,25 +1,36 @@
-import React, { useState } from "react";
-import { View, Text, StyleSheet, Pressable } from "react-native";
-import { router, useLocalSearchParams } from "expo-router";
+import React, { useEffect, useState } from "react";
+import { View, Text, StyleSheet } from "react-native";
+import { useLocalSearchParams } from "expo-router";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useTheme } from "../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../theme/typography";
 import { ArtikelCard, FeedbackState } from "../../components/ArtikelCard";
+import { NavBar } from "../../components/NavBar";
+import { ThemeToggle } from "../../components/ThemeToggle";
 import { Scales } from "../../components/Scales";
 import { useGermanData, GermanArtikel } from "../../hooks/useGermanData";
 import { useProgress } from "../../hooks/useProgress";
+import { UI_STORAGE_KEYS } from "../../store/uiStore";
 
 export default function GermanGameScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const params = useLocalSearchParams<{ level: string }>();
+  const params = useLocalSearchParams<{ level: string; resumeIndex?: string }>();
   const level = params.level ?? "";
+  const resumeIndex = params.resumeIndex ? parseInt(params.resumeIndex, 10) : 0;
 
   const { words, isLoading } = useGermanData(level);
   const { recordGermanAnswer } = useProgress();
 
-  const [index, setIndex] = useState<number>(0);
+  const [index, setIndex] = useState<number>(resumeIndex);
   const [score, setScore] = useState<number>(0);
   const [streak, setStreak] = useState<number>(0);
   const [feedbackState, setFeedbackState] = useState<FeedbackState>("idle");
+
+  useEffect(() => {
+    if (!level) return;
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL, level);
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX, String(index));
+  }, [level, index]);
 
   const currentWord = words[index];
 
@@ -30,11 +41,10 @@ export default function GermanGameScreen(): React.JSX.Element {
     setScore((s) => s + (wasCorrect ? 1 : 0));
     setStreak((s) => (wasCorrect ? s + 1 : 0));
     await recordGermanAnswer(currentWord.id, wasCorrect);
-
     setTimeout(() => {
       setFeedbackState("idle");
       setIndex((prev) => (prev + 1 < words.length ? prev + 1 : prev));
-    }, 350);
+    }, 700);
   };
 
   if (isLoading) {
@@ -48,12 +58,8 @@ export default function GermanGameScreen(): React.JSX.Element {
   return (
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right", "bottom"]} />
-
       <View style={styles.content}>
-        <Pressable onPress={() => router.back()}>
-          <Text style={[styles.back, { color: colors.text }]}>← back</Text>
-        </Pressable>
-
+        <NavBar title={level} right={<ThemeToggle />} />
         <View style={styles.statsBar}>
           <Text style={[styles.statsText, { color: colors.text }]}>SCORE {score}</Text>
           <Text style={[styles.statsText, { color: colors.text }]}>STREAK {streak}</Text>
@@ -61,10 +67,14 @@ export default function GermanGameScreen(): React.JSX.Element {
             {Math.min(index + 1, words.length)} / {words.length}
           </Text>
         </View>
-
         <View style={styles.cardArea}>
           {currentWord ? (
-            <ArtikelCard word={currentWord.word} feedbackState={feedbackState} onSwipe={handleSwipe} />
+            <ArtikelCard
+              word={currentWord.word}
+              correctArtikel={currentWord.artikel}
+              feedbackState={feedbackState}
+              onSwipe={handleSwipe}
+            />
           ) : (
             <Text style={[styles.empty, { color: colors.textMuted }]}>
               session complete — {score} / {words.length}
@@ -77,43 +87,11 @@ export default function GermanGameScreen(): React.JSX.Element {
 }
 
 const styles = StyleSheet.create({
-  root: {
-    flex: 1,
-  },
-  loading: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.base,
-    marginTop: 80,
-    textAlign: "center",
-  },
-  content: {
-    flex: 1,
-    paddingHorizontal: 40,
-    paddingTop: 60,
-    paddingBottom: 40,
-  },
-  back: {
-    fontFamily: FONTS.medium,
-    fontSize: FONT_SIZES.sm,
-    marginBottom: 18,
-  },
-  statsBar: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginBottom: 24,
-  },
-  statsText: {
-    fontFamily: FONTS.medium,
-    fontSize: FONT_SIZES.xs,
-    letterSpacing: 1,
-  },
-  cardArea: {
-    flex: 1,
-    justifyContent: "center",
-  },
-  empty: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.base,
-    textAlign: "center",
-  },
+  root: { flex: 1 },
+  loading: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, marginTop: 80, textAlign: "center" },
+  content: { flex: 1, paddingHorizontal: 40, paddingTop: 56, paddingBottom: 40 },
+  statsBar: { flexDirection: "row", justifyContent: "space-between", marginBottom: 24 },
+  statsText: { fontFamily: FONTS.medium, fontSize: FONT_SIZES.xs, letterSpacing: 1 },
+  cardArea: { flex: 1, justifyContent: "center" },
+  empty: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, textAlign: "center" },
 });

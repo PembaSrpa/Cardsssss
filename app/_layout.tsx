@@ -1,4 +1,4 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useEffect } from "react";
 import { View } from "react-native";
 import { Stack } from "expo-router";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
@@ -15,7 +15,6 @@ SplashScreen.preventAutoHideAsync().catch(() => undefined);
 
 function ThemedStack(): React.JSX.Element {
   const { colors } = useTheme();
-
   return (
     <View style={{ flex: 1, backgroundColor: colors.background }}>
       <Stack
@@ -29,25 +28,28 @@ function ThemedStack(): React.JSX.Element {
   );
 }
 
-export default function RootLayout(): React.JSX.Element | null {
-  const [fontsLoaded] = useFonts({
+export default function RootLayout(): React.JSX.Element {
+  const [fontsLoaded, fontError] = useFonts({
     JetBrainsMono_400Regular,
     JetBrainsMono_500Medium,
     JetBrainsMono_700Bold,
   });
 
-  const onLayoutRootView = useCallback(async () => {
-    if (fontsLoaded) {
-      await SplashScreen.hideAsync();
-    }
-  }, [fontsLoaded]);
+  // Hide splash as soon as fonts finish OR fail — never block forever
+  const ready = fontsLoaded || !!fontError;
 
-  if (!fontsLoaded) {
-    return null;
+  useEffect(() => {
+    if (ready) {
+      SplashScreen.hideAsync().catch(() => undefined);
+    }
+  }, [ready]);
+
+  if (!ready) {
+    return <View style={{ flex: 1 }} />;
   }
 
   return (
-    <GestureHandlerRootView style={{ flex: 1 }} onLayout={onLayoutRootView}>
+    <GestureHandlerRootView style={{ flex: 1 }}>
       <ThemeProvider>
         <ThemedStack />
       </ThemeProvider>

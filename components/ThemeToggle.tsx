@@ -1,7 +1,7 @@
 import React from "react";
-import { Pressable, Text, StyleSheet } from "react-native";
+import { Pressable, StyleSheet } from "react-native";
+import { Ionicons } from "@expo/vector-icons";
 import { useTheme } from "../theme/ThemeContext";
-import { FONT_SIZES } from "../theme/typography";
 
 export function ThemeToggle(): React.JSX.Element {
   const { mode, colors, toggleTheme } = useTheme();
@@ -11,7 +11,11 @@ export function ThemeToggle(): React.JSX.Element {
       onPress={toggleTheme}
       style={[styles.toggle, { borderColor: colors.border, backgroundColor: colors.backgroundAlt }]}
     >
-      <Text style={[styles.icon, { color: colors.text }]}>{mode === "dark" ? "☾" : "☀"}</Text>
+      <Ionicons
+        name={mode === "dark" ? "moon-outline" : "sunny-outline"}
+        size={18}
+        color={colors.text}
+      />
     </Pressable>
   );
 }
@@ -24,8 +28,5 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     alignItems: "center",
     justifyContent: "center",
-  },
-  icon: {
-    fontSize: FONT_SIZES.md,
   },
 });

@@ -1,6 +1,5 @@
-import React from "react";
+import React, { useMemo } from "react";
 import { View, StyleSheet, Dimensions } from "react-native";
-import Svg, { Line, Rect, ClipPath, Defs } from "react-native-svg";
 import { useTheme } from "../theme/ThemeContext";
 
 export type ScalesVariant = "spacious" | "compact";
@@ -10,65 +9,64 @@ const WIDTH_BY_VARIANT: Record<ScalesVariant, number> = {
   compact: 16,
 };
 
-interface StripedBarProps {
-  width: number;
-  height: number;
+const STRIPE_GAP = 8;
+const STRIPE_THICKNESS = 1;
+const STRIPE_LENGTH = 40; // long enough to cross the bar at 45deg for any reasonable width
+
+interface StripedEdgeProps {
+  thickness: number;
   color: string;
   borderColor: string;
+  orientation: "vertical" | "horizontal";
   borderSide: "left" | "right" | "top" | "bottom";
 }
 
-function StripedBar({ width, height, color, borderColor, borderSide }: StripedBarProps): React.JSX.Element {
-  const lines: React.JSX.Element[] = [];
-  const step = 8;
-  const span = width + height;
-  for (let offset = -height; offset < span; offset += step) {
-    lines.push(
-      <Line
-        key={offset}
-        x1={offset}
-        y1={0}
-        x2={offset + height}
-        y2={height}
-        stroke={color}
-        strokeWidth={1}
-      />
-    );
-  }
+// Pure-View diagonal stripe pattern. Avoids react-native-svg's <ClipPath>,
+// which has known reliability/freeze issues on Android — this renders fine
+// (and identically) on both native and web with no native module risk.
+function StripedEdge({ thickness, color, borderColor, orientation, borderSide }: StripedEdgeProps): React.JSX.Element {
+  const window = Dimensions.get("window");
+  const length = orientation === "vertical" ? window.height : window.width;
 
-  const borderStyle: Record<string, number> = {
-    left: borderSide === "right" ? 1 : 0,
-    right: borderSide === "left" ? 1 : 0,
-    top: borderSide === "bottom" ? 1 : 0,
-    bottom: borderSide === "top" ? 1 : 0,
+  const stripeCount = Math.ceil((length + STRIPE_LENGTH) / STRIPE_GAP);
+  const offsets = useMemo(
+    () => Array.from({ length: stripeCount }, (_, i) => i * STRIPE_GAP - STRIPE_LENGTH / 2),
+    [stripeCount]
+  );
+
+  const borderStyle = {
+    borderLeftWidth: borderSide === "right" ? StyleSheet.hairlineWidth * 2 : 0,
+    borderRightWidth: borderSide === "left" ? StyleSheet.hairlineWidth * 2 : 0,
+    borderTopWidth: borderSide === "bottom" ? StyleSheet.hairlineWidth * 2 : 0,
+    borderBottomWidth: borderSide === "top" ? StyleSheet.hairlineWidth * 2 : 0,
+    borderColor,
   };
 
   return (
     <View
       pointerEvents="none"
       style={[
-        styles.barBase,
-        {
-          width,
-          height,
-          borderLeftWidth: borderStyle.left,
-          borderRightWidth: borderStyle.right,
-          borderTopWidth: borderStyle.top,
-          borderBottomWidth: borderStyle.bottom,
-          borderColor,
-        },
+        styles.edgeBase,
+        borderStyle,
+        orientation === "vertical" ? { width: thickness, height: length } : { width: length, height: thickness },
       ]}
     >
-      <Svg width={width} height={height}>
-        <Defs>
-          <ClipPath id="clip">
-            <Rect x={0} y={0} width={width} height={height} />
-          </ClipPath>
-        </Defs>
-        <Rect x={0} y={0} width={width} height={height} clipPath="url(#clip)">
-          {lines}
-        </Rect>
-      </Svg>
+      {offsets.map((offset) => (
+        <View
+          key={offset}
+          style={[
+            styles.stripe,
+            {
+              backgroundColor: color,
+              width: STRIPE_LENGTH,
+              height: STRIPE_THICKNESS,
+              top: orientation === "vertical" ? offset : thickness / 2,
+              left: orientation === "vertical" ? -STRIPE_LENGTH / 2 + thickness / 2 : offset,
+              transform: [{ rotate: "45deg" }],
+            },
+          ]}
+        />
+      ))}
     </View>
   );
 }
@@ -80,25 +78,41 @@ interface ScalesProps {
 
 export function Scales({ variant = "compact", edges = ["left", "right"] }: ScalesProps = {}): React.JSX.Element {
   const { colors } = useTheme();
-  const window = Dimensions.get("window");
-  const barW = WIDTH_BY_VARIANT[variant];
-  const patternColor = colors.border;
+  const thickness = WIDTH_BY_VARIANT[variant];
 
   return (
     <>
       {edges.includes("left") && (
-        <View style={[styles.edge, { left: 0, top: 0, bottom: 0, width: barW }]}>
-          <StripedBar width={barW} height={window.height} color={patternColor} borderColor={colors.border} borderSide="right" />
+        <View style={[styles.posLeft, { width: thickness }]}>
+          <StripedEdge
+            thickness={thickness}
+            color={colors.border}
+            borderColor={colors.border}
+            orientation="vertical"
+            borderSide="right"
+          />
         </View>
       )}
       {edges.includes("right") && (
-        <View style={[styles.edge, { right: 0, top: 0, bottom: 0, width: barW }]}>
-          <StripedBar width={barW} height={window.height} color={patternColor} borderColor={colors.border} borderSide="left" />
+        <View style={[styles.posRight, { width: thickness }]}>
+          <StripedEdge
+            thickness={thickness}
+            color={colors.border}
+            borderColor={colors.border}
+            orientation="vertical"
+            borderSide="left"
+          />
         </View>
       )}
       {edges.includes("bottom") && (
-        <View style={[styles.edgeBottom, { left: 0, right: 0, bottom: 0, height: barW }]}>
-          <StripedBar width={window.width} height={barW} color={patternColor} borderColor={colors.border} borderSide="top" />
+        <View style={[styles.posBottom, { height: thickness }]}>
+          <StripedEdge
+            thickness={thickness}
+            color={colors.border}
+            borderColor={colors.border}
+            orientation="horizontal"
+            borderSide="top"
+          />
         </View>
       )}
     </>
@@ -106,15 +120,31 @@ export function Scales({ variant = "compact", edges = ["left", "right"] }: Scale
 }
 
 const styles = StyleSheet.create({
-  barBase: {
+  posLeft: {
+    position: "absolute",
+    left: 0,
+    top: 0,
+    bottom: 0,
+    zIndex: 10,
+  },
+  posRight: {
+    position: "absolute",
+    right: 0,
+    top: 0,
+    bottom: 0,
+    zIndex: 10,
+  },
+  posBottom: {
+    position: "absolute",
+    left: 0,
+    right: 0,
+    bottom: 0,
+    zIndex: 10,
+  },
+  edgeBase: {
     overflow: "hidden",
   },
-  edge: {
+  stripe: {
     position: "absolute",
-    zIndex: 10,
-  },
-  edgeBottom: {
-    position: "absolute",
-    zIndex: 10,
   },
 });
