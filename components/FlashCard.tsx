@@ -87,6 +87,8 @@ export function FlashCard({ word, flipped, onPress }: FlashCardProps): React.JSX
 const styles = StyleSheet.create({
   wrapper: {
     width: "100%",
+    maxWidth: 420,
+    alignSelf: "center",
     aspectRatio: 0.72,
   },
   face: {

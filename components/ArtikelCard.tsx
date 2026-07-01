@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { View, Text, StyleSheet, Dimensions } from "react-native";
+import { View, Text, StyleSheet, useWindowDimensions } from "react-native";
 import { Gesture, GestureDetector } from "react-native-gesture-handler";
 import Animated, {
   useSharedValue,
@@ -26,11 +26,11 @@ interface ArtikelCardProps {
   onSwipe: (artikel: GermanArtikel) => void;
 }
 
-const SCREEN_WIDTH = Dimensions.get("window").width;
 const SWIPE_THRESHOLD = 100;
 
 export function ArtikelCard({ word, correctArtikel, feedbackState, onSwipe }: ArtikelCardProps): React.JSX.Element {
   const { colors } = useTheme();
+  const { width: screenWidth } = useWindowDimensions();
   const translateX = useSharedValue<number>(0);
   const translateY = useSharedValue<number>(0);
   const borderOpacity = useSharedValue<number>(0);
@@ -60,7 +60,7 @@ export function ArtikelCard({ word, correctArtikel, feedbackState, onSwipe }: Ar
 
       if (absX > SWIPE_THRESHOLD && absX > absY) {
         const direction = translationX > 0 ? "das" : "der";
-        translateX.value = withTiming(translationX > 0 ? SCREEN_WIDTH : -SCREEN_WIDTH, { duration: 250 });
+        translateX.value = withTiming(translationX > 0 ? screenWidth : -screenWidth, { duration: 250 });
         runOnJS(handleSwipeEnd)(direction as GermanArtikel);
       } else if (translationY > SWIPE_THRESHOLD && absY > absX) {
         translateY.value = withTiming(600, { duration: 250 });
@@ -163,6 +163,8 @@ export function ArtikelCard({ word, correctArtikel, feedbackState, onSwipe }: Ar
 const styles = StyleSheet.create({
   wrapper: {
     width: "100%",
+    maxWidth: 420,
+    alignSelf: "center",
     alignItems: "center",
   },
   card: {

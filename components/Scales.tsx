@@ -1,5 +1,5 @@
 import React, { useMemo } from "react";
-import { View, StyleSheet, Dimensions } from "react-native";
+import { View, StyleSheet, useWindowDimensions } from "react-native";
 import { useTheme } from "../theme/ThemeContext";
 
 export type ScalesVariant = "spacious" | "compact";
@@ -25,7 +25,7 @@ interface StripedEdgeProps {
 // which has known reliability/freeze issues on Android — this renders fine
 // (and identically) on both native and web with no native module risk.
 function StripedEdge({ thickness, color, borderColor, orientation, borderSide }: StripedEdgeProps): React.JSX.Element {
-  const window = Dimensions.get("window");
+  const window = useWindowDimensions();
   const length = orientation === "vertical" ? window.height : window.width;
 
   const stripeCount = Math.ceil((length + STRIPE_LENGTH) / STRIPE_GAP);

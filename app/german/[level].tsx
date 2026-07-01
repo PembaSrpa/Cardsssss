@@ -1,20 +1,23 @@
-import React, { useEffect, useState } from "react";
-import { View, Text, StyleSheet } from "react-native";
-import { useLocalSearchParams } from "expo-router";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { useTheme } from "../../theme/ThemeContext";
-import { FONTS, FONT_SIZES } from "../../theme/typography";
+import { useLocalSearchParams } from "expo-router";
+import React, { useEffect, useState } from "react";
+import { StyleSheet, Text, View } from "react-native";
 import { ArtikelCard, FeedbackState } from "../../components/ArtikelCard";
 import { NavBar } from "../../components/NavBar";
-import { ThemeToggle } from "../../components/ThemeToggle";
 import { Scales } from "../../components/Scales";
-import { useGermanData, GermanArtikel } from "../../hooks/useGermanData";
+import { ThemeToggle } from "../../components/ThemeToggle";
+import { GermanArtikel, useGermanData } from "../../hooks/useGermanData";
 import { useProgress } from "../../hooks/useProgress";
 import { UI_STORAGE_KEYS } from "../../store/uiStore";
+import { useTheme } from "../../theme/ThemeContext";
+import { FONTS, FONT_SIZES } from "../../theme/typography";
 
 export default function GermanGameScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const params = useLocalSearchParams<{ level: string; resumeIndex?: string }>();
+  const params = useLocalSearchParams<{
+    level: string;
+    resumeIndex?: string;
+  }>();
   const level = params.level ?? "";
   const resumeIndex = params.resumeIndex ? parseInt(params.resumeIndex, 10) : 0;
 
@@ -50,7 +53,9 @@ export default function GermanGameScreen(): React.JSX.Element {
   if (isLoading) {
     return (
       <View style={[styles.root, { backgroundColor: colors.background }]}>
-        <Text style={[styles.loading, { color: colors.textMuted }]}>loading…</Text>
+        <Text style={[styles.loading, { color: colors.textMuted }]}>
+          loading…
+        </Text>
       </View>
     );
   }
@@ -61,8 +66,12 @@ export default function GermanGameScreen(): React.JSX.Element {
       <View style={styles.content}>
         <NavBar title={level} right={<ThemeToggle />} />
         <View style={styles.statsBar}>
-          <Text style={[styles.statsText, { color: colors.text }]}>SCORE {score}</Text>
-          <Text style={[styles.statsText, { color: colors.text }]}>STREAK {streak}</Text>
+          <Text style={[styles.statsText, { color: colors.text }]}>
+            SCORE {score}
+          </Text>
+          <Text style={[styles.statsText, { color: colors.text }]}>
+            STREAK {streak}
+          </Text>
           <Text style={[styles.statsText, { color: colors.textMuted }]}>
             {Math.min(index + 1, words.length)} / {words.length}
           </Text>
@@ -88,10 +97,32 @@ export default function GermanGameScreen(): React.JSX.Element {
 
 const styles = StyleSheet.create({
   root: { flex: 1 },
-  loading: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, marginTop: 80, textAlign: "center" },
-  content: { flex: 1, paddingHorizontal: 40, paddingTop: 56, paddingBottom: 40 },
-  statsBar: { flexDirection: "row", justifyContent: "space-between", marginBottom: 24 },
-  statsText: { fontFamily: FONTS.medium, fontSize: FONT_SIZES.xs, letterSpacing: 1 },
-  cardArea: { flex: 1, justifyContent: "center" },
-  empty: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, textAlign: "center" },
+  loading: {
+    fontFamily: FONTS.regular,
+    fontSize: FONT_SIZES.base,
+    marginTop: 80,
+    textAlign: "center",
+  },
+  content: {
+    flex: 1,
+    paddingHorizontal: 40,
+    paddingTop: 56,
+    paddingBottom: 40,
+  },
+  statsBar: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginBottom: 24,
+  },
+  statsText: {
+    fontFamily: FONTS.medium,
+    fontSize: FONT_SIZES.xs,
+    letterSpacing: 1,
+  },
+  cardArea: { flex: 1, justifyContent: "center", alignItems: "center" },
+  empty: {
+    fontFamily: FONTS.regular,
+    fontSize: FONT_SIZES.base,
+    textAlign: "center",
+  },
 });
