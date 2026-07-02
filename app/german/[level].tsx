@@ -1,39 +1,92 @@
-import AsyncStorage from "@react-native-async-storage/async-storage";
-import { useLocalSearchParams } from "expo-router";
 import React, { useEffect, useState } from "react";
-import { StyleSheet, Text, View } from "react-native";
-import { ArtikelCard, FeedbackState } from "../../components/ArtikelCard";
-import { NavBar } from "../../components/NavBar";
-import { Scales } from "../../components/Scales";
-import { ThemeToggle } from "../../components/ThemeToggle";
-import { GermanArtikel, useGermanData } from "../../hooks/useGermanData";
-import { useProgress } from "../../hooks/useProgress";
-import { UI_STORAGE_KEYS } from "../../store/uiStore";
+import { View, Text, StyleSheet } from "react-native";
+import { useLocalSearchParams } from "expo-router";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useTheme } from "../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../theme/typography";
+import { ArtikelCard, FeedbackState } from "../../components/ArtikelCard";
+import { NavBar } from "../../components/NavBar";
+import { ThemeToggle } from "../../components/ThemeToggle";
+import { Scales } from "../../components/Scales";
+import { getGermanLevelWords, shuffleGermanWords, GermanArtikel, GermanWord } from "../../hooks/useGermanData";
+import { useProgress } from "../../hooks/useProgress";
+import { UI_STORAGE_KEYS } from "../../store/uiStore";
+
+function germanOrderKey(level: string): string {
+  return `cards_ui_german_order_${level}`;
+}
 
 export default function GermanGameScreen(): React.JSX.Element {
   const { colors } = useTheme();
   const params = useLocalSearchParams<{
     level: string;
     resumeIndex?: string;
+    resumeScore?: string;
+    resumeStreak?: string;
   }>();
   const level = params.level ?? "";
   const resumeIndex = params.resumeIndex ? parseInt(params.resumeIndex, 10) : 0;
+  const resumeScore = params.resumeScore ? parseInt(params.resumeScore, 10) : 0;
+  const resumeStreak = params.resumeStreak ? parseInt(params.resumeStreak, 10) : 0;
 
-  const { words, isLoading } = useGermanData(level);
   const { recordGermanAnswer } = useProgress();
 
+  const [words, setWords] = useState<GermanWord[]>([]);
+  const [wordsReady, setWordsReady] = useState<boolean>(false);
   const [index, setIndex] = useState<number>(resumeIndex);
-  const [score, setScore] = useState<number>(0);
-  const [streak, setStreak] = useState<number>(0);
+  const [score, setScore] = useState<number>(resumeScore);
+  const [streak, setStreak] = useState<number>(resumeStreak);
   const [feedbackState, setFeedbackState] = useState<FeedbackState>("idle");
+
+  // Load (or create) a stable word order for this level. Reusing the same
+  // order across visits — rather than reshuffling every time — is what
+  // makes "word 112" actually mean the same word when resuming.
+  useEffect(() => {
+    if (!level) return;
+    let isMounted = true;
+
+    async function loadOrder(): Promise<void> {
+      setWordsReady(false);
+      const rawWords = getGermanLevelWords(level);
+      const savedOrderRaw = await AsyncStorage.getItem(germanOrderKey(level));
+      let ordered: GermanWord[] | null = null;
+
+      if (savedOrderRaw) {
+        try {
+          const savedIds: string[] = JSON.parse(savedOrderRaw);
+          const byId = new Map(rawWords.map((w) => [w.id, w] as const));
+          if (savedIds.length === rawWords.length && savedIds.every((id) => byId.has(id))) {
+            ordered = savedIds.map((id) => byId.get(id)!);
+          }
+        } catch {
+          ordered = null;
+        }
+      }
+
+      if (!ordered) {
+        ordered = shuffleGermanWords(rawWords);
+        await AsyncStorage.setItem(germanOrderKey(level), JSON.stringify(ordered.map((w) => w.id)));
+      }
+
+      if (isMounted) {
+        setWords(ordered);
+        setWordsReady(true);
+      }
+    }
+
+    loadOrder();
+    return () => {
+      isMounted = false;
+    };
+  }, [level]);
 
   useEffect(() => {
     if (!level) return;
     AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL, level);
     AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX, String(index));
-  }, [level, index]);
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE, String(score));
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_STREAK, String(streak));
+  }, [level, index, score, streak]);
 
   const currentWord = words[index];
 
@@ -50,12 +103,10 @@ export default function GermanGameScreen(): React.JSX.Element {
     }, 700);
   };
 
-  if (isLoading) {
+  if (!wordsReady) {
     return (
       <View style={[styles.root, { backgroundColor: colors.background }]}>
-        <Text style={[styles.loading, { color: colors.textMuted }]}>
-          loading…
-        </Text>
+        <Text style={[styles.loading, { color: colors.textMuted }]}>loading…</Text>
       </View>
     );
   }
@@ -66,12 +117,8 @@ export default function GermanGameScreen(): React.JSX.Element {
       <View style={styles.content}>
         <NavBar title={level} right={<ThemeToggle />} />
         <View style={styles.statsBar}>
-          <Text style={[styles.statsText, { color: colors.text }]}>
-            SCORE {score}
-          </Text>
-          <Text style={[styles.statsText, { color: colors.text }]}>
-            STREAK {streak}
-          </Text>
+          <Text style={[styles.statsText, { color: colors.text }]}>SCORE {score}</Text>
+          <Text style={[styles.statsText, { color: colors.text }]}>STREAK {streak}</Text>
           <Text style={[styles.statsText, { color: colors.textMuted }]}>
             {Math.min(index + 1, words.length)} / {words.length}
           </Text>
@@ -80,6 +127,7 @@ export default function GermanGameScreen(): React.JSX.Element {
           {currentWord ? (
             <ArtikelCard
               word={currentWord.word}
+              meaning={currentWord.meaning}
               correctArtikel={currentWord.artikel}
               feedbackState={feedbackState}
               onSwipe={handleSwipe}
@@ -97,32 +145,10 @@ export default function GermanGameScreen(): React.JSX.Element {
 
 const styles = StyleSheet.create({
   root: { flex: 1 },
-  loading: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.base,
-    marginTop: 80,
-    textAlign: "center",
-  },
-  content: {
-    flex: 1,
-    paddingHorizontal: 40,
-    paddingTop: 56,
-    paddingBottom: 40,
-  },
-  statsBar: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginBottom: 24,
-  },
-  statsText: {
-    fontFamily: FONTS.medium,
-    fontSize: FONT_SIZES.xs,
-    letterSpacing: 1,
-  },
+  loading: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, marginTop: 80, textAlign: "center" },
+  content: { flex: 1, paddingHorizontal: 40, paddingTop: 56, paddingBottom: 40 },
+  statsBar: { flexDirection: "row", justifyContent: "space-between", marginBottom: 24 },
+  statsText: { fontFamily: FONTS.medium, fontSize: FONT_SIZES.xs, letterSpacing: 1 },
   cardArea: { flex: 1, justifyContent: "center", alignItems: "center" },
-  empty: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.base,
-    textAlign: "center",
-  },
+  empty: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, textAlign: "center" },
 });

@@ -1,17 +1,17 @@
 import { router } from "expo-router";
 import React, { useMemo } from "react";
 import { Pressable, SectionList, StyleSheet, Text, View } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { NavBar } from "../../components/NavBar";
-import { ProgressBar } from "../../components/ProgressBar";
 import { Scales } from "../../components/Scales";
 import { ThemeToggle } from "../../components/ThemeToggle";
 import {
   AVAILABLE_IELTS_SECTIONS,
   useIELTSData,
 } from "../../hooks/useIELTSData";
-import { useProgress } from "../../hooks/useProgress";
 import { useTheme } from "../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../theme/typography";
+import { UI_STORAGE_KEYS } from "../../store/uiStore";
 
 interface SectionMeta {
   code: string;
@@ -28,7 +28,6 @@ interface ListSection {
 
 export default function IELTSSectionListScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const { ieltsProgress, isLoading } = useProgress();
 
   const sections = useMemo<ListSection[]>(() => {
     const groups: { [parent: string]: SectionMeta[] } = {};
@@ -59,15 +58,9 @@ export default function IELTSSectionListScreen(): React.JSX.Element {
           </Text>
         )}
         ListHeaderComponent={
-          <NavBar title="IELTS Vocabulary" right={<ThemeToggle />} />
+          <NavBar title="IELTS" right={<ThemeToggle />} />
         }
-        renderItem={({ item }) => (
-          <SectionRow
-            code={item.code}
-            ieltsProgress={ieltsProgress}
-            progressLoaded={!isLoading}
-          />
-        )}
+        renderItem={({ item }) => <SectionRow code={item.code} />}
       />
     </View>
   );
@@ -75,23 +68,23 @@ export default function IELTSSectionListScreen(): React.JSX.Element {
 
 interface SectionRowProps {
   code: string;
-  progressLoaded: boolean;
-  ieltsProgress: ReturnType<typeof useProgress>["ieltsProgress"];
 }
 
-function SectionRow({
-  code,
-  ieltsProgress,
-}: SectionRowProps): React.JSX.Element {
+function SectionRow({ code }: SectionRowProps): React.JSX.Element {
   const { colors } = useTheme();
-  const { words } = useIELTSData(code);
-  const ids = useMemo(() => words.map((w) => w.id), [words]);
-  const knownCount = ids.filter((id) => ieltsProgress[id] === "known").length;
-  const progressRatio = ids.length > 0 ? knownCount / ids.length : 0;
+  const { words, title } = useIELTSData(code);
+
+  const handlePress = async (): Promise<void> => {
+    // Write this immediately — don't wait for the destination screen to sync
+    // it up, so "Continue" reflects the section you just picked right away.
+    await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION, code);
+    await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX, "0");
+    router.push(`/ielts/${code}`);
+  };
 
   return (
     <Pressable
-      onPress={() => router.push(`/ielts/${code}`)}
+      onPress={handlePress}
       style={({ pressed }) => [
         styles.row,
         {
@@ -101,13 +94,12 @@ function SectionRow({
         },
       ]}
     >
-      <View style={styles.rowTop}>
-        <Text style={[styles.rowCode, { color: colors.text }]}>{code}</Text>
-        <Text style={[styles.rowCount, { color: colors.textMuted }]}>
-          {ids.length} words
-        </Text>
-      </View>
-      <ProgressBar progress={progressRatio} />
+      <Text style={[styles.rowTitle, { color: colors.text }]} numberOfLines={2}>
+        {title || code}
+      </Text>
+      <Text style={[styles.rowCount, { color: colors.textMuted }]}>
+        {words.length} {words.length === 1 ? "word" : "words"}
+      </Text>
     </Pressable>
   );
 }
@@ -122,11 +114,6 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
   },
   row: { borderWidth: 1, borderRadius: 12, padding: 16, marginBottom: 12 },
-  rowTop: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginBottom: 10,
-  },
-  rowCode: { fontFamily: FONTS.bold, fontSize: FONT_SIZES.md },
+  rowTitle: { fontFamily: FONTS.bold, fontSize: FONT_SIZES.md, marginBottom: 6 },
   rowCount: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.sm },
 });

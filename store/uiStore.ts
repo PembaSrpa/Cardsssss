@@ -6,4 +6,6 @@ export const UI_STORAGE_KEYS = {
   LAST_IELTS_INDEX: "cards_ui_last_ielts_index",
   LAST_GERMAN_LEVEL: "cards_ui_last_german_level",
   LAST_GERMAN_INDEX: "cards_ui_last_german_index",
+  LAST_GERMAN_SCORE: "cards_ui_last_german_score",
+  LAST_GERMAN_STREAK: "cards_ui_last_german_streak",
 } as const;

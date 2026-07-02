@@ -21,6 +21,7 @@ const FEEDBACK_INCORRECT = "#ef4444";
 
 interface ArtikelCardProps {
   word: string;
+  meaning: string;
   correctArtikel: GermanArtikel;
   feedbackState: FeedbackState;
   onSwipe: (artikel: GermanArtikel) => void;
@@ -28,7 +29,7 @@ interface ArtikelCardProps {
 
 const SWIPE_THRESHOLD = 100;
 
-export function ArtikelCard({ word, correctArtikel, feedbackState, onSwipe }: ArtikelCardProps): React.JSX.Element {
+export function ArtikelCard({ word, meaning, correctArtikel, feedbackState, onSwipe }: ArtikelCardProps): React.JSX.Element {
   const { colors } = useTheme();
   const { width: screenWidth } = useWindowDimensions();
   const translateX = useSharedValue<number>(0);
@@ -108,6 +109,7 @@ export function ArtikelCard({ word, correctArtikel, feedbackState, onSwipe }: Ar
             ]}
           />
           <Text style={[styles.word, { color: colors.text }]}>{word}</Text>
+          <Text style={[styles.meaning, { color: colors.textMuted }]}>{meaning}</Text>
           {feedbackState !== "idle" && (
             <>
               <Text style={[styles.resultMark, { color: isCorrect ? FEEDBACK_CORRECT : FEEDBACK_INCORRECT }]}>
@@ -187,6 +189,12 @@ const styles = StyleSheet.create({
     fontFamily: FONTS.bold,
     fontSize: FONT_SIZES.xxl,
     textAlign: "center",
+  },
+  meaning: {
+    fontFamily: FONTS.regular,
+    fontSize: FONT_SIZES.sm,
+    textAlign: "center",
+    marginTop: 8,
   },
   resultMark: {
     fontFamily: FONTS.bold,

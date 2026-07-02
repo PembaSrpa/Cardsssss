@@ -1,6 +1,7 @@
 import { router } from "expo-router";
 import React from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { NavBar } from "../../components/NavBar";
 import { Scales } from "../../components/Scales";
 import { ThemeToggle } from "../../components/ThemeToggle";
@@ -11,12 +12,7 @@ import {
 import { useProgress } from "../../hooks/useProgress";
 import { useTheme } from "../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../theme/typography";
-
-const LEVEL_DESCRIPTIONS: { [level: string]: string } = {
-  A1: "beginner basics",
-  A2: "elementary vocabulary",
-  B1: "intermediate range",
-};
+import { UI_STORAGE_KEYS } from "../../store/uiStore";
 
 export default function GermanLevelScreen(): React.JSX.Element {
   const { colors } = useTheme();
@@ -24,7 +20,7 @@ export default function GermanLevelScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <ScrollView contentContainerStyle={styles.content}>
-        <NavBar title="German Artikel" right={<ThemeToggle />} />
+        <NavBar title="Deutsch Artikel" right={<ThemeToggle />} />
         {AVAILABLE_GERMAN_LEVELS.map((level) => (
           <LevelCard key={level} level={level} />
         ))}
@@ -42,9 +38,19 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
   const total = score.correct + score.incorrect;
   const accuracy = total > 0 ? Math.round((score.correct / total) * 100) : null;
 
+  const handlePress = async (): Promise<void> => {
+    // Write this immediately — don't wait for the destination screen to sync
+    // it up, so "Continue" reflects the level you just picked right away.
+    await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL, level);
+    await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX, "0");
+    await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE, "0");
+    await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_STREAK, "0");
+    router.push(`/german/${level}`);
+  };
+
   return (
     <Pressable
-      onPress={() => router.push(`/german/${level}`)}
+      onPress={handlePress}
       style={({ pressed }) => [
         styles.card,
         {
@@ -60,9 +66,6 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
           {accuracy !== null ? `${accuracy}% accuracy` : "not started"}
         </Text>
       </View>
-      <Text style={[styles.desc, { color: colors.textMuted }]}>
-        {LEVEL_DESCRIPTIONS[level] ?? ""}
-      </Text>
       <Text style={[styles.count, { color: colors.textMuted }]}>
         {words.length} words
       </Text>
@@ -81,6 +84,5 @@ const styles = StyleSheet.create({
   },
   levelCode: { fontFamily: FONTS.bold, fontSize: FONT_SIZES.lg },
   accuracy: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.xs },
-  desc: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.sm, marginTop: 6 },
   count: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.xs, marginTop: 8 },
 });

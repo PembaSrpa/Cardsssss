@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useState } from "react";
 import { View, Text, StyleSheet, Pressable, ScrollView } from "react-native";
 import { router } from "expo-router";
+import { useFocusEffect } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Ionicons } from "@expo/vector-icons";
 import { useTheme } from "../theme/ThemeContext";
@@ -15,6 +16,8 @@ interface LastPosition {
   ieltsIndex: number;
   germanLevel: string | null;
   germanIndex: number;
+  germanScore: number;
+  germanStreak: number;
 }
 
 export default function HomeScreen(): React.JSX.Element {
@@ -27,31 +30,44 @@ export default function HomeScreen(): React.JSX.Element {
     ieltsIndex: 0,
     germanLevel: null,
     germanIndex: 0,
+    germanScore: 0,
+    germanStreak: 0,
   });
 
-  useEffect(() => {
-    let isMounted = true;
-    async function loadLastPos(): Promise<void> {
-      const [ieltsSection, ieltsIndexRaw, germanLevel, germanIndexRaw] = await Promise.all([
-        AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION),
-        AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX),
-        AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL),
-        AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX),
-      ]);
-      if (isMounted) {
-        setLastPos({
-          ieltsSection,
-          ieltsIndex: ieltsIndexRaw ? parseInt(ieltsIndexRaw, 10) : 0,
-          germanLevel,
-          germanIndex: germanIndexRaw ? parseInt(germanIndexRaw, 10) : 0,
-        });
+  // Reload every time this screen comes into focus (not just on first mount) —
+  // otherwise "Continue" keeps pointing at wherever you were the first time
+  // the app opened, since AsyncStorage keeps updating but this screen's
+  // state doesn't refresh just from being navigated back to.
+  useFocusEffect(
+    useCallback(() => {
+      let isMounted = true;
+      async function loadLastPos(): Promise<void> {
+        const [ieltsSection, ieltsIndexRaw, germanLevel, germanIndexRaw, germanScoreRaw, germanStreakRaw] =
+          await Promise.all([
+            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION),
+            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX),
+            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL),
+            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX),
+            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE),
+            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_STREAK),
+          ]);
+        if (isMounted) {
+          setLastPos({
+            ieltsSection,
+            ieltsIndex: ieltsIndexRaw ? parseInt(ieltsIndexRaw, 10) : 0,
+            germanLevel,
+            germanIndex: germanIndexRaw ? parseInt(germanIndexRaw, 10) : 0,
+            germanScore: germanScoreRaw ? parseInt(germanScoreRaw, 10) : 0,
+            germanStreak: germanStreakRaw ? parseInt(germanStreakRaw, 10) : 0,
+          });
+        }
       }
-    }
-    loadLastPos();
-    return () => {
-      isMounted = false;
-    };
-  }, []);
+      loadLastPos();
+      return () => {
+        isMounted = false;
+      };
+    }, [])
+  );
 
   const handleToggleNotifications = async (): Promise<void> => {
     if (!notificationsSupported) return;
@@ -106,14 +122,14 @@ export default function HomeScreen(): React.JSX.Element {
             { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
           ]}
         >
-          <Text style={[styles.moduleTitle, { color: colors.text }]}>IELTS Vocabulary</Text>
-          <Text style={[styles.moduleDesc, { color: colors.textMuted }]}>flashcards across 23 sections</Text>
+          <Text style={[styles.moduleTitle, { color: colors.text }]}>IELTS</Text>
+          <Text style={[styles.moduleDesc, { color: colors.textMuted }]}>flashcards</Text>
           <View style={[styles.moduleFooter, { borderTopColor: colors.border }]}>
             <Pressable
               onPress={() => router.push("/ielts")}
               style={({ pressed }) => [styles.footerBtn, { borderColor: colors.border, opacity: pressed ? 0.7 : 1 }]}
             >
-              <Text style={[styles.footerBtnLabel, { color: colors.text }]}>Browse sections</Text>
+              <Text style={[styles.footerBtnLabel, { color: colors.text }]}>Browse</Text>
             </Pressable>
             {lastPos.ieltsSection && (
               <Pressable
@@ -146,21 +162,26 @@ export default function HomeScreen(): React.JSX.Element {
             { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
           ]}
         >
-          <Text style={[styles.moduleTitle, { color: colors.text }]}>German Artikel</Text>
-          <Text style={[styles.moduleDesc, { color: colors.textMuted }]}>swipe der / die / das</Text>
+          <Text style={[styles.moduleTitle, { color: colors.text }]}>Deutsch Artikel</Text>
+          <Text style={[styles.moduleDesc, { color: colors.textMuted }]}>swipecards</Text>
           <View style={[styles.moduleFooter, { borderTopColor: colors.border }]}>
             <Pressable
               onPress={() => router.push("/german")}
               style={({ pressed }) => [styles.footerBtn, { borderColor: colors.border, opacity: pressed ? 0.7 : 1 }]}
             >
-              <Text style={[styles.footerBtnLabel, { color: colors.text }]}>Choose level</Text>
+              <Text style={[styles.footerBtnLabel, { color: colors.text }]}>Choose</Text>
             </Pressable>
             {lastPos.germanLevel && (
               <Pressable
                 onPress={() =>
                   router.push({
                     pathname: "/german/[level]",
-                    params: { level: lastPos.germanLevel!, resumeIndex: String(lastPos.germanIndex) },
+                    params: {
+                      level: lastPos.germanLevel!,
+                      resumeIndex: String(lastPos.germanIndex),
+                      resumeScore: String(lastPos.germanScore),
+                      resumeStreak: String(lastPos.germanStreak),
+                    },
                   })
                 }
                 style={({ pressed }) => [

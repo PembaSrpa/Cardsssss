@@ -1,23 +1,20 @@
-import AsyncStorage from "@react-native-async-storage/async-storage";
-import { useLocalSearchParams } from "expo-router";
 import React, { useEffect, useState } from "react";
-import { StyleSheet, Text, View } from "react-native";
-import { AppButton } from "../../components/AppButton";
-import { FlashCard } from "../../components/FlashCard";
-import { NavBar } from "../../components/NavBar";
-import { Scales } from "../../components/Scales";
-import { ThemeToggle } from "../../components/ThemeToggle";
-import { useIELTSData } from "../../hooks/useIELTSData";
-import { UI_STORAGE_KEYS } from "../../store/uiStore";
+import { View, Text, StyleSheet } from "react-native";
+import { useLocalSearchParams } from "expo-router";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useTheme } from "../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../theme/typography";
+import { FlashCard } from "../../components/FlashCard";
+import { AppButton } from "../../components/AppButton";
+import { NavBar } from "../../components/NavBar";
+import { ThemeToggle } from "../../components/ThemeToggle";
+import { Scales } from "../../components/Scales";
+import { useIELTSData } from "../../hooks/useIELTSData";
+import { UI_STORAGE_KEYS } from "../../store/uiStore";
 
 export default function IELTSFlashcardScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const params = useLocalSearchParams<{
-    section: string;
-    resumeIndex?: string;
-  }>();
+  const params = useLocalSearchParams<{ section: string; resumeIndex?: string }>();
   const sectionCode = params.section ?? "";
   const resumeIndex = params.resumeIndex ? parseInt(params.resumeIndex, 10) : 0;
 
@@ -47,9 +44,7 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
   if (isLoading) {
     return (
       <View style={[styles.root, { backgroundColor: colors.background }]}>
-        <Text style={[styles.loading, { color: colors.textMuted }]}>
-          loading…
-        </Text>
+        <Text style={[styles.loading, { color: colors.textMuted }]}>loading…</Text>
       </View>
     );
   }
@@ -69,11 +64,7 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
             </View>
 
             <View style={styles.cardArea}>
-              <FlashCard
-                word={currentWord}
-                flipped={flipped}
-                onPress={() => setFlipped((f) => !f)}
-              />
+              <FlashCard word={currentWord} flipped={flipped} onPress={() => setFlipped((f) => !f)} />
             </View>
 
             <View style={styles.actionRow}>
@@ -92,9 +83,7 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
             </View>
           </>
         ) : (
-          <Text style={[styles.empty, { color: colors.textMuted }]}>
-            no cards found
-          </Text>
+          <Text style={[styles.empty, { color: colors.textMuted }]}>no cards found</Text>
         )}
       </View>
     </View>
@@ -104,38 +93,11 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
 const styles = StyleSheet.create({
   root: { flex: 1 },
   inner: { flex: 1, paddingHorizontal: 32, paddingTop: 56, paddingBottom: 24 },
-  loading: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.base,
-    marginTop: 40,
-    textAlign: "center",
-  },
-  navRow: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "center",
-    marginBottom: 12,
-  },
-  progressLabel: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.sm,
-    textAlign: "center",
-  },
+  loading: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, marginTop: 40, textAlign: "center" },
+  navRow: { flexDirection: "row", alignItems: "center", justifyContent: "center", marginBottom: 12 },
+  progressLabel: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.sm, textAlign: "center" },
   cardArea: { flex: 1, justifyContent: "center", alignItems: "center" },
-  actionRow: {
-    flexDirection: "row",
-    gap: 8,
-    marginBottom: 8,
-    marginTop: 16,
-    width: "100%",
-    maxWidth: 420,
-    alignSelf: "center",
-  },
+  actionRow: { flexDirection: "row", gap: 8, marginBottom: 8, marginTop: 16, width: "100%", maxWidth: 420, alignSelf: "center" },
   actionButton: { flex: 1 },
-  empty: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.base,
-    textAlign: "center",
-    marginTop: 60,
-  },
+  empty: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.base, textAlign: "center", marginTop: 60 },
 });

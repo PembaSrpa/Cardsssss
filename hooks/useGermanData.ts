@@ -56,6 +56,15 @@ function shuffle<T>(items: T[]): T[] {
   return result;
 }
 
+export function getGermanLevelWords(level: string): GermanWord[] {
+  const data = loadLevel(level);
+  return data?.words ?? [];
+}
+
+export function shuffleGermanWords<T>(items: T[]): T[] {
+  return shuffle(items);
+}
+
 export function useGermanData(level: string): UseGermanDataResult {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [words, setWords] = useState<GermanWord[]>([]);
