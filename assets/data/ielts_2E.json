@@ -4,16 +4,1743 @@
   "words": [
     {
       "id": "2E_001",
-      "word": "placeholder",
+      "word": "accord",
       "type": "noun",
       "category": "Sequential Linkers for Processes & Cycles",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "A formal agreement, especially between countries or organizations.",
+      "example": "The two nations reached an accord to reduce carbon emissions.",
+      "synonyms": ["agreement", "treaty", "pact", "deal"],
+      "antonyms": ["disagreement", "dispute", "conflict"]
+    },
+    {
+      "id": "2E_002",
+      "word": "accordance",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Conformity or agreement with something, used in the phrase in accordance with.",
+      "example": "The report was written in accordance with the university's guidelines.",
+      "synonyms": ["agreement", "conformity", "compliance"],
+      "antonyms": ["violation", "breach"]
+    },
+    {
+      "id": "2E_003",
+      "word": "according",
+      "type": "preposition",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Used with to in order to indicate the source of information or a basis for a statement.",
+      "example": "According to the survey, most students prefer online learning.",
+      "synonyms": ["as stated by", "per"],
       "antonyms": []
+    },
+    {
+      "id": "2E_004",
+      "word": "accordingly",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In a manner appropriate to the situation; consequently.",
+      "example": "The policy changed, and the department adjusted its budget accordingly.",
+      "synonyms": ["consequently", "therefore", "correspondingly"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_005",
+      "word": "accordion",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A portable musical instrument with a keyboard and bellows.",
+      "example": "The street musician played the accordion outside the cafe.",
+      "synonyms": ["concertina"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_006",
+      "word": "after",
+      "type": "preposition",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Following in time or place; later than.",
+      "example": "The meeting will begin after lunch.",
+      "synonyms": ["following", "subsequent to"],
+      "antonyms": ["before"]
+    },
+    {
+      "id": "2E_007",
+      "word": "after-school",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Taking place after the normal school day ends.",
+      "example": "The children attend an after-school coding club.",
+      "synonyms": ["extracurricular"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_008",
+      "word": "afterlife",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Life believed to continue after death.",
+      "example": "Many religions include a belief in the afterlife.",
+      "synonyms": ["hereafter", "life after death"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_009",
+      "word": "aftermath",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The period following a destructive or unpleasant event.",
+      "example": "The aftermath of the flood left many families homeless.",
+      "synonyms": ["aftereffects", "consequences", "wake"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_010",
+      "word": "afternoon",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The time between noon and evening.",
+      "example": "The lecture is scheduled for early afternoon.",
+      "synonyms": [],
+      "antonyms": ["morning"]
+    },
+    {
+      "id": "2E_011",
+      "word": "aftershock",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A smaller tremor following a major earthquake, or a secondary negative effect.",
+      "example": "Several aftershocks followed the initial earthquake.",
+      "synonyms": ["tremor", "repercussion"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_012",
+      "word": "afterthought",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Something considered or added only after the main event or plan.",
+      "example": "The new safety feature seemed like an afterthought.",
+      "synonyms": ["addendum", "addition"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_013",
+      "word": "afterward",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At a later time.",
+      "example": "They discussed the proposal and signed the contract afterward.",
+      "synonyms": ["later", "subsequently"],
+      "antonyms": ["beforehand"]
+    },
+    {
+      "id": "2E_014",
+      "word": "afterwards",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At a later time, the British variant of afterward.",
+      "example": "She studied abroad and worked in finance afterwards.",
+      "synonyms": ["later", "subsequently"],
+      "antonyms": ["beforehand"]
+    },
+    {
+      "id": "2E_015",
+      "word": "again",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Once more; another time.",
+      "example": "The experiment was repeated again to confirm the results.",
+      "synonyms": ["once more", "anew"],
+      "antonyms": ["never"]
+    },
+    {
+      "id": "2E_016",
+      "word": "already",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Before the time in question; by now.",
+      "example": "The results had already been published before the conference.",
+      "synonyms": ["by now", "previously"],
+      "antonyms": ["not yet"]
+    },
+    {
+      "id": "2E_017",
+      "word": "alternate",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To occur or perform by turns, one after the other.",
+      "example": "The two teams alternate hosting the annual conference.",
+      "synonyms": ["rotate", "take turns"],
+      "antonyms": ["continue"]
+    },
+    {
+      "id": "2E_018",
+      "word": "alternately",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In a way that follows a repeated pattern of two things.",
+      "example": "The workers alternately monitored the machines throughout the shift.",
+      "synonyms": ["in turn", "by turns"],
+      "antonyms": ["simultaneously"]
+    },
+    {
+      "id": "2E_019",
+      "word": "alternating",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring by turns, one after the other.",
+      "example": "The fabric has an alternating pattern of stripes.",
+      "synonyms": ["rotating", "cyclical"],
+      "antonyms": ["constant"]
+    },
+    {
+      "id": "2E_020",
+      "word": "alternative",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "One of two or more available options.",
+      "example": "Renewable energy is a viable alternative to fossil fuels.",
+      "synonyms": ["option", "substitute", "choice"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_021",
+      "word": "alternatively",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Used to introduce another possibility.",
+      "example": "You could take the bus; alternatively, you could walk.",
+      "synonyms": ["on the other hand", "or else"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_022",
+      "word": "annual",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring once every year.",
+      "example": "The company holds an annual shareholders meeting.",
+      "synonyms": ["yearly"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_023",
+      "word": "annually",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Once a year.",
+      "example": "Profits are reviewed annually by the board.",
+      "synonyms": ["yearly", "per year"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_024",
+      "word": "before",
+      "type": "preposition",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Earlier than a particular time or event.",
+      "example": "Submit the assignment before the deadline.",
+      "synonyms": ["prior to", "ahead of"],
+      "antonyms": ["after"]
+    },
+    {
+      "id": "2E_025",
+      "word": "beforehand",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In advance, before something happens.",
+      "example": "It is wise to book tickets beforehand.",
+      "synonyms": ["in advance", "ahead of time"],
+      "antonyms": ["afterward"]
+    },
+    {
+      "id": "2E_026",
+      "word": "beginning",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The point in time at which something starts.",
+      "example": "The beginning of the study focused on data collection.",
+      "synonyms": ["start", "outset", "onset"],
+      "antonyms": ["end", "conclusion"]
+    },
+    {
+      "id": "2E_027",
+      "word": "beyond",
+      "type": "preposition",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Further along in time, space, or scope than.",
+      "example": "The project timeline extends beyond the original deadline.",
+      "synonyms": ["past", "further than"],
+      "antonyms": ["within", "before"]
+    },
+    {
+      "id": "2E_028",
+      "word": "chronological",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Arranged in the order in which events occurred.",
+      "example": "The essay presents the events in chronological order.",
+      "synonyms": ["sequential", "consecutive"],
+      "antonyms": ["random", "disordered"]
+    },
+    {
+      "id": "2E_029",
+      "word": "chronology",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The arrangement of events by the order of their occurrence.",
+      "example": "The historian constructed a detailed chronology of the war.",
+      "synonyms": ["timeline", "sequence"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_030",
+      "word": "complete",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To finish making or doing something.",
+      "example": "Researchers aim to complete the trial by next year.",
+      "synonyms": ["finish", "conclude"],
+      "antonyms": ["start", "begin"]
+    },
+    {
+      "id": "2E_031",
+      "word": "completed",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Finished, brought to an end.",
+      "example": "The completed survey was submitted to the committee.",
+      "synonyms": ["finished", "concluded"],
+      "antonyms": ["unfinished", "incomplete"]
+    },
+    {
+      "id": "2E_032",
+      "word": "completely",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In every way; totally.",
+      "example": "The old system was completely replaced.",
+      "synonyms": ["totally", "entirely", "fully"],
+      "antonyms": ["partially"]
+    },
+    {
+      "id": "2E_033",
+      "word": "completion",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The act or process of finishing something.",
+      "example": "The bridge is nearing completion.",
+      "synonyms": ["conclusion", "finish"],
+      "antonyms": ["commencement"]
+    },
+    {
+      "id": "2E_034",
+      "word": "concurrent",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Existing or happening at the same time.",
+      "example": "The two court cases were concurrent.",
+      "synonyms": ["simultaneous", "coinciding"],
+      "antonyms": ["sequential", "consecutive"]
+    },
+    {
+      "id": "2E_035",
+      "word": "concurrently",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At the same time as something else.",
+      "example": "The sentences will run concurrently.",
+      "synonyms": ["simultaneously"],
+      "antonyms": ["sequentially"]
+    },
+    {
+      "id": "2E_036",
+      "word": "consecutive",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Following one after another without interruption.",
+      "example": "The team won five consecutive matches.",
+      "synonyms": ["successive", "sequential"],
+      "antonyms": ["intermittent", "sporadic"]
+    },
+    {
+      "id": "2E_037",
+      "word": "continual",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening frequently, with breaks in between.",
+      "example": "The area experienced continual power outages.",
+      "synonyms": ["frequent", "recurrent"],
+      "antonyms": ["rare", "occasional"]
+    },
+    {
+      "id": "2E_038",
+      "word": "continually",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening again and again.",
+      "example": "Prices have continually risen over the past year.",
+      "synonyms": ["repeatedly", "constantly"],
+      "antonyms": ["rarely"]
+    },
+    {
+      "id": "2E_039",
+      "word": "continuation",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The act of continuing or extending something.",
+      "example": "The sequel is a continuation of the original story.",
+      "synonyms": ["extension", "prolongation"],
+      "antonyms": ["termination", "end"]
+    },
+    {
+      "id": "2E_040",
+      "word": "continue",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To keep happening or existing without stopping.",
+      "example": "The negotiations will continue next week.",
+      "synonyms": ["proceed", "persist"],
+      "antonyms": ["stop", "cease"]
+    },
+    {
+      "id": "2E_041",
+      "word": "continued",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Still happening; ongoing.",
+      "example": "The report highlighted continued economic growth.",
+      "synonyms": ["ongoing", "sustained"],
+      "antonyms": ["discontinued"]
+    },
+    {
+      "id": "2E_042",
+      "word": "continuing",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Still in progress; ongoing.",
+      "example": "Continuing education programs benefit working professionals.",
+      "synonyms": ["ongoing", "persisting"],
+      "antonyms": ["finished"]
+    },
+    {
+      "id": "2E_043",
+      "word": "continuity",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The unbroken continuation of something over time.",
+      "example": "Editors ensure continuity between chapters of a novel.",
+      "synonyms": ["consistency", "cohesion"],
+      "antonyms": ["discontinuity", "disruption"]
+    },
+    {
+      "id": "2E_044",
+      "word": "continuous",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening without interruption.",
+      "example": "The factory operates on a continuous basis.",
+      "synonyms": ["uninterrupted", "constant"],
+      "antonyms": ["intermittent", "sporadic"]
+    },
+    {
+      "id": "2E_045",
+      "word": "continuum",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A continuous sequence in which adjacent elements are almost identical.",
+      "example": "Language ability exists on a continuum, not in fixed categories.",
+      "synonyms": ["spectrum", "range"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_046",
+      "word": "currently",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At the present time.",
+      "example": "The government is currently reviewing the policy.",
+      "synonyms": ["presently", "now"],
+      "antonyms": ["previously"]
+    },
+    {
+      "id": "2E_047",
+      "word": "cyclical",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring in cycles; repeating regularly.",
+      "example": "Economic growth tends to be cyclical.",
+      "synonyms": ["recurring", "periodic"],
+      "antonyms": ["linear", "one-off"]
+    },
+    {
+      "id": "2E_048",
+      "word": "debut",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A first public appearance or performance.",
+      "example": "The band's debut album was released last year.",
+      "synonyms": ["premiere", "launch"],
+      "antonyms": ["finale"]
+    },
+    {
+      "id": "2E_049",
+      "word": "delay",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A period of time by which something is late or postponed.",
+      "example": "Heavy rain caused a delay in construction.",
+      "synonyms": ["postponement", "holdup"],
+      "antonyms": ["acceleration"]
+    },
+    {
+      "id": "2E_050",
+      "word": "delayed",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Postponed until a later time.",
+      "example": "The delayed flight caused passengers to miss connections.",
+      "synonyms": ["postponed", "deferred"],
+      "antonyms": ["prompt", "on-time"]
+    },
+    {
+      "id": "2E_051",
+      "word": "during",
+      "type": "preposition",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Throughout the duration of something.",
+      "example": "Sales increased during the holiday season.",
+      "synonyms": ["throughout", "in the course of"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_052",
+      "word": "eventually",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "After a period of time; finally.",
+      "example": "The negotiations eventually led to a peace agreement.",
+      "synonyms": ["finally", "ultimately"],
+      "antonyms": ["immediately"]
+    },
+    {
+      "id": "2E_053",
+      "word": "evolve",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To develop gradually, especially from a simpler to a more complex form.",
+      "example": "The species evolved over millions of years.",
+      "synonyms": ["develop", "progress"],
+      "antonyms": ["stagnate"]
+    },
+    {
+      "id": "2E_054",
+      "word": "evolved",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Having developed gradually over time.",
+      "example": "The evolved system is far more efficient than its predecessor.",
+      "synonyms": ["developed", "advanced"],
+      "antonyms": ["primitive"]
+    },
+    {
+      "id": "2E_055",
+      "word": "evolving",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Developing or changing gradually.",
+      "example": "The evolving job market demands new skills.",
+      "synonyms": ["developing", "changing"],
+      "antonyms": ["static"]
+    },
+    {
+      "id": "2E_056",
+      "word": "finally",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "After a long time or delay; as the last point in a sequence.",
+      "example": "Finally, the committee reached a consensus.",
+      "synonyms": ["eventually", "ultimately", "lastly"],
+      "antonyms": ["initially"]
+    },
+    {
+      "id": "2E_057",
+      "word": "first",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Coming before all others in time or order.",
+      "example": "First, participants completed a questionnaire.",
+      "synonyms": ["initial", "foremost"],
+      "antonyms": ["last"]
+    },
+    {
+      "id": "2E_058",
+      "word": "first-class",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Of the highest quality or standard.",
+      "example": "The hotel offers first-class service.",
+      "synonyms": ["top-tier", "premium"],
+      "antonyms": ["substandard"]
+    },
+    {
+      "id": "2E_059",
+      "word": "first-degree",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Of the most direct, basic, or serious kind, as in a burn or an academic degree.",
+      "example": "She suffered a first-degree burn on her hand.",
+      "synonyms": ["primary"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_060",
+      "word": "first-ever",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Being the very first of its kind to occur.",
+      "example": "This was the first-ever televised debate.",
+      "synonyms": ["inaugural", "maiden"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_061",
+      "word": "first-generation",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Being the first in a family to do something, such as immigrate or attend college.",
+      "example": "He is a first-generation university student.",
+      "synonyms": ["pioneering"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_062",
+      "word": "first-person",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to a narrative told from the perspective of I.",
+      "example": "The novel is written in the first-person point of view.",
+      "synonyms": [],
+      "antonyms": ["third-person"]
+    },
+    {
+      "id": "2E_063",
+      "word": "first-place",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Ranked or finishing in the top position.",
+      "example": "The team earned a first-place trophy.",
+      "synonyms": ["top-ranked", "winning"],
+      "antonyms": ["last-place"]
+    },
+    {
+      "id": "2E_064",
+      "word": "first-quarter",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to the first three months of a year or fiscal period.",
+      "example": "First-quarter earnings exceeded expectations.",
+      "synonyms": [],
+      "antonyms": ["fourth-quarter"]
+    },
+    {
+      "id": "2E_065",
+      "word": "first-rate",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Of the highest quality.",
+      "example": "The university has a first-rate research facility.",
+      "synonyms": ["excellent", "superb"],
+      "antonyms": ["inferior", "poor"]
+    },
+    {
+      "id": "2E_066",
+      "word": "first-round",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to the initial stage of a competition or process.",
+      "example": "The candidate was eliminated in the first-round interview.",
+      "synonyms": ["initial", "preliminary"],
+      "antonyms": ["final"]
+    },
+    {
+      "id": "2E_067",
+      "word": "first-time",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening or doing something for the first time.",
+      "example": "First-time buyers often qualify for special mortgage rates.",
+      "synonyms": ["novice", "new"],
+      "antonyms": ["experienced"]
+    },
+    {
+      "id": "2E_068",
+      "word": "first-year",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to the first year of a course, job, or program.",
+      "example": "First-year students attended an orientation session.",
+      "synonyms": ["freshman"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_069",
+      "word": "firsthand",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Obtained directly through personal experience.",
+      "example": "She gave a firsthand account of the disaster.",
+      "synonyms": ["direct", "personal"],
+      "antonyms": ["secondhand"]
+    },
+    {
+      "id": "2E_070",
+      "word": "follow",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To come after something in time or sequence.",
+      "example": "A question-and-answer session will follow the lecture.",
+      "synonyms": ["succeed", "come after"],
+      "antonyms": ["precede"]
+    },
+    {
+      "id": "2E_071",
+      "word": "follow-up",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "An action taken to continue or build on an earlier action.",
+      "example": "The doctor scheduled a follow-up appointment.",
+      "synonyms": ["continuation", "review"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_072",
+      "word": "follower",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A person who supports or comes after another.",
+      "example": "The politician gained many followers on social media.",
+      "synonyms": ["supporter", "adherent"],
+      "antonyms": ["leader"]
+    },
+    {
+      "id": "2E_073",
+      "word": "following",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Coming next in time or order.",
+      "example": "The following chapter discusses methodology.",
+      "synonyms": ["subsequent", "next"],
+      "antonyms": ["preceding"]
+    },
+    {
+      "id": "2E_074",
+      "word": "historian",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A person who studies or writes about history.",
+      "example": "The historian specializes in medieval Europe.",
+      "synonyms": ["chronicler", "scholar"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_075",
+      "word": "historic",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Famous or important in history.",
+      "example": "The peace treaty was a historic achievement.",
+      "synonyms": ["momentous", "landmark"],
+      "antonyms": ["insignificant"]
+    },
+    {
+      "id": "2E_076",
+      "word": "historical",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to history or past events.",
+      "example": "The museum houses historical artifacts.",
+      "synonyms": ["past", "bygone"],
+      "antonyms": ["contemporary", "modern"]
+    },
+    {
+      "id": "2E_077",
+      "word": "historiography",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The study of the methods and writing of history.",
+      "example": "The course examines historiography as an academic discipline.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_078",
+      "word": "history",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The study of past events, or the past itself.",
+      "example": "The professor teaches ancient history.",
+      "synonyms": ["past", "chronicle"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_079",
+      "word": "immediate",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening or done at once, without delay.",
+      "example": "The situation required immediate action.",
+      "synonyms": ["instant", "prompt"],
+      "antonyms": ["delayed"]
+    },
+    {
+      "id": "2E_080",
+      "word": "immediately",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At once, without delay.",
+      "example": "Please respond immediately to the request.",
+      "synonyms": ["instantly", "promptly"],
+      "antonyms": ["eventually"]
+    },
+    {
+      "id": "2E_081",
+      "word": "initially",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At the beginning; at first.",
+      "example": "Initially, the trial included only ten participants.",
+      "synonyms": ["at first", "originally"],
+      "antonyms": ["finally", "ultimately"]
+    },
+    {
+      "id": "2E_082",
+      "word": "iteration",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "One version of a process or product that is repeated with variations.",
+      "example": "Each iteration of the software fixed previous bugs.",
+      "synonyms": ["version", "repetition"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_083",
+      "word": "last",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Coming after all others; final.",
+      "example": "The meeting lasted three hours.",
+      "synonyms": ["final"],
+      "antonyms": ["first"]
+    },
+    {
+      "id": "2E_084",
+      "word": "later",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At a time in the future relative to a point of reference.",
+      "example": "The results were published later that year.",
+      "synonyms": ["subsequently", "afterward"],
+      "antonyms": ["earlier"]
+    },
+    {
+      "id": "2E_085",
+      "word": "lateral",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to the side; sideways rather than direct.",
+      "example": "Lateral thinking encourages creative problem-solving.",
+      "synonyms": ["sideways", "indirect"],
+      "antonyms": ["vertical", "direct"]
+    },
+    {
+      "id": "2E_086",
+      "word": "long-running",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Having continued or existed for a long time.",
+      "example": "The long-running dispute was finally resolved.",
+      "synonyms": ["prolonged", "extended"],
+      "antonyms": ["brief", "short-lived"]
+    },
+    {
+      "id": "2E_087",
+      "word": "long-term",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to or extending over a long period of time.",
+      "example": "The company focuses on long-term growth.",
+      "synonyms": ["extended", "prolonged"],
+      "antonyms": ["short-term"]
+    },
+    {
+      "id": "2E_088",
+      "word": "long-term-care",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Ongoing care provided to people with a chronic illness or disability.",
+      "example": "The facility specializes in long-term care for the elderly.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_089",
+      "word": "meanwhile",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At the same time; in the intervening period.",
+      "example": "The report was delayed; meanwhile, the team continued research.",
+      "synonyms": ["simultaneously", "in the meantime"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_090",
+      "word": "midpoint",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The middle point of a period, distance, or process.",
+      "example": "The survey was conducted at the midpoint of the semester.",
+      "synonyms": ["middle", "halfway point"],
+      "antonyms": ["beginning", "end"]
+    },
+    {
+      "id": "2E_091",
+      "word": "milestone",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A significant event or stage in a process.",
+      "example": "Graduation is a major milestone in a student's life.",
+      "synonyms": ["landmark", "turning point"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_092",
+      "word": "moment",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A very brief period of time.",
+      "example": "She paused for a moment before answering.",
+      "synonyms": ["instant", "second"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_093",
+      "word": "momentarily",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "For a very short time.",
+      "example": "The system was momentarily unavailable.",
+      "synonyms": ["briefly", "temporarily"],
+      "antonyms": ["permanently"]
+    },
+    {
+      "id": "2E_094",
+      "word": "momentary",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Lasting for a very short time.",
+      "example": "He felt a momentary sense of doubt.",
+      "synonyms": ["brief", "fleeting"],
+      "antonyms": ["lasting", "permanent"]
+    },
+    {
+      "id": "2E_095",
+      "word": "momentous",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Of great importance, especially because of long-term effects.",
+      "example": "The election was a momentous occasion.",
+      "synonyms": ["significant", "historic"],
+      "antonyms": ["trivial", "insignificant"]
+    },
+    {
+      "id": "2E_096",
+      "word": "momentum",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The force or drive gained by continued movement or development.",
+      "example": "The campaign gained momentum after the announcement.",
+      "synonyms": ["impetus", "drive"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_097",
+      "word": "month",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "One of the twelve divisions of a calendar year.",
+      "example": "Sales figures are reported every month.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_098",
+      "word": "monthly",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring once a month.",
+      "example": "The magazine is published monthly.",
+      "synonyms": [],
+      "antonyms": ["annually"]
+    },
+    {
+      "id": "2E_099",
+      "word": "next",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Coming immediately after the present one in time or order.",
+      "example": "The next chapter examines the results in detail.",
+      "synonyms": ["following", "subsequent"],
+      "antonyms": ["previous"]
+    },
+    {
+      "id": "2E_100",
+      "word": "next-door",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In the nearest house, room, or building.",
+      "example": "The next-door neighbor reported the noise.",
+      "synonyms": ["adjacent", "adjoining"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_101",
+      "word": "now",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At the present time.",
+      "example": "Researchers now believe the theory is outdated.",
+      "synonyms": ["presently", "currently"],
+      "antonyms": ["then", "later"]
+    },
+    {
+      "id": "2E_102",
+      "word": "once",
+      "type": "conjunction",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "As soon as; on one occasion.",
+      "example": "Once the data is collected, analysis can begin.",
+      "synonyms": ["as soon as"],
+      "antonyms": ["never"]
+    },
+    {
+      "id": "2E_103",
+      "word": "onset",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The beginning of something, especially something unpleasant.",
+      "example": "The onset of the disease was gradual.",
+      "synonyms": ["start", "outbreak"],
+      "antonyms": ["end", "conclusion"]
+    },
+    {
+      "id": "2E_104",
+      "word": "oral",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Spoken rather than written.",
+      "example": "Students must pass an oral examination.",
+      "synonyms": ["verbal", "spoken"],
+      "antonyms": ["written"]
+    },
+    {
+      "id": "2E_105",
+      "word": "orally",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "By speech rather than in writing.",
+      "example": "Instructions were given orally before the test.",
+      "synonyms": ["verbally"],
+      "antonyms": ["in writing"]
+    },
+    {
+      "id": "2E_106",
+      "word": "overthrow",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To remove a government or leader from power by force.",
+      "example": "Rebels attempted to overthrow the regime.",
+      "synonyms": ["topple", "oust"],
+      "antonyms": ["install", "support"]
+    },
+    {
+      "id": "2E_107",
+      "word": "patter",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Rapid, informal talk, often used to entertain or persuade.",
+      "example": "The salesman's patter kept customers engaged.",
+      "synonyms": ["chatter", "spiel"],
+      "antonyms": ["silence"]
+    },
+    {
+      "id": "2E_108",
+      "word": "period",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A length or portion of time.",
+      "example": "The economy grew steadily during this period.",
+      "synonyms": ["era", "span"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_109",
+      "word": "periodic",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring at regular intervals.",
+      "example": "The machine requires periodic maintenance.",
+      "synonyms": ["recurring", "regular"],
+      "antonyms": ["continuous", "constant"]
+    },
+    {
+      "id": "2E_110",
+      "word": "periodical",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A magazine or journal published at regular intervals.",
+      "example": "The library subscribes to several academic periodicals.",
+      "synonyms": ["journal", "magazine"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_111",
+      "word": "periodically",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "From time to time; at intervals.",
+      "example": "The software updates periodically.",
+      "synonyms": ["occasionally", "regularly"],
+      "antonyms": ["constantly"]
+    },
+    {
+      "id": "2E_112",
+      "word": "phase",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A distinct stage in a process of change or development.",
+      "example": "The project entered its final phase.",
+      "synonyms": ["stage", "step"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_113",
+      "word": "precede",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To come before something in time.",
+      "example": "A safety briefing will precede the tour.",
+      "synonyms": ["come before", "antedate"],
+      "antonyms": ["follow", "succeed"]
+    },
+    {
+      "id": "2E_114",
+      "word": "precedence",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The condition of being considered more important than something else.",
+      "example": "Safety takes precedence over speed.",
+      "synonyms": ["priority", "primacy"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_115",
+      "word": "precedent",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "An earlier event or decision used as a guide for later ones.",
+      "example": "The ruling set an important legal precedent.",
+      "synonyms": ["example", "model"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_116",
+      "word": "preceding",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Existing or occurring before something in time.",
+      "example": "The preceding chapter outlined the methodology.",
+      "synonyms": ["previous", "prior"],
+      "antonyms": ["following", "subsequent"]
+    },
+    {
+      "id": "2E_117",
+      "word": "previous",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Existing or occurring before the one in question.",
+      "example": "The previous study found similar results.",
+      "synonyms": ["prior", "earlier"],
+      "antonyms": ["subsequent", "following"]
+    },
+    {
+      "id": "2E_118",
+      "word": "previously",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At an earlier time; before.",
+      "example": "The data had previously been unavailable.",
+      "synonyms": ["formerly", "earlier"],
+      "antonyms": ["subsequently"]
+    },
+    {
+      "id": "2E_119",
+      "word": "prior",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Existing or coming before something in time.",
+      "example": "Prior experience is required for this role.",
+      "synonyms": ["previous", "earlier"],
+      "antonyms": ["subsequent"]
+    },
+    {
+      "id": "2E_120",
+      "word": "prioritize",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To treat something as more important than other things.",
+      "example": "Managers must prioritize tasks based on urgency.",
+      "synonyms": ["rank", "focus on"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "2E_121",
+      "word": "priority",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A thing regarded as more important than others.",
+      "example": "Reducing emissions is a top priority for the government.",
+      "synonyms": ["precedence", "concern"],
+      "antonyms": ["afterthought"]
+    },
+    {
+      "id": "2E_122",
+      "word": "progressive",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Developing gradually or in stages.",
+      "example": "The disease follows a progressive course.",
+      "synonyms": ["gradual", "developing"],
+      "antonyms": ["regressive"]
+    },
+    {
+      "id": "2E_123",
+      "word": "progressively",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In a gradual, continuous manner.",
+      "example": "Temperatures rose progressively throughout the week.",
+      "synonyms": ["gradually", "steadily"],
+      "antonyms": ["abruptly"]
+    },
+    {
+      "id": "2E_124",
+      "word": "recently",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Not long ago.",
+      "example": "The policy was recently revised.",
+      "synonyms": ["lately", "of late"],
+      "antonyms": ["long ago"]
+    },
+    {
+      "id": "2E_125",
+      "word": "recur",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To happen again, especially repeatedly.",
+      "example": "The symptoms tend to recur after treatment.",
+      "synonyms": ["reoccur", "repeat"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_126",
+      "word": "recurrence",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A further occurrence of something that happened before.",
+      "example": "Doctors monitor patients for signs of recurrence.",
+      "synonyms": ["repetition", "reappearance"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_127",
+      "word": "recurrent",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring often or repeatedly.",
+      "example": "Recurrent headaches prompted further testing.",
+      "synonyms": ["repeated", "frequent"],
+      "antonyms": ["rare", "isolated"]
+    },
+    {
+      "id": "2E_128",
+      "word": "recurring",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening repeatedly, often at regular intervals.",
+      "example": "The budget includes a recurring monthly expense.",
+      "synonyms": ["repeated", "periodic"],
+      "antonyms": ["one-time"]
+    },
+    {
+      "id": "2E_129",
+      "word": "repeat",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To say or do something again.",
+      "example": "The teacher asked students to repeat the exercise.",
+      "synonyms": ["reiterate", "redo"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_130",
+      "word": "repeated",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Done or occurring several times.",
+      "example": "Repeated attempts to contact the client failed.",
+      "synonyms": ["recurrent", "frequent"],
+      "antonyms": ["single", "isolated"]
+    },
+    {
+      "id": "2E_131",
+      "word": "repeatedly",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Again and again; many times.",
+      "example": "The experiment was repeatedly tested for accuracy.",
+      "synonyms": ["constantly", "frequently"],
+      "antonyms": ["once"]
+    },
+    {
+      "id": "2E_132",
+      "word": "repeating",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring again in the same way.",
+      "example": "The wallpaper features a repeating floral pattern.",
+      "synonyms": ["recurring", "cyclical"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_133",
+      "word": "sequential",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Forming or following in a logical order or sequence.",
+      "example": "The instructions must be followed in sequential order.",
+      "synonyms": ["consecutive", "ordered"],
+      "antonyms": ["random"]
+    },
+    {
+      "id": "2E_134",
+      "word": "short-term",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to or extending over a short period of time.",
+      "example": "The company adopted a short-term strategy.",
+      "synonyms": ["temporary", "brief"],
+      "antonyms": ["long-term"]
+    },
+    {
+      "id": "2E_135",
+      "word": "shortly",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In a short time; soon.",
+      "example": "The results will be announced shortly.",
+      "synonyms": ["soon", "presently"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_136",
+      "word": "simultaneous",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring or existing at the same time.",
+      "example": "The two events were simultaneous.",
+      "synonyms": ["concurrent", "synchronous"],
+      "antonyms": ["sequential"]
+    },
+    {
+      "id": "2E_137",
+      "word": "simultaneously",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At the same time as something else.",
+      "example": "The teams worked simultaneously on different tasks.",
+      "synonyms": ["concurrently"],
+      "antonyms": ["sequentially"]
+    },
+    {
+      "id": "2E_138",
+      "word": "soon",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In a short time from now.",
+      "example": "The new policy will take effect soon.",
+      "synonyms": ["shortly", "presently"],
+      "antonyms": ["eventually"]
+    },
+    {
+      "id": "2E_139",
+      "word": "still",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Continuing to happen up to and including the present.",
+      "example": "The debate is still unresolved.",
+      "synonyms": ["yet", "even now"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_140",
+      "word": "subsequently",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "After something else has happened; afterward.",
+      "example": "The proposal was rejected and subsequently revised.",
+      "synonyms": ["afterward", "later"],
+      "antonyms": ["previously"]
+    },
+    {
+      "id": "2E_141",
+      "word": "success",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The achievement of a desired aim or result.",
+      "example": "The campaign was considered a great success.",
+      "synonyms": ["achievement", "triumph"],
+      "antonyms": ["failure"]
+    },
+    {
+      "id": "2E_142",
+      "word": "successful",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Achieving the desired outcome.",
+      "example": "The trial proved successful in reducing symptoms.",
+      "synonyms": ["victorious", "effective"],
+      "antonyms": ["unsuccessful"]
+    },
+    {
+      "id": "2E_143",
+      "word": "successfully",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "In a way that achieves the desired outcome.",
+      "example": "The team successfully completed the project on time.",
+      "synonyms": ["effectively"],
+      "antonyms": ["unsuccessfully"]
+    },
+    {
+      "id": "2E_144",
+      "word": "succession",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A number of things or people following one another.",
+      "example": "A succession of scandals damaged the company's reputation.",
+      "synonyms": ["series", "sequence"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_145",
+      "word": "successive",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Following one after another without interruption.",
+      "example": "The team celebrated three successive victories.",
+      "synonyms": ["consecutive", "sequential"],
+      "antonyms": ["intermittent"]
+    },
+    {
+      "id": "2E_146",
+      "word": "successor",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A person or thing that follows and takes the place of another.",
+      "example": "The board appointed a successor to the retiring CEO.",
+      "synonyms": ["replacement", "heir"],
+      "antonyms": ["predecessor"]
+    },
+    {
+      "id": "2E_147",
+      "word": "terminate",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To bring something to an end.",
+      "example": "The company decided to terminate the contract.",
+      "synonyms": ["end", "conclude"],
+      "antonyms": ["begin", "start"]
+    },
+    {
+      "id": "2E_148",
+      "word": "termination",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The act of ending something.",
+      "example": "The termination of the agreement surprised both parties.",
+      "synonyms": ["cessation", "conclusion"],
+      "antonyms": ["initiation"]
+    },
+    {
+      "id": "2E_149",
+      "word": "then",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At that time; next in order.",
+      "example": "The results were reviewed, then published.",
+      "synonyms": ["next", "afterward"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_150",
+      "word": "thereafter",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "After that time; afterward.",
+      "example": "The rules changed, and thereafter compliance improved.",
+      "synonyms": ["afterward", "subsequently"],
+      "antonyms": ["beforehand"]
+    },
+    {
+      "id": "2E_151",
+      "word": "transit",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The act of passing through or across a place.",
+      "example": "Goods were damaged in transit.",
+      "synonyms": ["passage", "transportation"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_152",
+      "word": "transition",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The process of changing from one state or stage to another.",
+      "example": "The country underwent a transition to democracy.",
+      "synonyms": ["shift", "change"],
+      "antonyms": ["stability"]
+    },
+    {
+      "id": "2E_153",
+      "word": "transitional",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Relating to or marking a change from one state to another.",
+      "example": "The government implemented transitional policies.",
+      "synonyms": ["intermediate", "changing"],
+      "antonyms": ["permanent"]
+    },
+    {
+      "id": "2E_154",
+      "word": "transitory",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Not permanent; lasting only for a short time.",
+      "example": "The economic downturn proved transitory.",
+      "synonyms": ["temporary", "fleeting"],
+      "antonyms": ["permanent", "lasting"]
+    },
+    {
+      "id": "2E_155",
+      "word": "twice",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Two times.",
+      "example": "The experiment was repeated twice to verify results.",
+      "synonyms": ["two times"],
+      "antonyms": ["once"]
+    },
+    {
+      "id": "2E_156",
+      "word": "until",
+      "type": "preposition",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Up to the point in time that.",
+      "example": "The library is open until midnight.",
+      "synonyms": ["till", "up to"],
+      "antonyms": ["since"]
+    },
+    {
+      "id": "2E_157",
+      "word": "week",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A period of seven days.",
+      "example": "The survey was conducted over one week.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_158",
+      "word": "week-long",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Lasting for one week.",
+      "example": "The university held a week-long orientation program.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_159",
+      "word": "weekday",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Any day except Saturday and Sunday.",
+      "example": "The office is open on weekdays only.",
+      "synonyms": [],
+      "antonyms": ["weekend"]
+    },
+    {
+      "id": "2E_160",
+      "word": "weekend",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Saturday and Sunday.",
+      "example": "The event will take place over the weekend.",
+      "synonyms": [],
+      "antonyms": ["weekday"]
+    },
+    {
+      "id": "2E_161",
+      "word": "weekly",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring once a week.",
+      "example": "The team holds a weekly progress meeting.",
+      "synonyms": [],
+      "antonyms": ["monthly"]
+    },
+    {
+      "id": "2E_162",
+      "word": "when",
+      "type": "conjunction",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At what time; at the time that.",
+      "example": "Researchers noted when symptoms first appeared.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_163",
+      "word": "whence",
+      "type": "adverb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "From what place or source; formal or archaic.",
+      "example": "He returned to the village whence he came.",
+      "synonyms": ["from where"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_164",
+      "word": "whenever",
+      "type": "conjunction",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "At any time that; every time that.",
+      "example": "Students may ask questions whenever necessary.",
+      "synonyms": ["anytime"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_165",
+      "word": "while",
+      "type": "conjunction",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "During the time that; whereas.",
+      "example": "While the results were promising, further research is needed.",
+      "synonyms": ["during", "whereas"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_166",
+      "word": "year",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A period of 365 days.",
+      "example": "The study lasted one year.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_167",
+      "word": "year-end",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "The end of a calendar or financial year.",
+      "example": "The company releases a year-end report.",
+      "synonyms": [],
+      "antonyms": ["year-start"]
+    },
+    {
+      "id": "2E_168",
+      "word": "year-long",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Lasting for a year.",
+      "example": "The organization launched a year-long awareness campaign.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_169",
+      "word": "year-old",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Having existed or lived for a specified number of years.",
+      "example": "The five-year-old data is now outdated.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2E_170",
+      "word": "year-round",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Happening or continuing throughout the year.",
+      "example": "The resort attracts tourists year-round.",
+      "synonyms": ["continuous"],
+      "antonyms": ["seasonal"]
+    },
+    {
+      "id": "2E_171",
+      "word": "yearbook",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A book published annually recording events or achievements.",
+      "example": "Students signed each other's yearbooks.",
+      "synonyms": ["annual", "chronicle"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_172",
+      "word": "yearly",
+      "type": "adjective",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "Occurring once a year.",
+      "example": "The conference is held yearly.",
+      "synonyms": ["annual", "annually"],
+      "antonyms": []
+    },
+    {
+      "id": "2E_173",
+      "word": "yearn",
+      "type": "verb",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "To have an intense feeling of longing for something.",
+      "example": "Many immigrants yearn for their homeland.",
+      "synonyms": ["long", "crave"],
+      "antonyms": ["dislike"]
+    },
+    {
+      "id": "2E_174",
+      "word": "yearning",
+      "type": "noun",
+      "category": "Sequential Linkers for Processes & Cycles",
+      "meaning": "A strong feeling of longing.",
+      "example": "She felt a deep yearning to travel.",
+      "synonyms": ["longing", "craving"],
+      "antonyms": ["indifference"]
     }
   ]
 }

@@ -1,19 +1,2416 @@
 {
   "section": "2D",
-  "title": "Adjectives & Adverbs for Speed/Scale of Change",
+  "title": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
   "words": [
     {
       "id": "2D_001",
-      "word": "placeholder",
+      "word": "abrupt",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Sudden and unexpected.",
+      "example": "The abrupt policy change caught investors off guard.",
+      "synonyms": ["sudden", "sharp", "unexpected"],
+      "antonyms": ["gradual", "gentle"]
+    },
+    {
+      "id": "2D_002",
+      "word": "abruptly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Suddenly and unexpectedly.",
+      "example": "Talks ended abruptly after the disagreement.",
+      "synonyms": ["suddenly", "sharply", "unexpectedly"],
+      "antonyms": ["gradually"]
+    },
+    {
+      "id": "2D_003",
+      "word": "accelerate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To increase in speed.",
+      "example": "Inflation accelerated sharply in the final quarter.",
+      "synonyms": ["speed up", "quicken", "hasten"],
+      "antonyms": ["slow", "decelerate"]
+    },
+    {
+      "id": "2D_004",
+      "word": "accelerated",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Happening faster than usual.",
+      "example": "The accelerated timeline required extra staff.",
+      "synonyms": ["rapid", "expedited"],
+      "antonyms": ["gradual", "delayed"]
+    },
+    {
+      "id": "2D_005",
+      "word": "accelerating",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Increasing in speed.",
+      "example": "The accelerating decline alarmed policymakers.",
+      "synonyms": ["quickening", "speeding"],
+      "antonyms": ["slowing"]
+    },
+    {
+      "id": "2D_006",
+      "word": "acceleration",
       "type": "noun",
-      "category": "Adjectives & Adverbs for Speed/Scale of Change",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "An increase in speed or rate.",
+      "example": "The acceleration of layoffs surprised analysts.",
+      "synonyms": ["speeding up", "quickening"],
+      "antonyms": ["deceleration"]
+    },
+    {
+      "id": "2D_007",
+      "word": "accelerator",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A device or factor that increases speed.",
+      "example": "Tax breaks acted as an accelerator for investment.",
+      "synonyms": ["catalyst", "booster"],
+      "antonyms": ["brake"]
+    },
+    {
+      "id": "2D_008",
+      "word": "all-time",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Unsurpassed, the greatest or most extreme ever recorded.",
+      "example": "The company reported all-time record profits.",
+      "synonyms": ["record", "unprecedented"],
       "antonyms": []
+    },
+    {
+      "id": "2D_009",
+      "word": "astonishing",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extremely surprising or impressive.",
+      "example": "The astonishing growth exceeded every forecast.",
+      "synonyms": ["amazing", "remarkable", "stunning"],
+      "antonyms": ["unremarkable", "ordinary"]
+    },
+    {
+      "id": "2D_010",
+      "word": "astonishingly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In an extremely surprising manner.",
+      "example": "Profits rose astonishingly fast last quarter.",
+      "synonyms": ["amazingly", "remarkably"],
+      "antonyms": ["unremarkably"]
+    },
+    {
+      "id": "2D_011",
+      "word": "aw",
+      "type": "interjection",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Used to express mild disappointment or sympathy.",
+      "example": "\"Aw, that's too bad,\" she said upon hearing the news.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_012",
+      "word": "await",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To wait for something.",
+      "example": "Investors await the central bank's decision with anticipation.",
+      "synonyms": ["anticipate", "expect"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_013",
+      "word": "awake",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Not asleep, alert.",
+      "example": "Markets stayed alert to every hint of policy change.",
+      "synonyms": ["alert", "conscious"],
+      "antonyms": ["asleep", "unaware"]
+    },
+    {
+      "id": "2D_014",
+      "word": "awaken",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To wake up, or to stir into activity.",
+      "example": "The scandal awakened public scrutiny of the industry.",
+      "synonyms": ["arouse", "stir", "rouse"],
+      "antonyms": ["lull", "calm"]
+    },
+    {
+      "id": "2D_015",
+      "word": "awakening",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The process of becoming aware or active.",
+      "example": "The environmental awakening changed consumer habits.",
+      "synonyms": ["realization", "revival"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_016",
+      "word": "award",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A prize or recognition given for achievement.",
+      "example": "The company received an award for innovation.",
+      "synonyms": ["prize", "honor", "accolade"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_017",
+      "word": "award-winning",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having received an award or prize.",
+      "example": "The award-winning design boosted sales significantly.",
+      "synonyms": ["acclaimed", "prize-winning"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_018",
+      "word": "aware",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having knowledge or perception of a situation.",
+      "example": "Investors became increasingly aware of the risks involved.",
+      "synonyms": ["conscious", "informed", "cognizant"],
+      "antonyms": ["unaware", "ignorant"]
+    },
+    {
+      "id": "2D_019",
+      "word": "awash",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Covered or flooded with something, overwhelmed.",
+      "example": "The market was awash with cheap credit before the crash.",
+      "synonyms": ["flooded", "overwhelmed", "saturated"],
+      "antonyms": ["scarce", "depleted"]
+    },
+    {
+      "id": "2D_020",
+      "word": "awe",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A feeling of great admiration mixed with fear or wonder.",
+      "example": "Analysts watched in awe as the stock price tripled.",
+      "synonyms": ["wonder", "amazement"],
+      "antonyms": ["indifference"]
+    },
+    {
+      "id": "2D_021",
+      "word": "awed",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Filled with awe.",
+      "example": "The awed audience applauded the extraordinary results.",
+      "synonyms": ["amazed", "astonished"],
+      "antonyms": ["unimpressed"]
+    },
+    {
+      "id": "2D_022",
+      "word": "awesome",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extremely impressive or daunting.",
+      "example": "The awesome scale of the project surprised investors.",
+      "synonyms": ["impressive", "remarkable", "stunning"],
+      "antonyms": ["unimpressive"]
+    },
+    {
+      "id": "2D_023",
+      "word": "awful",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extremely bad or unpleasant.",
+      "example": "The awful earnings report sent shares tumbling.",
+      "synonyms": ["terrible", "dreadful", "appalling"],
+      "antonyms": ["excellent", "wonderful"]
+    },
+    {
+      "id": "2D_024",
+      "word": "awfully",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Very, extremely (informal), or in a bad manner.",
+      "example": "Sales fell awfully short of expectations.",
+      "synonyms": ["extremely", "terribly"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_025",
+      "word": "awhile",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "For a short time.",
+      "example": "The market stabilized for awhile before dropping again.",
+      "synonyms": ["briefly", "temporarily"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_026",
+      "word": "awkward",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Causing difficulty, embarrassment, or lack of ease.",
+      "example": "The awkward transition period disrupted operations.",
+      "synonyms": ["uncomfortable", "clumsy", "difficult"],
+      "antonyms": ["smooth", "graceful"]
+    },
+    {
+      "id": "2D_027",
+      "word": "awkwardly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a difficult or embarrassing manner.",
+      "example": "The company awkwardly handled the public relations crisis.",
+      "synonyms": ["clumsily", "uncomfortably"],
+      "antonyms": ["smoothly", "gracefully"]
+    },
+    {
+      "id": "2D_028",
+      "word": "awkwardness",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The quality of being difficult or embarrassing.",
+      "example": "The awkwardness of the negotiation delayed the agreement.",
+      "synonyms": ["discomfort", "clumsiness"],
+      "antonyms": ["ease", "grace"]
+    },
+    {
+      "id": "2D_029",
+      "word": "awning",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A sheet of material used as a shelter above a window or door.",
+      "example": "The shop installed a new awning above its entrance.",
+      "synonyms": ["canopy"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_030",
+      "word": "awry",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Away from the expected course, wrong.",
+      "example": "The merger plans went awry after the sudden resignation.",
+      "synonyms": ["wrong", "amiss", "astray"],
+      "antonyms": ["correct", "as planned"]
+    },
+    {
+      "id": "2D_031",
+      "word": "big",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of considerable size, extent, or intensity.",
+      "example": "The company posted a big increase in quarterly profits.",
+      "synonyms": ["large", "substantial", "considerable"],
+      "antonyms": ["small", "minor"]
+    },
+    {
+      "id": "2D_032",
+      "word": "brisk",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Quick and energetic.",
+      "example": "Sales were brisk throughout the holiday season.",
+      "synonyms": ["fast", "lively", "rapid"],
+      "antonyms": ["sluggish", "slow"]
+    },
+    {
+      "id": "2D_033",
+      "word": "briskly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a quick and energetic manner.",
+      "example": "Shares traded briskly following the announcement.",
+      "synonyms": ["quickly", "rapidly"],
+      "antonyms": ["slowly", "sluggishly"]
+    },
+    {
+      "id": "2D_034",
+      "word": "cataclysmic",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Involving sudden violent upheaval or disaster.",
+      "example": "The cataclysmic collapse wiped out years of savings.",
+      "synonyms": ["catastrophic", "disastrous", "devastating"],
+      "antonyms": ["minor", "insignificant"]
+    },
+    {
+      "id": "2D_035",
+      "word": "considerable",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Notably large in size, amount, or extent.",
+      "example": "The company invested a considerable sum in research.",
+      "synonyms": ["substantial", "significant", "sizable"],
+      "antonyms": ["negligible", "minor"]
+    },
+    {
+      "id": "2D_036",
+      "word": "considerably",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a notably large degree.",
+      "example": "Profits increased considerably after the restructuring.",
+      "synonyms": ["substantially", "significantly"],
+      "antonyms": ["negligibly", "slightly"]
+    },
+    {
+      "id": "2D_037",
+      "word": "conspicuous",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Clearly visible or noticeable.",
+      "example": "The conspicuous rise in prices alarmed consumers.",
+      "synonyms": ["noticeable", "obvious", "prominent"],
+      "antonyms": ["inconspicuous", "subtle"]
+    },
+    {
+      "id": "2D_038",
+      "word": "conspicuously",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a noticeable or obvious manner.",
+      "example": "Sales figures were conspicuously absent from the report.",
+      "synonyms": ["noticeably", "obviously"],
+      "antonyms": ["inconspicuously", "subtly"]
+    },
+    {
+      "id": "2D_039",
+      "word": "cyclical",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Occurring in cycles, recurring at intervals.",
+      "example": "Cyclical downturns are common in the manufacturing sector.",
+      "synonyms": ["recurring", "periodic"],
+      "antonyms": ["constant", "linear"]
+    },
+    {
+      "id": "2D_040",
+      "word": "decline",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A gradual and continuous decrease.",
+      "example": "The decline in exports concerned policymakers.",
+      "synonyms": ["decrease", "downturn", "fall"],
+      "antonyms": ["increase", "growth"]
+    },
+    {
+      "id": "2D_041",
+      "word": "declining",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Becoming smaller, weaker, or worse.",
+      "example": "The declining industry struggled to attract investment.",
+      "synonyms": ["decreasing", "falling", "weakening"],
+      "antonyms": ["growing", "increasing"]
+    },
+    {
+      "id": "2D_042",
+      "word": "delay",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A period of time by which something is postponed.",
+      "example": "The delay in production caused significant losses.",
+      "synonyms": ["postponement", "holdup"],
+      "antonyms": ["promptness", "expedition"]
+    },
+    {
+      "id": "2D_043",
+      "word": "delayed",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Postponed to a later time.",
+      "example": "The delayed shipment disrupted the supply chain.",
+      "synonyms": ["postponed", "deferred"],
+      "antonyms": ["prompt", "timely"]
+    },
+    {
+      "id": "2D_044",
+      "word": "devastate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To cause severe and overwhelming damage.",
+      "example": "The recession devastated small businesses across the country.",
+      "synonyms": ["ravage", "destroy", "wreck"],
+      "antonyms": ["rebuild", "restore"]
+    },
+    {
+      "id": "2D_045",
+      "word": "devastated",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Severely damaged or overwhelmed.",
+      "example": "The devastated region struggled to rebuild its economy.",
+      "synonyms": ["ravaged", "ruined", "destroyed"],
+      "antonyms": ["restored", "rebuilt"]
+    },
+    {
+      "id": "2D_046",
+      "word": "devastating",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Causing severe damage or overwhelming distress.",
+      "example": "The devastating losses forced the company into bankruptcy.",
+      "synonyms": ["catastrophic", "ruinous", "crushing"],
+      "antonyms": ["minor", "negligible"]
+    },
+    {
+      "id": "2D_047",
+      "word": "devastation",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Severe and overwhelming damage.",
+      "example": "The financial devastation lasted for years.",
+      "synonyms": ["ruin", "destruction", "havoc"],
+      "antonyms": ["recovery", "restoration"]
+    },
+    {
+      "id": "2D_048",
+      "word": "divert",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To change the course or direction of something.",
+      "example": "The company diverted funds to cover unexpected losses.",
+      "synonyms": ["redirect", "reroute"],
+      "antonyms": ["maintain", "continue"]
+    },
+    {
+      "id": "2D_049",
+      "word": "dominant",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having the most power or influence.",
+      "example": "The dominant firm controlled most of the market share.",
+      "synonyms": ["leading", "prevailing", "powerful"],
+      "antonyms": ["subordinate", "minor"]
+    },
+    {
+      "id": "2D_050",
+      "word": "dominate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To have a controlling influence over something.",
+      "example": "The company continued to dominate the smartphone market.",
+      "synonyms": ["control", "lead", "rule"],
+      "antonyms": ["submit", "follow"]
+    },
+    {
+      "id": "2D_051",
+      "word": "domination",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Control or power over something.",
+      "example": "Market domination allowed the firm to dictate prices.",
+      "synonyms": ["control", "supremacy"],
+      "antonyms": ["submission", "subordination"]
+    },
+    {
+      "id": "2D_052",
+      "word": "dramatic",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Sudden and striking, very noticeable.",
+      "example": "The dramatic increase in prices shocked consumers.",
+      "synonyms": ["striking", "significant", "sudden"],
+      "antonyms": ["gradual", "subtle"]
+    },
+    {
+      "id": "2D_053",
+      "word": "dramatically",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a sudden and striking manner.",
+      "example": "Costs rose dramatically after the policy change.",
+      "synonyms": ["strikingly", "significantly"],
+      "antonyms": ["gradually", "subtly"]
+    },
+    {
+      "id": "2D_054",
+      "word": "dramatize",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To present or perceive something in an exaggerated way.",
+      "example": "The media tended to dramatize small fluctuations in the market.",
+      "synonyms": ["exaggerate", "sensationalize"],
+      "antonyms": ["understate", "downplay"]
+    },
+    {
+      "id": "2D_055",
+      "word": "drastic",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extreme and severe, especially as a means of achieving a result.",
+      "example": "The company took drastic measures to cut costs.",
+      "synonyms": ["severe", "extreme", "radical"],
+      "antonyms": ["mild", "moderate"]
+    },
+    {
+      "id": "2D_056",
+      "word": "drastically",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In an extreme and severe manner.",
+      "example": "Spending was drastically reduced during the crisis.",
+      "synonyms": ["severely", "extremely", "radically"],
+      "antonyms": ["mildly", "moderately"]
+    },
+    {
+      "id": "2D_057",
+      "word": "erratic",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Not consistent or predictable, irregular.",
+      "example": "Erratic stock movements confused inexperienced traders.",
+      "synonyms": ["unpredictable", "irregular"],
+      "antonyms": ["consistent", "steady"]
+    },
+    {
+      "id": "2D_058",
+      "word": "escalate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To increase rapidly in intensity or extent.",
+      "example": "Tensions escalated between the two trading partners.",
+      "synonyms": ["intensify", "increase", "worsen"],
+      "antonyms": ["de-escalate", "ease"]
+    },
+    {
+      "id": "2D_059",
+      "word": "escalating",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Increasing rapidly.",
+      "example": "Escalating costs forced the firm to reduce staff.",
+      "synonyms": ["rising", "intensifying"],
+      "antonyms": ["declining", "easing"]
+    },
+    {
+      "id": "2D_060",
+      "word": "escalation",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A rapid increase in intensity or extent.",
+      "example": "The escalation of the trade war disrupted global markets.",
+      "synonyms": ["intensification", "increase"],
+      "antonyms": ["de-escalation", "reduction"]
+    },
+    {
+      "id": "2D_061",
+      "word": "escalator",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Something that causes rapid increase, or a moving staircase.",
+      "example": "Wage escalators were included in the labor contract.",
+      "synonyms": ["booster", "accelerant"],
+      "antonyms": ["dampener"]
+    },
+    {
+      "id": "2D_062",
+      "word": "exaggerate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To represent something as being larger or more extreme than it really is.",
+      "example": "The report exaggerated the scale of the decline.",
+      "synonyms": ["overstate", "inflate", "embellish"],
+      "antonyms": ["understate", "minimize"]
+    },
+    {
+      "id": "2D_063",
+      "word": "exaggerated",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Represented as larger or more extreme than reality.",
+      "example": "The exaggerated forecast misled investors.",
+      "synonyms": ["overstated", "inflated"],
+      "antonyms": ["understated", "accurate"]
+    },
+    {
+      "id": "2D_064",
+      "word": "exaggeration",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A statement that represents something as more extreme than it is.",
+      "example": "The claim of record profits was an exaggeration.",
+      "synonyms": ["overstatement", "hyperbole"],
+      "antonyms": ["understatement"]
+    },
+    {
+      "id": "2D_065",
+      "word": "expansive",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Covering a wide area, extensive.",
+      "example": "The company pursued an expansive growth strategy.",
+      "synonyms": ["extensive", "broad", "wide-ranging"],
+      "antonyms": ["limited", "narrow"]
+    },
+    {
+      "id": "2D_066",
+      "word": "exponential",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Increasing at a rate that becomes ever more rapid.",
+      "example": "The exponential growth of the platform surprised even its founders.",
+      "synonyms": ["rapid", "accelerating"],
+      "antonyms": ["gradual", "linear"]
+    },
+    {
+      "id": "2D_067",
+      "word": "exponentially",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "At an increasingly rapid rate.",
+      "example": "User numbers grew exponentially after the app's launch.",
+      "synonyms": ["rapidly", "dramatically"],
+      "antonyms": ["gradually", "slowly"]
+    },
+    {
+      "id": "2D_068",
+      "word": "extraordinarily",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very unusual or remarkable degree.",
+      "example": "The results were extraordinarily strong given the circumstances.",
+      "synonyms": ["remarkably", "exceptionally"],
+      "antonyms": ["ordinarily", "typically"]
+    },
+    {
+      "id": "2D_069",
+      "word": "extraordinary",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Very unusual or remarkable.",
+      "example": "The company achieved extraordinary growth in a single year.",
+      "synonyms": ["remarkable", "exceptional", "extreme"],
+      "antonyms": ["ordinary", "typical"]
+    },
+    {
+      "id": "2D_070",
+      "word": "extreme",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Reaching a very high or the highest degree.",
+      "example": "The extreme volatility discouraged cautious investors.",
+      "synonyms": ["severe", "drastic", "intense"],
+      "antonyms": ["moderate", "mild"]
+    },
+    {
+      "id": "2D_071",
+      "word": "extremely",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very great degree.",
+      "example": "The stock market became extremely volatile last week.",
+      "synonyms": ["exceedingly", "highly", "intensely"],
+      "antonyms": ["mildly", "moderately"]
+    },
+    {
+      "id": "2D_072",
+      "word": "extremism",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The holding of extreme political or religious views.",
+      "example": "Economic instability sometimes fuels political extremism.",
+      "synonyms": ["radicalism", "fanaticism"],
+      "antonyms": ["moderation"]
+    },
+    {
+      "id": "2D_073",
+      "word": "extremist",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A person who holds extreme views.",
+      "example": "The extremist rhetoric alarmed moderate voters.",
+      "synonyms": ["radical", "zealot"],
+      "antonyms": ["moderate"]
+    },
+    {
+      "id": "2D_074",
+      "word": "extremity",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The furthest point or extreme degree of something.",
+      "example": "The economic extremity forced drastic government intervention.",
+      "synonyms": ["extreme", "limit"],
+      "antonyms": ["moderation", "middle ground"]
+    },
+    {
+      "id": "2D_075",
+      "word": "fast",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Moving or capable of moving at high speed.",
+      "example": "The company experienced fast growth in its first year.",
+      "synonyms": ["rapid", "quick", "swift"],
+      "antonyms": ["slow", "gradual"]
+    },
+    {
+      "id": "2D_076",
+      "word": "ferocious",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extremely fierce or violent.",
+      "example": "Ferocious competition drove smaller firms out of business.",
+      "synonyms": ["fierce", "intense", "savage"],
+      "antonyms": ["mild", "gentle"]
+    },
+    {
+      "id": "2D_077",
+      "word": "fierce",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Showing intense and violent activity or force.",
+      "example": "Fierce competition kept prices low for consumers.",
+      "synonyms": ["intense", "aggressive", "ferocious"],
+      "antonyms": ["mild", "gentle"]
+    },
+    {
+      "id": "2D_078",
+      "word": "fiercely",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In an intense and aggressive manner.",
+      "example": "Companies competed fiercely for market share.",
+      "synonyms": ["intensely", "aggressively"],
+      "antonyms": ["mildly", "gently"]
+    },
+    {
+      "id": "2D_079",
+      "word": "fluctuate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To rise and fall irregularly.",
+      "example": "Exchange rates fluctuated wildly during the crisis.",
+      "synonyms": ["vary", "oscillate", "waver"],
+      "antonyms": ["stabilize", "remain steady"]
+    },
+    {
+      "id": "2D_080",
+      "word": "fluctuating",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Rising and falling irregularly.",
+      "example": "Fluctuating demand made production planning difficult.",
+      "synonyms": ["varying", "unstable"],
+      "antonyms": ["stable", "steady"]
+    },
+    {
+      "id": "2D_081",
+      "word": "fluctuation",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "An irregular rise and fall.",
+      "example": "Currency fluctuation increased the cost of imports.",
+      "synonyms": ["variation", "instability"],
+      "antonyms": ["stability"]
+    },
+    {
+      "id": "2D_082",
+      "word": "formidable",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Inspiring fear or respect through being impressively large, powerful, or capable.",
+      "example": "The company faced a formidable competitor in the new market.",
+      "synonyms": ["intimidating", "powerful", "daunting"],
+      "antonyms": ["weak", "unimpressive"]
+    },
+    {
+      "id": "2D_083",
+      "word": "full-scale",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Complete and involving all necessary elements, on the largest scale.",
+      "example": "The government launched a full-scale investigation into the fraud.",
+      "synonyms": ["comprehensive", "total"],
+      "antonyms": ["partial", "limited"]
+    },
+    {
+      "id": "2D_084",
+      "word": "geographer",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A person who studies geography.",
+      "example": "The geographer analyzed migration patterns across the region.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_085",
+      "word": "geographic",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to geography.",
+      "example": "The company expanded into new geographic markets.",
+      "synonyms": ["geographical", "spatial"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_086",
+      "word": "geographical",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to geography.",
+      "example": "Geographical barriers limited the company's expansion.",
+      "synonyms": ["geographic", "spatial"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_087",
+      "word": "geographically",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In terms of geography.",
+      "example": "The firm was geographically diversified across three continents.",
+      "synonyms": ["spatially"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_088",
+      "word": "geography",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The study of physical features of the earth and human activity.",
+      "example": "Geography played a major role in the company's supply chain decisions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_089",
+      "word": "geometric",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to geometry, or increasing in a multiplicative pattern.",
+      "example": "The population grew at a geometric rate over the decade.",
+      "synonyms": ["exponential", "multiplicative"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_090",
+      "word": "geometry",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The branch of mathematics concerned with shapes and spaces.",
+      "example": "Students studied geometry as part of the curriculum.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_091",
+      "word": "geopolitical",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to politics influenced by geographic factors.",
+      "example": "Geopolitical tensions disrupted global oil supplies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_092",
+      "word": "georgian",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to Georgia (the country or U.S. state) or the era of British monarchs named George.",
+      "example": "The building featured classic Georgian architecture.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_093",
+      "word": "gradual",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Happening in stages over an extended period.",
+      "example": "The gradual decline in sales worried the board.",
+      "synonyms": ["slow", "incremental", "steady"],
+      "antonyms": ["sudden", "abrupt"]
+    },
+    {
+      "id": "2D_094",
+      "word": "gradually",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a gradual manner.",
+      "example": "Prices gradually rose over several years.",
+      "synonyms": ["slowly", "incrementally", "steadily"],
+      "antonyms": ["suddenly", "abruptly"]
+    },
+    {
+      "id": "2D_095",
+      "word": "great",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of an extent, amount, or intensity considerably above average.",
+      "example": "The company achieved great success in its first decade.",
+      "synonyms": ["significant", "substantial", "considerable"],
+      "antonyms": ["minor", "small"]
+    },
+    {
+      "id": "2D_096",
+      "word": "heavy",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of great weight, or considerable in amount or intensity.",
+      "example": "The firm suffered heavy losses during the downturn.",
+      "synonyms": ["substantial", "severe", "considerable"],
+      "antonyms": ["light", "minor"]
+    },
+    {
+      "id": "2D_097",
+      "word": "high",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Great in amount, degree, or intensity.",
+      "example": "High demand pushed prices upward.",
+      "synonyms": ["elevated", "substantial", "significant"],
+      "antonyms": ["low", "minimal"]
+    },
+    {
+      "id": "2D_098",
+      "word": "historian",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A person who studies or writes about history.",
+      "example": "The historian documented the causes of the economic collapse.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_099",
+      "word": "historic",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Famous or important in history.",
+      "example": "The company reported a historic increase in revenue.",
+      "synonyms": ["significant", "momentous", "landmark"],
+      "antonyms": ["insignificant", "minor"]
+    },
+    {
+      "id": "2D_100",
+      "word": "historical",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to the past or to history.",
+      "example": "Historical data showed a consistent pattern of growth.",
+      "synonyms": ["past", "bygone"],
+      "antonyms": ["current", "contemporary"]
+    },
+    {
+      "id": "2D_101",
+      "word": "historiography",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The study of the writing of history.",
+      "example": "The professor specialized in the historiography of economic crises.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_102",
+      "word": "history",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The study of past events, or the record of such events.",
+      "example": "The company's history was marked by rapid expansion.",
+      "synonyms": ["past", "chronicle"],
+      "antonyms": ["future"]
+    },
+    {
+      "id": "2D_103",
+      "word": "huge",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extremely large in size, amount, or extent.",
+      "example": "The firm made a huge investment in renewable energy.",
+      "synonyms": ["massive", "enormous", "immense"],
+      "antonyms": ["tiny", "small"]
+    },
+    {
+      "id": "2D_104",
+      "word": "immense",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extremely large or great, especially in scale.",
+      "example": "The immense scale of the project required years of planning.",
+      "synonyms": ["huge", "massive", "vast"],
+      "antonyms": ["tiny", "minute"]
+    },
+    {
+      "id": "2D_105",
+      "word": "immensely",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very great extent.",
+      "example": "The company's revenue grew immensely over the decade.",
+      "synonyms": ["hugely", "enormously"],
+      "antonyms": ["slightly", "marginally"]
+    },
+    {
+      "id": "2D_106",
+      "word": "increment",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "An increase or addition, especially one of a series.",
+      "example": "Salaries rose by small increments each year.",
+      "synonyms": ["increase", "addition"],
+      "antonyms": ["decrement", "decrease"]
+    },
+    {
+      "id": "2D_107",
+      "word": "incremental",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Occurring in gradual small increases.",
+      "example": "The company pursued incremental improvements rather than radical change.",
+      "synonyms": ["gradual", "step-by-step"],
+      "antonyms": ["drastic", "sweeping"]
+    },
+    {
+      "id": "2D_108",
+      "word": "large",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of considerable or relatively great size or extent.",
+      "example": "The company reported a large increase in market share.",
+      "synonyms": ["big", "sizable", "substantial"],
+      "antonyms": ["small", "minor"]
+    },
+    {
+      "id": "2D_109",
+      "word": "light",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of little weight or intensity, not severe.",
+      "example": "The company faced only light regulatory scrutiny.",
+      "synonyms": ["mild", "minor", "slight"],
+      "antonyms": ["heavy", "severe"]
+    },
+    {
+      "id": "2D_110",
+      "word": "low",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Below average in amount, level, or intensity.",
+      "example": "Low demand forced the factory to cut production.",
+      "synonyms": ["reduced", "minimal", "weak"],
+      "antonyms": ["high", "elevated"]
+    },
+    {
+      "id": "2D_111",
+      "word": "low-level",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relatively minor in intensity or importance.",
+      "example": "Low-level inflation had little effect on consumer spending.",
+      "synonyms": ["minor", "mild"],
+      "antonyms": ["high-level", "severe"]
+    },
+    {
+      "id": "2D_112",
+      "word": "margin",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "An amount by which something exceeds or falls short of another; a narrow difference.",
+      "example": "The company won the contract by a narrow margin.",
+      "synonyms": ["gap", "difference"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_113",
+      "word": "marginal",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Minor or slight, close to a limit.",
+      "example": "The policy had only a marginal effect on unemployment.",
+      "synonyms": ["minor", "slight", "negligible"],
+      "antonyms": ["significant", "substantial"]
+    },
+    {
+      "id": "2D_114",
+      "word": "marginalization",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The process of relegating something to a position of minor importance.",
+      "example": "Marginalization of small farmers worsened rural poverty.",
+      "synonyms": ["exclusion", "sidelining"],
+      "antonyms": ["inclusion", "empowerment"]
+    },
+    {
+      "id": "2D_115",
+      "word": "marginalize",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To treat someone or something as insignificant.",
+      "example": "New technology marginalized traditional retail businesses.",
+      "synonyms": ["sideline", "exclude"],
+      "antonyms": ["include", "empower"]
+    },
+    {
+      "id": "2D_116",
+      "word": "marginalized",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Treated as insignificant or peripheral.",
+      "example": "Marginalized communities were hit hardest by the recession.",
+      "synonyms": ["excluded", "sidelined"],
+      "antonyms": ["included", "empowered"]
+    },
+    {
+      "id": "2D_117",
+      "word": "marginally",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very small degree.",
+      "example": "Sales improved marginally after the promotion.",
+      "synonyms": ["slightly", "negligibly"],
+      "antonyms": ["substantially", "significantly"]
+    },
+    {
+      "id": "2D_118",
+      "word": "mark",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To indicate or signify a significant point.",
+      "example": "The announcement marked a dramatic shift in policy.",
+      "synonyms": ["signify", "indicate"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_119",
+      "word": "marked",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Clearly noticeable, distinct.",
+      "example": "There was a marked improvement in the company's finances.",
+      "synonyms": ["noticeable", "distinct", "significant"],
+      "antonyms": ["unnoticeable", "negligible"]
+    },
+    {
+      "id": "2D_120",
+      "word": "markedly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a noticeably great extent.",
+      "example": "Productivity increased markedly after the new system was introduced.",
+      "synonyms": ["noticeably", "significantly"],
+      "antonyms": ["negligibly", "slightly"]
+    },
+    {
+      "id": "2D_121",
+      "word": "marker",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "An object or sign that indicates position or significance.",
+      "example": "Rising employment served as a key marker of recovery.",
+      "synonyms": ["indicator", "sign"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_122",
+      "word": "market",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A place or system where goods and services are exchanged.",
+      "example": "The company expanded into the Asian market.",
+      "synonyms": ["marketplace", "trade"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_123",
+      "word": "marketable",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Able to be sold, having commercial appeal.",
+      "example": "The new product proved highly marketable.",
+      "synonyms": ["sellable", "commercial"],
+      "antonyms": ["unmarketable"]
+    },
+    {
+      "id": "2D_124",
+      "word": "marketer",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A person who promotes and sells products or services.",
+      "example": "The marketer launched an aggressive campaign to boost sales.",
+      "synonyms": ["promoter", "advertiser"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_125",
+      "word": "marketing",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The activity of promoting and selling products or services.",
+      "example": "Marketing spend increased sharply ahead of the launch.",
+      "synonyms": ["promotion", "advertising"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_126",
+      "word": "marketplace",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "An arena of commercial dealings, or a physical market.",
+      "example": "Competition in the marketplace intensified after deregulation.",
+      "synonyms": ["market", "trade arena"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_127",
+      "word": "marking",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A distinguishing mark or sign.",
+      "example": "The marking on the chart indicated a significant price shift.",
+      "synonyms": ["mark", "indicator"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_128",
+      "word": "mass",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to a large number of people or things.",
+      "example": "The factory began mass production of the new model.",
+      "synonyms": ["large-scale", "extensive"],
+      "antonyms": ["limited", "small-scale"]
+    },
+    {
+      "id": "2D_129",
+      "word": "mass-produced",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Manufactured in large quantities using standardized processes.",
+      "example": "Mass-produced goods became significantly cheaper over the decade.",
+      "synonyms": ["bulk-manufactured"],
+      "antonyms": ["handmade", "custom"]
+    },
+    {
+      "id": "2D_130",
+      "word": "massacre",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A large-scale, indiscriminate killing.",
+      "example": "Historians recorded the massacre as a turning point in the conflict.",
+      "synonyms": ["slaughter", "carnage"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_131",
+      "word": "massage",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To rub or knead the body, or to manipulate data misleadingly.",
+      "example": "Analysts accused the firm of massaging its earnings figures.",
+      "synonyms": ["manipulate", "rub"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_132",
+      "word": "massive",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Large and heavy or solid, or very large in scale.",
+      "example": "The company suffered a massive drop in revenue.",
+      "synonyms": ["huge", "enormous", "substantial"],
+      "antonyms": ["tiny", "negligible"]
+    },
+    {
+      "id": "2D_133",
+      "word": "massively",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very great extent.",
+      "example": "Profits fell massively after the loss of the contract.",
+      "synonyms": ["hugely", "enormously"],
+      "antonyms": ["slightly", "marginally"]
+    },
+    {
+      "id": "2D_134",
+      "word": "minimal",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of a minimum amount, extent, or size; negligible.",
+      "example": "The policy had minimal impact on inflation.",
+      "synonyms": ["negligible", "slight", "marginal"],
+      "antonyms": ["substantial", "significant"]
+    },
+    {
+      "id": "2D_135",
+      "word": "minimalist",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Characterized by extreme simplicity.",
+      "example": "The firm adopted a minimalist approach to marketing.",
+      "synonyms": ["sparse", "simple"],
+      "antonyms": ["elaborate", "extravagant"]
+    },
+    {
+      "id": "2D_136",
+      "word": "minimally",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To the smallest possible degree.",
+      "example": "The change affected the budget only minimally.",
+      "synonyms": ["slightly", "barely"],
+      "antonyms": ["substantially", "significantly"]
+    },
+    {
+      "id": "2D_137",
+      "word": "minimize",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To reduce something to the smallest possible amount.",
+      "example": "The company sought to minimize its exposure to risk.",
+      "synonyms": ["reduce", "decrease", "lessen"],
+      "antonyms": ["maximize", "increase"]
+    },
+    {
+      "id": "2D_138",
+      "word": "minimum",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The smallest amount or degree possible.",
+      "example": "Wages remained at the legal minimum during the crisis.",
+      "synonyms": ["least", "lowest amount"],
+      "antonyms": ["maximum"]
+    },
+    {
+      "id": "2D_139",
+      "word": "moderate",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Average in amount, not extreme.",
+      "example": "The economy grew at a moderate pace last year.",
+      "synonyms": ["reasonable", "average", "measured"],
+      "antonyms": ["extreme", "excessive"]
+    },
+    {
+      "id": "2D_140",
+      "word": "moderately",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a moderate extent, not extremely.",
+      "example": "The company grew moderately over the past five years.",
+      "synonyms": ["reasonably", "somewhat"],
+      "antonyms": ["extremely", "excessively"]
+    },
+    {
+      "id": "2D_141",
+      "word": "moderation",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The avoidance of excess or extremes.",
+      "example": "The central bank called for moderation in wage increases.",
+      "synonyms": ["restraint", "temperance"],
+      "antonyms": ["excess", "extremity"]
+    },
+    {
+      "id": "2D_142",
+      "word": "moderator",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A person who presides over or facilitates a discussion.",
+      "example": "The moderator kept the debate focused on economic policy.",
+      "synonyms": ["facilitator", "chair"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_143",
+      "word": "modest",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relatively moderate, limited in size or amount.",
+      "example": "The company reported a modest increase in profits.",
+      "synonyms": ["moderate", "limited", "small"],
+      "antonyms": ["substantial", "significant"]
+    },
+    {
+      "id": "2D_144",
+      "word": "modestly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a moderate or limited extent.",
+      "example": "Sales grew modestly despite the challenging environment.",
+      "synonyms": ["moderately", "slightly"],
+      "antonyms": ["substantially", "significantly"]
+    },
+    {
+      "id": "2D_145",
+      "word": "modesty",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The quality of being moderate or unassuming.",
+      "example": "The modesty of the forecast reassured cautious investors.",
+      "synonyms": ["restraint", "moderation"],
+      "antonyms": ["extravagance", "excess"]
+    },
+    {
+      "id": "2D_146",
+      "word": "mount",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To increase gradually in intensity or amount.",
+      "example": "Pressure mounted on the company to cut costs.",
+      "synonyms": ["increase", "build", "escalate"],
+      "antonyms": ["decrease", "subside"]
+    },
+    {
+      "id": "2D_147",
+      "word": "mountain",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A large natural elevation, or a huge amount of something.",
+      "example": "The company faced a mountain of debt.",
+      "synonyms": ["heap", "pile", "mass"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_148",
+      "word": "mountainous",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having many mountains, or extremely large in amount.",
+      "example": "They faced a mountainous challenge in restructuring the firm.",
+      "synonyms": ["huge", "massive", "immense"],
+      "antonyms": ["minor", "small"]
+    },
+    {
+      "id": "2D_149",
+      "word": "mountainside",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The sloping side of a mountain.",
+      "example": "The resort was built on a scenic mountainside.",
+      "synonyms": ["slope", "hillside"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_150",
+      "word": "mountaintop",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The summit of a mountain.",
+      "example": "From the mountaintop, the entire valley was visible.",
+      "synonyms": ["summit", "peak"],
+      "antonyms": ["base", "foot"]
+    },
+    {
+      "id": "2D_151",
+      "word": "mounted",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Increased steadily, or set in position.",
+      "example": "Mounted pressure eventually forced a policy change.",
+      "synonyms": ["accumulated", "increased"],
+      "antonyms": ["reduced", "diminished"]
+    },
+    {
+      "id": "2D_152",
+      "word": "mounting",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Increasing steadily.",
+      "example": "Mounting debt forced the firm into restructuring.",
+      "synonyms": ["increasing", "growing", "rising"],
+      "antonyms": ["decreasing", "easing"]
+    },
+    {
+      "id": "2D_153",
+      "word": "narrow",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of small width or extent, limited in scope.",
+      "example": "The election was decided by a narrow margin.",
+      "synonyms": ["slim", "slight", "limited"],
+      "antonyms": ["wide", "broad"]
+    },
+    {
+      "id": "2D_154",
+      "word": "narrowly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "By a very small margin.",
+      "example": "The company narrowly avoided bankruptcy.",
+      "synonyms": ["barely", "just"],
+      "antonyms": ["comfortably", "easily"]
+    },
+    {
+      "id": "2D_155",
+      "word": "negligible",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "So small as to be not worth considering.",
+      "example": "The tax change had a negligible effect on spending.",
+      "synonyms": ["insignificant", "minimal", "trivial"],
+      "antonyms": ["significant", "substantial"]
+    },
+    {
+      "id": "2D_156",
+      "word": "notable",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Worthy of attention or notice; remarkable.",
+      "example": "There was a notable improvement in customer satisfaction.",
+      "synonyms": ["noteworthy", "remarkable", "significant"],
+      "antonyms": ["unremarkable", "insignificant"]
+    },
+    {
+      "id": "2D_157",
+      "word": "notably",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a way that is worthy of attention, particularly.",
+      "example": "Profits rose notably in the technology sector.",
+      "synonyms": ["particularly", "remarkably"],
+      "antonyms": ["unremarkably"]
+    },
+    {
+      "id": "2D_158",
+      "word": "ongoing",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Continuing to happen or develop over time.",
+      "example": "The ongoing decline in exports concerned officials.",
+      "synonyms": ["continuing", "persistent"],
+      "antonyms": ["finished", "concluded"]
+    },
+    {
+      "id": "2D_159",
+      "word": "outright",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Complete and total, without restriction.",
+      "example": "The company reported an outright decline in sales for the first time in a decade.",
+      "synonyms": ["total", "complete", "absolute"],
+      "antonyms": ["partial"]
+    },
+    {
+      "id": "2D_160",
+      "word": "overarching",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "All-encompassing, dominant over all other considerations.",
+      "example": "The overarching goal was to stabilize the currency.",
+      "synonyms": ["primary", "dominant", "comprehensive"],
+      "antonyms": ["minor", "secondary"]
+    },
+    {
+      "id": "2D_161",
+      "word": "overwhelm",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To overpower someone or something completely.",
+      "example": "Demand overwhelmed the company's production capacity.",
+      "synonyms": ["swamp", "engulf", "inundate"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_162",
+      "word": "overwhelmed",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Completely overpowered by something.",
+      "example": "The overwhelmed factory struggled to meet the surge in orders.",
+      "synonyms": ["swamped", "inundated"],
+      "antonyms": ["unaffected", "composed"]
+    },
+    {
+      "id": "2D_163",
+      "word": "overwhelming",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Very great in amount or effect, difficult to resist.",
+      "example": "The overwhelming majority supported the merger.",
+      "synonyms": ["massive", "considerable", "extensive"],
+      "antonyms": ["minor", "negligible"]
+    },
+    {
+      "id": "2D_164",
+      "word": "phenomenal",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extraordinary, remarkable.",
+      "example": "The company achieved phenomenal growth in its first year.",
+      "synonyms": ["extraordinary", "remarkable", "exceptional"],
+      "antonyms": ["unremarkable", "ordinary"]
+    },
+    {
+      "id": "2D_165",
+      "word": "phenomenon",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A remarkable or unusual event or fact.",
+      "example": "Rapid urban migration became a global phenomenon.",
+      "synonyms": ["occurrence", "event"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_166",
+      "word": "plummet",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To fall or drop suddenly and steeply.",
+      "example": "Stock prices plummeted after the disappointing earnings report.",
+      "synonyms": ["plunge", "crash", "nosedive"],
+      "antonyms": ["soar", "rise"]
+    },
+    {
+      "id": "2D_167",
+      "word": "pronounce",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To declare or state formally, or to say a word clearly.",
+      "example": "The judge pronounced the merger unlawful.",
+      "synonyms": ["declare", "announce"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_168",
+      "word": "pronounced",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Very noticeable or marked.",
+      "example": "There was a pronounced shift in consumer preferences.",
+      "synonyms": ["marked", "noticeable", "distinct"],
+      "antonyms": ["subtle", "slight"]
+    },
+    {
+      "id": "2D_169",
+      "word": "pronouncement",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A formal or authoritative statement.",
+      "example": "The central bank's pronouncement caused markets to react sharply.",
+      "synonyms": ["declaration", "statement"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_170",
+      "word": "radical",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to fundamental change, extreme.",
+      "example": "The company implemented radical changes to its business model.",
+      "synonyms": ["extreme", "drastic", "fundamental"],
+      "antonyms": ["minor", "moderate"]
+    },
+    {
+      "id": "2D_171",
+      "word": "radicalism",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The beliefs or actions of people who favor extreme change.",
+      "example": "Economic radicalism gained popularity during the crisis.",
+      "synonyms": ["extremism", "militancy"],
+      "antonyms": ["moderation", "conservatism"]
+    },
+    {
+      "id": "2D_172",
+      "word": "radically",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a fundamental and extreme manner.",
+      "example": "The industry changed radically after the new regulations.",
+      "synonyms": ["fundamentally", "drastically"],
+      "antonyms": ["slightly", "marginally"]
+    },
+    {
+      "id": "2D_173",
+      "word": "rapid",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Happening in a short time or at great speed.",
+      "example": "The country experienced rapid economic growth.",
+      "synonyms": ["fast", "swift", "quick"],
+      "antonyms": ["slow", "gradual"]
+    },
+    {
+      "id": "2D_174",
+      "word": "rapidly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "At great speed.",
+      "example": "Prices rose rapidly following the shortage.",
+      "synonyms": ["quickly", "swiftly"],
+      "antonyms": ["slowly", "gradually"]
+    },
+    {
+      "id": "2D_175",
+      "word": "remarkable",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Worthy of attention, extraordinary.",
+      "example": "The company achieved remarkable success in a competitive market.",
+      "synonyms": ["extraordinary", "notable", "exceptional"],
+      "antonyms": ["unremarkable", "ordinary"]
+    },
+    {
+      "id": "2D_176",
+      "word": "remarkably",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a way that is worthy of attention.",
+      "example": "The economy recovered remarkably quickly after the crisis.",
+      "synonyms": ["extraordinarily", "notably"],
+      "antonyms": ["unremarkably"]
+    },
+    {
+      "id": "2D_177",
+      "word": "roller-coaster",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Characterized by rapid and dramatic ups and downs.",
+      "example": "Investors endured a roller-coaster year in the markets.",
+      "synonyms": ["volatile", "turbulent"],
+      "antonyms": ["stable", "steady"]
+    },
+    {
+      "id": "2D_178",
+      "word": "runaway",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Out of control, increasing rapidly and uncontrollably.",
+      "example": "Runaway inflation eroded household savings.",
+      "synonyms": ["uncontrolled", "rampant"],
+      "antonyms": ["controlled", "contained"]
+    },
+    {
+      "id": "2D_179",
+      "word": "severe",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Very great, serious, or intense, especially of something bad.",
+      "example": "The severe downturn led to widespread layoffs.",
+      "synonyms": ["serious", "intense", "harsh"],
+      "antonyms": ["mild", "minor"]
+    },
+    {
+      "id": "2D_180",
+      "word": "severed",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Completely cut off or separated.",
+      "example": "Trade ties were severed after the dispute.",
+      "synonyms": ["cut off", "separated"],
+      "antonyms": ["joined", "connected"]
+    },
+    {
+      "id": "2D_181",
+      "word": "severely",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very great or intense degree.",
+      "example": "The recession severely affected small businesses.",
+      "synonyms": ["seriously", "intensely", "harshly"],
+      "antonyms": ["mildly", "slightly"]
+    },
+    {
+      "id": "2D_182",
+      "word": "sharp",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Sudden and significant, especially of a change.",
+      "example": "The sharp rise in oil prices affected transportation costs.",
+      "synonyms": ["sudden", "steep", "abrupt"],
+      "antonyms": ["gradual", "gentle"]
+    },
+    {
+      "id": "2D_183",
+      "word": "sharpen",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To make more intense or acute.",
+      "example": "Competition sharpened as new firms entered the market.",
+      "synonyms": ["intensify", "heighten"],
+      "antonyms": ["dull", "soften"]
+    },
+    {
+      "id": "2D_184",
+      "word": "sharply",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Suddenly and to a great degree.",
+      "example": "Prices fell sharply after the announcement.",
+      "synonyms": ["suddenly", "steeply", "abruptly"],
+      "antonyms": ["gradually", "gently"]
+    },
+    {
+      "id": "2D_185",
+      "word": "sharpness",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The quality of being sudden and intense.",
+      "example": "The sharpness of the decline surprised economists.",
+      "synonyms": ["severity", "intensity"],
+      "antonyms": ["gradualness", "mildness"]
+    },
+    {
+      "id": "2D_186",
+      "word": "significance",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The quality of being important or meaningful.",
+      "example": "The significance of the policy change was widely debated.",
+      "synonyms": ["importance", "relevance"],
+      "antonyms": ["insignificance", "triviality"]
+    },
+    {
+      "id": "2D_187",
+      "word": "significant",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Sufficiently great or important to be worthy of attention.",
+      "example": "The company reported a significant increase in revenue.",
+      "synonyms": ["substantial", "considerable", "notable"],
+      "antonyms": ["insignificant", "negligible"]
+    },
+    {
+      "id": "2D_188",
+      "word": "significantly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a notably great extent.",
+      "example": "Costs increased significantly after the new regulations.",
+      "synonyms": ["substantially", "considerably"],
+      "antonyms": ["negligibly", "slightly"]
+    },
+    {
+      "id": "2D_189",
+      "word": "signifier",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A sign or symbol that indicates something.",
+      "example": "Rising employment served as a key signifier of economic recovery.",
+      "synonyms": ["indicator", "marker"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_190",
+      "word": "signify",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To indicate or suggest something.",
+      "example": "The drop in demand signified a broader economic slowdown.",
+      "synonyms": ["indicate", "denote", "suggest"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_191",
+      "word": "skyrocket",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To increase very rapidly and to a high level.",
+      "example": "Housing prices skyrocketed in major cities.",
+      "synonyms": ["soar", "surge", "rocket"],
+      "antonyms": ["plummet", "collapse"]
+    },
+    {
+      "id": "2D_192",
+      "word": "slight",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Small in degree, amount, or intensity.",
+      "example": "There was only a slight increase in unemployment.",
+      "synonyms": ["minor", "small", "marginal"],
+      "antonyms": ["substantial", "significant"]
+    },
+    {
+      "id": "2D_193",
+      "word": "slightly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a small degree.",
+      "example": "Sales rose slightly compared to last year.",
+      "synonyms": ["marginally", "somewhat"],
+      "antonyms": ["substantially", "significantly"]
+    },
+    {
+      "id": "2D_194",
+      "word": "slow",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Taking a long time, not fast.",
+      "example": "The company experienced slow but steady growth.",
+      "synonyms": ["gradual", "sluggish", "unhurried"],
+      "antonyms": ["fast", "rapid"]
+    },
+    {
+      "id": "2D_195",
+      "word": "slow-moving",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Moving or progressing slowly.",
+      "example": "The slow-moving recovery frustrated policymakers.",
+      "synonyms": ["sluggish", "gradual"],
+      "antonyms": ["fast-moving", "rapid"]
+    },
+    {
+      "id": "2D_196",
+      "word": "slowdown",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A reduction in speed or activity.",
+      "example": "The economic slowdown led to reduced hiring.",
+      "synonyms": ["deceleration", "downturn"],
+      "antonyms": ["acceleration", "upturn"]
+    },
+    {
+      "id": "2D_197",
+      "word": "slower",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Moving or progressing at a reduced speed.",
+      "example": "Growth was slower than analysts had expected.",
+      "synonyms": ["more gradual", "more sluggish"],
+      "antonyms": ["faster", "quicker"]
+    },
+    {
+      "id": "2D_198",
+      "word": "slowly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "At a slow pace.",
+      "example": "The economy recovered slowly after the recession.",
+      "synonyms": ["gradually", "steadily"],
+      "antonyms": ["quickly", "rapidly"]
+    },
+    {
+      "id": "2D_199",
+      "word": "small",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of limited size, amount, or degree.",
+      "example": "The company reported only a small increase in profits.",
+      "synonyms": ["minor", "modest", "slight"],
+      "antonyms": ["large", "substantial"]
+    },
+    {
+      "id": "2D_200",
+      "word": "small-scale",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Limited in size or extent.",
+      "example": "Small-scale farmers were hit hardest by the drought.",
+      "synonyms": ["limited", "minor"],
+      "antonyms": ["large-scale", "extensive"]
+    },
+    {
+      "id": "2D_201",
+      "word": "spectacular",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Beautiful or impressive in a dramatic way.",
+      "example": "The company posted spectacular growth in its first year.",
+      "synonyms": ["dramatic", "striking", "remarkable"],
+      "antonyms": ["unremarkable", "ordinary"]
+    },
+    {
+      "id": "2D_202",
+      "word": "spectacularly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a dramatically impressive manner.",
+      "example": "The strategy failed spectacularly, costing millions.",
+      "synonyms": ["dramatically", "strikingly"],
+      "antonyms": ["unremarkably"]
+    },
+    {
+      "id": "2D_203",
+      "word": "stagnate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To fail to grow or develop, remaining inactive.",
+      "example": "Wages stagnated for nearly a decade.",
+      "synonyms": ["stall", "plateau"],
+      "antonyms": ["grow", "develop"]
+    },
+    {
+      "id": "2D_204",
+      "word": "stagnation",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "The state of failing to grow or develop.",
+      "example": "Economic stagnation frustrated policymakers.",
+      "synonyms": ["stalling", "standstill"],
+      "antonyms": ["growth", "development"]
+    },
+    {
+      "id": "2D_205",
+      "word": "steadfast",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Firmly fixed or loyal, unwavering.",
+      "example": "The company remained steadfast in its commitment to quality.",
+      "synonyms": ["unwavering", "resolute", "firm"],
+      "antonyms": ["wavering", "irresolute"]
+    },
+    {
+      "id": "2D_206",
+      "word": "steadfastly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a firm and unwavering manner.",
+      "example": "The board steadfastly maintained its pricing strategy.",
+      "synonyms": ["firmly", "resolutely"],
+      "antonyms": ["waveringly", "hesitantly"]
+    },
+    {
+      "id": "2D_207",
+      "word": "steadily",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a firm, even, and consistent manner.",
+      "example": "The economy grew steadily throughout the decade.",
+      "synonyms": ["consistently", "gradually"],
+      "antonyms": ["erratically", "unevenly"]
+    },
+    {
+      "id": "2D_208",
+      "word": "steady",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Firmly fixed, consistent, not fluctuating.",
+      "example": "Steady demand kept prices stable throughout the year.",
+      "synonyms": ["stable", "consistent", "firm"],
+      "antonyms": ["unsteady", "erratic"]
+    },
+    {
+      "id": "2D_209",
+      "word": "steep",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Rising or falling sharply, especially of a rate.",
+      "example": "The steep decline in sales alarmed shareholders.",
+      "synonyms": ["sharp", "sudden", "abrupt"],
+      "antonyms": ["gradual", "gentle"]
+    },
+    {
+      "id": "2D_210",
+      "word": "steeple",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A tall tower on a building, typically a church.",
+      "example": "The steeple could be seen from across the town.",
+      "synonyms": ["spire"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_211",
+      "word": "steeply",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a way that rises or falls sharply.",
+      "example": "Oil prices fell steeply after the announcement.",
+      "synonyms": ["sharply", "abruptly"],
+      "antonyms": ["gradually", "gently"]
+    },
+    {
+      "id": "2D_212",
+      "word": "strong",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having great power, force, or intensity.",
+      "example": "The company reported strong growth despite the downturn.",
+      "synonyms": ["robust", "powerful", "vigorous"],
+      "antonyms": ["weak", "feeble"]
+    },
+    {
+      "id": "2D_213",
+      "word": "substantial",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Of considerable importance, size, or worth.",
+      "example": "The firm made a substantial investment in new technology.",
+      "synonyms": ["considerable", "significant", "sizable"],
+      "antonyms": ["negligible", "minor"]
+    },
+    {
+      "id": "2D_214",
+      "word": "substantially",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a great or significant extent.",
+      "example": "Revenue increased substantially after the merger.",
+      "synonyms": ["considerably", "significantly"],
+      "antonyms": ["negligibly", "slightly"]
+    },
+    {
+      "id": "2D_215",
+      "word": "substantiate",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To provide evidence to support or prove something.",
+      "example": "The report failed to substantiate its claims of rapid growth.",
+      "synonyms": ["verify", "confirm", "prove"],
+      "antonyms": ["refute", "disprove"]
+    },
+    {
+      "id": "2D_216",
+      "word": "substantive",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having a firm basis in reality, significant.",
+      "example": "The negotiations produced no substantive agreement.",
+      "synonyms": ["significant", "meaningful", "real"],
+      "antonyms": ["superficial", "trivial"]
+    },
+    {
+      "id": "2D_217",
+      "word": "sudden",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Occurring or done quickly and unexpectedly.",
+      "example": "The sudden drop in prices caught traders off guard.",
+      "synonyms": ["abrupt", "unexpected", "swift"],
+      "antonyms": ["gradual", "expected"]
+    },
+    {
+      "id": "2D_218",
+      "word": "suddenly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Quickly and unexpectedly.",
+      "example": "The market suddenly reversed course after the announcement.",
+      "synonyms": ["abruptly", "unexpectedly"],
+      "antonyms": ["gradually"]
+    },
+    {
+      "id": "2D_219",
+      "word": "surge",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A sudden powerful increase.",
+      "example": "A surge in demand overwhelmed the supply chain.",
+      "synonyms": ["upsurge", "spike", "jump"],
+      "antonyms": ["decline", "drop"]
+    },
+    {
+      "id": "2D_220",
+      "word": "surgeon",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "A doctor who performs surgical operations.",
+      "example": "The hospital hired several new surgeons to meet rising demand.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2D_221",
+      "word": "surgery",
+      "type": "noun",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Medical treatment involving operations.",
+      "example": "Advances in surgery improved recovery rates significantly.",
+      "synonyms": ["operation"],
+      "antonyms": []
+    },
+    {
+      "id": "2D_222",
+      "word": "surgical",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Relating to surgery, or precise and targeted.",
+      "example": "The firm made surgical cuts to underperforming divisions.",
+      "synonyms": ["precise", "targeted", "exact"],
+      "antonyms": ["imprecise", "broad"]
+    },
+    {
+      "id": "2D_223",
+      "word": "surgically",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "In a precise and targeted manner.",
+      "example": "Management surgically addressed the causes of declining productivity.",
+      "synonyms": ["precisely", "methodically"],
+      "antonyms": ["haphazardly"]
+    },
+    {
+      "id": "2D_224",
+      "word": "sweeping",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Extensive in scope or effect, comprehensive.",
+      "example": "The government introduced sweeping reforms to the tax system.",
+      "synonyms": ["extensive", "comprehensive", "wide-ranging"],
+      "antonyms": ["limited", "narrow"]
+    },
+    {
+      "id": "2D_225",
+      "word": "swift",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Happening quickly or promptly.",
+      "example": "The central bank's swift response calmed the markets.",
+      "synonyms": ["rapid", "quick", "prompt"],
+      "antonyms": ["slow", "sluggish"]
+    },
+    {
+      "id": "2D_226",
+      "word": "swiftly",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Quickly, promptly.",
+      "example": "The company acted swiftly to address the crisis.",
+      "synonyms": ["rapidly", "promptly"],
+      "antonyms": ["slowly", "sluggishly"]
+    },
+    {
+      "id": "2D_227",
+      "word": "temporary",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Lasting for only a limited time.",
+      "example": "The temporary decline in sales was expected to reverse.",
+      "synonyms": ["short-term", "transient"],
+      "antonyms": ["permanent", "lasting"]
+    },
+    {
+      "id": "2D_228",
+      "word": "thick",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having a large distance between opposite sides, dense.",
+      "example": "The thick fog delayed flights across the region.",
+      "synonyms": ["dense", "heavy"],
+      "antonyms": ["thin", "sparse"]
+    },
+    {
+      "id": "2D_229",
+      "word": "thin",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Having a small distance between opposite sides, sparse.",
+      "example": "Trading was thin during the holiday period.",
+      "synonyms": ["sparse", "light", "slight"],
+      "antonyms": ["thick", "dense"]
+    },
+    {
+      "id": "2D_230",
+      "word": "transient",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Lasting only for a short time, temporary.",
+      "example": "The transient spike in prices did not reflect long-term trends.",
+      "synonyms": ["temporary", "fleeting", "short-lived"],
+      "antonyms": ["permanent", "lasting"]
+    },
+    {
+      "id": "2D_231",
+      "word": "tremendous",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Very great in amount, scale, or intensity.",
+      "example": "The company achieved tremendous growth in its first year.",
+      "synonyms": ["enormous", "huge", "massive"],
+      "antonyms": ["minimal", "negligible"]
+    },
+    {
+      "id": "2D_232",
+      "word": "tremendously",
+      "type": "adverb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To a very great extent.",
+      "example": "Sales increased tremendously after the marketing campaign.",
+      "synonyms": ["enormously", "hugely"],
+      "antonyms": ["minimally", "slightly"]
+    },
+    {
+      "id": "2D_233",
+      "word": "unprecedented",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Never done or known before.",
+      "example": "The company reported unprecedented growth in the digital sector.",
+      "synonyms": ["unparalleled", "record-breaking"],
+      "antonyms": ["common", "ordinary"]
+    },
+    {
+      "id": "2D_234",
+      "word": "weak",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Lacking strength, power, or intensity.",
+      "example": "Weak demand forced the factory to cut production.",
+      "synonyms": ["feeble", "fragile", "soft"],
+      "antonyms": ["strong", "robust"]
+    },
+    {
+      "id": "2D_235",
+      "word": "weaken",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To make or become less strong.",
+      "example": "The currency weakened against the dollar after the announcement.",
+      "synonyms": ["diminish", "undermine", "erode"],
+      "antonyms": ["strengthen", "bolster"]
+    },
+    {
+      "id": "2D_236",
+      "word": "weakened",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Made less strong.",
+      "example": "The weakened economy struggled to recover from the crisis.",
+      "synonyms": ["diminished", "undermined"],
+      "antonyms": ["strengthened", "robust"]
+    },
+    {
+      "id": "2D_237",
+      "word": "weakening",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Becoming less strong.",
+      "example": "The weakening currency raised concerns about inflation.",
+      "synonyms": ["declining", "softening"],
+      "antonyms": ["strengthening", "improving"]
+    },
+    {
+      "id": "2D_238",
+      "word": "well-documented",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Thoroughly recorded and supported by evidence.",
+      "example": "The well-documented decline in birth rates concerned economists.",
+      "synonyms": ["well-recorded", "well-established"],
+      "antonyms": ["undocumented", "unverified"]
+    },
+    {
+      "id": "2D_239",
+      "word": "wide",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Covering a large area or extent, broad.",
+      "example": "The company offered a wide range of products.",
+      "synonyms": ["broad", "extensive"],
+      "antonyms": ["narrow", "limited"]
+    },
+    {
+      "id": "2D_240",
+      "word": "widen",
+      "type": "verb",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "To become or make broader or larger.",
+      "example": "The gap between rich and poor widened during the recession.",
+      "synonyms": ["broaden", "expand", "extend"],
+      "antonyms": ["narrow", "shrink"]
+    },
+    {
+      "id": "2D_241",
+      "word": "widening",
+      "type": "adjective",
+      "category": "Adjectives & Adverbs for Degree, Rate & Intensity of Change",
+      "meaning": "Becoming broader or larger.",
+      "example": "The widening trade deficit concerned policymakers.",
+      "synonyms": ["broadening", "expanding"],
+      "antonyms": ["narrowing", "shrinking"]
     }
   ]
 }

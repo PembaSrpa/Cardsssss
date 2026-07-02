@@ -4,16 +4,2453 @@
   "words": [
     {
       "id": "2A_001",
-      "word": "placeholder",
+      "word": "accelerate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase in speed or make something happen faster.",
+      "example": "Economic growth accelerated rapidly after the reforms were introduced.",
+      "synonyms": ["speed up", "hasten", "quicken", "expedite"],
+      "antonyms": ["slow", "decelerate", "delay"]
+    },
+    {
+      "id": "2A_002",
+      "word": "accelerated",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Happening at a faster rate than usual.",
+      "example": "Students in the accelerated program complete the course in half the time.",
+      "synonyms": ["rapid", "expedited", "fast-tracked"],
+      "antonyms": ["gradual", "slow", "delayed"]
+    },
+    {
+      "id": "2A_003",
+      "word": "accelerating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increasing in speed or rate.",
+      "example": "The accelerating pace of technological change has transformed the workplace.",
+      "synonyms": ["quickening", "speeding", "intensifying"],
+      "antonyms": ["slowing", "decelerating"]
+    },
+    {
+      "id": "2A_004",
+      "word": "acceleration",
       "type": "noun",
       "category": "Verbs & Nouns for Upward Movement",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "An increase in speed or rate.",
+      "example": "The report highlighted the acceleration of climate change in polar regions.",
+      "synonyms": ["speeding up", "quickening", "increase"],
+      "antonyms": ["deceleration", "slowdown"]
+    },
+    {
+      "id": "2A_005",
+      "word": "accelerator",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A device or factor that increases speed or progress.",
+      "example": "Government funding acted as an accelerator for the renewable energy sector.",
+      "synonyms": ["catalyst", "booster", "stimulant"],
+      "antonyms": ["brake", "inhibitor"]
+    },
+    {
+      "id": "2A_006",
+      "word": "accentuate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make something more noticeable or prominent.",
+      "example": "The new policy accentuated existing inequalities in the education system.",
+      "synonyms": ["emphasize", "highlight", "intensify"],
+      "antonyms": ["downplay", "diminish", "understate"]
+    },
+    {
+      "id": "2A_007",
+      "word": "acquire",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To obtain or gain possession of something.",
+      "example": "The company acquired several smaller firms to expand its market share.",
+      "synonyms": ["obtain", "gain", "secure", "procure"],
+      "antonyms": ["lose", "forfeit", "relinquish"]
+    },
+    {
+      "id": "2A_008",
+      "word": "acquired",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Obtained through effort or experience rather than being innate.",
+      "example": "An acquired taste for spicy food often develops over time.",
+      "synonyms": ["gained", "learned", "developed"],
+      "antonyms": ["innate", "natural", "inherent"]
+    },
+    {
+      "id": "2A_009",
+      "word": "amplification",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of increasing something in size, volume, or intensity.",
+      "example": "The amplification of public concern led to stricter environmental regulations.",
+      "synonyms": ["intensification", "magnification", "enhancement"],
+      "antonyms": ["reduction", "diminishment"]
+    },
+    {
+      "id": "2A_010",
+      "word": "amplifier",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A device or agent that increases the strength or effect of something.",
+      "example": "Social media acted as an amplifier for the protest movement.",
+      "synonyms": ["booster", "enhancer", "magnifier"],
+      "antonyms": ["dampener", "suppressor"]
+    },
+    {
+      "id": "2A_011",
+      "word": "amplify",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase the strength, volume, or effect of something.",
+      "example": "The findings amplify concerns about the safety of the drug.",
+      "synonyms": ["intensify", "magnify", "boost", "heighten"],
+      "antonyms": ["reduce", "diminish", "dampen"]
+    },
+    {
+      "id": "2A_012",
+      "word": "appreciate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase in value over time.",
+      "example": "Property in the city has appreciated significantly over the past decade.",
+      "synonyms": ["increase", "rise", "gain", "grow"],
+      "antonyms": ["depreciate", "decline", "fall"]
+    },
+    {
+      "id": "2A_013",
+      "word": "appreciation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An increase in value or worth.",
+      "example": "The appreciation of the currency made imports cheaper.",
+      "synonyms": ["increase", "growth", "rise"],
+      "antonyms": ["depreciation", "decline"]
+    },
+    {
+      "id": "2A_014",
+      "word": "appreciative",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Feeling or showing gratitude or recognition.",
+      "example": "The audience was appreciative of the speaker's insightful analysis.",
+      "synonyms": ["grateful", "thankful", "admiring"],
+      "antonyms": ["ungrateful", "dismissive"]
+    },
+    {
+      "id": "2A_015",
+      "word": "ascend",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To rise or climb upward.",
+      "example": "She ascended quickly through the ranks of the organization.",
+      "synonyms": ["rise", "climb", "mount"],
+      "antonyms": ["descend", "fall", "drop"]
+    },
+    {
+      "id": "2A_016",
+      "word": "ascendancy",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A position of dominance or increasing power.",
+      "example": "The party's ascendancy in national politics was evident after the election.",
+      "synonyms": ["dominance", "supremacy", "control"],
+      "antonyms": ["decline", "subordination"]
+    },
+    {
+      "id": "2A_017",
+      "word": "ascending",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Rising or moving upward.",
+      "example": "The report presents the data in ascending order of severity.",
+      "synonyms": ["rising", "climbing", "mounting"],
+      "antonyms": ["descending", "falling"]
+    },
+    {
+      "id": "2A_018",
+      "word": "bonus",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An extra reward or benefit beyond what is expected.",
+      "example": "Employees received a bonus for exceeding their sales targets.",
+      "synonyms": ["incentive", "reward", "perk"],
+      "antonyms": ["penalty", "deduction"]
+    },
+    {
+      "id": "2A_019",
+      "word": "boom",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A period of rapid growth or increase.",
+      "example": "The country experienced an economic boom in the 1990s.",
+      "synonyms": ["upturn", "upsurge", "surge"],
+      "antonyms": ["slump", "recession", "bust"]
+    },
+    {
+      "id": "2A_020",
+      "word": "boomer",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person or thing, especially in business, that grows or rises rapidly.",
+      "example": "Analysts labeled the tech firm a boomer stock after its rapid rise.",
+      "synonyms": ["high-flyer", "riser"],
+      "antonyms": ["laggard"]
+    },
+    {
+      "id": "2A_021",
+      "word": "booming",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Growing rapidly and successfully.",
+      "example": "The booming housing market attracted investors from abroad.",
+      "synonyms": ["thriving", "flourishing", "prospering"],
+      "antonyms": ["declining", "struggling", "failing"]
+    },
+    {
+      "id": "2A_022",
+      "word": "boon",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A benefit or advantage.",
+      "example": "Low interest rates were a boon for first-time homebuyers.",
+      "synonyms": ["benefit", "advantage", "blessing"],
+      "antonyms": ["drawback", "hindrance", "burden"]
+    },
+    {
+      "id": "2A_023",
+      "word": "boost",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase or improve something.",
+      "example": "The government introduced tax cuts to boost consumer spending.",
+      "synonyms": ["increase", "enhance", "stimulate", "lift"],
+      "antonyms": ["reduce", "hinder", "weaken"]
+    },
+    {
+      "id": "2A_024",
+      "word": "booster",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Something that increases or improves the effect of something else.",
+      "example": "The vaccine booster increased immunity levels significantly.",
+      "synonyms": ["enhancer", "stimulant", "aid"],
+      "antonyms": ["suppressant", "inhibitor"]
+    },
+    {
+      "id": "2A_025",
+      "word": "brisk",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Quick and energetic.",
+      "example": "Sales were brisk during the holiday season.",
+      "synonyms": ["fast", "lively", "rapid"],
+      "antonyms": ["sluggish", "slow", "leisurely"]
+    },
+    {
+      "id": "2A_026",
+      "word": "briskly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "In a quick and energetic manner.",
+      "example": "The new product line sold briskly upon release.",
+      "synonyms": ["quickly", "rapidly", "swiftly"],
+      "antonyms": ["slowly", "sluggishly"]
+    },
+    {
+      "id": "2A_027",
+      "word": "buoyant",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Cheerful and optimistic, or, of markets, tending to remain high or rise.",
+      "example": "Investor sentiment remained buoyant despite global uncertainty.",
+      "synonyms": ["optimistic", "thriving", "upbeat"],
+      "antonyms": ["pessimistic", "depressed", "sluggish"]
+    },
+    {
+      "id": "2A_028",
+      "word": "burst",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase or appear suddenly and rapidly.",
+      "example": "Demand for the product burst onto the scene after the celebrity endorsement.",
+      "synonyms": ["surge", "erupt", "explode"],
+      "antonyms": ["fizzle", "subside", "wane"]
+    },
+    {
+      "id": "2A_029",
+      "word": "capture",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To succeed in gaining or securing something, such as market share.",
+      "example": "The startup captured a significant share of the market within a year.",
+      "synonyms": ["seize", "secure", "gain"],
+      "antonyms": ["lose", "relinquish", "forfeit"]
+    },
+    {
+      "id": "2A_030",
+      "word": "climb",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To rise or increase steadily.",
+      "example": "Unemployment figures climbed for the third consecutive month.",
+      "synonyms": ["rise", "increase", "ascend"],
+      "antonyms": ["fall", "drop", "decline"]
+    },
+    {
+      "id": "2A_031",
+      "word": "climber",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person or thing that rises or advances quickly.",
+      "example": "The startup was seen as a fast climber in the tech industry.",
+      "synonyms": ["riser", "achiever"],
+      "antonyms": ["laggard"]
+    },
+    {
+      "id": "2A_032",
+      "word": "climbing",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of rising or increasing.",
+      "example": "The steady climbing of oil prices concerned economists.",
+      "synonyms": ["rising", "ascending", "increasing"],
+      "antonyms": ["falling", "declining"]
+    },
+    {
+      "id": "2A_033",
+      "word": "compound",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase or intensify something, often negatively.",
+      "example": "Poor management compounded the company's financial difficulties.",
+      "synonyms": ["intensify", "aggravate", "worsen"],
+      "antonyms": ["alleviate", "ease", "mitigate"]
+    },
+    {
+      "id": "2A_034",
+      "word": "crest",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The highest point or peak of something.",
+      "example": "Prices reached their crest before falling sharply.",
+      "synonyms": ["peak", "summit", "apex"],
+      "antonyms": ["trough", "low point"]
+    },
+    {
+      "id": "2A_035",
+      "word": "debut",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A first appearance or introduction, often marking a rise to prominence.",
+      "example": "The company's stock debut exceeded analysts' expectations.",
+      "synonyms": ["launch", "introduction", "premiere"],
+      "antonyms": ["withdrawal", "exit"]
+    },
+    {
+      "id": "2A_036",
+      "word": "dominate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To have a controlling or major influence over something.",
+      "example": "The firm continues to dominate the global smartphone market.",
+      "synonyms": ["control", "rule", "lead"],
+      "antonyms": ["submit", "yield", "lag"]
+    },
+    {
+      "id": "2A_037",
+      "word": "domination",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Control or power over something.",
+      "example": "Market domination allowed the company to set industry prices.",
+      "synonyms": ["control", "supremacy", "dominance"],
+      "antonyms": ["submission", "subordination"]
+    },
+    {
+      "id": "2A_038",
+      "word": "double",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make twice as large.",
+      "example": "Revenue doubled within two years of the product launch.",
+      "synonyms": ["multiply", "increase", "escalate"],
+      "antonyms": ["halve", "reduce"]
+    },
+    {
+      "id": "2A_039",
+      "word": "double-digit",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Relating to a number between 10 and 99, often used to describe strong growth rates.",
+      "example": "The firm reported double-digit growth for the fourth consecutive quarter.",
+      "synonyms": ["substantial", "significant"],
+      "antonyms": ["negligible", "marginal"]
+    },
+    {
+      "id": "2A_040",
+      "word": "double-edged",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having both positive and negative effects.",
+      "example": "Automation is a double-edged development for the manufacturing sector.",
+      "synonyms": ["mixed", "ambivalent", "two-sided"],
+      "antonyms": ["straightforward", "clear-cut"]
+    },
+    {
+      "id": "2A_041",
+      "word": "doubling",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of becoming or making twice as much.",
+      "example": "The doubling of production capacity met rising demand.",
+      "synonyms": ["multiplication", "increase"],
+      "antonyms": ["halving", "reduction"]
+    },
+    {
+      "id": "2A_042",
+      "word": "doubly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To twice the extent or degree.",
+      "example": "The results were doubly impressive given the limited resources available.",
+      "synonyms": ["especially", "particularly"],
+      "antonyms": ["barely", "hardly"]
+    },
+    {
+      "id": "2A_043",
+      "word": "driving",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Providing the main energy or motivation for something.",
+      "example": "Innovation has been the driving force behind the company's growth.",
+      "synonyms": ["motivating", "propelling", "leading"],
+      "antonyms": ["hindering", "restraining"]
+    },
+    {
+      "id": "2A_044",
+      "word": "elevate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To raise to a higher position or level.",
+      "example": "The promotion elevated her to a senior management role.",
+      "synonyms": ["raise", "lift", "promote"],
+      "antonyms": ["lower", "demote", "reduce"]
+    },
+    {
+      "id": "2A_045",
+      "word": "elevated",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Raised to a higher level than usual.",
+      "example": "Elevated stress levels among workers were linked to longer hours.",
+      "synonyms": ["raised", "heightened", "increased"],
+      "antonyms": ["reduced", "lowered"]
+    },
+    {
+      "id": "2A_046",
+      "word": "elevation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of raising something, or height above a reference level.",
+      "example": "The elevation of interest rates aimed to control inflation.",
+      "synonyms": ["increase", "rise", "raising"],
+      "antonyms": ["decrease", "lowering"]
+    },
+    {
+      "id": "2A_047",
+      "word": "elevator",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A mechanism or agent that lifts something to a higher level.",
+      "example": "Mentorship programs act as an elevator for underrepresented employees.",
+      "synonyms": ["lift", "hoist"],
       "antonyms": []
+    },
+    {
+      "id": "2A_048",
+      "word": "enlarge",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make something bigger.",
+      "example": "The company enlarged its product range to attract new customers.",
+      "synonyms": ["expand", "extend", "increase"],
+      "antonyms": ["shrink", "reduce", "contract"]
+    },
+    {
+      "id": "2A_049",
+      "word": "enlarged",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made bigger than before.",
+      "example": "The enlarged team was able to handle a greater workload.",
+      "synonyms": ["expanded", "extended", "bigger"],
+      "antonyms": ["reduced", "shrunk"]
+    },
+    {
+      "id": "2A_050",
+      "word": "enlargement",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of making something bigger.",
+      "example": "The enlargement of the trade bloc brought economic benefits to member states.",
+      "synonyms": ["expansion", "extension", "growth"],
+      "antonyms": ["reduction", "contraction"]
+    },
+    {
+      "id": "2A_051",
+      "word": "erupt",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To break out suddenly and dramatically.",
+      "example": "Protests erupted following the announcement of new taxes.",
+      "synonyms": ["explode", "break out", "flare up"],
+      "antonyms": ["subside", "calm", "fade"]
+    },
+    {
+      "id": "2A_052",
+      "word": "eruption",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A sudden and dramatic outbreak.",
+      "example": "The eruption of inflation caught policymakers off guard.",
+      "synonyms": ["outbreak", "explosion", "flare-up"],
+      "antonyms": ["calm", "subsidence"]
+    },
+    {
+      "id": "2A_053",
+      "word": "escalate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase rapidly in intensity or extent.",
+      "example": "Tensions escalated between the two trading partners.",
+      "synonyms": ["intensify", "increase", "worsen"],
+      "antonyms": ["de-escalate", "ease", "diminish"]
+    },
+    {
+      "id": "2A_054",
+      "word": "escalating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increasing rapidly.",
+      "example": "Escalating costs forced the firm to cut its workforce.",
+      "synonyms": ["rising", "growing", "intensifying"],
+      "antonyms": ["declining", "easing"]
+    },
+    {
+      "id": "2A_055",
+      "word": "escalation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A rapid increase in intensity or extent.",
+      "example": "The escalation of the conflict disrupted global trade routes.",
+      "synonyms": ["intensification", "increase", "buildup"],
+      "antonyms": ["de-escalation", "reduction"]
+    },
+    {
+      "id": "2A_056",
+      "word": "escalator",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Something that causes a steady, automatic increase, or a moving staircase.",
+      "example": "Wage escalators were built into many long-term labor contracts.",
+      "synonyms": ["booster", "accelerant"],
+      "antonyms": ["dampener"]
+    },
+    {
+      "id": "2A_057",
+      "word": "exceed",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To go beyond a limit or expectation.",
+      "example": "Quarterly profits exceeded analysts' forecasts.",
+      "synonyms": ["surpass", "outdo", "top"],
+      "antonyms": ["fall short", "underperform"]
+    },
+    {
+      "id": "2A_058",
+      "word": "exceedingly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To a very great extent.",
+      "example": "The new policy proved exceedingly popular among small businesses.",
+      "synonyms": ["extremely", "remarkably", "highly"],
+      "antonyms": ["slightly", "marginally"]
+    },
+    {
+      "id": "2A_059",
+      "word": "expand",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make larger in size or scope.",
+      "example": "The firm plans to expand into overseas markets next year.",
+      "synonyms": ["grow", "extend", "enlarge"],
+      "antonyms": ["contract", "shrink", "reduce"]
+    },
+    {
+      "id": "2A_060",
+      "word": "expanded",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made larger in size or scope.",
+      "example": "The expanded curriculum now includes courses in data science.",
+      "synonyms": ["enlarged", "extended", "broadened"],
+      "antonyms": ["reduced", "condensed"]
+    },
+    {
+      "id": "2A_061",
+      "word": "expanding",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Growing or increasing in size or scope.",
+      "example": "The expanding population placed pressure on housing supply.",
+      "synonyms": ["growing", "increasing", "widening"],
+      "antonyms": ["shrinking", "contracting"]
+    },
+    {
+      "id": "2A_062",
+      "word": "experience",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To undergo or be affected by a change or increase.",
+      "example": "The region experienced rapid economic growth after the reforms.",
+      "synonyms": ["undergo", "encounter", "go through"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_063",
+      "word": "experienced",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having gained knowledge or skill through practice over time.",
+      "example": "The company hired an experienced manager to oversee the expansion.",
+      "synonyms": ["skilled", "seasoned", "practiced"],
+      "antonyms": ["inexperienced", "novice"]
+    },
+    {
+      "id": "2A_064",
+      "word": "extend",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make something longer, larger, or more far-reaching.",
+      "example": "The government extended the deadline for tax submissions.",
+      "synonyms": ["prolong", "lengthen", "expand"],
+      "antonyms": ["shorten", "curtail", "reduce"]
+    },
+    {
+      "id": "2A_065",
+      "word": "extended",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made longer or larger than usual.",
+      "example": "An extended period of growth boosted employment figures.",
+      "synonyms": ["prolonged", "lengthened", "expanded"],
+      "antonyms": ["shortened", "brief"]
+    },
+    {
+      "id": "2A_066",
+      "word": "flourish",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To grow or develop successfully.",
+      "example": "Small businesses flourished under the new economic policies.",
+      "synonyms": ["thrive", "prosper", "bloom"],
+      "antonyms": ["decline", "wither", "fail"]
+    },
+    {
+      "id": "2A_067",
+      "word": "flourishing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Growing or developing successfully.",
+      "example": "The flourishing tech sector attracted international investment.",
+      "synonyms": ["thriving", "prospering", "booming"],
+      "antonyms": ["declining", "struggling"]
+    },
+    {
+      "id": "2A_068",
+      "word": "forward",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Toward the front or in an advancing direction.",
+      "example": "The company pushed forward with its expansion plans despite setbacks.",
+      "synonyms": ["onward", "ahead", "forth"],
+      "antonyms": ["backward"]
+    },
+    {
+      "id": "2A_069",
+      "word": "forwards",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "In a direction toward the front, moving on.",
+      "example": "Sales figures moved forwards steadily throughout the quarter.",
+      "synonyms": ["onward", "ahead", "forth"],
+      "antonyms": ["backwards"]
+    },
+    {
+      "id": "2A_070",
+      "word": "gain",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To obtain or increase something, especially over time.",
+      "example": "The company gained a competitive edge through innovation.",
+      "synonyms": ["acquire", "obtain", "increase"],
+      "antonyms": ["lose", "forfeit"]
+    },
+    {
+      "id": "2A_071",
+      "word": "galvanize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To shock or excite someone into taking action.",
+      "example": "The crisis galvanized the government into passing new legislation.",
+      "synonyms": ["spur", "motivate", "energize"],
+      "antonyms": ["discourage", "demoralize"]
+    },
+    {
+      "id": "2A_072",
+      "word": "galvanized",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Shocked or excited into action.",
+      "example": "The galvanized workforce quickly adapted to the new production targets.",
+      "synonyms": ["motivated", "energized", "spurred"],
+      "antonyms": ["demoralized", "discouraged"]
+    },
+    {
+      "id": "2A_073",
+      "word": "grow",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase in size, amount, or degree.",
+      "example": "The economy grew steadily throughout the decade.",
+      "synonyms": ["increase", "expand", "develop"],
+      "antonyms": ["shrink", "decline", "contract"]
+    },
+    {
+      "id": "2A_074",
+      "word": "grower",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person or organization that cultivates or produces something, or a thing that expands well.",
+      "example": "Local growers benefited from rising demand for organic produce.",
+      "synonyms": ["producer", "cultivator"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_075",
+      "word": "growing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increasing in size, amount, or degree.",
+      "example": "There is growing concern about the impact of automation on jobs.",
+      "synonyms": ["increasing", "rising", "expanding"],
+      "antonyms": ["shrinking", "declining"]
+    },
+    {
+      "id": "2A_076",
+      "word": "growl",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A low, rough sound made by an animal or person.",
+      "example": "The dog let out a low growl when the stranger approached.",
+      "synonyms": ["snarl", "rumble"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_077",
+      "word": "grown",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having reached full physical development, or increased in size.",
+      "example": "The grown market for electric vehicles surprised many analysts.",
+      "synonyms": ["matured", "developed", "expanded"],
+      "antonyms": ["undeveloped", "immature"]
+    },
+    {
+      "id": "2A_078",
+      "word": "grown-up",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Relating to or characteristic of an adult.",
+      "example": "The company adopted a more grown-up approach to risk management.",
+      "synonyms": ["mature", "adult", "developed"],
+      "antonyms": ["childish", "immature"]
+    },
+    {
+      "id": "2A_079",
+      "word": "growth",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of increasing in size, amount, or degree.",
+      "example": "Sustained economic growth reduced the national unemployment rate.",
+      "synonyms": ["expansion", "increase", "development"],
+      "antonyms": ["decline", "contraction", "recession"]
+    },
+    {
+      "id": "2A_080",
+      "word": "harness",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To control and make use of resources, especially for a productive purpose.",
+      "example": "The country harnessed wind power to boost renewable energy output.",
+      "synonyms": ["utilize", "exploit", "channel"],
+      "antonyms": ["waste", "neglect"]
+    },
+    {
+      "id": "2A_081",
+      "word": "height",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The highest or most intense point of something.",
+      "example": "The company's success reached new heights after the merger.",
+      "synonyms": ["peak", "summit", "apex"],
+      "antonyms": ["low point", "nadir"]
+    },
+    {
+      "id": "2A_082",
+      "word": "heighten",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make something more intense or noticeable.",
+      "example": "The scandal heightened public distrust of government institutions.",
+      "synonyms": ["intensify", "increase", "amplify"],
+      "antonyms": ["lessen", "reduce", "diminish"]
+    },
+    {
+      "id": "2A_083",
+      "word": "heightened",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made more intense or noticeable.",
+      "example": "Heightened security measures were introduced after the incident.",
+      "synonyms": ["increased", "intensified", "elevated"],
+      "antonyms": ["reduced", "lowered"]
+    },
+    {
+      "id": "2A_084",
+      "word": "hit",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To reach a particular level, especially a high one.",
+      "example": "Oil prices hit a record high last month.",
+      "synonyms": ["reach", "attain", "achieve"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_085",
+      "word": "improve",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make or become better.",
+      "example": "The training program helped improve employee productivity.",
+      "synonyms": ["enhance", "upgrade", "better"],
+      "antonyms": ["worsen", "deteriorate", "decline"]
+    },
+    {
+      "id": "2A_086",
+      "word": "improved",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made better than before.",
+      "example": "Improved efficiency reduced production costs significantly.",
+      "synonyms": ["enhanced", "upgraded", "better"],
+      "antonyms": ["worsened", "deteriorated"]
+    },
+    {
+      "id": "2A_087",
+      "word": "improvement",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of making or becoming better.",
+      "example": "The report noted a marked improvement in air quality.",
+      "synonyms": ["enhancement", "progress", "advancement"],
+      "antonyms": ["deterioration", "decline"]
+    },
+    {
+      "id": "2A_088",
+      "word": "improving",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Becoming better over time.",
+      "example": "The improving job market encouraged more graduates to enter the workforce.",
+      "synonyms": ["strengthening", "recovering", "advancing"],
+      "antonyms": ["worsening", "declining"]
+    },
+    {
+      "id": "2A_089",
+      "word": "improvisation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of creating or performing something spontaneously without preparation.",
+      "example": "The team's improvisation allowed them to meet the tight deadline.",
+      "synonyms": ["spontaneity", "ad-libbing"],
+      "antonyms": ["preparation", "planning"]
+    },
+    {
+      "id": "2A_090",
+      "word": "improvise",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To create or perform something spontaneously without preparation.",
+      "example": "Managers had to improvise solutions during the supply chain crisis.",
+      "synonyms": ["extemporize", "ad-lib"],
+      "antonyms": ["plan", "prepare"]
+    },
+    {
+      "id": "2A_091",
+      "word": "improvised",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made or done spontaneously without preparation.",
+      "example": "The improvised policy response failed to address the root cause.",
+      "synonyms": ["makeshift", "spontaneous", "unplanned"],
+      "antonyms": ["planned", "prepared"]
+    },
+    {
+      "id": "2A_092",
+      "word": "incentive",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Something that motivates or encourages a particular action.",
+      "example": "Tax incentives encouraged companies to invest in renewable energy.",
+      "synonyms": ["motivation", "inducement", "stimulus"],
+      "antonyms": ["deterrent", "disincentive"]
+    },
+    {
+      "id": "2A_093",
+      "word": "increase",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make greater in size, amount, or degree.",
+      "example": "The population is expected to increase significantly by 2050.",
+      "synonyms": ["rise", "grow", "expand"],
+      "antonyms": ["decrease", "decline", "reduce"]
+    },
+    {
+      "id": "2A_094",
+      "word": "increased",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made or become greater in size or amount.",
+      "example": "Increased demand led to higher prices for raw materials.",
+      "synonyms": ["heightened", "greater", "expanded"],
+      "antonyms": ["decreased", "reduced"]
+    },
+    {
+      "id": "2A_095",
+      "word": "increasing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Becoming greater in size, amount, or degree.",
+      "example": "There is increasing awareness of the need for sustainable practices.",
+      "synonyms": ["growing", "rising", "mounting"],
+      "antonyms": ["decreasing", "diminishing"]
+    },
+    {
+      "id": "2A_096",
+      "word": "increasingly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Progressively more.",
+      "example": "Consumers are increasingly concerned about environmental impact.",
+      "synonyms": ["progressively", "more and more", "growingly"],
+      "antonyms": ["decreasingly"]
+    },
+    {
+      "id": "2A_097",
+      "word": "inflatable",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Able to be filled with air or gas.",
+      "example": "The company produced inflatable structures for outdoor events.",
+      "synonyms": ["expandable"],
+      "antonyms": ["rigid"]
+    },
+    {
+      "id": "2A_098",
+      "word": "inflate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase artificially or excessively.",
+      "example": "Speculators inflated the price of the stock beyond its real value.",
+      "synonyms": ["increase", "exaggerate", "boost"],
+      "antonyms": ["deflate", "reduce"]
+    },
+    {
+      "id": "2A_099",
+      "word": "inflated",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increased excessively, often artificially.",
+      "example": "Consumers complained about the inflated prices of basic goods.",
+      "synonyms": ["exaggerated", "excessive", "overstated"],
+      "antonyms": ["deflated", "understated"]
+    },
+    {
+      "id": "2A_100",
+      "word": "inflation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A general increase in prices and fall in purchasing power.",
+      "example": "Rising inflation eroded household savings over the year.",
+      "synonyms": ["price rise", "escalation"],
+      "antonyms": ["deflation"]
+    },
+    {
+      "id": "2A_101",
+      "word": "inflationary",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Tending to cause or characterized by inflation.",
+      "example": "Inflationary pressures forced the central bank to raise interest rates.",
+      "synonyms": ["rising", "escalating"],
+      "antonyms": ["deflationary"]
+    },
+    {
+      "id": "2A_102",
+      "word": "inflow",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The movement of something, especially money, into a place.",
+      "example": "The country saw a large inflow of foreign investment last year.",
+      "synonyms": ["influx", "inpouring"],
+      "antonyms": ["outflow"]
+    },
+    {
+      "id": "2A_103",
+      "word": "influx",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An arrival or entry of large numbers of people or things.",
+      "example": "The city experienced an influx of migrants seeking employment.",
+      "synonyms": ["inflow", "arrival", "surge"],
+      "antonyms": ["outflow", "exodus"]
+    },
+    {
+      "id": "2A_104",
+      "word": "inspiration",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of being mentally stimulated to do or feel something.",
+      "example": "Her success story served as inspiration for many young entrepreneurs.",
+      "synonyms": ["motivation", "stimulus", "encouragement"],
+      "antonyms": ["discouragement", "deterrent"]
+    },
+    {
+      "id": "2A_105",
+      "word": "inspirational",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Serving to inspire or motivate someone.",
+      "example": "The CEO delivered an inspirational speech about the company's future.",
+      "synonyms": ["motivating", "uplifting", "encouraging"],
+      "antonyms": ["discouraging", "demoralizing"]
+    },
+    {
+      "id": "2A_106",
+      "word": "inspire",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To fill someone with the urge or ability to do or feel something.",
+      "example": "The campaign inspired thousands of people to volunteer.",
+      "synonyms": ["motivate", "encourage", "stimulate"],
+      "antonyms": ["discourage", "deter"]
+    },
+    {
+      "id": "2A_107",
+      "word": "inspired",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Showing great imagination or creativity, or motivated by inspiration.",
+      "example": "The inspired design won several international awards.",
+      "synonyms": ["creative", "imaginative", "motivated"],
+      "antonyms": ["uninspired", "dull"]
+    },
+    {
+      "id": "2A_108",
+      "word": "inspiring",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Tending to fill people with the urge to do something.",
+      "example": "Her inspiring leadership helped the team overcome the crisis.",
+      "synonyms": ["motivating", "uplifting", "encouraging"],
+      "antonyms": ["discouraging", "demoralizing"]
+    },
+    {
+      "id": "2A_109",
+      "word": "intensified",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Made more intense or extreme.",
+      "example": "Intensified competition forced companies to lower their prices.",
+      "synonyms": ["heightened", "escalated", "increased"],
+      "antonyms": ["reduced", "eased"]
+    },
+    {
+      "id": "2A_110",
+      "word": "intensify",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make more intense.",
+      "example": "Global competition is expected to intensify over the next decade.",
+      "synonyms": ["heighten", "escalate", "increase"],
+      "antonyms": ["reduce", "ease", "diminish"]
+    },
+    {
+      "id": "2A_111",
+      "word": "jump",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase suddenly and sharply.",
+      "example": "Share prices jumped after the announcement of record profits.",
+      "synonyms": ["surge", "leap", "spike"],
+      "antonyms": ["plunge", "drop", "fall"]
+    },
+    {
+      "id": "2A_112",
+      "word": "jump-start",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To give something a quick start or boost.",
+      "example": "The subsidy was designed to jump-start the renewable energy sector.",
+      "synonyms": ["kick-start", "boost", "launch"],
+      "antonyms": ["stall", "hinder"]
+    },
+    {
+      "id": "2A_113",
+      "word": "jumper",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person or animal that jumps, or a knitted garment.",
+      "example": "The horse was a talented jumper, clearing every obstacle with ease.",
+      "synonyms": ["leaper"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_114",
+      "word": "jumping",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Leaping or increasing sharply.",
+      "example": "The jumping unemployment rate alarmed policymakers.",
+      "synonyms": ["leaping", "surging", "spiking"],
+      "antonyms": ["falling", "dropping"]
+    },
+    {
+      "id": "2A_115",
+      "word": "jumpsuit",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A one-piece garment combining trousers and a top.",
+      "example": "She wore a stylish jumpsuit to the business conference.",
+      "synonyms": ["coverall"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_116",
+      "word": "leap",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To jump or increase suddenly and significantly.",
+      "example": "Profits leaped by 40 percent in the last quarter.",
+      "synonyms": ["jump", "surge", "spike"],
+      "antonyms": ["plummet", "drop"]
+    },
+    {
+      "id": "2A_117",
+      "word": "lift",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To raise or increase something.",
+      "example": "The central bank lifted interest rates to curb inflation.",
+      "synonyms": ["raise", "boost", "elevate"],
+      "antonyms": ["lower", "reduce", "cut"]
+    },
+    {
+      "id": "2A_118",
+      "word": "lifting",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of raising or removing something, such as restrictions.",
+      "example": "The lifting of trade restrictions boosted exports significantly.",
+      "synonyms": ["raising", "removal", "elevation"],
+      "antonyms": ["imposition", "lowering"]
+    },
+    {
+      "id": "2A_119",
+      "word": "magnet",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person or thing that attracts others.",
+      "example": "The city has become a magnet for young professionals.",
+      "synonyms": ["attraction", "draw", "lure"],
+      "antonyms": ["repellent", "deterrent"]
+    },
+    {
+      "id": "2A_120",
+      "word": "magnetic",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having a powerful attraction.",
+      "example": "The startup's magnetic appeal drew top talent from major firms.",
+      "synonyms": ["attractive", "appealing", "alluring"],
+      "antonyms": ["repellent", "unappealing"]
+    },
+    {
+      "id": "2A_121",
+      "word": "magnetism",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The quality of being able to attract people or things.",
+      "example": "His personal magnetism helped him secure investment for the venture.",
+      "synonyms": ["charisma", "appeal", "allure"],
+      "antonyms": ["repulsion"]
+    },
+    {
+      "id": "2A_122",
+      "word": "maxim",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A short statement expressing a general truth or rule of conduct.",
+      "example": "The manager followed the maxim that growth requires calculated risk.",
+      "synonyms": ["saying", "adage", "principle"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_123",
+      "word": "maximal",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "As great or large as possible.",
+      "example": "The strategy aimed for maximal efficiency with minimal resources.",
+      "synonyms": ["greatest", "maximum", "highest"],
+      "antonyms": ["minimal", "least"]
+    },
+    {
+      "id": "2A_124",
+      "word": "maximize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make something as large or great as possible.",
+      "example": "The company sought to maximize shareholder returns.",
+      "synonyms": ["optimize", "boost", "increase"],
+      "antonyms": ["minimize", "reduce"]
+    },
+    {
+      "id": "2A_125",
+      "word": "maximum",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The greatest amount or level possible.",
+      "example": "Production reached its maximum during the peak season.",
+      "synonyms": ["peak", "ceiling", "upper limit"],
+      "antonyms": ["minimum", "lowest point"]
+    },
+    {
+      "id": "2A_126",
+      "word": "momentum",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The force or strength gained by movement or a series of events.",
+      "example": "The reform movement gained momentum after widespread public support.",
+      "synonyms": ["impetus", "drive", "force"],
+      "antonyms": ["inertia", "stagnation"]
+    },
+    {
+      "id": "2A_127",
+      "word": "mount",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase gradually in intensity or amount.",
+      "example": "Pressure mounted on the government to address rising unemployment.",
+      "synonyms": ["increase", "build", "escalate"],
+      "antonyms": ["decrease", "subside"]
+    },
+    {
+      "id": "2A_128",
+      "word": "mountain",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A large natural elevation, or a huge amount of something.",
+      "example": "The company faced a mountain of debt after years of overspending.",
+      "synonyms": ["heap", "pile", "mass"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_129",
+      "word": "mountainous",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having many mountains, or extremely large in amount.",
+      "example": "They faced a mountainous task in restructuring the failing company.",
+      "synonyms": ["huge", "massive", "immense"],
+      "antonyms": ["minor", "small"]
+    },
+    {
+      "id": "2A_130",
+      "word": "mountainside",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The sloping side of a mountain.",
+      "example": "The resort was built on the scenic mountainside.",
+      "synonyms": ["slope", "hillside"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_131",
+      "word": "mountaintop",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The summit or top of a mountain.",
+      "example": "From the mountaintop, the entire valley was visible.",
+      "synonyms": ["summit", "peak", "apex"],
+      "antonyms": ["base", "foot"]
+    },
+    {
+      "id": "2A_132",
+      "word": "mounted",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increased steadily, or set in a fixed position.",
+      "example": "Mounted evidence eventually forced the company to change its policy.",
+      "synonyms": ["accumulated", "increased", "built up"],
+      "antonyms": ["reduced", "diminished"]
+    },
+    {
+      "id": "2A_133",
+      "word": "mounting",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increasing steadily.",
+      "example": "Mounting debt forced the firm to seek emergency funding.",
+      "synonyms": ["increasing", "growing", "rising"],
+      "antonyms": ["decreasing", "easing"]
+    },
+    {
+      "id": "2A_134",
+      "word": "multiple",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having or involving several parts, elements, or members.",
+      "example": "The corporation operates in multiple countries across three continents.",
+      "synonyms": ["numerous", "several", "many"],
+      "antonyms": ["single", "sole"]
+    },
+    {
+      "id": "2A_135",
+      "word": "multiplication",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of increasing in number or quantity.",
+      "example": "The multiplication of online retailers intensified competition in the sector.",
+      "synonyms": ["increase", "proliferation", "growth"],
+      "antonyms": ["reduction", "decrease"]
+    },
+    {
+      "id": "2A_136",
+      "word": "multiplicity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A large number or variety.",
+      "example": "A multiplicity of factors contributed to the company's decline.",
+      "synonyms": ["variety", "abundance", "plethora"],
+      "antonyms": ["scarcity", "uniformity"]
+    },
+    {
+      "id": "2A_137",
+      "word": "multiply",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase greatly in number or amount.",
+      "example": "The number of online users multiplied within a few years.",
+      "synonyms": ["increase", "proliferate", "grow"],
+      "antonyms": ["decrease", "diminish"]
+    },
+    {
+      "id": "2A_138",
+      "word": "outperform",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To perform better than others.",
+      "example": "The fund outperformed the market for the third year running.",
+      "synonyms": ["surpass", "exceed", "beat"],
+      "antonyms": ["underperform", "lag"]
+    },
+    {
+      "id": "2A_139",
+      "word": "output",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The amount of something produced.",
+      "example": "Factory output increased following the introduction of new machinery.",
+      "synonyms": ["production", "yield", "produce"],
+      "antonyms": ["input", "consumption"]
+    },
+    {
+      "id": "2A_140",
+      "word": "overpower",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To defeat or overwhelm someone or something with greater strength.",
+      "example": "The larger firm overpowered its smaller rival in the bidding war.",
+      "synonyms": ["overwhelm", "dominate", "defeat"],
+      "antonyms": ["yield", "submit"]
+    },
+    {
+      "id": "2A_141",
+      "word": "overpowering",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Very strong and difficult to resist.",
+      "example": "The overpowering demand for the product caused supply shortages.",
+      "synonyms": ["overwhelming", "intense", "powerful"],
+      "antonyms": ["mild", "weak"]
+    },
+    {
+      "id": "2A_142",
+      "word": "overshadow",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make something seem less important by comparison.",
+      "example": "The scandal overshadowed the company's otherwise strong financial results.",
+      "synonyms": ["eclipse", "outweigh", "dominate"],
+      "antonyms": ["highlight", "accentuate"]
+    },
+    {
+      "id": "2A_143",
+      "word": "pass",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To go beyond a particular point or level.",
+      "example": "The company's revenue passed the billion-dollar mark this year.",
+      "synonyms": ["exceed", "surpass", "top"],
+      "antonyms": ["fall short"]
+    },
+    {
+      "id": "2A_144",
+      "word": "passage",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The act of moving forward or through, or a section of text.",
+      "example": "The passage of the new law took several years of debate.",
+      "synonyms": ["progression", "transit", "movement"],
+      "antonyms": ["obstruction", "blockage"]
+    },
+    {
+      "id": "2A_145",
+      "word": "passageway",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A narrow route allowing passage between places.",
+      "example": "Workers used the underground passageway to move between buildings.",
+      "synonyms": ["corridor", "passage", "walkway"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_146",
+      "word": "passenger",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person traveling in a vehicle driven by someone else.",
+      "example": "The airline reported a rise in passenger numbers this quarter.",
+      "synonyms": ["traveler", "commuter", "rider"],
+      "antonyms": ["driver", "pilot"]
+    },
+    {
+      "id": "2A_147",
+      "word": "passer",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person who passes by or passes something.",
+      "example": "A passer-by alerted authorities to the accident.",
+      "synonyms": ["passerby"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_148",
+      "word": "passing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Lasting only for a short time, or going by.",
+      "example": "The passing trend in retail failed to sustain long-term growth.",
+      "synonyms": ["brief", "fleeting", "temporary"],
+      "antonyms": ["lasting", "permanent"]
+    },
+    {
+      "id": "2A_149",
+      "word": "passion",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A strong and intense emotion or enthusiasm.",
+      "example": "Her passion for renewable energy drove the company's rapid expansion.",
+      "synonyms": ["enthusiasm", "zeal", "fervor"],
+      "antonyms": ["indifference", "apathy"]
+    },
+    {
+      "id": "2A_150",
+      "word": "passionate",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Showing strong feelings or enthusiasm.",
+      "example": "The passionate team worked tirelessly to launch the new product.",
+      "synonyms": ["enthusiastic", "fervent", "zealous"],
+      "antonyms": ["indifferent", "apathetic"]
+    },
+    {
+      "id": "2A_151",
+      "word": "passionately",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "In a way that shows strong feelings.",
+      "example": "She spoke passionately about the need for reform.",
+      "synonyms": ["fervently", "enthusiastically", "ardently"],
+      "antonyms": ["indifferently", "apathetically"]
+    },
+    {
+      "id": "2A_152",
+      "word": "passive",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Accepting what happens without active response or resistance.",
+      "example": "Passive investment strategies became increasingly popular among retail investors.",
+      "synonyms": ["inactive", "submissive", "unresponsive"],
+      "antonyms": ["active", "assertive", "proactive"]
+    },
+    {
+      "id": "2A_153",
+      "word": "passively",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "In a way that does not actively participate or respond.",
+      "example": "Investors who passively track the index tend to pay lower fees.",
+      "synonyms": ["inactively", "submissively"],
+      "antonyms": ["actively", "assertively"]
+    },
+    {
+      "id": "2A_154",
+      "word": "passivity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The state of accepting what happens without active response.",
+      "example": "The company's passivity in adapting to change led to its decline.",
+      "synonyms": ["inactivity", "apathy", "inertia"],
+      "antonyms": ["activity", "assertiveness"]
+    },
+    {
+      "id": "2A_155",
+      "word": "passover",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A Jewish festival commemorating the exodus from Egypt.",
+      "example": "The family gathered to celebrate Passover together.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2A_156",
+      "word": "passport",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An official document certifying identity and citizenship for travel.",
+      "example": "A strong passport can act as a gateway to global opportunity.",
+      "synonyms": ["travel document"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_157",
+      "word": "password",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A secret word or phrase used to gain access to something.",
+      "example": "Employees were required to update their passwords regularly.",
+      "synonyms": ["passcode", "PIN"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_158",
+      "word": "peak",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The highest point or maximum level of something.",
+      "example": "Demand for the product reached its peak during the holiday season.",
+      "synonyms": ["summit", "height", "maximum"],
+      "antonyms": ["trough", "low point"]
+    },
+    {
+      "id": "2A_159",
+      "word": "penetrate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To succeed in entering or gaining access to a market.",
+      "example": "The company penetrated the Asian market within two years.",
+      "synonyms": ["enter", "infiltrate", "breach"],
+      "antonyms": ["withdraw", "exit"]
+    },
+    {
+      "id": "2A_160",
+      "word": "penetrating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having the ability to enter deeply, or perceptive.",
+      "example": "Her penetrating analysis revealed the true cause of the decline.",
+      "synonyms": ["incisive", "perceptive", "sharp"],
+      "antonyms": ["superficial", "shallow"]
+    },
+    {
+      "id": "2A_161",
+      "word": "penetration",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The degree to which a product or idea has entered a market.",
+      "example": "Market penetration increased significantly after the marketing campaign.",
+      "synonyms": ["entry", "infiltration", "inroads"],
+      "antonyms": ["withdrawal"]
+    },
+    {
+      "id": "2A_162",
+      "word": "progress",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Forward or onward movement toward a destination or goal.",
+      "example": "The nation made significant progress in reducing poverty rates.",
+      "synonyms": ["advancement", "development", "headway"],
+      "antonyms": ["regression", "decline"]
+    },
+    {
+      "id": "2A_163",
+      "word": "progression",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of developing gradually toward a more advanced state.",
+      "example": "The steady progression of technology reshaped entire industries.",
+      "synonyms": ["advancement", "development", "evolution"],
+      "antonyms": ["regression", "decline"]
+    },
+    {
+      "id": "2A_164",
+      "word": "progressive",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Happening or developing gradually, or favoring reform.",
+      "example": "The company adopted a progressive approach to employee benefits.",
+      "synonyms": ["advancing", "developing", "reformist"],
+      "antonyms": ["regressive", "conservative"]
+    },
+    {
+      "id": "2A_165",
+      "word": "progressively",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "In a way that happens or develops gradually.",
+      "example": "Costs increased progressively over the course of the project.",
+      "synonyms": ["gradually", "increasingly", "steadily"],
+      "antonyms": ["abruptly", "suddenly"]
+    },
+    {
+      "id": "2A_166",
+      "word": "proliferate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase rapidly in number.",
+      "example": "Online retailers proliferated as consumer habits shifted.",
+      "synonyms": ["multiply", "spread", "increase"],
+      "antonyms": ["decline", "diminish"]
+    },
+    {
+      "id": "2A_167",
+      "word": "proliferation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A rapid increase in number.",
+      "example": "The proliferation of smartphones transformed communication worldwide.",
+      "synonyms": ["spread", "increase", "growth"],
+      "antonyms": ["decline", "reduction"]
+    },
+    {
+      "id": "2A_168",
+      "word": "propel",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To drive or push something forward.",
+      "example": "Government investment propelled the country's technology sector forward.",
+      "synonyms": ["drive", "push", "advance"],
+      "antonyms": ["hinder", "impede"]
+    },
+    {
+      "id": "2A_169",
+      "word": "propeller",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A device with rotating blades used to drive a vehicle.",
+      "example": "The engineers redesigned the propeller to improve fuel efficiency.",
+      "synonyms": ["rotor"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_170",
+      "word": "prosper",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To succeed or thrive, especially financially.",
+      "example": "Small businesses prospered under the new trade agreement.",
+      "synonyms": ["thrive", "flourish", "succeed"],
+      "antonyms": ["fail", "struggle", "decline"]
+    },
+    {
+      "id": "2A_171",
+      "word": "prosperity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The state of being successful, especially financially.",
+      "example": "The region enjoyed decades of prosperity following industrialization.",
+      "synonyms": ["wealth", "affluence", "success"],
+      "antonyms": ["poverty", "decline"]
+    },
+    {
+      "id": "2A_172",
+      "word": "prosperous",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Successful, especially financially.",
+      "example": "The prosperous city attracted investors from around the world.",
+      "synonyms": ["wealthy", "thriving", "affluent"],
+      "antonyms": ["poor", "struggling"]
+    },
+    {
+      "id": "2A_173",
+      "word": "push",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To exert force to move something forward or increase it.",
+      "example": "Rising costs pushed inflation to a ten-year high.",
+      "synonyms": ["drive", "force", "propel"],
+      "antonyms": ["pull", "hinder"]
+    },
+    {
+      "id": "2A_174",
+      "word": "push-up",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An exercise performed by raising and lowering the body using the arms.",
+      "example": "He completed fifty push-ups as part of his daily routine.",
+      "synonyms": ["press-up"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_175",
+      "word": "pushy",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Excessively assertive or forceful.",
+      "example": "The pushy salesperson pressured customers into buying upgrades.",
+      "synonyms": ["aggressive", "forceful", "assertive"],
+      "antonyms": ["passive", "timid"]
+    },
+    {
+      "id": "2A_176",
+      "word": "quadruple",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make four times as large.",
+      "example": "Revenue quadrupled after the company expanded internationally.",
+      "synonyms": ["multiply", "increase fourfold"],
+      "antonyms": ["quarter", "reduce"]
+    },
+    {
+      "id": "2A_177",
+      "word": "quicken",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make or become faster.",
+      "example": "The pace of reform quickened after the change in leadership.",
+      "synonyms": ["accelerate", "hasten", "speed up"],
+      "antonyms": ["slow", "decelerate"]
+    },
+    {
+      "id": "2A_178",
+      "word": "raise",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase the amount, level, or strength of something.",
+      "example": "The central bank raised interest rates to combat inflation.",
+      "synonyms": ["increase", "boost", "elevate"],
+      "antonyms": ["lower", "reduce", "cut"]
+    },
+    {
+      "id": "2A_179",
+      "word": "raised",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increased or elevated.",
+      "example": "Raised awareness of the issue led to policy changes.",
+      "synonyms": ["increased", "elevated", "heightened"],
+      "antonyms": ["lowered", "reduced"]
+    },
+    {
+      "id": "2A_180",
+      "word": "rally",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To recover strength or improve after a decline.",
+      "example": "Stock markets rallied following the announcement of the trade deal.",
+      "synonyms": ["recover", "bounce back", "rebound"],
+      "antonyms": ["decline", "slump", "fall"]
+    },
+    {
+      "id": "2A_181",
+      "word": "rallying",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Gathering support, or recovering after a decline.",
+      "example": "The rallying economy boosted consumer confidence.",
+      "synonyms": ["recovering", "reviving"],
+      "antonyms": ["declining", "falling"]
+    },
+    {
+      "id": "2A_182",
+      "word": "rampant",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Widespread and uncontrolled.",
+      "example": "Rampant inflation eroded the purchasing power of ordinary citizens.",
+      "synonyms": ["widespread", "uncontrolled", "unchecked"],
+      "antonyms": ["controlled", "contained"]
+    },
+    {
+      "id": "2A_183",
+      "word": "reach",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To arrive at or attain a particular level.",
+      "example": "Unemployment reached its lowest level in a decade.",
+      "synonyms": ["attain", "achieve", "hit"],
+      "antonyms": ["fall short of"]
+    },
+    {
+      "id": "2A_184",
+      "word": "reap",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To receive as a benefit or result of an action.",
+      "example": "Investors reaped the rewards of the company's rapid growth.",
+      "synonyms": ["gain", "harvest", "obtain"],
+      "antonyms": ["lose", "forfeit"]
+    },
+    {
+      "id": "2A_185",
+      "word": "reappear",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become visible or noticeable again.",
+      "example": "Consumer confidence reappeared after months of economic uncertainty.",
+      "synonyms": ["resurface", "reemerge", "return"],
+      "antonyms": ["disappear", "vanish"]
+    },
+    {
+      "id": "2A_186",
+      "word": "rebound",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To recover in value, amount, or strength after a decline.",
+      "example": "The housing market rebounded strongly after the recession.",
+      "synonyms": ["recover", "bounce back", "revive"],
+      "antonyms": ["decline", "plummet", "slump"]
+    },
+    {
+      "id": "2A_187",
+      "word": "reclaim",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To retrieve or recover something previously lost or given up.",
+      "example": "The company reclaimed its position as market leader within a year.",
+      "synonyms": ["recover", "regain", "retrieve"],
+      "antonyms": ["lose", "relinquish"]
+    },
+    {
+      "id": "2A_188",
+      "word": "recover",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To return to a normal state after a decline.",
+      "example": "The economy recovered faster than analysts had predicted.",
+      "synonyms": ["rebound", "revive", "bounce back"],
+      "antonyms": ["decline", "deteriorate"]
+    },
+    {
+      "id": "2A_189",
+      "word": "recovery",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A return to a normal state after a period of difficulty.",
+      "example": "Economic recovery was driven by strong consumer spending.",
+      "synonyms": ["rebound", "revival", "upturn"],
+      "antonyms": ["decline", "downturn", "recession"]
+    },
+    {
+      "id": "2A_190",
+      "word": "reinforce",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To strengthen or support something further.",
+      "example": "The new evidence reinforced the argument for stricter regulation.",
+      "synonyms": ["strengthen", "support", "bolster"],
+      "antonyms": ["weaken", "undermine"]
+    },
+    {
+      "id": "2A_191",
+      "word": "reinforcement",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The action of strengthening or supporting something.",
+      "example": "Reinforcement of the supply chain reduced future disruptions.",
+      "synonyms": ["strengthening", "support", "bolstering"],
+      "antonyms": ["weakening", "undermining"]
+    },
+    {
+      "id": "2A_192",
+      "word": "rejuvenate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To give new energy or vitality to something.",
+      "example": "New leadership helped rejuvenate the struggling company.",
+      "synonyms": ["revive", "refresh", "revitalize"],
+      "antonyms": ["weaken", "exhaust"]
+    },
+    {
+      "id": "2A_193",
+      "word": "revival",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An improvement in the condition or strength of something.",
+      "example": "The revival of manufacturing created thousands of new jobs.",
+      "synonyms": ["resurgence", "comeback", "renewal"],
+      "antonyms": ["decline", "deterioration"]
+    },
+    {
+      "id": "2A_194",
+      "word": "revive",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To restore to life, health, or vigor.",
+      "example": "Government stimulus helped revive the struggling tourism sector.",
+      "synonyms": ["restore", "revitalize", "renew"],
+      "antonyms": ["weaken", "suppress"]
+    },
+    {
+      "id": "2A_195",
+      "word": "rise",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To move upward, or increase in amount or level.",
+      "example": "House prices rose sharply in the capital last year.",
+      "synonyms": ["increase", "climb", "ascend"],
+      "antonyms": ["fall", "decline", "drop"]
+    },
+    {
+      "id": "2A_196",
+      "word": "riser",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A person or thing that rises, especially quickly.",
+      "example": "The company was named an early riser in the emerging tech sector.",
+      "synonyms": ["climber", "achiever"],
+      "antonyms": ["laggard"]
+    },
+    {
+      "id": "2A_197",
+      "word": "rising",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increasing in amount, number, or intensity.",
+      "example": "Rising costs put pressure on household budgets.",
+      "synonyms": ["increasing", "growing", "climbing"],
+      "antonyms": ["falling", "declining"]
+    },
+    {
+      "id": "2A_198",
+      "word": "risk",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The possibility of loss, harm, or an uncertain outcome.",
+      "example": "Investors must weigh the risk against the potential returns.",
+      "synonyms": ["hazard", "danger", "uncertainty"],
+      "antonyms": ["safety", "security"]
+    },
+    {
+      "id": "2A_199",
+      "word": "risky",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Involving a significant possibility of loss or harm.",
+      "example": "The risky investment strategy paid off despite market volatility.",
+      "synonyms": ["hazardous", "uncertain", "precarious"],
+      "antonyms": ["safe", "secure"]
+    },
+    {
+      "id": "2A_200",
+      "word": "risotto",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An Italian rice dish cooked slowly in broth.",
+      "example": "The chef prepared a creamy mushroom risotto for the guests.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2A_201",
+      "word": "rocket",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase very rapidly.",
+      "example": "Prices rocketed after the sudden supply shortage.",
+      "synonyms": ["soar", "skyrocket", "surge"],
+      "antonyms": ["plummet", "plunge"]
+    },
+    {
+      "id": "2A_202",
+      "word": "scale",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase the size or extent of something, especially a business.",
+      "example": "The startup scaled its operations rapidly after securing funding.",
+      "synonyms": ["expand", "grow", "enlarge"],
+      "antonyms": ["downsize", "shrink"]
+    },
+    {
+      "id": "2A_203",
+      "word": "set",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To establish or fix at a particular level.",
+      "example": "The company set an ambitious target for annual growth.",
+      "synonyms": ["establish", "fix", "determine"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_204",
+      "word": "skyrocket",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase very rapidly and to a high level.",
+      "example": "Housing prices skyrocketed in major cities over the past decade.",
+      "synonyms": ["soar", "surge", "rocket"],
+      "antonyms": ["plummet", "collapse"]
+    },
+    {
+      "id": "2A_205",
+      "word": "soar",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase rapidly to a high level.",
+      "example": "Profits soared following the successful product launch.",
+      "synonyms": ["rocket", "surge", "climb"],
+      "antonyms": ["plummet", "plunge", "fall"]
+    },
+    {
+      "id": "2A_206",
+      "word": "soaring",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Increasing rapidly to a high level.",
+      "example": "Soaring energy prices squeezed household budgets.",
+      "synonyms": ["rising", "surging", "escalating"],
+      "antonyms": ["plummeting", "falling"]
+    },
+    {
+      "id": "2A_207",
+      "word": "solve",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To find a solution to a problem.",
+      "example": "Engineers worked to solve the persistent supply chain issue.",
+      "synonyms": ["resolve", "fix", "address"],
+      "antonyms": ["create", "cause"]
+    },
+    {
+      "id": "2A_208",
+      "word": "solvent",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having enough money to meet financial obligations.",
+      "example": "The bailout kept the bank solvent during the crisis.",
+      "synonyms": ["financially stable", "viable"],
+      "antonyms": ["insolvent", "bankrupt"]
+    },
+    {
+      "id": "2A_209",
+      "word": "solving",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The process of finding a solution to a problem.",
+      "example": "Problem-solving skills were essential to the project's success.",
+      "synonyms": ["resolution", "troubleshooting"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_210",
+      "word": "spark",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To cause something to start or increase suddenly.",
+      "example": "The policy change sparked a surge in investment.",
+      "synonyms": ["trigger", "ignite", "prompt"],
+      "antonyms": ["extinguish", "quell"]
+    },
+    {
+      "id": "2A_211",
+      "word": "sparkle",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To shine brightly with flashes of light.",
+      "example": "The company's innovative products sparkled at the trade fair.",
+      "synonyms": ["shine", "glitter", "gleam"],
+      "antonyms": ["dull", "fade"]
+    },
+    {
+      "id": "2A_212",
+      "word": "sparkling",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Shining brightly, or lively and exciting.",
+      "example": "The startup delivered a sparkling performance in its first year.",
+      "synonyms": ["brilliant", "dazzling", "lively"],
+      "antonyms": ["dull", "lackluster"]
+    },
+    {
+      "id": "2A_213",
+      "word": "spearhead",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To lead an attack, campaign, or effort.",
+      "example": "She spearheaded the company's expansion into new markets.",
+      "synonyms": ["lead", "pioneer", "drive"],
+      "antonyms": ["follow", "trail"]
+    },
+    {
+      "id": "2A_214",
+      "word": "spike",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A sudden sharp increase.",
+      "example": "Demand for masks spiked at the start of the pandemic.",
+      "synonyms": ["surge", "jump", "sharp rise"],
+      "antonyms": ["plunge", "dip", "fall"]
+    },
+    {
+      "id": "2A_215",
+      "word": "spiky",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Having sharp points, or characterized by sudden fluctuations.",
+      "example": "The spiky demand pattern made inventory planning difficult.",
+      "synonyms": ["erratic", "jagged", "uneven"],
+      "antonyms": ["smooth", "steady"]
+    },
+    {
+      "id": "2A_216",
+      "word": "spring",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To appear or move suddenly and quickly.",
+      "example": "New competitors sprang up as the market grew more lucrative.",
+      "synonyms": ["emerge", "arise", "leap"],
+      "antonyms": ["disappear", "vanish"]
+    },
+    {
+      "id": "2A_217",
+      "word": "springboard",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Something that provides a starting point or opportunity for progress.",
+      "example": "The internship served as a springboard for her career.",
+      "synonyms": ["launchpad", "stepping stone"],
+      "antonyms": ["obstacle", "hindrance"]
+    },
+    {
+      "id": "2A_218",
+      "word": "springtime",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The season of spring.",
+      "example": "Sales traditionally pick up during the springtime months.",
+      "synonyms": ["spring"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_219",
+      "word": "squarely",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Directly and firmly, without ambiguity.",
+      "example": "The report placed the blame squarely on poor management decisions.",
+      "synonyms": ["directly", "firmly", "precisely"],
+      "antonyms": ["indirectly", "vaguely"]
+    },
+    {
+      "id": "2A_220",
+      "word": "stimulate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To encourage an increase in activity or growth.",
+      "example": "Lower taxes were designed to stimulate consumer spending.",
+      "synonyms": ["encourage", "boost", "spur"],
+      "antonyms": ["discourage", "suppress", "hinder"]
+    },
+    {
+      "id": "2A_221",
+      "word": "stimulating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Encouraging activity, interest, or growth.",
+      "example": "The stimulating debate encouraged new policy ideas.",
+      "synonyms": ["encouraging", "invigorating", "exciting"],
+      "antonyms": ["dull", "discouraging"]
+    },
+    {
+      "id": "2A_222",
+      "word": "stimulation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The action of encouraging activity, interest, or growth.",
+      "example": "Fiscal stimulation helped the economy recover from recession.",
+      "synonyms": ["encouragement", "boost", "incentive"],
+      "antonyms": ["suppression", "discouragement"]
+    },
+    {
+      "id": "2A_223",
+      "word": "strengthen",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make or become stronger.",
+      "example": "The central bank's policies strengthened the national currency.",
+      "synonyms": ["reinforce", "bolster", "fortify"],
+      "antonyms": ["weaken", "undermine"]
+    },
+    {
+      "id": "2A_224",
+      "word": "strengthening",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Becoming or making stronger.",
+      "example": "The strengthening economy encouraged businesses to hire more staff.",
+      "synonyms": ["improving", "growing stronger"],
+      "antonyms": ["weakening", "declining"]
+    },
+    {
+      "id": "2A_225",
+      "word": "surge",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A sudden powerful increase.",
+      "example": "A surge in demand overwhelmed the supply chain.",
+      "synonyms": ["upsurge", "spike", "jump"],
+      "antonyms": ["decline", "drop", "slump"]
+    },
+    {
+      "id": "2A_226",
+      "word": "surgeon",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A doctor who performs surgical operations.",
+      "example": "The hospital hired several new surgeons to meet rising demand.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2A_227",
+      "word": "surgery",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Medical treatment involving operations on the body.",
+      "example": "Advances in surgery have significantly improved recovery rates.",
+      "synonyms": ["operation"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_228",
+      "word": "surgical",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Relating to surgery, or precise and targeted.",
+      "example": "The company made surgical improvements to its supply chain.",
+      "synonyms": ["precise", "targeted", "exact"],
+      "antonyms": ["imprecise", "broad"]
+    },
+    {
+      "id": "2A_229",
+      "word": "surgically",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "In a precise and targeted manner.",
+      "example": "Management surgically addressed the causes of declining productivity.",
+      "synonyms": ["precisely", "methodically"],
+      "antonyms": ["haphazardly"]
+    },
+    {
+      "id": "2A_230",
+      "word": "swell",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To increase in size, amount, or intensity.",
+      "example": "The workforce swelled as the company expanded rapidly.",
+      "synonyms": ["increase", "grow", "expand"],
+      "antonyms": ["shrink", "decrease", "contract"]
+    },
+    {
+      "id": "2A_231",
+      "word": "swelling",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An increase in size, amount, or intensity.",
+      "example": "The swelling of national debt worried economists.",
+      "synonyms": ["increase", "growth", "expansion"],
+      "antonyms": ["reduction", "decrease"]
+    },
+    {
+      "id": "2A_232",
+      "word": "tap",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To make use of a source, especially for advantage.",
+      "example": "The company tapped new markets to sustain its growth.",
+      "synonyms": ["exploit", "utilize", "access"],
+      "antonyms": ["ignore", "neglect"]
+    },
+    {
+      "id": "2A_233",
+      "word": "tape",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A strip of material used for fastening or recording.",
+      "example": "Workers used tape to seal the packages securely.",
+      "synonyms": ["adhesive strip"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_234",
+      "word": "taped",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Recorded or fastened with tape.",
+      "example": "The taped interview revealed the CEO's plans for expansion.",
+      "synonyms": ["recorded"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_235",
+      "word": "tapestry",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "A complex or richly varied combination of elements.",
+      "example": "The city's economy is a tapestry of traditional and modern industries.",
+      "synonyms": ["mixture", "blend", "mosaic"],
+      "antonyms": ["uniformity"]
+    },
+    {
+      "id": "2A_236",
+      "word": "trajectory",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The path followed by something as it moves or develops.",
+      "example": "The company's growth trajectory impressed investors.",
+      "synonyms": ["path", "course", "direction"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_237",
+      "word": "triple",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make three times as large.",
+      "example": "Profits tripled after the company entered new markets.",
+      "synonyms": ["treble", "multiply threefold"],
+      "antonyms": ["reduce", "decrease"]
+    },
+    {
+      "id": "2A_238",
+      "word": "triplet",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "One of three children born at the same birth, or a group of three.",
+      "example": "The design used a triplet of colors to represent growth stages.",
+      "synonyms": ["trio", "threesome"],
+      "antonyms": []
+    },
+    {
+      "id": "2A_239",
+      "word": "unlock",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To release or make available something previously restricted.",
+      "example": "New technology unlocked significant growth potential for the sector.",
+      "synonyms": ["release", "enable", "unleash"],
+      "antonyms": ["restrict", "block"]
+    },
+    {
+      "id": "2A_240",
+      "word": "upswing",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An upward trend, especially in economic activity.",
+      "example": "The economy entered an upswing after two years of stagnation.",
+      "synonyms": ["upturn", "recovery", "rise"],
+      "antonyms": ["downswing", "decline"]
+    },
+    {
+      "id": "2A_241",
+      "word": "upturned",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Turned upward, or showing improvement.",
+      "example": "Analysts noted an upturned trend in consumer confidence.",
+      "synonyms": ["improved", "rising"],
+      "antonyms": ["downturned", "declined"]
+    },
+    {
+      "id": "2A_242",
+      "word": "velocity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "The speed of something in a given direction.",
+      "example": "The velocity of technological change has increased dramatically.",
+      "synonyms": ["speed", "pace", "rate"],
+      "antonyms": ["slowness"]
+    },
+    {
+      "id": "2A_243",
+      "word": "widen",
+      "type": "verb",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "To become or make broader or larger.",
+      "example": "The gap between rich and poor widened during the recession.",
+      "synonyms": ["broaden", "expand", "extend"],
+      "antonyms": ["narrow", "shrink"]
+    },
+    {
+      "id": "2A_244",
+      "word": "widening",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "Becoming broader or larger.",
+      "example": "The widening trade deficit concerned policymakers.",
+      "synonyms": ["broadening", "expanding", "growing"],
+      "antonyms": ["narrowing", "shrinking"]
+    },
+    {
+      "id": "2A_245",
+      "word": "yield",
+      "type": "noun",
+      "category": "Verbs & Nouns for Upward Movement",
+      "meaning": "An amount produced or profit obtained from an investment or activity.",
+      "example": "The investment yielded higher returns than expected.",
+      "synonyms": ["return", "produce", "output"],
+      "antonyms": ["loss"]
     }
   ]
 }

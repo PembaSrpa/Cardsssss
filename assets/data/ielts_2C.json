@@ -1,19 +1,1476 @@
 {
   "section": "2C",
-  "title": "Language for Stability & Volatility",
+  "title": "Verbs & Nouns for Stability, Balance & Fluctuation",
   "words": [
     {
       "id": "2C_001",
-      "word": "placeholder",
-      "type": "noun",
-      "category": "Language for Stability & Volatility",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "word": "adjust",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To change something slightly to make it more suitable or accurate.",
+      "example": "The company adjusted its forecast to reflect slower growth.",
+      "synonyms": ["modify", "adapt", "tweak"],
       "antonyms": []
+    },
+    {
+      "id": "2C_002",
+      "word": "adjustable",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Able to be changed or regulated.",
+      "example": "The adjustable interest rate fluctuated with market conditions.",
+      "synonyms": ["variable", "flexible", "modifiable"],
+      "antonyms": ["fixed", "unchangeable"]
+    },
+    {
+      "id": "2C_003",
+      "word": "adjusted",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Changed to be more accurate or suitable.",
+      "example": "The adjusted figures accounted for seasonal variation.",
+      "synonyms": ["modified", "revised", "corrected"],
+      "antonyms": ["unadjusted", "original"]
+    },
+    {
+      "id": "2C_004",
+      "word": "adjuster",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A person who settles insurance claims, or something that adjusts.",
+      "example": "The insurance adjuster assessed the damage before approving the claim.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2C_005",
+      "word": "adjustment",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A small change made to improve accuracy or suitability.",
+      "example": "The central bank made a small adjustment to interest rates.",
+      "synonyms": ["modification", "change", "tweak"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_006",
+      "word": "alternate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To occur or perform by turns.",
+      "example": "Profits and losses alternated throughout the volatile trading period.",
+      "synonyms": ["rotate", "switch", "oscillate"],
+      "antonyms": ["remain constant"]
+    },
+    {
+      "id": "2C_007",
+      "word": "alternately",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In turns, one after the other.",
+      "example": "The market moved alternately up and down throughout the session.",
+      "synonyms": ["by turns", "in rotation"],
+      "antonyms": ["constantly", "continuously"]
+    },
+    {
+      "id": "2C_008",
+      "word": "alternating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Occurring by turns.",
+      "example": "The alternating pattern of gains and losses confused investors.",
+      "synonyms": ["rotating", "fluctuating"],
+      "antonyms": ["constant", "steady"]
+    },
+    {
+      "id": "2C_009",
+      "word": "alternative",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A different option or possibility.",
+      "example": "Investors sought an alternative to the volatile stock market.",
+      "synonyms": ["option", "substitute", "choice"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_010",
+      "word": "alternatively",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "As another option.",
+      "example": "Alternatively, the company could reduce costs instead of raising prices.",
+      "synonyms": ["on the other hand", "or else"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_011",
+      "word": "anchor",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To fix firmly in place, providing stability.",
+      "example": "Long-term contracts helped anchor the company's revenue.",
+      "synonyms": ["stabilize", "secure", "fix"],
+      "antonyms": ["destabilize", "unmoor"]
+    },
+    {
+      "id": "2C_012",
+      "word": "arrival",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The act of arriving at a place or reaching a state.",
+      "example": "The arrival of new competitors disrupted market stability.",
+      "synonyms": ["appearance", "coming"],
+      "antonyms": ["departure"]
+    },
+    {
+      "id": "2C_013",
+      "word": "arrive",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To reach a place or a particular state.",
+      "example": "The negotiations finally arrived at a stable agreement.",
+      "synonyms": ["reach", "come", "get to"],
+      "antonyms": ["depart", "leave"]
+    },
+    {
+      "id": "2C_014",
+      "word": "average",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Typical, standard, or usual, representing a stable midpoint.",
+      "example": "The average growth rate remained steady over the decade.",
+      "synonyms": ["typical", "standard", "normal"],
+      "antonyms": ["extreme", "exceptional"]
+    },
+    {
+      "id": "2C_015",
+      "word": "balance",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A state of equilibrium between different elements.",
+      "example": "The central bank aimed to maintain a balance between growth and inflation.",
+      "synonyms": ["equilibrium", "stability", "steadiness"],
+      "antonyms": ["imbalance", "instability"]
+    },
+    {
+      "id": "2C_016",
+      "word": "balanced",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Having different elements in the correct or equal proportions.",
+      "example": "A balanced budget prevented the government from accumulating more debt.",
+      "synonyms": ["stable", "equal", "proportionate"],
+      "antonyms": ["unbalanced", "skewed"]
+    },
+    {
+      "id": "2C_017",
+      "word": "buffer",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Something that reduces shocks or protects against negative impact.",
+      "example": "The company kept a cash buffer to absorb unexpected losses.",
+      "synonyms": ["cushion", "safeguard", "reserve"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_018",
+      "word": "calm",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Free from turbulence or disturbance, steady.",
+      "example": "The calm markets gave investors confidence to plan long term.",
+      "synonyms": ["steady", "stable", "tranquil"],
+      "antonyms": ["turbulent", "volatile", "chaotic"]
+    },
+    {
+      "id": "2C_019",
+      "word": "calming",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Having a soothing or stabilizing effect.",
+      "example": "The calming statement from the central bank eased investor fears.",
+      "synonyms": ["soothing", "reassuring", "stabilizing"],
+      "antonyms": ["alarming", "unsettling"]
+    },
+    {
+      "id": "2C_020",
+      "word": "calmly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In a steady and untroubled manner.",
+      "example": "Analysts calmly reviewed the data despite the market turbulence.",
+      "synonyms": ["steadily", "coolly", "composedly"],
+      "antonyms": ["anxiously", "frantically"]
+    },
+    {
+      "id": "2C_021",
+      "word": "ceiling",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "An upper limit on something.",
+      "example": "The debt ceiling prevented the government from borrowing further.",
+      "synonyms": ["limit", "cap", "maximum"],
+      "antonyms": ["floor", "minimum"]
+    },
+    {
+      "id": "2C_022",
+      "word": "cluster",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A group of similar things positioned or occurring closely together.",
+      "example": "A cluster of tech companies remained stable despite the broader downturn.",
+      "synonyms": ["group", "grouping", "collection"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_023",
+      "word": "compensate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To make up for a loss or deficiency.",
+      "example": "Higher wages compensated for the reduced working hours.",
+      "synonyms": ["offset", "make up for", "balance"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_024",
+      "word": "compensation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Something given to make up for a loss or deficiency.",
+      "example": "Workers received compensation for the delay in pay.",
+      "synonyms": ["reimbursement", "recompense", "payment"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_025",
+      "word": "compensatory",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Intended to make up for a loss or deficiency.",
+      "example": "The company issued compensatory payments to affected customers.",
+      "synonyms": ["reparative", "offsetting"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_026",
+      "word": "consist",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To be composed of or made up of certain parts.",
+      "example": "The stable portfolio consisted mainly of government bonds.",
+      "synonyms": ["comprise", "be made up of"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_027",
+      "word": "consistency",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The quality of being steady and unchanging over time.",
+      "example": "Consistency in monetary policy helped maintain investor confidence.",
+      "synonyms": ["steadiness", "stability", "uniformity"],
+      "antonyms": ["inconsistency", "volatility"]
+    },
+    {
+      "id": "2C_028",
+      "word": "consistent",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Unchanging over time, steady.",
+      "example": "The company reported consistent earnings for five consecutive years.",
+      "synonyms": ["steady", "stable", "uniform"],
+      "antonyms": ["inconsistent", "erratic"]
+    },
+    {
+      "id": "2C_029",
+      "word": "consistently",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In a steady and unchanging manner.",
+      "example": "The fund consistently outperformed its benchmark.",
+      "synonyms": ["steadily", "uniformly", "reliably"],
+      "antonyms": ["erratically", "inconsistently"]
+    },
+    {
+      "id": "2C_030",
+      "word": "constant",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Occurring continuously over time without change.",
+      "example": "Constant demand kept prices stable throughout the year.",
+      "synonyms": ["steady", "unchanging", "continuous"],
+      "antonyms": ["variable", "fluctuating"]
+    },
+    {
+      "id": "2C_031",
+      "word": "constantly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Continuously, without stopping or changing.",
+      "example": "Prices remained constantly stable despite external shocks.",
+      "synonyms": ["continuously", "steadily", "unceasingly"],
+      "antonyms": ["intermittently", "sporadically"]
+    },
+    {
+      "id": "2C_032",
+      "word": "control",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The power to influence or direct something, or to keep it steady.",
+      "example": "The central bank used interest rates to maintain control over inflation.",
+      "synonyms": ["command", "regulation", "restraint"],
+      "antonyms": ["chaos", "disorder"]
+    },
+    {
+      "id": "2C_033",
+      "word": "controlled",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Kept within limits or restrained.",
+      "example": "Controlled inflation helped maintain economic stability.",
+      "synonyms": ["regulated", "restrained", "managed"],
+      "antonyms": ["uncontrolled", "unrestrained"]
+    },
+    {
+      "id": "2C_034",
+      "word": "controller",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A person or device that regulates or manages something.",
+      "example": "The financial controller ensured the budget stayed on track.",
+      "synonyms": ["regulator", "manager", "supervisor"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_035",
+      "word": "controlling",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Having the power to direct or regulate something.",
+      "example": "The controlling shareholder maintained stability within the company.",
+      "synonyms": ["regulating", "governing", "dominant"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_036",
+      "word": "correct",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To put right an error or fault, restoring accuracy.",
+      "example": "The company corrected its earnings statement after the error was found.",
+      "synonyms": ["fix", "rectify", "amend"],
+      "antonyms": ["distort", "worsen"]
+    },
+    {
+      "id": "2C_037",
+      "word": "correction",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The act of making something accurate or right, or a moderate market decline.",
+      "example": "The stock market experienced a correction after months of rapid gains.",
+      "synonyms": ["adjustment", "rectification"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_038",
+      "word": "correctional",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Relating to correction or punishment for offenders.",
+      "example": "The correctional facility budget remained stable this year.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2C_039",
+      "word": "corrective",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Intended to correct or improve something.",
+      "example": "The government introduced corrective measures to stabilize the currency.",
+      "synonyms": ["remedial", "restorative"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_040",
+      "word": "correctly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In an accurate or proper manner.",
+      "example": "The forecast correctly predicted the stabilization of prices.",
+      "synonyms": ["accurately", "properly", "precisely"],
+      "antonyms": ["incorrectly", "inaccurately"]
+    },
+    {
+      "id": "2C_041",
+      "word": "correctness",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The quality of being accurate or right.",
+      "example": "The correctness of the financial report reassured investors.",
+      "synonyms": ["accuracy", "precision"],
+      "antonyms": ["inaccuracy", "error"]
+    },
+    {
+      "id": "2C_042",
+      "word": "dampen",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To reduce the strength or intensity of something.",
+      "example": "Rising interest rates dampened consumer spending, stabilizing inflation.",
+      "synonyms": ["reduce", "curb", "moderate"],
+      "antonyms": ["intensify", "amplify"]
+    },
+    {
+      "id": "2C_043",
+      "word": "deviate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To depart from an established course or standard.",
+      "example": "The results deviated only slightly from the projected average.",
+      "synonyms": ["diverge", "differ", "stray"],
+      "antonyms": ["conform", "align"]
+    },
+    {
+      "id": "2C_044",
+      "word": "deviation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "An amount by which something departs from a standard.",
+      "example": "The small deviation from the forecast reassured analysts.",
+      "synonyms": ["divergence", "variance", "discrepancy"],
+      "antonyms": ["conformity", "consistency"]
+    },
+    {
+      "id": "2C_045",
+      "word": "disrupt",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To interrupt the normal course or continuity of something.",
+      "example": "The strike disrupted the previously stable supply chain.",
+      "synonyms": ["interrupt", "disturb", "unsettle"],
+      "antonyms": ["stabilize", "maintain"]
+    },
+    {
+      "id": "2C_046",
+      "word": "disruption",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A disturbance that interrupts normal continuity.",
+      "example": "Supply chain disruption caused prices to fluctuate wildly.",
+      "synonyms": ["interruption", "disturbance", "upheaval"],
+      "antonyms": ["stability", "continuity"]
+    },
+    {
+      "id": "2C_047",
+      "word": "disruptive",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Causing disturbance or interruption to normal continuity.",
+      "example": "Disruptive technology unsettled traditional, stable industries.",
+      "synonyms": ["disturbing", "unsettling"],
+      "antonyms": ["stabilizing"]
+    },
+    {
+      "id": "2C_048",
+      "word": "durable",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Able to withstand wear and remain stable over time.",
+      "example": "The durable economic recovery reassured long-term investors.",
+      "synonyms": ["lasting", "resilient", "enduring"],
+      "antonyms": ["fragile", "short-lived"]
+    },
+    {
+      "id": "2C_049",
+      "word": "equilibrium",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A state of balance between opposing forces.",
+      "example": "The market reached a new equilibrium after the price adjustment.",
+      "synonyms": ["balance", "stability", "steadiness"],
+      "antonyms": ["imbalance", "disequilibrium"]
+    },
+    {
+      "id": "2C_050",
+      "word": "erratic",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not consistent or predictable, irregular.",
+      "example": "Erratic weather patterns disrupted agricultural output.",
+      "synonyms": ["unpredictable", "irregular", "inconsistent"],
+      "antonyms": ["consistent", "steady", "predictable"]
+    },
+    {
+      "id": "2C_051",
+      "word": "even",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Steady, uniform, or level.",
+      "example": "The company maintained an even pace of growth over the decade.",
+      "synonyms": ["steady", "uniform", "level"],
+      "antonyms": ["uneven", "erratic"]
+    },
+    {
+      "id": "2C_052",
+      "word": "fixed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Firmly attached or set, not changing.",
+      "example": "The fixed interest rate protected borrowers from market fluctuations.",
+      "synonyms": ["unchanging", "stable", "set"],
+      "antonyms": ["variable", "adjustable"]
+    },
+    {
+      "id": "2C_053",
+      "word": "flat",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Showing no change or growth, level.",
+      "example": "Sales remained flat throughout the quarter.",
+      "synonyms": ["unchanged", "level", "static"],
+      "antonyms": ["rising", "falling", "volatile"]
+    },
+    {
+      "id": "2C_054",
+      "word": "floor",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A lower limit below which something cannot fall.",
+      "example": "The government set a price floor to protect farmers.",
+      "synonyms": ["minimum", "base", "lower limit"],
+      "antonyms": ["ceiling", "cap"]
+    },
+    {
+      "id": "2C_055",
+      "word": "floorboard",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A long plank forming part of a wooden floor.",
+      "example": "The old floorboard creaked under the weight of the crowd.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2C_056",
+      "word": "flooring",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Material used to cover a floor.",
+      "example": "The company invested in durable flooring for its new offices.",
+      "synonyms": ["floor covering"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_057",
+      "word": "fluctuate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To rise and fall irregularly.",
+      "example": "Currency values fluctuated throughout the trading session.",
+      "synonyms": ["vary", "oscillate", "waver"],
+      "antonyms": ["stabilize", "remain constant"]
+    },
+    {
+      "id": "2C_058",
+      "word": "fluctuating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Rising and falling irregularly.",
+      "example": "Fluctuating oil prices made budget planning difficult.",
+      "synonyms": ["varying", "oscillating", "unstable"],
+      "antonyms": ["stable", "steady"]
+    },
+    {
+      "id": "2C_059",
+      "word": "fluctuation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "An irregular rise and fall in something.",
+      "example": "Currency fluctuation posed a risk to international trade.",
+      "synonyms": ["variation", "oscillation", "instability"],
+      "antonyms": ["stability", "steadiness"]
+    },
+    {
+      "id": "2C_060",
+      "word": "hold",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To keep something at a particular level, or maintain a position.",
+      "example": "Prices held steady despite the market turbulence.",
+      "synonyms": ["maintain", "keep", "sustain"],
+      "antonyms": ["release", "abandon"]
+    },
+    {
+      "id": "2C_061",
+      "word": "holder",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A person or thing that possesses or contains something.",
+      "example": "Bond holders benefited from the stable interest payments.",
+      "synonyms": ["owner", "possessor"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_062",
+      "word": "holding",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "An amount of stock or property owned, or the act of maintaining.",
+      "example": "The fund's holdings remained stable throughout the volatile year.",
+      "synonyms": ["possession", "asset"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_063",
+      "word": "holdout",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A person or entity that refuses to change or agree.",
+      "example": "A few holdouts resisted the merger despite the deal's stability.",
+      "synonyms": ["resister", "dissenter"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_064",
+      "word": "instability",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The state of being unsteady or likely to change.",
+      "example": "Political instability discouraged foreign investment.",
+      "synonyms": ["volatility", "unsteadiness", "turbulence"],
+      "antonyms": ["stability", "steadiness"]
+    },
+    {
+      "id": "2C_065",
+      "word": "intact",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not damaged or changed, remaining whole.",
+      "example": "The company's reputation remained intact despite the controversy.",
+      "synonyms": ["whole", "unbroken", "undamaged"],
+      "antonyms": ["damaged", "broken"]
+    },
+    {
+      "id": "2C_066",
+      "word": "irregular",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not even or consistent in pattern.",
+      "example": "Irregular cash flow made it difficult to plan the budget.",
+      "synonyms": ["inconsistent", "erratic", "uneven"],
+      "antonyms": ["regular", "consistent"]
+    },
+    {
+      "id": "2C_067",
+      "word": "irregularity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A state of not being even or consistent.",
+      "example": "The audit uncovered several irregularities in the accounts.",
+      "synonyms": ["inconsistency", "anomaly", "deviation"],
+      "antonyms": ["regularity", "consistency"]
+    },
+    {
+      "id": "2C_068",
+      "word": "level",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Having a flat, even surface, or steady in amount.",
+      "example": "The company kept spending at a level, sustainable pace.",
+      "synonyms": ["even", "steady", "balanced"],
+      "antonyms": ["uneven", "fluctuating"]
+    },
+    {
+      "id": "2C_069",
+      "word": "lock",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To fix something firmly in place, preventing change.",
+      "example": "The company locked in a fixed exchange rate for the year.",
+      "synonyms": ["fix", "secure", "set"],
+      "antonyms": ["unlock", "release"]
+    },
+    {
+      "id": "2C_070",
+      "word": "locked",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Fixed firmly in place, not subject to change.",
+      "example": "Investors preferred the locked interest rate for its stability.",
+      "synonyms": ["fixed", "secured", "set"],
+      "antonyms": ["unlocked", "variable"]
+    },
+    {
+      "id": "2C_071",
+      "word": "locker",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A lockable compartment for personal belongings.",
+      "example": "Employees stored their belongings in a locker at work.",
+      "synonyms": ["cabinet", "compartment"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_072",
+      "word": "lockout",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A situation where employees are barred from work, or a stoppage.",
+      "example": "The lockout halted production for several weeks.",
+      "synonyms": ["shutdown", "stoppage"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_073",
+      "word": "maintain",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To keep something in an existing state, especially stable.",
+      "example": "The company maintained steady profits despite the economic downturn.",
+      "synonyms": ["sustain", "preserve", "uphold"],
+      "antonyms": ["neglect", "abandon"]
+    },
+    {
+      "id": "2C_074",
+      "word": "mild",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not severe or intense, moderate.",
+      "example": "The mild recession had a limited impact on employment.",
+      "synonyms": ["moderate", "gentle", "slight"],
+      "antonyms": ["severe", "intense", "harsh"]
+    },
+    {
+      "id": "2C_075",
+      "word": "moderate",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Average in amount, not extreme.",
+      "example": "The economy grew at a moderate and stable pace.",
+      "synonyms": ["reasonable", "average", "measured"],
+      "antonyms": ["extreme", "excessive"]
+    },
+    {
+      "id": "2C_076",
+      "word": "neutral",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not aligned with or supporting either side, balanced.",
+      "example": "The central bank adopted a neutral stance on interest rates.",
+      "synonyms": ["impartial", "balanced", "unbiased"],
+      "antonyms": ["biased", "partisan"]
+    },
+    {
+      "id": "2C_077",
+      "word": "neutrality",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The state of not supporting either side, impartiality.",
+      "example": "The country's neutrality helped stabilize regional trade relations.",
+      "synonyms": ["impartiality", "balance"],
+      "antonyms": ["bias", "partisanship"]
+    },
+    {
+      "id": "2C_078",
+      "word": "neutralize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To counteract or cancel out an effect, restoring balance.",
+      "example": "The subsidy neutralized the impact of rising import costs.",
+      "synonyms": ["offset", "counteract", "cancel out"],
+      "antonyms": ["intensify", "exacerbate"]
+    },
+    {
+      "id": "2C_079",
+      "word": "oscillate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To swing back and forth between states.",
+      "example": "Public opinion oscillated between optimism and concern.",
+      "synonyms": ["fluctuate", "swing", "waver"],
+      "antonyms": ["stabilize", "remain steady"]
+    },
+    {
+      "id": "2C_080",
+      "word": "oscillation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The act of swinging back and forth.",
+      "example": "The oscillation in exchange rates worried exporters.",
+      "synonyms": ["fluctuation", "swing", "variation"],
+      "antonyms": ["stability", "steadiness"]
+    },
+    {
+      "id": "2C_081",
+      "word": "persist",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To continue firmly or steadily despite difficulty.",
+      "example": "Low interest rates persisted for nearly a decade.",
+      "synonyms": ["continue", "endure", "remain"],
+      "antonyms": ["cease", "stop"]
+    },
+    {
+      "id": "2C_082",
+      "word": "persistence",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The quality of continuing firmly despite difficulty.",
+      "example": "The persistence of inflation forced the central bank to act.",
+      "synonyms": ["continuation", "endurance"],
+      "antonyms": ["cessation", "discontinuation"]
+    },
+    {
+      "id": "2C_083",
+      "word": "persistent",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Continuing firmly over a long time.",
+      "example": "Persistent unemployment remained a challenge for policymakers.",
+      "synonyms": ["continuing", "ongoing", "enduring"],
+      "antonyms": ["temporary", "fleeting"]
+    },
+    {
+      "id": "2C_084",
+      "word": "pivot",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To turn or shift in a new, more stable direction.",
+      "example": "The company pivoted its strategy to stabilize revenue.",
+      "synonyms": ["shift", "turn", "adapt"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_085",
+      "word": "pivotal",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Of crucial importance, central to stability or change.",
+      "example": "The decision was pivotal in stabilizing the firm's finances.",
+      "synonyms": ["crucial", "central", "key"],
+      "antonyms": ["minor", "peripheral"]
+    },
+    {
+      "id": "2C_086",
+      "word": "plateau",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A state of little or no change following a period of activity.",
+      "example": "Sales reached a plateau after the initial surge in demand.",
+      "synonyms": ["leveling off", "stabilization"],
+      "antonyms": ["surge", "decline"]
+    },
+    {
+      "id": "2C_087",
+      "word": "protect",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To keep safe from harm or damage.",
+      "example": "Insurance protected the company from unexpected losses.",
+      "synonyms": ["safeguard", "shield", "defend"],
+      "antonyms": ["endanger", "expose"]
+    },
+    {
+      "id": "2C_088",
+      "word": "protected",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Kept safe from harm or damage.",
+      "example": "The protected industry remained stable despite foreign competition.",
+      "synonyms": ["safeguarded", "shielded", "secured"],
+      "antonyms": ["exposed", "vulnerable"]
+    },
+    {
+      "id": "2C_089",
+      "word": "protection",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The act of keeping something safe from harm.",
+      "example": "Tariff protection helped stabilize domestic industries.",
+      "synonyms": ["safeguard", "defense", "security"],
+      "antonyms": ["exposure", "vulnerability"]
+    },
+    {
+      "id": "2C_090",
+      "word": "protectionism",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The policy of shielding domestic industries from foreign competition.",
+      "example": "Rising protectionism disrupted global trade stability.",
+      "synonyms": ["trade barriers", "isolationism"],
+      "antonyms": ["free trade", "openness"]
+    },
+    {
+      "id": "2C_091",
+      "word": "protectionist",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Favoring protectionism.",
+      "example": "The protectionist policy aimed to stabilize local employment.",
+      "synonyms": ["isolationist", "restrictive"],
+      "antonyms": ["free-trade", "open"]
+    },
+    {
+      "id": "2C_092",
+      "word": "protective",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Intended to keep something safe from harm.",
+      "example": "The government introduced protective tariffs to stabilize local jobs.",
+      "synonyms": ["defensive", "safeguarding"],
+      "antonyms": ["exposing", "endangering"]
+    },
+    {
+      "id": "2C_093",
+      "word": "protector",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A person or thing that protects.",
+      "example": "Diversification acted as a protector against market volatility.",
+      "synonyms": ["guardian", "safeguard"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_094",
+      "word": "readjust",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To adjust something again, restoring balance.",
+      "example": "The company readjusted its budget after the unexpected costs.",
+      "synonyms": ["rebalance", "recalibrate"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_095",
+      "word": "regularity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The quality of occurring at consistent intervals, steadiness.",
+      "example": "The regularity of the payments reassured lenders.",
+      "synonyms": ["consistency", "steadiness", "uniformity"],
+      "antonyms": ["irregularity", "inconsistency"]
+    },
+    {
+      "id": "2C_096",
+      "word": "reinstate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To restore something to its former position or state.",
+      "example": "The company reinstated the dividend once earnings stabilized.",
+      "synonyms": ["restore", "reintroduce", "reestablish"],
+      "antonyms": ["revoke", "cancel"]
+    },
+    {
+      "id": "2C_097",
+      "word": "remain",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To stay in the same state or place, unchanged.",
+      "example": "Prices remained stable despite the market turmoil.",
+      "synonyms": ["stay", "persist", "continue"],
+      "antonyms": ["change", "fluctuate"]
+    },
+    {
+      "id": "2C_098",
+      "word": "remainder",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The part that is left after other parts have been used.",
+      "example": "The remainder of the budget was set aside as a reserve.",
+      "synonyms": ["rest", "balance", "leftover"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_099",
+      "word": "remaining",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Still present after the rest has been used or removed.",
+      "example": "The remaining funds were kept stable in low-risk assets.",
+      "synonyms": ["leftover", "residual"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_100",
+      "word": "remains",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "What is left after the rest has gone.",
+      "example": "The remains of the old policy still influenced current regulation.",
+      "synonyms": ["remnants", "residue"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_101",
+      "word": "resilience",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The ability to recover quickly from difficulty, and remain stable.",
+      "example": "The economy's resilience helped it recover from the shock.",
+      "synonyms": ["toughness", "durability", "strength"],
+      "antonyms": ["fragility", "vulnerability"]
+    },
+    {
+      "id": "2C_102",
+      "word": "retain",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To continue to have or hold something.",
+      "example": "The company retained its market position despite new competitors.",
+      "synonyms": ["keep", "maintain", "preserve"],
+      "antonyms": ["lose", "relinquish"]
+    },
+    {
+      "id": "2C_103",
+      "word": "retainer",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A fee paid to secure services, or something that holds in place.",
+      "example": "The firm paid a monthly retainer to its legal advisor.",
+      "synonyms": ["fee", "deposit"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_104",
+      "word": "robust",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Strong and healthy, able to withstand difficulties.",
+      "example": "The robust economy withstood the global financial shock.",
+      "synonyms": ["strong", "resilient", "sturdy"],
+      "antonyms": ["weak", "fragile"]
+    },
+    {
+      "id": "2C_105",
+      "word": "safeguard",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To protect from harm or damage.",
+      "example": "New regulations were introduced to safeguard consumer savings.",
+      "synonyms": ["protect", "defend", "secure"],
+      "antonyms": ["endanger", "jeopardize"]
+    },
+    {
+      "id": "2C_106",
+      "word": "same",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Identical or unchanged.",
+      "example": "Prices remained the same throughout the year.",
+      "synonyms": ["identical", "unchanged", "consistent"],
+      "antonyms": ["different", "changed"]
+    },
+    {
+      "id": "2C_107",
+      "word": "smooth",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Even and steady, without disruption.",
+      "example": "The transition to the new system was smooth and stable.",
+      "synonyms": ["steady", "seamless", "even"],
+      "antonyms": ["turbulent", "rough"]
+    },
+    {
+      "id": "2C_108",
+      "word": "smoothly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In an even and steady manner, without disruption.",
+      "example": "The merger proceeded smoothly despite initial concerns.",
+      "synonyms": ["steadily", "seamlessly", "evenly"],
+      "antonyms": ["turbulently", "roughly"]
+    },
+    {
+      "id": "2C_109",
+      "word": "smoothness",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The quality of being even and free from disruption.",
+      "example": "The smoothness of the transition reassured employees.",
+      "synonyms": ["steadiness", "evenness"],
+      "antonyms": ["turbulence", "roughness"]
+    },
+    {
+      "id": "2C_110",
+      "word": "solidify",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To become firm or stable, or to make something more definite.",
+      "example": "The company's market position solidified after years of steady growth.",
+      "synonyms": ["strengthen", "stabilize", "firm up"],
+      "antonyms": ["weaken", "destabilize"]
+    },
+    {
+      "id": "2C_111",
+      "word": "stabilization",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The process of becoming or making something steady.",
+      "example": "Stabilization of the currency restored investor confidence.",
+      "synonyms": ["steadying", "balancing"],
+      "antonyms": ["destabilization"]
+    },
+    {
+      "id": "2C_112",
+      "word": "stabilize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To make or become steady and not likely to change.",
+      "example": "The central bank intervened to stabilize the currency.",
+      "synonyms": ["steady", "balance", "secure"],
+      "antonyms": ["destabilize", "unsettle"]
+    },
+    {
+      "id": "2C_113",
+      "word": "stable",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not likely to change or fail, firmly established.",
+      "example": "The country enjoyed stable economic growth for a decade.",
+      "synonyms": ["steady", "secure", "consistent"],
+      "antonyms": ["unstable", "volatile"]
+    },
+    {
+      "id": "2C_114",
+      "word": "stagnate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To fail to grow or develop, remaining unchanged.",
+      "example": "Wages stagnated despite years of steady inflation.",
+      "synonyms": ["stall", "plateau", "remain static"],
+      "antonyms": ["grow", "develop"]
+    },
+    {
+      "id": "2C_115",
+      "word": "stagnation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A state of failing to grow or develop.",
+      "example": "Economic stagnation frustrated policymakers seeking stability.",
+      "synonyms": ["stalling", "standstill"],
+      "antonyms": ["growth", "development"]
+    },
+    {
+      "id": "2C_116",
+      "word": "static",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Showing little or no change over time.",
+      "example": "The static population made long-term planning easier.",
+      "synonyms": ["unchanging", "stationary", "fixed"],
+      "antonyms": ["dynamic", "changing"]
+    },
+    {
+      "id": "2C_117",
+      "word": "steadfast",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Firmly fixed in place or loyal, unwavering.",
+      "example": "The company remained steadfast in its commitment to quality.",
+      "synonyms": ["unwavering", "resolute", "firm"],
+      "antonyms": ["wavering", "irresolute"]
+    },
+    {
+      "id": "2C_118",
+      "word": "steadfastly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In a firm and unwavering manner.",
+      "example": "The board steadfastly maintained its dividend policy.",
+      "synonyms": ["firmly", "resolutely", "unwaveringly"],
+      "antonyms": ["waveringly", "hesitantly"]
+    },
+    {
+      "id": "2C_119",
+      "word": "steadily",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In a firm, even, and consistent manner.",
+      "example": "The economy grew steadily throughout the decade.",
+      "synonyms": ["consistently", "evenly", "gradually"],
+      "antonyms": ["erratically", "unevenly"]
+    },
+    {
+      "id": "2C_120",
+      "word": "steady",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Firmly fixed, not shaking or moving, consistent.",
+      "example": "Steady demand kept prices stable throughout the year.",
+      "synonyms": ["stable", "consistent", "firm"],
+      "antonyms": ["unsteady", "erratic"]
+    },
+    {
+      "id": "2C_121",
+      "word": "swing",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To move back and forth or fluctuate between states.",
+      "example": "Public opinion swung sharply after the announcement.",
+      "synonyms": ["fluctuate", "oscillate", "waver"],
+      "antonyms": ["remain stable", "hold steady"]
+    },
+    {
+      "id": "2C_122",
+      "word": "swinging",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Moving back and forth, fluctuating.",
+      "example": "The swinging exchange rate created uncertainty for exporters.",
+      "synonyms": ["fluctuating", "oscillating"],
+      "antonyms": ["stable", "steady"]
+    },
+    {
+      "id": "2C_123",
+      "word": "tight",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Fixed firmly or strict, leaving little room for change.",
+      "example": "Tight monetary policy helped stabilize inflation.",
+      "synonyms": ["strict", "restrictive", "firm"],
+      "antonyms": ["loose", "lax"]
+    },
+    {
+      "id": "2C_124",
+      "word": "tighten",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To make something more restrictive or secure.",
+      "example": "The bank tightened lending standards to stabilize the market.",
+      "synonyms": ["restrict", "constrain"],
+      "antonyms": ["loosen", "relax"]
+    },
+    {
+      "id": "2C_125",
+      "word": "tightening",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The act of making something more restrictive.",
+      "example": "Monetary tightening helped bring inflation under control.",
+      "synonyms": ["restriction", "constraint"],
+      "antonyms": ["loosening", "easing"]
+    },
+    {
+      "id": "2C_126",
+      "word": "tightly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "In a firm or restrictive manner.",
+      "example": "The currency was tightly pegged to the dollar for stability.",
+      "synonyms": ["firmly", "strictly", "closely"],
+      "antonyms": ["loosely"]
+    },
+    {
+      "id": "2C_127",
+      "word": "tightness",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The state of being firm or restrictive.",
+      "example": "Tightness in the labor market kept wages steady.",
+      "synonyms": ["strictness", "constraint"],
+      "antonyms": ["looseness", "laxity"]
+    },
+    {
+      "id": "2C_128",
+      "word": "tightrope",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A tightly stretched rope for acrobatics, symbolizing a precarious balance.",
+      "example": "The central bank walked a tightrope between growth and inflation.",
+      "synonyms": ["balancing act"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_129",
+      "word": "tights",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A close-fitting garment covering the legs.",
+      "example": "She wore tights under her skirt during the winter.",
+      "synonyms": ["leggings"],
+      "antonyms": []
+    },
+    {
+      "id": "2C_130",
+      "word": "tolerant",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Able to endure fluctuation or difference without being greatly affected.",
+      "example": "The resilient economy proved tolerant of external shocks.",
+      "synonyms": ["resilient", "accepting", "enduring"],
+      "antonyms": ["intolerant", "vulnerable"]
+    },
+    {
+      "id": "2C_131",
+      "word": "trough",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The lowest point in a cycle, before recovery.",
+      "example": "The economy hit a trough before beginning a steady recovery.",
+      "synonyms": ["low point", "nadir"],
+      "antonyms": ["peak", "crest"]
+    },
+    {
+      "id": "2C_132",
+      "word": "turbulence",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Violent or unsteady movement, instability.",
+      "example": "Market turbulence unsettled investors throughout the quarter.",
+      "synonyms": ["instability", "upheaval", "volatility"],
+      "antonyms": ["calm", "stability"]
+    },
+    {
+      "id": "2C_133",
+      "word": "turbulent",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Characterized by conflict, disorder, or sudden change.",
+      "example": "The turbulent political climate discouraged foreign investment.",
+      "synonyms": ["unstable", "chaotic", "volatile"],
+      "antonyms": ["calm", "stable", "peaceful"]
+    },
+    {
+      "id": "2C_134",
+      "word": "uncertainty",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A state of being unsure or unpredictable.",
+      "example": "Economic uncertainty caused investors to delay major decisions.",
+      "synonyms": ["unpredictability", "doubt", "instability"],
+      "antonyms": ["certainty", "confidence"]
+    },
+    {
+      "id": "2C_135",
+      "word": "unchanged",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not altered or different, remaining the same.",
+      "example": "Interest rates remained unchanged following the latest meeting.",
+      "synonyms": ["constant", "static", "unaltered"],
+      "antonyms": ["changed", "altered"]
+    },
+    {
+      "id": "2C_136",
+      "word": "unchanging",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Remaining the same over time.",
+      "example": "The unchanging policy provided a sense of stability to markets.",
+      "synonyms": ["constant", "stable", "fixed"],
+      "antonyms": ["changing", "variable"]
+    },
+    {
+      "id": "2C_137",
+      "word": "uniform",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Consistent throughout, not varying.",
+      "example": "Uniform pricing across regions simplified the company's operations.",
+      "synonyms": ["consistent", "even", "standard"],
+      "antonyms": ["varied", "inconsistent"]
+    },
+    {
+      "id": "2C_138",
+      "word": "uniformed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Wearing a standard set of clothing.",
+      "example": "The uniformed staff maintained a consistent appearance.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2C_139",
+      "word": "uniformity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The state of being consistent and unchanging.",
+      "example": "Uniformity in regulation helped stabilize the industry.",
+      "synonyms": ["consistency", "regularity"],
+      "antonyms": ["variation", "inconsistency"]
+    },
+    {
+      "id": "2C_140",
+      "word": "unpredictable",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Not able to be foreseen or known in advance.",
+      "example": "Unpredictable weather disrupted agricultural output.",
+      "synonyms": ["erratic", "uncertain", "volatile"],
+      "antonyms": ["predictable", "stable"]
+    },
+    {
+      "id": "2C_141",
+      "word": "unwavering",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Steady and not weakening, resolute.",
+      "example": "The bank showed unwavering commitment to its stability targets.",
+      "synonyms": ["steadfast", "resolute", "firm"],
+      "antonyms": ["wavering", "hesitant"]
+    },
+    {
+      "id": "2C_142",
+      "word": "variation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "A change or difference in condition, amount, or level.",
+      "example": "Seasonal variation affected the company's monthly revenue.",
+      "synonyms": ["fluctuation", "difference", "change"],
+      "antonyms": ["consistency", "uniformity"]
+    },
+    {
+      "id": "2C_143",
+      "word": "vary",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To differ or change, especially from time to time.",
+      "example": "Prices varied significantly across different regions.",
+      "synonyms": ["differ", "fluctuate", "change"],
+      "antonyms": ["remain constant", "stay the same"]
+    },
+    {
+      "id": "2C_144",
+      "word": "varying",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Different or changing over time.",
+      "example": "Varying interest rates made loan repayments unpredictable.",
+      "synonyms": ["fluctuating", "changing", "differing"],
+      "antonyms": ["constant", "uniform"]
+    },
+    {
+      "id": "2C_145",
+      "word": "volatile",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "Liable to change rapidly and unpredictably.",
+      "example": "The volatile stock market unsettled inexperienced investors.",
+      "synonyms": ["unstable", "unpredictable", "erratic"],
+      "antonyms": ["stable", "steady"]
+    },
+    {
+      "id": "2C_146",
+      "word": "volatility",
+      "type": "noun",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "The tendency to change rapidly and unpredictably.",
+      "example": "High volatility in currency markets increased trading risk.",
+      "synonyms": ["instability", "unpredictability"],
+      "antonyms": ["stability", "steadiness"]
+    },
+    {
+      "id": "2C_147",
+      "word": "waver",
+      "type": "verb",
+      "category": "Verbs & Nouns for Stability, Balance & Fluctuation",
+      "meaning": "To move unsteadily, or to be indecisive.",
+      "example": "Investor confidence wavered amid conflicting economic signals.",
+      "synonyms": ["falter", "hesitate", "fluctuate"],
+      "antonyms": ["remain steady", "stay firm"]
     }
   ]
 }

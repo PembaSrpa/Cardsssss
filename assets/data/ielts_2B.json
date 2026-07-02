@@ -4,16 +4,2443 @@
   "words": [
     {
       "id": "2B_001",
-      "word": "placeholder",
+      "word": "abolish",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To formally put an end to a system, practice, or institution.",
+      "example": "The government voted to abolish the outdated tax law.",
+      "synonyms": ["eliminate", "end", "terminate"],
+      "antonyms": ["establish", "institute", "create"]
+    },
+    {
+      "id": "2B_002",
+      "word": "absorb",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To take in or soak up something, or to bear a cost or impact without passing it on.",
+      "example": "The company absorbed the rising costs rather than raising prices.",
+      "synonyms": ["assimilate", "take in", "soak up"],
+      "antonyms": ["emit", "release", "expel"]
+    },
+    {
+      "id": "2B_003",
+      "word": "absorbing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Very interesting and holding one's attention.",
+      "example": "The absorbing documentary explored the causes of the recession.",
+      "synonyms": ["engrossing", "captivating", "gripping"],
+      "antonyms": ["boring", "dull", "tedious"]
+    },
+    {
+      "id": "2B_004",
+      "word": "acculturation",
       "type": "noun",
       "category": "Verbs & Nouns for Downward Movement",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The process of adapting to a different culture.",
+      "example": "Acculturation among immigrant workers often slowed as economic opportunities declined.",
+      "synonyms": ["adaptation", "assimilation"],
       "antonyms": []
+    },
+    {
+      "id": "2B_005",
+      "word": "accusation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A claim that someone has done something wrong.",
+      "example": "The accusation of fraud damaged the company's reputation.",
+      "synonyms": ["allegation", "charge", "claim"],
+      "antonyms": ["exoneration", "defense"]
+    },
+    {
+      "id": "2B_006",
+      "word": "accuse",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To charge someone with an offense or wrongdoing.",
+      "example": "Regulators accused the firm of manipulating stock prices.",
+      "synonyms": ["charge", "blame", "allege"],
+      "antonyms": ["exonerate", "absolve"]
+    },
+    {
+      "id": "2B_007",
+      "word": "accused",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Charged with an offense.",
+      "example": "The accused executive denied all wrongdoing.",
+      "synonyms": ["charged", "indicted"],
+      "antonyms": ["exonerated", "cleared"]
+    },
+    {
+      "id": "2B_008",
+      "word": "accuser",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A person who accuses someone of wrongdoing.",
+      "example": "The accuser presented evidence to support the fraud claim.",
+      "synonyms": ["plaintiff", "complainant"],
+      "antonyms": ["defendant"]
+    },
+    {
+      "id": "2B_009",
+      "word": "accustom",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To make someone or something familiar with something new through gradual exposure.",
+      "example": "Workers had to accustom themselves to reduced hours during the downturn.",
+      "synonyms": ["familiarize", "adapt", "acclimate"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_010",
+      "word": "accustomed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Familiar with something through experience.",
+      "example": "The team grew accustomed to shrinking budgets.",
+      "synonyms": ["familiar", "used to", "habituated"],
+      "antonyms": ["unaccustomed", "unfamiliar"]
+    },
+    {
+      "id": "2B_011",
+      "word": "avert",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To prevent or ward off an undesirable occurrence.",
+      "example": "Emergency funding helped avert a full economic collapse.",
+      "synonyms": ["prevent", "avoid", "ward off"],
+      "antonyms": ["cause", "trigger", "invite"]
+    },
+    {
+      "id": "2B_012",
+      "word": "below",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "At a lower level or layer than something else.",
+      "example": "Sales fell below expectations for the third consecutive quarter.",
+      "synonyms": ["under", "beneath"],
+      "antonyms": ["above", "over"]
+    },
+    {
+      "id": "2B_013",
+      "word": "bottom",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The lowest point or level of something.",
+      "example": "The market appeared to have hit bottom before recovering slightly.",
+      "synonyms": ["base", "floor", "nadir"],
+      "antonyms": ["top", "peak", "summit"]
+    },
+    {
+      "id": "2B_014",
+      "word": "brunt",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The main force or impact of something negative.",
+      "example": "Small businesses bore the brunt of the economic slowdown.",
+      "synonyms": ["impact", "force", "weight"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_015",
+      "word": "burden",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A heavy load, especially of responsibility or hardship.",
+      "example": "Rising debt became a heavy burden for many households.",
+      "synonyms": ["load", "weight", "strain"],
+      "antonyms": ["relief", "ease"]
+    },
+    {
+      "id": "2B_016",
+      "word": "burdensome",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Excessively heavy or hard to bear.",
+      "example": "The burdensome regulations discouraged new business investment.",
+      "synonyms": ["onerous", "oppressive", "taxing"],
+      "antonyms": ["light", "manageable", "easy"]
+    },
+    {
+      "id": "2B_017",
+      "word": "cascade",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall or flow in stages, often with a downward chain effect.",
+      "example": "Job losses cascaded through the supply chain after the factory closure.",
+      "synonyms": ["flow", "tumble", "spill"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_018",
+      "word": "cease",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To bring or come to an end.",
+      "example": "Production ceased entirely after the plant was shut down.",
+      "synonyms": ["stop", "end", "halt"],
+      "antonyms": ["begin", "start", "continue"]
+    },
+    {
+      "id": "2B_019",
+      "word": "cease-fire",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A temporary suspension of fighting.",
+      "example": "The cease-fire allowed both economies a brief period of stability.",
+      "synonyms": ["truce", "armistice"],
+      "antonyms": ["escalation", "conflict"]
+    },
+    {
+      "id": "2B_020",
+      "word": "closure",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The process of shutting something down permanently.",
+      "example": "The factory closure resulted in hundreds of job losses.",
+      "synonyms": ["shutdown", "termination"],
+      "antonyms": ["opening", "launch"]
+    },
+    {
+      "id": "2B_021",
+      "word": "collapse",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall down or fail suddenly and completely.",
+      "example": "The housing market collapsed during the financial crisis.",
+      "synonyms": ["crash", "fail", "crumble"],
+      "antonyms": ["recover", "boom", "thrive"]
+    },
+    {
+      "id": "2B_022",
+      "word": "collapsed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Having fallen down or failed suddenly.",
+      "example": "Investors lost confidence in the collapsed company.",
+      "synonyms": ["failed", "ruined", "crashed"],
+      "antonyms": ["thriving", "stable"]
+    },
+    {
+      "id": "2B_023",
+      "word": "collapsing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Falling down or failing suddenly.",
+      "example": "The collapsing currency triggered widespread economic panic.",
+      "synonyms": ["crashing", "failing", "crumbling"],
+      "antonyms": ["strengthening", "recovering"]
+    },
+    {
+      "id": "2B_024",
+      "word": "compress",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To press or squeeze something into a smaller space.",
+      "example": "The recession compressed profit margins across the industry.",
+      "synonyms": ["squeeze", "condense", "reduce"],
+      "antonyms": ["expand", "stretch"]
+    },
+    {
+      "id": "2B_025",
+      "word": "compressed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Reduced in size or made more concentrated.",
+      "example": "Compressed timelines put additional pressure on the workforce.",
+      "synonyms": ["condensed", "reduced", "squeezed"],
+      "antonyms": ["expanded", "extended"]
+    },
+    {
+      "id": "2B_026",
+      "word": "compression",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of pressing or squeezing something into a smaller space.",
+      "example": "Wage compression left little difference between junior and senior salaries.",
+      "synonyms": ["reduction", "condensation", "squeezing"],
+      "antonyms": ["expansion"]
+    },
+    {
+      "id": "2B_027",
+      "word": "compressor",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A device that compresses gas or reduces volume.",
+      "example": "The factory upgraded its compressor to improve efficiency.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_028",
+      "word": "continual",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Happening frequently, with intervals between.",
+      "example": "Continual delays disrupted the project's timeline.",
+      "synonyms": ["repeated", "frequent", "recurring"],
+      "antonyms": ["occasional", "rare"]
+    },
+    {
+      "id": "2B_029",
+      "word": "continually",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "In a way that happens frequently or repeatedly.",
+      "example": "Costs continually rose throughout the project.",
+      "synonyms": ["repeatedly", "frequently", "constantly"],
+      "antonyms": ["occasionally", "rarely"]
+    },
+    {
+      "id": "2B_030",
+      "word": "continuation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of continuing something without interruption.",
+      "example": "The continuation of the strike further damaged production.",
+      "synonyms": ["extension", "persistence"],
+      "antonyms": ["cessation", "termination"]
+    },
+    {
+      "id": "2B_031",
+      "word": "continue",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To persist in an activity or state.",
+      "example": "The decline in exports continued for another year.",
+      "synonyms": ["persist", "carry on", "endure"],
+      "antonyms": ["stop", "cease", "end"]
+    },
+    {
+      "id": "2B_032",
+      "word": "continued",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Persisting or ongoing.",
+      "example": "Continued weakness in demand hurt quarterly earnings.",
+      "synonyms": ["ongoing", "persistent", "sustained"],
+      "antonyms": ["discontinued", "halted"]
+    },
+    {
+      "id": "2B_033",
+      "word": "continuing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Persisting or ongoing over time.",
+      "example": "The continuing decline in sales prompted layoffs.",
+      "synonyms": ["ongoing", "persistent", "sustained"],
+      "antonyms": ["ceasing", "ending"]
+    },
+    {
+      "id": "2B_034",
+      "word": "continuity",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The unbroken continuation of something over time.",
+      "example": "Management prioritized continuity despite the leadership change.",
+      "synonyms": ["consistency", "persistence"],
+      "antonyms": ["interruption", "disruption"]
+    },
+    {
+      "id": "2B_035",
+      "word": "continuous",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Happening without interruption or gaps.",
+      "example": "Continuous losses forced the company into bankruptcy.",
+      "synonyms": ["uninterrupted", "constant", "unbroken"],
+      "antonyms": ["intermittent", "sporadic"]
+    },
+    {
+      "id": "2B_036",
+      "word": "continuum",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A continuous sequence in which adjacent elements are not perceptibly different.",
+      "example": "Economic decline exists on a continuum from mild slowdown to full recession.",
+      "synonyms": ["spectrum", "range"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_037",
+      "word": "contract",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become smaller in size, amount, or extent.",
+      "example": "The economy contracted for the second consecutive quarter.",
+      "synonyms": ["shrink", "decrease", "diminish"],
+      "antonyms": ["expand", "grow", "increase"]
+    },
+    {
+      "id": "2B_038",
+      "word": "contracting",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming smaller in size or amount.",
+      "example": "The contracting manufacturing sector shed thousands of jobs.",
+      "synonyms": ["shrinking", "declining", "diminishing"],
+      "antonyms": ["expanding", "growing"]
+    },
+    {
+      "id": "2B_039",
+      "word": "contraction",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A decrease in size, amount, or activity.",
+      "example": "Economic contraction led to a sharp rise in unemployment.",
+      "synonyms": ["decline", "shrinkage", "decrease"],
+      "antonyms": ["expansion", "growth"]
+    },
+    {
+      "id": "2B_040",
+      "word": "contractor",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A person or company that undertakes work under contract.",
+      "example": "The contractor faced penalties for missing the deadline.",
+      "synonyms": ["builder", "supplier"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_041",
+      "word": "contractual",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Relating to or specified in a contract.",
+      "example": "Contractual obligations forced the company to continue the unprofitable service.",
+      "synonyms": ["binding", "agreed"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_042",
+      "word": "convoluted",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Extremely complex and difficult to follow.",
+      "example": "The convoluted approval process delayed the project significantly.",
+      "synonyms": ["complicated", "intricate", "tangled"],
+      "antonyms": ["simple", "straightforward"]
+    },
+    {
+      "id": "2B_043",
+      "word": "crash",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall or decline suddenly and severely.",
+      "example": "The stock market crashed within a matter of days.",
+      "synonyms": ["collapse", "plummet", "plunge"],
+      "antonyms": ["rally", "surge", "boom"]
+    },
+    {
+      "id": "2B_044",
+      "word": "crashing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Falling or declining suddenly and severely.",
+      "example": "The crashing currency wiped out household savings.",
+      "synonyms": ["collapsing", "plummeting", "plunging"],
+      "antonyms": ["soaring", "rallying"]
+    },
+    {
+      "id": "2B_045",
+      "word": "cripple",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To severely damage or weaken something.",
+      "example": "The strike crippled production for several weeks.",
+      "synonyms": ["disable", "incapacitate", "weaken"],
+      "antonyms": ["strengthen", "bolster"]
+    },
+    {
+      "id": "2B_046",
+      "word": "crippled",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Severely damaged or weakened.",
+      "example": "The crippled economy struggled to recover from years of sanctions.",
+      "synonyms": ["disabled", "weakened", "incapacitated"],
+      "antonyms": ["strengthened", "robust"]
+    },
+    {
+      "id": "2B_047",
+      "word": "crippling",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Causing severe damage or weakness.",
+      "example": "Crippling debt forced the government to seek international aid.",
+      "synonyms": ["devastating", "disabling", "severe"],
+      "antonyms": ["manageable", "minor"]
+    },
+    {
+      "id": "2B_048",
+      "word": "culminate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reach a climax or final point, sometimes leading to decline.",
+      "example": "Years of mismanagement culminated in the company's bankruptcy.",
+      "synonyms": ["end in", "result in", "conclude"],
+      "antonyms": ["begin", "originate"]
+    },
+    {
+      "id": "2B_049",
+      "word": "culmination",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The highest or final point of something, often before decline.",
+      "example": "The layoffs were the culmination of months of falling revenue.",
+      "synonyms": ["climax", "conclusion", "result"],
+      "antonyms": ["beginning", "start"]
+    },
+    {
+      "id": "2B_050",
+      "word": "curtail",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reduce or restrict something.",
+      "example": "The government curtailed spending to reduce the deficit.",
+      "synonyms": ["reduce", "restrict", "cut back"],
+      "antonyms": ["expand", "increase", "extend"]
+    },
+    {
+      "id": "2B_051",
+      "word": "curtain",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A piece of fabric used to cover or divide, sometimes symbolizing an end.",
+      "example": "The scandal brought the curtain down on the CEO's career.",
+      "synonyms": ["veil", "screen", "drape"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_052",
+      "word": "cut",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reduce the amount, extent, or number of something.",
+      "example": "The company cut its workforce by twenty percent.",
+      "synonyms": ["reduce", "slash", "trim"],
+      "antonyms": ["increase", "expand", "raise"]
+    },
+    {
+      "id": "2B_053",
+      "word": "cut-off",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A point or level beyond which something stops or is limited.",
+      "example": "The cut-off for applications was moved earlier due to budget cuts.",
+      "synonyms": ["limit", "deadline", "threshold"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_054",
+      "word": "cutback",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A reduction in something, especially spending.",
+      "example": "Cutbacks in public spending affected education and healthcare.",
+      "synonyms": ["reduction", "cut", "decrease"],
+      "antonyms": ["increase", "expansion"]
+    },
+    {
+      "id": "2B_055",
+      "word": "cute",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Attractive in a pleasing or endearing way.",
+      "example": "The startup used a cute mascot in its marketing campaign.",
+      "synonyms": ["adorable", "charming"],
+      "antonyms": ["unappealing", "unattractive"]
+    },
+    {
+      "id": "2B_056",
+      "word": "cuticle",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The skin at the base of a fingernail or toenail.",
+      "example": "She applied lotion to soften her cuticles.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_057",
+      "word": "cutter",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A tool or person that cuts.",
+      "example": "The factory invested in a new cutter to improve efficiency.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_058",
+      "word": "cutthroat",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Ruthlessly competitive or fierce.",
+      "example": "The cutthroat pricing war drove several smaller firms out of business.",
+      "synonyms": ["ruthless", "fierce", "aggressive"],
+      "antonyms": ["gentle", "cooperative"]
+    },
+    {
+      "id": "2B_059",
+      "word": "cutting",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Very sharp, severe, or involving reduction.",
+      "example": "Cutting costs became essential for the company's survival.",
+      "synonyms": ["reducing", "sharp", "severe"],
+      "antonyms": ["increasing", "expanding"]
+    },
+    {
+      "id": "2B_060",
+      "word": "cutting-edge",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Most advanced or innovative.",
+      "example": "The firm invested in cutting-edge technology despite the downturn.",
+      "synonyms": ["state-of-the-art", "advanced", "innovative"],
+      "antonyms": ["outdated", "obsolete"]
+    },
+    {
+      "id": "2B_061",
+      "word": "decay",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To decline in quality, strength, or condition over time.",
+      "example": "The city's infrastructure decayed after years of underinvestment.",
+      "synonyms": ["deteriorate", "decline", "rot"],
+      "antonyms": ["improve", "flourish", "thrive"]
+    },
+    {
+      "id": "2B_062",
+      "word": "decaying",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Declining in quality or condition.",
+      "example": "The decaying industrial sector struggled to compete globally.",
+      "synonyms": ["deteriorating", "declining", "crumbling"],
+      "antonyms": ["improving", "thriving"]
+    },
+    {
+      "id": "2B_063",
+      "word": "decline",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become smaller, weaker, or worse.",
+      "example": "Manufacturing output declined for the fourth straight month.",
+      "synonyms": ["decrease", "fall", "worsen"],
+      "antonyms": ["increase", "rise", "improve"]
+    },
+    {
+      "id": "2B_064",
+      "word": "declining",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming smaller, weaker, or worse.",
+      "example": "The declining birth rate raised concerns about future labor supply.",
+      "synonyms": ["decreasing", "falling", "worsening"],
+      "antonyms": ["increasing", "rising"]
+    },
+    {
+      "id": "2B_065",
+      "word": "decrease",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become or make smaller in size, amount, or degree.",
+      "example": "Unemployment decreased slightly last quarter.",
+      "synonyms": ["reduce", "lessen", "diminish"],
+      "antonyms": ["increase", "grow", "rise"]
+    },
+    {
+      "id": "2B_066",
+      "word": "decreased",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Reduced in size or amount.",
+      "example": "Decreased consumer spending hurt retail sales.",
+      "synonyms": ["reduced", "lowered", "diminished"],
+      "antonyms": ["increased", "raised"]
+    },
+    {
+      "id": "2B_067",
+      "word": "decreasing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming smaller in size or amount.",
+      "example": "Decreasing oil prices affected the region's economy.",
+      "synonyms": ["declining", "falling", "shrinking"],
+      "antonyms": ["increasing", "rising"]
+    },
+    {
+      "id": "2B_068",
+      "word": "deficiency",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A lack or shortage of something needed.",
+      "example": "The report identified a deficiency in the company's risk management.",
+      "synonyms": ["shortage", "lack", "insufficiency"],
+      "antonyms": ["sufficiency", "abundance"]
+    },
+    {
+      "id": "2B_069",
+      "word": "deficient",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Lacking in an essential quality or element.",
+      "example": "The infrastructure was deficient in handling increased demand.",
+      "synonyms": ["lacking", "inadequate", "insufficient"],
+      "antonyms": ["sufficient", "adequate"]
+    },
+    {
+      "id": "2B_070",
+      "word": "deflate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reduce in size, importance, or confidence.",
+      "example": "The disappointing results deflated investor confidence.",
+      "synonyms": ["reduce", "diminish", "dampen"],
+      "antonyms": ["inflate", "boost", "increase"]
+    },
+    {
+      "id": "2B_071",
+      "word": "deflect",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To cause something to change direction or avoid an issue.",
+      "example": "The spokesperson tried to deflect questions about the falling profits.",
+      "synonyms": ["divert", "avoid", "evade"],
+      "antonyms": ["confront", "address"]
+    },
+    {
+      "id": "2B_072",
+      "word": "depreciation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A reduction in the value of something over time.",
+      "example": "Rapid depreciation of the currency hurt import-dependent businesses.",
+      "synonyms": ["devaluation", "decline", "decrease"],
+      "antonyms": ["appreciation", "increase"]
+    },
+    {
+      "id": "2B_073",
+      "word": "depress",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To lower the level, amount, or activity of something.",
+      "example": "Weak demand depressed prices across the industry.",
+      "synonyms": ["lower", "reduce", "dampen"],
+      "antonyms": ["boost", "raise", "stimulate"]
+    },
+    {
+      "id": "2B_074",
+      "word": "depressed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Having low levels of activity, or feeling low in spirit.",
+      "example": "The depressed housing market discouraged new construction.",
+      "synonyms": ["weak", "low", "sluggish"],
+      "antonyms": ["booming", "thriving"]
+    },
+    {
+      "id": "2B_075",
+      "word": "depressing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Causing sadness or discouragement.",
+      "example": "The depressing economic outlook worried policymakers.",
+      "synonyms": ["discouraging", "gloomy", "disheartening"],
+      "antonyms": ["encouraging", "uplifting"]
+    },
+    {
+      "id": "2B_076",
+      "word": "depression",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A period of severe economic decline.",
+      "example": "The Great Depression caused widespread unemployment and poverty.",
+      "synonyms": ["recession", "downturn", "slump"],
+      "antonyms": ["boom", "prosperity"]
+    },
+    {
+      "id": "2B_077",
+      "word": "depressive",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Relating to or tending to cause a downward trend.",
+      "example": "Depressive economic pressures forced the central bank to intervene.",
+      "synonyms": ["declining", "negative"],
+      "antonyms": ["expansive", "positive"]
+    },
+    {
+      "id": "2B_078",
+      "word": "derail",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To cause something to fail or go off course.",
+      "example": "The scandal derailed the company's merger plans.",
+      "synonyms": ["disrupt", "thwart", "sabotage"],
+      "antonyms": ["advance", "facilitate"]
+    },
+    {
+      "id": "2B_079",
+      "word": "derailleur",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A mechanism on a bicycle that shifts the chain between gears.",
+      "example": "The mechanic adjusted the derailleur before the race.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_080",
+      "word": "descend",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To move downward.",
+      "example": "The plane began to descend as it approached the airport.",
+      "synonyms": ["drop", "fall", "decline"],
+      "antonyms": ["ascend", "rise", "climb"]
+    },
+    {
+      "id": "2B_081",
+      "word": "descendant",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A person or thing that derives from an ancestor or earlier form.",
+      "example": "The company is a descendant of a once-thriving textile firm.",
+      "synonyms": ["successor", "offspring"],
+      "antonyms": ["ancestor", "predecessor"]
+    },
+    {
+      "id": "2B_082",
+      "word": "descending",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Moving downward, or arranged from highest to lowest.",
+      "example": "The report lists countries in descending order of debt.",
+      "synonyms": ["falling", "dropping", "declining"],
+      "antonyms": ["ascending", "rising"]
+    },
+    {
+      "id": "2B_083",
+      "word": "destabilize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To make something less stable or secure.",
+      "example": "The currency crisis destabilized the entire regional economy.",
+      "synonyms": ["undermine", "disrupt", "unsettle"],
+      "antonyms": ["stabilize", "secure"]
+    },
+    {
+      "id": "2B_084",
+      "word": "deteriorate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become progressively worse.",
+      "example": "Relations between the two countries deteriorated over trade disputes.",
+      "synonyms": ["worsen", "decline", "degrade"],
+      "antonyms": ["improve", "strengthen"]
+    },
+    {
+      "id": "2B_085",
+      "word": "deteriorating",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming progressively worse.",
+      "example": "The deteriorating infrastructure discouraged foreign investment.",
+      "synonyms": ["worsening", "declining", "degrading"],
+      "antonyms": ["improving", "strengthening"]
+    },
+    {
+      "id": "2B_086",
+      "word": "deterioration",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The process of becoming progressively worse.",
+      "example": "The deterioration of the roads increased transportation costs.",
+      "synonyms": ["decline", "worsening", "degradation"],
+      "antonyms": ["improvement", "strengthening"]
+    },
+    {
+      "id": "2B_087",
+      "word": "diminish",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become or make smaller or less.",
+      "example": "Public trust in the institution diminished over time.",
+      "synonyms": ["decrease", "reduce", "lessen"],
+      "antonyms": ["increase", "grow", "enhance"]
+    },
+    {
+      "id": "2B_088",
+      "word": "diminished",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Made smaller or less than before.",
+      "example": "The diminished workforce struggled to meet production targets.",
+      "synonyms": ["reduced", "lessened", "decreased"],
+      "antonyms": ["increased", "enhanced"]
+    },
+    {
+      "id": "2B_089",
+      "word": "diminishing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming smaller or less over time.",
+      "example": "The company faced diminishing returns on its investments.",
+      "synonyms": ["decreasing", "dwindling", "shrinking"],
+      "antonyms": ["increasing", "growing"]
+    },
+    {
+      "id": "2B_090",
+      "word": "dip",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To decrease briefly or slightly.",
+      "example": "Sales dipped in the off-season before recovering.",
+      "synonyms": ["decrease", "drop", "decline"],
+      "antonyms": ["rise", "increase", "climb"]
+    },
+    {
+      "id": "2B_091",
+      "word": "diploma",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A certificate awarded for completing a course of study.",
+      "example": "She earned her diploma before entering the workforce.",
+      "synonyms": ["certificate", "qualification"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_092",
+      "word": "diplomacy",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The practice of managing international relations, often through negotiation.",
+      "example": "Diplomacy helped avert further economic sanctions.",
+      "synonyms": ["negotiation", "statesmanship"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_093",
+      "word": "diplomat",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "An official who represents a country in dealings with others.",
+      "example": "The diplomat worked to ease trade tensions between the nations.",
+      "synonyms": ["envoy", "ambassador"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_094",
+      "word": "diplomatic",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Relating to diplomacy, or tactful in dealing with others.",
+      "example": "The diplomatic response helped defuse the tense negotiations.",
+      "synonyms": ["tactful", "careful", "sensitive"],
+      "antonyms": ["undiplomatic", "blunt"]
+    },
+    {
+      "id": "2B_095",
+      "word": "diplomatically",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "In a way that is tactful or sensitive.",
+      "example": "She diplomatically declined to comment on the falling stock price.",
+      "synonyms": ["tactfully", "carefully"],
+      "antonyms": ["bluntly", "undiplomatically"]
+    },
+    {
+      "id": "2B_096",
+      "word": "disappear",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To cease to exist or be visible.",
+      "example": "Many small retailers disappeared as online shopping grew.",
+      "synonyms": ["vanish", "fade", "dissolve"],
+      "antonyms": ["appear", "emerge"]
+    },
+    {
+      "id": "2B_097",
+      "word": "disappearance",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of ceasing to exist or be visible.",
+      "example": "The disappearance of traditional bookstores accelerated in the digital age.",
+      "synonyms": ["vanishing", "extinction"],
+      "antonyms": ["appearance", "emergence"]
+    },
+    {
+      "id": "2B_098",
+      "word": "disappearing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Ceasing to exist or be visible.",
+      "example": "The disappearing middle class became a major political issue.",
+      "synonyms": ["vanishing", "fading", "dwindling"],
+      "antonyms": ["emerging", "appearing"]
+    },
+    {
+      "id": "2B_099",
+      "word": "diverge",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To separate and go in different directions.",
+      "example": "The two economies diverged sharply after the policy change.",
+      "synonyms": ["separate", "split", "deviate"],
+      "antonyms": ["converge", "align"]
+    },
+    {
+      "id": "2B_100",
+      "word": "divergence",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The process of separating or developing differently.",
+      "example": "The divergence in growth rates concerned economists.",
+      "synonyms": ["separation", "deviation", "split"],
+      "antonyms": ["convergence", "alignment"]
+    },
+    {
+      "id": "2B_101",
+      "word": "divergent",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Tending to differ or develop in different directions.",
+      "example": "Divergent monetary policies created tension between the two nations.",
+      "synonyms": ["differing", "deviating", "conflicting"],
+      "antonyms": ["convergent", "aligned"]
+    },
+    {
+      "id": "2B_102",
+      "word": "down",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Moving or directed toward a lower level.",
+      "example": "Prices were down sharply after the announcement.",
+      "synonyms": ["lower", "reduced"],
+      "antonyms": ["up", "higher"]
+    },
+    {
+      "id": "2B_103",
+      "word": "drop",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall or decrease suddenly.",
+      "example": "Temperatures dropped rapidly overnight.",
+      "synonyms": ["fall", "decline", "plunge"],
+      "antonyms": ["rise", "increase", "climb"]
+    },
+    {
+      "id": "2B_104",
+      "word": "drop-off",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A sudden and significant decrease.",
+      "example": "There was a sharp drop-off in tourist numbers after the crisis.",
+      "synonyms": ["decline", "decrease", "fall"],
+      "antonyms": ["increase", "upturn"]
+    },
+    {
+      "id": "2B_105",
+      "word": "droplet",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A very small drop of liquid.",
+      "example": "The scientist examined the droplet under a microscope.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_106",
+      "word": "dropout",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A person who leaves school or a program before completion.",
+      "example": "The dropout rate increased during the economic downturn.",
+      "synonyms": ["quitter", "leaver"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_107",
+      "word": "dropping",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Falling or decreasing.",
+      "example": "Dropping oil prices strained the country's budget.",
+      "synonyms": ["falling", "declining", "decreasing"],
+      "antonyms": ["rising", "increasing"]
+    },
+    {
+      "id": "2B_108",
+      "word": "dwindle",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To diminish gradually in size, amount, or strength.",
+      "example": "The company's reserves dwindled as losses mounted.",
+      "synonyms": ["decrease", "shrink", "diminish"],
+      "antonyms": ["grow", "increase", "expand"]
+    },
+    {
+      "id": "2B_109",
+      "word": "dwindling",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Diminishing gradually.",
+      "example": "Dwindling resources forced the government to cut public services.",
+      "synonyms": ["decreasing", "shrinking", "diminishing"],
+      "antonyms": ["growing", "increasing"]
+    },
+    {
+      "id": "2B_110",
+      "word": "erode",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To gradually wear away or diminish something.",
+      "example": "Inflation eroded the value of workers' savings.",
+      "synonyms": ["diminish", "wear away", "weaken"],
+      "antonyms": ["strengthen", "build up"]
+    },
+    {
+      "id": "2B_111",
+      "word": "eroding",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Gradually wearing away or diminishing.",
+      "example": "Eroding public confidence hurt the government's approval ratings.",
+      "synonyms": ["weakening", "diminishing", "declining"],
+      "antonyms": ["strengthening", "building"]
+    },
+    {
+      "id": "2B_112",
+      "word": "exit",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To leave or withdraw from a place or situation.",
+      "example": "Several investors decided to exit the volatile market.",
+      "synonyms": ["leave", "withdraw", "depart"],
+      "antonyms": ["enter", "join"]
+    },
+    {
+      "id": "2B_113",
+      "word": "fade",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To gradually disappear or become weaker.",
+      "example": "Consumer enthusiasm for the product faded over time.",
+      "synonyms": ["diminish", "wane", "dwindle"],
+      "antonyms": ["intensify", "strengthen", "grow"]
+    },
+    {
+      "id": "2B_114",
+      "word": "faded",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Having gradually disappeared or weakened.",
+      "example": "The faded brand struggled to attract new customers.",
+      "synonyms": ["diminished", "weakened", "waned"],
+      "antonyms": ["strengthened", "revived"]
+    },
+    {
+      "id": "2B_115",
+      "word": "fail",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To be unsuccessful or stop functioning.",
+      "example": "The venture failed within its first year of operation.",
+      "synonyms": ["flop", "collapse", "falter"],
+      "antonyms": ["succeed", "thrive", "prosper"]
+    },
+    {
+      "id": "2B_116",
+      "word": "failed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Unsuccessful, or having stopped functioning.",
+      "example": "The failed merger cost the company millions of dollars.",
+      "synonyms": ["unsuccessful", "collapsed", "botched"],
+      "antonyms": ["successful", "thriving"]
+    },
+    {
+      "id": "2B_117",
+      "word": "failing",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming weaker or performing poorly.",
+      "example": "The failing business sought emergency investment.",
+      "synonyms": ["struggling", "declining", "faltering"],
+      "antonyms": ["thriving", "succeeding"]
+    },
+    {
+      "id": "2B_118",
+      "word": "failure",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A lack of success, or the state of not functioning.",
+      "example": "The failure of the bank triggered a wider financial crisis.",
+      "synonyms": ["collapse", "breakdown", "defeat"],
+      "antonyms": ["success", "triumph"]
+    },
+    {
+      "id": "2B_119",
+      "word": "fall",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To decrease in amount, value, or level.",
+      "example": "House prices fell sharply during the recession.",
+      "synonyms": ["decline", "drop", "decrease"],
+      "antonyms": ["rise", "increase", "climb"]
+    },
+    {
+      "id": "2B_120",
+      "word": "fallacy",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A mistaken belief based on unsound reasoning.",
+      "example": "The idea that growth could continue forever proved to be a fallacy.",
+      "synonyms": ["misconception", "myth", "error"],
+      "antonyms": ["truth", "fact"]
+    },
+    {
+      "id": "2B_121",
+      "word": "fallen",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Having dropped or declined.",
+      "example": "The fallen currency made imports significantly more expensive.",
+      "synonyms": ["declined", "dropped", "decreased"],
+      "antonyms": ["risen", "increased"]
+    },
+    {
+      "id": "2B_122",
+      "word": "falling",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Decreasing in amount, value, or level.",
+      "example": "Falling demand forced the factory to reduce production.",
+      "synonyms": ["declining", "dropping", "decreasing"],
+      "antonyms": ["rising", "increasing"]
+    },
+    {
+      "id": "2B_123",
+      "word": "fallout",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The negative consequences or aftermath of an event.",
+      "example": "The fallout from the scandal damaged the company's reputation for years.",
+      "synonyms": ["aftermath", "consequences", "repercussions"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_124",
+      "word": "fallow",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Inactive or not being used productively.",
+      "example": "The land remained fallow during the economic downturn.",
+      "synonyms": ["inactive", "dormant", "unused"],
+      "antonyms": ["active", "productive"]
+    },
+    {
+      "id": "2B_125",
+      "word": "falter",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To lose strength or momentum, becoming unsteady.",
+      "example": "The economy began to falter after years of steady growth.",
+      "synonyms": ["waver", "stumble", "weaken"],
+      "antonyms": ["strengthen", "steady"]
+    },
+    {
+      "id": "2B_126",
+      "word": "faltering",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Losing strength or becoming unsteady.",
+      "example": "The faltering stock market alarmed investors worldwide.",
+      "synonyms": ["wavering", "weakening", "stumbling"],
+      "antonyms": ["strengthening", "steady"]
+    },
+    {
+      "id": "2B_127",
+      "word": "fell",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Past tense of fall; to decrease or drop.",
+      "example": "Revenue fell sharply after the loss of a major client.",
+      "synonyms": ["dropped", "declined", "decreased"],
+      "antonyms": ["rose", "increased"]
+    },
+    {
+      "id": "2B_128",
+      "word": "fewer",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A smaller number of.",
+      "example": "Fewer customers visited the store during the recession.",
+      "synonyms": ["less numerous", "reduced"],
+      "antonyms": ["more", "greater"]
+    },
+    {
+      "id": "2B_129",
+      "word": "flatten",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To make something level or to stop it from growing.",
+      "example": "Sales growth flattened after the initial surge in demand.",
+      "synonyms": ["level off", "stabilize", "plateau"],
+      "antonyms": ["rise", "increase", "grow"]
+    },
+    {
+      "id": "2B_130",
+      "word": "flattened",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Made level, or having stopped growing.",
+      "example": "The flattened yield curve signaled economic uncertainty.",
+      "synonyms": ["leveled", "stabilized"],
+      "antonyms": ["steepened", "increased"]
+    },
+    {
+      "id": "2B_131",
+      "word": "frail",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Weak and delicate.",
+      "example": "The frail economy could not withstand another shock.",
+      "synonyms": ["weak", "fragile", "delicate"],
+      "antonyms": ["strong", "robust", "resilient"]
+    },
+    {
+      "id": "2B_132",
+      "word": "frailty",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The condition of being weak or delicate.",
+      "example": "The frailty of the banking system became apparent during the crisis.",
+      "synonyms": ["weakness", "fragility", "vulnerability"],
+      "antonyms": ["strength", "robustness"]
+    },
+    {
+      "id": "2B_133",
+      "word": "frugal",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Economical and sparing in the use of resources.",
+      "example": "Consumers became more frugal during the economic downturn.",
+      "synonyms": ["thrifty", "economical", "sparing"],
+      "antonyms": ["extravagant", "wasteful"]
+    },
+    {
+      "id": "2B_134",
+      "word": "grind",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To slow down or come to a near stop, or to crush.",
+      "example": "Production ground to a halt after the factory fire.",
+      "synonyms": ["slow", "halt", "crush"],
+      "antonyms": ["accelerate", "speed up"]
+    },
+    {
+      "id": "2B_135",
+      "word": "grinder",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A tool or machine used for grinding.",
+      "example": "The workshop used a grinder to sharpen its tools.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_136",
+      "word": "grinding",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Slow, tedious, and difficult, or crushing.",
+      "example": "The grinding recession dragged on for years.",
+      "synonyms": ["relentless", "tedious", "tough"],
+      "antonyms": ["swift", "easy"]
+    },
+    {
+      "id": "2B_137",
+      "word": "halt",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To bring or come to a stop.",
+      "example": "The government halted construction projects to save costs.",
+      "synonyms": ["stop", "cease", "suspend"],
+      "antonyms": ["continue", "resume", "proceed"]
+    },
+    {
+      "id": "2B_138",
+      "word": "halter",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A strap placed around an animal's head, or a type of clothing.",
+      "example": "The farmer put a halter on the horse before leading it away.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_139",
+      "word": "halting",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Hesitant, or proceeding with frequent stops.",
+      "example": "The halting recovery left many workers uncertain about the future.",
+      "synonyms": ["hesitant", "faltering", "uneven"],
+      "antonyms": ["steady", "smooth"]
+    },
+    {
+      "id": "2B_140",
+      "word": "hamper",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To hinder or prevent the progress of something.",
+      "example": "Supply shortages hampered the company's production schedule.",
+      "synonyms": ["hinder", "impede", "obstruct"],
+      "antonyms": ["assist", "facilitate", "help"]
+    },
+    {
+      "id": "2B_141",
+      "word": "hesitant",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Showing reluctance or uncertainty.",
+      "example": "Investors remained hesitant despite signs of recovery.",
+      "synonyms": ["reluctant", "uncertain", "tentative"],
+      "antonyms": ["confident", "decisive"]
+    },
+    {
+      "id": "2B_142",
+      "word": "hesitantly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "In a reluctant or uncertain manner.",
+      "example": "The board hesitantly approved the risky investment.",
+      "synonyms": ["reluctantly", "uncertainly", "tentatively"],
+      "antonyms": ["confidently", "decisively"]
+    },
+    {
+      "id": "2B_143",
+      "word": "hesitate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To pause before doing or saying something, often due to uncertainty.",
+      "example": "Consumers hesitated to spend during the uncertain economic climate.",
+      "synonyms": ["pause", "waver", "delay"],
+      "antonyms": ["proceed", "act decisively"]
+    },
+    {
+      "id": "2B_144",
+      "word": "hesitation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A pause or reluctance before acting.",
+      "example": "There was widespread hesitation among businesses to invest in new equipment.",
+      "synonyms": ["reluctance", "uncertainty", "doubt"],
+      "antonyms": ["confidence", "decisiveness"]
+    },
+    {
+      "id": "2B_145",
+      "word": "hinder",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To create difficulty for someone or something, delaying progress.",
+      "example": "Poor infrastructure hindered economic development in the region.",
+      "synonyms": ["impede", "obstruct", "hamper"],
+      "antonyms": ["help", "facilitate", "assist"]
+    },
+    {
+      "id": "2B_146",
+      "word": "impair",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To weaken or damage something.",
+      "example": "The injury impaired his ability to work effectively.",
+      "synonyms": ["weaken", "damage", "harm"],
+      "antonyms": ["strengthen", "enhance", "improve"]
+    },
+    {
+      "id": "2B_147",
+      "word": "impaired",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Weakened or damaged.",
+      "example": "The impaired supply chain caused significant production delays.",
+      "synonyms": ["damaged", "weakened", "compromised"],
+      "antonyms": ["strengthened", "intact"]
+    },
+    {
+      "id": "2B_148",
+      "word": "impairment",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A weakening or damaging of something.",
+      "example": "The impairment of the company's assets led to a large write-down.",
+      "synonyms": ["damage", "weakening", "deterioration"],
+      "antonyms": ["enhancement", "improvement"]
+    },
+    {
+      "id": "2B_149",
+      "word": "impede",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To delay or obstruct progress.",
+      "example": "Bureaucratic red tape impeded the approval process.",
+      "synonyms": ["hinder", "obstruct", "hamper"],
+      "antonyms": ["facilitate", "expedite", "assist"]
+    },
+    {
+      "id": "2B_150",
+      "word": "interrupt",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To stop the continuous progress of something.",
+      "example": "The strike interrupted production for several weeks.",
+      "synonyms": ["disrupt", "halt", "break off"],
+      "antonyms": ["continue", "resume"]
+    },
+    {
+      "id": "2B_151",
+      "word": "interruption",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A temporary stop in the continuity of something.",
+      "example": "The interruption of trade routes caused significant supply shortages.",
+      "synonyms": ["disruption", "break", "pause"],
+      "antonyms": ["continuation", "resumption"]
+    },
+    {
+      "id": "2B_152",
+      "word": "jeopardize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To put something at risk of harm or failure.",
+      "example": "The scandal jeopardized the company's chances of securing new investors.",
+      "synonyms": ["endanger", "threaten", "risk"],
+      "antonyms": ["protect", "secure", "safeguard"]
+    },
+    {
+      "id": "2B_153",
+      "word": "languish",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To remain in a state of inactivity or decline without improvement.",
+      "example": "Sales languished for months before finally picking up.",
+      "synonyms": ["stagnate", "decline", "wither"],
+      "antonyms": ["thrive", "flourish", "improve"]
+    },
+    {
+      "id": "2B_154",
+      "word": "lapse",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A temporary decline or failure in standard or activity.",
+      "example": "A lapse in quality control led to a costly product recall.",
+      "synonyms": ["decline", "slip", "failure"],
+      "antonyms": ["improvement", "maintenance"]
+    },
+    {
+      "id": "2B_155",
+      "word": "less",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A smaller amount of.",
+      "example": "Consumers spent less during the economic downturn.",
+      "synonyms": ["smaller", "reduced"],
+      "antonyms": ["more", "greater"]
+    },
+    {
+      "id": "2B_156",
+      "word": "lessen",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To make or become smaller in amount or degree.",
+      "example": "New regulations aimed to lessen the environmental impact of manufacturing.",
+      "synonyms": ["reduce", "diminish", "decrease"],
+      "antonyms": ["increase", "intensify", "enhance"]
+    },
+    {
+      "id": "2B_157",
+      "word": "limit",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To restrict the size, amount, or extent of something.",
+      "example": "The government limited imports to protect domestic industries.",
+      "synonyms": ["restrict", "cap", "curb"],
+      "antonyms": ["expand", "extend", "increase"]
+    },
+    {
+      "id": "2B_158",
+      "word": "limited",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Restricted in size, amount, or extent.",
+      "example": "Limited resources forced the company to scale back its plans.",
+      "synonyms": ["restricted", "constrained", "capped"],
+      "antonyms": ["unlimited", "unrestricted"]
+    },
+    {
+      "id": "2B_159",
+      "word": "limiting",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Restricting the size, amount, or extent of something.",
+      "example": "Limiting factors such as poor infrastructure slowed economic growth.",
+      "synonyms": ["restrictive", "constraining"],
+      "antonyms": ["enabling", "expansive"]
+    },
+    {
+      "id": "2B_160",
+      "word": "limitless",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Having no limit or restriction.",
+      "example": "The startup's early growth seemed almost limitless.",
+      "synonyms": ["boundless", "unlimited", "infinite"],
+      "antonyms": ["limited", "restricted"]
+    },
+    {
+      "id": "2B_161",
+      "word": "lost",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "No longer possessed or existing, or having failed to win.",
+      "example": "The company mourned its lost market share.",
+      "synonyms": ["forfeited", "missing", "gone"],
+      "antonyms": ["gained", "retained"]
+    },
+    {
+      "id": "2B_162",
+      "word": "low",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Below average in amount, level, or intensity.",
+      "example": "Low consumer confidence dampened retail spending.",
+      "synonyms": ["reduced", "minimal", "weak"],
+      "antonyms": ["high", "elevated"]
+    },
+    {
+      "id": "2B_163",
+      "word": "lower",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reduce the amount, level, or position of something.",
+      "example": "The central bank lowered interest rates to stimulate borrowing.",
+      "synonyms": ["reduce", "decrease", "cut"],
+      "antonyms": ["raise", "increase", "elevate"]
+    },
+    {
+      "id": "2B_164",
+      "word": "lowered",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Reduced in amount, level, or position.",
+      "example": "Lowered expectations followed the disappointing earnings report.",
+      "synonyms": ["reduced", "decreased", "diminished"],
+      "antonyms": ["raised", "increased"]
+    },
+    {
+      "id": "2B_165",
+      "word": "lowering",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of reducing something.",
+      "example": "The lowering of trade barriers had mixed effects on local industries.",
+      "synonyms": ["reduction", "decrease", "cutting"],
+      "antonyms": ["raising", "increasing"]
+    },
+    {
+      "id": "2B_166",
+      "word": "minimal",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Of a minimum amount, extent, or size; negligible.",
+      "example": "The company reported only minimal growth this quarter.",
+      "synonyms": ["negligible", "slight", "marginal"],
+      "antonyms": ["substantial", "significant"]
+    },
+    {
+      "id": "2B_167",
+      "word": "minimalist",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Characterized by extreme simplicity or spareness.",
+      "example": "The firm adopted a minimalist approach to cost management.",
+      "synonyms": ["sparse", "simple"],
+      "antonyms": ["elaborate", "extravagant"]
+    },
+    {
+      "id": "2B_168",
+      "word": "minimally",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To the smallest possible degree.",
+      "example": "The new policy affected only minimally the overall budget.",
+      "synonyms": ["slightly", "barely", "negligibly"],
+      "antonyms": ["substantially", "significantly"]
+    },
+    {
+      "id": "2B_169",
+      "word": "minimize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reduce something to the smallest possible amount.",
+      "example": "The company sought to minimize losses during the downturn.",
+      "synonyms": ["reduce", "decrease", "lessen"],
+      "antonyms": ["maximize", "increase"]
+    },
+    {
+      "id": "2B_170",
+      "word": "minimum",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The smallest amount or degree possible.",
+      "example": "Wages were kept at the legal minimum during the crisis.",
+      "synonyms": ["least", "lowest amount"],
+      "antonyms": ["maximum", "highest amount"]
+    },
+    {
+      "id": "2B_171",
+      "word": "narrow",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become or make smaller in width, extent, or scope.",
+      "example": "The trade gap narrowed slightly in the last quarter.",
+      "synonyms": ["reduce", "shrink", "tighten"],
+      "antonyms": ["widen", "expand", "broaden"]
+    },
+    {
+      "id": "2B_172",
+      "word": "narrowly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "By a very small margin.",
+      "example": "The company narrowly avoided bankruptcy last year.",
+      "synonyms": ["barely", "just", "closely"],
+      "antonyms": ["comfortably", "easily"]
+    },
+    {
+      "id": "2B_173",
+      "word": "obstruct",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To block or hinder the progress of something.",
+      "example": "Legal challenges obstructed the merger for months.",
+      "synonyms": ["block", "hinder", "impede"],
+      "antonyms": ["facilitate", "assist", "enable"]
+    },
+    {
+      "id": "2B_174",
+      "word": "obstruction",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Something that blocks or hinders progress.",
+      "example": "Bureaucratic obstruction delayed the infrastructure project by years.",
+      "synonyms": ["blockage", "hindrance", "barrier"],
+      "antonyms": ["facilitation", "assistance"]
+    },
+    {
+      "id": "2B_175",
+      "word": "paralyze",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To render something unable to function or move.",
+      "example": "The strike paralyzed the country's transportation system.",
+      "synonyms": ["immobilize", "incapacitate", "cripple"],
+      "antonyms": ["mobilize", "energize"]
+    },
+    {
+      "id": "2B_176",
+      "word": "paralyzed",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Unable to function or move.",
+      "example": "The paralyzed economy struggled to recover from the shutdown.",
+      "synonyms": ["immobilized", "incapacitated", "crippled"],
+      "antonyms": ["mobilized", "functioning"]
+    },
+    {
+      "id": "2B_177",
+      "word": "penalize",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To impose a disadvantage or punishment on someone.",
+      "example": "Late payments were penalized with additional fees.",
+      "synonyms": ["punish", "fine", "sanction"],
+      "antonyms": ["reward", "benefit"]
+    },
+    {
+      "id": "2B_178",
+      "word": "plummet",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall or drop suddenly and steeply.",
+      "example": "Stock prices plummeted after the disappointing earnings report.",
+      "synonyms": ["plunge", "crash", "nosedive"],
+      "antonyms": ["soar", "rise", "surge"]
+    },
+    {
+      "id": "2B_179",
+      "word": "plunge",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall or drop suddenly and dramatically.",
+      "example": "The currency plunged to a record low against the dollar.",
+      "synonyms": ["plummet", "crash", "dive"],
+      "antonyms": ["soar", "surge", "rise"]
+    },
+    {
+      "id": "2B_180",
+      "word": "precarious",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Not securely held or in a dangerous position.",
+      "example": "The company's precarious financial position worried its shareholders.",
+      "synonyms": ["unstable", "insecure", "risky"],
+      "antonyms": ["stable", "secure", "safe"]
+    },
+    {
+      "id": "2B_181",
+      "word": "precariously",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "In an unstable or insecure manner.",
+      "example": "The firm balanced precariously on the edge of insolvency.",
+      "synonyms": ["unstably", "insecurely"],
+      "antonyms": ["stably", "securely"]
+    },
+    {
+      "id": "2B_182",
+      "word": "pressure",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A force or influence that constrains or compels.",
+      "example": "Financial pressure forced the company to cut its workforce.",
+      "synonyms": ["strain", "stress", "force"],
+      "antonyms": ["relief", "ease"]
+    },
+    {
+      "id": "2B_183",
+      "word": "recede",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To move back or become smaller or weaker.",
+      "example": "Fears of recession began to recede as the economy stabilized.",
+      "synonyms": ["retreat", "diminish", "decline"],
+      "antonyms": ["advance", "grow", "increase"]
+    },
+    {
+      "id": "2B_184",
+      "word": "recess",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A temporary break or period of reduced activity.",
+      "example": "Trading was suspended during the market's midday recess.",
+      "synonyms": ["break", "pause", "intermission"],
+      "antonyms": ["continuation"]
+    },
+    {
+      "id": "2B_185",
+      "word": "recession",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A period of temporary economic decline.",
+      "example": "The recession led to widespread job losses across the country.",
+      "synonyms": ["downturn", "slump", "depression"],
+      "antonyms": ["boom", "expansion", "recovery"]
+    },
+    {
+      "id": "2B_186",
+      "word": "recoil",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To draw back suddenly, often in shock or fear.",
+      "example": "Investors recoiled at the news of the company's massive losses.",
+      "synonyms": ["flinch", "shrink back", "withdraw"],
+      "antonyms": ["advance", "embrace"]
+    },
+    {
+      "id": "2B_187",
+      "word": "reduction",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of making something smaller or less.",
+      "example": "The reduction in staff numbers saved the company millions.",
+      "synonyms": ["decrease", "cut", "decline"],
+      "antonyms": ["increase", "expansion"]
+    },
+    {
+      "id": "2B_188",
+      "word": "relapse",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A deterioration after a period of improvement.",
+      "example": "The economy suffered a relapse after briefly showing signs of recovery.",
+      "synonyms": ["setback", "decline", "backslide"],
+      "antonyms": ["recovery", "improvement"]
+    },
+    {
+      "id": "2B_189",
+      "word": "restate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To state something again or in a different way.",
+      "example": "The company restated its earnings after discovering an accounting error.",
+      "synonyms": ["reiterate", "rephrase"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_190",
+      "word": "retreat",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To withdraw from a position due to difficulty or danger.",
+      "example": "Investors retreated from emerging markets amid growing uncertainty.",
+      "synonyms": ["withdraw", "pull back", "retire"],
+      "antonyms": ["advance", "proceed"]
+    },
+    {
+      "id": "2B_191",
+      "word": "reversal",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A change to the opposite direction or position.",
+      "example": "The sudden reversal in fortunes surprised even seasoned analysts.",
+      "synonyms": ["turnaround", "change", "shift"],
+      "antonyms": ["continuation", "persistence"]
+    },
+    {
+      "id": "2B_192",
+      "word": "reverse",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To change something to its opposite, especially a decline.",
+      "example": "The government reversed its decision to cut welfare spending.",
+      "synonyms": ["overturn", "undo", "invert"],
+      "antonyms": ["maintain", "uphold"]
+    },
+    {
+      "id": "2B_193",
+      "word": "reversible",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Able to be changed back to a previous state.",
+      "example": "The damage to the ecosystem was not entirely reversible.",
+      "synonyms": ["correctable", "changeable"],
+      "antonyms": ["irreversible", "permanent"]
+    },
+    {
+      "id": "2B_194",
+      "word": "rout",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A decisive and disorderly defeat.",
+      "example": "The market experienced a rout as investors rushed to sell.",
+      "synonyms": ["collapse", "defeat", "crash"],
+      "antonyms": ["victory", "triumph"]
+    },
+    {
+      "id": "2B_195",
+      "word": "route",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A path or course taken to reach a destination.",
+      "example": "The company changed its shipping route to cut costs.",
+      "synonyms": ["path", "course", "way"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_196",
+      "word": "router",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A device that forwards data between computer networks.",
+      "example": "The office upgraded its router to improve internet speed.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_197",
+      "word": "routine",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A fixed and regular way of doing things.",
+      "example": "Employees found their daily routine disrupted by the restructuring.",
+      "synonyms": ["pattern", "procedure", "habit"],
+      "antonyms": ["irregularity", "variation"]
+    },
+    {
+      "id": "2B_198",
+      "word": "routinely",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "As a matter of course, regularly.",
+      "example": "The company routinely reviewed its risk exposure.",
+      "synonyms": ["regularly", "habitually", "customarily"],
+      "antonyms": ["rarely", "occasionally"]
+    },
+    {
+      "id": "2B_199",
+      "word": "sacrifice",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To give up something valuable for the sake of something else.",
+      "example": "The firm sacrificed short-term profit to invest in long-term growth.",
+      "synonyms": ["forgo", "relinquish", "give up"],
+      "antonyms": ["gain", "retain"]
+    },
+    {
+      "id": "2B_200",
+      "word": "scrap",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To abandon or discard something, often a plan.",
+      "example": "The company scrapped its expansion plans after the market downturn.",
+      "synonyms": ["abandon", "discard", "cancel"],
+      "antonyms": ["implement", "pursue"]
+    },
+    {
+      "id": "2B_201",
+      "word": "scrapbook",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A book of blank pages for keeping mementos.",
+      "example": "She kept a scrapbook of newspaper clippings from her career.",
+      "synonyms": ["album"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_202",
+      "word": "scrape",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To obtain something with difficulty, or to remove by rubbing.",
+      "example": "The struggling firm managed to scrape together enough funds to survive.",
+      "synonyms": ["struggle to obtain", "barely manage"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_203",
+      "word": "shock",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A sudden and unexpected disturbance or event.",
+      "example": "The oil shock sent global markets into turmoil.",
+      "synonyms": ["jolt", "blow", "upheaval"],
+      "antonyms": ["stability", "calm"]
+    },
+    {
+      "id": "2B_204",
+      "word": "shocked",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Feeling sudden surprise or distress.",
+      "example": "Shareholders were shocked by the sudden drop in profits.",
+      "synonyms": ["stunned", "astonished", "dismayed"],
+      "antonyms": ["unsurprised", "calm"]
+    },
+    {
+      "id": "2B_205",
+      "word": "shocking",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Causing sudden surprise or distress.",
+      "example": "The shocking decline in exports alarmed economists.",
+      "synonyms": ["startling", "alarming", "stunning"],
+      "antonyms": ["unsurprising", "expected"]
+    },
+    {
+      "id": "2B_206",
+      "word": "shockingly",
+      "type": "adverb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "In a way that causes sudden surprise or distress.",
+      "example": "Profits fell shockingly short of expectations.",
+      "synonyms": ["alarmingly", "startlingly"],
+      "antonyms": ["unsurprisingly"]
+    },
+    {
+      "id": "2B_207",
+      "word": "shortfall",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A deficiency in the amount of something required.",
+      "example": "The budget shortfall forced the government to cut public services.",
+      "synonyms": ["deficit", "gap", "shortage"],
+      "antonyms": ["surplus", "excess"]
+    },
+    {
+      "id": "2B_208",
+      "word": "shrink",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become smaller in size or amount.",
+      "example": "The company's workforce shrank significantly during the recession.",
+      "synonyms": ["contract", "decrease", "diminish"],
+      "antonyms": ["grow", "expand", "increase"]
+    },
+    {
+      "id": "2B_209",
+      "word": "shrinking",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming smaller in size or amount.",
+      "example": "The shrinking population raised concerns about future economic growth.",
+      "synonyms": ["contracting", "decreasing", "diminishing"],
+      "antonyms": ["growing", "expanding"]
+    },
+    {
+      "id": "2B_210",
+      "word": "sink",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall or decline, especially suddenly.",
+      "example": "Consumer confidence sank to its lowest level in years.",
+      "synonyms": ["fall", "decline", "plunge"],
+      "antonyms": ["rise", "improve", "soar"]
+    },
+    {
+      "id": "2B_211",
+      "word": "sinking",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Falling or declining, especially gradually.",
+      "example": "The sinking economy left many families struggling to make ends meet.",
+      "synonyms": ["declining", "failing", "deteriorating"],
+      "antonyms": ["rising", "improving"]
+    },
+    {
+      "id": "2B_212",
+      "word": "slide",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To move steadily downward, especially in value.",
+      "example": "The currency continued to slide against major trading partners.",
+      "synonyms": ["decline", "drop", "fall"],
+      "antonyms": ["rise", "climb", "improve"]
+    },
+    {
+      "id": "2B_213",
+      "word": "slider",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "An adjustable control that moves along a track.",
+      "example": "Users could adjust the volume using the on-screen slider.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "2B_214",
+      "word": "slump",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To decline suddenly and severely.",
+      "example": "Sales slumped after the loss of the company's biggest client.",
+      "synonyms": ["plunge", "decline", "crash"],
+      "antonyms": ["surge", "rise", "boom"]
+    },
+    {
+      "id": "2B_215",
+      "word": "spiral",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To decline or increase continuously in a worsening pattern.",
+      "example": "Debt spiraled out of control after years of overspending.",
+      "synonyms": ["worsen", "deteriorate", "escalate"],
+      "antonyms": ["stabilize", "improve"]
+    },
+    {
+      "id": "2B_216",
+      "word": "squeeze",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To reduce or put pressure on something, especially finances.",
+      "example": "Rising costs squeezed profit margins across the industry.",
+      "synonyms": ["compress", "pressure", "constrain"],
+      "antonyms": ["relieve", "ease"]
+    },
+    {
+      "id": "2B_217",
+      "word": "stagnate",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fail to grow or develop, remaining inactive.",
+      "example": "Wages stagnated for nearly a decade despite rising living costs.",
+      "synonyms": ["stall", "plateau", "flatline"],
+      "antonyms": ["grow", "develop", "flourish"]
+    },
+    {
+      "id": "2B_218",
+      "word": "stagnation",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The state of failing to grow or develop.",
+      "example": "Economic stagnation led to widespread public discontent.",
+      "synonyms": ["stalling", "standstill", "decline"],
+      "antonyms": ["growth", "development"]
+    },
+    {
+      "id": "2B_219",
+      "word": "strain",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A force or pressure that stretches or tests something.",
+      "example": "The extra workload put a strain on the company's resources.",
+      "synonyms": ["pressure", "stress", "tension"],
+      "antonyms": ["relief", "ease"]
+    },
+    {
+      "id": "2B_220",
+      "word": "strained",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Stretched or affected by pressure or tension.",
+      "example": "Strained relations between the two countries hurt bilateral trade.",
+      "synonyms": ["tense", "stressed", "difficult"],
+      "antonyms": ["relaxed", "easy"]
+    },
+    {
+      "id": "2B_221",
+      "word": "strainer",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A device used to separate liquids from solids.",
+      "example": "The chef used a strainer to drain the pasta.",
+      "synonyms": ["sieve", "filter"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_222",
+      "word": "suppress",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To forcibly put an end to or restrain something.",
+      "example": "The central bank suppressed inflation through aggressive rate hikes.",
+      "synonyms": ["restrain", "curb", "stifle"],
+      "antonyms": ["encourage", "release", "unleash"]
+    },
+    {
+      "id": "2B_223",
+      "word": "suppression",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of forcibly ending or restraining something.",
+      "example": "The suppression of dissent stifled economic reform efforts.",
+      "synonyms": ["restraint", "repression", "curbing"],
+      "antonyms": ["encouragement", "release"]
+    },
+    {
+      "id": "2B_224",
+      "word": "suspend",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To temporarily stop or delay something.",
+      "example": "The company suspended dividend payments during the crisis.",
+      "synonyms": ["halt", "postpone", "pause"],
+      "antonyms": ["resume", "continue"]
+    },
+    {
+      "id": "2B_225",
+      "word": "suspended",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Temporarily stopped or delayed.",
+      "example": "Trading was suspended after the sharp drop in share price.",
+      "synonyms": ["halted", "paused", "postponed"],
+      "antonyms": ["resumed", "continued"]
+    },
+    {
+      "id": "2B_226",
+      "word": "suspenders",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Straps worn over the shoulders to hold up trousers.",
+      "example": "He wore suspenders instead of a belt.",
+      "synonyms": ["braces"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_227",
+      "word": "taper",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To gradually decrease in amount or intensity.",
+      "example": "The central bank began to taper its bond-buying program.",
+      "synonyms": ["decrease gradually", "wind down"],
+      "antonyms": ["increase", "intensify"]
+    },
+    {
+      "id": "2B_228",
+      "word": "termination",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of bringing something to an end.",
+      "example": "The termination of the contract left many employees without work.",
+      "synonyms": ["ending", "cessation", "dismissal"],
+      "antonyms": ["initiation", "continuation"]
+    },
+    {
+      "id": "2B_229",
+      "word": "tighten",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To make something more restrictive or stricter, or to reduce spending.",
+      "example": "The government tightened its fiscal policy to control inflation.",
+      "synonyms": ["restrict", "constrain", "squeeze"],
+      "antonyms": ["loosen", "relax", "ease"]
+    },
+    {
+      "id": "2B_230",
+      "word": "tightening",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of making something more restrictive.",
+      "example": "The tightening of credit conditions slowed business investment.",
+      "synonyms": ["restriction", "constraint"],
+      "antonyms": ["loosening", "easing"]
+    },
+    {
+      "id": "2B_231",
+      "word": "tumble",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To fall suddenly and dramatically.",
+      "example": "Share prices tumbled after the unexpected announcement.",
+      "synonyms": ["plunge", "plummet", "crash"],
+      "antonyms": ["soar", "rise", "climb"]
+    },
+    {
+      "id": "2B_232",
+      "word": "tumbler",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "A drinking glass with no handle or stem.",
+      "example": "He poured whiskey into a crystal tumbler.",
+      "synonyms": ["glass"],
+      "antonyms": []
+    },
+    {
+      "id": "2B_233",
+      "word": "tumbling",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Falling suddenly and dramatically.",
+      "example": "Tumbling oil prices hurt energy-dependent economies.",
+      "synonyms": ["plunging", "plummeting", "crashing"],
+      "antonyms": ["soaring", "rising"]
+    },
+    {
+      "id": "2B_234",
+      "word": "unravel",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To come apart or fail, especially gradually.",
+      "example": "The company's strategy began to unravel amid mounting losses.",
+      "synonyms": ["collapse", "disintegrate", "fall apart"],
+      "antonyms": ["strengthen", "hold together"]
+    },
+    {
+      "id": "2B_235",
+      "word": "unraveled",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Having come apart or failed.",
+      "example": "The unraveled deal left both companies searching for new partners.",
+      "synonyms": ["collapsed", "disintegrated", "failed"],
+      "antonyms": ["intact", "successful"]
+    },
+    {
+      "id": "2B_236",
+      "word": "unsustainable",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Not able to be maintained at the current rate or level.",
+      "example": "The government's spending was widely seen as unsustainable.",
+      "synonyms": ["unviable", "unmanageable"],
+      "antonyms": ["sustainable", "viable"]
+    },
+    {
+      "id": "2B_237",
+      "word": "wane",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To decrease gradually in strength or extent.",
+      "example": "Public interest in the product began to wane after the initial launch.",
+      "synonyms": ["decline", "diminish", "fade"],
+      "antonyms": ["grow", "increase", "strengthen"]
+    },
+    {
+      "id": "2B_238",
+      "word": "weaken",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To make or become less strong or effective.",
+      "example": "The currency weakened against the dollar after the announcement.",
+      "synonyms": ["diminish", "undermine", "erode"],
+      "antonyms": ["strengthen", "bolster", "reinforce"]
+    },
+    {
+      "id": "2B_239",
+      "word": "weakened",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Made less strong or effective.",
+      "example": "The weakened economy struggled to recover from the crisis.",
+      "synonyms": ["diminished", "undermined", "fragile"],
+      "antonyms": ["strengthened", "robust"]
+    },
+    {
+      "id": "2B_240",
+      "word": "weakening",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming less strong or effective.",
+      "example": "The weakening currency raised concerns about inflation.",
+      "synonyms": ["declining", "softening", "deteriorating"],
+      "antonyms": ["strengthening", "improving"]
+    },
+    {
+      "id": "2B_241",
+      "word": "withdraw",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To remove or take back something, or to leave a situation.",
+      "example": "Investors withdrew their funds amid growing uncertainty.",
+      "synonyms": ["retreat", "remove", "pull out"],
+      "antonyms": ["invest", "commit", "deposit"]
+    },
+    {
+      "id": "2B_242",
+      "word": "withdrawal",
+      "type": "noun",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "The act of removing or taking something back.",
+      "example": "The withdrawal of government subsidies hurt small farmers.",
+      "synonyms": ["removal", "retreat", "extraction"],
+      "antonyms": ["investment", "deposit"]
+    },
+    {
+      "id": "2B_243",
+      "word": "worsen",
+      "type": "verb",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "To become or make more severe or unpleasant.",
+      "example": "Economic conditions worsened as the crisis deepened.",
+      "synonyms": ["deteriorate", "decline", "degrade"],
+      "antonyms": ["improve", "ameliorate"]
+    },
+    {
+      "id": "2B_244",
+      "word": "worsening",
+      "type": "adjective",
+      "category": "Verbs & Nouns for Downward Movement",
+      "meaning": "Becoming more severe or unpleasant.",
+      "example": "The worsening trade deficit put pressure on the currency.",
+      "synonyms": ["deteriorating", "declining", "degrading"],
+      "antonyms": ["improving", "easing"]
     }
   ]
 }
