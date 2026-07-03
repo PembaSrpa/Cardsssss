@@ -4,15 +4,3442 @@
   "words": [
     {
       "id": "4D_001",
-      "word": "placeholder",
+      "word": "access",
       "type": "noun",
       "category": "High-Scoring Academic Collocations",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The means or opportunity to approach, enter, or make use of something.",
+      "example": "Improved public transport has given residents greater access to employment opportunities.",
+      "synonyms": ["entry", "admittance", "entree"],
+      "antonyms": ["denial", "exclusion"]
+    },
+    {
+      "id": "4D_002",
+      "word": "accessibility",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The quality of being easy to reach, enter, or obtain.",
+      "example": "The accessibility of the new library has increased its use among students.",
+      "synonyms": ["availability", "reachability"],
+      "antonyms": ["inaccessibility"]
+    },
+    {
+      "id": "4D_003",
+      "word": "accessible",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Able to be reached, entered, or obtained easily.",
+      "example": "The report is written in accessible language for a general audience.",
+      "synonyms": ["reachable", "approachable", "available"],
+      "antonyms": ["inaccessible"]
+    },
+    {
+      "id": "4D_004",
+      "word": "accession",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The attainment or acquisition of a position, right, or possession.",
+      "example": "The country's accession to the trade agreement boosted its economic growth.",
+      "synonyms": ["attainment", "acquisition"],
+      "antonyms": ["withdrawal"]
+    },
+    {
+      "id": "4D_005",
+      "word": "accessory",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An additional item or feature that complements something more important.",
+      "example": "Public art has become a common accessory to modern urban planning.",
+      "synonyms": ["addition", "supplement"],
+      "antonyms": ["essential", "core"]
+    },
+    {
+      "id": "4D_006",
+      "word": "achievable",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Able to be accomplished or attained successfully.",
+      "example": "The target of reducing emissions by 20% is considered achievable within the decade.",
+      "synonyms": ["attainable", "feasible", "realistic"],
+      "antonyms": ["unachievable", "unrealistic"]
+    },
+    {
+      "id": "4D_007",
+      "word": "achieve",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To successfully complete or attain a goal through effort.",
+      "example": "The city achieved a significant reduction in traffic congestion within two years.",
+      "synonyms": ["attain", "accomplish", "reach"],
+      "antonyms": ["fail", "forfeit"]
+    },
+    {
+      "id": "4D_008",
+      "word": "achievement",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A thing accomplished successfully through effort or skill.",
+      "example": "The completion of the bridge was considered a major engineering achievement.",
+      "synonyms": ["accomplishment", "feat", "success"],
+      "antonyms": ["failure"]
+    },
+    {
+      "id": "4D_009",
+      "word": "achiever",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who accomplishes something successfully, especially through effort.",
+      "example": "The scholarship programme has produced many high achievers in local schools.",
+      "synonyms": ["accomplisher", "high-flyer"],
+      "antonyms": ["underachiever"]
+    },
+    {
+      "id": "4D_010",
+      "word": "address",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To deal with or discuss a problem or issue.",
+      "example": "The policy aims to address inequality in access to healthcare.",
+      "synonyms": ["tackle", "deal with", "confront"],
+      "antonyms": ["ignore", "neglect"]
+    },
+    {
+      "id": "4D_011",
+      "word": "adopt",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To choose to follow or take up a course of action, method, or idea.",
+      "example": "Many cities have adopted congestion pricing to manage traffic.",
+      "synonyms": ["embrace", "take up", "implement"],
+      "antonyms": ["reject", "abandon"]
+    },
+    {
+      "id": "4D_012",
+      "word": "adopted",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Chosen or taken up, especially as a policy or approach.",
+      "example": "The adopted strategy focuses on reducing carbon emissions by 2030.",
+      "synonyms": ["chosen", "embraced"],
+      "antonyms": ["rejected", "discarded"]
+    },
+    {
+      "id": "4D_013",
+      "word": "adoption",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of choosing to take up or follow a course of action or idea.",
+      "example": "The rapid adoption of remote work reshaped commuting patterns.",
+      "synonyms": ["uptake", "acceptance"],
+      "antonyms": ["rejection", "abandonment"]
+    },
+    {
+      "id": "4D_014",
+      "word": "adoptive",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to adoption, especially in a formal or legal sense.",
+      "example": "The report examines adoptive practices in urban governance models borrowed from abroad.",
+      "synonyms": ["assumed"],
+      "antonyms": ["native", "original"]
+    },
+    {
+      "id": "4D_015",
+      "word": "agreement",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A negotiated and typically legally binding arrangement between parties.",
+      "example": "The trade agreement significantly increased exports from the region.",
+      "synonyms": ["accord", "pact", "arrangement"],
+      "antonyms": ["disagreement", "dispute"]
+    },
+    {
+      "id": "4D_016",
+      "word": "align",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To bring into agreement or correct relative position with something else.",
+      "example": "Local policy was aligned with national environmental targets.",
+      "synonyms": ["coordinate", "harmonize", "match"],
+      "antonyms": ["misalign", "conflict"]
+    },
+    {
+      "id": "4D_017",
+      "word": "alignment",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Arrangement in a straight line, or agreement between ideas or actions.",
+      "example": "There is strong alignment between the city's goals and national climate policy.",
+      "synonyms": ["coordination", "correspondence"],
+      "antonyms": ["misalignment", "conflict"]
+    },
+    {
+      "id": "4D_018",
+      "word": "apply",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make use of something relevant, or to submit a formal request.",
+      "example": "Researchers applied the same methodology to a wider sample of cities.",
+      "synonyms": ["use", "implement", "employ"],
+      "antonyms": ["withhold", "disregard"]
+    },
+    {
+      "id": "4D_019",
+      "word": "approach",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A way of dealing with a situation or problem.",
+      "example": "The city adopted a data-driven approach to urban planning.",
+      "synonyms": ["method", "strategy", "technique"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_020",
+      "word": "approaching",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Coming near in time or space.",
+      "example": "With the approaching deadline, the council accelerated the consultation process.",
+      "synonyms": ["nearing", "upcoming"],
+      "antonyms": ["receding", "past"]
+    },
+    {
+      "id": "4D_021",
+      "word": "awareness",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Knowledge or perception of a situation or fact.",
+      "example": "Public awareness of recycling schemes has grown substantially.",
+      "synonyms": ["consciousness", "understanding", "knowledge"],
+      "antonyms": ["ignorance", "unawareness"]
+    },
+    {
+      "id": "4D_022",
+      "word": "balance",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An even distribution of weight or elements, allowing stability.",
+      "example": "Urban planners must strike a balance between development and conservation.",
+      "synonyms": ["equilibrium", "stability", "parity"],
+      "antonyms": ["imbalance", "instability"]
+    },
+    {
+      "id": "4D_023",
+      "word": "balanced",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Keeping or showing a balance; fair and equal in proportion.",
+      "example": "The report presents a balanced view of the costs and benefits of the scheme.",
+      "synonyms": ["fair", "equitable", "proportionate"],
+      "antonyms": ["unbalanced", "biased"]
+    },
+    {
+      "id": "4D_024",
+      "word": "balancing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Serving to create or maintain equilibrium.",
+      "example": "The council introduced balancing measures to offset the loss of green space.",
+      "synonyms": ["counterbalancing", "equalizing"],
+      "antonyms": ["destabilizing"]
+    },
+    {
+      "id": "4D_025",
+      "word": "benefit",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An advantage or profit gained from something.",
+      "example": "The main benefit of the scheme is reduced travel time for commuters.",
+      "synonyms": ["advantage", "gain", "profit"],
+      "antonyms": ["drawback", "disadvantage"]
+    },
+    {
+      "id": "4D_026",
+      "word": "broad",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Covering a wide range or large in extent.",
+      "example": "The survey drew on a broad range of demographic data.",
+      "synonyms": ["wide", "extensive", "comprehensive"],
+      "antonyms": ["narrow", "limited"]
+    },
+    {
+      "id": "4D_027",
+      "word": "broad-based",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Involving or supported by a wide range of people or interests.",
+      "example": "The reform received broad-based support across political parties.",
+      "synonyms": ["widespread", "comprehensive"],
+      "antonyms": ["narrow", "limited"]
+    },
+    {
+      "id": "4D_028",
+      "word": "broadband",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A high-capacity transmission technique used for internet access.",
+      "example": "Access to reliable broadband has become essential for urban economic growth.",
+      "synonyms": ["high-speed internet"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_029",
+      "word": "broaden",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make or become wider in scope or extent.",
+      "example": "The initiative aims to broaden access to affordable housing.",
+      "synonyms": ["widen", "expand", "extend"],
+      "antonyms": ["narrow", "restrict"]
+    },
+    {
+      "id": "4D_030",
+      "word": "broadside",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A strong verbal attack or criticism.",
+      "example": "Critics launched a broadside against the proposed demolition of the historic district.",
+      "synonyms": ["attack", "tirade", "criticism"],
+      "antonyms": ["praise", "endorsement"]
+    },
+    {
+      "id": "4D_031",
+      "word": "broadway",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A wide, well-known road, most famously in New York City.",
+      "example": "The city's main thoroughfare was modeled loosely on Broadway's grand scale.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_032",
+      "word": "campaign",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An organized course of action to achieve a particular goal.",
+      "example": "The environmental campaign successfully raised awareness of urban air pollution.",
+      "synonyms": ["initiative", "drive", "movement"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_033",
+      "word": "campaigner",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who takes part in a campaign, especially for social or political change.",
+      "example": "Local campaigners pushed for stricter emissions regulations.",
+      "synonyms": ["activist", "advocate"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_034",
+      "word": "campaigning",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The activity of organizing and promoting a campaign.",
+      "example": "Years of campaigning led to the creation of the new nature reserve.",
+      "synonyms": ["advocacy", "activism"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_035",
+      "word": "carry",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To support and move something from one place to another; to bear responsibility for.",
+      "example": "The new metro line carries thousands of commuters each day.",
+      "synonyms": ["transport", "bear", "convey"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_036",
+      "word": "carry-on",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Continued behavior or activity, or hand luggage carried by a passenger.",
+      "example": "The prolonged carry-on of construction disrupted local businesses for months.",
+      "synonyms": ["continuation"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_037",
+      "word": "carrying",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Having the capacity to hold or transport something.",
+      "example": "The bridge's carrying capacity was exceeded during peak commuting hours.",
+      "synonyms": ["bearing", "holding"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_038",
+      "word": "central",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of key importance; situated at the center.",
+      "example": "Public transport is central to the city's sustainability strategy.",
+      "synonyms": ["key", "core", "essential"],
+      "antonyms": ["peripheral", "marginal"]
+    },
+    {
+      "id": "4D_039",
+      "word": "centrality",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The quality or state of being central or of key importance.",
+      "example": "The centrality of the issue was reflected in years of policy debate.",
+      "synonyms": ["prominence", "importance"],
+      "antonyms": ["peripherality"]
+    },
+    {
+      "id": "4D_040",
+      "word": "centralization",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The concentration of control or authority under a single body.",
+      "example": "Centralization of transport planning improved coordination between districts.",
+      "synonyms": ["consolidation", "concentration"],
+      "antonyms": ["decentralization"]
+    },
+    {
+      "id": "4D_041",
+      "word": "centralize",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To bring something under central control.",
+      "example": "The government centralized decision-making on major infrastructure projects.",
+      "synonyms": ["consolidate", "concentrate"],
+      "antonyms": ["decentralize"]
+    },
+    {
+      "id": "4D_042",
+      "word": "centralized",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Concentrated under a single central authority.",
+      "example": "A centralized database allows planners to track development across the city.",
+      "synonyms": ["consolidated", "unified"],
+      "antonyms": ["decentralized"]
+    },
+    {
+      "id": "4D_043",
+      "word": "centrally",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a central position or manner.",
+      "example": "Decisions on major projects are made centrally by the national government.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_044",
+      "word": "challenge",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A task or situation that tests one's abilities; a difficulty to be overcome.",
+      "example": "Housing affordability remains a major challenge for the city.",
+      "synonyms": ["difficulty", "obstacle", "problem"],
+      "antonyms": ["advantage", "ease"]
+    },
+    {
+      "id": "4D_045",
+      "word": "challenger",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or thing that competes for or disputes something.",
+      "example": "The new policy faced a legal challenger who argued it was unconstitutional.",
+      "synonyms": ["contender", "opponent"],
+      "antonyms": ["supporter", "ally"]
+    },
+    {
+      "id": "4D_046",
+      "word": "challenging",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Testing one's abilities; difficult in a stimulating way.",
+      "example": "Implementing the reform proved challenging given limited funding.",
+      "synonyms": ["difficult", "demanding", "tough"],
+      "antonyms": ["easy", "straightforward"]
+    },
+    {
+      "id": "4D_047",
+      "word": "change",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The act or process of becoming different.",
+      "example": "Climate change has forced cities to rethink infrastructure planning.",
+      "synonyms": ["transformation", "shift", "alteration"],
+      "antonyms": ["stability", "constancy"]
+    },
+    {
+      "id": "4D_048",
+      "word": "changed",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Made or become different.",
+      "example": "The changed regulations require all new buildings to meet energy standards.",
+      "synonyms": ["altered", "modified"],
+      "antonyms": ["unchanged", "original"]
+    },
+    {
+      "id": "4D_049",
+      "word": "changing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Undergoing or causing change.",
+      "example": "The changing demographics of the city have influenced housing policy.",
+      "synonyms": ["shifting", "evolving"],
+      "antonyms": ["static", "unchanging"]
+    },
+    {
+      "id": "4D_050",
+      "word": "close",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Near in space, time, or relationship.",
+      "example": "The new development is close to major transport links.",
+      "synonyms": ["near", "adjacent", "proximate"],
+      "antonyms": ["distant", "far"]
+    },
+    {
+      "id": "4D_051",
+      "word": "close-knit",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Bound together by strong relationships and shared interests.",
+      "example": "The close-knit community rallied to oppose the demolition of the local park.",
+      "synonyms": ["tight-knit", "cohesive"],
+      "antonyms": ["fragmented", "disconnected"]
+    },
+    {
+      "id": "4D_052",
+      "word": "close-up",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A photograph or shot taken at close range.",
+      "example": "The exhibition featured close-up images of the city's changing skyline.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_053",
+      "word": "closed",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Not open; shut off from access.",
+      "example": "The road remains closed while repairs to the bridge are completed.",
+      "synonyms": ["shut", "sealed"],
+      "antonyms": ["open", "accessible"]
+    },
+    {
+      "id": "4D_054",
+      "word": "closeness",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The state of being near or emotionally connected.",
+      "example": "The closeness of the new estate to the city center raised property values.",
+      "synonyms": ["proximity", "nearness"],
+      "antonyms": ["distance", "remoteness"]
+    },
+    {
+      "id": "4D_055",
+      "word": "closer",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Nearer in space, time, or relationship (comparative of close).",
+      "example": "Residents wanted closer engagement with council decision-making.",
+      "synonyms": ["nearer"],
+      "antonyms": ["further"]
+    },
+    {
+      "id": "4D_056",
+      "word": "closest",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Nearest in space, time, or relationship (superlative of close).",
+      "example": "The closest hospital is now a 15-minute walk from the new development.",
+      "synonyms": ["nearest"],
+      "antonyms": ["furthest"]
+    },
+    {
+      "id": "4D_057",
+      "word": "closet",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A small room or cupboard used for storage.",
+      "example": "The renovated apartment includes a walk-in closet for additional storage.",
+      "synonyms": ["cupboard", "wardrobe"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_058",
+      "word": "closing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Coming to an end; final.",
+      "example": "The closing stage of the project focused on landscaping and public art.",
+      "synonyms": ["final", "concluding"],
+      "antonyms": ["opening", "initial"]
+    },
+    {
+      "id": "4D_059",
+      "word": "collect",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To gather together or accumulate items or information.",
+      "example": "Researchers collected data on traffic patterns across the city.",
+      "synonyms": ["gather", "accumulate", "compile"],
+      "antonyms": ["disperse", "scatter"]
+    },
+    {
+      "id": "4D_060",
+      "word": "collected",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Gathered together, or calm and composed.",
+      "example": "The collected data revealed a sharp rise in cycling since 2020.",
+      "synonyms": ["gathered", "compiled"],
+      "antonyms": ["scattered", "dispersed"]
+    },
+    {
+      "id": "4D_061",
+      "word": "collecting",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The activity of gathering items or information together.",
+      "example": "Data collecting on housing trends began in the early 2000s.",
+      "synonyms": ["gathering", "compiling"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_062",
+      "word": "collection",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A group of things gathered together, or the act of gathering.",
+      "example": "The museum's collection documents the city's industrial history.",
+      "synonyms": ["assortment", "compilation"],
+      "antonyms": ["dispersal"]
+    },
+    {
+      "id": "4D_063",
+      "word": "collective",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Done by or shared among a group as a whole.",
+      "example": "The reforms were the result of collective decision-making among stakeholders.",
+      "synonyms": ["joint", "communal", "shared"],
+      "antonyms": ["individual", "personal"]
+    },
+    {
+      "id": "4D_064",
+      "word": "collector",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who gathers items, often as a hobby or for research.",
+      "example": "The city hired data collectors to survey pedestrian traffic patterns.",
+      "synonyms": ["gatherer"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_065",
+      "word": "comprehend",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To understand fully; to grasp the meaning of something.",
+      "example": "It can be difficult to comprehend the full scale of the housing shortage.",
+      "synonyms": ["understand", "grasp", "apprehend"],
+      "antonyms": ["misunderstand"]
+    },
+    {
+      "id": "4D_066",
+      "word": "concern",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A matter of interest or importance, or worry about something.",
+      "example": "Rising housing costs remain a major concern for young families.",
+      "synonyms": ["worry", "issue", "matter"],
+      "antonyms": ["indifference", "unconcern"]
+    },
+    {
+      "id": "4D_067",
+      "word": "concerned",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Worried or troubled about something, or interested in a matter.",
+      "example": "Concerned residents attended the town hall meeting about the new development.",
+      "synonyms": ["worried", "troubled", "anxious"],
+      "antonyms": ["unconcerned", "indifferent"]
+    },
+    {
+      "id": "4D_068",
+      "word": "concerning",
+      "type": "preposition",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to; regarding.",
+      "example": "The council issued a statement concerning the future of the transport plan.",
+      "synonyms": ["regarding", "about", "relating to"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_069",
+      "word": "conclude",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To bring to an end, or to reach a judgment based on evidence.",
+      "example": "Researchers concluded that green spaces improve residents' mental health.",
+      "synonyms": ["deduce", "infer", "finish"],
+      "antonyms": ["begin", "commence"]
+    },
+    {
+      "id": "4D_070",
+      "word": "concluding",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Coming at the end; final.",
+      "example": "The concluding chapter summarizes the study's key policy recommendations.",
+      "synonyms": ["final", "closing"],
+      "antonyms": ["opening", "introductory"]
+    },
+    {
+      "id": "4D_071",
+      "word": "conclusion",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The end of something, or a judgment reached after consideration.",
+      "example": "The report's conclusion recommends further investment in public transport.",
+      "synonyms": ["finding", "judgment", "verdict"],
+      "antonyms": ["introduction", "premise"]
+    },
+    {
+      "id": "4D_072",
+      "word": "conclusive",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Serving to prove a case; putting an end to doubt.",
+      "example": "The evidence linking pollution and traffic density was conclusive.",
+      "synonyms": ["definitive", "decisive", "certain"],
+      "antonyms": ["inconclusive", "uncertain"]
+    },
+    {
+      "id": "4D_073",
+      "word": "conclusively",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that settles an issue decisively.",
+      "example": "The study conclusively demonstrated the benefits of pedestrianizing the square.",
+      "synonyms": ["definitively", "decisively"],
+      "antonyms": ["inconclusively"]
+    },
+    {
+      "id": "4D_074",
+      "word": "conduct",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To organize and carry out a particular activity.",
+      "example": "The council conducted a survey to gauge public opinion on the new plan.",
+      "synonyms": ["carry out", "perform", "undertake"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_075",
+      "word": "conductor",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who directs or manages an activity, or a person who collects fares on a train or bus.",
+      "example": "The train conductor reported a steady rise in daily passenger numbers.",
+      "synonyms": ["director", "manager"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_076",
+      "word": "conflict",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A serious disagreement or clash between differing interests.",
+      "example": "Zoning reform often sparks conflict between developers and residents.",
+      "synonyms": ["disagreement", "dispute", "clash"],
+      "antonyms": ["agreement", "harmony"]
+    },
+    {
+      "id": "4D_077",
+      "word": "conflicting",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Incompatible or at variance; in disagreement.",
+      "example": "Conflicting reports made it difficult to assess the scheme's true impact.",
+      "synonyms": ["contradictory", "opposing"],
+      "antonyms": ["consistent", "compatible"]
+    },
+    {
+      "id": "4D_078",
+      "word": "consensus",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "General agreement among a group of people.",
+      "example": "There is broad consensus that the city needs more affordable housing.",
+      "synonyms": ["agreement", "accord", "unanimity"],
+      "antonyms": ["disagreement", "dissent"]
+    },
+    {
+      "id": "4D_079",
+      "word": "core",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The central or most important part of something.",
+      "example": "Improving public transport lies at the core of the city's climate strategy.",
+      "synonyms": ["center", "heart", "essence"],
+      "antonyms": ["periphery", "exterior"]
+    },
+    {
+      "id": "4D_080",
+      "word": "cost",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The amount of money needed to purchase, produce, or maintain something.",
+      "example": "The cost of the new bridge exceeded the original budget significantly.",
+      "synonyms": ["expense", "price", "expenditure"],
+      "antonyms": ["revenue", "profit"]
+    },
+    {
+      "id": "4D_081",
+      "word": "cost-benefit",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to a comparison of the costs and benefits of a course of action.",
+      "example": "A cost-benefit analysis supported the decision to expand the rail network.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_082",
+      "word": "cost-effective",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Producing good results without spending a great deal of money.",
+      "example": "Bicycle lanes are a cost-effective way to reduce urban congestion.",
+      "synonyms": ["economical", "efficient", "affordable"],
+      "antonyms": ["costly", "wasteful"]
+    },
+    {
+      "id": "4D_083",
+      "word": "costly",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Expensive; requiring great expenditure.",
+      "example": "The delayed project became increasingly costly due to inflation.",
+      "synonyms": ["expensive", "pricey"],
+      "antonyms": ["cheap", "inexpensive"]
+    },
+    {
+      "id": "4D_084",
+      "word": "costume",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A set of clothes typical of a particular period, place, or culture, or worn for a performance.",
+      "example": "The festival's parade featured historical costumes representing the city's founding.",
+      "synonyms": ["attire", "outfit"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_085",
+      "word": "critical",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Expressing disapproval, or of decisive importance.",
+      "example": "Investment in housing is critical to addressing the city's affordability crisis.",
+      "synonyms": ["crucial", "vital", "essential"],
+      "antonyms": ["unimportant", "trivial"]
+    },
+    {
+      "id": "4D_086",
+      "word": "critically",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that expresses disapproval, or extremely important.",
+      "example": "The infrastructure is critically outdated and in need of urgent repair.",
+      "synonyms": ["crucially", "vitally"],
+      "antonyms": ["unimportantly"]
+    },
+    {
+      "id": "4D_087",
+      "word": "cross-section",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A representative sample of a larger group; a diagram of a slice through an object.",
+      "example": "The survey included a cross-section of residents from every income group.",
+      "synonyms": ["sample", "representative sample"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_088",
+      "word": "cross-sectional",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to a study that examines a range of subjects at a single point in time.",
+      "example": "The cross-sectional study compared commuting habits across several cities.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_089",
+      "word": "crucial",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of great importance in the success or failure of something.",
+      "example": "Public consultation played a crucial role in shaping the final plan.",
+      "synonyms": ["critical", "essential", "vital"],
+      "antonyms": ["unimportant", "trivial"]
+    },
+    {
+      "id": "4D_090",
+      "word": "develop",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To grow or cause to grow and become more advanced.",
+      "example": "The government plans to develop the waterfront into a mixed-use district.",
+      "synonyms": ["expand", "evolve", "advance"],
+      "antonyms": ["decline", "regress"]
+    },
+    {
+      "id": "4D_091",
+      "word": "developed",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Having advanced economically and industrially.",
+      "example": "Developed nations tend to invest more heavily in public infrastructure.",
+      "synonyms": ["advanced", "industrialized"],
+      "antonyms": ["undeveloped", "underdeveloped"]
+    },
+    {
+      "id": "4D_092",
+      "word": "developer",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or company that builds new structures or expands an area.",
+      "example": "A private developer was awarded the contract to build the new housing estate.",
+      "synonyms": ["builder", "contractor"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_093",
+      "word": "developing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Growing or changing, especially in economic or industrial terms.",
+      "example": "Developing countries face unique challenges in managing rapid urbanization.",
+      "synonyms": ["emerging", "growing"],
+      "antonyms": ["developed", "established"]
+    },
+    {
+      "id": "4D_094",
+      "word": "development",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of growth or advancement, or a planned building project.",
+      "example": "The waterfront development is expected to attract new businesses.",
+      "synonyms": ["growth", "expansion", "advancement"],
+      "antonyms": ["decline", "stagnation"]
+    },
+    {
+      "id": "4D_095",
+      "word": "developmental",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to growth or development.",
+      "example": "The programme addresses developmental gaps in early childhood education.",
+      "synonyms": ["growth-related"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_096",
+      "word": "developmentally",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way relating to development or growth.",
+      "example": "The area was developmentally behind its neighboring districts for decades.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_097",
+      "word": "dictum",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A formal statement of a principle or opinion.",
+      "example": "It has become something of a planning dictum that density reduces car dependency.",
+      "synonyms": ["maxim", "saying", "principle"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_098",
+      "word": "draw",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To attract or bring in; to produce a picture using a pen or pencil.",
+      "example": "The new cultural quarter has drawn thousands of visitors to the city.",
+      "synonyms": ["attract", "pull in", "lure"],
+      "antonyms": ["repel", "deter"]
+    },
+    {
+      "id": "4D_099",
+      "word": "drawback",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A disadvantage or negative feature of something.",
+      "example": "The main drawback of the scheme is its high initial cost.",
+      "synonyms": ["disadvantage", "downside", "flaw"],
+      "antonyms": ["advantage", "benefit"]
+    },
+    {
+      "id": "4D_100",
+      "word": "drawer",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A sliding storage compartment, or a person who draws something.",
+      "example": "Planning documents were filed away in a locked drawer at city hall.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_101",
+      "word": "drawing",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A picture or plan made with a pen, pencil, or similar instrument.",
+      "example": "Architects presented detailed drawings of the proposed transit hub.",
+      "synonyms": ["sketch", "illustration", "plan"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_102",
+      "word": "drawl",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A slow manner of speaking with prolonged vowel sounds.",
+      "example": "The mayor's distinctive drawl became familiar to residents during public addresses.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_103",
+      "word": "drive",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To operate and control a vehicle, or to provide the impetus for something.",
+      "example": "Rising demand is driving the expansion of the city's rail network.",
+      "synonyms": ["propel", "motivate", "power"],
+      "antonyms": ["hinder", "impede"]
+    },
+    {
+      "id": "4D_104",
+      "word": "drive-by",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Occurring while passing by in a moving vehicle.",
+      "example": "A drive-by survey was used to quickly assess road conditions citywide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_105",
+      "word": "drive-in",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A facility that customers can use without leaving their vehicles.",
+      "example": "The old drive-in cinema site has been redeveloped into a retail park.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_106",
+      "word": "driven",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Motivated or propelled by a particular force or goal.",
+      "example": "Policy in the district has been largely driven by concerns over affordability.",
+      "synonyms": ["motivated", "propelled"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_107",
+      "word": "driver",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who drives a vehicle, or a factor that causes something to happen.",
+      "example": "Population growth is the main driver of housing demand in the city.",
+      "synonyms": ["cause", "factor", "motivator"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_108",
+      "word": "driveway",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A private road leading from a street to a house or garage.",
+      "example": "New suburban homes are typically built with a driveway and small garden.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_109",
+      "word": "efficiency",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The state of achieving maximum productivity with minimum wasted effort.",
+      "example": "The redesign of traffic signals improved the efficiency of the road network.",
+      "synonyms": ["effectiveness", "productivity"],
+      "antonyms": ["inefficiency", "wastefulness"]
+    },
+    {
+      "id": "4D_110",
+      "word": "effort",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A vigorous or determined attempt to achieve something.",
+      "example": "Considerable effort went into consulting residents before the plan was approved.",
+      "synonyms": ["endeavor", "attempt", "exertion"],
+      "antonyms": ["idleness", "inaction"]
+    },
+    {
+      "id": "4D_111",
+      "word": "effortless",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Requiring no apparent effort; done with ease.",
+      "example": "The new signage system makes navigating the transit network effortless.",
+      "synonyms": ["easy", "seamless", "smooth"],
+      "antonyms": ["difficult", "laborious"]
+    },
+    {
+      "id": "4D_112",
+      "word": "effortlessly",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that requires no apparent effort.",
+      "example": "Passengers can now transfer effortlessly between the bus and rail networks.",
+      "synonyms": ["easily", "smoothly"],
+      "antonyms": ["laboriously", "with difficulty"]
+    },
+    {
+      "id": "4D_113",
+      "word": "eliminate",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To completely remove or get rid of something.",
+      "example": "The new policy aims to eliminate unnecessary bureaucratic delays in permitting.",
+      "synonyms": ["remove", "eradicate", "abolish"],
+      "antonyms": ["introduce", "retain"]
+    },
+    {
+      "id": "4D_114",
+      "word": "elimination",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The complete removal or getting rid of something.",
+      "example": "The elimination of tolls led to increased traffic on the bridge.",
+      "synonyms": ["removal", "eradication", "abolition"],
+      "antonyms": ["introduction", "retention"]
+    },
+    {
+      "id": "4D_115",
+      "word": "employ",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To give work to someone, or to make use of something.",
+      "example": "The factory employs several thousand local residents.",
+      "synonyms": ["hire", "use", "utilize"],
+      "antonyms": ["dismiss", "fire"]
+    },
+    {
+      "id": "4D_116",
+      "word": "employee",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who works for another in return for payment.",
+      "example": "City employees will receive training on the new transport system.",
+      "synonyms": ["worker", "staff member"],
+      "antonyms": ["employer"]
+    },
+    {
+      "id": "4D_117",
+      "word": "employer",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or organization that employs people.",
+      "example": "Large employers have relocated to the newly developed business district.",
+      "synonyms": ["company", "firm"],
+      "antonyms": ["employee"]
+    },
+    {
+      "id": "4D_118",
+      "word": "employment",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The state of having paid work, or the act of employing someone.",
+      "example": "The new industrial zone created thousands of jobs in local employment.",
+      "synonyms": ["work", "occupation", "job"],
+      "antonyms": ["unemployment"]
+    },
+    {
+      "id": "4D_119",
+      "word": "encapsulate",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To express or contain the essential features of something concisely.",
+      "example": "The mural encapsulates the city's industrial heritage in a single image.",
+      "synonyms": ["summarize", "embody", "capture"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_120",
+      "word": "essential",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Absolutely necessary; fundamentally important.",
+      "example": "Reliable public transport is essential to reducing car dependency.",
+      "synonyms": ["vital", "necessary", "crucial"],
+      "antonyms": ["unnecessary", "unimportant"]
+    },
+    {
+      "id": "4D_121",
+      "word": "essentially",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In essence; fundamentally.",
+      "example": "The two proposals are essentially identical in their transport goals.",
+      "synonyms": ["fundamentally", "basically", "in essence"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_122",
+      "word": "establish",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To set up or bring into being on a firm basis.",
+      "example": "The council established a new fund to support affordable housing.",
+      "synonyms": ["found", "set up", "create"],
+      "antonyms": ["abolish", "dismantle"]
+    },
+    {
+      "id": "4D_123",
+      "word": "established",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Having existed for a long time and generally accepted or recognized.",
+      "example": "The area's established reputation for culture attracts visitors year-round.",
+      "synonyms": ["recognized", "well-known"],
+      "antonyms": ["new", "emerging"]
+    },
+    {
+      "id": "4D_124",
+      "word": "establishment",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of setting something up, or an organization or business.",
+      "example": "The establishment of the new transit authority improved coordination across the region.",
+      "synonyms": ["foundation", "creation", "institution"],
+      "antonyms": ["dissolution"]
+    },
+    {
+      "id": "4D_125",
+      "word": "face",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To confront or be presented with a difficult situation.",
+      "example": "The city faces significant challenges in managing rapid population growth.",
+      "synonyms": ["confront", "encounter", "tackle"],
+      "antonyms": ["avoid", "evade"]
+    },
+    {
+      "id": "4D_126",
+      "word": "face-lift",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A renovation or improvement, especially to the appearance of something.",
+      "example": "The historic square received a face-lift ahead of the anniversary celebrations.",
+      "synonyms": ["renovation", "makeover"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_127",
+      "word": "face-to-face",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Involving direct personal contact between people.",
+      "example": "Face-to-face consultations allowed residents to raise concerns directly with planners.",
+      "synonyms": ["in-person", "direct"],
+      "antonyms": ["remote", "virtual"]
+    },
+    {
+      "id": "4D_128",
+      "word": "faceless",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Lacking a distinct or individual character; impersonal.",
+      "example": "Critics described the new tower as a faceless addition to the skyline.",
+      "synonyms": ["impersonal", "anonymous"],
+      "antonyms": ["distinctive", "individual"]
+    },
+    {
+      "id": "4D_129",
+      "word": "facet",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A particular aspect or feature of something.",
+      "example": "Housing affordability is just one facet of the city's broader economic challenges.",
+      "synonyms": ["aspect", "dimension", "feature"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_130",
+      "word": "facilitate",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make an action or process easier.",
+      "example": "New cycle lanes were built to facilitate sustainable commuting.",
+      "synonyms": ["ease", "enable", "assist"],
+      "antonyms": ["hinder", "obstruct"]
+    },
+    {
+      "id": "4D_131",
+      "word": "facilitator",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or thing that makes an action or process easier.",
+      "example": "The consultant acted as a facilitator between residents and city officials.",
+      "synonyms": ["mediator", "enabler"],
+      "antonyms": ["obstructer"]
+    },
+    {
+      "id": "4D_132",
+      "word": "facility",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+      "example": "The new sports facility serves residents across several neighboring districts.",
+      "synonyms": ["amenity", "resource", "installation"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_133",
+      "word": "fingerprint",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A distinctive mark or pattern; also, an impression of the ridges of a fingertip.",
+      "example": "The historic quarter has a unique architectural fingerprint unmatched elsewhere in the city.",
+      "synonyms": ["signature", "hallmark"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_134",
+      "word": "forge",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To create or develop something, often through great effort; to produce a fraudulent copy.",
+      "example": "Local leaders forged a partnership between the council and private investors.",
+      "synonyms": ["create", "develop", "build"],
+      "antonyms": ["destroy", "dissolve"]
+    },
+    {
+      "id": "4D_135",
+      "word": "forged",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Created through effort, or fraudulently made.",
+      "example": "The forged alliance between neighboring towns led to shared transport investment.",
+      "synonyms": ["created", "established"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_136",
+      "word": "forgery",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The act of producing a fraudulent copy or imitation.",
+      "example": "Officials investigated forgery in several of the submitted planning permits.",
+      "synonyms": ["counterfeit", "fake"],
+      "antonyms": ["authenticity"]
+    },
+    {
+      "id": "4D_137",
+      "word": "forget",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To fail to remember or take into account something.",
+      "example": "Planners must not forget the needs of elderly residents when designing public spaces.",
+      "synonyms": ["overlook", "neglect"],
+      "antonyms": ["remember", "recall"]
+    },
+    {
+      "id": "4D_138",
+      "word": "framework",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A basic structure underlying a system or concept.",
+      "example": "The new policy framework guides decisions on urban housing development.",
+      "synonyms": ["structure", "system", "model"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_139",
+      "word": "fulfill",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To achieve or realize something, such as a goal or requirement.",
+      "example": "The project fulfilled its objective of reducing commute times citywide.",
+      "synonyms": ["achieve", "accomplish", "satisfy"],
+      "antonyms": ["fail", "neglect"]
+    },
+    {
+      "id": "4D_140",
+      "word": "fulfillment",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The achievement or realization of a goal or desire.",
+      "example": "The fulfillment of the housing targets took nearly a decade.",
+      "synonyms": ["achievement", "realization", "completion"],
+      "antonyms": ["failure"]
+    },
+    {
+      "id": "4D_141",
+      "word": "fundamental",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Forming a necessary base or core; of central importance.",
+      "example": "Affordable housing is a fundamental concern for city planners.",
+      "synonyms": ["essential", "basic", "core"],
+      "antonyms": ["peripheral", "secondary"]
+    },
+    {
+      "id": "4D_142",
+      "word": "fundamentalism",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Strict adherence to basic principles, especially in a religious or ideological context.",
+      "example": "Some critics argue that market fundamentalism has shaped decades of housing policy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_143",
+      "word": "fundamentalist",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who strictly adheres to basic principles.",
+      "example": "The debate pitted free-market fundamentalists against advocates of public housing.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_144",
+      "word": "fundamentally",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a basic and important way; at the core.",
+      "example": "The reforms fundamentally reshaped how the city manages public transport.",
+      "synonyms": ["essentially", "basically", "radically"],
+      "antonyms": ["superficially"]
+    },
+    {
+      "id": "4D_145",
+      "word": "goal",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A desired result or outcome that one aims to achieve.",
+      "example": "The city's primary goal is to reduce dependence on private vehicles.",
+      "synonyms": ["objective", "aim", "target"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_146",
+      "word": "goalie",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A player who defends the goal in sports such as football or hockey.",
+      "example": "The community sports league recruited a new goalie for the youth team.",
+      "synonyms": ["goalkeeper"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_147",
+      "word": "growth",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of increasing in size, amount, or degree.",
+      "example": "Population growth has placed significant pressure on housing supply.",
+      "synonyms": ["expansion", "increase", "development"],
+      "antonyms": ["decline", "contraction"]
+    },
+    {
+      "id": "4D_148",
+      "word": "harmonic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to musical harmony, or forming a pleasing or consistent whole.",
+      "example": "The building's design achieves a harmonic balance with the surrounding heritage architecture.",
+      "synonyms": ["harmonious", "balanced"],
+      "antonyms": ["discordant"]
+    },
+    {
+      "id": "4D_149",
+      "word": "harmonica",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A small musical instrument played by blowing and drawing air through it.",
+      "example": "A street musician played the harmonica outside the newly renovated train station.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_150",
+      "word": "harmonious",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Forming a pleasing and consistent whole; free from conflict.",
+      "example": "The redevelopment achieved a harmonious blend of old and new architecture.",
+      "synonyms": ["balanced", "cohesive", "unified"],
+      "antonyms": ["discordant", "clashing"]
+    },
+    {
+      "id": "4D_151",
+      "word": "harmonize",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make consistent or compatible; to bring into agreement.",
+      "example": "Local zoning laws were harmonized with national planning standards.",
+      "synonyms": ["align", "reconcile", "coordinate"],
+      "antonyms": ["clash", "conflict"]
+    },
+    {
+      "id": "4D_152",
+      "word": "harmony",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A state of agreement or consistency; a pleasing combination of elements.",
+      "example": "The new park was designed to exist in harmony with the surrounding wetlands.",
+      "synonyms": ["accord", "balance", "unity"],
+      "antonyms": ["discord", "conflict"]
+    },
+    {
+      "id": "4D_153",
+      "word": "holistic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Considering something as a whole rather than as separate parts.",
+      "example": "The city adopted a holistic approach to urban planning that considered transport, housing, and health together.",
+      "synonyms": ["comprehensive", "integrated"],
+      "antonyms": ["fragmented", "piecemeal"]
+    },
+    {
+      "id": "4D_154",
+      "word": "impact",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A marked effect or influence.",
+      "example": "The new highway had a significant impact on local air quality.",
+      "synonyms": ["effect", "influence", "consequence"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_155",
+      "word": "implement",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To put a decision or plan into effect.",
+      "example": "The council implemented new zoning regulations to encourage mixed-use development.",
+      "synonyms": ["execute", "carry out", "enforce"],
+      "antonyms": ["abandon", "discontinue"]
+    },
+    {
+      "id": "4D_156",
+      "word": "implementation",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of putting a plan or decision into effect.",
+      "example": "Implementation of the new transport plan is expected to take three years.",
+      "synonyms": ["execution", "enforcement", "application"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_157",
+      "word": "important",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of great significance or value.",
+      "example": "Public transport is an important factor in reducing urban congestion.",
+      "synonyms": ["significant", "crucial", "vital"],
+      "antonyms": ["unimportant", "trivial"]
+    },
+    {
+      "id": "4D_158",
+      "word": "importantly",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Used to draw attention to a significant point; significantly.",
+      "example": "Importantly, the scheme also addresses concerns about affordability.",
+      "synonyms": ["significantly", "notably", "crucially"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_159",
+      "word": "inducement",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A thing that persuades or encourages someone to do something.",
+      "example": "Tax breaks served as an inducement for developers to build affordable housing.",
+      "synonyms": ["incentive", "motivation"],
+      "antonyms": ["deterrent"]
+    },
+    {
+      "id": "4D_160",
+      "word": "initiative",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A new plan or programme intended to solve a problem or improve a situation.",
+      "example": "The recycling initiative reduced household waste across the city by a fifth.",
+      "synonyms": ["scheme", "programme", "plan"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_161",
+      "word": "insight",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A deep and accurate understanding of a complex situation.",
+      "example": "The survey provided valuable insight into residents' commuting habits.",
+      "synonyms": ["understanding", "perception", "awareness"],
+      "antonyms": ["ignorance"]
+    },
+    {
+      "id": "4D_162",
+      "word": "insightful",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Showing a deep and accurate understanding of a situation.",
+      "example": "The report offered an insightful analysis of the city's housing crisis.",
+      "synonyms": ["perceptive", "astute", "discerning"],
+      "antonyms": ["superficial", "shallow"]
+    },
+    {
+      "id": "4D_163",
+      "word": "introduce",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To bring something into use or existence for the first time.",
+      "example": "The city introduced a bike-sharing scheme to reduce traffic congestion.",
+      "synonyms": ["launch", "initiate", "establish"],
+      "antonyms": ["withdraw", "discontinue"]
+    },
+    {
+      "id": "4D_164",
+      "word": "introduction",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of bringing something into use for the first time.",
+      "example": "The introduction of low-emission zones improved air quality significantly.",
+      "synonyms": ["launch", "initiation", "establishment"],
+      "antonyms": ["withdrawal", "removal"]
+    },
+    {
+      "id": "4D_165",
+      "word": "introductory",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Serving as an introduction; preliminary.",
+      "example": "The introductory phase of the project focused on community consultation.",
+      "synonyms": ["preliminary", "initial", "opening"],
+      "antonyms": ["final", "concluding"]
+    },
+    {
+      "id": "4D_166",
+      "word": "issue",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An important topic or problem for debate or discussion.",
+      "example": "Housing affordability remains a pressing issue for city residents.",
+      "synonyms": ["problem", "matter", "concern"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_167",
+      "word": "issuer",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or organization that formally distributes or publishes something, such as permits or bonds.",
+      "example": "The city acted as issuer of municipal bonds to fund the new transit line.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_168",
+      "word": "issuing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to the action of distributing or publishing something officially.",
+      "example": "The issuing authority requires all new developments to submit environmental assessments.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_169",
+      "word": "key",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of crucial importance.",
+      "example": "Affordable housing is a key priority for the incoming administration.",
+      "synonyms": ["crucial", "essential", "central"],
+      "antonyms": ["minor", "peripheral"]
+    },
+    {
+      "id": "4D_170",
+      "word": "keyboard",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A set of keys used to operate a computer or musical instrument.",
+      "example": "City planners used interactive keyboard-based kiosks to gather public feedback.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_171",
+      "word": "keynote",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The main theme or central idea of a speech, policy, or event.",
+      "example": "Affordability was the keynote of the mayor's address on housing policy.",
+      "synonyms": ["main theme", "central idea"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_172",
+      "word": "keypad",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A small set of buttons used to operate an electronic device.",
+      "example": "Residents use a keypad to access the secure parking facility.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_173",
+      "word": "keyword",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A word used as a reference point for finding information, especially in searches.",
+      "example": "Researchers searched planning archives using the keyword 'redevelopment.'",
+      "synonyms": ["search term"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_174",
+      "word": "large-scale",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Involving a great many people or things; extensive.",
+      "example": "The large-scale redevelopment transformed the entire waterfront district.",
+      "synonyms": ["extensive", "wide-ranging", "major"],
+      "antonyms": ["small-scale", "limited"]
+    },
+    {
+      "id": "4D_175",
+      "word": "launch",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To start or introduce a new product, project, or initiative.",
+      "example": "The city launched a new campaign to promote cycling as a mode of transport.",
+      "synonyms": ["introduce", "initiate", "start"],
+      "antonyms": ["terminate", "discontinue"]
+    },
+    {
+      "id": "4D_176",
+      "word": "launcher",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A device or mechanism used to start or propel something.",
+      "example": "The programme acted as a launcher for several successful local start-ups.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_177",
+      "word": "launching",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of starting or introducing something new.",
+      "example": "The launching of the new rail service marked a major milestone for the city.",
+      "synonyms": ["introduction", "initiation"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_178",
+      "word": "lead",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To guide or direct a group, or to result in a particular outcome.",
+      "example": "Poor planning can lead to long-term traffic congestion.",
+      "synonyms": ["guide", "direct", "result in"],
+      "antonyms": ["follow"]
+    },
+    {
+      "id": "4D_179",
+      "word": "leader",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who guides or directs a group or organization.",
+      "example": "The city's leader announced a new plan to tackle homelessness.",
+      "synonyms": ["head", "director", "chief"],
+      "antonyms": ["follower"]
+    },
+    {
+      "id": "4D_180",
+      "word": "leadership",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of leading a group or organization.",
+      "example": "Strong leadership was essential in coordinating the citywide flood response.",
+      "synonyms": ["guidance", "direction", "management"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_181",
+      "word": "leading",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Most important or influential; ranking first.",
+      "example": "The city is now a leading example of sustainable urban design.",
+      "synonyms": ["foremost", "principal", "top"],
+      "antonyms": ["minor", "secondary"]
+    },
+    {
+      "id": "4D_182",
+      "word": "legitimacy",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Conformity to the law or to accepted standards; validity.",
+      "example": "Public consultation gave the redevelopment plan greater legitimacy.",
+      "synonyms": ["validity", "authenticity", "legality"],
+      "antonyms": ["illegitimacy"]
+    },
+    {
+      "id": "4D_183",
+      "word": "legitimate",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Conforming to the law or accepted standards; genuine.",
+      "example": "Residents raised legitimate concerns about the impact of the development on traffic.",
+      "synonyms": ["valid", "genuine", "lawful"],
+      "antonyms": ["illegitimate", "invalid"]
+    },
+    {
+      "id": "4D_184",
+      "word": "legitimately",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that conforms to the law or accepted standards.",
+      "example": "The council legitimately approved the plan after extensive public consultation.",
+      "synonyms": ["validly", "lawfully"],
+      "antonyms": ["illegitimately"]
+    },
+    {
+      "id": "4D_185",
+      "word": "legitimize",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make something legal or acceptable.",
+      "example": "Formal zoning changes were introduced to legitimize the informal street market.",
+      "synonyms": ["validate", "authorize", "sanction"],
+      "antonyms": ["delegitimize"]
+    },
+    {
+      "id": "4D_186",
+      "word": "main",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Chief in size or importance; principal.",
+      "example": "The main obstacle to the project was securing sufficient funding.",
+      "synonyms": ["principal", "primary", "chief"],
+      "antonyms": ["minor", "secondary"]
+    },
+    {
+      "id": "4D_187",
+      "word": "mainframe",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A large, powerful computer used for extensive data processing.",
+      "example": "The city's transport authority still relies on an aging mainframe system.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_188",
+      "word": "mainland",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The main landmass of a country or continent, as distinct from islands.",
+      "example": "Ferries connect the small island community to the mainland several times daily.",
+      "synonyms": ["continent"],
+      "antonyms": ["island"]
+    },
+    {
+      "id": "4D_189",
+      "word": "mainline",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to the principal route of a transport network.",
+      "example": "The town benefits from a direct mainline rail connection to the capital.",
+      "synonyms": ["main", "principal"],
+      "antonyms": ["branch"]
+    },
+    {
+      "id": "4D_190",
+      "word": "mainly",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "For the most part; mostly.",
+      "example": "The workforce is mainly employed in the growing service sector.",
+      "synonyms": ["mostly", "largely", "predominantly"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_191",
+      "word": "mainstay",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A thing on which something else is based or depends heavily.",
+      "example": "Tourism remains the economic mainstay of the historic old town.",
+      "synonyms": ["backbone", "foundation", "cornerstone"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_192",
+      "word": "mainstream",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Regarded as normal or conventional; widely accepted.",
+      "example": "Cycling has become a mainstream mode of transport in many European cities.",
+      "synonyms": ["conventional", "widespread", "standard"],
+      "antonyms": ["alternative", "fringe"]
+    },
+    {
+      "id": "4D_193",
+      "word": "maintain",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To keep something in good condition, or to continue a particular state.",
+      "example": "The council must maintain aging infrastructure across the city.",
+      "synonyms": ["preserve", "sustain", "uphold"],
+      "antonyms": ["neglect", "abandon"]
+    },
+    {
+      "id": "4D_194",
+      "word": "maintenance",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of keeping something in good condition.",
+      "example": "Regular maintenance of public parks helps preserve green spaces for residents.",
+      "synonyms": ["upkeep", "preservation", "servicing"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "4D_195",
+      "word": "major",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Important or significant, especially in size or degree.",
+      "example": "The bridge collapse caused a major disruption to the city's transport network.",
+      "synonyms": ["significant", "substantial", "considerable"],
+      "antonyms": ["minor", "insignificant"]
+    },
+    {
+      "id": "4D_196",
+      "word": "major-league",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of significant scale or importance, especially compared with lesser alternatives.",
+      "example": "The city's redevelopment represents a major-league investment in urban renewal.",
+      "synonyms": ["large-scale", "significant"],
+      "antonyms": ["minor"]
+    },
+    {
+      "id": "4D_197",
+      "word": "majority",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The greater number or part; more than half of a total.",
+      "example": "The majority of residents supported the new pedestrian zone.",
+      "synonyms": ["bulk", "most", "greater part"],
+      "antonyms": ["minority"]
+    },
+    {
+      "id": "4D_198",
+      "word": "manage",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To be in charge of, or to succeed in achieving something despite difficulty.",
+      "example": "The transport authority manages over two hundred bus routes across the city.",
+      "synonyms": ["oversee", "run", "administer"],
+      "antonyms": ["mismanage", "neglect"]
+    },
+    {
+      "id": "4D_199",
+      "word": "manageable",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Able to be controlled or dealt with reasonably easily.",
+      "example": "Better traffic signals kept congestion at manageable levels during rush hour.",
+      "synonyms": ["controllable", "feasible"],
+      "antonyms": ["unmanageable", "uncontrollable"]
+    },
+    {
+      "id": "4D_200",
+      "word": "managed",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Organized or controlled in a planned way.",
+      "example": "The managed retreat programme relocated homes away from the flood-prone coastline.",
+      "synonyms": ["controlled", "administered"],
+      "antonyms": ["unmanaged"]
+    },
+    {
+      "id": "4D_201",
+      "word": "management",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of dealing with or controlling things or people.",
+      "example": "Effective waste management has reduced landfill use in the city by half.",
+      "synonyms": ["administration", "control", "supervision"],
+      "antonyms": ["mismanagement"]
+    },
+    {
+      "id": "4D_202",
+      "word": "manager",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person responsible for controlling or administering an organization or activity.",
+      "example": "The new transport manager introduced a more efficient bus scheduling system.",
+      "synonyms": ["administrator", "supervisor", "director"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_203",
+      "word": "managerial",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to the management of an organization or activity.",
+      "example": "Managerial reforms streamlined decision-making within the city council.",
+      "synonyms": ["administrative", "executive"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_204",
+      "word": "managing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Having overall control or responsibility.",
+      "example": "The managing director of the transport authority announced the new fare structure.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_205",
+      "word": "match",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To correspond to or be equivalent to something; to be suitable together.",
+      "example": "The new housing supply failed to match rapidly growing demand.",
+      "synonyms": ["correspond", "equal", "fit"],
+      "antonyms": ["mismatch", "contrast"]
+    },
+    {
+      "id": "4D_206",
+      "word": "matched",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Corresponding or equivalent to something else.",
+      "example": "Funding for the project was matched by private investment.",
+      "synonyms": ["equivalent", "corresponding"],
+      "antonyms": ["mismatched"]
+    },
+    {
+      "id": "4D_207",
+      "word": "matching",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Corresponding to or the same as something else.",
+      "example": "The government offered matching funds to support local housing initiatives.",
+      "synonyms": ["corresponding", "equivalent"],
+      "antonyms": ["mismatched"]
+    },
+    {
+      "id": "4D_208",
+      "word": "matchup",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A pairing or comparison of two things, often competing.",
+      "example": "The report presented a matchup between two competing transport proposals.",
+      "synonyms": ["comparison", "pairing"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_209",
+      "word": "maximize",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make the most of; to increase to the greatest possible extent.",
+      "example": "The new layout was designed to maximize the use of limited urban space.",
+      "synonyms": ["optimize", "increase", "boost"],
+      "antonyms": ["minimize", "reduce"]
+    },
+    {
+      "id": "4D_210",
+      "word": "measurable",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Able to be quantified or assessed using specific criteria.",
+      "example": "The project delivered measurable improvements in air quality within a year.",
+      "synonyms": ["quantifiable", "assessable"],
+      "antonyms": ["immeasurable"]
+    },
+    {
+      "id": "4D_211",
+      "word": "measure",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An action taken to achieve a particular purpose, or a standard unit of quantity.",
+      "example": "The council introduced new measures to reduce traffic congestion downtown.",
+      "synonyms": ["action", "step", "initiative"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_212",
+      "word": "measured",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Carefully considered and controlled; calculated deliberately.",
+      "example": "Officials gave a measured response to public concerns about the redevelopment.",
+      "synonyms": ["deliberate", "calculated", "careful"],
+      "antonyms": ["reckless", "impulsive"]
+    },
+    {
+      "id": "4D_213",
+      "word": "measurement",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of measuring something, or a figure obtained by measuring.",
+      "example": "Accurate measurement of traffic flow informed the redesign of the intersection.",
+      "synonyms": ["quantification", "assessment"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_214",
+      "word": "measuring",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Used for or relating to the process of assessing quantity or extent.",
+      "example": "New measuring instruments were installed to monitor air quality citywide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_215",
+      "word": "mechanic",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A skilled worker who repairs and maintains machinery, especially vehicles.",
+      "example": "The transport depot employs several mechanics to maintain the bus fleet.",
+      "synonyms": ["technician", "repairer"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_216",
+      "word": "mechanical",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to machinery, or done in a routine, unthinking way.",
+      "example": "Mechanical failures caused several delays on the city's rail network last year.",
+      "synonyms": ["automated", "machine-related"],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "4D_217",
+      "word": "mechanically",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way relating to machinery, or without conscious thought.",
+      "example": "The signals are mechanically synchronized to reduce traffic delays.",
+      "synonyms": ["automatically"],
+      "antonyms": ["manually"]
+    },
+    {
+      "id": "4D_218",
+      "word": "meet",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To satisfy or fulfil a requirement, or to come together with someone.",
+      "example": "The new housing development fails to meet the city's affordability targets.",
+      "synonyms": ["fulfil", "satisfy", "achieve"],
+      "antonyms": ["fail", "fall short of"]
+    },
+    {
+      "id": "4D_219",
+      "word": "meeting",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An assembly of people for discussion or decision-making.",
+      "example": "Residents attended a public meeting to discuss the proposed redevelopment.",
+      "synonyms": ["gathering", "assembly", "session"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_220",
+      "word": "method",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A particular procedure for accomplishing or approaching something.",
+      "example": "Researchers used a mixed-methods approach to study urban mobility patterns.",
+      "synonyms": ["approach", "technique", "procedure"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_221",
+      "word": "methodical",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Done in a systematic, orderly, and careful way.",
+      "example": "The city took a methodical approach to reviewing zoning applications.",
+      "synonyms": ["systematic", "orderly", "careful"],
+      "antonyms": ["haphazard", "disorganized"]
+    },
+    {
+      "id": "4D_222",
+      "word": "methodically",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a systematic and careful manner.",
+      "example": "Planners methodically assessed each site before approving new construction.",
+      "synonyms": ["systematically", "carefully"],
+      "antonyms": ["haphazardly"]
+    },
+    {
+      "id": "4D_223",
+      "word": "methodist",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A member of a Protestant Christian denomination founded on Methodism.",
+      "example": "The city's oldest church belongs to the local Methodist congregation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_224",
+      "word": "methodological",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to the system of methods used in a particular study or activity.",
+      "example": "The study's methodological limitations affected the reliability of its conclusions.",
+      "synonyms": ["procedural", "systematic"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_225",
+      "word": "methodology",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A system of methods used in a particular field of study or activity.",
+      "example": "The report's methodology combined surveys with detailed traffic data analysis.",
+      "synonyms": ["approach", "procedure", "framework"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_226",
+      "word": "micro",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Very small in scale; relating to individual or local levels rather than the whole.",
+      "example": "Micro-level interventions can significantly improve neighborhood safety.",
+      "synonyms": ["small-scale", "local"],
+      "antonyms": ["macro", "large-scale"]
+    },
+    {
+      "id": "4D_227",
+      "word": "microbe",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A microorganism, especially one causing disease.",
+      "example": "Contaminated water supplies can spread harmful microbes throughout a city.",
+      "synonyms": ["microorganism", "germ"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_228",
+      "word": "microbial",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to or caused by microorganisms.",
+      "example": "Improved sanitation reduced microbial contamination in the city's water supply.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_229",
+      "word": "microbiologist",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A scientist who studies microorganisms.",
+      "example": "A team of microbiologists monitored water quality following the flood.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_230",
+      "word": "microchip",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A small piece of semiconductor material used to carry out computing functions.",
+      "example": "Modern traffic signals rely on microchips to coordinate citywide flow.",
+      "synonyms": ["chip"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_231",
+      "word": "microcosm",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A small, representative system considered as a miniature version of a larger one.",
+      "example": "The neighborhood serves as a microcosm of the city's broader housing challenges.",
+      "synonyms": ["miniature version", "epitome"],
+      "antonyms": ["macrocosm"]
+    },
+    {
+      "id": "4D_232",
+      "word": "micron",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A unit of length equal to one millionth of a metre, used in fine measurements.",
+      "example": "Air quality sensors can detect particles as small as a micron in diameter.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_233",
+      "word": "microorganism",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A microscopic living organism, such as bacteria or viruses.",
+      "example": "Waste treatment plants use microorganisms to break down organic pollutants.",
+      "synonyms": ["microbe"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_234",
+      "word": "microscope",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An instrument used to view very small objects, magnified.",
+      "example": "Researchers used a microscope to examine samples of contaminated soil.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_235",
+      "word": "microscopic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Extremely small, visible only under a microscope.",
+      "example": "Microscopic pollutants in the water supply prompted a citywide health warning.",
+      "synonyms": ["minuscule", "tiny"],
+      "antonyms": ["macroscopic", "large"]
+    },
+    {
+      "id": "4D_236",
+      "word": "microwave",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An electromagnetic wave, or an appliance that uses such waves to heat food.",
+      "example": "Microwave transmission towers were installed to improve the city's communication network.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_237",
+      "word": "minimize",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To reduce something to the smallest possible amount or degree.",
+      "example": "New building codes aim to minimize energy consumption in residential areas.",
+      "synonyms": ["reduce", "decrease", "curtail"],
+      "antonyms": ["maximize", "increase"]
+    },
+    {
+      "id": "4D_238",
+      "word": "objective",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A goal or aim that one intends to achieve.",
+      "example": "The main objective of the plan is to reduce urban traffic congestion.",
+      "synonyms": ["goal", "aim", "target"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_239",
+      "word": "objectively",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way based on facts rather than personal feelings or opinions.",
+      "example": "Researchers objectively assessed the impact of the policy on housing prices.",
+      "synonyms": ["impartially", "dispassionately"],
+      "antonyms": ["subjectively"]
+    },
+    {
+      "id": "4D_240",
+      "word": "objectivity",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The quality of being based on facts rather than personal feelings or opinions.",
+      "example": "The study's objectivity was called into question due to industry funding.",
+      "synonyms": ["impartiality", "neutrality"],
+      "antonyms": ["subjectivity", "bias"]
+    },
+    {
+      "id": "4D_241",
+      "word": "obstacle",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A thing that blocks progress or achievement.",
+      "example": "Funding shortages remain the biggest obstacle to expanding public transport.",
+      "synonyms": ["barrier", "hindrance", "impediment"],
+      "antonyms": ["aid", "facilitator"]
+    },
+    {
+      "id": "4D_242",
+      "word": "opportunity",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A set of circumstances that makes it possible to achieve something.",
+      "example": "The redevelopment offers an opportunity to improve public green space.",
+      "synonyms": ["chance", "prospect", "possibility"],
+      "antonyms": ["obstacle"]
+    },
+    {
+      "id": "4D_243",
+      "word": "outcome",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The way a thing turns out; a consequence.",
+      "example": "The long-term outcome of the reform remains uncertain.",
+      "synonyms": ["result", "consequence", "effect"],
+      "antonyms": ["cause"]
+    },
+    {
+      "id": "4D_244",
+      "word": "overcome",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To succeed in dealing with a problem or difficulty.",
+      "example": "The city overcame significant funding obstacles to complete the new rail line.",
+      "synonyms": ["surmount", "conquer", "resolve"],
+      "antonyms": ["succumb", "yield"]
+    },
+    {
+      "id": "4D_245",
+      "word": "participate",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To take part in an activity or event.",
+      "example": "Thousands of residents participated in the public consultation on housing policy.",
+      "synonyms": ["take part", "engage", "join in"],
+      "antonyms": ["abstain", "withdraw"]
+    },
+    {
+      "id": "4D_246",
+      "word": "participating",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Taking part in an activity or event.",
+      "example": "All participating districts received additional funding for the pilot scheme.",
+      "synonyms": ["involved", "engaged"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_247",
+      "word": "participation",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The act of taking part in something.",
+      "example": "Public participation was essential to the success of the planning process.",
+      "synonyms": ["involvement", "engagement", "contribution"],
+      "antonyms": ["abstention"]
+    },
+    {
+      "id": "4D_248",
+      "word": "participatory",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Involving the participation of many people, especially in decision-making.",
+      "example": "The city adopted a participatory budgeting process to involve residents directly.",
+      "synonyms": ["inclusive", "collaborative"],
+      "antonyms": ["exclusive", "top-down"]
+    },
+    {
+      "id": "4D_249",
+      "word": "perform",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To carry out an action, task, or function.",
+      "example": "The updated signal system performs significantly better during peak hours.",
+      "synonyms": ["execute", "carry out", "conduct"],
+      "antonyms": ["fail", "neglect"]
+    },
+    {
+      "id": "4D_250",
+      "word": "performance",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action or process of carrying out a task, or how well something functions.",
+      "example": "The performance of the new bus network exceeded initial expectations.",
+      "synonyms": ["execution", "functioning", "output"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_251",
+      "word": "performer",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who performs, especially before an audience.",
+      "example": "Street performers have become a familiar feature of the redeveloped square.",
+      "synonyms": ["artist", "entertainer"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_252",
+      "word": "performing",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to the act of carrying out an action or task.",
+      "example": "The performing arts center anchors the city's new cultural district.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_253",
+      "word": "persuasive",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Good at convincing people to believe or do something.",
+      "example": "The report presented a persuasive case for investing in public transport.",
+      "synonyms": ["convincing", "compelling", "cogent"],
+      "antonyms": ["unconvincing", "weak"]
+    },
+    {
+      "id": "4D_254",
+      "word": "pivotal",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of crucial importance in relation to the development of something.",
+      "example": "The new rail link played a pivotal role in the region's economic revival.",
+      "synonyms": ["crucial", "critical", "key"],
+      "antonyms": ["minor", "insignificant"]
+    },
+    {
+      "id": "4D_255",
+      "word": "play",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To engage in an activity for enjoyment, or to participate in a role or process.",
+      "example": "Green spaces play an important role in improving urban air quality.",
+      "synonyms": ["participate", "function", "act"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_256",
+      "word": "playback",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The reproduction of previously recorded sound or footage.",
+      "example": "Traffic camera playback helped investigators identify the cause of the accident.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_257",
+      "word": "player",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or organization involved in an activity, especially one with significant influence.",
+      "example": "Private developers have become major players in the city's housing market.",
+      "synonyms": ["participant", "stakeholder"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_258",
+      "word": "playful",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Full of high spirits and fun; light-hearted.",
+      "example": "The plaza's playful design includes interactive water features for children.",
+      "synonyms": ["lighthearted", "whimsical"],
+      "antonyms": ["serious", "somber"]
+    },
+    {
+      "id": "4D_259",
+      "word": "playfully",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a light-hearted, fun manner.",
+      "example": "The mural playfully depicts the city's history through colorful illustrations.",
+      "synonyms": ["light-heartedly"],
+      "antonyms": ["seriously"]
+    },
+    {
+      "id": "4D_260",
+      "word": "playground",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An outdoor area equipped for children to play.",
+      "example": "The new development includes a playground and community garden.",
+      "synonyms": ["play area"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_261",
+      "word": "playing",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of taking part in a game or activity.",
+      "example": "Playing fields were preserved despite pressure to build new housing on the site.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_262",
+      "word": "playmate",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A friend with whom a child plays.",
+      "example": "The community center provides a safe space for children to find playmates.",
+      "synonyms": ["friend", "companion"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_263",
+      "word": "playoff",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A series of games played to determine a winner among tied competitors.",
+      "example": "The local sports league's playoff drew record crowds to the renovated stadium.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_264",
+      "word": "playwright",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who writes plays.",
+      "example": "A local playwright's work premiered at the newly restored theatre downtown.",
+      "synonyms": ["dramatist"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_265",
+      "word": "police",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The civil force responsible for maintaining public order and enforcing the law.",
+      "example": "Increased police presence in the district led to a decline in reported crime.",
+      "synonyms": ["law enforcement"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_266",
+      "word": "policeman",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A male member of a police force.",
+      "example": "A policeman directed traffic during the temporary closure of the main road.",
+      "synonyms": ["officer"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_267",
+      "word": "policing",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The maintaining of law and order by the police.",
+      "example": "Community policing has improved trust between residents and local authorities.",
+      "synonyms": ["law enforcement"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_268",
+      "word": "policy",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A course of action adopted by a government or organization.",
+      "example": "The city's housing policy aims to increase the supply of affordable homes.",
+      "synonyms": ["strategy", "approach", "guideline"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_269",
+      "word": "policy-making",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of formulating official plans or courses of action.",
+      "example": "Public consultation has become a central part of local policy-making.",
+      "synonyms": ["policy formulation"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_270",
+      "word": "policymaker",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person responsible for setting policies, especially in government.",
+      "example": "Policymakers face difficult trade-offs between development and conservation.",
+      "synonyms": ["legislator", "official"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_271",
+      "word": "potent",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Having great power or influence; effective.",
+      "example": "Public transport investment remains a potent tool for reducing urban emissions.",
+      "synonyms": ["powerful", "effective", "forceful"],
+      "antonyms": ["weak", "ineffective"]
+    },
+    {
+      "id": "4D_272",
+      "word": "primary",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Of chief importance; principal.",
+      "example": "The primary goal of the redevelopment is to increase affordable housing.",
+      "synonyms": ["main", "chief", "principal"],
+      "antonyms": ["secondary", "minor"]
+    },
+    {
+      "id": "4D_273",
+      "word": "problem",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A matter or situation regarded as harmful and needing to be dealt with.",
+      "example": "Housing affordability remains a persistent problem in the city.",
+      "synonyms": ["issue", "difficulty", "challenge"],
+      "antonyms": ["solution"]
+    },
+    {
+      "id": "4D_274",
+      "word": "problem-solving",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The process of finding solutions to difficult or complex issues.",
+      "example": "Effective problem-solving requires input from residents, planners, and engineers alike.",
+      "synonyms": ["troubleshooting"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_275",
+      "word": "problematic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Presenting difficulty; causing problems.",
+      "example": "The lack of affordable housing has proven problematic for the city's growth.",
+      "synonyms": ["difficult", "troublesome", "challenging"],
+      "antonyms": ["straightforward", "unproblematic"]
+    },
+    {
+      "id": "4D_276",
+      "word": "program",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A planned series of actions or events, especially one intended to achieve a specific outcome.",
+      "example": "The city launched a program to retrofit older buildings for energy efficiency.",
+      "synonyms": ["scheme", "initiative", "plan"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_277",
+      "word": "programmatic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to a systematic plan or program of action.",
+      "example": "The council took a programmatic approach to expanding the affordable housing scheme.",
+      "synonyms": ["systematic", "structured"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_278",
+      "word": "programmer",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who writes computer programs.",
+      "example": "Local programmers developed an app to help residents track bus arrival times.",
+      "synonyms": ["developer", "coder"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_279",
+      "word": "programming",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of writing computer programs, or planning a series of events.",
+      "example": "Programming for the smart traffic system took over a year to complete.",
+      "synonyms": ["coding"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_280",
+      "word": "quality",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The standard of something as measured against other similar things; a distinctive attribute.",
+      "example": "Improving air quality has become a top priority for city officials.",
+      "synonyms": ["standard", "caliber"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_281",
+      "word": "quantify",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To express or measure the quantity of something.",
+      "example": "Researchers struggled to quantify the full economic impact of the flood.",
+      "synonyms": ["measure", "calculate", "gauge"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_282",
+      "word": "raise",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To lift or increase something, or to bring up a topic for discussion.",
+      "example": "The proposal would raise property taxes to fund new infrastructure.",
+      "synonyms": ["increase", "elevate", "boost"],
+      "antonyms": ["lower", "reduce"]
+    },
+    {
+      "id": "4D_283",
+      "word": "raised",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Lifted up or increased in amount or level.",
+      "example": "Raised pedestrian crossings have improved safety at busy intersections.",
+      "synonyms": ["elevated", "increased"],
+      "antonyms": ["lowered", "reduced"]
+    },
+    {
+      "id": "4D_284",
+      "word": "raiser",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or thing that raises something, often used in compounds such as 'fundraiser'.",
+      "example": "The community fundraiser collected donations to renovate the local playground.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4D_285",
+      "word": "reach",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To arrive at or come to a particular point, level, or agreement.",
+      "example": "Negotiators finally reached an agreement on funding for the new transit line.",
+      "synonyms": ["attain", "achieve", "arrive at"],
+      "antonyms": ["fall short of"]
+    },
+    {
+      "id": "4D_286",
+      "word": "reconcile",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make compatible or consistent; to resolve a disagreement.",
+      "example": "The plan attempts to reconcile the competing needs of drivers and cyclists.",
+      "synonyms": ["resolve", "harmonize", "settle"],
+      "antonyms": ["conflict", "clash"]
+    },
+    {
+      "id": "4D_287",
+      "word": "reconciliation",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The restoring of friendly relations, or the process of making two things compatible.",
+      "example": "Years of dialogue led to reconciliation between the developers and local residents.",
+      "synonyms": ["resolution", "harmonization"],
+      "antonyms": ["conflict", "discord"]
+    },
+    {
+      "id": "4D_288",
+      "word": "reduce",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make something smaller or less in amount, degree, or size.",
+      "example": "The scheme aims to reduce traffic congestion during peak hours.",
+      "synonyms": ["decrease", "lower", "diminish"],
+      "antonyms": ["increase", "expand"]
+    },
+    {
+      "id": "4D_289",
+      "word": "reduced",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Made smaller or less in amount, degree, or size.",
+      "example": "The area has seen reduced crime rates since the introduction of better street lighting.",
+      "synonyms": ["decreased", "lowered"],
+      "antonyms": ["increased", "expanded"]
+    },
+    {
+      "id": "4D_290",
+      "word": "reduction",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of making something smaller or less; a decrease.",
+      "example": "The initiative achieved a significant reduction in household waste.",
+      "synonyms": ["decrease", "cut", "decline"],
+      "antonyms": ["increase", "growth"]
+    },
+    {
+      "id": "4D_291",
+      "word": "relationship",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The way in which two or more concepts, people, or things are connected.",
+      "example": "There is a strong relationship between green space and community wellbeing.",
+      "synonyms": ["connection", "link", "association"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_292",
+      "word": "research",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The systematic investigation of a subject in order to discover facts or reach conclusions.",
+      "example": "Research into urban mobility informed the design of the new transit network.",
+      "synonyms": ["investigation", "study", "analysis"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_293",
+      "word": "researcher",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who carries out systematic investigation into a subject.",
+      "example": "Researchers surveyed residents to assess satisfaction with local services.",
+      "synonyms": ["investigator", "analyst"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_294",
+      "word": "resolve",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To find a solution to a problem or dispute.",
+      "example": "The council resolved the funding dispute after months of negotiation.",
+      "synonyms": ["settle", "solve", "address"],
+      "antonyms": ["worsen", "aggravate"]
+    },
+    {
+      "id": "4D_295",
+      "word": "result",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A consequence or outcome of an action or condition.",
+      "example": "The result of the study confirmed that green spaces improve air quality.",
+      "synonyms": ["outcome", "consequence", "effect"],
+      "antonyms": ["cause"]
+    },
+    {
+      "id": "4D_296",
+      "word": "resultant",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Occurring or following as a result of something.",
+      "example": "The resultant traffic congestion forced officials to reconsider the road closure.",
+      "synonyms": ["consequent", "resulting"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_297",
+      "word": "resulting",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Occurring as a consequence of a particular action or event.",
+      "example": "The resulting decline in air pollution surprised even the project's supporters.",
+      "synonyms": ["consequent"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_298",
+      "word": "revenue",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Income, especially that generated by a government or business.",
+      "example": "Parking fees generate significant revenue for the city's transport budget.",
+      "synonyms": ["income", "earnings", "proceeds"],
+      "antonyms": ["expenditure"]
+    },
+    {
+      "id": "4D_299",
+      "word": "risk",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The possibility of harm, loss, or an undesirable outcome.",
+      "example": "Poor drainage increases the risk of flooding in low-lying neighborhoods.",
+      "synonyms": ["danger", "hazard", "possibility of harm"],
+      "antonyms": ["safety", "security"]
+    },
+    {
+      "id": "4D_300",
+      "word": "risky",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Involving a significant possibility of harm, loss, or failure.",
+      "example": "Investing in unproven transport technology was considered a risky decision.",
+      "synonyms": ["hazardous", "dangerous", "uncertain"],
+      "antonyms": ["safe", "secure"]
+    },
+    {
+      "id": "4D_301",
+      "word": "role",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The function or position that someone or something has in a situation.",
+      "example": "Public transport plays a central role in reducing urban emissions.",
+      "synonyms": ["function", "part", "position"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_302",
+      "word": "role-playing",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The acting out of a particular role, often for training or simulation purposes.",
+      "example": "City officials used role-playing exercises to prepare for emergency scenarios.",
+      "synonyms": ["simulation"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_303",
+      "word": "safety",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The condition of being protected from danger, risk, or harm.",
+      "example": "Improved lighting has enhanced pedestrian safety in the city center.",
+      "synonyms": ["security", "protection"],
+      "antonyms": ["danger", "hazard"]
+    },
+    {
+      "id": "4D_304",
+      "word": "seminal",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Strongly influencing later developments; highly original and important.",
+      "example": "The seminal study on urban density shaped decades of planning policy.",
+      "synonyms": ["influential", "groundbreaking", "pioneering"],
+      "antonyms": ["unoriginal", "derivative"]
+    },
+    {
+      "id": "4D_305",
+      "word": "service",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of helping or doing work for someone, or a system supplying public needs.",
+      "example": "The city expanded bus service to previously underserved neighborhoods.",
+      "synonyms": ["provision", "assistance", "amenity"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_306",
+      "word": "serviceman",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A member of the armed forces.",
+      "example": "A memorial honors local servicemen who contributed to the city's history.",
+      "synonyms": ["soldier"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_307",
+      "word": "signal",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A gesture, sound, or action used to convey information, or an indication of a trend.",
+      "example": "Rising rents are a clear signal of growing demand for city-center housing.",
+      "synonyms": ["indication", "sign", "indicator"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_308",
+      "word": "significance",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The quality of being worthy of attention; importance.",
+      "example": "The historic significance of the district led to its protected status.",
+      "synonyms": ["importance", "relevance", "weight"],
+      "antonyms": ["insignificance"]
+    },
+    {
+      "id": "4D_309",
+      "word": "significant",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Sufficiently great or important to be worthy of attention.",
+      "example": "The redevelopment led to a significant increase in local employment.",
+      "synonyms": ["considerable", "substantial", "notable"],
+      "antonyms": ["insignificant", "negligible"]
+    },
+    {
+      "id": "4D_310",
+      "word": "significantly",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that is large or important enough to be noticed.",
+      "example": "Traffic congestion decreased significantly after the new bypass opened.",
+      "synonyms": ["considerably", "substantially", "notably"],
+      "antonyms": ["insignificantly", "marginally"]
+    },
+    {
+      "id": "4D_311",
+      "word": "snapshot",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A brief or momentary impression of a situation, or a quick photograph.",
+      "example": "The survey offers a useful snapshot of current attitudes toward public transport.",
+      "synonyms": ["overview", "summary"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_312",
+      "word": "strategic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Relating to the identification of long-term goals and the means of achieving them.",
+      "example": "The city adopted a strategic plan to guide development over the next decade.",
+      "synonyms": ["planned", "calculated", "tactical"],
+      "antonyms": ["haphazard", "unplanned"]
+    },
+    {
+      "id": "4D_313",
+      "word": "strategically",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that is carefully planned to achieve a long-term goal.",
+      "example": "New bus stops were strategically placed to maximize accessibility.",
+      "synonyms": ["deliberately", "carefully"],
+      "antonyms": ["haphazardly"]
+    },
+    {
+      "id": "4D_314",
+      "word": "strategist",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person skilled in planning action to achieve a specific goal.",
+      "example": "A transport strategist advised the council on reducing city-center congestion.",
+      "synonyms": ["planner", "tactician"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_315",
+      "word": "strategy",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A plan of action designed to achieve a long-term goal.",
+      "example": "The city's housing strategy prioritizes affordable development near transit hubs.",
+      "synonyms": ["plan", "approach", "scheme"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_316",
+      "word": "strength",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The quality or state of being physically or structurally strong; an advantageous attribute.",
+      "example": "The area's central location is one of its greatest strengths for redevelopment.",
+      "synonyms": ["advantage", "asset", "power"],
+      "antonyms": ["weakness"]
+    },
+    {
+      "id": "4D_317",
+      "word": "strike",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To hit or affect suddenly and forcefully, or to stop work in protest.",
+      "example": "Transport workers went on strike over proposed changes to their pay.",
+      "synonyms": ["hit", "affect", "walk out"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_318",
+      "word": "strikeout",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An instance of striking out, especially in baseball, or a term describing failure.",
+      "example": "Critics called the failed housing scheme a strikeout for the city's planning department.",
+      "synonyms": ["failure"],
+      "antonyms": ["success"]
+    },
+    {
+      "id": "4D_319",
+      "word": "striker",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A worker who is on strike, or an attacking player in football.",
+      "example": "Striking transport workers demanded better wages and working conditions.",
+      "synonyms": ["protester"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_320",
+      "word": "study",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Detailed investigation and analysis of a subject.",
+      "example": "A recent study found a strong correlation between green space and mental health.",
+      "synonyms": ["research", "investigation", "analysis"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_321",
+      "word": "success",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The accomplishment of an aim or purpose.",
+      "example": "The pedestrianization scheme was widely regarded as a success.",
+      "synonyms": ["achievement", "accomplishment", "triumph"],
+      "antonyms": ["failure"]
+    },
+    {
+      "id": "4D_322",
+      "word": "successful",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Accomplishing a desired aim or result.",
+      "example": "The successful redevelopment attracted significant new investment to the area.",
+      "synonyms": ["effective", "accomplished", "prosperous"],
+      "antonyms": ["unsuccessful", "failed"]
+    },
+    {
+      "id": "4D_323",
+      "word": "successfully",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that accomplishes a desired aim or result.",
+      "example": "The city successfully reduced traffic congestion through targeted investment.",
+      "synonyms": ["effectively"],
+      "antonyms": ["unsuccessfully"]
+    },
+    {
+      "id": "4D_324",
+      "word": "succession",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A number of people or things following one after another.",
+      "example": "A succession of policy changes gradually reshaped the city's transport network.",
+      "synonyms": ["sequence", "series", "progression"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_325",
+      "word": "successive",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Following one after another without interruption.",
+      "example": "Successive governments have struggled to address the housing shortage.",
+      "synonyms": ["consecutive", "sequential"],
+      "antonyms": ["intermittent"]
+    },
+    {
+      "id": "4D_326",
+      "word": "successor",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person or thing that follows and takes the place of another.",
+      "example": "The new transit authority became the successor to several smaller agencies.",
+      "synonyms": ["replacement", "heir"],
+      "antonyms": ["predecessor"]
+    },
+    {
+      "id": "4D_327",
+      "word": "synthetic",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Made by chemical synthesis, especially to imitate a natural product; artificial.",
+      "example": "Synthetic materials were used to make the new pavement more durable.",
+      "synonyms": ["artificial", "man-made"],
+      "antonyms": ["natural", "organic"]
+    },
+    {
+      "id": "4D_328",
+      "word": "tackle",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make determined efforts to deal with a difficult problem.",
+      "example": "The city introduced new measures to tackle rising homelessness.",
+      "synonyms": ["address", "confront", "deal with"],
+      "antonyms": ["ignore", "avoid"]
+    },
+    {
+      "id": "4D_329",
+      "word": "take",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To occupy or need a certain amount of time, effort, or space.",
+      "example": "The redevelopment project took nearly five years to complete.",
+      "synonyms": ["require", "need", "occupy"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_330",
+      "word": "take-out",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Food prepared to be eaten off the premises; also, a key conclusion or lesson.",
+      "example": "The main take-out from the report is that public transport investment pays off long-term.",
+      "synonyms": ["takeaway"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_331",
+      "word": "takeover",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of assuming control of something, especially a company or organization.",
+      "example": "The corporate takeover of the local utility raised concerns among residents.",
+      "synonyms": ["acquisition", "buyout"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_332",
+      "word": "taker",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A person who accepts or takes something, especially an offer.",
+      "example": "There were few takers for the government's initial affordable housing proposal.",
+      "synonyms": ["recipient"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_333",
+      "word": "target",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "An objective or result toward which efforts are directed.",
+      "example": "The city set an ambitious target to cut carbon emissions by 2030.",
+      "synonyms": ["goal", "objective", "aim"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_334",
+      "word": "targeted",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Directed at a particular group, area, or issue.",
+      "example": "Targeted investment helped revitalize the city's most deprived neighborhoods.",
+      "synonyms": ["focused", "specific"],
+      "antonyms": ["broad", "general"]
+    },
+    {
+      "id": "4D_335",
+      "word": "thorough",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Complete with regard to every detail; careful and exhaustive.",
+      "example": "A thorough review of the transport plan revealed several potential improvements.",
+      "synonyms": ["comprehensive", "exhaustive", "meticulous"],
+      "antonyms": ["superficial", "cursory"]
+    },
+    {
+      "id": "4D_336",
+      "word": "thoroughfare",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "A road or path forming a route between two places.",
+      "example": "The main thoroughfare through the city center was pedestrianized last year.",
+      "synonyms": ["road", "route", "artery"],
+      "antonyms": []
+    },
+    {
+      "id": "4D_337",
+      "word": "unique",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Being the only one of its kind; unlike anything else.",
+      "example": "The district's unique architectural heritage attracts visitors from around the world.",
+      "synonyms": ["distinctive", "singular", "exceptional"],
+      "antonyms": ["common", "ordinary"]
+    },
+    {
+      "id": "4D_338",
+      "word": "uniqueness",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The quality of being unlike anything else.",
+      "example": "The uniqueness of the historic quarter is central to the city's tourism appeal.",
+      "synonyms": ["distinctiveness", "singularity"],
+      "antonyms": ["commonality"]
+    },
+    {
+      "id": "4D_339",
+      "word": "unpack",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To remove contents from a container, or to analyze something in detail.",
+      "example": "The report unpacks the complex causes of the city's housing shortage.",
+      "synonyms": ["analyze", "examine", "dissect"],
+      "antonyms": ["oversimplify"]
+    },
+    {
+      "id": "4D_340",
+      "word": "utilization",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The action of making practical and effective use of something.",
+      "example": "Efficient utilization of public land is essential to solving the housing crisis.",
+      "synonyms": ["use", "application", "employment"],
+      "antonyms": ["underuse"]
+    },
+    {
+      "id": "4D_341",
+      "word": "utilize",
+      "type": "verb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "To make practical and effective use of something.",
+      "example": "Planners utilized underused industrial sites to build new housing.",
+      "synonyms": ["use", "employ", "apply"],
+      "antonyms": ["waste", "neglect"]
+    },
+    {
+      "id": "4D_342",
+      "word": "vital",
+      "type": "adjective",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "Absolutely necessary or important; essential for success or existence.",
+      "example": "Reliable public transport is vital to reducing the city's carbon footprint.",
+      "synonyms": ["essential", "crucial", "indispensable"],
+      "antonyms": ["unimportant", "trivial"]
+    },
+    {
+      "id": "4D_343",
+      "word": "vitality",
+      "type": "noun",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "The state of being strong and active; energy.",
+      "example": "Investment in public spaces has restored vitality to the once-declining district.",
+      "synonyms": ["energy", "vigor", "liveliness"],
+      "antonyms": ["lethargy", "stagnation"]
+    },
+    {
+      "id": "4D_344",
+      "word": "vitally",
+      "type": "adverb",
+      "category": "High-Scoring Academic Collocations",
+      "meaning": "In a way that is essential or of crucial importance.",
+      "example": "Public consultation is vitally important to the success of any redevelopment plan.",
+      "synonyms": ["crucially", "essentially"],
       "antonyms": []
     }
   ]

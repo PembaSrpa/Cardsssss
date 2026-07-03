@@ -4,15 +4,792 @@
   "words": [
     {
       "id": "4B_001",
-      "word": "placeholder",
+      "word": "accept",
+      "type": "verb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "To agree to receive, believe, or take on something.",
+      "example": "The council reluctantly accepted the need for higher housing density downtown.",
+      "synonyms": ["agree to", "acknowledge", "embrace"],
+      "antonyms": ["reject", "refuse", "decline"]
+    },
+    {
+      "id": "4B_002",
+      "word": "acceptability",
       "type": "noun",
       "category": "Linking Words: Contrast & Concession",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The quality of being satisfactory or able to be agreed to.",
+      "example": "Public acceptability of the congestion charge grew once its benefits became clear.",
+      "synonyms": ["tolerability", "suitability"],
+      "antonyms": ["unacceptability"]
+    },
+    {
+      "id": "4B_003",
+      "word": "acceptable",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Able to be agreed to or considered satisfactory.",
+      "example": "The revised plan proved acceptable to most local residents.",
+      "synonyms": ["satisfactory", "tolerable", "adequate"],
+      "antonyms": ["unacceptable", "intolerable"]
+    },
+    {
+      "id": "4B_004",
+      "word": "acceptance",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "The action of agreeing to or approving of something.",
+      "example": "Acceptance of the new policy was slow among older residents.",
+      "synonyms": ["approval", "agreement", "endorsement"],
+      "antonyms": ["rejection", "refusal"]
+    },
+    {
+      "id": "4B_005",
+      "word": "accepted",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Generally agreed to be true, valid, or appropriate.",
+      "example": "It is widely accepted that green spaces improve residents' wellbeing.",
+      "synonyms": ["recognized", "established", "acknowledged"],
+      "antonyms": ["disputed", "unaccepted"]
+    },
+    {
+      "id": "4B_006",
+      "word": "admittedly",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Used to introduce a fact that weakens or contrasts with an argument, while acknowledging it is true.",
+      "example": "Admittedly, the new bypass has reduced congestion, though noise levels have risen.",
+      "synonyms": ["granted", "it is true that", "concededly"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_007",
+      "word": "admitting",
+      "type": "verb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Acknowledging that something is true, often reluctantly.",
+      "example": "Admitting the scheme's flaws, officials pledged to revise the transport plan.",
+      "synonyms": ["acknowledging", "conceding", "confessing"],
+      "antonyms": ["denying", "disputing"]
+    },
+    {
+      "id": "4B_008",
+      "word": "albeit",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Although; even though.",
+      "example": "The city has grown rapidly, albeit at the cost of green space.",
+      "synonyms": ["although", "even though", "though"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_009",
+      "word": "alternative",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A different option or choice available instead of another.",
+      "example": "Cycling offers a practical alternative to driving in the crowded city center.",
+      "synonyms": ["option", "substitute", "choice"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_010",
+      "word": "alternatively",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "As another option or possibility.",
+      "example": "Alternatively, commuters could take the newly extended tram line.",
+      "synonyms": ["instead", "as an alternative", "on the other hand"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_011",
+      "word": "although",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In spite of the fact that; even though.",
+      "example": "Although housing prices have risen, demand remains strong.",
+      "synonyms": ["even though", "though", "while"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_012",
+      "word": "amid",
+      "type": "preposition",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Surrounded by or in the middle of; during.",
+      "example": "The redevelopment continued amid growing opposition from local residents.",
+      "synonyms": ["amidst", "during", "in the midst of"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_013",
+      "word": "amidst",
+      "type": "preposition",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Surrounded by; in the middle of.",
+      "example": "Amidst rising rents, many young families have left the city center.",
+      "synonyms": ["amid", "in the midst of"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_014",
+      "word": "anomalous",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Deviating from what is standard, normal, or expected.",
+      "example": "The sudden drop in rental prices was an anomalous trend in an otherwise booming market.",
+      "synonyms": ["irregular", "atypical", "unusual"],
+      "antonyms": ["typical", "normal", "regular"]
+    },
+    {
+      "id": "4B_015",
+      "word": "anomaly",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Something that deviates from what is standard or expected.",
+      "example": "The neighborhood's low crime rate is an anomaly compared to surrounding districts.",
+      "synonyms": ["irregularity", "deviation", "exception"],
+      "antonyms": ["norm", "regularity"]
+    },
+    {
+      "id": "4B_016",
+      "word": "antithetical",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Directly opposed or contrasted; sharply different.",
+      "example": "Sprawling suburbs are often seen as antithetical to sustainable urban design.",
+      "synonyms": ["opposed", "contrary", "conflicting"],
+      "antonyms": ["compatible", "consistent"]
+    },
+    {
+      "id": "4B_017",
+      "word": "apart",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Separated by distance or aside from other considerations.",
+      "example": "Apart from a few exceptions, most districts supported the new zoning plan.",
+      "synonyms": ["aside", "except for", "separately"],
+      "antonyms": ["together", "combined"]
+    },
+    {
+      "id": "4B_018",
+      "word": "apartheid",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A policy or system of enforced segregation, historically associated with South Africa.",
+      "example": "Some urban planners study how apartheid-era zoning still shapes city layouts today.",
+      "synonyms": ["segregation", "separation"],
+      "antonyms": ["integration"]
+    },
+    {
+      "id": "4B_019",
+      "word": "apartment",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A self-contained housing unit within a larger building.",
+      "example": "Demand for city-center apartments has surged despite rising prices.",
+      "synonyms": ["flat", "unit", "condominium"],
+      "antonyms": ["house"]
+    },
+    {
+      "id": "4B_020",
+      "word": "aside",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Apart from a particular thing; excluding a specific consideration.",
+      "example": "Cost aside, the new bridge would greatly improve connectivity between districts.",
+      "synonyms": ["apart from", "excluding", "except for"],
+      "antonyms": ["including"]
+    },
+    {
+      "id": "4B_021",
+      "word": "but",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Used to introduce a contrasting idea to what has just been stated.",
+      "example": "The project was expensive, but it significantly reduced traffic delays.",
+      "synonyms": ["however", "yet", "although"],
+      "antonyms": ["and"]
+    },
+    {
+      "id": "4B_022",
+      "word": "contrary",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Opposite in nature, direction, or meaning.",
+      "example": "Contrary to expectations, the new law had little effect on housing prices.",
+      "synonyms": ["opposite", "opposing", "conflicting"],
+      "antonyms": ["consistent", "in line with"]
+    },
+    {
+      "id": "4B_023",
+      "word": "contrast",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A noticeable difference between two or more things.",
+      "example": "There is a sharp contrast between the wealthy suburbs and the deprived inner city.",
+      "synonyms": ["difference", "disparity", "distinction"],
+      "antonyms": ["similarity", "resemblance"]
+    },
+    {
+      "id": "4B_024",
+      "word": "contrasting",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Showing a noticeable or striking difference.",
+      "example": "The city offers contrasting neighborhoods, from historic quarters to modern developments.",
+      "synonyms": ["differing", "opposing", "dissimilar"],
+      "antonyms": ["similar", "matching"]
+    },
+    {
+      "id": "4B_025",
+      "word": "conversation",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A talk between two or more people, exchanging ideas or information.",
+      "example": "Public conversation around the redevelopment plan grew heated at the town meeting.",
+      "synonyms": ["dialogue", "discussion", "exchange"],
+      "antonyms": ["silence", "monologue"]
+    },
+    {
+      "id": "4B_026",
+      "word": "conversational",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Relating to informal talk or discussion.",
+      "example": "The mayor adopted a conversational tone during the public consultation.",
+      "synonyms": ["informal", "chatty", "colloquial"],
+      "antonyms": ["formal", "official"]
+    },
+    {
+      "id": "4B_027",
+      "word": "converse",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Opposite or reversed in position, direction, or effect.",
+      "example": "The converse argument holds that lower density leads to greater social isolation.",
+      "synonyms": ["opposite", "reverse", "contrary"],
+      "antonyms": ["same", "identical"]
+    },
+    {
+      "id": "4B_028",
+      "word": "conversely",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Introducing a statement or idea that is opposite to one already mentioned.",
+      "example": "Rents fell in the suburbs; conversely, they rose sharply downtown.",
+      "synonyms": ["on the other hand", "in contrast", "inversely"],
+      "antonyms": ["similarly", "likewise"]
+    },
+    {
+      "id": "4B_029",
+      "word": "conversion",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "The process of changing from one form, use, or system to another.",
+      "example": "The conversion of the old warehouse into apartments took over two years.",
+      "synonyms": ["transformation", "adaptation", "change"],
+      "antonyms": ["preservation"]
+    },
+    {
+      "id": "4B_030",
+      "word": "counterbalance",
+      "type": "verb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "To offset or balance the effect of something with an opposing force.",
+      "example": "New green spaces were added to counterbalance the loss of trees from construction.",
+      "synonyms": ["offset", "balance", "compensate for"],
+      "antonyms": ["reinforce", "aggravate"]
+    },
+    {
+      "id": "4B_031",
+      "word": "debatable",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Open to discussion or dispute; not certain.",
+      "example": "Whether the scheme reduced congestion is still debatable among experts.",
+      "synonyms": ["disputable", "questionable", "uncertain"],
+      "antonyms": ["certain", "indisputable"]
+    },
+    {
+      "id": "4B_032",
+      "word": "despite",
+      "type": "preposition",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Without being affected by; in spite of.",
+      "example": "Despite the higher costs, the council approved the sustainable housing project.",
+      "synonyms": ["in spite of", "regardless of", "notwithstanding"],
+      "antonyms": ["because of"]
+    },
+    {
+      "id": "4B_033",
+      "word": "disparage",
+      "type": "verb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "To speak of someone or something in a critical or dismissive way.",
+      "example": "Critics disparaged the redevelopment as a threat to the neighborhood's character.",
+      "synonyms": ["criticize", "belittle", "deride"],
+      "antonyms": ["praise", "commend"]
+    },
+    {
+      "id": "4B_034",
+      "word": "disparate",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Essentially different in kind; not able to be compared.",
+      "example": "The city council must balance the needs of disparate communities across the region.",
+      "synonyms": ["diverse", "distinct", "unrelated"],
+      "antonyms": ["similar", "uniform"]
+    },
+    {
+      "id": "4B_035",
+      "word": "even",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Used to emphasize something surprising or extreme.",
+      "example": "Even the most optimistic planners were surprised by the scheme's rapid success.",
+      "synonyms": ["surprisingly", "indeed"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_036",
+      "word": "evening",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "The period of time at the end of the day before nightfall.",
+      "example": "Traffic congestion peaks each evening as commuters leave the city center.",
+      "synonyms": ["dusk", "twilight"],
+      "antonyms": ["morning"]
+    },
+    {
+      "id": "4B_037",
+      "word": "evenly",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In a balanced, uniform, or equal way.",
+      "example": "Public investment was distributed evenly across the city's boroughs.",
+      "synonyms": ["equally", "uniformly", "proportionately"],
+      "antonyms": ["unevenly", "disproportionately"]
+    },
+    {
+      "id": "4B_038",
+      "word": "event",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A thing that happens, especially one of importance.",
+      "example": "The opening of the new stadium was a major event for the city.",
+      "synonyms": ["occurrence", "occasion", "incident"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_039",
+      "word": "eventual",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Occurring at the end of a process or period of time.",
+      "example": "The eventual outcome of the redevelopment exceeded initial expectations.",
+      "synonyms": ["final", "ultimate", "resulting"],
+      "antonyms": ["immediate", "initial"]
+    },
+    {
+      "id": "4B_040",
+      "word": "eventually",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In the end, especially after a long delay or series of events.",
+      "example": "Eventually, the council approved the long-delayed transport plan.",
+      "synonyms": ["finally", "ultimately", "in the end"],
+      "antonyms": ["immediately", "initially"]
+    },
+    {
+      "id": "4B_041",
+      "word": "except",
+      "type": "preposition",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Not including; other than.",
+      "example": "All districts saw growth except the industrial zone, which continued to decline.",
+      "synonyms": ["apart from", "excluding", "other than"],
+      "antonyms": ["including"]
+    },
+    {
+      "id": "4B_042",
+      "word": "exception",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A person or thing that is excluded from a general statement or rule.",
+      "example": "Most neighborhoods benefited from the scheme, with one notable exception.",
+      "synonyms": ["exclusion", "anomaly", "deviation"],
+      "antonyms": ["rule", "norm"]
+    },
+    {
+      "id": "4B_043",
+      "word": "exceptional",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Unusual; not typical, often referring to something outstanding.",
+      "example": "The city experienced exceptional growth following the transport upgrade.",
+      "synonyms": ["outstanding", "remarkable", "unusual"],
+      "antonyms": ["ordinary", "typical", "average"]
+    },
+    {
+      "id": "4B_044",
+      "word": "exceptionally",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "To an unusually great extent; extremely.",
+      "example": "Housing demand has been exceptionally high in the newly developed district.",
+      "synonyms": ["unusually", "extremely", "remarkably"],
+      "antonyms": ["typically", "moderately"]
+    },
+    {
+      "id": "4B_045",
+      "word": "however",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Used to introduce a statement that contrasts with what has just been said.",
+      "example": "The scheme reduced emissions; however, it also increased costs for commuters.",
+      "synonyms": ["nevertheless", "nonetheless", "yet"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_046",
+      "word": "if",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Introducing a conditional clause.",
+      "example": "If the funding is approved, construction could begin within a year.",
+      "synonyms": ["provided that", "assuming that"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_047",
+      "word": "instead",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "As a substitute or alternative; in place of something else.",
+      "example": "Rather than expanding the road, the city built a tram line instead.",
+      "synonyms": ["alternatively", "in place of", "rather"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_048",
+      "word": "irrespective",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Not taking something into account; regardless.",
+      "example": "The policy applies to all residents, irrespective of income level.",
+      "synonyms": ["regardless", "notwithstanding", "without regard to"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_049",
+      "word": "just",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Only; simply; exactly.",
+      "example": "The delay was caused by just a single missing permit.",
+      "synonyms": ["only", "simply", "merely"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_050",
+      "word": "limited",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Restricted in size, amount, or extent.",
+      "example": "Despite limited funding, the district managed to renovate its main square.",
+      "synonyms": ["restricted", "constrained", "finite"],
+      "antonyms": ["unlimited", "extensive", "ample"]
+    },
+    {
+      "id": "4B_051",
+      "word": "nevertheless",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In spite of what has just been said; nonetheless.",
+      "example": "The costs were high; nevertheless, the council proceeded with the project.",
+      "synonyms": ["nonetheless", "however", "still"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_052",
+      "word": "nonetheless",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In spite of that; nevertheless.",
+      "example": "The scheme was controversial; nonetheless, it received strong public support.",
+      "synonyms": ["nevertheless", "however", "still"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_053",
+      "word": "notwithstanding",
+      "type": "preposition",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In spite of; without being affected by.",
+      "example": "Notwithstanding the criticism, the mayor pressed ahead with the redevelopment.",
+      "synonyms": ["despite", "in spite of", "regardless of"],
+      "antonyms": ["because of"]
+    },
+    {
+      "id": "4B_054",
+      "word": "object",
+      "type": "verb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "To express opposition or disapproval of something.",
+      "example": "Local residents objected strongly to the proposed high-rise development.",
+      "synonyms": ["oppose", "protest", "disapprove"],
+      "antonyms": ["approve", "support"]
+    },
+    {
+      "id": "4B_055",
+      "word": "objection",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "An expression of disapproval or opposition.",
+      "example": "Several objections were raised during the public consultation on the new bridge.",
+      "synonyms": ["protest", "opposition", "complaint"],
+      "antonyms": ["approval", "agreement"]
+    },
+    {
+      "id": "4B_056",
+      "word": "objectionable",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Causing disapproval or opposition; unpleasant.",
+      "example": "Residents found the height of the proposed tower particularly objectionable.",
+      "synonyms": ["offensive", "unacceptable", "unpleasant"],
+      "antonyms": ["acceptable", "agreeable"]
+    },
+    {
+      "id": "4B_057",
+      "word": "only",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Solely; exclusively; and no more than.",
+      "example": "Only a small fraction of the funding was allocated to public transport.",
+      "synonyms": ["solely", "just", "merely"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_058",
+      "word": "paradox",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "A statement or situation that seems contradictory but may be true.",
+      "example": "It is a paradox that wider roads often lead to worse congestion.",
+      "synonyms": ["contradiction", "puzzle", "anomaly"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_059",
+      "word": "paradoxical",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Seemingly contradictory or absurd, though possibly true.",
+      "example": "It seems paradoxical that reducing road space can improve traffic flow.",
+      "synonyms": ["contradictory", "puzzling", "inconsistent"],
+      "antonyms": ["consistent", "logical"]
+    },
+    {
+      "id": "4B_060",
+      "word": "paradoxically",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In a way that seems contradictory, yet may be true.",
+      "example": "Paradoxically, the new highway increased rather than reduced congestion.",
+      "synonyms": ["ironically", "contradictorily"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_061",
+      "word": "rather",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Used to indicate a preference or a more accurate alternative.",
+      "example": "The council chose to renovate the old building rather than demolish it.",
+      "synonyms": ["instead", "preferably", "sooner"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_062",
+      "word": "regardless",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Without being affected by something; despite something.",
+      "example": "The redevelopment proceeded regardless of local opposition.",
+      "synonyms": ["nonetheless", "irrespective", "anyway"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_063",
+      "word": "still",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Nevertheless; despite what has just been said.",
+      "example": "The plan is expensive; still, it addresses a long-standing housing shortage.",
+      "synonyms": ["nevertheless", "nonetheless", "yet"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_064",
+      "word": "stillness",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "The state of being calm, quiet, or without movement.",
+      "example": "The stillness of the old town contrasts sharply with the bustle of downtown.",
+      "synonyms": ["calm", "quiet", "tranquility"],
+      "antonyms": ["activity", "commotion"]
+    },
+    {
+      "id": "4B_065",
+      "word": "surpass",
+      "type": "verb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "To exceed or do better than a previous level or expectation.",
+      "example": "The project's benefits surpassed what planners had originally predicted.",
+      "synonyms": ["exceed", "outdo", "outperform"],
+      "antonyms": ["fall short of", "underperform"]
+    },
+    {
+      "id": "4B_066",
+      "word": "surprise",
+      "type": "noun",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "An unexpected or astonishing event or piece of information.",
+      "example": "The scheme's rapid success came as a surprise to many economists.",
+      "synonyms": ["shock", "astonishment", "revelation"],
+      "antonyms": ["expectation", "predictability"]
+    },
+    {
+      "id": "4B_067",
+      "word": "surprised",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Feeling or showing astonishment due to something unexpected.",
+      "example": "Residents were surprised by how quickly the new park was completed.",
+      "synonyms": ["astonished", "amazed", "startled"],
+      "antonyms": ["unsurprised", "expectant"]
+    },
+    {
+      "id": "4B_068",
+      "word": "surprising",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Causing astonishment because it is unexpected.",
+      "example": "It was surprising how little the new policy affected traffic patterns.",
+      "synonyms": ["unexpected", "astonishing", "startling"],
+      "antonyms": ["expected", "predictable"]
+    },
+    {
+      "id": "4B_069",
+      "word": "surprisingly",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In a way that is unexpected; contrary to what might be expected.",
+      "example": "Surprisingly, the smaller town recorded faster economic growth than the capital.",
+      "synonyms": ["unexpectedly", "astonishingly"],
+      "antonyms": ["predictably", "expectedly"]
+    },
+    {
+      "id": "4B_070",
+      "word": "though",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Despite the fact that; although.",
+      "example": "The scheme was costly, though it ultimately reduced traffic congestion.",
+      "synonyms": ["although", "even though", "while"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_071",
+      "word": "unexpected",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Not anticipated; surprising.",
+      "example": "The project had an unexpected effect on nearby property values.",
+      "synonyms": ["unforeseen", "unanticipated", "surprising"],
+      "antonyms": ["expected", "anticipated"]
+    },
+    {
+      "id": "4B_072",
+      "word": "unexpectedly",
+      "type": "adverb",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "In a way that was not anticipated.",
+      "example": "Housing prices unexpectedly fell despite growing demand.",
+      "synonyms": ["surprisingly", "unforeseeably"],
+      "antonyms": ["predictably", "expectedly"]
+    },
+    {
+      "id": "4B_073",
+      "word": "unlike",
+      "type": "preposition",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Different from; in contrast to.",
+      "example": "Unlike its neighboring towns, this city invested heavily in cycling infrastructure.",
+      "synonyms": ["in contrast to", "as opposed to", "different from"],
+      "antonyms": ["like", "similar to"]
+    },
+    {
+      "id": "4B_074",
+      "word": "unlikely",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Not likely to happen or be true; improbable.",
+      "example": "It seems unlikely that the funding will be approved before next year.",
+      "synonyms": ["improbable", "doubtful", "questionable"],
+      "antonyms": ["likely", "probable"]
+    },
+    {
+      "id": "4B_075",
+      "word": "unrecognizable",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Changed so much as to be impossible to identify.",
+      "example": "After decades of redevelopment, the old docklands are almost unrecognizable.",
+      "synonyms": ["unidentifiable", "transformed"],
+      "antonyms": ["recognizable", "familiar"]
+    },
+    {
+      "id": "4B_076",
+      "word": "unrecognized",
+      "type": "adjective",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Not acknowledged or identified as significant.",
+      "example": "The neighborhood's cultural importance long went unrecognized by city officials.",
+      "synonyms": ["unacknowledged", "overlooked", "unnoticed"],
+      "antonyms": ["recognized", "acknowledged"]
+    },
+    {
+      "id": "4B_077",
+      "word": "whereas",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Used to introduce a contrast between two facts or ideas.",
+      "example": "Downtown rents have risen sharply, whereas suburban prices remain stable.",
+      "synonyms": ["while", "in contrast", "although"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_078",
+      "word": "while",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Despite the fact that; whereas.",
+      "example": "While the scheme reduced emissions, it also raised transport costs.",
+      "synonyms": ["although", "whereas", "even though"],
+      "antonyms": []
+    },
+    {
+      "id": "4B_079",
+      "word": "yet",
+      "type": "conjunction",
+      "category": "Linking Words: Contrast & Concession",
+      "meaning": "Nevertheless; in spite of that.",
+      "example": "The plan was ambitious, yet it was completed ahead of schedule.",
+      "synonyms": ["nevertheless", "however", "still"],
       "antonyms": []
     }
   ]

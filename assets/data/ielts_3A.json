@@ -4,15 +4,3892 @@
   "words": [
     {
       "id": "3A_001",
-      "word": "placeholder",
+      "word": "abate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To become less intense or widespread.",
+      "example": "The storm began to abate after several hours.",
+      "synonyms": ["subside", "diminish", "lessen"],
+      "antonyms": ["intensify", "escalate"]
+    },
+    {
+      "id": "3A_002",
+      "word": "abatement",
       "type": "noun",
       "category": "Environment, Climate Change & Energy",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "A reduction in intensity or amount, often of pollution.",
+      "example": "The city introduced new laws for noise abatement.",
+      "synonyms": ["reduction", "decrease"],
+      "antonyms": ["increase"]
+    },
+    {
+      "id": "3A_003",
+      "word": "abundance",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A very large quantity of something.",
+      "example": "The region has an abundance of renewable energy resources.",
+      "synonyms": ["plenty", "wealth"],
+      "antonyms": ["scarcity", "shortage"]
+    },
+    {
+      "id": "3A_004",
+      "word": "abundant",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Existing in large quantities.",
+      "example": "Solar power is abundant in desert regions.",
+      "synonyms": ["plentiful", "copious"],
+      "antonyms": ["scarce", "sparse"]
+    },
+    {
+      "id": "3A_005",
+      "word": "abundantly",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In large quantities; clearly.",
+      "example": "Wind energy is abundantly available along the coast.",
+      "synonyms": ["plentifully"],
+      "antonyms": ["sparsely"]
+    },
+    {
+      "id": "3A_006",
+      "word": "acid",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A chemical compound that can react to form salts, often corrosive.",
+      "example": "Acid rain damaged the forest's soil.",
+      "synonyms": [],
+      "antonyms": ["base", "alkali"]
+    },
+    {
+      "id": "3A_007",
+      "word": "acidic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having the properties of an acid; having a low pH.",
+      "example": "The lake became increasingly acidic due to pollution.",
+      "synonyms": ["sour"],
+      "antonyms": ["alkaline", "basic"]
+    },
+    {
+      "id": "3A_008",
+      "word": "acidity",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The level of acid in a substance.",
+      "example": "Scientists measured the acidity of the ocean water.",
+      "synonyms": ["sourness"],
+      "antonyms": ["alkalinity"]
+    },
+    {
+      "id": "3A_009",
+      "word": "adapt",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To change in order to suit new conditions.",
+      "example": "Species must adapt quickly to survive climate change.",
+      "synonyms": ["adjust", "modify"],
+      "antonyms": ["resist"]
+    },
+    {
+      "id": "3A_010",
+      "word": "adaptability",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The quality of being able to adjust to new conditions.",
+      "example": "The species' adaptability helped it survive the drought.",
+      "synonyms": ["flexibility"],
+      "antonyms": ["rigidity"]
+    },
+    {
+      "id": "3A_011",
+      "word": "adaptable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Able to adjust to new conditions.",
+      "example": "Adaptable crops are essential in changing climates.",
+      "synonyms": ["flexible", "versatile"],
+      "antonyms": ["inflexible"]
+    },
+    {
+      "id": "3A_012",
+      "word": "adaptation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A change made to suit new conditions.",
+      "example": "The report outlines climate adaptation strategies for coastal cities.",
+      "synonyms": ["adjustment", "modification"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_013",
+      "word": "adapter",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A device or person that adapts something.",
+      "example": "The farmer used an adapter to convert the irrigation system.",
+      "synonyms": ["converter"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_014",
+      "word": "adaptive",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to or showing adaptation.",
+      "example": "Adaptive management helps ecosystems respond to change.",
+      "synonyms": ["flexible"],
+      "antonyms": ["rigid"]
+    },
+    {
+      "id": "3A_015",
+      "word": "aerosol",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Fine particles suspended in a gas, or a substance released as a spray.",
+      "example": "Aerosols in the atmosphere can affect cloud formation.",
+      "synonyms": ["spray", "mist"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_016",
+      "word": "agricultural",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to farming.",
+      "example": "Agricultural runoff can pollute nearby rivers.",
+      "synonyms": ["farming"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_017",
+      "word": "agriculture",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The practice of farming.",
+      "example": "Sustainable agriculture reduces the strain on natural resources.",
+      "synonyms": ["farming"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_018",
+      "word": "air",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The mixture of gases surrounding the earth.",
+      "example": "Air quality worsened during the wildfire season.",
+      "synonyms": ["atmosphere"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_019",
+      "word": "algae",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Simple aquatic plant-like organisms.",
+      "example": "Excess nutrients caused an algae bloom in the lake.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_020",
+      "word": "ambient",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the immediate surroundings, especially environmental conditions.",
+      "example": "Ambient temperature affects the efficiency of solar panels.",
+      "synonyms": ["surrounding"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_021",
+      "word": "anaerobic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Occurring in the absence of oxygen.",
+      "example": "Anaerobic bacteria break down organic waste in landfills.",
+      "synonyms": [],
+      "antonyms": ["aerobic"]
+    },
+    {
+      "id": "3A_022",
+      "word": "animal",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A living organism that feeds on organic matter.",
+      "example": "Habitat loss threatens many animal species.",
+      "synonyms": ["creature", "beast"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_023",
+      "word": "aquatic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to water; living in water.",
+      "example": "Pollution harms aquatic ecosystems.",
+      "synonyms": ["marine", "water-based"],
+      "antonyms": ["terrestrial"]
+    },
+    {
+      "id": "3A_024",
+      "word": "atmosphere",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The layer of gases surrounding the earth.",
+      "example": "Greenhouse gases trap heat in the atmosphere.",
+      "synonyms": ["air"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_025",
+      "word": "atmospheric",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the atmosphere.",
+      "example": "Atmospheric carbon dioxide levels continue to rise.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_026",
+      "word": "batter",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To strike repeatedly with force.",
+      "example": "Strong waves battered the coastline during the storm.",
+      "synonyms": ["pound", "hammer"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_027",
+      "word": "battered",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Damaged by repeated force.",
+      "example": "The battered coastline showed signs of severe erosion.",
+      "synonyms": ["damaged", "worn"],
+      "antonyms": ["intact"]
+    },
+    {
+      "id": "3A_028",
+      "word": "battery",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A device that stores and provides electrical energy.",
+      "example": "Solar panels store excess energy in a battery.",
+      "synonyms": ["cell"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_029",
+      "word": "biodiversity",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The variety of plant and animal life in a habitat.",
+      "example": "Deforestation reduces biodiversity in tropical regions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_030",
+      "word": "biological",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to living organisms.",
+      "example": "Biological diversity is essential for ecosystem stability.",
+      "synonyms": ["organic"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_031",
+      "word": "biologically",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a way relating to biology.",
+      "example": "The species is biologically adapted to arid environments.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_032",
+      "word": "biologist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A scientist who studies living organisms.",
+      "example": "The biologist studied coral reef degradation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_033",
+      "word": "biology",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The study of living organisms.",
+      "example": "Marine biology examines life in the ocean.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_034",
+      "word": "biomass",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Organic matter used as fuel, or the total mass of living organisms.",
+      "example": "Biomass can be converted into renewable energy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_035",
+      "word": "biosphere",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The regions of the earth's surface where life exists.",
+      "example": "Human activity has significantly altered the biosphere.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_036",
+      "word": "bird",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A warm-blooded egg-laying vertebrate with feathers.",
+      "example": "Migratory birds are affected by shifting climate patterns.",
+      "synonyms": ["avian"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_037",
+      "word": "burden",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A heavy load, or something that causes hardship.",
+      "example": "Pollution places a burden on public health systems.",
+      "synonyms": ["load", "strain"],
+      "antonyms": ["relief"]
+    },
+    {
+      "id": "3A_038",
+      "word": "burdensome",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Causing hardship or difficulty.",
+      "example": "Strict regulations can be burdensome for small farms.",
+      "synonyms": ["onerous", "taxing"],
+      "antonyms": ["manageable"]
+    },
+    {
+      "id": "3A_039",
+      "word": "cap",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A limit set on something, or a covering.",
+      "example": "The government introduced a cap on carbon emissions.",
+      "synonyms": ["limit", "ceiling"],
+      "antonyms": ["floor"]
+    },
+    {
+      "id": "3A_040",
+      "word": "capability",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The ability to do something.",
+      "example": "The country expanded its renewable energy capability.",
+      "synonyms": ["capacity", "ability"],
+      "antonyms": ["inability"]
+    },
+    {
+      "id": "3A_041",
+      "word": "capable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having the ability to do something.",
+      "example": "The plant is capable of processing large volumes of waste.",
+      "synonyms": ["able", "competent"],
+      "antonyms": ["incapable"]
+    },
+    {
+      "id": "3A_042",
+      "word": "cape",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A piece of high land projecting into the sea.",
+      "example": "Storms frequently batter the rocky cape.",
+      "synonyms": ["headland"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_043",
+      "word": "caper",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A playful escapade, or a shrub whose buds are used as a seasoning.",
+      "example": "The documentary described a caper involving illegal logging.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_044",
+      "word": "cappuccino",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A coffee drink made with espresso and frothed milk.",
+      "example": "She discussed sustainable coffee farming over a cappuccino.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_045",
+      "word": "capricious",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Changing unpredictably.",
+      "example": "Capricious weather patterns make farming increasingly difficult.",
+      "synonyms": ["unpredictable", "erratic"],
+      "antonyms": ["stable", "consistent"]
+    },
+    {
+      "id": "3A_046",
+      "word": "capsule",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A small container, or a compact unit.",
+      "example": "The satellite released a capsule to measure atmospheric data.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_047",
+      "word": "captain",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The leader of a ship, team, or group.",
+      "example": "The ship's captain reported unusual ocean temperatures.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_048",
+      "word": "caption",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A title or description accompanying an image.",
+      "example": "The caption explained the extent of the glacier's melting.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_049",
+      "word": "captivate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To attract and hold the attention of.",
+      "example": "The documentary captivated audiences with images of coral reefs.",
+      "synonyms": ["fascinate", "enthrall"],
+      "antonyms": ["bore"]
+    },
+    {
+      "id": "3A_050",
+      "word": "captivating",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Capable of attracting and holding attention.",
+      "example": "The rainforest offered a captivating view of biodiversity.",
+      "synonyms": ["fascinating", "engaging"],
+      "antonyms": ["dull"]
+    },
+    {
+      "id": "3A_051",
+      "word": "captive",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Kept in confinement.",
+      "example": "The captive animals were bred to protect an endangered species.",
+      "synonyms": ["confined"],
+      "antonyms": ["free"]
+    },
+    {
+      "id": "3A_052",
+      "word": "captivity",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The state of being confined.",
+      "example": "Breeding endangered species in captivity can aid conservation.",
+      "synonyms": ["confinement"],
+      "antonyms": ["freedom"]
+    },
+    {
+      "id": "3A_053",
+      "word": "captor",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who captures or holds someone or something.",
+      "example": "Poachers act as captors of endangered wildlife.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_054",
+      "word": "capture",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To catch or take control of.",
+      "example": "Carbon capture technology removes CO2 from industrial emissions.",
+      "synonyms": ["seize", "trap"],
+      "antonyms": ["release"]
+    },
+    {
+      "id": "3A_055",
+      "word": "carbon",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A chemical element found in all living things and fossil fuels.",
+      "example": "Reducing carbon emissions is central to climate policy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_056",
+      "word": "cascade",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A series of small waterfalls, or a process happening in stages.",
+      "example": "Melting ice can trigger a cascade of environmental effects.",
+      "synonyms": ["chain", "sequence"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_057",
+      "word": "catastrophe",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A sudden, large-scale disaster.",
+      "example": "The oil spill was an environmental catastrophe.",
+      "synonyms": ["disaster", "calamity"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_058",
+      "word": "catastrophic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Involving sudden, extensive damage.",
+      "example": "Catastrophic flooding displaced thousands of residents.",
+      "synonyms": ["disastrous", "devastating"],
+      "antonyms": ["minor"]
+    },
+    {
+      "id": "3A_059",
+      "word": "cleaner",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Producing less pollution.",
+      "example": "Cleaner energy sources are replacing coal in many countries.",
+      "synonyms": ["purer"],
+      "antonyms": ["dirtier"]
+    },
+    {
+      "id": "3A_060",
+      "word": "cleaning",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of removing dirt or pollutants.",
+      "example": "Beach cleaning events help reduce plastic pollution.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_061",
+      "word": "cleanliness",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The state of being clean.",
+      "example": "Water cleanliness is monitored regularly near industrial sites.",
+      "synonyms": ["purity"],
+      "antonyms": ["filth"]
+    },
+    {
+      "id": "3A_062",
+      "word": "cleanly",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a clean manner.",
+      "example": "The new factory burns fuel more cleanly than before.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_063",
+      "word": "cleanse",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To make thoroughly clean.",
+      "example": "New filtration systems cleanse wastewater before it is released.",
+      "synonyms": ["purify", "clean"],
+      "antonyms": ["contaminate"]
+    },
+    {
+      "id": "3A_064",
+      "word": "cleanser",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance used for cleaning.",
+      "example": "Industrial cleansers can pollute waterways if disposed of improperly.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_065",
+      "word": "cleansing",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of making clean.",
+      "example": "Cleansing the river of pollutants took several years.",
+      "synonyms": ["purification"],
+      "antonyms": ["contamination"]
+    },
+    {
+      "id": "3A_066",
+      "word": "cleanup",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of removing dirt or waste after an event.",
+      "example": "The oil spill required a massive cleanup effort.",
+      "synonyms": ["clearance"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_067",
+      "word": "climate",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The long-term weather patterns of a region.",
+      "example": "Climate change is altering rainfall patterns worldwide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_068",
+      "word": "climatic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to climate.",
+      "example": "Climatic shifts have affected crop yields in the region.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_069",
+      "word": "coal",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A combustible black rock used as fuel.",
+      "example": "Coal remains a major source of carbon emissions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_070",
+      "word": "coal-fired",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Powered by burning coal.",
+      "example": "Coal-fired power plants are being phased out in many countries.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_071",
+      "word": "coalesce",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To come together to form one mass or group.",
+      "example": "Environmental groups coalesced to push for stronger regulations.",
+      "synonyms": ["merge", "unite"],
+      "antonyms": ["separate"]
+    },
+    {
+      "id": "3A_072",
+      "word": "coalition",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An alliance formed for a common purpose.",
+      "example": "A coalition of nations agreed to reduce emissions.",
+      "synonyms": ["alliance", "partnership"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_073",
+      "word": "coastal",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to or near the coast.",
+      "example": "Coastal cities face rising sea levels due to climate change.",
+      "synonyms": ["seaside"],
+      "antonyms": ["inland"]
+    },
+    {
+      "id": "3A_074",
+      "word": "combustion",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of burning something.",
+      "example": "Combustion of fossil fuels releases greenhouse gases.",
+      "synonyms": ["burning"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_075",
+      "word": "compost",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Decayed organic material used as fertilizer.",
+      "example": "Food scraps can be turned into compost instead of landfill waste.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_076",
+      "word": "composting",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of making compost.",
+      "example": "Composting reduces the amount of organic waste sent to landfills.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_077",
+      "word": "conservation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The protection of natural resources.",
+      "example": "Wildlife conservation efforts have helped some species recover.",
+      "synonyms": ["preservation"],
+      "antonyms": ["exploitation"]
+    },
+    {
+      "id": "3A_078",
+      "word": "conservationist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who advocates for protecting the environment.",
+      "example": "The conservationist campaigned to protect the wetland.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_079",
+      "word": "conservatism",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A preference for traditional values and caution about change.",
+      "example": "Conservatism in energy policy has slowed the shift to renewables.",
+      "synonyms": [],
+      "antonyms": ["progressivism"]
+    },
+    {
+      "id": "3A_080",
+      "word": "conservative",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Cautious, or favoring traditional approaches.",
+      "example": "The estimate was deliberately conservative to avoid overstatement.",
+      "synonyms": ["cautious", "moderate"],
+      "antonyms": ["radical"]
+    },
+    {
+      "id": "3A_081",
+      "word": "conservatively",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a cautious or traditional manner.",
+      "example": "Emissions were conservatively estimated to avoid underreporting risk.",
+      "synonyms": ["cautiously"],
+      "antonyms": ["radically"]
+    },
+    {
+      "id": "3A_082",
+      "word": "conservatory",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A greenhouse, or a school for music or art.",
+      "example": "The botanical conservatory houses rare plant species.",
+      "synonyms": ["greenhouse"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_083",
+      "word": "conserve",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To protect from harm or loss; to use carefully.",
+      "example": "Communities are working to conserve dwindling water supplies.",
+      "synonyms": ["preserve", "protect"],
+      "antonyms": ["waste", "deplete"]
+    },
+    {
+      "id": "3A_084",
+      "word": "contaminant",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance that pollutes or makes something impure.",
+      "example": "Heavy metals are common contaminants in industrial runoff.",
+      "synonyms": ["pollutant"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_085",
+      "word": "contaminate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To make impure by exposure to a polluting substance.",
+      "example": "The spill contaminated the local water supply.",
+      "synonyms": ["pollute", "taint"],
+      "antonyms": ["purify"]
+    },
+    {
+      "id": "3A_086",
+      "word": "contaminated",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Made impure by pollutants.",
+      "example": "The contaminated soil required extensive remediation.",
+      "synonyms": ["polluted", "tainted"],
+      "antonyms": ["clean"]
+    },
+    {
+      "id": "3A_087",
+      "word": "contamination",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The state of being polluted.",
+      "example": "Groundwater contamination affected the entire valley.",
+      "synonyms": ["pollution"],
+      "antonyms": ["purity"]
+    },
+    {
+      "id": "3A_088",
+      "word": "cropland",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Land used for growing crops.",
+      "example": "Expanding cropland has led to widespread deforestation.",
+      "synonyms": ["farmland"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_089",
+      "word": "current",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A continuous flow of water or air.",
+      "example": "Ocean currents distribute heat around the globe.",
+      "synonyms": ["flow", "stream"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_090",
+      "word": "cyclical",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Occurring in cycles.",
+      "example": "Droughts in the region are cyclical rather than constant.",
+      "synonyms": ["recurring", "periodic"],
+      "antonyms": ["linear"]
+    },
+    {
+      "id": "3A_091",
+      "word": "deforestation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The clearing of forests.",
+      "example": "Deforestation contributes significantly to biodiversity loss.",
+      "synonyms": [],
+      "antonyms": ["reforestation"]
+    },
+    {
+      "id": "3A_092",
+      "word": "degradation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of deteriorating or being reduced in quality.",
+      "example": "Soil degradation threatens long-term agricultural productivity.",
+      "synonyms": ["deterioration", "decline"],
+      "antonyms": ["improvement"]
+    },
+    {
+      "id": "3A_093",
+      "word": "degrade",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To break down or reduce in quality.",
+      "example": "Plastic can take centuries to degrade in the ocean.",
+      "synonyms": ["deteriorate", "decompose"],
+      "antonyms": ["improve"]
+    },
+    {
+      "id": "3A_094",
+      "word": "deplete",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To reduce the quantity of a resource.",
+      "example": "Overfishing has depleted many fish populations.",
+      "synonyms": ["exhaust", "drain"],
+      "antonyms": ["replenish"]
+    },
+    {
+      "id": "3A_095",
+      "word": "depleted",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Reduced significantly in quantity.",
+      "example": "The depleted aquifer can no longer meet local demand.",
+      "synonyms": ["exhausted", "drained"],
+      "antonyms": ["replenished"]
+    },
+    {
+      "id": "3A_096",
+      "word": "depletion",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The reduction in quantity of a resource.",
+      "example": "Ozone depletion increases exposure to harmful UV radiation.",
+      "synonyms": ["exhaustion", "reduction"],
+      "antonyms": ["replenishment"]
+    },
+    {
+      "id": "3A_097",
+      "word": "desert",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A dry, barren area of land.",
+      "example": "Rising temperatures are causing deserts to expand.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_098",
+      "word": "deserted",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Abandoned; empty of people.",
+      "example": "The deserted mining town left behind contaminated soil.",
+      "synonyms": ["abandoned", "empty"],
+      "antonyms": ["inhabited"]
+    },
+    {
+      "id": "3A_099",
+      "word": "dirt",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Soil or a substance that makes something unclean.",
+      "example": "Erosion washes dirt into nearby streams.",
+      "synonyms": ["soil", "grime"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_100",
+      "word": "dirty",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Covered with dirt; polluted.",
+      "example": "Dirty energy sources like coal contribute heavily to emissions.",
+      "synonyms": ["polluted", "unclean"],
+      "antonyms": ["clean"]
+    },
+    {
+      "id": "3A_101",
+      "word": "disaster",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A sudden event causing great damage.",
+      "example": "The hurricane was declared a natural disaster.",
+      "synonyms": ["catastrophe", "calamity"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_102",
+      "word": "disposable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Designed to be thrown away after use.",
+      "example": "Disposable plastics contribute significantly to ocean pollution.",
+      "synonyms": ["single-use", "throwaway"],
+      "antonyms": ["reusable"]
+    },
+    {
+      "id": "3A_103",
+      "word": "disposal",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of getting rid of something.",
+      "example": "Proper waste disposal reduces landfill overflow.",
+      "synonyms": ["removal"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_104",
+      "word": "dispose",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To get rid of something.",
+      "example": "Residents must dispose of hazardous waste responsibly.",
+      "synonyms": ["discard", "throw away"],
+      "antonyms": ["retain"]
+    },
+    {
+      "id": "3A_105",
+      "word": "disposition",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person's inherent qualities, or a tendency.",
+      "example": "The soil's disposition to erosion increased after deforestation.",
+      "synonyms": ["tendency", "inclination"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_106",
+      "word": "driving",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having a strong, continuous influence.",
+      "example": "Fossil fuel consumption is a driving factor in climate change.",
+      "synonyms": ["primary", "motivating"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_107",
+      "word": "drought",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A prolonged period of abnormally low rainfall.",
+      "example": "The drought severely reduced crop yields across the region.",
+      "synonyms": ["dry spell"],
+      "antonyms": ["flood"]
+    },
+    {
+      "id": "3A_108",
+      "word": "ecological",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the relationship between living things and their environment.",
+      "example": "The dam had a significant ecological impact on the river.",
+      "synonyms": ["environmental"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_109",
+      "word": "ecologically",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a manner relating to ecology.",
+      "example": "The farm operates ecologically to minimize environmental harm.",
+      "synonyms": ["environmentally"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_110",
+      "word": "ecologist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A scientist who studies ecosystems.",
+      "example": "The ecologist monitored changes in the forest's wildlife population.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_111",
+      "word": "ecology",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The study of relationships between organisms and their environment.",
+      "example": "Ecology helps explain how species adapt to changing habitats.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_112",
+      "word": "ecosystem",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A biological community of interacting organisms and their environment.",
+      "example": "Coral reefs support one of the most diverse ecosystems on earth.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_113",
+      "word": "electric",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Powered by or producing electricity.",
+      "example": "Electric vehicles produce fewer direct emissions than gas-powered cars.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_114",
+      "word": "electrical",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to electricity.",
+      "example": "Electrical grids must adapt to accommodate renewable energy sources.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_115",
+      "word": "electrically",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "By means of electricity.",
+      "example": "The bus is electrically powered, reducing its carbon footprint.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_116",
+      "word": "electrician",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who installs and repairs electrical systems.",
+      "example": "An electrician installed the new solar panel system.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_117",
+      "word": "electricity",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A form of energy resulting from charged particles.",
+      "example": "Renewable sources now generate a growing share of electricity.",
+      "synonyms": ["power"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_118",
+      "word": "electrify",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To convert to operate using electricity.",
+      "example": "The city plans to electrify its entire public bus fleet.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_119",
+      "word": "electrode",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A conductor through which electric current enters or leaves.",
+      "example": "The battery contains two electrodes made from different metals.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_120",
+      "word": "electromagnetic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the interrelation of electric and magnetic fields.",
+      "example": "Electromagnetic radiation from the sun drives many climate processes.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_121",
+      "word": "electron",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A subatomic particle with a negative electric charge.",
+      "example": "Solar panels convert sunlight into energy by releasing electrons.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_122",
+      "word": "electronic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to devices with small components controlling electric currents.",
+      "example": "Electronic waste is a growing environmental concern.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_123",
+      "word": "electronically",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "By electronic means.",
+      "example": "Energy usage can now be monitored electronically in real time.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_124",
+      "word": "electronics",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Devices or systems that rely on electronic components.",
+      "example": "Recycling electronics helps recover valuable and hazardous materials.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_125",
+      "word": "emissary",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person sent as a diplomatic representative.",
+      "example": "An emissary was sent to negotiate the international climate treaty.",
+      "synonyms": ["envoy", "representative"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_126",
+      "word": "emission",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The release of a substance, especially gas, into the atmosphere.",
+      "example": "Countries pledged to cut greenhouse gas emissions by 2030.",
+      "synonyms": ["discharge", "release"],
+      "antonyms": ["absorption"]
+    },
+    {
+      "id": "3A_127",
+      "word": "energetic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Full of energy or vigor.",
+      "example": "The energetic reaction released a significant amount of heat.",
+      "synonyms": ["vigorous", "lively"],
+      "antonyms": ["lethargic"]
+    },
+    {
+      "id": "3A_128",
+      "word": "energetically",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In an energetic manner.",
+      "example": "The volunteers worked energetically to restore the wetland.",
+      "synonyms": ["vigorously"],
+      "antonyms": ["lethargically"]
+    },
+    {
+      "id": "3A_129",
+      "word": "energize",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To give energy to; to power.",
+      "example": "Solar panels energize the entire village's electrical grid.",
+      "synonyms": ["power", "activate"],
+      "antonyms": ["drain"]
+    },
+    {
+      "id": "3A_130",
+      "word": "energy",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Power derived from resources to provide light, heat, or power machines.",
+      "example": "Renewable energy is becoming more affordable worldwide.",
+      "synonyms": ["power"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_131",
+      "word": "energy-efficient",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Using less energy to achieve the same result.",
+      "example": "Energy-efficient appliances reduce household electricity consumption.",
+      "synonyms": [],
+      "antonyms": ["wasteful"]
+    },
+    {
+      "id": "3A_132",
+      "word": "environment",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The natural world, especially as affected by human activity.",
+      "example": "Industrial pollution has damaged the surrounding environment.",
+      "synonyms": ["surroundings", "habitat"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_133",
+      "word": "environmental",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the natural world.",
+      "example": "Environmental regulations aim to reduce industrial pollution.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_134",
+      "word": "environmentalism",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Concern for and action to protect the environment.",
+      "example": "Environmentalism has grown significantly among younger generations.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_135",
+      "word": "environmentalist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who advocates for protecting the environment.",
+      "example": "The environmentalist campaigned against the proposed pipeline.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_136",
+      "word": "environmentally",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a manner relating to the environment.",
+      "example": "The company switched to environmentally friendly packaging.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_137",
+      "word": "environs",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The surrounding area or district.",
+      "example": "Wildlife thrives in the environs of the national park.",
+      "synonyms": ["surroundings", "vicinity"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_138",
+      "word": "erosion",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The gradual wearing away of land by natural forces.",
+      "example": "Coastal erosion has significantly reduced the size of the beach.",
+      "synonyms": ["wearing away"],
+      "antonyms": ["deposition"]
+    },
+    {
+      "id": "3A_139",
+      "word": "estimate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To roughly calculate a value.",
+      "example": "Scientists estimate that sea levels will rise significantly by 2100.",
+      "synonyms": ["calculate", "approximate"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_140",
+      "word": "estimated",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Roughly calculated.",
+      "example": "The estimated cost of the flood damage exceeded expectations.",
+      "synonyms": ["approximate"],
+      "antonyms": ["exact"]
+    },
+    {
+      "id": "3A_141",
+      "word": "estimation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A rough calculation or judgment.",
+      "example": "Her estimation of the pollution levels proved fairly accurate.",
+      "synonyms": ["assessment", "calculation"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_142",
+      "word": "extinct",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "No longer existing.",
+      "example": "Several species have become extinct due to habitat destruction.",
+      "synonyms": [],
+      "antonyms": ["extant", "living"]
+    },
+    {
+      "id": "3A_143",
+      "word": "extinction",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The state of no longer existing.",
+      "example": "Overhunting drove the species to the brink of extinction.",
+      "synonyms": [],
+      "antonyms": ["survival"]
+    },
+    {
+      "id": "3A_144",
+      "word": "fertilization",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of adding nutrients to soil.",
+      "example": "Excessive fertilization can lead to nutrient runoff into rivers.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_145",
+      "word": "fertilize",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To add nutrients to soil to promote growth.",
+      "example": "Farmers fertilize the fields before the planting season.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_146",
+      "word": "fertilizer",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance added to soil to increase fertility.",
+      "example": "Overuse of fertilizer contributes to water pollution.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_147",
+      "word": "filter",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A device that removes impurities.",
+      "example": "Water filters remove harmful contaminants before consumption.",
+      "synonyms": ["strainer", "purifier"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_148",
+      "word": "filtering",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of removing impurities.",
+      "example": "Filtering wastewater reduces the release of pollutants.",
+      "synonyms": ["purification"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_149",
+      "word": "fish",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An aquatic animal with gills.",
+      "example": "Overfishing has depleted many fish populations worldwide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_150",
+      "word": "fishery",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An area or industry concerned with catching fish.",
+      "example": "Sustainable fisheries help protect ocean ecosystems.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_151",
+      "word": "flood",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An overflow of water onto normally dry land.",
+      "example": "The flood destroyed homes along the riverbank.",
+      "synonyms": ["deluge", "inundation"],
+      "antonyms": ["drought"]
+    },
+    {
+      "id": "3A_152",
+      "word": "flooded",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Covered with an overflow of water.",
+      "example": "The flooded fields ruined the season's crops.",
+      "synonyms": ["inundated"],
+      "antonyms": ["dry"]
+    },
+    {
+      "id": "3A_153",
+      "word": "flooding",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The occurrence of a flood.",
+      "example": "Heavy rainfall caused severe flooding across the region.",
+      "synonyms": ["inundation"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_154",
+      "word": "floodplain",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An area of low-lying land prone to flooding.",
+      "example": "New construction on the floodplain increased flood risk.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_155",
+      "word": "floodwaters",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The water from a flood.",
+      "example": "Floodwaters contaminated the town's drinking supply.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_156",
+      "word": "footprint",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The impact of human activity on the environment.",
+      "example": "Reducing your carbon footprint can slow climate change.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_157",
+      "word": "forest",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A large area covered with trees.",
+      "example": "Deforestation is destroying the rainforest at an alarming rate.",
+      "synonyms": ["woodland"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_158",
+      "word": "forestall",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To prevent something by acting in advance.",
+      "example": "Early intervention can forestall irreversible environmental damage.",
+      "synonyms": ["prevent", "avert"],
+      "antonyms": ["allow"]
+    },
+    {
+      "id": "3A_159",
+      "word": "forested",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Covered with forest.",
+      "example": "The heavily forested region supports diverse wildlife.",
+      "synonyms": ["wooded"],
+      "antonyms": ["barren"]
+    },
+    {
+      "id": "3A_160",
+      "word": "forester",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who manages a forest.",
+      "example": "The forester monitored tree health throughout the reserve.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_161",
+      "word": "forestry",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The science of planting and caring for forests.",
+      "example": "Sustainable forestry balances timber production with conservation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_162",
+      "word": "fossil",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Preserved remains, or a fuel formed from ancient organic matter.",
+      "example": "Fossil fuels remain the largest source of global emissions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_163",
+      "word": "freshwater",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Water containing little salt.",
+      "example": "Freshwater ecosystems are highly sensitive to pollution.",
+      "synonyms": [],
+      "antonyms": ["saltwater"]
+    },
+    {
+      "id": "3A_164",
+      "word": "fuel",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Material burned to produce heat or power.",
+      "example": "Reducing fossil fuel use is central to climate policy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_165",
+      "word": "gas",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance in a state that expands to fill its container.",
+      "example": "Natural gas produces fewer emissions than coal.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_166",
+      "word": "gaseous",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Existing as a gas.",
+      "example": "Methane exists in a gaseous state at room temperature.",
+      "synonyms": [],
+      "antonyms": ["solid", "liquid"]
+    },
+    {
+      "id": "3A_167",
+      "word": "gash",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A long, deep cut.",
+      "example": "The mining operation left a gash across the hillside.",
+      "synonyms": ["cut", "wound"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_168",
+      "word": "gasoline",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A fuel derived from petroleum used in engines.",
+      "example": "Gasoline combustion is a major source of urban air pollution.",
+      "synonyms": ["petrol"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_169",
+      "word": "gasp",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To take a sudden, sharp breath.",
+      "example": "Residents could barely gasp for air during the smog crisis.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_170",
+      "word": "gastric",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the stomach.",
+      "example": "The report briefly mentioned gastric effects of contaminated water.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_171",
+      "word": "gastrointestinal",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the stomach and intestines.",
+      "example": "Contaminated water caused gastrointestinal illness in the village.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_172",
+      "word": "geologic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to geology.",
+      "example": "Geologic surveys help locate potential mineral deposits.",
+      "synonyms": ["geological"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_173",
+      "word": "geological",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the earth's physical structure.",
+      "example": "Geological studies reveal the history of the region's climate.",
+      "synonyms": ["geologic"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_174",
+      "word": "geologist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A scientist who studies the earth's structure.",
+      "example": "The geologist examined rock samples for mineral content.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_175",
+      "word": "geology",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The study of the earth's physical structure.",
+      "example": "Geology helps explain the formation of natural resources.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_176",
+      "word": "geothermal",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to heat from the earth's interior.",
+      "example": "Geothermal energy provides a renewable source of power.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_177",
+      "word": "glacier",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A slow-moving mass of ice.",
+      "example": "The glacier has retreated significantly over the past decade.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_178",
+      "word": "green",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Environmentally friendly.",
+      "example": "Green technology is transforming the energy sector.",
+      "synonyms": ["eco-friendly", "sustainable"],
+      "antonyms": ["polluting"]
+    },
+    {
+      "id": "3A_179",
+      "word": "greenery",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Lush vegetation.",
+      "example": "The city added greenery to reduce urban heat.",
+      "synonyms": ["vegetation", "foliage"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_180",
+      "word": "greenhouse",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A structure for growing plants; also used for gases trapping heat.",
+      "example": "Greenhouse gases contribute to global warming.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_181",
+      "word": "greenish",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Somewhat green in color.",
+      "example": "The greenish water indicated an algae bloom.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_182",
+      "word": "ground",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The solid surface of the earth.",
+      "example": "Contaminants seeped into the ground near the factory.",
+      "synonyms": ["earth", "soil"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_183",
+      "word": "ground-based",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Located or operating on the ground.",
+      "example": "Ground-based sensors track local air quality.",
+      "synonyms": [],
+      "antonyms": ["satellite-based"]
+    },
+    {
+      "id": "3A_184",
+      "word": "grounding",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A foundation or basis; an electrical connection to the earth.",
+      "example": "Proper grounding prevents electrical hazards in solar installations.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_185",
+      "word": "groundwater",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Water held underground in soil or rock.",
+      "example": "Groundwater contamination poses a serious health risk.",
+      "synonyms": [],
+      "antonyms": ["surface water"]
+    },
+    {
+      "id": "3A_186",
+      "word": "groundwork",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Preliminary work forming a basis for future work.",
+      "example": "The treaty laid the groundwork for global emissions reductions.",
+      "synonyms": ["foundation", "basis"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_187",
+      "word": "habitat",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The natural environment of an organism.",
+      "example": "Deforestation destroys critical wildlife habitat.",
+      "synonyms": ["environment"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_188",
+      "word": "habitation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The state of living in a place.",
+      "example": "The area became unsuitable for habitation after the spill.",
+      "synonyms": ["dwelling", "residence"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_189",
+      "word": "harmonic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to harmony; balanced.",
+      "example": "The ecosystem operates in a harmonic balance of species.",
+      "synonyms": [],
+      "antonyms": ["discordant"]
+    },
+    {
+      "id": "3A_190",
+      "word": "harmonica",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A small wind instrument.",
+      "example": "Not commonly used in environmental contexts, but included as a vocabulary item.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_191",
+      "word": "harmonious",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Forming a pleasing or consistent whole.",
+      "example": "The community sought a harmonious relationship with nature.",
+      "synonyms": ["balanced", "congruent"],
+      "antonyms": ["discordant"]
+    },
+    {
+      "id": "3A_192",
+      "word": "harmonize",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To bring into agreement or balance.",
+      "example": "Policies must harmonize economic growth with environmental protection.",
+      "synonyms": ["reconcile", "balance"],
+      "antonyms": ["clash"]
+    },
+    {
+      "id": "3A_193",
+      "word": "harmony",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A state of agreement or balance.",
+      "example": "Sustainable development seeks harmony between people and nature.",
+      "synonyms": ["balance", "accord"],
+      "antonyms": ["discord"]
+    },
+    {
+      "id": "3A_194",
+      "word": "hazard",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A danger or risk.",
+      "example": "Chemical spills pose a serious environmental hazard.",
+      "synonyms": ["danger", "risk"],
+      "antonyms": ["safety"]
+    },
+    {
+      "id": "3A_195",
+      "word": "hazardous",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Dangerous or risky.",
+      "example": "Hazardous waste must be disposed of according to strict regulations.",
+      "synonyms": ["dangerous", "risky"],
+      "antonyms": ["safe"]
+    },
+    {
+      "id": "3A_196",
+      "word": "heat",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A form of energy associated with temperature.",
+      "example": "Excess heat trapped by greenhouse gases raises global temperatures.",
+      "synonyms": ["warmth"],
+      "antonyms": ["cold"]
+    },
+    {
+      "id": "3A_197",
+      "word": "hurricane",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A violent tropical storm.",
+      "example": "The hurricane caused widespread flooding along the coast.",
+      "synonyms": ["cyclone", "typhoon"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_198",
+      "word": "hydrocarbon",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An organic compound made of hydrogen and carbon, found in fossil fuels.",
+      "example": "Burning hydrocarbons releases carbon dioxide into the atmosphere.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_199",
+      "word": "hydroelectric",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to electricity generated by water power.",
+      "example": "The dam provides hydroelectric power to the surrounding region.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_200",
+      "word": "hydrogen",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A colorless gas, the lightest chemical element.",
+      "example": "Hydrogen fuel cells offer a potential alternative to fossil fuels.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_201",
+      "word": "ice",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Frozen water.",
+      "example": "Melting polar ice contributes to rising sea levels.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_202",
+      "word": "incinerator",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A furnace for burning waste.",
+      "example": "The incinerator releases emissions that require careful monitoring.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_203",
+      "word": "inefficiency",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Failure to use resources effectively.",
+      "example": "Energy inefficiency in older buildings increases carbon emissions.",
+      "synonyms": ["waste"],
+      "antonyms": ["efficiency"]
+    },
+    {
+      "id": "3A_204",
+      "word": "inefficient",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Not achieving maximum productivity.",
+      "example": "Inefficient irrigation systems waste large amounts of water.",
+      "synonyms": ["wasteful"],
+      "antonyms": ["efficient"]
+    },
+    {
+      "id": "3A_205",
+      "word": "insect",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A small invertebrate animal with six legs.",
+      "example": "Declining insect populations threaten global food production.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_206",
+      "word": "intercept",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To stop or catch something before it reaches its destination.",
+      "example": "Satellites intercept data on atmospheric conditions.",
+      "synonyms": ["block", "catch"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_207",
+      "word": "interception",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of intercepting.",
+      "example": "Radar interception helps track severe storm systems.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_208",
+      "word": "invasive",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Tending to spread harmfully, especially of species.",
+      "example": "Invasive species can disrupt local ecosystems significantly.",
+      "synonyms": [],
+      "antonyms": ["native"]
+    },
+    {
+      "id": "3A_209",
+      "word": "irrigate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To supply land with water.",
+      "example": "Farmers irrigate their crops using water from the reservoir.",
+      "synonyms": ["water"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_210",
+      "word": "irrigation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The supply of water to land for agriculture.",
+      "example": "Efficient irrigation reduces water waste in farming.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_211",
+      "word": "jungle",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A dense tropical forest.",
+      "example": "The jungle supports an extraordinary range of biodiversity.",
+      "synonyms": ["rainforest"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_212",
+      "word": "kinetic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to motion or the energy of motion.",
+      "example": "Wind turbines convert kinetic energy into electricity.",
+      "synonyms": [],
+      "antonyms": ["potential"]
+    },
+    {
+      "id": "3A_213",
+      "word": "lake",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A large body of inland water.",
+      "example": "The lake's water quality declined due to agricultural runoff.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_214",
+      "word": "land",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The solid part of the earth's surface.",
+      "example": "Rising seas threaten to submerge low-lying land.",
+      "synonyms": [],
+      "antonyms": ["sea"]
+    },
+    {
+      "id": "3A_215",
+      "word": "land-use",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The management of land resources.",
+      "example": "Poor land-use planning increases the risk of flooding.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_216",
+      "word": "landed",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having come to rest on land; owning land.",
+      "example": "The landed estate included several acres of protected wetland.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_217",
+      "word": "lander",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A spacecraft designed to land on a celestial body.",
+      "example": "The lander collected atmospheric data from the planet's surface.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_218",
+      "word": "landfall",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The approach or arrival of a storm at land.",
+      "example": "The hurricane made landfall early Tuesday morning.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_219",
+      "word": "landfill",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A site for disposal of waste by burial.",
+      "example": "Reducing waste sent to landfill is a key sustainability goal.",
+      "synonyms": ["dump"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_220",
+      "word": "landing",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of coming to rest on land.",
+      "example": "The lander's landing site was chosen for its geological features.",
+      "synonyms": [],
+      "antonyms": ["takeoff"]
+    },
+    {
+      "id": "3A_221",
+      "word": "landlady",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A woman who owns and rents out property.",
+      "example": "The landlady installed solar panels to cut energy costs.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_222",
+      "word": "landlord",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who owns and rents out property.",
+      "example": "The landlord upgraded the building's insulation to reduce heat loss.",
+      "synonyms": [],
+      "antonyms": ["tenant"]
+    },
+    {
+      "id": "3A_223",
+      "word": "landmark",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A recognizable feature, or a significant event.",
+      "example": "The landmark agreement set new global emissions targets.",
+      "synonyms": ["milestone"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_224",
+      "word": "landowner",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who owns land.",
+      "example": "Landowners were encouraged to plant trees to combat erosion.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_225",
+      "word": "landscape",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The visible features of an area of land.",
+      "example": "Mining has permanently altered the region's landscape.",
+      "synonyms": ["terrain", "scenery"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_226",
+      "word": "landscaping",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The arrangement of features in a garden or land.",
+      "example": "Native-plant landscaping requires less water than traditional lawns.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_227",
+      "word": "landslide",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A mass of rock or earth moving down a slope.",
+      "example": "Heavy rains triggered a devastating landslide in the hills.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_228",
+      "word": "leak",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An unintended escape of liquid or gas.",
+      "example": "The pipeline leak released oil into the surrounding wetland.",
+      "synonyms": ["seepage", "spill"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_229",
+      "word": "leakage",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of leaking.",
+      "example": "Methane leakage from pipelines contributes to greenhouse emissions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_230",
+      "word": "leaky",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Allowing liquid or gas to escape.",
+      "example": "The leaky valve caused a significant gas emission.",
+      "synonyms": [],
+      "antonyms": ["sealed"]
+    },
+    {
+      "id": "3A_231",
+      "word": "marine",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the sea.",
+      "example": "Marine ecosystems are highly vulnerable to ocean acidification.",
+      "synonyms": [],
+      "antonyms": ["terrestrial"]
+    },
+    {
+      "id": "3A_232",
+      "word": "melt",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To change from solid to liquid due to heat.",
+      "example": "Rising temperatures cause glaciers to melt at unprecedented rates.",
+      "synonyms": ["thaw", "liquefy"],
+      "antonyms": ["freeze"]
+    },
+    {
+      "id": "3A_233",
+      "word": "meltdown",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A serious failure, or the melting of a reactor core.",
+      "example": "The nuclear meltdown raised concerns about reactor safety standards.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_234",
+      "word": "melted",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having changed from solid to liquid.",
+      "example": "The melted ice sheet exposed previously hidden rock formations.",
+      "synonyms": ["thawed"],
+      "antonyms": ["frozen"]
+    },
+    {
+      "id": "3A_235",
+      "word": "melting",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of changing from solid to liquid.",
+      "example": "The melting of polar ice caps accelerates sea level rise.",
+      "synonyms": ["thawing"],
+      "antonyms": ["freezing"]
+    },
+    {
+      "id": "3A_236",
+      "word": "meteor",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A small body from space that burns as it enters the atmosphere.",
+      "example": "The meteor disintegrated before reaching the earth's surface.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_237",
+      "word": "meteorite",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A meteor that survives impact with the earth.",
+      "example": "Scientists studied the meteorite for clues about early planetary formation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_238",
+      "word": "meteorological",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to weather.",
+      "example": "Meteorological data helps predict extreme weather events.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_239",
+      "word": "meteorologist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A scientist who studies weather.",
+      "example": "The meteorologist forecasted a severe drought for the summer.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_240",
+      "word": "methane",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A colorless flammable gas, a potent greenhouse gas.",
+      "example": "Livestock farming is a significant source of methane emissions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_241",
+      "word": "microbe",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A microscopic organism.",
+      "example": "Microbes in the soil help break down organic waste.",
+      "synonyms": ["microorganism"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_242",
+      "word": "microbial",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to microbes.",
+      "example": "Microbial activity plays a key role in composting.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_243",
+      "word": "microbiologist",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A scientist who studies microorganisms.",
+      "example": "The microbiologist researched bacteria that break down plastic.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_244",
+      "word": "microphone",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A device that converts sound into electrical signals.",
+      "example": "The researcher used a microphone to record bird calls in the forest.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_245",
+      "word": "microprocessor",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A small integrated circuit that performs computing tasks.",
+      "example": "Smart grids rely on microprocessors to manage energy distribution.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_246",
+      "word": "migration",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The movement of organisms from one place to another.",
+      "example": "Climate change is disrupting traditional bird migration patterns.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_247",
+      "word": "mitigate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To make less severe.",
+      "example": "Planting trees can help mitigate the effects of climate change.",
+      "synonyms": ["alleviate", "reduce"],
+      "antonyms": ["aggravate"]
+    },
+    {
+      "id": "3A_248",
+      "word": "mitigation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Action taken to reduce severity.",
+      "example": "Flood mitigation efforts include building stronger levees.",
+      "synonyms": ["alleviation"],
+      "antonyms": ["aggravation"]
+    },
+    {
+      "id": "3A_249",
+      "word": "mountain",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A large natural elevation of the earth's surface.",
+      "example": "Melting snow on the mountain feeds rivers downstream.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_250",
+      "word": "mountainous",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having many mountains.",
+      "example": "The mountainous terrain limits agricultural land use.",
+      "synonyms": [],
+      "antonyms": ["flat"]
+    },
+    {
+      "id": "3A_251",
+      "word": "mountainside",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The side of a mountain.",
+      "example": "Erosion has scarred the once-forested mountainside.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_252",
+      "word": "mountaintop",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The summit of a mountain.",
+      "example": "Mountaintop removal mining causes severe environmental damage.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_253",
+      "word": "nitrogen",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A colorless, odorless gas making up most of the atmosphere.",
+      "example": "Excess nitrogen from fertilizer runs off into nearby waterways.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_254",
+      "word": "nuclear",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the nucleus of an atom, especially nuclear power.",
+      "example": "Nuclear energy produces electricity without direct carbon emissions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_255",
+      "word": "ocean",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A large body of saltwater.",
+      "example": "Ocean temperatures continue to rise due to global warming.",
+      "synonyms": ["sea"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_256",
+      "word": "oceanic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the ocean.",
+      "example": "Oceanic currents play a major role in regulating global climate.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_257",
+      "word": "offset",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A compensating measure that counterbalances something.",
+      "example": "The company purchased carbon offsets to compensate for its emissions.",
+      "synonyms": ["counterbalance"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_258",
+      "word": "offshore",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Situated at sea, some distance from the shore.",
+      "example": "Offshore wind farms generate substantial renewable energy.",
+      "synonyms": [],
+      "antonyms": ["onshore"]
+    },
+    {
+      "id": "3A_259",
+      "word": "oil",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A viscous liquid, often referring to petroleum.",
+      "example": "The oil spill devastated the region's marine wildlife.",
+      "synonyms": ["petroleum"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_260",
+      "word": "oily",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Covered with or containing oil.",
+      "example": "Oily residue coated the shoreline after the tanker accident.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_261",
+      "word": "organ",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A part of an organism with a specific function.",
+      "example": "Pollution can damage vital organs in exposed wildlife.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_262",
+      "word": "organic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to living matter, or grown without synthetic chemicals.",
+      "example": "Organic farming avoids the use of synthetic pesticides.",
+      "synonyms": ["natural"],
+      "antonyms": ["synthetic"]
+    },
+    {
+      "id": "3A_263",
+      "word": "organically",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a manner relating to organic methods.",
+      "example": "The farm grows all its produce organically.",
+      "synonyms": [],
+      "antonyms": ["synthetically"]
+    },
+    {
+      "id": "3A_264",
+      "word": "organism",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An individual living thing.",
+      "example": "Pollution can be toxic to even the smallest organism.",
+      "synonyms": ["creature", "being"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_265",
+      "word": "organization",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An organized group of people with a purpose.",
+      "example": "The environmental organization campaigns for cleaner energy policies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_266",
+      "word": "organizational",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to an organization.",
+      "example": "Organizational challenges slowed the rollout of the recycling program.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_267",
+      "word": "organize",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To arrange systematically.",
+      "example": "Volunteers organized a cleanup of the polluted riverbank.",
+      "synonyms": ["arrange", "coordinate"],
+      "antonyms": ["disorganize"]
+    },
+    {
+      "id": "3A_268",
+      "word": "organized",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Arranged in a systematic way.",
+      "example": "The organized recycling program significantly reduced landfill waste.",
+      "synonyms": ["structured"],
+      "antonyms": ["disorganized"]
+    },
+    {
+      "id": "3A_269",
+      "word": "organizer",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person who arranges an event or activity.",
+      "example": "The event organizer promoted sustainable practices at the festival.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_270",
+      "word": "organizing",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of arranging.",
+      "example": "Organizing community recycling drives helps reduce local waste.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_271",
+      "word": "oxygen",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A gas essential for respiration.",
+      "example": "Deforestation reduces the amount of oxygen produced by trees.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_272",
+      "word": "ozone",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A form of oxygen that forms a protective atmospheric layer.",
+      "example": "The ozone layer protects the earth from harmful UV radiation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_273",
+      "word": "peat",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Partially decayed organic matter found in wetlands.",
+      "example": "Draining peat bogs releases significant amounts of stored carbon.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_274",
+      "word": "pesticide",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance used to destroy pests.",
+      "example": "Pesticide runoff can harm beneficial insects and aquatic life.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_275",
+      "word": "photovoltaic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the conversion of light into electricity.",
+      "example": "Photovoltaic panels convert sunlight directly into electricity.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_276",
+      "word": "plant",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A living organism that grows in soil.",
+      "example": "Plant species in the region are shifting due to warming temperatures.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_277",
+      "word": "plastic",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A synthetic material widely used and slow to decompose.",
+      "example": "Plastic pollution threatens marine life across the globe.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_278",
+      "word": "pollutant",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance that causes pollution.",
+      "example": "Industrial pollutants contaminate nearby rivers and streams.",
+      "synonyms": ["contaminant"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_279",
+      "word": "pollute",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To contaminate with harmful substances.",
+      "example": "Factories continue to pollute the air in many industrial cities.",
+      "synonyms": ["contaminate", "taint"],
+      "antonyms": ["purify"]
+    },
+    {
+      "id": "3A_280",
+      "word": "polluted",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Contaminated with harmful substances.",
+      "example": "The polluted river was unsafe for drinking or swimming.",
+      "synonyms": ["contaminated"],
+      "antonyms": ["clean"]
+    },
+    {
+      "id": "3A_281",
+      "word": "polluter",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A person or entity that pollutes.",
+      "example": "The company was fined for being a major industrial polluter.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_282",
+      "word": "pollution",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The introduction of harmful substances into the environment.",
+      "example": "Air pollution significantly affects public health in cities.",
+      "synonyms": ["contamination"],
+      "antonyms": ["purity"]
+    },
+    {
+      "id": "3A_283",
+      "word": "precipitate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To cause to happen suddenly.",
+      "example": "Rapid deforestation can precipitate severe soil erosion.",
+      "synonyms": ["trigger", "provoke"],
+      "antonyms": ["prevent"]
+    },
+    {
+      "id": "3A_284",
+      "word": "precipitation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Rain, snow, or other moisture falling from clouds.",
+      "example": "Precipitation patterns have shifted significantly due to climate change.",
+      "synonyms": ["rainfall"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_285",
+      "word": "precipitous",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Very steep, or happening suddenly.",
+      "example": "The precipitous decline in fish stocks alarmed scientists.",
+      "synonyms": ["steep", "abrupt"],
+      "antonyms": ["gradual"]
+    },
+    {
+      "id": "3A_286",
+      "word": "precipitously",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a very steep or sudden manner.",
+      "example": "Bee populations declined precipitously over the past decade.",
+      "synonyms": ["sharply", "abruptly"],
+      "antonyms": ["gradually"]
+    },
+    {
+      "id": "3A_287",
+      "word": "protected",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Kept safe from harm, especially by law.",
+      "example": "The protected wetland is home to several endangered species.",
+      "synonyms": ["safeguarded"],
+      "antonyms": ["exposed"]
+    },
+    {
+      "id": "3A_288",
+      "word": "protocol",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An official agreement or set of rules.",
+      "example": "The Kyoto Protocol set binding emissions targets for member states.",
+      "synonyms": ["agreement", "treaty"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_289",
+      "word": "purification",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of removing impurities.",
+      "example": "Water purification systems remove harmful bacteria and chemicals.",
+      "synonyms": ["cleansing"],
+      "antonyms": ["contamination"]
+    },
+    {
+      "id": "3A_290",
+      "word": "purify",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To remove impurities from.",
+      "example": "The plant purifies wastewater before it is released into rivers.",
+      "synonyms": ["cleanse", "filter"],
+      "antonyms": ["contaminate"]
+    },
+    {
+      "id": "3A_291",
+      "word": "radiate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To emit energy in the form of rays.",
+      "example": "The earth radiates heat back into the atmosphere at night.",
+      "synonyms": ["emit"],
+      "antonyms": ["absorb"]
+    },
+    {
+      "id": "3A_292",
+      "word": "radiation",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Energy emitted as waves or particles.",
+      "example": "Solar radiation is the earth's primary source of energy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_293",
+      "word": "radiator",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A device that transfers heat.",
+      "example": "The building's radiator system was upgraded for energy efficiency.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_294",
+      "word": "rain",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Water falling in droplets from clouds.",
+      "example": "Acid rain has damaged forests across the region.",
+      "synonyms": ["rainfall"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_295",
+      "word": "rainbow",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An arc of colors caused by light refraction in rain.",
+      "example": "A rainbow appeared after the storm passed over the valley.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_296",
+      "word": "raincoat",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A waterproof coat.",
+      "example": "She wore a raincoat during the unexpected downpour.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_297",
+      "word": "raindrop",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A single drop of rain.",
+      "example": "Each raindrop carried traces of atmospheric pollutants.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_298",
+      "word": "rainfall",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The quantity of rain falling in an area.",
+      "example": "Annual rainfall has declined sharply due to prolonged drought.",
+      "synonyms": ["precipitation"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_299",
+      "word": "rainforest",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A dense tropical forest with high rainfall.",
+      "example": "The rainforest absorbs significant amounts of atmospheric carbon.",
+      "synonyms": ["jungle"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_300",
+      "word": "rainstorm",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A storm accompanied by heavy rain.",
+      "example": "The rainstorm caused flash flooding in low-lying areas.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_301",
+      "word": "rainwater",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Water that has fallen as rain.",
+      "example": "Rainwater harvesting reduces reliance on municipal water supplies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_302",
+      "word": "rainy",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Characterized by frequent rain.",
+      "example": "The rainy season brings essential water to the region's crops.",
+      "synonyms": [],
+      "antonyms": ["dry"]
+    },
+    {
+      "id": "3A_303",
+      "word": "recyclable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Able to be recycled.",
+      "example": "Recyclable materials should be sorted before disposal.",
+      "synonyms": [],
+      "antonyms": ["non-recyclable"]
+    },
+    {
+      "id": "3A_304",
+      "word": "recycle",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To convert waste into reusable material.",
+      "example": "Communities are encouraged to recycle plastic and paper products.",
+      "synonyms": ["reuse", "reprocess"],
+      "antonyms": ["discard"]
+    },
+    {
+      "id": "3A_305",
+      "word": "recycled",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Made from material that has been reprocessed.",
+      "example": "The packaging is made entirely from recycled materials.",
+      "synonyms": ["reprocessed"],
+      "antonyms": ["virgin"]
+    },
+    {
+      "id": "3A_306",
+      "word": "recycling",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of converting waste into reusable material.",
+      "example": "Recycling programs help reduce the amount of waste sent to landfills.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_307",
+      "word": "reef",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A ridge of rock or coral near the surface of the sea.",
+      "example": "Rising ocean temperatures threaten coral reef ecosystems worldwide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_308",
+      "word": "renew",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To begin again or resume; to replace or restore.",
+      "example": "The country pledged to renew its commitment to reducing emissions.",
+      "synonyms": ["restore", "revive"],
+      "antonyms": ["abandon"]
+    },
+    {
+      "id": "3A_309",
+      "word": "renewable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Capable of being replenished naturally.",
+      "example": "Renewable energy sources include solar, wind, and hydro power.",
+      "synonyms": ["sustainable"],
+      "antonyms": ["nonrenewable"]
+    },
+    {
+      "id": "3A_310",
+      "word": "renewal",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The act of renewing.",
+      "example": "The forest's renewal took decades following the wildfire.",
+      "synonyms": ["restoration", "revival"],
+      "antonyms": ["depletion"]
+    },
+    {
+      "id": "3A_311",
+      "word": "renewed",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Restored or resumed.",
+      "example": "There is renewed interest in sustainable farming practices.",
+      "synonyms": ["restored", "revived"],
+      "antonyms": ["abandoned"]
+    },
+    {
+      "id": "3A_312",
+      "word": "resilience",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The capacity to recover quickly from difficulties.",
+      "example": "Coastal communities are building resilience against rising sea levels.",
+      "synonyms": ["toughness", "adaptability"],
+      "antonyms": ["fragility"]
+    },
+    {
+      "id": "3A_313",
+      "word": "resilient",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Able to withstand or recover from difficult conditions.",
+      "example": "Resilient crop varieties can better withstand drought conditions.",
+      "synonyms": ["tough", "adaptable"],
+      "antonyms": ["fragile"]
+    },
+    {
+      "id": "3A_314",
+      "word": "resource",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A stock or supply that can be drawn upon.",
+      "example": "Freshwater is becoming an increasingly scarce resource.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_315",
+      "word": "resourceful",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having the ability to find quick and clever solutions.",
+      "example": "Resourceful farmers adapted quickly to the prolonged drought.",
+      "synonyms": ["inventive", "ingenious"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_316",
+      "word": "rift",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A serious breach, or a crack in the earth's surface.",
+      "example": "A geological rift formed after years of tectonic pressure.",
+      "synonyms": ["crack", "fissure"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_317",
+      "word": "river",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A large natural stream of water flowing into the sea.",
+      "example": "Industrial waste continues to pollute the river's ecosystem.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_318",
+      "word": "riverbank",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The ground alongside a river.",
+      "example": "Erosion has significantly narrowed the riverbank over the years.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_319",
+      "word": "riverboat",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A boat used for travel or transport on a river.",
+      "example": "The riverboat tour highlighted the area's declining wildlife.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_320",
+      "word": "runoff",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Water that flows over land, often carrying pollutants.",
+      "example": "Agricultural runoff introduces excess nutrients into the lake.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_321",
+      "word": "saturate",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To soak or fill completely.",
+      "example": "Heavy rainfall can saturate soil, increasing the risk of flooding.",
+      "synonyms": ["soak", "drench"],
+      "antonyms": ["dry"]
+    },
+    {
+      "id": "3A_322",
+      "word": "saturated",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Completely soaked or filled.",
+      "example": "The saturated ground could not absorb any additional rainfall.",
+      "synonyms": ["soaked"],
+      "antonyms": ["dry"]
+    },
+    {
+      "id": "3A_323",
+      "word": "savanna",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A grassy plain with few trees, typically in tropical regions.",
+      "example": "Wildlife in the savanna is threatened by prolonged drought.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_324",
+      "word": "sea",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A large body of saltwater.",
+      "example": "Rising sea levels threaten low-lying coastal communities.",
+      "synonyms": ["ocean"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_325",
+      "word": "sequester",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To isolate or store, especially carbon.",
+      "example": "Forests sequester significant amounts of atmospheric carbon.",
+      "synonyms": ["store", "capture"],
+      "antonyms": ["release"]
+    },
+    {
+      "id": "3A_326",
+      "word": "sewage",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Waste matter carried in drains.",
+      "example": "Untreated sewage contaminated the local river system.",
+      "synonyms": ["waste", "effluent"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_327",
+      "word": "shift",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A change in position or condition.",
+      "example": "A shift toward renewable energy is underway worldwide.",
+      "synonyms": ["change", "transition"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_328",
+      "word": "shifter",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A device or mechanism that shifts something.",
+      "example": "Not commonly used in environmental contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_329",
+      "word": "shifting",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Changing position or condition.",
+      "example": "Shifting weather patterns make long-term farming planning difficult.",
+      "synonyms": ["changing"],
+      "antonyms": ["stable"]
+    },
+    {
+      "id": "3A_330",
+      "word": "silt",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Fine sand or clay carried by water.",
+      "example": "Silt buildup has reduced the river's capacity to hold water.",
+      "synonyms": ["sediment"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_331",
+      "word": "snow",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Atmospheric water vapor frozen into ice crystals.",
+      "example": "Reduced snow cover affects water supplies in mountain regions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_332",
+      "word": "soil",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The upper layer of earth in which plants grow.",
+      "example": "Healthy soil is essential for sustainable agriculture.",
+      "synonyms": ["earth", "dirt"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_333",
+      "word": "solar",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the sun, especially as a power source.",
+      "example": "Solar energy is one of the fastest-growing renewable sources.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_334",
+      "word": "solid",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Firm and stable in shape; not liquid or gas.",
+      "example": "Waste that remains solid after treatment is sent to landfill.",
+      "synonyms": [],
+      "antonyms": ["liquid", "gas"]
+    },
+    {
+      "id": "3A_335",
+      "word": "solidarity",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Unity or agreement among a group.",
+      "example": "Nations expressed solidarity in tackling the climate crisis.",
+      "synonyms": ["unity", "cohesion"],
+      "antonyms": ["division"]
+    },
+    {
+      "id": "3A_336",
+      "word": "solidify",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To become solid; to strengthen.",
+      "example": "The agreement helped solidify international climate commitments.",
+      "synonyms": ["strengthen", "harden"],
+      "antonyms": ["weaken"]
+    },
+    {
+      "id": "3A_337",
+      "word": "solidly",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Firmly; in a stable manner.",
+      "example": "The policy was solidly supported by environmental scientists.",
+      "synonyms": ["firmly"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_338",
+      "word": "species",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A group of similar organisms capable of interbreeding.",
+      "example": "Many species face extinction due to habitat loss.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_339",
+      "word": "spill",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An accidental release of liquid.",
+      "example": "The oil spill caused extensive damage to marine habitats.",
+      "synonyms": ["leak", "discharge"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_340",
+      "word": "spilled",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Accidentally released or poured out.",
+      "example": "Spilled chemicals contaminated the nearby soil and water.",
+      "synonyms": ["leaked"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_341",
+      "word": "sun",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The star at the center of the solar system.",
+      "example": "The sun provides the energy that powers solar panels.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_342",
+      "word": "sustain",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To maintain or support over time.",
+      "example": "Healthy ecosystems sustain a wide variety of species.",
+      "synonyms": ["maintain", "support"],
+      "antonyms": ["deplete"]
+    },
+    {
+      "id": "3A_343",
+      "word": "sustainability",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The ability to be maintained at a certain level without harm.",
+      "example": "Sustainability is a central goal of modern environmental policy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_344",
+      "word": "sustainable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Able to be maintained without depleting resources.",
+      "example": "Sustainable farming practices protect long-term soil health.",
+      "synonyms": [],
+      "antonyms": ["unsustainable"]
+    },
+    {
+      "id": "3A_345",
+      "word": "sustained",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Continued over an extended period.",
+      "example": "Sustained investment in renewables is reducing emissions steadily.",
+      "synonyms": ["prolonged", "continued"],
+      "antonyms": ["brief"]
+    },
+    {
+      "id": "3A_346",
+      "word": "temperate",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to a mild climate; moderate.",
+      "example": "The region's temperate climate supports diverse agriculture.",
+      "synonyms": ["mild", "moderate"],
+      "antonyms": ["extreme"]
+    },
+    {
+      "id": "3A_347",
+      "word": "temperature",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The degree of heat or cold.",
+      "example": "Global average temperature has risen significantly over the past century.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_348",
+      "word": "terrestrial",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to land, as opposed to water or air.",
+      "example": "Terrestrial ecosystems are also affected by climate change.",
+      "synonyms": [],
+      "antonyms": ["aquatic", "marine"]
+    },
+    {
+      "id": "3A_349",
+      "word": "tidal",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Relating to the rise and fall of the sea.",
+      "example": "Tidal energy offers a predictable source of renewable power.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_350",
+      "word": "toxic",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Poisonous; harmful.",
+      "example": "Toxic chemicals leaked into the groundwater supply.",
+      "synonyms": ["poisonous", "harmful"],
+      "antonyms": ["harmless"]
+    },
+    {
+      "id": "3A_351",
+      "word": "toxicity",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The degree to which a substance is poisonous.",
+      "example": "Scientists measured the toxicity of the contaminated soil.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_352",
+      "word": "treat",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To apply a process to remove harmful substances.",
+      "example": "The facility treats wastewater before releasing it into the river.",
+      "synonyms": ["process", "purify"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_353",
+      "word": "treatable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Able to be treated.",
+      "example": "The contamination was treatable using standard filtration methods.",
+      "synonyms": [],
+      "antonyms": ["untreatable"]
+    },
+    {
+      "id": "3A_354",
+      "word": "treated",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having undergone a process to remove harmful substances.",
+      "example": "Treated water is safe for both drinking and irrigation.",
+      "synonyms": ["purified", "processed"],
+      "antonyms": ["untreated"]
+    },
+    {
+      "id": "3A_355",
+      "word": "treatise",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A written work dealing systematically with a subject.",
+      "example": "The scientist published a treatise on ocean acidification.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_356",
+      "word": "treatment",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of treating something.",
+      "example": "Wastewater treatment removes harmful pollutants before discharge.",
+      "synonyms": ["processing"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_357",
+      "word": "treaty",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A formal agreement between countries.",
+      "example": "The international treaty set binding targets for emissions reduction.",
+      "synonyms": ["agreement", "accord"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_358",
+      "word": "tree",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A woody perennial plant with a trunk.",
+      "example": "Planting trees helps absorb excess atmospheric carbon.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_359",
+      "word": "turbine",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A machine that converts fluid flow into rotational energy.",
+      "example": "Wind turbines generate electricity without direct emissions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_360",
+      "word": "uptake",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The absorption of a substance.",
+      "example": "Increased carbon uptake by forests helps mitigate climate change.",
+      "synonyms": ["absorption"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_361",
+      "word": "vapor",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A substance diffused in the air, especially visible.",
+      "example": "Water vapor is a naturally occurring greenhouse gas.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_362",
+      "word": "vaporize",
+      "type": "verb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "To convert into vapor.",
+      "example": "Extreme heat can vaporize surface water, worsening drought conditions.",
+      "synonyms": ["evaporate"],
+      "antonyms": ["condense"]
+    },
+    {
+      "id": "3A_363",
+      "word": "vulnerability",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The state of being exposed to harm.",
+      "example": "Coastal cities face increasing vulnerability to rising sea levels.",
+      "synonyms": ["susceptibility"],
+      "antonyms": ["resilience"]
+    },
+    {
+      "id": "3A_364",
+      "word": "vulnerable",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Susceptible to harm.",
+      "example": "Low-lying island nations are particularly vulnerable to climate change.",
+      "synonyms": ["susceptible", "exposed"],
+      "antonyms": ["resilient", "protected"]
+    },
+    {
+      "id": "3A_365",
+      "word": "warm",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having a moderately high temperature.",
+      "example": "The unusually warm winter affected regional snowpack levels.",
+      "synonyms": [],
+      "antonyms": ["cold"]
+    },
+    {
+      "id": "3A_366",
+      "word": "warm-up",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A period of preparation, or a gradual increase in temperature.",
+      "example": "The report described the gradual warm-up of ocean surface temperatures.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_367",
+      "word": "warming",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The process of becoming warmer.",
+      "example": "Global warming is driving more frequent extreme weather events.",
+      "synonyms": [],
+      "antonyms": ["cooling"]
+    },
+    {
+      "id": "3A_368",
+      "word": "warmly",
+      "type": "adverb",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "In a warm manner.",
+      "example": "The community warmly welcomed the new renewable energy initiative.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_369",
+      "word": "warmth",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The quality of being warm.",
+      "example": "Increased atmospheric warmth is accelerating glacier melt.",
+      "synonyms": ["heat"],
+      "antonyms": ["coldness"]
+    },
+    {
+      "id": "3A_370",
+      "word": "waste",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Unwanted material discarded after use.",
+      "example": "Reducing waste is a key part of sustainable living.",
+      "synonyms": ["rubbish", "refuse"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_371",
+      "word": "wasted",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Used or spent carelessly without benefit.",
+      "example": "Wasted energy in old buildings contributes to higher emissions.",
+      "synonyms": ["squandered"],
+      "antonyms": ["conserved"]
+    },
+    {
+      "id": "3A_372",
+      "word": "wasteful",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Using something in a careless or excessive manner.",
+      "example": "Wasteful water use strains supplies during periods of drought.",
+      "synonyms": ["extravagant"],
+      "antonyms": ["efficient"]
+    },
+    {
+      "id": "3A_373",
+      "word": "wasteland",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An area of barren or ruined land.",
+      "example": "Decades of mining left the region a toxic wasteland.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_374",
+      "word": "wastewater",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Water that has been used and contains waste products.",
+      "example": "Wastewater treatment plants remove harmful contaminants before discharge.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_375",
+      "word": "watershed",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An area draining into a river or lake, or a turning point.",
+      "example": "Protecting the watershed is essential for clean drinking water.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_376",
+      "word": "wetland",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Land saturated with water, supporting aquatic vegetation.",
+      "example": "Wetlands play a vital role in filtering pollutants from water.",
+      "synonyms": ["marsh", "swamp"],
+      "antonyms": []
+    },
+    {
+      "id": "3A_377",
+      "word": "wildfire",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An uncontrolled fire spreading rapidly.",
+      "example": "Prolonged drought increased the risk of wildfire across the region.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_378",
+      "word": "wind",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The natural movement of air.",
+      "example": "Wind energy is one of the fastest-growing renewable resources.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_379",
+      "word": "windbreaker",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A lightweight jacket that protects against wind.",
+      "example": "She wore a windbreaker while monitoring the coastal weather station.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_380",
+      "word": "windfall",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An unexpected gain, or fruit blown down by wind.",
+      "example": "The carbon tax created a windfall for renewable energy companies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_381",
+      "word": "winding",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having many bends or turns.",
+      "example": "The winding river carried silt from the eroded hillside.",
+      "synonyms": [],
+      "antonyms": ["straight"]
+    },
+    {
+      "id": "3A_382",
+      "word": "windmill",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "A structure that generates power from wind.",
+      "example": "The old windmill has been replaced by a modern wind turbine.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_383",
+      "word": "window",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "An opening in a wall fitted with glass.",
+      "example": "Energy-efficient windows reduce heating and cooling costs.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_384",
+      "word": "windowless",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Having no windows.",
+      "example": "The windowless facility relies entirely on artificial lighting.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_385",
+      "word": "windowsill",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The ledge at the base of a window.",
+      "example": "Plants on the windowsill helped improve indoor air quality.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_386",
+      "word": "windshield",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "The glass at the front of a vehicle.",
+      "example": "Ash from the wildfire coated the car's windshield.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_387",
+      "word": "windswept",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Exposed to strong winds.",
+      "example": "The windswept coastline showed clear signs of erosion.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3A_388",
+      "word": "windy",
+      "type": "adjective",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Characterized by strong wind.",
+      "example": "The windy plains are ideal for large-scale wind farms.",
+      "synonyms": [],
+      "antonyms": ["calm"]
+    },
+    {
+      "id": "3A_389",
+      "word": "woodland",
+      "type": "noun",
+      "category": "Environment, Climate Change & Energy",
+      "meaning": "Land covered with trees.",
+      "example": "Woodland habitats support a wide range of wildlife species.",
+      "synonyms": ["forest"],
       "antonyms": []
     }
   ]

@@ -4,16 +4,833 @@
   "words": [
     {
       "id": "4A_001",
-      "word": "placeholder",
+      "word": "above",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Referring to something previously mentioned in a text, especially something located earlier on the page.",
+      "example": "As stated above, the two variables show a strong positive correlation.",
+      "synonyms": ["previously", "earlier", "aforementioned"],
+      "antonyms": ["below", "following"]
+    },
+    {
+      "id": "4A_002",
+      "word": "above-average",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Higher in quality, quantity, or degree than the typical or normal level.",
+      "example": "The study reported above-average results in both test groups.",
+      "synonyms": ["superior", "exceptional", "higher-than-normal"],
+      "antonyms": ["below-average", "subpar", "inferior"]
+    },
+    {
+      "id": "4A_003",
+      "word": "accompaniment",
       "type": "noun",
       "category": "Linking Words: Addition & Reinforcement",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "Something that goes together with or complements another thing.",
+      "example": "The rise in tourism came as an accompaniment to major infrastructure investment.",
+      "synonyms": ["complement", "addition", "supplement"],
       "antonyms": []
+    },
+    {
+      "id": "4A_004",
+      "word": "accompany",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To go together with or occur at the same time as something else.",
+      "example": "Rapid urbanization is often accompanied by a rise in traffic congestion.",
+      "synonyms": ["coincide with", "go with", "attend"],
+      "antonyms": ["precede", "follow separately"]
+    },
+    {
+      "id": "4A_005",
+      "word": "accompanying",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Occurring or existing together with something else.",
+      "example": "The report includes an accompanying set of statistics to support its conclusions.",
+      "synonyms": ["attendant", "associated", "related"],
+      "antonyms": ["unrelated", "separate"]
+    },
+    {
+      "id": "4A_006",
+      "word": "addition",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "A thing or person added to something else, or the process of adding.",
+      "example": "In addition to housing, the plan includes new schools and parks.",
+      "synonyms": ["supplement", "extension", "increase"],
+      "antonyms": ["subtraction", "removal"]
+    },
+    {
+      "id": "4A_007",
+      "word": "additional",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Added to what already exists; extra.",
+      "example": "The report presents additional evidence supporting the initial hypothesis.",
+      "synonyms": ["extra", "supplementary", "further", "more"],
+      "antonyms": ["existing", "original"]
+    },
+    {
+      "id": "4A_008",
+      "word": "additionally",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In addition; furthermore.",
+      "example": "Additionally, the survey found that most respondents supported the new policy.",
+      "synonyms": ["furthermore", "moreover", "also"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_009",
+      "word": "alongside",
+      "type": "preposition",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Together with; in addition to.",
+      "example": "Alongside economic growth, the region has seen improvements in public health.",
+      "synonyms": ["together with", "in addition to", "besides"],
+      "antonyms": ["instead of", "apart from"]
+    },
+    {
+      "id": "4A_010",
+      "word": "also",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In addition; too.",
+      "example": "The policy also addresses concerns about environmental sustainability.",
+      "synonyms": ["too", "additionally", "furthermore"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_011",
+      "word": "and",
+      "type": "conjunction",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to connect words, phrases, or clauses that are of equal importance.",
+      "example": "The city built new parks and improved its public transport system.",
+      "synonyms": ["plus", "as well as"],
+      "antonyms": ["but", "or"]
+    },
+    {
+      "id": "4A_012",
+      "word": "as",
+      "type": "conjunction",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to introduce a comparison or reason, or to mean 'while'.",
+      "example": "As the population grew, demand for housing increased sharply.",
+      "synonyms": ["while", "since", "because"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_013",
+      "word": "besides",
+      "type": "preposition",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In addition to; apart from.",
+      "example": "Besides reducing emissions, the scheme also lowers household energy costs.",
+      "synonyms": ["in addition to", "apart from", "moreover"],
+      "antonyms": ["excluding", "except for"]
+    },
+    {
+      "id": "4A_014",
+      "word": "beyond",
+      "type": "preposition",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Further along or past a point; in addition to.",
+      "example": "The benefits of the scheme extend beyond simple cost savings.",
+      "synonyms": ["past", "further than", "in addition to"],
+      "antonyms": ["within", "short of"]
+    },
+    {
+      "id": "4A_015",
+      "word": "both",
+      "type": "determiner",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to refer to two people or things, regarded and identified together.",
+      "example": "Both urban and rural areas benefited from the new investment programme.",
+      "synonyms": ["the two", "each of the two"],
+      "antonyms": ["neither", "one"]
+    },
+    {
+      "id": "4A_016",
+      "word": "certainly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to emphasize the truth of a statement; without doubt.",
+      "example": "The reforms have certainly contributed to a rise in living standards.",
+      "synonyms": ["definitely", "undoubtedly", "surely"],
+      "antonyms": ["doubtfully", "uncertainly"]
+    },
+    {
+      "id": "4A_017",
+      "word": "chiefly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Mainly; for the most part.",
+      "example": "The decline in manufacturing jobs was chiefly due to automation.",
+      "synonyms": ["mainly", "primarily", "principally"],
+      "antonyms": ["partly", "marginally"]
+    },
+    {
+      "id": "4A_018",
+      "word": "clearly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that is easy to see, hear, or understand; obviously.",
+      "example": "The data clearly show a link between education levels and income.",
+      "synonyms": ["obviously", "evidently", "plainly"],
+      "antonyms": ["unclearly", "ambiguously"]
+    },
+    {
+      "id": "4A_019",
+      "word": "enrich",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To improve the quality or value of something.",
+      "example": "Cultural diversity has enriched the city's artistic and culinary scene.",
+      "synonyms": ["enhance", "improve", "augment"],
+      "antonyms": ["impoverish", "diminish"]
+    },
+    {
+      "id": "4A_020",
+      "word": "enriched",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Improved in quality, value, or content.",
+      "example": "The enriched curriculum now includes practical workshops alongside traditional lectures.",
+      "synonyms": ["enhanced", "improved", "augmented"],
+      "antonyms": ["impoverished", "depleted"]
+    },
+    {
+      "id": "4A_021",
+      "word": "enrichment",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The action or process of improving the quality or value of something.",
+      "example": "The programme focuses on the cultural enrichment of local communities.",
+      "synonyms": ["enhancement", "improvement", "augmentation"],
+      "antonyms": ["impoverishment", "depletion"]
+    },
+    {
+      "id": "4A_022",
+      "word": "equal",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Being the same in quantity, size, degree, or value.",
+      "example": "The two neighborhoods received equal amounts of government funding.",
+      "synonyms": ["identical", "equivalent", "matching"],
+      "antonyms": ["unequal", "different"]
+    },
+    {
+      "id": "4A_023",
+      "word": "equality",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The state of being equal, especially in status, rights, and opportunities.",
+      "example": "The policy aims to promote greater equality between urban and rural areas.",
+      "synonyms": ["parity", "equivalence", "fairness"],
+      "antonyms": ["inequality", "disparity"]
+    },
+    {
+      "id": "4A_024",
+      "word": "equalize",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To make things equal, especially in status or amount.",
+      "example": "The funding formula was revised to equalize spending across all districts.",
+      "synonyms": ["balance", "level", "standardize"],
+      "antonyms": ["differentiate", "unbalance"]
+    },
+    {
+      "id": "4A_025",
+      "word": "equally",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In an equal manner; to the same extent.",
+      "example": "Both proposals are equally likely to reduce traffic congestion.",
+      "synonyms": ["evenly", "identically", "correspondingly"],
+      "antonyms": ["unequally", "disproportionately"]
+    },
+    {
+      "id": "4A_026",
+      "word": "especially",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to single out one person, thing, or situation over others; particularly.",
+      "example": "The scheme has been especially successful in reducing youth unemployment.",
+      "synonyms": ["particularly", "notably", "specifically"],
+      "antonyms": ["generally", "unremarkably"]
+    },
+    {
+      "id": "4A_027",
+      "word": "evidently",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Clearly seen or understood; obviously.",
+      "example": "Evidently, the new policy has had a significant impact on public transport use.",
+      "synonyms": ["obviously", "clearly", "apparently"],
+      "antonyms": ["doubtfully", "questionably"]
+    },
+    {
+      "id": "4A_028",
+      "word": "fundamentally",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a basic and important way; at the core of something.",
+      "example": "The reforms fundamentally changed the way local government is funded.",
+      "synonyms": ["essentially", "basically", "radically"],
+      "antonyms": ["superficially", "marginally"]
+    },
+    {
+      "id": "4A_029",
+      "word": "furthermore",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In addition; besides; used to introduce a further point.",
+      "example": "Furthermore, the study found no significant difference between the two groups.",
+      "synonyms": ["moreover", "additionally", "besides"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_030",
+      "word": "importantly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to introduce a statement that has significant relevance.",
+      "example": "More importantly, the initiative has created hundreds of new jobs.",
+      "synonyms": ["significantly", "notably", "crucially"],
+      "antonyms": ["trivially", "insignificantly"]
+    },
+    {
+      "id": "4A_031",
+      "word": "indeed",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to emphasize a statement or response, confirming what has already been said.",
+      "example": "The results indeed confirmed the researchers' initial predictions.",
+      "synonyms": ["certainly", "truly", "in fact"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_032",
+      "word": "juxtapose",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To place two things side by side, often to highlight a contrast or similarity.",
+      "example": "The exhibition juxtaposes historic photographs with contemporary images of the same streets.",
+      "synonyms": ["contrast", "compare", "place together"],
+      "antonyms": ["separate", "isolate"]
+    },
+    {
+      "id": "4A_033",
+      "word": "juxtaposition",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The fact of two things being placed close together, often for contrasting effect.",
+      "example": "The juxtaposition of old and new architecture defines the city's skyline.",
+      "synonyms": ["contrast", "comparison", "proximity"],
+      "antonyms": ["separation"]
+    },
+    {
+      "id": "4A_034",
+      "word": "layering",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The arrangement of something in layers, or the process of adding successive layers.",
+      "example": "The layering of policies over several decades has created a complex regulatory system.",
+      "synonyms": ["stratification", "stacking"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_035",
+      "word": "like",
+      "type": "preposition",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Similar to; in the same way as.",
+      "example": "Like many cities, this one has struggled to manage rising housing costs.",
+      "synonyms": ["similar to", "comparable to"],
+      "antonyms": ["unlike", "different from"]
+    },
+    {
+      "id": "4A_036",
+      "word": "like-minded",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Having similar ideas, opinions, or interests to another person or group.",
+      "example": "The initiative brought together like-minded organizations committed to sustainable development.",
+      "synonyms": ["similarly minded", "compatible"],
+      "antonyms": ["opposed", "conflicting"]
+    },
+    {
+      "id": "4A_037",
+      "word": "likelihood",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The state or fact of something being likely; probability.",
+      "example": "Increased rainfall raises the likelihood of flooding in low-lying areas.",
+      "synonyms": ["probability", "chance", "possibility"],
+      "antonyms": ["unlikelihood", "improbability"]
+    },
+    {
+      "id": "4A_038",
+      "word": "likely",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Such as well might happen or be true; probable.",
+      "example": "It is likely that urban populations will continue to grow over the next decade.",
+      "synonyms": ["probable", "expected", "anticipated"],
+      "antonyms": ["unlikely", "improbable"]
+    },
+    {
+      "id": "4A_039",
+      "word": "liken",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To point out the resemblance of one thing to another; to compare.",
+      "example": "Critics have likened the new development to a small self-contained city.",
+      "synonyms": ["compare", "equate", "relate"],
+      "antonyms": ["contrast", "differentiate"]
+    },
+    {
+      "id": "4A_040",
+      "word": "likeness",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The similarity between two things or people.",
+      "example": "There is a striking likeness between the two proposed transport plans.",
+      "synonyms": ["similarity", "resemblance", "similitude"],
+      "antonyms": ["difference", "dissimilarity"]
+    },
+    {
+      "id": "4A_041",
+      "word": "likert-type",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Relating to a scale used in surveys to measure attitudes or opinions.",
+      "example": "The survey used a likert-type scale to measure residents' satisfaction with local services.",
+      "synonyms": ["rating-scale"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_042",
+      "word": "likewise",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In the same way; similarly.",
+      "example": "Public transport usage increased; likewise, cycling rates rose significantly.",
+      "synonyms": ["similarly", "correspondingly", "in the same way"],
+      "antonyms": ["differently", "conversely"]
+    },
+    {
+      "id": "4A_043",
+      "word": "magnification",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The action or power of magnifying, or the process of enlarging something.",
+      "example": "The magnification of the problem became apparent once nationwide data was analyzed.",
+      "synonyms": ["enlargement", "amplification"],
+      "antonyms": ["reduction", "minimization"]
+    },
+    {
+      "id": "4A_044",
+      "word": "magnificent",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Extremely beautiful, elaborate, or impressive.",
+      "example": "The city's magnificent town hall attracts visitors from around the world.",
+      "synonyms": ["splendid", "impressive", "grand"],
+      "antonyms": ["unimpressive", "modest"]
+    },
+    {
+      "id": "4A_045",
+      "word": "magnify",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To make something appear larger than it is, or to increase its effect.",
+      "example": "Poor drainage systems can magnify the impact of heavy rainfall on urban flooding.",
+      "synonyms": ["amplify", "intensify", "enlarge"],
+      "antonyms": ["reduce", "diminish", "lessen"]
+    },
+    {
+      "id": "4A_046",
+      "word": "magnifying",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Having the effect of making something appear larger or more significant.",
+      "example": "The report used a magnifying lens approach to highlight small-scale local issues.",
+      "synonyms": ["amplifying", "enlarging"],
+      "antonyms": ["reducing", "minimizing"]
+    },
+    {
+      "id": "4A_047",
+      "word": "mainland",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The main landmass of a country or continent, as opposed to islands.",
+      "example": "Ferries connect the island to the mainland several times a day.",
+      "synonyms": ["continent", "main territory"],
+      "antonyms": ["island", "offshore territory"]
+    },
+    {
+      "id": "4A_048",
+      "word": "mainline",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Relating to the primary route of a railway or transport system.",
+      "example": "The town's economy relies heavily on its mainline rail connection to the capital.",
+      "synonyms": ["main", "primary", "principal"],
+      "antonyms": ["branch", "secondary"]
+    },
+    {
+      "id": "4A_049",
+      "word": "mainly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "For the most part; mostly.",
+      "example": "The workforce is mainly employed in the service sector.",
+      "synonyms": ["mostly", "largely", "predominantly"],
+      "antonyms": ["partly", "marginally"]
+    },
+    {
+      "id": "4A_050",
+      "word": "moreover",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In addition to what has already been said; furthermore.",
+      "example": "Moreover, the scheme has proven popular among younger residents.",
+      "synonyms": ["furthermore", "additionally", "besides"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_051",
+      "word": "natural",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Existing in or caused by nature; not made or caused by humans.",
+      "example": "The park preserves one of the region's few remaining natural wetlands.",
+      "synonyms": ["organic", "unspoiled", "wild"],
+      "antonyms": ["artificial", "man-made", "synthetic"]
+    },
+    {
+      "id": "4A_052",
+      "word": "naturalism",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "A style or theory that emphasizes accurate depiction of nature or natural processes.",
+      "example": "The architect's use of naturalism is evident in the building's organic curves.",
+      "synonyms": ["realism"],
+      "antonyms": ["artificiality"]
+    },
+    {
+      "id": "4A_053",
+      "word": "naturalist",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "A person who studies natural history, especially plants and animals.",
+      "example": "A local naturalist led the tour of the city's urban wetland reserve.",
+      "synonyms": ["ecologist", "biologist"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_054",
+      "word": "naturalistic",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Representing things in a way that is accurate and true to life.",
+      "example": "The park's naturalistic design mimics the appearance of an untouched forest.",
+      "synonyms": ["realistic", "lifelike"],
+      "antonyms": ["artificial", "stylized"]
+    },
+    {
+      "id": "4A_055",
+      "word": "naturalized",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Having become established as if native, especially in a new environment.",
+      "example": "Several naturalized plant species now thrive in the city's public gardens.",
+      "synonyms": ["established", "acclimatized"],
+      "antonyms": ["native", "indigenous"]
+    },
+    {
+      "id": "4A_056",
+      "word": "naturally",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that is expected or normal; occurring without artificial intervention.",
+      "example": "Naturally, an increase in population leads to greater demand for housing.",
+      "synonyms": ["inevitably", "understandably", "of course"],
+      "antonyms": ["artificially", "unexpectedly"]
+    },
+    {
+      "id": "4A_057",
+      "word": "nor",
+      "type": "conjunction",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used before the second or last of a set of negatives to introduce a further negative.",
+      "example": "The plan did not reduce congestion, nor did it improve air quality.",
+      "synonyms": ["and not"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_058",
+      "word": "not",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to form a negative statement.",
+      "example": "The proposed development is not expected to affect the historic district.",
+      "synonyms": ["no"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_059",
+      "word": "notable",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Worthy of attention or notice; remarkable.",
+      "example": "There has been a notable increase in cycling since the new lanes opened.",
+      "synonyms": ["remarkable", "significant", "noteworthy"],
+      "antonyms": ["insignificant", "unremarkable"]
+    },
+    {
+      "id": "4A_060",
+      "word": "notably",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that is worthy of attention; particularly.",
+      "example": "Several districts, notably the old town, have seen a surge in tourism.",
+      "synonyms": ["particularly", "especially", "remarkably"],
+      "antonyms": ["unremarkably"]
+    },
+    {
+      "id": "4A_061",
+      "word": "obviously",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that is easily perceived or understood; clearly.",
+      "example": "Obviously, better public transport would reduce reliance on private cars.",
+      "synonyms": ["clearly", "evidently", "plainly"],
+      "antonyms": ["unclearly", "doubtfully"]
+    },
+    {
+      "id": "4A_062",
+      "word": "particular",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Used to single out an individual member of a specified group or category.",
+      "example": "This particular neighborhood has seen the fastest population growth in the city.",
+      "synonyms": ["specific", "individual", "distinct"],
+      "antonyms": ["general", "common"]
+    },
+    {
+      "id": "4A_063",
+      "word": "particularity",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "A distinctive feature or characteristic; the quality of being particular.",
+      "example": "The particularity of the local dialect reflects the region's isolated history.",
+      "synonyms": ["distinctiveness", "specificity"],
+      "antonyms": ["generality"]
+    },
+    {
+      "id": "4A_064",
+      "word": "particularly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To a higher degree than is usual or average; especially.",
+      "example": "The scheme has been particularly effective in reducing traffic in the city center.",
+      "synonyms": ["especially", "notably", "specifically"],
+      "antonyms": ["generally", "unremarkably"]
+    },
+    {
+      "id": "4A_065",
+      "word": "particulars",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Specific details or facts about someone or something.",
+      "example": "The report provides the particulars of each proposed development site.",
+      "synonyms": ["details", "specifics", "specifications"],
+      "antonyms": ["generalities"]
+    },
+    {
+      "id": "4A_066",
+      "word": "particulate",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Relating to or in the form of separate particles.",
+      "example": "Particulate pollution from traffic remains a major concern in the city center.",
+      "synonyms": ["granular", "particle-based"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_067",
+      "word": "plus",
+      "type": "conjunction",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "As well as; in addition to.",
+      "example": "The new station offers faster commutes, plus improved accessibility for disabled passengers.",
+      "synonyms": ["as well as", "in addition to", "and"],
+      "antonyms": ["minus", "without"]
+    },
+    {
+      "id": "4A_068",
+      "word": "plush",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Luxurious and expensive.",
+      "example": "The redeveloped waterfront now features plush apartments overlooking the harbor.",
+      "synonyms": ["luxurious", "opulent", "lavish"],
+      "antonyms": ["plain", "modest", "basic"]
+    },
+    {
+      "id": "4A_069",
+      "word": "predominantly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Mainly; for the most part.",
+      "example": "The city center is predominantly commercial, while the outskirts remain residential.",
+      "synonyms": ["mainly", "mostly", "largely"],
+      "antonyms": ["partly", "marginally"]
+    },
+    {
+      "id": "4A_070",
+      "word": "primarily",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "For the most part; mainly.",
+      "example": "The funding is primarily intended to support public transport infrastructure.",
+      "synonyms": ["mainly", "chiefly", "principally"],
+      "antonyms": ["secondarily", "marginally"]
+    },
+    {
+      "id": "4A_071",
+      "word": "principally",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Mainly; for the most part.",
+      "example": "The area's economy depends principally on tourism and retail trade.",
+      "synonyms": ["mainly", "chiefly", "primarily"],
+      "antonyms": ["marginally", "secondarily"]
+    },
+    {
+      "id": "4A_072",
+      "word": "remark",
+      "type": "verb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "To say something as a comment; to observe or note.",
+      "example": "Analysts remarked on the unexpected speed of the neighborhood's regeneration.",
+      "synonyms": ["comment", "observe", "note"],
+      "antonyms": ["ignore", "disregard"]
+    },
+    {
+      "id": "4A_073",
+      "word": "significantly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that is large or important enough to be noticed; notably.",
+      "example": "Commuting times have significantly decreased since the new rail line opened.",
+      "synonyms": ["considerably", "substantially", "markedly"],
+      "antonyms": ["insignificantly", "marginally"]
+    },
+    {
+      "id": "4A_074",
+      "word": "similar",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Resembling something without being identical.",
+      "example": "Several neighboring towns have adopted similar approaches to urban regeneration.",
+      "synonyms": ["comparable", "alike", "analogous"],
+      "antonyms": ["different", "dissimilar"]
+    },
+    {
+      "id": "4A_075",
+      "word": "similarity",
+      "type": "noun",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "The state of being similar; a resemblance.",
+      "example": "There is a clear similarity between the two cities' transport strategies.",
+      "synonyms": ["resemblance", "likeness", "correspondence"],
+      "antonyms": ["difference", "disparity"]
+    },
+    {
+      "id": "4A_076",
+      "word": "similarly",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a similar way; likewise.",
+      "example": "Similarly, the neighboring district saw a rise in property values.",
+      "synonyms": ["likewise", "correspondingly", "in the same way"],
+      "antonyms": ["differently", "conversely"]
+    },
+    {
+      "id": "4A_077",
+      "word": "together",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "With or in proximity to one another; jointly.",
+      "example": "Residents and planners worked together to redesign the public square.",
+      "synonyms": ["jointly", "collectively", "in unison"],
+      "antonyms": ["separately", "individually"]
+    },
+    {
+      "id": "4A_078",
+      "word": "too",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In addition; also.",
+      "example": "The redevelopment created new jobs; property values rose too.",
+      "synonyms": ["also", "as well", "additionally"],
+      "antonyms": []
+    },
+    {
+      "id": "4A_079",
+      "word": "undeniable",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Unable to be denied or disputed; clearly true.",
+      "example": "The benefits of the new transport system are undeniable.",
+      "synonyms": ["indisputable", "unquestionable", "incontestable"],
+      "antonyms": ["deniable", "disputable"]
+    },
+    {
+      "id": "4A_080",
+      "word": "undeniably",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that cannot be denied; certainly.",
+      "example": "The scheme has undeniably improved air quality in the city center.",
+      "synonyms": ["indisputably", "unquestionably", "certainly"],
+      "antonyms": ["debatably", "questionably"]
+    },
+    {
+      "id": "4A_081",
+      "word": "understandable",
+      "type": "adjective",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "Able to be understood; reasonable given the circumstances.",
+      "example": "Residents' concerns about rising rents are entirely understandable.",
+      "synonyms": ["comprehensible", "reasonable", "justifiable"],
+      "antonyms": ["incomprehensible", "unreasonable"]
+    },
+    {
+      "id": "4A_082",
+      "word": "understandably",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a way that is reasonable or to be expected.",
+      "example": "Understandably, residents were frustrated by the delays to the construction project.",
+      "synonyms": ["reasonably", "naturally", "predictably"],
+      "antonyms": ["unreasonably", "surprisingly"]
+    },
+    {
+      "id": "4A_083",
+      "word": "well",
+      "type": "adverb",
+      "category": "Linking Words: Addition & Reinforcement",
+      "meaning": "In a good, satisfactory, or thorough way; also used as a discourse marker to introduce a remark.",
+      "example": "The new policy has been well received by both residents and businesses.",
+      "synonyms": ["favorably", "thoroughly", "satisfactorily"],
+      "antonyms": ["poorly", "badly"]
     }
   ]
 }

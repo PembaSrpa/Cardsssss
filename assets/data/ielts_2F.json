@@ -4,15 +4,2762 @@
   "words": [
     {
       "id": "2F_001",
-      "word": "placeholder",
+      "word": "abandon",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To leave a place, person, or thing permanently, especially in a situation of difficulty.",
+      "example": "Developers abandoned the project after the site was found to be unstable.",
+      "synonyms": ["desert", "forsake", "relinquish", "vacate"],
+      "antonyms": ["retain", "keep", "maintain"]
+    },
+    {
+      "id": "2F_002",
+      "word": "abandoned",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Left empty or deserted, no longer used or cared for.",
+      "example": "The abandoned factory on the edge of town has become a magnet for graffiti artists.",
+      "synonyms": ["deserted", "derelict", "vacant", "forsaken"],
+      "antonyms": ["occupied", "inhabited", "maintained"]
+    },
+    {
+      "id": "2F_003",
+      "word": "abandonment",
       "type": "noun",
       "category": "Language for Maps & Spatial Changes",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The act of leaving something permanently or giving it up completely.",
+      "example": "The abandonment of the old railway line left a long strip of unused land through the city.",
+      "synonyms": ["desertion", "relinquishment", "withdrawal"],
+      "antonyms": ["retention", "preservation"]
+    },
+    {
+      "id": "2F_004",
+      "word": "above",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In or to a higher position; overhead.",
+      "example": "The new apartments were built above the existing shopping precinct.",
+      "synonyms": ["overhead", "atop", "aloft"],
+      "antonyms": ["below", "beneath", "under"]
+    },
+    {
+      "id": "2F_005",
+      "word": "above-average",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Higher than the typical or usual level.",
+      "example": "The suburb has seen above-average growth in property prices over the past decade.",
+      "synonyms": ["superior", "exceptional", "outstanding"],
+      "antonyms": ["below-average", "subpar", "inferior"]
+    },
+    {
+      "id": "2F_006",
+      "word": "accessible",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Able to be reached, entered, or used easily.",
+      "example": "The new metro line makes the outskirts far more accessible to commuters.",
+      "synonyms": ["reachable", "approachable", "attainable"],
+      "antonyms": ["inaccessible", "remote", "unreachable"]
+    },
+    {
+      "id": "2F_007",
+      "word": "add",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To put something together with another thing so as to increase the size, number, or amount.",
+      "example": "City planners decided to add a cycling lane along the main thoroughfare.",
+      "synonyms": ["append", "attach", "incorporate"],
+      "antonyms": ["remove", "subtract", "take away"]
+    },
+    {
+      "id": "2F_008",
+      "word": "added",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Extra or additional to what already exists.",
+      "example": "The added green space gave residents a welcome escape from the dense urban core.",
+      "synonyms": ["extra", "supplementary", "additional"],
+      "antonyms": ["reduced", "removed", "subtracted"]
+    },
+    {
+      "id": "2F_009",
+      "word": "addict",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who is unable to stop doing or using something habitually.",
+      "example": "Urban planners are sometimes only half-jokingly called addicts of grid layouts.",
+      "synonyms": ["devotee", "fanatic", "enthusiast"],
+      "antonyms": ["quitter", "abstainer"]
+    },
+    {
+      "id": "2F_010",
+      "word": "addiction",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The state of being unable to stop doing or using something, often harmful.",
+      "example": "Some critics argue cities have developed an addiction to car-centric infrastructure.",
+      "synonyms": ["dependency", "compulsion", "obsession"],
+      "antonyms": ["freedom", "abstinence"]
+    },
+    {
+      "id": "2F_011",
+      "word": "addictive",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Causing a strong, often harmful, dependency or habit.",
+      "example": "Suburban sprawl can create an addictive reliance on private vehicles.",
+      "synonyms": ["habit-forming", "compulsive", "dependency-inducing"],
+      "antonyms": ["non-addictive", "harmless"]
+    },
+    {
+      "id": "2F_012",
+      "word": "addition",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person or thing added to something to improve or enlarge it.",
+      "example": "The new pedestrian bridge is a welcome addition to the city's transport network.",
+      "synonyms": ["supplement", "extension", "increase"],
+      "antonyms": ["removal", "subtraction", "reduction"]
+    },
+    {
+      "id": "2F_013",
+      "word": "additional",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Added, extra, or more than what is already present.",
+      "example": "Additional funding was approved for redevelopment of the old dockyards.",
+      "synonyms": ["extra", "supplementary", "further"],
+      "antonyms": ["reduced", "fewer"]
+    },
+    {
+      "id": "2F_014",
+      "word": "additionally",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In addition; besides; also.",
+      "example": "Additionally, the plan proposes widening the main road through the district.",
+      "synonyms": ["also", "furthermore", "moreover"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_015",
+      "word": "additive",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A substance or feature added to something else in relatively small amounts.",
+      "example": "Traffic congestion acts as an additive stressor on already overstretched urban infrastructure.",
+      "synonyms": ["ingredient", "supplement", "component"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_016",
+      "word": "address",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To give attention to or deal with a matter or problem.",
+      "example": "The council must address the housing shortage before the population grows further.",
+      "synonyms": ["tackle", "deal with", "confront"],
+      "antonyms": ["ignore", "neglect", "overlook"]
+    },
+    {
+      "id": "2F_017",
+      "word": "adjacent",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Next to or adjoining something else.",
+      "example": "The new shopping mall was built adjacent to the train station.",
+      "synonyms": ["neighboring", "bordering", "adjoining"],
+      "antonyms": ["distant", "remote", "separate"]
+    },
+    {
+      "id": "2F_018",
+      "word": "aerial",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Existing, happening, or operating in the air, or seen from above.",
+      "example": "An aerial photograph revealed the true extent of the city's sprawl.",
+      "synonyms": ["airborne", "overhead", "elevated"],
+      "antonyms": ["ground-level", "terrestrial"]
+    },
+    {
+      "id": "2F_019",
+      "word": "alongside",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Next to or beside something, often moving in the same direction.",
+      "example": "A new cycle path was constructed alongside the river.",
+      "synonyms": ["beside", "next to", "adjacent to"],
+      "antonyms": ["away from", "apart from"]
+    },
+    {
+      "id": "2F_020",
+      "word": "arid",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having little or no rainfall; extremely dry, often barren.",
+      "example": "Building new suburbs on arid land requires costly water infrastructure.",
+      "synonyms": ["dry", "parched", "barren"],
+      "antonyms": ["fertile", "lush", "humid"]
+    },
+    {
+      "id": "2F_021",
+      "word": "arrange",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To put things in a particular order or position.",
+      "example": "The old town's streets are arranged in a distinctive radial pattern.",
+      "synonyms": ["organize", "order", "position"],
+      "antonyms": ["disorganize", "disarrange"]
+    },
+    {
+      "id": "2F_022",
+      "word": "arrangement",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A way in which people or things are organized or positioned.",
+      "example": "The grid arrangement of streets makes navigation in the city center simple.",
+      "synonyms": ["layout", "configuration", "organization"],
+      "antonyms": ["disorder", "chaos"]
+    },
+    {
+      "id": "2F_023",
+      "word": "beneath",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In or to a lower position; underneath.",
+      "example": "A new metro line was tunneled beneath the historic city center.",
+      "synonyms": ["below", "underneath", "under"],
+      "antonyms": ["above", "over"]
+    },
+    {
+      "id": "2F_024",
+      "word": "border",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A line separating two areas, countries, or regions.",
+      "example": "The border between the two districts follows the course of an old river.",
+      "synonyms": ["boundary", "frontier", "edge"],
+      "antonyms": ["interior", "center"]
+    },
+    {
+      "id": "2F_025",
+      "word": "borderline",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Close to a limit, not clearly belonging to one category or another.",
+      "example": "The area's status as urban or rural remains borderline, with features of both.",
+      "synonyms": ["marginal", "ambiguous", "indeterminate"],
+      "antonyms": ["clear-cut", "definite"]
+    },
+    {
+      "id": "2F_026",
+      "word": "build",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To construct something by putting parts or materials together.",
+      "example": "The city plans to build affordable housing on the vacant lot.",
+      "synonyms": ["construct", "erect", "assemble"],
+      "antonyms": ["demolish", "destroy", "dismantle"]
+    },
+    {
+      "id": "2F_027",
+      "word": "builder",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person or company that constructs buildings.",
+      "example": "Local builders were contracted to renovate the historic town hall.",
+      "synonyms": ["constructor", "contractor", "developer"],
+      "antonyms": ["demolisher"]
+    },
+    {
+      "id": "2F_028",
+      "word": "building",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A structure with a roof and walls, such as a house or factory.",
+      "example": "The tallest building in the district now dominates the skyline.",
+      "synonyms": ["structure", "edifice", "construction"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_029",
+      "word": "bypass",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A road that allows traffic to avoid a town or its center.",
+      "example": "The new bypass has reduced congestion in the historic town center considerably.",
+      "synonyms": ["detour", "ring road", "alternative route"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_030",
+      "word": "central",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Located in or near the center of an area; of primary importance.",
+      "example": "Central districts tend to have much higher property values than the suburbs.",
+      "synonyms": ["core", "middle", "principal"],
+      "antonyms": ["peripheral", "outlying", "marginal"]
+    },
+    {
+      "id": "2F_031",
+      "word": "centrality",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The state of being at the center or of primary importance.",
+      "example": "The centrality of the old market square made it a natural meeting point.",
+      "synonyms": ["importance", "prominence", "significance"],
+      "antonyms": ["marginality", "peripherality"]
+    },
+    {
+      "id": "2F_032",
+      "word": "centralization",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of bringing control of an activity or organization under a single authority.",
+      "example": "Critics argue that centralization of city services has slowed local decision-making.",
+      "synonyms": ["consolidation", "concentration", "unification"],
+      "antonyms": ["decentralization", "dispersal"]
+    },
+    {
+      "id": "2F_033",
+      "word": "centralize",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To bring control of something under a single authority.",
+      "example": "The government decided to centralize planning decisions within one department.",
+      "synonyms": ["consolidate", "concentrate", "unify"],
+      "antonyms": ["decentralize", "disperse"]
+    },
+    {
+      "id": "2F_034",
+      "word": "centralized",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Controlled by a single authority or organization; concentrated in one place.",
+      "example": "A centralized transport hub connects the city's rail and bus networks.",
+      "synonyms": ["concentrated", "consolidated", "unified"],
+      "antonyms": ["decentralized", "dispersed"]
+    },
+    {
+      "id": "2F_035",
+      "word": "centrally",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In or from a central position.",
+      "example": "The new library is centrally located, close to the main square.",
+      "synonyms": ["centrally-positioned"],
+      "antonyms": ["peripherally", "remotely"]
+    },
+    {
+      "id": "2F_036",
+      "word": "civic",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to a city, town, or the citizens who live there.",
+      "example": "Civic pride motivated residents to restore the old town square themselves.",
+      "synonyms": ["municipal", "public", "communal"],
+      "antonyms": ["private", "personal"]
+    },
+    {
+      "id": "2F_037",
+      "word": "civics",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The study of the rights and duties of citizens and how government works.",
+      "example": "Civics classes now include discussions of local urban planning decisions.",
+      "synonyms": ["citizenship studies", "civic education"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_038",
+      "word": "cluster",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A group of similar things positioned or occurring closely together.",
+      "example": "A cluster of high-rise apartments has transformed the once-industrial waterfront.",
+      "synonyms": ["group", "collection", "concentration"],
+      "antonyms": ["scattering", "dispersion"]
+    },
+    {
+      "id": "2F_039",
+      "word": "commerce",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The activity of buying and selling goods and services.",
+      "example": "Commerce along the main street has revived since the pedestrianization project.",
+      "synonyms": ["trade", "business", "dealing"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_040",
+      "word": "commercial",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to or engaged in the buying and selling of goods.",
+      "example": "The zoning laws restrict commercial development in residential neighborhoods.",
+      "synonyms": ["business-related", "trade", "mercantile"],
+      "antonyms": ["residential", "non-commercial"]
+    },
+    {
+      "id": "2F_041",
+      "word": "commercialization",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of managing something in a way designed to make a profit.",
+      "example": "The commercialization of the historic harbor has driven up local rents.",
+      "synonyms": ["monetization", "exploitation"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_042",
+      "word": "commercialize",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To manage or exploit something in a way designed to make a profit.",
+      "example": "Officials plan to commercialize the abandoned pier as a tourist attraction.",
+      "synonyms": ["monetize", "exploit", "market"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_043",
+      "word": "commercially",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In a way relating to commerce or with a focus on profit.",
+      "example": "The old warehouse district has been commercially redeveloped into loft apartments.",
+      "synonyms": ["profitably", "economically"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_044",
+      "word": "compact",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Closely and neatly packed together; small and efficient in design.",
+      "example": "The compact layout of the old town makes it easy to explore on foot.",
+      "synonyms": ["dense", "condensed", "tight"],
+      "antonyms": ["sprawling", "spacious", "spread out"]
+    },
+    {
+      "id": "2F_045",
+      "word": "configuration",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "An arrangement of parts or elements in a particular form or pattern.",
+      "example": "The street configuration was redesigned to reduce traffic bottlenecks.",
+      "synonyms": ["arrangement", "layout", "setup"],
+      "antonyms": ["disarray", "disorder"]
+    },
+    {
+      "id": "2F_046",
+      "word": "configure",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To arrange or set up something in a particular way.",
+      "example": "Engineers configured the new junction to improve traffic flow.",
+      "synonyms": ["arrange", "set up", "organize"],
+      "antonyms": ["disarrange"]
+    },
+    {
+      "id": "2F_047",
+      "word": "connect",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To join or link two or more things together.",
+      "example": "A new bridge will connect the two halves of the city separated by the river.",
+      "synonyms": ["link", "join", "attach"],
+      "antonyms": ["disconnect", "separate", "detach"]
+    },
+    {
+      "id": "2F_048",
+      "word": "connected",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Joined or linked together, especially by transport or communication.",
+      "example": "The suburb is now well connected to the city center by rail.",
+      "synonyms": ["linked", "joined", "networked"],
+      "antonyms": ["isolated", "disconnected"]
+    },
+    {
+      "id": "2F_049",
+      "word": "connectedness",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The state of being connected or linked to other things or people.",
+      "example": "The sense of connectedness among residents grew once the community center opened.",
+      "synonyms": ["interconnection", "unity", "cohesion"],
+      "antonyms": ["isolation", "disconnection"]
+    },
+    {
+      "id": "2F_050",
+      "word": "connecting",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Serving to join or link two or more things.",
+      "example": "The connecting corridor links the old and new wings of the museum.",
+      "synonyms": ["linking", "joining"],
+      "antonyms": ["separating", "dividing"]
+    },
+    {
+      "id": "2F_051",
+      "word": "connection",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A relationship in which one thing links to or affects another.",
+      "example": "The rail connection between the two cities cut travel time in half.",
+      "synonyms": ["link", "association", "relation"],
+      "antonyms": ["disconnection", "separation"]
+    },
+    {
+      "id": "2F_052",
+      "word": "connectivity",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The state of being connected, especially in networks or transport.",
+      "example": "Improved connectivity between suburbs has reduced dependence on private cars.",
+      "synonyms": ["interconnectivity", "linkage", "accessibility"],
+      "antonyms": ["isolation", "disconnection"]
+    },
+    {
+      "id": "2F_053",
+      "word": "connector",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A thing that links or joins two or more things together.",
+      "example": "The overpass serves as a key connector between the industrial zone and the highway.",
+      "synonyms": ["link", "junction", "bridge"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_054",
+      "word": "construct",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To build or erect something, typically a building or structure.",
+      "example": "The city plans to construct three new schools in the expanding suburbs.",
+      "synonyms": ["build", "erect", "assemble"],
+      "antonyms": ["demolish", "dismantle"]
+    },
+    {
+      "id": "2F_055",
+      "word": "construction",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of building something, or a structure that has been built.",
+      "example": "Construction of the new bridge is expected to finish by next year.",
+      "synonyms": ["building", "erection", "assembly"],
+      "antonyms": ["demolition", "destruction"]
+    },
+    {
+      "id": "2F_056",
+      "word": "constructive",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Serving a useful purpose; helpful and positive rather than negative.",
+      "example": "Residents offered constructive feedback during the public planning consultation.",
+      "synonyms": ["helpful", "useful", "positive"],
+      "antonyms": ["destructive", "unhelpful", "negative"]
+    },
+    {
+      "id": "2F_057",
+      "word": "constructivist",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who follows an approach emphasizing building or forming ideas through experience.",
+      "example": "The architect, a committed constructivist, favored bold geometric forms in her city designs.",
+      "synonyms": ["builder-theorist"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_058",
+      "word": "convert",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To change something from one form, use, or purpose to another.",
+      "example": "The old factory was converted into loft apartments for young professionals.",
+      "synonyms": ["transform", "change", "adapt"],
+      "antonyms": ["preserve", "maintain"]
+    },
+    {
+      "id": "2F_059",
+      "word": "converted",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Changed in form, use, or purpose from its original state.",
+      "example": "The converted warehouse now houses trendy cafes and boutiques.",
+      "synonyms": ["transformed", "adapted", "refashioned"],
+      "antonyms": ["original", "unchanged"]
+    },
+    {
+      "id": "2F_060",
+      "word": "converter",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A device or mechanism that changes something from one form to another.",
+      "example": "A power converter was installed to support the district's new electric bus fleet.",
+      "synonyms": ["transformer", "adapter"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_061",
+      "word": "convertible",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Able to be changed or adapted from one form or use to another.",
+      "example": "The building's convertible design allows it to switch between office and residential use.",
+      "synonyms": ["adaptable", "transformable", "flexible"],
+      "antonyms": ["fixed", "permanent"]
+    },
+    {
+      "id": "2F_062",
+      "word": "corridor",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A narrow passage or strip of land connecting two areas.",
+      "example": "The transport corridor links the port to the industrial zone inland.",
+      "synonyms": ["passage", "route", "strip"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_063",
+      "word": "crossroads",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A point where two or more roads meet, or a critical decision point.",
+      "example": "The city stands at a crossroads, choosing between expansion and conservation.",
+      "synonyms": ["junction", "intersection", "turning point"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_064",
+      "word": "demolish",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To pull down or knock down a building deliberately.",
+      "example": "The council voted to demolish the derelict tower blocks next year.",
+      "synonyms": ["raze", "tear down", "level"],
+      "antonyms": ["build", "construct", "erect"]
+    },
+    {
+      "id": "2F_065",
+      "word": "derelict",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Left to fall into disrepair; abandoned and neglected.",
+      "example": "The derelict warehouse has stood empty since the factory closed.",
+      "synonyms": ["abandoned", "dilapidated", "neglected"],
+      "antonyms": ["maintained", "occupied", "well-kept"]
+    },
+    {
+      "id": "2F_066",
+      "word": "design",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A plan or drawing showing the look, function, or workings of something before it is made.",
+      "example": "The design for the new park includes a central amphitheater.",
+      "synonyms": ["plan", "blueprint", "layout"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_067",
+      "word": "designate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To officially assign a status or purpose to something.",
+      "example": "Officials designated the riverside area as a protected conservation zone.",
+      "synonyms": ["assign", "designate", "classify"],
+      "antonyms": ["undesignate"]
+    },
+    {
+      "id": "2F_068",
+      "word": "designated",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Officially assigned a specific status or purpose.",
+      "example": "Cyclists must use the designated lane along the main avenue.",
+      "synonyms": ["assigned", "appointed", "specified"],
+      "antonyms": ["unassigned", "undesignated"]
+    },
+    {
+      "id": "2F_069",
+      "word": "designation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The official classification or name given to something.",
+      "example": "The area's designation as a heritage site protects it from redevelopment.",
+      "synonyms": ["classification", "title", "label"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_070",
+      "word": "designer",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who plans the look or workings of something before it is made.",
+      "example": "The urban designer proposed a series of interconnected green spaces.",
+      "synonyms": ["planner", "architect", "creator"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_071",
+      "word": "develop",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To grow or cause to grow and become more advanced.",
+      "example": "The government plans to develop the vacant land into a new housing estate.",
+      "synonyms": ["expand", "build up", "evolve"],
+      "antonyms": ["decline", "regress", "shrink"]
+    },
+    {
+      "id": "2F_072",
+      "word": "developed",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having reached an advanced stage of economic or social growth.",
+      "example": "The most developed parts of the city now have extensive public transport.",
+      "synonyms": ["advanced", "industrialized", "modernized"],
+      "antonyms": ["undeveloped", "underdeveloped"]
+    },
+    {
+      "id": "2F_073",
+      "word": "developer",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person or company that builds new structures on land.",
+      "example": "A private developer bought the old dockyard to build luxury flats.",
+      "synonyms": ["builder", "contractor", "investor"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_074",
+      "word": "developing",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In the process of economic or social growth; not yet fully developed.",
+      "example": "Developing districts on the city's edge often lack adequate infrastructure.",
+      "synonyms": ["emerging", "growing", "advancing"],
+      "antonyms": ["developed", "established"]
+    },
+    {
+      "id": "2F_075",
+      "word": "development",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of growth or the result of that process, such as new buildings.",
+      "example": "The riverside development includes housing, shops, and a public park.",
+      "synonyms": ["growth", "expansion", "construction"],
+      "antonyms": ["decline", "stagnation"]
+    },
+    {
+      "id": "2F_076",
+      "word": "developmental",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to the process of growth or gradual advancement.",
+      "example": "The report highlighted several developmental challenges facing the expanding suburb.",
+      "synonyms": ["growth-related", "evolutionary"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_077",
+      "word": "developmentally",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In a manner relating to growth or development.",
+      "example": "The district is developmentally behind neighboring areas in terms of infrastructure.",
+      "synonyms": ["progressively"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_078",
+      "word": "dispersal",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of spreading or distributing something over a wide area.",
+      "example": "The dispersal of industry away from the city center reduced congestion.",
+      "synonyms": ["spreading", "scattering", "distribution"],
+      "antonyms": ["concentration", "gathering"]
+    },
+    {
+      "id": "2F_079",
+      "word": "district",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "An area of a country or city regarded as a unit for administrative or other purposes.",
+      "example": "The financial district is home to most of the city's skyscrapers.",
+      "synonyms": ["area", "region", "zone"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_080",
+      "word": "divide",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To separate into parts, or to form a boundary between areas.",
+      "example": "The river divides the old town from the new commercial district.",
+      "synonyms": ["separate", "split", "split up"],
+      "antonyms": ["unite", "join", "merge"]
+    },
+    {
+      "id": "2F_081",
+      "word": "divided",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Separated into parts; split by a boundary or difference.",
+      "example": "Public opinion remains divided over the proposed highway expansion.",
+      "synonyms": ["split", "separated", "fragmented"],
+      "antonyms": ["united", "unified"]
+    },
+    {
+      "id": "2F_082",
+      "word": "dividend",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A benefit or profit received as a result of an action, or a share of profits.",
+      "example": "Improved connectivity paid a dividend in the form of rising local property values.",
+      "synonyms": ["benefit", "payoff", "bonus"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_083",
+      "word": "divider",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A thing that separates or marks a boundary between two areas.",
+      "example": "A landscaped divider now separates the pedestrian and cycling lanes.",
+      "synonyms": ["separator", "partition", "barrier"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_084",
+      "word": "dwell",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To live in or at a specified place; to reside.",
+      "example": "Thousands of families dwell in the high-rise blocks on the city's outskirts.",
+      "synonyms": ["reside", "live", "inhabit"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_085",
+      "word": "dweller",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person or animal that lives in a particular place.",
+      "example": "City dwellers often complain about the lack of green space nearby.",
+      "synonyms": ["resident", "inhabitant", "occupant"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_086",
+      "word": "dwelling",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A house, apartment, or other place of residence.",
+      "example": "New dwellings are being built to accommodate the growing population.",
+      "synonyms": ["residence", "home", "abode"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_087",
+      "word": "east",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The direction toward the point of the horizon where the sun rises.",
+      "example": "The industrial zone lies to the east of the river.",
+      "synonyms": ["orient"],
+      "antonyms": ["west"]
+    },
+    {
+      "id": "2F_088",
+      "word": "eastern",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Situated in or coming from the east.",
+      "example": "Eastern suburbs have grown rapidly thanks to the new rail link.",
+      "synonyms": ["easterly", "oriental"],
+      "antonyms": ["western"]
+    },
+    {
+      "id": "2F_089",
+      "word": "edge",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The outer boundary or limit of an area or object.",
+      "example": "New housing developments are spreading along the edge of the city.",
+      "synonyms": ["border", "boundary", "perimeter"],
+      "antonyms": ["center", "core", "middle"]
+    },
+    {
+      "id": "2F_090",
+      "word": "enclose",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To surround something, especially with a wall, fence, or boundary.",
+      "example": "A high fence encloses the construction site during redevelopment.",
+      "synonyms": ["surround", "encircle", "fence in"],
+      "antonyms": ["open up", "expose"]
+    },
+    {
+      "id": "2F_091",
+      "word": "enclosed",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Surrounded on all sides, especially by a wall or barrier.",
+      "example": "The enclosed courtyard offers residents a quiet, private outdoor space.",
+      "synonyms": ["surrounded", "fenced-in", "walled"],
+      "antonyms": ["open", "exposed"]
+    },
+    {
+      "id": "2F_092",
+      "word": "enclosure",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "An area that has been surrounded by a wall, fence, or barrier.",
+      "example": "The park's wildlife enclosure attracts many visitors on weekends.",
+      "synonyms": ["compound", "pen", "boundary"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_093",
+      "word": "encroach",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To gradually intrude on a person's territory or rights, or extend beyond usual limits.",
+      "example": "Suburban housing continues to encroach on the surrounding farmland.",
+      "synonyms": ["intrude", "trespass", "infringe"],
+      "antonyms": ["retreat", "withdraw"]
+    },
+    {
+      "id": "2F_094",
+      "word": "encroachment",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The gradual intrusion into a territory or area beyond its usual limits.",
+      "example": "Environmentalists warned against further encroachment on the wetlands.",
+      "synonyms": ["intrusion", "infringement", "trespass"],
+      "antonyms": ["withdrawal", "retreat"]
+    },
+    {
+      "id": "2F_095",
+      "word": "erect",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To construct or build something, typically a structure standing upright.",
+      "example": "Workers erected the new footbridge in just three weeks.",
+      "synonyms": ["build", "construct", "raise"],
+      "antonyms": ["demolish", "dismantle", "tear down"]
+    },
+    {
+      "id": "2F_096",
+      "word": "erection",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of constructing or building something upright.",
+      "example": "The erection of the new stadium transformed the neighborhood's skyline.",
+      "synonyms": ["construction", "building", "assembly"],
+      "antonyms": ["demolition"]
+    },
+    {
+      "id": "2F_097",
+      "word": "establish",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To set up or create something on a firm or permanent basis.",
+      "example": "The council established a new market in the town square last year.",
+      "synonyms": ["set up", "found", "create"],
+      "antonyms": ["dissolve", "abolish", "disband"]
+    },
+    {
+      "id": "2F_098",
+      "word": "established",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having existed for a long time and generally accepted or recognized.",
+      "example": "The established neighborhoods near the center have retained much of their character.",
+      "synonyms": ["long-standing", "recognized", "settled"],
+      "antonyms": ["new", "emerging", "fledgling"]
+    },
+    {
+      "id": "2F_099",
+      "word": "establishment",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "An organization, business, or the act of setting one up.",
+      "example": "A new business establishment opened where the old cinema used to stand.",
+      "synonyms": ["institution", "organization", "founding"],
+      "antonyms": ["dissolution", "closure"]
+    },
+    {
+      "id": "2F_100",
+      "word": "estimate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To roughly calculate or judge the value, size, or amount of something.",
+      "example": "Planners estimate that the new district will house 20,000 residents.",
+      "synonyms": ["calculate", "approximate", "gauge"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_101",
+      "word": "estimated",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Roughly calculated; approximate.",
+      "example": "The estimated cost of the redevelopment has risen sharply since last year.",
+      "synonyms": ["approximate", "projected", "calculated"],
+      "antonyms": ["exact", "precise"]
+    },
+    {
+      "id": "2F_102",
+      "word": "estimation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A rough calculation or judgment of the value, size, or amount of something.",
+      "example": "By the planner's estimation, traffic will double within a decade.",
+      "synonyms": ["calculation", "assessment", "judgment"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_103",
+      "word": "existing",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Currently in existence; already present or established.",
+      "example": "The plan aims to improve existing infrastructure rather than build new roads.",
+      "synonyms": ["current", "present", "established"],
+      "antonyms": ["nonexistent", "new", "future"]
+    },
+    {
+      "id": "2F_104",
+      "word": "expand",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To become or make larger in size, number, or extent.",
+      "example": "The city plans to expand its metro network into the outer suburbs.",
+      "synonyms": ["grow", "enlarge", "extend"],
+      "antonyms": ["shrink", "contract", "reduce"]
+    },
+    {
+      "id": "2F_105",
+      "word": "expanded",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Made larger in size, number, or extent.",
+      "example": "The expanded bus network now reaches the far suburbs.",
+      "synonyms": ["enlarged", "extended", "increased"],
+      "antonyms": ["reduced", "contracted"]
+    },
+    {
+      "id": "2F_106",
+      "word": "expanding",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Becoming or being made larger in size, number, or extent.",
+      "example": "The expanding population has put pressure on housing supply.",
+      "synonyms": ["growing", "increasing", "spreading"],
+      "antonyms": ["shrinking", "contracting"]
+    },
+    {
+      "id": "2F_107",
+      "word": "extend",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To make something longer or larger, or to cause it to reach further.",
+      "example": "The council voted to extend the tram line further into the suburbs.",
+      "synonyms": ["lengthen", "prolong", "enlarge"],
+      "antonyms": ["shorten", "reduce", "curtail"]
+    },
+    {
+      "id": "2F_108",
+      "word": "extended",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Made longer, larger, or more comprehensive than before.",
+      "example": "The extended cycle path now connects three separate districts.",
+      "synonyms": ["lengthened", "prolonged", "enlarged"],
+      "antonyms": ["shortened", "reduced", "curtailed"]
+    },
+    {
+      "id": "2F_109",
+      "word": "far",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "At, to, or by a great distance.",
+      "example": "The new housing estate lies far from the city center.",
+      "synonyms": ["distant", "remote", "afar"],
+      "antonyms": ["near", "close"]
+    },
+    {
+      "id": "2F_110",
+      "word": "former",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having previously been a particular thing; earlier in time.",
+      "example": "The former factory site is now a public park.",
+      "synonyms": ["previous", "past", "earlier"],
+      "antonyms": ["current", "present", "latter"]
+    },
+    {
+      "id": "2F_111",
+      "word": "geographic",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to the study of the physical features of the earth.",
+      "example": "The city's geographic position on the coast shaped its economic growth.",
+      "synonyms": ["geographical", "spatial"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_112",
+      "word": "geographical",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to geography, especially the physical or spatial features of a place.",
+      "example": "Geographical barriers such as mountains have limited the city's expansion.",
+      "synonyms": ["geographic", "spatial", "regional"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_113",
+      "word": "geographically",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In terms of geography or physical location.",
+      "example": "The two towns are geographically close but culturally quite distinct.",
+      "synonyms": ["spatially", "regionally"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_114",
+      "word": "incorporate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To include something as part of a whole.",
+      "example": "The new master plan incorporates several parks and green corridors.",
+      "synonyms": ["include", "integrate", "absorb"],
+      "antonyms": ["exclude", "omit", "separate"]
+    },
+    {
+      "id": "2F_115",
+      "word": "incorporation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of including something as part of a whole, or forming a legal entity.",
+      "example": "The incorporation of green roofs into the design reduces the building's energy use.",
+      "synonyms": ["inclusion", "integration"],
+      "antonyms": ["exclusion", "omission"]
+    },
+    {
+      "id": "2F_116",
+      "word": "industrial",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to or characterized by industry, especially manufacturing.",
+      "example": "The old industrial zone has largely been converted into residential lofts.",
+      "synonyms": ["manufacturing", "commercial", "factory-based"],
+      "antonyms": ["agricultural", "residential"]
+    },
+    {
+      "id": "2F_117",
+      "word": "industrialist",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who owns or manages a large industrial enterprise.",
+      "example": "A local industrialist funded the construction of workers' housing near the mill.",
+      "synonyms": ["manufacturer", "businessperson", "magnate"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_118",
+      "word": "industrialization",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The development of industries in a country or region on a wide scale.",
+      "example": "Rapid industrialization drew thousands of workers to the growing city.",
+      "synonyms": ["development", "modernization"],
+      "antonyms": ["deindustrialization"]
+    },
+    {
+      "id": "2F_119",
+      "word": "industrialized",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having developed a lot of industries, especially manufacturing.",
+      "example": "Industrialized areas often struggle with pollution and overcrowding.",
+      "synonyms": ["developed", "manufacturing-based"],
+      "antonyms": ["agrarian", "undeveloped"]
+    },
+    {
+      "id": "2F_120",
+      "word": "industrious",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Diligent and hard-working.",
+      "example": "The industrious community rebuilt the neighborhood after the flood.",
+      "synonyms": ["diligent", "hard-working", "conscientious"],
+      "antonyms": ["lazy", "idle", "indolent"]
+    },
+    {
+      "id": "2F_121",
+      "word": "install",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To place or fix equipment or a system in position for use.",
+      "example": "Engineers installed new traffic lights at the busy junction.",
+      "synonyms": ["set up", "fit", "establish"],
+      "antonyms": ["remove", "uninstall"]
+    },
+    {
+      "id": "2F_122",
+      "word": "installation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of installing something, or equipment that has been put in place.",
+      "example": "The installation of solar panels on public buildings began last spring.",
+      "synonyms": ["setup", "fitting", "establishment"],
+      "antonyms": ["removal"]
+    },
+    {
+      "id": "2F_123",
+      "word": "installment",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "One part of something that is provided or delivered in stages.",
+      "example": "The first installment of the new housing project is due for completion next year.",
+      "synonyms": ["part", "phase", "segment"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_124",
+      "word": "interchange",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A road junction, especially one on a highway, designed for traffic to change routes.",
+      "example": "The new interchange eases congestion where the highway meets the ring road.",
+      "synonyms": ["junction", "intersection", "crossing"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_125",
+      "word": "interchangeable",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Able to be exchanged or substituted for one another.",
+      "example": "In casual speech, 'suburb' and 'neighborhood' are often used as interchangeable terms.",
+      "synonyms": ["equivalent", "exchangeable", "substitutable"],
+      "antonyms": ["distinct", "unique"]
+    },
+    {
+      "id": "2F_126",
+      "word": "introduce",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To bring something into use or existence for the first time.",
+      "example": "The city introduced a congestion charge to reduce traffic in the center.",
+      "synonyms": ["launch", "initiate", "establish"],
+      "antonyms": ["remove", "withdraw", "abolish"]
+    },
+    {
+      "id": "2F_127",
+      "word": "introduction",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of bringing something into use for the first time.",
+      "example": "The introduction of bike-sharing schemes has changed how people commute.",
+      "synonyms": ["launch", "initiation", "establishment"],
+      "antonyms": ["removal", "withdrawal"]
+    },
+    {
+      "id": "2F_128",
+      "word": "introductory",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Serving as an introduction; preliminary.",
+      "example": "An introductory phase of the project will test the new tram route on one street.",
+      "synonyms": ["preliminary", "initial", "opening"],
+      "antonyms": ["concluding", "final"]
+    },
+    {
+      "id": "2F_129",
+      "word": "junction",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A point where two or more roads, railway lines, or rivers meet.",
+      "example": "Traffic often backs up at the junction near the old market.",
+      "synonyms": ["intersection", "crossing", "interchange"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_130",
+      "word": "land-use",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The way in which land is managed or developed, especially for farming, housing, or industry.",
+      "example": "The new land-use policy prioritizes mixed residential and commercial zones.",
+      "synonyms": ["land management", "zoning"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_131",
+      "word": "layout",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The way in which the parts of something are arranged or set out.",
+      "example": "The layout of the old town follows the winding path of the river.",
+      "synonyms": ["arrangement", "design", "plan"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_132",
+      "word": "left",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Positioned on the side opposite the right, or remaining after part is used.",
+      "example": "Turn left at the junction to reach the new shopping precinct.",
+      "synonyms": ["remaining", "port"],
+      "antonyms": ["right"]
+    },
+    {
+      "id": "2F_133",
+      "word": "link",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To connect two or more things together.",
+      "example": "A new tunnel will link the two sides of the city divided by the harbor.",
+      "synonyms": ["connect", "join", "tie"],
+      "antonyms": ["disconnect", "separate", "sever"]
+    },
+    {
+      "id": "2F_134",
+      "word": "linkage",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A connection or relationship linking two or more things.",
+      "example": "The linkage between transport access and property prices is well documented.",
+      "synonyms": ["connection", "relationship", "association"],
+      "antonyms": ["separation", "disconnection"]
+    },
+    {
+      "id": "2F_135",
+      "word": "linked",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Connected or joined together.",
+      "example": "The two districts are linked by a pedestrian bridge over the river.",
+      "synonyms": ["connected", "joined", "tied"],
+      "antonyms": ["disconnected", "separate"]
+    },
+    {
+      "id": "2F_136",
+      "word": "locality",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A particular place, district, or neighborhood.",
+      "example": "House prices vary considerably depending on the locality.",
+      "synonyms": ["area", "neighborhood", "district"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_137",
+      "word": "locate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To discover the exact place or position of something, or to situate something.",
+      "example": "The company decided to locate its new headquarters in the business district.",
+      "synonyms": ["place", "situate", "position"],
+      "antonyms": ["misplace"]
+    },
+    {
+      "id": "2F_138",
+      "word": "location",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A particular place or position where something is situated.",
+      "example": "The location of the new hospital was chosen for its easy transport access.",
+      "synonyms": ["place", "site", "position"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_139",
+      "word": "migrate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To move from one place to live or work in another, often seasonally.",
+      "example": "Many young professionals migrate from rural areas to the city for work.",
+      "synonyms": ["relocate", "move", "resettle"],
+      "antonyms": ["stay", "remain", "settle"]
+    },
+    {
+      "id": "2F_140",
+      "word": "migration",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The movement of people or animals from one place to another.",
+      "example": "Rural-to-urban migration has fueled the rapid growth of the capital.",
+      "synonyms": ["relocation", "movement", "resettlement"],
+      "antonyms": ["settlement", "stability"]
+    },
+    {
+      "id": "2F_141",
+      "word": "migratory",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to or involving migration, especially seasonal movement.",
+      "example": "The wetlands on the city's edge remain important for migratory birds.",
+      "synonyms": ["nomadic", "transient", "wandering"],
+      "antonyms": ["sedentary", "settled"]
+    },
+    {
+      "id": "2F_142",
+      "word": "modernization",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of adapting something to modern needs or habits.",
+      "example": "The modernization of the port has boosted the local economy considerably.",
+      "synonyms": ["renewal", "upgrading", "updating"],
+      "antonyms": ["deterioration", "neglect"]
+    },
+    {
+      "id": "2F_143",
+      "word": "modernize",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To adapt something to modern needs or make it up to date.",
+      "example": "The city plans to modernize its aging water infrastructure over the next decade.",
+      "synonyms": ["update", "upgrade", "renew"],
+      "antonyms": ["neglect", "let deteriorate"]
+    },
+    {
+      "id": "2F_144",
+      "word": "movable",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Able to be moved from one place to another.",
+      "example": "Movable market stalls allow the square to be used for other events at night.",
+      "synonyms": ["portable", "transportable", "mobile"],
+      "antonyms": ["fixed", "stationary", "immovable"]
+    },
+    {
+      "id": "2F_145",
+      "word": "move",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To change position, place of residence, or location.",
+      "example": "Many families are moving to the suburbs in search of larger homes.",
+      "synonyms": ["relocate", "shift", "transfer"],
+      "antonyms": ["stay", "remain"]
+    },
+    {
+      "id": "2F_146",
+      "word": "movement",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "An act of changing position or location, or a group working toward a shared goal.",
+      "example": "The movement of goods through the port has doubled in the past five years.",
+      "synonyms": ["motion", "migration", "shift"],
+      "antonyms": ["stillness", "stagnation"]
+    },
+    {
+      "id": "2F_147",
+      "word": "mover",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person or company that moves goods or possessions, or a person who relocates.",
+      "example": "The mover carefully transported the antique furniture to the new apartment.",
+      "synonyms": ["relocator", "carrier"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_148",
+      "word": "movie",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A motion picture; a film.",
+      "example": "The old cinema that once screened movies has been converted into a bookstore.",
+      "synonyms": ["film", "picture", "motion picture"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_149",
+      "word": "moviegoer",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who goes to watch films at a cinema.",
+      "example": "Moviegoers flocked to the newly restored art-deco cinema downtown.",
+      "synonyms": ["cinemagoer", "filmgoer"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_150",
+      "word": "moving",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Changing position, or emotionally affecting.",
+      "example": "A moving walkway helps passengers travel quickly through the busy transit hub.",
+      "synonyms": ["mobile", "in motion", "touching"],
+      "antonyms": ["stationary", "still"]
+    },
+    {
+      "id": "2F_151",
+      "word": "municipal",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to a town or city, or its local government.",
+      "example": "The municipal government approved funding for a new public library.",
+      "synonyms": ["civic", "local", "town"],
+      "antonyms": ["national", "federal"]
+    },
+    {
+      "id": "2F_152",
+      "word": "municipality",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A town, city, or district with its own local government.",
+      "example": "Several neighboring municipalities agreed to share the cost of the new bridge.",
+      "synonyms": ["town", "city", "borough"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_153",
+      "word": "narrow",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Of small width, especially in relation to length.",
+      "example": "The narrow lanes of the old quarter make car access nearly impossible.",
+      "synonyms": ["thin", "tight", "slender"],
+      "antonyms": ["wide", "broad", "spacious"]
+    },
+    {
+      "id": "2F_154",
+      "word": "narrowly",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "By a small margin, or in a limited way.",
+      "example": "The redevelopment plan narrowly passed the council vote.",
+      "synonyms": ["barely", "just", "closely"],
+      "antonyms": ["comfortably", "easily"]
+    },
+    {
+      "id": "2F_155",
+      "word": "near",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Close by in distance; not far away.",
+      "example": "The apartment is near the central bus station, making commuting easy.",
+      "synonyms": ["close", "nearby", "adjacent"],
+      "antonyms": ["far", "distant", "remote"]
+    },
+    {
+      "id": "2F_156",
+      "word": "nearby",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Situated a short distance away.",
+      "example": "Residents can shop at the nearby market without needing a car.",
+      "synonyms": ["close", "neighboring", "adjacent"],
+      "antonyms": ["distant", "far-off"]
+    },
+    {
+      "id": "2F_157",
+      "word": "neighborhood",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A district or community within a town or city.",
+      "example": "The neighborhood has changed dramatically since the new metro station opened.",
+      "synonyms": ["district", "area", "community"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_158",
+      "word": "new",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Recently made, built, or introduced; not existing before.",
+      "example": "The new stadium replaced an older, smaller venue on the same site.",
+      "synonyms": ["recent", "modern", "novel"],
+      "antonyms": ["old", "existing", "former"]
+    },
+    {
+      "id": "2F_159",
+      "word": "north",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The direction toward the top of a standard map; opposite of south.",
+      "example": "The airport lies to the north of the city, beyond the ring road.",
+      "synonyms": [],
+      "antonyms": ["south"]
+    },
+    {
+      "id": "2F_160",
+      "word": "northern",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Situated in or coming from the north.",
+      "example": "Northern districts have seen slower growth than the booming south side.",
+      "synonyms": ["northerly"],
+      "antonyms": ["southern"]
+    },
+    {
+      "id": "2F_161",
+      "word": "old",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having existed for a long time; not new.",
+      "example": "The old quarter's narrow streets contrast sharply with the modern business district.",
+      "synonyms": ["ancient", "aged", "longstanding"],
+      "antonyms": ["new", "modern", "recent"]
+    },
+    {
+      "id": "2F_162",
+      "word": "opposite",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Positioned on the other side, or completely different.",
+      "example": "The new library was built directly opposite the old town hall.",
+      "synonyms": ["facing", "contrary", "reverse"],
+      "antonyms": ["same", "identical"]
+    },
+    {
+      "id": "2F_163",
+      "word": "opposition",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Resistance or disagreement, or a group opposing something.",
+      "example": "Local opposition to the highway expansion delayed the project for years.",
+      "synonyms": ["resistance", "dissent", "objection"],
+      "antonyms": ["support", "agreement", "approval"]
+    },
+    {
+      "id": "2F_164",
+      "word": "oppositional",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Involving or characterized by resistance or disagreement.",
+      "example": "Residents took an oppositional stance toward the proposed shopping center.",
+      "synonyms": ["resistant", "confrontational", "antagonistic"],
+      "antonyms": ["cooperative", "supportive"]
+    },
+    {
+      "id": "2F_165",
+      "word": "outside",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Not within a particular place or area; external.",
+      "example": "Housing costs are much lower just outside the city limits.",
+      "synonyms": ["outdoors", "externally", "without"],
+      "antonyms": ["inside", "within"]
+    },
+    {
+      "id": "2F_166",
+      "word": "outsider",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who does not belong to a particular group or place.",
+      "example": "Long-term residents sometimes view new arrivals as outsiders.",
+      "synonyms": ["stranger", "newcomer", "non-member"],
+      "antonyms": ["insider", "native", "local"]
+    },
+    {
+      "id": "2F_167",
+      "word": "outskirts",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The outer areas of a town or city, away from the center.",
+      "example": "New warehouses have been built on the outskirts of the city.",
+      "synonyms": ["periphery", "edge", "suburbs"],
+      "antonyms": ["center", "downtown", "core"]
+    },
+    {
+      "id": "2F_168",
+      "word": "overhaul",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To thoroughly examine and repair or improve something.",
+      "example": "The city plans to overhaul its aging sewage system next year.",
+      "synonyms": ["revamp", "renovate", "modernize"],
+      "antonyms": ["neglect", "leave unchanged"]
+    },
+    {
+      "id": "2F_169",
+      "word": "overlap",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To partly cover or coincide with something.",
+      "example": "The two districts' zoning boundaries overlap in several places.",
+      "synonyms": ["coincide", "intersect", "converge"],
+      "antonyms": ["diverge", "separate"]
+    },
+    {
+      "id": "2F_170",
+      "word": "overlapping",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Partly covering or coinciding with something else.",
+      "example": "Overlapping bus routes have made the network confusing for new residents.",
+      "synonyms": ["coinciding", "intersecting", "superimposed"],
+      "antonyms": ["distinct", "separate"]
+    },
+    {
+      "id": "2F_171",
+      "word": "overlay",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A thing laid over another, or a covering layer.",
+      "example": "Planners used a digital overlay to compare old and new street layouts.",
+      "synonyms": ["layer", "covering", "superimposition"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_172",
+      "word": "pedestrian",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person walking rather than traveling in a vehicle.",
+      "example": "The new plaza is reserved exclusively for pedestrians.",
+      "synonyms": ["walker", "foot-traveler"],
+      "antonyms": ["driver", "motorist"]
+    },
+    {
+      "id": "2F_173",
+      "word": "perimeter",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The outer boundary of an area or object.",
+      "example": "A cycle path now runs along the perimeter of the industrial park.",
+      "synonyms": ["boundary", "border", "edge"],
+      "antonyms": ["center", "interior", "core"]
+    },
+    {
+      "id": "2F_174",
+      "word": "peripheral",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to or situated on the edge or periphery of something.",
+      "example": "Peripheral neighborhoods often receive less investment than the city center.",
+      "synonyms": ["outlying", "marginal", "fringe"],
+      "antonyms": ["central", "core", "main"]
+    },
+    {
+      "id": "2F_175",
+      "word": "periphery",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The outer limits or edge of an area, as opposed to its center.",
+      "example": "Industrial estates are typically located on the periphery of the city.",
+      "synonyms": ["edge", "margin", "outskirts"],
+      "antonyms": ["center", "core", "middle"]
+    },
+    {
+      "id": "2F_176",
+      "word": "plan",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A detailed proposal for doing or achieving something.",
+      "example": "The city's master plan outlines development for the next twenty years.",
+      "synonyms": ["scheme", "blueprint", "proposal"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_177",
+      "word": "plane",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A flat surface, or an aircraft.",
+      "example": "Passengers can catch a plane from the airport located just outside the city.",
+      "synonyms": ["aircraft", "flat surface"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_178",
+      "word": "planet",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A large celestial body orbiting a star.",
+      "example": "The observatory on the hill offers views of several planets on clear nights.",
+      "synonyms": ["celestial body", "world"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_179",
+      "word": "planetarium",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A building with a domed ceiling used to project images of stars and planets.",
+      "example": "The city built a new planetarium as part of its science museum expansion.",
+      "synonyms": ["observatory theater"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_180",
+      "word": "planetary",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to a planet or planets.",
+      "example": "The museum's planetary exhibit is a popular attraction for school groups.",
+      "synonyms": ["celestial", "astronomical"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_181",
+      "word": "plank",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A long, flat piece of timber used in construction.",
+      "example": "Workers laid wooden planks across the muddy construction site.",
+      "synonyms": ["board", "timber", "beam"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_182",
+      "word": "planned",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Decided on or organized in advance.",
+      "example": "The planned expansion of the metro system will take another decade to complete.",
+      "synonyms": ["scheduled", "organized", "proposed"],
+      "antonyms": ["unplanned", "spontaneous"]
+    },
+    {
+      "id": "2F_183",
+      "word": "planner",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who plans something, especially a town or city development.",
+      "example": "The urban planner presented her proposal for the new riverside district.",
+      "synonyms": ["designer", "organizer", "strategist"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_184",
+      "word": "planning",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of making detailed plans, especially for future development.",
+      "example": "City planning must balance housing needs with environmental concerns.",
+      "synonyms": ["organization", "design", "strategy"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_185",
+      "word": "plantain",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A starchy fruit similar to a banana, used in cooking.",
+      "example": "Street vendors near the market sell fried plantain to passersby.",
+      "synonyms": ["cooking banana"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_186",
+      "word": "plantation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A large estate or farm where crops are cultivated, or an area of planted trees.",
+      "example": "The old plantation on the city's edge has been preserved as a heritage site.",
+      "synonyms": ["estate", "farm", "tree farm"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_187",
+      "word": "planter",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A container for growing plants, or a person who owns or manages a plantation.",
+      "example": "Large stone planters now line the pedestrianized high street.",
+      "synonyms": ["plant container", "grower"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_188",
+      "word": "planting",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of putting plants or seeds into the ground to grow.",
+      "example": "Tree planting along the boulevard has softened the urban streetscape.",
+      "synonyms": ["cultivation", "sowing"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_189",
+      "word": "plot",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A small area of land marked out for building or planting.",
+      "example": "The developer bought a vacant plot near the train station.",
+      "synonyms": ["lot", "parcel", "site"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_190",
+      "word": "plotter",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A device that draws graphics or plans, or a person who plans secretly.",
+      "example": "The architect used a large-format plotter to print the site plans.",
+      "synonyms": ["schemer", "drawing device"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_191",
+      "word": "populous",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having a large population; densely inhabited.",
+      "example": "The populous inner suburbs place heavy demand on local services.",
+      "synonyms": ["crowded", "densely populated", "teeming"],
+      "antonyms": ["sparse", "unpopulated", "empty"]
+    },
+    {
+      "id": "2F_192",
+      "word": "posit",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To put forward as fact or as a basis for argument.",
+      "example": "Urban theorists posit that dense housing reduces overall carbon emissions.",
+      "synonyms": ["propose", "suggest", "postulate"],
+      "antonyms": ["refute", "reject"]
+    },
+    {
+      "id": "2F_193",
+      "word": "position",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The place where someone or something is located, or a job or rank.",
+      "example": "The building's position near the waterfront made it highly desirable.",
+      "synonyms": ["location", "place", "site"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_194",
+      "word": "positioning",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The way in which something is placed or the strategy behind its placement.",
+      "example": "Careful positioning of the new school reduced travel times for most pupils.",
+      "synonyms": ["placement", "location strategy"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_195",
+      "word": "positive",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Favorable, constructive, or expressing agreement.",
+      "example": "Residents gave largely positive feedback on the pedestrianization scheme.",
+      "synonyms": ["favorable", "beneficial", "constructive"],
+      "antonyms": ["negative", "unfavorable", "adverse"]
+    },
+    {
+      "id": "2F_196",
+      "word": "positively",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In a favorable or constructive way; definitely.",
+      "example": "The new park has positively affected property values in the surrounding streets.",
+      "synonyms": ["favorably", "beneficially", "constructively"],
+      "antonyms": ["negatively", "adversely"]
+    },
+    {
+      "id": "2F_197",
+      "word": "proposed",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Put forward for consideration or discussion.",
+      "example": "The proposed highway would cut directly through the historic district.",
+      "synonyms": ["suggested", "planned", "intended"],
+      "antonyms": ["rejected", "abandoned"]
+    },
+    {
+      "id": "2F_198",
+      "word": "proximal",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Located near to a point of reference, especially anatomically or spatially.",
+      "example": "Housing in the proximal zone around the station commands a significant price premium.",
+      "synonyms": ["nearby", "adjacent", "close"],
+      "antonyms": ["distal", "distant"]
+    },
+    {
+      "id": "2F_199",
+      "word": "proximity",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Nearness in space, time, or relationship.",
+      "example": "The apartment's proximity to the university makes it popular with students.",
+      "synonyms": ["nearness", "closeness", "adjacency"],
+      "antonyms": ["distance", "remoteness"]
+    },
+    {
+      "id": "2F_200",
+      "word": "quarter",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A district or area of a town, or one of four equal parts.",
+      "example": "The Latin Quarter is known for its narrow, winding streets.",
+      "synonyms": ["district", "area", "neighborhood"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_201",
+      "word": "quarter-century",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A period of twenty-five years.",
+      "example": "Over the past quarter-century, the city's population has doubled.",
+      "synonyms": ["25-year period"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_202",
+      "word": "quarterback",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A position in American football responsible for directing the team's offense.",
+      "example": "The stadium was built partly to attract a professional quarterback and his team.",
+      "synonyms": ["signal-caller"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_203",
+      "word": "quarterfinal",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A match or round preceding the semifinal in a competition.",
+      "example": "The new arena hosted its first quarterfinal match last month.",
+      "synonyms": ["last-eight round"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_204",
+      "word": "quarterly",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Occurring or produced four times a year.",
+      "example": "The planning committee publishes a quarterly report on development progress.",
+      "synonyms": ["seasonal", "every three months"],
+      "antonyms": ["annual", "monthly"]
+    },
+    {
+      "id": "2F_205",
+      "word": "radius",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A straight line from the center of a circle to its edge, or a surrounding area.",
+      "example": "New shops are not permitted within a one-mile radius of the school.",
+      "synonyms": ["range", "span", "area"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_206",
+      "word": "rebuild",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To build something again after it has been damaged or demolished.",
+      "example": "The city chose to rebuild the historic bridge exactly as it once stood.",
+      "synonyms": ["reconstruct", "restore", "redevelop"],
+      "antonyms": ["demolish", "destroy"]
+    },
+    {
+      "id": "2F_207",
+      "word": "rebuilding",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of building something again after damage or demolition.",
+      "example": "Rebuilding of the flood-damaged district is expected to take several years.",
+      "synonyms": ["reconstruction", "restoration"],
+      "antonyms": ["demolition", "destruction"]
+    },
+    {
+      "id": "2F_208",
+      "word": "reconstruct",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To build or form something again after it has been damaged or demolished.",
+      "example": "Engineers plan to reconstruct the collapsed section of the seawall.",
+      "synonyms": ["rebuild", "restore", "recreate"],
+      "antonyms": ["demolish", "destroy"]
+    },
+    {
+      "id": "2F_209",
+      "word": "reconstruction",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of rebuilding something that has been damaged or destroyed.",
+      "example": "Reconstruction of the war-damaged quarter took nearly a decade.",
+      "synonyms": ["rebuilding", "restoration"],
+      "antonyms": ["demolition", "destruction"]
+    },
+    {
+      "id": "2F_210",
+      "word": "reconstructive",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to the rebuilding or restoring of something.",
+      "example": "The city launched a reconstructive program to repair the flood defenses.",
+      "synonyms": ["restorative", "rebuilding"],
+      "antonyms": ["destructive"]
+    },
+    {
+      "id": "2F_211",
+      "word": "recreation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Activity done for enjoyment when not working; leisure.",
+      "example": "The park provides much-needed recreation space for the densely populated district.",
+      "synonyms": ["leisure", "relaxation", "amusement"],
+      "antonyms": ["work", "labor"]
+    },
+    {
+      "id": "2F_212",
+      "word": "recreational",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to activities done for enjoyment during leisure time.",
+      "example": "The waterfront now offers extensive recreational facilities, including a running track.",
+      "synonyms": ["leisure", "entertainment-related"],
+      "antonyms": ["occupational", "work-related"]
+    },
+    {
+      "id": "2F_213",
+      "word": "redevelopment",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of developing an area again, especially by rebuilding.",
+      "example": "The redevelopment of the old harbor created thousands of new jobs.",
+      "synonyms": ["renewal", "regeneration", "reconstruction"],
+      "antonyms": ["neglect", "decline"]
+    },
+    {
+      "id": "2F_214",
+      "word": "relocate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To move to a new place, especially for work or business.",
+      "example": "The company decided to relocate its offices to a cheaper suburb.",
+      "synonyms": ["move", "transfer", "resettle"],
+      "antonyms": ["stay", "remain"]
+    },
+    {
+      "id": "2F_215",
+      "word": "relocation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of moving to a new place.",
+      "example": "The relocation of the factory freed up valuable land near the city center.",
+      "synonyms": ["move", "transfer", "resettlement"],
+      "antonyms": ["retention"]
+    },
+    {
+      "id": "2F_216",
+      "word": "removable",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Able to be taken away or detached.",
+      "example": "The market stalls are removable, allowing the square to host other events.",
+      "synonyms": ["detachable", "portable"],
+      "antonyms": ["fixed", "permanent", "immovable"]
+    },
+    {
+      "id": "2F_217",
+      "word": "removal",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of taking something away or getting rid of it.",
+      "example": "The removal of the old flyover opened up space for a new public square.",
+      "synonyms": ["elimination", "extraction", "withdrawal"],
+      "antonyms": ["installation", "addition"]
+    },
+    {
+      "id": "2F_218",
+      "word": "remove",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To take something away from a particular place or position.",
+      "example": "Workers removed the derelict billboard that had stood for decades.",
+      "synonyms": ["take away", "eliminate", "extract"],
+      "antonyms": ["add", "install", "insert"]
+    },
+    {
+      "id": "2F_219",
+      "word": "renovate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To restore something, especially a building, to a good state of repair.",
+      "example": "The council plans to renovate the crumbling town hall next spring.",
+      "synonyms": ["restore", "refurbish", "modernize"],
+      "antonyms": ["neglect", "dilapidate"]
+    },
+    {
+      "id": "2F_220",
+      "word": "renovated",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Restored to a good state of repair.",
+      "example": "The renovated theater reopened to enthusiastic crowds last weekend.",
+      "synonyms": ["restored", "refurbished", "modernized"],
+      "antonyms": ["dilapidated", "neglected"]
+    },
+    {
+      "id": "2F_221",
+      "word": "renovation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of restoring something to a good state of repair.",
+      "example": "Renovation of the old library took almost two years to complete.",
+      "synonyms": ["restoration", "refurbishment", "overhaul"],
+      "antonyms": ["neglect", "decay"]
+    },
+    {
+      "id": "2F_222",
+      "word": "replace",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To put a new or different thing in the place of something.",
+      "example": "The city plans to replace the old wooden bridge with a steel one.",
+      "synonyms": ["substitute", "exchange", "supersede"],
+      "antonyms": ["retain", "keep"]
+    },
+    {
+      "id": "2F_223",
+      "word": "replacement",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person or thing that takes the place of another.",
+      "example": "A modern glass structure serves as the replacement for the old market hall.",
+      "synonyms": ["substitute", "successor", "stand-in"],
+      "antonyms": ["original"]
+    },
+    {
+      "id": "2F_224",
+      "word": "resident",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who lives permanently in a particular place.",
+      "example": "Local residents were consulted before the redevelopment plans were approved.",
+      "synonyms": ["inhabitant", "occupant", "local"],
+      "antonyms": ["visitor", "tourist", "outsider"]
+    },
+    {
+      "id": "2F_225",
+      "word": "residential",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Designed for or containing housing rather than offices or shops.",
+      "example": "The area was rezoned from industrial to residential use.",
+      "synonyms": ["housing-related", "domestic"],
+      "antonyms": ["commercial", "industrial"]
+    },
+    {
+      "id": "2F_226",
+      "word": "restoration",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action of returning something to its former condition.",
+      "example": "The restoration of the historic cathedral took over a decade to complete.",
+      "synonyms": ["renovation", "repair", "reconstruction"],
+      "antonyms": ["deterioration", "neglect"]
+    },
+    {
+      "id": "2F_227",
+      "word": "restorative",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Having the ability to restore health, strength, or good condition.",
+      "example": "The restorative work on the old bridge preserved its original stone arches.",
+      "synonyms": ["healing", "reparative", "rejuvenating"],
+      "antonyms": ["destructive", "damaging"]
+    },
+    {
+      "id": "2F_228",
+      "word": "restore",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To return something to its former condition, place, or position.",
+      "example": "Volunteers worked to restore the abandoned garden to its original design.",
+      "synonyms": ["renovate", "repair", "reconstruct"],
+      "antonyms": ["damage", "neglect", "ruin"]
+    },
+    {
+      "id": "2F_229",
+      "word": "restored",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Returned to a former or original condition.",
+      "example": "The restored facade gives the building back its nineteenth-century charm.",
+      "synonyms": ["renovated", "repaired", "reconstructed"],
+      "antonyms": ["damaged", "neglected", "ruined"]
+    },
+    {
+      "id": "2F_230",
+      "word": "restoring",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "In the process of returning something to its former condition.",
+      "example": "Craftsmen are restoring the ornate ceiling of the old opera house.",
+      "synonyms": ["renovating", "repairing", "reconstructing"],
+      "antonyms": ["damaging", "neglecting"]
+    },
+    {
+      "id": "2F_231",
+      "word": "right",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A moral or legal entitlement, or a direction opposite to left.",
+      "example": "Residents have the right to be consulted on major planning decisions.",
+      "synonyms": ["entitlement", "privilege"],
+      "antonyms": ["wrong", "left"]
+    },
+    {
+      "id": "2F_232",
+      "word": "roadway",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The part of a road used by vehicles.",
+      "example": "The roadway was widened to accommodate the increase in traffic.",
+      "synonyms": ["road", "highway", "thoroughfare"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_233",
+      "word": "rural",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to the countryside rather than urban areas.",
+      "example": "Many young people leave rural areas in search of city jobs.",
+      "synonyms": ["countryside", "agricultural", "pastoral"],
+      "antonyms": ["urban", "metropolitan", "city"]
+    },
+    {
+      "id": "2F_234",
+      "word": "separate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To set or keep apart; to divide.",
+      "example": "A row of trees separates the residential street from the busy road.",
+      "synonyms": ["divide", "split", "isolate"],
+      "antonyms": ["combine", "unite", "join"]
+    },
+    {
+      "id": "2F_235",
+      "word": "separated",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Set apart or divided from something else.",
+      "example": "The two neighborhoods remain physically separated by the railway line.",
+      "synonyms": ["divided", "split", "isolated"],
+      "antonyms": ["joined", "united", "combined"]
+    },
+    {
+      "id": "2F_236",
+      "word": "separately",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Apart from something else; not together.",
+      "example": "The two zones were developed separately, resulting in a mismatched streetscape.",
+      "synonyms": ["individually", "independently", "apart"],
+      "antonyms": ["together", "jointly"]
+    },
+    {
+      "id": "2F_237",
+      "word": "separating",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Serving to divide or keep apart.",
+      "example": "A separating wall was built to shield the housing estate from highway noise.",
+      "synonyms": ["dividing", "isolating"],
+      "antonyms": ["joining", "uniting"]
+    },
+    {
+      "id": "2F_238",
+      "word": "separation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The action or state of being divided or set apart.",
+      "example": "The separation of pedestrian and vehicle traffic has improved safety downtown.",
+      "synonyms": ["division", "split", "divide"],
+      "antonyms": ["union", "combination"]
+    },
+    {
+      "id": "2F_239",
+      "word": "separatist",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who supports the separation of a group or area from a larger body.",
+      "example": "Local separatists campaigned for the district to form its own municipality.",
+      "synonyms": ["secessionist"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_240",
+      "word": "situate",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To place something in a particular position or context.",
+      "example": "The new stadium was situated close to the transport hub for convenience.",
+      "synonyms": ["locate", "place", "position"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_241",
+      "word": "situation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The set of circumstances or the location of something.",
+      "example": "The housing situation in the capital has become increasingly difficult.",
+      "synonyms": ["circumstances", "condition", "location"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_242",
+      "word": "situational",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to a particular set of circumstances or context.",
+      "example": "Situational factors, such as nearby schools, strongly influence property prices.",
+      "synonyms": ["contextual", "circumstantial"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_243",
+      "word": "south",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The direction opposite north, toward the bottom of a standard map.",
+      "example": "The port lies to the south of the main commercial district.",
+      "synonyms": [],
+      "antonyms": ["north"]
+    },
+    {
+      "id": "2F_244",
+      "word": "southern",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Situated in or coming from the south.",
+      "example": "Southern neighborhoods have attracted new investment thanks to the coastal views.",
+      "synonyms": ["southerly"],
+      "antonyms": ["northern"]
+    },
+    {
+      "id": "2F_245",
+      "word": "sprawl",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The uncontrolled spread of urban development into surrounding areas.",
+      "example": "Unchecked sprawl has swallowed up much of the farmland around the city.",
+      "synonyms": ["expansion", "spread", "overgrowth"],
+      "antonyms": ["containment", "compactness"]
+    },
+    {
+      "id": "2F_246",
+      "word": "sprawling",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Spreading out over a large area in an untidy or irregular way.",
+      "example": "The sprawling suburbs stretch for miles beyond the city limits.",
+      "synonyms": ["spreading", "expansive", "rambling"],
+      "antonyms": ["compact", "contained", "concentrated"]
+    },
+    {
+      "id": "2F_247",
+      "word": "street",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A public road in a city or town, typically lined with buildings.",
+      "example": "Market stalls line the narrow street every Saturday morning.",
+      "synonyms": ["road", "avenue", "lane"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_248",
+      "word": "streetcar",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A vehicle powered by electricity that runs on rails along city streets.",
+      "example": "The city reintroduced streetcars along the main avenue after decades without them.",
+      "synonyms": ["tram", "trolley"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_249",
+      "word": "streetlight",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A lamp mounted on a post to illuminate a street.",
+      "example": "New LED streetlights have made the neighborhood feel much safer at night.",
+      "synonyms": ["street lamp", "lamppost"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_250",
+      "word": "suburb",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A residential district located on the outskirts of a city.",
+      "example": "Many families choose to raise children in a quiet suburb rather than downtown.",
+      "synonyms": ["outskirts", "residential district"],
+      "antonyms": ["city center", "downtown"]
+    },
+    {
+      "id": "2F_251",
+      "word": "suburban",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to or characteristic of a suburb.",
+      "example": "Suburban living often means longer commutes but larger homes.",
+      "synonyms": ["residential", "outlying"],
+      "antonyms": ["urban", "metropolitan"]
+    },
+    {
+      "id": "2F_252",
+      "word": "suburbia",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Suburban areas or their inhabitants collectively.",
+      "example": "Suburbia has expanded rapidly as city centers become too expensive for families.",
+      "synonyms": ["the suburbs"],
+      "antonyms": ["urban core"]
+    },
+    {
+      "id": "2F_253",
+      "word": "surround",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To be all around something on every side.",
+      "example": "A green belt of parkland surrounds much of the old city walls.",
+      "synonyms": ["encircle", "enclose", "envelop"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_254",
+      "word": "surrounding",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Being all around a particular place or area.",
+      "example": "The surrounding countryside is gradually being absorbed into the expanding city.",
+      "synonyms": ["neighboring", "adjacent", "nearby"],
+      "antonyms": ["distant", "remote"]
+    },
+    {
+      "id": "2F_255",
+      "word": "surroundings",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The area or conditions around a place, thing, or person.",
+      "example": "The new apartment blocks blend poorly with their historic surroundings.",
+      "synonyms": ["environment", "vicinity", "setting"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_256",
+      "word": "terrain",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A stretch of land, especially considered in terms of its physical features.",
+      "example": "The hilly terrain made it difficult to lay out a regular street grid.",
+      "synonyms": ["landscape", "ground", "topography"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_257",
+      "word": "thoroughfare",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A main road or route through a city or district.",
+      "example": "The main thoroughfare was closed for the weekend street festival.",
+      "synonyms": ["main road", "highway", "artery"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_258",
+      "word": "transform",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To change markedly in form, appearance, or character.",
+      "example": "The redevelopment plan aims to transform the derelict harbor into a lively waterfront.",
+      "synonyms": ["change", "convert", "revolutionize"],
+      "antonyms": ["preserve", "maintain"]
+    },
+    {
+      "id": "2F_259",
+      "word": "transformation",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A marked change in form, appearance, or character.",
+      "example": "The transformation of the old rail yard into a public park took five years.",
+      "synonyms": ["change", "conversion", "overhaul"],
+      "antonyms": ["preservation", "stability"]
+    },
+    {
+      "id": "2F_260",
+      "word": "transformative",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Causing a marked and often significant change.",
+      "example": "The new subway line has had a transformative effect on the neighboring district.",
+      "synonyms": ["revolutionary", "radical", "groundbreaking"],
+      "antonyms": ["negligible", "insignificant"]
+    },
+    {
+      "id": "2F_261",
+      "word": "transformer",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A device that changes the voltage of an electric current, or an agent of change.",
+      "example": "A new transformer station was built to support the growing power demand.",
+      "synonyms": ["converter"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_262",
+      "word": "transit",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The movement of people or goods from one place to another, often by public transport.",
+      "example": "Public transit ridership has climbed steadily since the new line opened.",
+      "synonyms": ["transportation", "transport", "conveyance"],
+      "antonyms": []
+    },
+    {
+      "id": "2F_263",
+      "word": "transitory",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Not permanent; lasting only for a short time.",
+      "example": "The pop-up market occupies a transitory space until permanent shops move in.",
+      "synonyms": ["temporary", "fleeting", "brief"],
+      "antonyms": ["permanent", "lasting", "enduring"]
+    },
+    {
+      "id": "2F_264",
+      "word": "transmit",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To send or pass something from one place, person, or thing to another.",
+      "example": "Fiber-optic cables transmit data across the city's business district.",
+      "synonyms": ["send", "convey", "relay"],
+      "antonyms": ["receive", "withhold"]
+    },
+    {
+      "id": "2F_265",
+      "word": "transmitted",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Sent or passed from one place, person, or thing to another.",
+      "example": "Traffic data is transmitted in real time to the city's control center.",
+      "synonyms": ["conveyed", "relayed", "sent"],
+      "antonyms": ["received", "withheld"]
+    },
+    {
+      "id": "2F_266",
+      "word": "transmitter",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A device that sends out a signal or broadcast.",
+      "example": "A new radio transmitter was installed atop the tallest building downtown.",
+      "synonyms": ["broadcaster", "sender"],
+      "antonyms": ["receiver"]
+    },
+    {
+      "id": "2F_267",
+      "word": "urban",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Relating to a town or city, as opposed to the countryside.",
+      "example": "Rapid urban growth has placed enormous strain on the city's housing stock.",
+      "synonyms": ["metropolitan", "city", "municipal"],
+      "antonyms": ["rural", "rustic", "pastoral"]
+    },
+    {
+      "id": "2F_268",
+      "word": "urbanization",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process by which towns and cities grow and become more developed.",
+      "example": "Urbanization has accelerated as more people move from farms to factories.",
+      "synonyms": ["city growth", "metropolitan expansion"],
+      "antonyms": ["ruralization"]
+    },
+    {
+      "id": "2F_269",
+      "word": "village",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A small settlement, generally smaller than a town, in a rural area.",
+      "example": "The village has retained its old character despite the nearby city's expansion.",
+      "synonyms": ["hamlet", "settlement"],
+      "antonyms": ["city", "metropolis"]
+    },
+    {
+      "id": "2F_270",
+      "word": "villager",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "A person who lives in a village.",
+      "example": "Villagers protested against plans to route the new highway through their fields.",
+      "synonyms": ["local", "resident", "inhabitant"],
+      "antonyms": ["city dweller"]
+    },
+    {
+      "id": "2F_271",
+      "word": "west",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The direction opposite east, toward where the sun sets.",
+      "example": "The new business park was built to the west of the airport.",
+      "synonyms": [],
+      "antonyms": ["east"]
+    },
+    {
+      "id": "2F_272",
+      "word": "western",
+      "type": "adjective",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Situated in or coming from the west.",
+      "example": "Western districts of the city have seen the sharpest rise in rents.",
+      "synonyms": ["westerly"],
+      "antonyms": ["eastern"]
+    },
+    {
+      "id": "2F_273",
+      "word": "widen",
+      "type": "verb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "To make or become wider.",
+      "example": "The council decided to widen the main road to ease congestion.",
+      "synonyms": ["broaden", "expand", "enlarge"],
+      "antonyms": ["narrow", "constrict"]
+    },
+    {
+      "id": "2F_274",
+      "word": "widening",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "The process of making something wider.",
+      "example": "The widening of the highway displaced several small businesses along its route.",
+      "synonyms": ["broadening", "expansion"],
+      "antonyms": ["narrowing"]
+    },
+    {
+      "id": "2F_275",
+      "word": "within",
+      "type": "adverb",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "Inside or contained by the limits of something.",
+      "example": "All the amenities residents need lie within walking distance.",
+      "synonyms": ["inside", "internally"],
+      "antonyms": ["outside", "beyond"]
+    },
+    {
+      "id": "2F_276",
+      "word": "zone",
+      "type": "noun",
+      "category": "Language for Maps & Spatial Changes",
+      "meaning": "An area with particular characteristics, uses, or features.",
+      "example": "The waterfront was designated a mixed-use zone for shops and housing.",
+      "synonyms": ["area", "district", "sector"],
       "antonyms": []
     }
   ]

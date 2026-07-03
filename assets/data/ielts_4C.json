@@ -4,16 +4,1083 @@
   "words": [
     {
       "id": "4C_001",
-      "word": "placeholder",
+      "word": "accord",
       "type": "noun",
       "category": "Linking Words: Cause, Effect & Conclusion",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "An agreement or treaty, or a state of harmony between parties.",
+      "example": "The trade accord led to a significant increase in cross-border investment.",
+      "synonyms": ["agreement", "treaty", "pact"],
+      "antonyms": ["disagreement", "conflict"]
+    },
+    {
+      "id": "4C_002",
+      "word": "accordance",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Agreement or conformity with a rule, standard, or fact.",
+      "example": "The new building was constructed in accordance with strict environmental regulations.",
+      "synonyms": ["conformity", "compliance", "agreement"],
+      "antonyms": ["deviation", "violation"]
+    },
+    {
+      "id": "4C_003",
+      "word": "according",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "As stated by or in agreement with a particular source.",
+      "example": "According to recent statistics, unemployment fell as a result of the new policy.",
+      "synonyms": ["as stated by", "as reported by"],
       "antonyms": []
+    },
+    {
+      "id": "4C_004",
+      "word": "accordingly",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "As a result of something; consequently, in a way that is appropriate to the situation.",
+      "example": "Demand fell sharply, and prices dropped accordingly.",
+      "synonyms": ["consequently", "therefore", "thus"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_005",
+      "word": "accordion",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A portable musical instrument played by pressing keys and pumping bellows.",
+      "example": "A busker played the accordion near the entrance to the market.",
+      "synonyms": ["concertina"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_006",
+      "word": "allow",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To give permission for something, or to make something possible.",
+      "example": "The new zoning law allows mixed-use development in previously residential areas.",
+      "synonyms": ["permit", "enable", "authorize"],
+      "antonyms": ["forbid", "prohibit", "ban"]
+    },
+    {
+      "id": "4C_007",
+      "word": "allowable",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Permitted, especially according to rules or regulations.",
+      "example": "The permitted building height is the maximum allowable under local planning rules.",
+      "synonyms": ["permissible", "acceptable", "authorized"],
+      "antonyms": ["prohibited", "forbidden"]
+    },
+    {
+      "id": "4C_008",
+      "word": "allowance",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "An amount of something permitted, or a consideration made for a particular factor.",
+      "example": "The budget includes an allowance for unexpected construction costs.",
+      "synonyms": ["provision", "allocation", "concession"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_009",
+      "word": "as",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Used to indicate a reason or cause; because.",
+      "example": "As demand increased, developers rushed to build new apartment blocks.",
+      "synonyms": ["because", "since", "given that"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_010",
+      "word": "because",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "For the reason that; since.",
+      "example": "Traffic worsened because the new highway attracted more commuters than expected.",
+      "synonyms": ["since", "as", "given that"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_011",
+      "word": "catalyst",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A person or thing that causes an event or change to happen.",
+      "example": "The new rail link acted as a catalyst for economic growth in the region.",
+      "synonyms": ["trigger", "spark", "impetus"],
+      "antonyms": ["deterrent", "hindrance"]
+    },
+    {
+      "id": "4C_012",
+      "word": "consequence",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A result or effect of an action or condition.",
+      "example": "One consequence of rapid urbanization is increased pressure on public services.",
+      "synonyms": ["result", "outcome", "effect"],
+      "antonyms": ["cause", "origin"]
+    },
+    {
+      "id": "4C_013",
+      "word": "consequently",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "As a result; therefore.",
+      "example": "Fuel prices rose sharply; consequently, public transport use increased.",
+      "synonyms": ["therefore", "as a result", "thus"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_014",
+      "word": "contribute",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To give something in order to help achieve or bring about a result.",
+      "example": "Poor drainage contributed significantly to the severity of the flooding.",
+      "synonyms": ["add to", "help cause", "play a part in"],
+      "antonyms": ["detract from", "hinder"]
+    },
+    {
+      "id": "4C_015",
+      "word": "contributing",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Helping to cause or bring about a result.",
+      "example": "Rising rents were a major contributing factor to the city's population decline.",
+      "synonyms": ["contributory", "causative"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_016",
+      "word": "contribution",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Something given or done that helps to achieve or cause a result.",
+      "example": "The report highlights the contribution of green spaces to public wellbeing.",
+      "synonyms": ["input", "role", "part"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_017",
+      "word": "contributor",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A person or thing that helps to bring about a result.",
+      "example": "Car emissions remain a major contributor to urban air pollution.",
+      "synonyms": ["cause", "factor", "source"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_018",
+      "word": "create",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To bring something into existence.",
+      "example": "The investment is expected to create thousands of new jobs.",
+      "synonyms": ["produce", "generate", "establish"],
+      "antonyms": ["destroy", "eliminate"]
+    },
+    {
+      "id": "4C_019",
+      "word": "created",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Brought into existence.",
+      "example": "The newly created park has become a popular gathering place for residents.",
+      "synonyms": ["established", "formed", "generated"],
+      "antonyms": ["destroyed", "removed"]
+    },
+    {
+      "id": "4C_020",
+      "word": "creation",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The action of bringing something into existence.",
+      "example": "The creation of new bike lanes has encouraged more sustainable commuting.",
+      "synonyms": ["formation", "establishment", "generation"],
+      "antonyms": ["destruction", "elimination"]
+    },
+    {
+      "id": "4C_021",
+      "word": "creationism",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The belief that the universe and living organisms originate from specific acts of divine creation.",
+      "example": "The debate between creationism and evolutionary theory continues in some educational curricula.",
+      "synonyms": [],
+      "antonyms": ["evolutionism"]
+    },
+    {
+      "id": "4C_022",
+      "word": "creative",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Involving the use of imagination or original ideas to create something.",
+      "example": "The city adopted a creative solution to reduce traffic without building new roads.",
+      "synonyms": ["inventive", "imaginative", "innovative"],
+      "antonyms": ["unimaginative", "conventional"]
+    },
+    {
+      "id": "4C_023",
+      "word": "creatively",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "In a way that involves imagination or original ideas.",
+      "example": "Planners creatively repurposed the abandoned factory as a community arts center.",
+      "synonyms": ["inventively", "imaginatively", "innovatively"],
+      "antonyms": ["conventionally"]
+    },
+    {
+      "id": "4C_024",
+      "word": "creator",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A person or thing that brings something into existence.",
+      "example": "The creator of the urban renewal programme received an award for innovation.",
+      "synonyms": ["originator", "founder", "author"],
+      "antonyms": ["destroyer"]
+    },
+    {
+      "id": "4C_025",
+      "word": "creature",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A living being, especially an animal.",
+      "example": "Urban wetlands provide habitats for many creatures displaced by development.",
+      "synonyms": ["animal", "organism", "being"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_026",
+      "word": "demonstrate",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To clearly show the existence or truth of something by evidence or reasoning.",
+      "example": "The study demonstrates a clear link between green space and reduced stress levels.",
+      "synonyms": ["show", "prove", "illustrate"],
+      "antonyms": ["disprove", "refute"]
+    },
+    {
+      "id": "4C_027",
+      "word": "demonstration",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "An act of showing or proving something clearly.",
+      "example": "The pilot scheme served as a demonstration of the benefits of car-free streets.",
+      "synonyms": ["illustration", "proof", "exhibition"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_028",
+      "word": "demonstrator",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A person who takes part in a public protest, or who shows how something works.",
+      "example": "Demonstrators gathered outside city hall to protest the planned demolition.",
+      "synonyms": ["protester", "presenter"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_029",
+      "word": "due",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Caused by or resulting from a particular factor.",
+      "example": "The delay was due to unexpected complications during construction.",
+      "synonyms": ["owing to", "caused by", "resulting from"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_030",
+      "word": "duel",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A formal contest between two people or sides, often to settle a dispute.",
+      "example": "The debate became a political duel between the two mayoral candidates.",
+      "synonyms": ["contest", "confrontation", "battle"],
+      "antonyms": ["cooperation"]
+    },
+    {
+      "id": "4C_031",
+      "word": "dues",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Fees paid regularly for membership of an organization.",
+      "example": "Residents pay annual dues to fund the upkeep of the community park.",
+      "synonyms": ["fees", "subscription", "charges"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_032",
+      "word": "duet",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A musical composition or performance for two performers.",
+      "example": "The two architects worked in a kind of design duet, blending their distinct styles.",
+      "synonyms": ["pair", "duo"],
+      "antonyms": ["solo"]
+    },
+    {
+      "id": "4C_033",
+      "word": "enable",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To give someone or something the ability or means to do something.",
+      "example": "The new bridge enables faster travel between the two districts.",
+      "synonyms": ["allow", "permit", "facilitate"],
+      "antonyms": ["prevent", "hinder", "block"]
+    },
+    {
+      "id": "4C_034",
+      "word": "ensuing",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Happening afterward or as a result of a previous event.",
+      "example": "The ensuing debate over funding delayed the project by several months.",
+      "synonyms": ["following", "resulting", "subsequent"],
+      "antonyms": ["preceding", "prior"]
+    },
+    {
+      "id": "4C_035",
+      "word": "ensure",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To make certain that something happens or is the case.",
+      "example": "Strict building codes ensure the safety of high-rise construction.",
+      "synonyms": ["guarantee", "secure", "confirm"],
+      "antonyms": ["jeopardize", "risk"]
+    },
+    {
+      "id": "4C_036",
+      "word": "for",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Because; since (used to introduce a reason, in formal writing).",
+      "example": "The scheme was postponed, for funding had not yet been secured.",
+      "synonyms": ["because", "since", "as"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_037",
+      "word": "generate",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To produce or bring something into existence.",
+      "example": "The new stadium is expected to generate significant tourism revenue.",
+      "synonyms": ["produce", "create", "yield"],
+      "antonyms": ["consume", "eliminate"]
+    },
+    {
+      "id": "4C_038",
+      "word": "generating",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Producing or causing something.",
+      "example": "The revenue-generating potential of the new mall attracted several investors.",
+      "synonyms": ["producing", "yielding"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_039",
+      "word": "generation",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The production of something, or a group of people born around the same time.",
+      "example": "The generation of jobs was a key aim of the redevelopment project.",
+      "synonyms": ["production", "creation"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_040",
+      "word": "generational",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Relating to a generation, or occurring over multiple generations.",
+      "example": "The city faces a generational shift in housing preferences toward smaller apartments.",
+      "synonyms": ["intergenerational"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_041",
+      "word": "generator",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A machine that produces electricity, or a thing that causes something to occur.",
+      "example": "Tourism has become a major generator of income for the historic district.",
+      "synonyms": ["source", "producer"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_042",
+      "word": "given",
+      "type": "preposition",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Taking into account; considering.",
+      "example": "Given the rising population, new housing is urgently needed.",
+      "synonyms": ["considering", "in view of", "taking into account"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_043",
+      "word": "hence",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "For this reason; therefore.",
+      "example": "The area lacks public transport; hence, most residents rely on cars.",
+      "synonyms": ["therefore", "thus", "consequently"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_044",
+      "word": "henceforth",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "From this time on; from now on.",
+      "example": "Henceforth, all new buildings must meet strict energy efficiency standards.",
+      "synonyms": ["from now on", "hereafter"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_045",
+      "word": "how",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "In what way or manner; used to ask about method or cause.",
+      "example": "The report explains how traffic congestion affects local air quality.",
+      "synonyms": ["in what way"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_046",
+      "word": "if",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Introducing a condition that leads to a particular result.",
+      "example": "If public transport improves, car dependency is likely to decline.",
+      "synonyms": ["provided that", "assuming"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_047",
+      "word": "implicate",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To show that someone or something is involved in causing a result.",
+      "example": "The report implicates poor planning decisions in the area's economic decline.",
+      "synonyms": ["involve", "associate", "connect"],
+      "antonyms": ["exonerate", "clear"]
+    },
+    {
+      "id": "4C_048",
+      "word": "implication",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A likely consequence of an action or decision.",
+      "example": "The policy has serious implications for low-income housing availability.",
+      "synonyms": ["consequence", "effect", "ramification"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_049",
+      "word": "implicit",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Suggested or understood without being directly stated.",
+      "example": "There is an implicit assumption that new roads will always reduce congestion.",
+      "synonyms": ["implied", "unstated", "tacit"],
+      "antonyms": ["explicit", "stated"]
+    },
+    {
+      "id": "4C_050",
+      "word": "implicitly",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "In a way that is suggested but not directly stated.",
+      "example": "The proposal implicitly assumes that residents will accept higher taxes.",
+      "synonyms": ["tacitly", "impliedly"],
+      "antonyms": ["explicitly"]
+    },
+    {
+      "id": "4C_051",
+      "word": "implied",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Suggested though not directly expressed.",
+      "example": "The report's implied conclusion is that current policies have failed.",
+      "synonyms": ["suggested", "implicit", "inferred"],
+      "antonyms": ["explicit", "stated"]
+    },
+    {
+      "id": "4C_052",
+      "word": "influenza",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A contagious viral infection affecting the respiratory system.",
+      "example": "A severe influenza outbreak strained the city's healthcare system last winter.",
+      "synonyms": ["flu"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_053",
+      "word": "inhibit",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To hinder, restrain, or prevent an action or process.",
+      "example": "Strict zoning laws can inhibit the development of affordable housing.",
+      "synonyms": ["hinder", "restrain", "impede"],
+      "antonyms": ["encourage", "facilitate", "promote"]
+    },
+    {
+      "id": "4C_054",
+      "word": "inhibition",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The act of restraining or preventing a process or action.",
+      "example": "The inhibition of new construction has worsened the city's housing shortage.",
+      "synonyms": ["restraint", "restriction", "suppression"],
+      "antonyms": ["promotion", "encouragement"]
+    },
+    {
+      "id": "4C_055",
+      "word": "inhibitor",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A factor or substance that restrains or slows down a process.",
+      "example": "High land prices remain the biggest inhibitor of new housing development.",
+      "synonyms": ["deterrent", "obstacle", "barrier"],
+      "antonyms": ["facilitator", "catalyst"]
+    },
+    {
+      "id": "4C_056",
+      "word": "leading",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Causing or resulting in a particular outcome; most important.",
+      "example": "Traffic congestion is the leading cause of complaints among city residents.",
+      "synonyms": ["primary", "principal", "main"],
+      "antonyms": ["minor", "secondary"]
+    },
+    {
+      "id": "4C_057",
+      "word": "light",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Not heavy; of little weight or intensity.",
+      "example": "Light traffic in the early morning allows for a quicker commute.",
+      "synonyms": ["minimal", "slight"],
+      "antonyms": ["heavy", "intense"]
+    },
+    {
+      "id": "4C_058",
+      "word": "light-hearted",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Cheerful and carefree; not serious.",
+      "example": "The community festival added a light-hearted atmosphere to the busy downtown area.",
+      "synonyms": ["cheerful", "carefree", "playful"],
+      "antonyms": ["serious", "somber"]
+    },
+    {
+      "id": "4C_059",
+      "word": "light-year",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A unit of astronomical distance equal to the distance light travels in a year.",
+      "example": "The new planetarium exhibit explains distances measured in light-years.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4C_060",
+      "word": "lightbulb",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A glass device that produces light when connected to an electrical current.",
+      "example": "The city replaced every streetlamp lightbulb with an energy-efficient LED.",
+      "synonyms": ["bulb"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_061",
+      "word": "lighted",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Illuminated; provided with light.",
+      "example": "The newly lighted pathway has improved pedestrian safety at night.",
+      "synonyms": ["illuminated", "lit"],
+      "antonyms": ["unlit", "dark"]
+    },
+    {
+      "id": "4C_062",
+      "word": "lighten",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To make something less heavy, serious, or bright.",
+      "example": "The tax reduction was designed to lighten the financial burden on small businesses.",
+      "synonyms": ["ease", "reduce", "relieve"],
+      "antonyms": ["worsen", "increase"]
+    },
+    {
+      "id": "4C_063",
+      "word": "lighter",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Less heavy, intense, or serious in comparison.",
+      "example": "Lighter traffic on weekends makes the city center more pleasant to walk through.",
+      "synonyms": ["reduced", "milder"],
+      "antonyms": ["heavier", "more intense"]
+    },
+    {
+      "id": "4C_064",
+      "word": "lighthouse",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A tower with a bright light that warns or guides ships.",
+      "example": "The old lighthouse has become a landmark and tourist attraction for the coastal town.",
+      "synonyms": ["beacon"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_065",
+      "word": "lighting",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Equipment or arrangements for providing artificial light.",
+      "example": "Improved street lighting has led to a reduction in nighttime crime.",
+      "synonyms": ["illumination"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_066",
+      "word": "lightly",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To a small degree; gently or with little force.",
+      "example": "The new policy was only lightly enforced in its first year.",
+      "synonyms": ["gently", "mildly", "slightly"],
+      "antonyms": ["heavily", "severely"]
+    },
+    {
+      "id": "4C_067",
+      "word": "lightness",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The state of being light in weight, intensity, or mood.",
+      "example": "The building's lightness of design gives the plaza an open, airy feel.",
+      "synonyms": ["airiness", "buoyancy"],
+      "antonyms": ["heaviness", "density"]
+    },
+    {
+      "id": "4C_068",
+      "word": "lightning",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A flash of bright light produced by an electrical discharge during a storm.",
+      "example": "Lightning strikes caused a power outage across several city blocks.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4C_069",
+      "word": "lightweight",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Of less than average weight; not heavy or substantial.",
+      "example": "Engineers used lightweight materials to speed up construction of the new bridge.",
+      "synonyms": ["light", "portable"],
+      "antonyms": ["heavyweight", "bulky"]
+    },
+    {
+      "id": "4C_070",
+      "word": "manifestation",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A visible sign or expression of something, often as a result of an underlying cause.",
+      "example": "Rising rents are one manifestation of the city's growing housing crisis.",
+      "synonyms": ["expression", "sign", "indication"],
+      "antonyms": ["concealment"]
+    },
+    {
+      "id": "4C_071",
+      "word": "output",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The amount of something produced by a person, machine, or system.",
+      "example": "Industrial output increased significantly following the port's expansion.",
+      "synonyms": ["production", "yield", "result"],
+      "antonyms": ["input"]
+    },
+    {
+      "id": "4C_072",
+      "word": "owing",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Resulting from or caused by; due to (used with 'to').",
+      "example": "Owing to heavy rainfall, the construction schedule was delayed by several weeks.",
+      "synonyms": ["due to", "because of", "as a result of"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_073",
+      "word": "permit",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To allow something to happen or be done.",
+      "example": "The revised zoning laws now permit taller buildings in the city center.",
+      "synonyms": ["allow", "authorize", "enable"],
+      "antonyms": ["forbid", "prohibit", "ban"]
+    },
+    {
+      "id": "4C_074",
+      "word": "pivot",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To change direction or approach significantly, often in response to new circumstances.",
+      "example": "The city pivoted toward sustainable transport after years of relying on cars.",
+      "synonyms": ["shift", "turn", "change course"],
+      "antonyms": ["persist", "continue unchanged"]
+    },
+    {
+      "id": "4C_075",
+      "word": "pivotal",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Of crucial importance in relation to the development of something.",
+      "example": "The new rail link played a pivotal role in the region's economic recovery.",
+      "synonyms": ["crucial", "critical", "key"],
+      "antonyms": ["minor", "insignificant"]
+    },
+    {
+      "id": "4C_076",
+      "word": "prevent",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To stop something from happening or someone from doing something.",
+      "example": "Better drainage systems can prevent flooding during heavy rainfall.",
+      "synonyms": ["stop", "avert", "hinder"],
+      "antonyms": ["allow", "enable", "cause"]
+    },
+    {
+      "id": "4C_077",
+      "word": "preventable",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Able to be stopped from happening.",
+      "example": "Many traffic accidents in the city are entirely preventable with better road design.",
+      "synonyms": ["avoidable", "avertable"],
+      "antonyms": ["inevitable", "unavoidable"]
+    },
+    {
+      "id": "4C_078",
+      "word": "preventative",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Intended to stop something undesirable from happening.",
+      "example": "The council introduced preventative measures to reduce the risk of flooding.",
+      "synonyms": ["preventive", "precautionary"],
+      "antonyms": ["reactive"]
+    },
+    {
+      "id": "4C_079",
+      "word": "prevention",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The action of stopping something from happening.",
+      "example": "Flood prevention has become a top priority for coastal cities.",
+      "synonyms": ["avoidance", "deterrence"],
+      "antonyms": ["causation", "promotion"]
+    },
+    {
+      "id": "4C_080",
+      "word": "preventive",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Designed to stop something happening; preventative.",
+      "example": "Preventive maintenance has reduced the number of road closures citywide.",
+      "synonyms": ["preventative", "precautionary"],
+      "antonyms": ["reactive"]
+    },
+    {
+      "id": "4C_081",
+      "word": "produce",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To make or bring about something as a result of a process.",
+      "example": "The factory produces enough goods to supply the entire region.",
+      "synonyms": ["generate", "create", "manufacture"],
+      "antonyms": ["consume", "destroy"]
+    },
+    {
+      "id": "4C_082",
+      "word": "producer",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A person, company, or country that makes or grows something.",
+      "example": "The region is a major producer of renewable energy in the country.",
+      "synonyms": ["manufacturer", "maker", "creator"],
+      "antonyms": ["consumer"]
+    },
+    {
+      "id": "4C_083",
+      "word": "product",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Something produced as a result of a process; an item made for sale.",
+      "example": "Improved public transport is a direct product of years of infrastructure investment.",
+      "synonyms": ["result", "output", "outcome"],
+      "antonyms": ["cause", "source"]
+    },
+    {
+      "id": "4C_084",
+      "word": "production",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The process of making or manufacturing something.",
+      "example": "Local production of building materials has lowered construction costs.",
+      "synonyms": ["manufacturing", "output", "generation"],
+      "antonyms": ["consumption"]
+    },
+    {
+      "id": "4C_085",
+      "word": "productive",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Producing or able to produce large amounts of goods, results, or work.",
+      "example": "The redevelopment created a more productive business district for the city.",
+      "synonyms": ["efficient", "fruitful", "effective"],
+      "antonyms": ["unproductive", "ineffective"]
+    },
+    {
+      "id": "4C_086",
+      "word": "productivity",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The rate at which goods or services are produced, especially in relation to resources used.",
+      "example": "Better transport links have boosted worker productivity across the region.",
+      "synonyms": ["efficiency", "output rate"],
+      "antonyms": ["inefficiency"]
+    },
+    {
+      "id": "4C_087",
+      "word": "propagate",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To spread and promote widely, or to breed or reproduce.",
+      "example": "Social media helped propagate awareness of the city's new recycling scheme.",
+      "synonyms": ["spread", "disseminate", "promote"],
+      "antonyms": ["suppress", "contain"]
+    },
+    {
+      "id": "4C_088",
+      "word": "propagation",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The spreading or promotion of something, or the breeding of plants or animals.",
+      "example": "The propagation of car-sharing schemes has reduced private vehicle ownership in the city.",
+      "synonyms": ["spread", "dissemination"],
+      "antonyms": ["suppression", "containment"]
+    },
+    {
+      "id": "4C_089",
+      "word": "resulting",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Occurring as a consequence of something.",
+      "example": "The resulting congestion forced the city to reconsider its road-widening plan.",
+      "synonyms": ["consequent", "resultant"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_090",
+      "word": "since",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Because; given that.",
+      "example": "Since public transport is unreliable, many residents continue to drive.",
+      "synonyms": ["because", "as", "given that"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_091",
+      "word": "sincere",
+      "type": "adjective",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Genuine and honest in feeling or intention.",
+      "example": "The mayor expressed sincere concern about the impact of the redevelopment on low-income families.",
+      "synonyms": ["genuine", "honest", "heartfelt"],
+      "antonyms": ["insincere", "false"]
+    },
+    {
+      "id": "4C_092",
+      "word": "sincerely",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "In a genuine and honest manner.",
+      "example": "The committee sincerely believes the new policy will reduce congestion.",
+      "synonyms": ["genuinely", "honestly", "truly"],
+      "antonyms": ["insincerely", "falsely"]
+    },
+    {
+      "id": "4C_093",
+      "word": "sincerity",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "The quality of being genuine, honest, and free from pretense.",
+      "example": "Residents questioned the sincerity of the developer's promises about affordable housing.",
+      "synonyms": ["genuineness", "honesty", "authenticity"],
+      "antonyms": ["insincerity", "hypocrisy"]
+    },
+    {
+      "id": "4C_094",
+      "word": "so",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "Used to introduce a result or consequence; therefore.",
+      "example": "The road was closed, so commuters had to find alternative routes.",
+      "synonyms": ["therefore", "consequently", "thus"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_095",
+      "word": "then",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "As a consequence; in that case.",
+      "example": "If funding is approved, construction can then begin next spring.",
+      "synonyms": ["consequently", "in that case"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_096",
+      "word": "thereby",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "By that means; as a result of that action.",
+      "example": "The city cut bus fares, thereby encouraging more residents to use public transport.",
+      "synonyms": ["thus", "by this means", "consequently"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_097",
+      "word": "therefore",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "For that reason; consequently.",
+      "example": "The bridge was deemed unsafe; therefore, it was closed for repairs.",
+      "synonyms": ["consequently", "thus", "hence"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_098",
+      "word": "thus",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "As a result or consequence of this; therefore.",
+      "example": "The scheme reduced emissions and thus improved public health outcomes.",
+      "synonyms": ["therefore", "consequently", "hence"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_099",
+      "word": "trigger",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To cause an event or situation to happen or begin.",
+      "example": "The announcement triggered a wave of protests against the demolition plan.",
+      "synonyms": ["cause", "spark", "set off"],
+      "antonyms": ["prevent", "avert"]
+    },
+    {
+      "id": "4C_100",
+      "word": "view",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "An opinion or way of considering something; also, a sight or prospect.",
+      "example": "In view of the funding shortage, the project was scaled back.",
+      "synonyms": ["opinion", "perspective", "outlook"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_101",
+      "word": "viewer",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A person who watches or observes something.",
+      "example": "Viewers of the documentary gained new insight into the city's redevelopment struggles.",
+      "synonyms": ["observer", "watcher", "spectator"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_102",
+      "word": "viewing",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "An occasion of watching or inspecting something.",
+      "example": "The public viewing of the redevelopment model attracted hundreds of residents.",
+      "synonyms": ["inspection", "showing"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_103",
+      "word": "viewpoint",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A particular attitude or way of considering a matter; a perspective.",
+      "example": "From an economic viewpoint, the new port has been a resounding success.",
+      "synonyms": ["perspective", "standpoint", "outlook"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_104",
+      "word": "virtue",
+      "type": "noun",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "A quality considered morally good; also used to mean 'because of' in the phrase 'by virtue of'.",
+      "example": "By virtue of its coastal location, the city became a major trading port.",
+      "synonyms": ["merit", "goodness"],
+      "antonyms": ["vice", "flaw"]
+    },
+    {
+      "id": "4C_105",
+      "word": "when",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "At the time that; used to introduce the circumstance leading to a result.",
+      "example": "Congestion worsens when schools and offices open at the same time.",
+      "synonyms": ["at the time that", "whenever"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_106",
+      "word": "where",
+      "type": "conjunction",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "In or at which place or situation; used to introduce a condition or context.",
+      "example": "Where public transport is limited, car ownership tends to be higher.",
+      "synonyms": ["in cases where", "in situations where"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_107",
+      "word": "why",
+      "type": "adverb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "For what reason or cause.",
+      "example": "The report explains why housing costs have risen so sharply in the city center.",
+      "synonyms": ["for what reason"],
+      "antonyms": []
+    },
+    {
+      "id": "4C_108",
+      "word": "yield",
+      "type": "verb",
+      "category": "Linking Words: Cause, Effect & Conclusion",
+      "meaning": "To produce or provide a result, such as a profit or crop.",
+      "example": "The investment in public transport is expected to yield long-term economic benefits.",
+      "synonyms": ["produce", "generate", "provide"],
+      "antonyms": ["fail to produce", "withhold"]
     }
   ]
 }

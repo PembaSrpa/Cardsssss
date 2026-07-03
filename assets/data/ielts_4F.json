@@ -4,16 +4,2293 @@
   "words": [
     {
       "id": "4F_001",
-      "word": "placeholder",
+      "word": "absolute",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Complete and total; not qualified or diminished in any way.",
+      "example": "She gave an absolute answer with no hesitation or hedging.",
+      "synonyms": ["complete", "total", "utter"],
+      "antonyms": ["partial", "qualified"]
+    },
+    {
+      "id": "4F_002",
+      "word": "absolutely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Totally; used to emphasize agreement or certainty.",
+      "example": "'Absolutely,' she said, when asked if practice had improved her fluency.",
+      "synonyms": ["totally", "completely", "definitely"],
+      "antonyms": ["not at all"]
+    },
+    {
+      "id": "4F_003",
+      "word": "actual",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Existing in fact; real, as opposed to imagined or expected.",
+      "example": "The actual exam felt easier than she had expected after weeks of practice.",
+      "synonyms": ["real", "genuine", "true"],
+      "antonyms": ["imagined", "hypothetical"]
+    },
+    {
+      "id": "4F_004",
+      "word": "actuality",
       "type": "noun",
       "category": "Idiomatic Expressions & Fillers (Speaking)",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The state of existing in reality; fact.",
+      "example": "In actuality, her nerves disappeared within the first minute of speaking.",
+      "synonyms": ["reality", "fact"],
+      "antonyms": ["fantasy", "fiction"]
+    },
+    {
+      "id": "4F_005",
+      "word": "actually",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "As the truth or facts of a situation; used to correct or clarify.",
+      "example": "She actually found the second question easier than the first.",
+      "synonyms": ["in fact", "really", "truly"],
       "antonyms": []
+    },
+    {
+      "id": "4F_006",
+      "word": "admittedly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to introduce a statement acknowledging something, often a weakness.",
+      "example": "Admittedly, she still stumbled slightly over one unfamiliar word.",
+      "synonyms": ["granted", "it must be said"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_007",
+      "word": "almost",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Very nearly, but not quite.",
+      "example": "She almost forgot to give an example to support her opinion.",
+      "synonyms": ["nearly", "practically", "virtually"],
+      "antonyms": ["completely", "entirely"]
+    },
+    {
+      "id": "4F_008",
+      "word": "altogether",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Completely; with everything considered.",
+      "example": "Altogether, her performance in the speaking test was impressive.",
+      "synonyms": ["completely", "entirely", "overall"],
+      "antonyms": ["partially"]
+    },
+    {
+      "id": "4F_009",
+      "word": "apparent",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Clearly visible or understood; seemingly true, though not necessarily so.",
+      "example": "Her improvement was apparent to everyone who had watched her practice.",
+      "synonyms": ["evident", "obvious", "clear"],
+      "antonyms": ["unclear", "hidden"]
+    },
+    {
+      "id": "4F_010",
+      "word": "apparently",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "As far as one knows or can see; it seems that.",
+      "example": "Apparently, the examiner asks a follow-up question if the first answer is short.",
+      "synonyms": ["seemingly", "evidently", "it seems"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_011",
+      "word": "approximate",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Close to the actual value or amount but not completely accurate.",
+      "example": "She gave an approximate answer since she couldn't recall the exact date.",
+      "synonyms": ["rough", "estimated", "close"],
+      "antonyms": ["exact", "precise"]
+    },
+    {
+      "id": "4F_012",
+      "word": "approximately",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to show that a figure or amount is close to correct, but not exact.",
+      "example": "She spoke for approximately two minutes on her chosen topic.",
+      "synonyms": ["roughly", "about", "around"],
+      "antonyms": ["exactly", "precisely"]
+    },
+    {
+      "id": "4F_013",
+      "word": "approximation",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An estimate or figure that is close to the actual value.",
+      "example": "Her answer was only a rough approximation, but it was still useful.",
+      "synonyms": ["estimate", "rough figure"],
+      "antonyms": ["exact figure"]
+    },
+    {
+      "id": "4F_014",
+      "word": "arguably",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to assert that a statement is probably correct, though open to debate.",
+      "example": "Public speaking is arguably one of the most useful skills for students to develop.",
+      "synonyms": ["possibly", "perhaps", "conceivably"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_015",
+      "word": "background",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A person's experience, education, or the circumstances that shape them.",
+      "example": "She briefly described her background before answering the main question.",
+      "synonyms": ["upbringing", "history", "context"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_016",
+      "word": "bare",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Without any covering or addition; plain and simple.",
+      "example": "She gave the bare facts of the story before adding her own opinion.",
+      "synonyms": ["plain", "basic", "stripped-down"],
+      "antonyms": ["elaborate", "decorated"]
+    },
+    {
+      "id": "4F_017",
+      "word": "barefoot",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Not wearing anything on one's feet.",
+      "example": "She described walking barefoot on the beach during her holiday.",
+      "synonyms": ["shoeless"],
+      "antonyms": ["shod"]
+    },
+    {
+      "id": "4F_018",
+      "word": "barely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Only just; almost not.",
+      "example": "She barely paused before answering the follow-up question confidently.",
+      "synonyms": ["hardly", "scarcely", "only just"],
+      "antonyms": ["easily", "comfortably"]
+    },
+    {
+      "id": "4F_019",
+      "word": "basic",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Forming an essential foundation; simple and fundamental.",
+      "example": "Basic vocabulary is often more effective than complicated words in speaking tests.",
+      "synonyms": ["fundamental", "elementary", "essential"],
+      "antonyms": ["advanced", "complex"]
+    },
+    {
+      "id": "4F_020",
+      "word": "basically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In essence; used to summarize or simplify a statement.",
+      "example": "Basically, her main argument was that practice builds confidence.",
+      "synonyms": ["essentially", "fundamentally", "in essence"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_021",
+      "word": "basics",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The essential facts or fundamental principles of a subject.",
+      "example": "She reviewed the basics of grammar before her speaking test.",
+      "synonyms": ["fundamentals", "essentials"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_022",
+      "word": "bit",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A small amount or piece of something.",
+      "example": "She paused for a bit before answering the more difficult question.",
+      "synonyms": ["little", "small amount"],
+      "antonyms": ["a lot"]
+    },
+    {
+      "id": "4F_023",
+      "word": "broadly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a general way, without going into detail.",
+      "example": "Broadly speaking, most candidates find the second part of the test more challenging.",
+      "synonyms": ["generally", "in general terms"],
+      "antonyms": ["specifically", "precisely"]
+    },
+    {
+      "id": "4F_024",
+      "word": "certain",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Known for sure; convinced or having no doubt.",
+      "example": "She felt certain about her answer despite her earlier nerves.",
+      "synonyms": ["sure", "confident", "convinced"],
+      "antonyms": ["uncertain", "doubtful"]
+    },
+    {
+      "id": "4F_025",
+      "word": "certainly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to emphasize the truth of a statement; without doubt.",
+      "example": "She certainly improved her fluency after months of daily practice.",
+      "synonyms": ["definitely", "undoubtedly", "surely"],
+      "antonyms": ["doubtfully"]
+    },
+    {
+      "id": "4F_026",
+      "word": "certainty",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The quality of being sure of something; a fact that is beyond doubt.",
+      "example": "She answered with a certainty that impressed the examiner.",
+      "synonyms": ["confidence", "assurance", "conviction"],
+      "antonyms": ["doubt", "uncertainty"]
+    },
+    {
+      "id": "4F_027",
+      "word": "clearly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is easy to see, hear, or understand.",
+      "example": "She spoke clearly so the examiner could follow every point.",
+      "synonyms": ["distinctly", "plainly", "evidently"],
+      "antonyms": ["unclearly", "vaguely"]
+    },
+    {
+      "id": "4F_028",
+      "word": "common",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Occurring, found, or done often; shared by many.",
+      "example": "Hesitation is a common problem among first-time speaking candidates.",
+      "synonyms": ["frequent", "widespread", "usual"],
+      "antonyms": ["rare", "uncommon"]
+    },
+    {
+      "id": "4F_029",
+      "word": "commonality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A feature shared by two or more things or people.",
+      "example": "She found a commonality between her own experience and the topic given.",
+      "synonyms": ["similarity", "shared trait"],
+      "antonyms": ["difference"]
+    },
+    {
+      "id": "4F_030",
+      "word": "commoner",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A person who does not belong to the nobility.",
+      "example": "She briefly mentioned a historical commoner while discussing social class.",
+      "synonyms": [],
+      "antonyms": ["noble", "aristocrat"]
+    },
+    {
+      "id": "4F_031",
+      "word": "commonplace",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Ordinary; not unusual or exceptional.",
+      "example": "Nervousness before a speaking exam is commonplace among candidates.",
+      "synonyms": ["ordinary", "usual", "everyday"],
+      "antonyms": ["rare", "unusual"]
+    },
+    {
+      "id": "4F_032",
+      "word": "commons",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Shared land, or a legislative body representing the general public.",
+      "example": "She described a public commons area used for community events.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_033",
+      "word": "commonwealth",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An independent country or community, or a political association of states.",
+      "example": "She discussed the Commonwealth as part of her political topic.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_034",
+      "word": "comparative",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Estimated by comparison; relative rather than absolute.",
+      "example": "She noted the comparative ease of the first part of the exam.",
+      "synonyms": ["relative", "comparable"],
+      "antonyms": ["absolute"]
+    },
+    {
+      "id": "4F_035",
+      "word": "comparatively",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In relation to something else; relatively.",
+      "example": "The second question was comparatively harder than the first.",
+      "synonyms": ["relatively", "by comparison"],
+      "antonyms": ["absolutely"]
+    },
+    {
+      "id": "4F_036",
+      "word": "definite",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Clearly stated or decided; not vague or doubtful.",
+      "example": "She gave a definite answer instead of a vague, hesitant one.",
+      "synonyms": ["clear", "certain", "precise"],
+      "antonyms": ["vague", "uncertain"]
+    },
+    {
+      "id": "4F_037",
+      "word": "definitely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Without doubt; certainly.",
+      "example": "She definitely improved her pacing after receiving feedback.",
+      "synonyms": ["certainly", "undoubtedly", "surely"],
+      "antonyms": ["possibly", "maybe"]
+    },
+    {
+      "id": "4F_038",
+      "word": "especially",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to single out one person, thing, or situation over others.",
+      "example": "Practice helps especially with reducing hesitation in spoken answers.",
+      "synonyms": ["particularly", "specifically", "notably"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_039",
+      "word": "essential",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Absolutely necessary; extremely important.",
+      "example": "Confidence is essential when answering unexpected questions.",
+      "synonyms": ["vital", "necessary", "crucial"],
+      "antonyms": ["unnecessary", "unimportant"]
+    },
+    {
+      "id": "4F_040",
+      "word": "essentially",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In essence; fundamentally.",
+      "example": "Essentially, her answer addressed every part of the question.",
+      "synonyms": ["fundamentally", "basically", "in essence"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_041",
+      "word": "extremely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a very great degree; exceptionally.",
+      "example": "She felt extremely nervous before her first speaking exam.",
+      "synonyms": ["exceptionally", "very", "highly"],
+      "antonyms": ["slightly", "mildly"]
+    },
+    {
+      "id": "4F_042",
+      "word": "fairly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a moderate degree; reasonably.",
+      "example": "She answered fairly confidently despite a difficult topic.",
+      "synonyms": ["reasonably", "moderately", "somewhat"],
+      "antonyms": ["extremely", "exceedingly"]
+    },
+    {
+      "id": "4F_043",
+      "word": "famously",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is well known; used to introduce a well-known fact.",
+      "example": "She famously stumbled during her first attempt but improved quickly.",
+      "synonyms": ["notably", "well-known-ly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_044",
+      "word": "feel",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To experience an emotion or sensation; to have an opinion.",
+      "example": "She said she felt more confident after weeks of regular practice.",
+      "synonyms": ["sense", "experience", "believe"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_045",
+      "word": "few",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A small number of; not many.",
+      "example": "She had only a few seconds to think before answering.",
+      "synonyms": ["a small number of"],
+      "antonyms": ["many"]
+    },
+    {
+      "id": "4F_046",
+      "word": "fine",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Satisfactory or acceptable; also, very thin or delicate.",
+      "example": "'That's fine,' the examiner said, moving on to the next question.",
+      "synonyms": ["acceptable", "satisfactory", "okay"],
+      "antonyms": ["unsatisfactory", "poor"]
+    },
+    {
+      "id": "4F_047",
+      "word": "fortunate",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Having good luck; favorable.",
+      "example": "She felt fortunate to have practiced a similar topic beforehand.",
+      "synonyms": ["lucky", "favored", "blessed"],
+      "antonyms": ["unfortunate", "unlucky"]
+    },
+    {
+      "id": "4F_048",
+      "word": "fortunately",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "It is fortunate that; luckily.",
+      "example": "Fortunately, she had prepared several flexible examples in advance.",
+      "synonyms": ["luckily", "happily"],
+      "antonyms": ["unfortunately"]
+    },
+    {
+      "id": "4F_049",
+      "word": "frankly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In an honest and direct manner; used to preface a candid opinion.",
+      "example": "Frankly, she found the second topic much more interesting to discuss.",
+      "synonyms": ["honestly", "candidly", "truthfully"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_050",
+      "word": "general",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Affecting or including all or most people, places, or things.",
+      "example": "She gave a general overview before focusing on specific details.",
+      "synonyms": ["broad", "overall", "universal"],
+      "antonyms": ["specific", "particular"]
+    },
+    {
+      "id": "4F_051",
+      "word": "generality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A statement that is general rather than specific.",
+      "example": "She avoided vague generalities and instead gave a concrete example.",
+      "synonyms": ["vague statement", "generalization"],
+      "antonyms": ["specific detail"]
+    },
+    {
+      "id": "4F_052",
+      "word": "generalizability",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The extent to which findings or ideas can be applied more broadly.",
+      "example": "She questioned the generalizability of her personal experience to others.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_053",
+      "word": "generalization",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A general statement or concept obtained by inference from specific cases.",
+      "example": "She avoided sweeping generalizations and gave a balanced view.",
+      "synonyms": ["broad statement", "overgeneralization"],
+      "antonyms": ["specific case"]
+    },
+    {
+      "id": "4F_054",
+      "word": "generalize",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To make a general statement based on specific instances.",
+      "example": "She was careful not to generalize from just one personal experience.",
+      "synonyms": ["extrapolate", "broaden"],
+      "antonyms": ["specify"]
+    },
+    {
+      "id": "4F_055",
+      "word": "generalized",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Made general in application or use, rather than restricted to specific cases.",
+      "example": "Her generalized answer lacked the specific details the examiner wanted.",
+      "synonyms": ["broad", "vague", "overall"],
+      "antonyms": ["specific", "detailed"]
+    },
+    {
+      "id": "4F_056",
+      "word": "generally",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In most cases; usually.",
+      "example": "Generally, candidates who practice regularly perform better in speaking tests.",
+      "synonyms": ["usually", "typically", "mostly"],
+      "antonyms": ["rarely", "occasionally"]
+    },
+    {
+      "id": "4F_057",
+      "word": "great-grandfather",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The father of one's grandfather or grandmother.",
+      "example": "She spoke fondly of her great-grandfather's stories from decades ago.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_058",
+      "word": "great-grandmother",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The mother of one's grandfather or grandmother.",
+      "example": "Her great-grandmother taught her a traditional recipe she still uses.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_059",
+      "word": "greatest",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Of the largest amount, extent, or intensity; most outstanding.",
+      "example": "She described her greatest achievement as passing the speaking exam.",
+      "synonyms": ["best", "finest", "foremost"],
+      "antonyms": ["worst", "least"]
+    },
+    {
+      "id": "4F_060",
+      "word": "greatness",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The quality of being distinguished, talented, or eminent.",
+      "example": "She spoke about the greatness of a historical figure she admired.",
+      "synonyms": ["excellence", "distinction", "eminence"],
+      "antonyms": ["mediocrity"]
+    },
+    {
+      "id": "4F_061",
+      "word": "hardly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Scarcely; almost not at all.",
+      "example": "She hardly hesitated before giving her opinion on the topic.",
+      "synonyms": ["scarcely", "barely", "only just"],
+      "antonyms": ["easily", "clearly"]
+    },
+    {
+      "id": "4F_062",
+      "word": "honest",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Free of deceit; truthful and sincere.",
+      "example": "She gave an honest answer rather than one she thought sounded impressive.",
+      "synonyms": ["truthful", "sincere", "genuine"],
+      "antonyms": ["dishonest", "deceitful"]
+    },
+    {
+      "id": "4F_063",
+      "word": "honestly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a truthful and sincere manner; used to emphasize sincerity.",
+      "example": "Honestly, she admitted she was nervous before the exam began.",
+      "synonyms": ["truthfully", "frankly", "sincerely"],
+      "antonyms": ["dishonestly"]
+    },
+    {
+      "id": "4F_064",
+      "word": "honesty",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The quality of being truthful and sincere.",
+      "example": "She valued honesty over sounding impressive during the interview.",
+      "synonyms": ["truthfulness", "sincerity", "integrity"],
+      "antonyms": ["dishonesty", "deceit"]
+    },
+    {
+      "id": "4F_065",
+      "word": "ideally",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In an ideal situation; used to express what would be best.",
+      "example": "Ideally, she would practice speaking every single day.",
+      "synonyms": ["preferably", "in a perfect world"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_066",
+      "word": "importantly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to draw attention to a significant point.",
+      "example": "Importantly, she supported her opinion with a clear example.",
+      "synonyms": ["significantly", "notably", "crucially"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_067",
+      "word": "incredible",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Difficult or impossible to believe; extraordinary.",
+      "example": "She described an incredible experience from her travels abroad.",
+      "synonyms": ["amazing", "extraordinary", "unbelievable"],
+      "antonyms": ["ordinary", "unremarkable"]
+    },
+    {
+      "id": "4F_068",
+      "word": "incredibly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To an extraordinary degree; used to add emphasis.",
+      "example": "She felt incredibly nervous before stepping into the exam room.",
+      "synonyms": ["extremely", "remarkably", "exceptionally"],
+      "antonyms": ["slightly"]
+    },
+    {
+      "id": "4F_069",
+      "word": "interesting",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Arousing curiosity or attention; engaging.",
+      "example": "She chose an interesting personal story to keep the examiner engaged.",
+      "synonyms": ["engaging", "fascinating", "intriguing"],
+      "antonyms": ["boring", "dull"]
+    },
+    {
+      "id": "4F_070",
+      "word": "interestingly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is worthy of attention; used to introduce a notable point.",
+      "example": "Interestingly, her opinion changed after considering the opposite view.",
+      "synonyms": ["notably", "curiously"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_071",
+      "word": "ironically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is contrary to what is expected, often humorously.",
+      "example": "Ironically, the topic she had avoided practicing came up in the exam.",
+      "synonyms": ["paradoxically"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_072",
+      "word": "just",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Exactly; simply; only a short time ago.",
+      "example": "She just wanted to explain her opinion as clearly as possible.",
+      "synonyms": ["simply", "merely", "exactly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_073",
+      "word": "justice",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Fair treatment or the administration of the law.",
+      "example": "She discussed the importance of justice in her society-related topic.",
+      "synonyms": ["fairness", "equity"],
+      "antonyms": ["injustice"]
+    },
+    {
+      "id": "4F_074",
+      "word": "justifiable",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Able to be shown to be right or reasonable.",
+      "example": "Her hesitation was justifiable given the difficulty of the question.",
+      "synonyms": ["reasonable", "defensible", "valid"],
+      "antonyms": ["unjustifiable"]
+    },
+    {
+      "id": "4F_075",
+      "word": "justifiably",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that can be reasonably defended or explained.",
+      "example": "She was justifiably proud of her improvement in fluency.",
+      "synonyms": ["reasonably", "understandably"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_076",
+      "word": "justification",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A reason or explanation that shows something is right or reasonable.",
+      "example": "She gave a clear justification for her opinion on the topic.",
+      "synonyms": ["reason", "explanation", "rationale"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_077",
+      "word": "justified",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Shown to be right or reasonable.",
+      "example": "Her confidence felt justified after months of consistent practice.",
+      "synonyms": ["warranted", "valid", "reasonable"],
+      "antonyms": ["unjustified"]
+    },
+    {
+      "id": "4F_078",
+      "word": "justify",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To show or prove something to be right or reasonable.",
+      "example": "She had to justify her opinion with a specific example.",
+      "synonyms": ["defend", "explain", "rationalize"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_079",
+      "word": "justly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a fair or reasonable way.",
+      "example": "She was justly praised for her clear and confident delivery.",
+      "synonyms": ["fairly", "rightly"],
+      "antonyms": ["unjustly"]
+    },
+    {
+      "id": "4F_080",
+      "word": "kind",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A category of things distinguished by shared characteristics; a type.",
+      "example": "She used 'kind of' as a filler while gathering her thoughts.",
+      "synonyms": ["type", "sort", "variety"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_081",
+      "word": "know",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To be aware of or have knowledge about something.",
+      "example": "She said, 'You know, practicing daily really helped me improve.'",
+      "synonyms": ["understand", "be aware of"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_082",
+      "word": "lateral",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Relating to the side; involving a sideways movement or approach.",
+      "example": "She described a lateral career move as part of her professional topic.",
+      "synonyms": ["sideways", "indirect"],
+      "antonyms": ["direct", "vertical"]
+    },
+    {
+      "id": "4F_083",
+      "word": "less",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a smaller extent; a smaller amount of.",
+      "example": "She felt less nervous after practicing with a partner.",
+      "synonyms": ["not as much"],
+      "antonyms": ["more"]
+    },
+    {
+      "id": "4F_084",
+      "word": "likelihood",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The state of being probable; probability.",
+      "example": "The likelihood of getting a familiar topic increased with more practice.",
+      "synonyms": ["probability", "chance"],
+      "antonyms": ["unlikelihood", "impossibility"]
+    },
+    {
+      "id": "4F_085",
+      "word": "likely",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Probable; expected to happen.",
+      "example": "It's likely that regular practice will improve her fluency significantly.",
+      "synonyms": ["probable", "expected"],
+      "antonyms": ["unlikely", "improbable"]
+    },
+    {
+      "id": "4F_086",
+      "word": "liter",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A metric unit of volume, equal to one thousand cubic centimeters.",
+      "example": "She casually mentioned buying a liter of water before her exam.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_087",
+      "word": "literal",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Taking words in their usual or most basic sense, without exaggeration.",
+      "example": "She gave a literal translation of the phrase rather than an idiomatic one.",
+      "synonyms": ["exact", "word-for-word", "precise"],
+      "antonyms": ["figurative"]
+    },
+    {
+      "id": "4F_088",
+      "word": "literally",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a literal sense, as opposed to a figurative one; used for emphasis.",
+      "example": "She literally practiced every single day for a month.",
+      "synonyms": ["exactly", "precisely"],
+      "antonyms": ["figuratively"]
+    },
+    {
+      "id": "4F_089",
+      "word": "literary",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Relating to literature, especially written works regarded as art.",
+      "example": "She discussed her favorite literary work for the reading-related topic.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_090",
+      "word": "literate",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Able to read and write; also, knowledgeable in a particular area.",
+      "example": "She described the importance of being digitally literate today.",
+      "synonyms": ["educated", "well-read"],
+      "antonyms": ["illiterate"]
+    },
+    {
+      "id": "4F_091",
+      "word": "look",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To direct one's eyes in a particular direction; to appear a certain way.",
+      "example": "She learned to look at the examiner while speaking, not down at her notes.",
+      "synonyms": ["gaze", "glance", "appear"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_092",
+      "word": "lot",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A large number or amount of something.",
+      "example": "A lot of her improvement came from recording and reviewing her own speech.",
+      "synonyms": ["a great deal", "plenty"],
+      "antonyms": ["a little"]
+    },
+    {
+      "id": "4F_093",
+      "word": "mainland",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The main landmass of a country or continent, as distinct from islands.",
+      "example": "She described visiting relatives on the mainland during the holidays.",
+      "synonyms": ["continent"],
+      "antonyms": ["island"]
+    },
+    {
+      "id": "4F_094",
+      "word": "mainline",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Relating to the principal route or system of something.",
+      "example": "She briefly mentioned the mainline rail network in her travel story.",
+      "synonyms": ["main", "principal"],
+      "antonyms": ["branch"]
+    },
+    {
+      "id": "4F_095",
+      "word": "mainly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "For the most part; mostly.",
+      "example": "Her practice mainly focused on improving pronunciation and pacing.",
+      "synonyms": ["mostly", "largely", "predominantly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_096",
+      "word": "many",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A large number of.",
+      "example": "Many candidates find the second part of the speaking test more difficult.",
+      "synonyms": ["numerous", "a lot of"],
+      "antonyms": ["few"]
+    },
+    {
+      "id": "4F_097",
+      "word": "matter",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A subject or situation under consideration; also, physical substance.",
+      "example": "She addressed the matter directly instead of avoiding the question.",
+      "synonyms": ["issue", "subject", "topic"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_098",
+      "word": "matter-of-fact",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Unemotional and practical, especially about disappointing news.",
+      "example": "She gave a matter-of-fact response instead of an emotional one.",
+      "synonyms": ["practical", "unemotional", "businesslike"],
+      "antonyms": ["emotional", "dramatic"]
+    },
+    {
+      "id": "4F_099",
+      "word": "matter-of-factly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In an unemotional, practical manner.",
+      "example": "She stated her opinion matter-of-factly, without excessive elaboration.",
+      "synonyms": ["practically", "plainly"],
+      "antonyms": ["emotionally"]
+    },
+    {
+      "id": "4F_100",
+      "word": "maybe",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Perhaps; possibly.",
+      "example": "Maybe she should have practiced that particular topic more.",
+      "synonyms": ["perhaps", "possibly"],
+      "antonyms": ["definitely", "certainly"]
+    },
+    {
+      "id": "4F_101",
+      "word": "mean",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To intend to convey or refer to a particular thing; to signify.",
+      "example": "She clarified what she meant when the examiner looked confused.",
+      "synonyms": ["signify", "intend", "denote"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_102",
+      "word": "meaningful",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Having a serious, important, or worthwhile quality.",
+      "example": "She shared a meaningful personal story to support her answer.",
+      "synonyms": ["significant", "substantial", "worthwhile"],
+      "antonyms": ["meaningless", "trivial"]
+    },
+    {
+      "id": "4F_103",
+      "word": "merely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Just; simply; and nothing more.",
+      "example": "Her hesitation was merely a moment of thinking, not a lack of knowledge.",
+      "synonyms": ["just", "simply", "only"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_104",
+      "word": "more",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a greater extent or degree.",
+      "example": "She felt more relaxed after the first few questions.",
+      "synonyms": ["to a greater degree"],
+      "antonyms": ["less"]
+    },
+    {
+      "id": "4F_105",
+      "word": "most",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In the greatest degree; used to form superlatives.",
+      "example": "The most challenging part of the test was answering without preparation time.",
+      "synonyms": ["the greatest amount"],
+      "antonyms": ["least"]
+    },
+    {
+      "id": "4F_106",
+      "word": "mostly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "For the most part; generally.",
+      "example": "Her answers mostly focused on personal experience rather than opinion.",
+      "synonyms": ["mainly", "largely", "predominantly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_107",
+      "word": "much",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a great extent; a large amount.",
+      "example": "Practicing much more than before gave her greater confidence.",
+      "synonyms": ["a great deal", "considerably"],
+      "antonyms": ["little"]
+    },
+    {
+      "id": "4F_108",
+      "word": "nearly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Very close to; almost.",
+      "example": "She nearly ran out of time before finishing her final point.",
+      "synonyms": ["almost", "practically", "virtually"],
+      "antonyms": ["exactly"]
+    },
+    {
+      "id": "4F_109",
+      "word": "no",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to give a negative response or deny something.",
+      "example": "No, she hadn't practiced that specific topic before the exam.",
+      "synonyms": [],
+      "antonyms": ["yes"]
+    },
+    {
+      "id": "4F_110",
+      "word": "normal",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Conforming to a standard; usual or typical.",
+      "example": "Feeling nervous before a speaking test is completely normal.",
+      "synonyms": ["usual", "typical", "standard"],
+      "antonyms": ["abnormal", "unusual"]
+    },
+    {
+      "id": "4F_111",
+      "word": "normalcy",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The state of being normal or usual.",
+      "example": "A sense of normalcy returned once she began speaking confidently.",
+      "synonyms": ["normality"],
+      "antonyms": ["abnormality"]
+    },
+    {
+      "id": "4F_112",
+      "word": "normality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The state or quality of being normal.",
+      "example": "She quickly returned to a sense of normality after a shaky start.",
+      "synonyms": ["normalcy"],
+      "antonyms": ["abnormality"]
+    },
+    {
+      "id": "4F_113",
+      "word": "normalization",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The process of making something conform to a standard or usual state.",
+      "example": "She discussed the normalization of remote learning after recent years.",
+      "synonyms": ["standardization"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_114",
+      "word": "normalize",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To make something conform to a standard or usual state.",
+      "example": "Practicing regularly helped normalize the experience of speaking in public.",
+      "synonyms": ["standardize"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_115",
+      "word": "normally",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Under normal or usual conditions; typically.",
+      "example": "Normally, she felt calm, but this exam made her unusually nervous.",
+      "synonyms": ["usually", "typically", "generally"],
+      "antonyms": ["unusually", "abnormally"]
+    },
+    {
+      "id": "4F_116",
+      "word": "notable",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Worthy of attention or notice; remarkable.",
+      "example": "There was a notable improvement in her fluency over just a few weeks.",
+      "synonyms": ["remarkable", "significant", "noteworthy"],
+      "antonyms": ["unremarkable", "insignificant"]
+    },
+    {
+      "id": "4F_117",
+      "word": "notably",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is worthy of attention; particularly.",
+      "example": "Notably, her pronunciation improved most during the final week of practice.",
+      "synonyms": ["particularly", "especially", "significantly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_118",
+      "word": "obvious",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Easily perceived or understood; clear.",
+      "example": "It was obvious from her tone that she felt confident about her answer.",
+      "synonyms": ["clear", "evident", "apparent"],
+      "antonyms": ["unclear", "hidden"]
+    },
+    {
+      "id": "4F_119",
+      "word": "obviously",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is easy to understand or see; clearly.",
+      "example": "Obviously, more practice leads to greater confidence when speaking.",
+      "synonyms": ["clearly", "evidently", "plainly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_120",
+      "word": "oftentimes",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Frequently; often.",
+      "example": "Oftentimes, nervousness fades within the first minute of speaking.",
+      "synonyms": ["often", "frequently"],
+      "antonyms": ["rarely", "seldom"]
+    },
+    {
+      "id": "4F_121",
+      "word": "only",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "No more or no other than; solely.",
+      "example": "She had only a minute to prepare before answering the question.",
+      "synonyms": ["solely", "just", "merely"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_122",
+      "word": "overall",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Taking everything into account; in general.",
+      "example": "Overall, her performance showed clear improvement since the last practice test.",
+      "synonyms": ["in general", "altogether", "on the whole"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_123",
+      "word": "particular",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to single out an individual member of a specified group; specific.",
+      "example": "She focused on one particular example to support her argument.",
+      "synonyms": ["specific", "certain", "distinct"],
+      "antonyms": ["general"]
+    },
+    {
+      "id": "4F_124",
+      "word": "particularity",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A distinctive feature or detail; the quality of being specific.",
+      "example": "She noted the particularity of the question, which required a precise answer.",
+      "synonyms": ["specificity", "distinctiveness"],
+      "antonyms": ["generality"]
+    },
+    {
+      "id": "4F_125",
+      "word": "particularly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a higher degree than is average or usual; especially.",
+      "example": "She found the follow-up question particularly challenging.",
+      "synonyms": ["especially", "notably", "specifically"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_126",
+      "word": "particulars",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Specific details or facts about something.",
+      "example": "She gave the particulars of her example only when directly asked.",
+      "synonyms": ["details", "specifics"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_127",
+      "word": "particulate",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Relating to or in the form of separate, distinct particles.",
+      "example": "She briefly referenced particulate pollution during an environmental topic.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_128",
+      "word": "perhaps",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to express uncertainty or possibility; maybe.",
+      "example": "Perhaps she should have chosen a more familiar topic to discuss.",
+      "synonyms": ["maybe", "possibly"],
+      "antonyms": ["definitely", "certainly"]
+    },
+    {
+      "id": "4F_129",
+      "word": "personal",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Belonging to or affecting a particular person; private.",
+      "example": "She shared a personal story to make her answer more engaging.",
+      "synonyms": ["private", "individual"],
+      "antonyms": ["public", "general"]
+    },
+    {
+      "id": "4F_130",
+      "word": "personality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The combination of characteristics that form an individual's distinctive character.",
+      "example": "Her outgoing personality made the interview feel like a natural conversation.",
+      "synonyms": ["character", "temperament", "disposition"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_131",
+      "word": "personalize",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To design or tailor something to meet a specific person's needs.",
+      "example": "She personalized her answer by adding a memorable personal example.",
+      "synonyms": ["tailor", "customize"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_132",
+      "word": "personalized",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Designed or produced to meet someone's individual requirements.",
+      "example": "She gave a personalized answer rather than a generic, memorized one.",
+      "synonyms": ["tailored", "customized", "individualized"],
+      "antonyms": ["generic", "standard"]
+    },
+    {
+      "id": "4F_133",
+      "word": "personally",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "From one's own point of view; in a manner affecting a particular person.",
+      "example": "Personally, she believes daily practice is the key to fluency.",
+      "synonyms": ["in my opinion", "individually"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_134",
+      "word": "plain",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Simple and straightforward, without decoration or embellishment.",
+      "example": "She preferred plain, clear language over complicated vocabulary.",
+      "synonyms": ["simple", "clear", "straightforward"],
+      "antonyms": ["elaborate", "fancy"]
+    },
+    {
+      "id": "4F_135",
+      "word": "plainly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is easy to understand; clearly and simply.",
+      "example": "She spoke plainly so that her main point was impossible to miss.",
+      "synonyms": ["clearly", "simply", "evidently"],
+      "antonyms": ["vaguely"]
+    },
+    {
+      "id": "4F_136",
+      "word": "plaintiff",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A person who brings a case against another in a court of law.",
+      "example": "She briefly described the role of a plaintiff for a legal-themed topic.",
+      "synonyms": [],
+      "antonyms": ["defendant"]
+    },
+    {
+      "id": "4F_137",
+      "word": "plaintive",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Sounding sad and mournful.",
+      "example": "Her plaintive tone matched the somber story she was telling.",
+      "synonyms": ["mournful", "sorrowful", "wistful"],
+      "antonyms": ["cheerful", "upbeat"]
+    },
+    {
+      "id": "4F_138",
+      "word": "possible",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Able to be done or achieved; that may exist or happen.",
+      "example": "It's possible to improve fluency significantly within just a few months.",
+      "synonyms": ["feasible", "achievable", "conceivable"],
+      "antonyms": ["impossible"]
+    },
+    {
+      "id": "4F_139",
+      "word": "possibly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Perhaps; used to express that something may be true or may happen.",
+      "example": "Possibly the most important skill is staying calm under pressure.",
+      "synonyms": ["perhaps", "maybe"],
+      "antonyms": ["definitely", "certainly"]
+    },
+    {
+      "id": "4F_140",
+      "word": "practical",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Concerned with the actual doing of something rather than theory.",
+      "example": "She offered practical advice for reducing nerves before speaking.",
+      "synonyms": ["applied", "hands-on", "realistic"],
+      "antonyms": ["theoretical", "impractical"]
+    },
+    {
+      "id": "4F_141",
+      "word": "practicality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The quality of being useful or sensible in practice.",
+      "example": "She questioned the practicality of memorizing entire scripted answers.",
+      "synonyms": ["usefulness", "feasibility"],
+      "antonyms": ["impracticality"]
+    },
+    {
+      "id": "4F_142",
+      "word": "practically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way relating to practice rather than theory; almost.",
+      "example": "She was practically fluent after months of consistent daily practice.",
+      "synonyms": ["almost", "virtually", "nearly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_143",
+      "word": "precisely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In an exact manner; used to emphasize exactness.",
+      "example": "She answered the question precisely, without unnecessary elaboration.",
+      "synonyms": ["exactly", "accurately"],
+      "antonyms": ["vaguely", "roughly"]
+    },
+    {
+      "id": "4F_144",
+      "word": "probable",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Likely to happen or be true.",
+      "example": "It's probable that her confidence will keep improving with practice.",
+      "synonyms": ["likely", "expected"],
+      "antonyms": ["improbable", "unlikely"]
+    },
+    {
+      "id": "4F_145",
+      "word": "probably",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Almost certainly; as far as one knows or believes.",
+      "example": "She probably spent an hour a day practicing her speaking skills.",
+      "synonyms": ["likely", "most likely"],
+      "antonyms": ["unlikely"]
+    },
+    {
+      "id": "4F_146",
+      "word": "purely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Only or exclusively; entirely.",
+      "example": "Her answer was purely based on personal experience, not opinion.",
+      "synonyms": ["entirely", "solely", "exclusively"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_147",
+      "word": "quite",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a certain or fairly significant extent; completely.",
+      "example": "She felt quite confident by the end of her practice sessions.",
+      "synonyms": ["fairly", "rather", "somewhat"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_148",
+      "word": "rather",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a certain extent; used to express preference.",
+      "example": "She would rather discuss a familiar topic than an unfamiliar one.",
+      "synonyms": ["fairly", "somewhat", "instead"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_149",
+      "word": "real",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Actually existing, not imaginary; genuine.",
+      "example": "She described a real event from her own life for the narrative task.",
+      "synonyms": ["genuine", "actual", "true"],
+      "antonyms": ["fake", "imaginary"]
+    },
+    {
+      "id": "4F_150",
+      "word": "real-life",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Occurring in reality rather than in fiction or theory.",
+      "example": "She gave a real-life example to make her opinion more convincing.",
+      "synonyms": ["genuine", "actual"],
+      "antonyms": ["fictional", "hypothetical"]
+    },
+    {
+      "id": "4F_151",
+      "word": "real-time",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Happening or done immediately, without any delay.",
+      "example": "She had to respond in real-time without any time to prepare her answer.",
+      "synonyms": ["immediate", "live"],
+      "antonyms": ["delayed"]
+    },
+    {
+      "id": "4F_152",
+      "word": "real-world",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Relating to actual life or practical situations rather than theory.",
+      "example": "She used a real-world example to make her argument more relatable.",
+      "synonyms": ["practical", "actual"],
+      "antonyms": ["theoretical", "hypothetical"]
+    },
+    {
+      "id": "4F_153",
+      "word": "realignment",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A change in the position or organization of something.",
+      "example": "She discussed a political realignment for her current affairs topic.",
+      "synonyms": ["reorganization", "rearrangement"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_154",
+      "word": "realism",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The attitude of accepting a situation as it is and dealing with it practically.",
+      "example": "She approached the difficult topic with realism rather than idealism.",
+      "synonyms": ["pragmatism", "practicality"],
+      "antonyms": ["idealism"]
+    },
+    {
+      "id": "4F_155",
+      "word": "realist",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A person who accepts situations as they are and deals with them practically.",
+      "example": "She described herself as a realist when discussing her career goals.",
+      "synonyms": ["pragmatist"],
+      "antonyms": ["idealist", "dreamer"]
+    },
+    {
+      "id": "4F_156",
+      "word": "realistic",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Having or showing a sensible and practical view of what is possible.",
+      "example": "She set realistic goals for improving her fluency over time.",
+      "synonyms": ["practical", "sensible", "achievable"],
+      "antonyms": ["unrealistic", "idealistic"]
+    },
+    {
+      "id": "4F_157",
+      "word": "realistically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that shows an understanding of what is achievable or true.",
+      "example": "Realistically, fluency takes months of regular, focused practice.",
+      "synonyms": ["practically", "sensibly"],
+      "antonyms": ["unrealistically"]
+    },
+    {
+      "id": "4F_158",
+      "word": "reality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The state of things as they actually exist, rather than as imagined.",
+      "example": "In reality, her fear of speaking was worse than the exam itself.",
+      "synonyms": ["actuality", "truth"],
+      "antonyms": ["fantasy", "illusion"]
+    },
+    {
+      "id": "4F_159",
+      "word": "realization",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An act of becoming fully aware of something as a fact.",
+      "example": "Her realization that mistakes are normal helped reduce her anxiety.",
+      "synonyms": ["awareness", "recognition"],
+      "antonyms": ["unawareness"]
+    },
+    {
+      "id": "4F_160",
+      "word": "realize",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To become fully aware of something as a fact; to understand clearly.",
+      "example": "She realized halfway through her answer that she had misunderstood the question.",
+      "synonyms": ["recognize", "understand", "grasp"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_161",
+      "word": "really",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In actual fact; used to emphasize a statement.",
+      "example": "She really improved her confidence after weeks of daily practice.",
+      "synonyms": ["truly", "genuinely", "actually"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_162",
+      "word": "realm",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A field or domain of activity or interest.",
+      "example": "She discussed the realm of technology in her speaking response.",
+      "synonyms": ["domain", "sphere", "field"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_163",
+      "word": "realtor",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A person who sells houses or land, especially in the United States.",
+      "example": "She described her aunt's career as a busy local realtor.",
+      "synonyms": ["estate agent"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_164",
+      "word": "relative",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Considered in relation to something else; not absolute.",
+      "example": "Her progress felt significant relative to how nervous she had been before.",
+      "synonyms": ["comparative", "relational"],
+      "antonyms": ["absolute"]
+    },
+    {
+      "id": "4F_165",
+      "word": "relatively",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In relation or comparison to something else; fairly.",
+      "example": "The second half of the test felt relatively easier than the first.",
+      "synonyms": ["comparatively", "fairly", "somewhat"],
+      "antonyms": ["absolutely"]
+    },
+    {
+      "id": "4F_166",
+      "word": "remarkable",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Worthy of attention; extraordinary.",
+      "example": "She made remarkable progress in just a few weeks of consistent practice.",
+      "synonyms": ["extraordinary", "notable", "striking"],
+      "antonyms": ["unremarkable", "ordinary"]
+    },
+    {
+      "id": "4F_167",
+      "word": "remarkably",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that is worthy of attention; surprisingly.",
+      "example": "She spoke remarkably calmly given how nervous she had felt beforehand.",
+      "synonyms": ["surprisingly", "strikingly", "notably"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_168",
+      "word": "right",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Correctly; used as a filler to check understanding or agreement.",
+      "example": "'Right, so that's the main reason,' she said, summarizing her point.",
+      "synonyms": ["correctly", "exactly"],
+      "antonyms": ["wrong"]
+    },
+    {
+      "id": "4F_169",
+      "word": "rough",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Approximate rather than exact; not smooth or fine.",
+      "example": "She gave a rough estimate of how long she had practiced each day.",
+      "synonyms": ["approximate", "rudimentary", "basic"],
+      "antonyms": ["precise", "exact"]
+    },
+    {
+      "id": "4F_170",
+      "word": "roughly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Approximately; without precision.",
+      "example": "She spoke for roughly two minutes on her chosen topic.",
+      "synonyms": ["approximately", "about", "around"],
+      "antonyms": ["exactly", "precisely"]
+    },
+    {
+      "id": "4F_171",
+      "word": "say",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To utter words in order to convey information or an opinion.",
+      "example": "She paused to think before she began to say her answer aloud.",
+      "synonyms": ["state", "express", "utter"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_172",
+      "word": "seem",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To give the impression of being something; to appear.",
+      "example": "She seemed far more relaxed during the second half of the exam.",
+      "synonyms": ["appear", "look", "come across as"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_173",
+      "word": "simple",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Easily understood; not complicated or elaborate.",
+      "example": "She used simple, clear vocabulary rather than overly complex words.",
+      "synonyms": ["straightforward", "easy", "plain"],
+      "antonyms": ["complex", "complicated"]
+    },
+    {
+      "id": "4F_174",
+      "word": "simplicity",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The quality of being easy to understand or do; plainness.",
+      "example": "The simplicity of her answer made it easy for the examiner to follow.",
+      "synonyms": ["clarity", "plainness"],
+      "antonyms": ["complexity"]
+    },
+    {
+      "id": "4F_175",
+      "word": "simplification",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The action of making something simpler or easier to understand.",
+      "example": "Simplification of her explanation made the idea much clearer.",
+      "synonyms": ["clarification", "streamlining"],
+      "antonyms": ["complication"]
+    },
+    {
+      "id": "4F_176",
+      "word": "simplified",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Made simpler or easier to understand.",
+      "example": "She gave a simplified explanation of a fairly complex topic.",
+      "synonyms": ["streamlined", "clarified"],
+      "antonyms": ["complicated"]
+    },
+    {
+      "id": "4F_177",
+      "word": "simplify",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To make something simpler or easier to understand or do.",
+      "example": "She learned to simplify her ideas rather than overcomplicate her answers.",
+      "synonyms": ["streamline", "clarify"],
+      "antonyms": ["complicate"]
+    },
+    {
+      "id": "4F_178",
+      "word": "simplistic",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Treated in a way that is too simple; oversimplified.",
+      "example": "Her first answer felt a little simplistic, lacking supporting detail.",
+      "synonyms": ["oversimplified", "superficial"],
+      "antonyms": ["nuanced", "sophisticated"]
+    },
+    {
+      "id": "4F_179",
+      "word": "simply",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a simple manner; just; merely.",
+      "example": "She simply explained her opinion without unnecessary complexity.",
+      "synonyms": ["merely", "just", "plainly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_180",
+      "word": "slight",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Small in degree; not significant or substantial.",
+      "example": "There was only a slight pause before she confidently continued.",
+      "synonyms": ["small", "minor", "minimal"],
+      "antonyms": ["significant", "considerable"]
+    },
+    {
+      "id": "4F_181",
+      "word": "slightly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a small degree; a little.",
+      "example": "She felt slightly nervous but quickly settled into her answer.",
+      "synonyms": ["a little", "somewhat", "marginally"],
+      "antonyms": ["significantly", "considerably"]
+    },
+    {
+      "id": "4F_182",
+      "word": "somewhat",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To a moderate extent or degree; rather.",
+      "example": "She was somewhat surprised by how confident she felt during the exam.",
+      "synonyms": ["fairly", "rather", "moderately"],
+      "antonyms": ["extremely", "completely"]
+    },
+    {
+      "id": "4F_183",
+      "word": "sort",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A category of things or people having similar characteristics; type.",
+      "example": "She used 'sort of' as a natural filler while gathering her thoughts.",
+      "synonyms": ["type", "kind", "variety"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_184",
+      "word": "sound",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To give a particular impression when heard.",
+      "example": "She wanted to sound confident, even if she felt nervous inside.",
+      "synonyms": ["seem", "appear", "come across"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_185",
+      "word": "speaking",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The action of talking; used in the phrase 'speaking of', to introduce a related topic.",
+      "example": "Speaking of practice, she found daily repetition the most effective method.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "4F_186",
+      "word": "specifically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that relates to one particular thing; precisely.",
+      "example": "She was asked specifically about her personal opinion, not a general one.",
+      "synonyms": ["precisely", "particularly", "exactly"],
+      "antonyms": ["generally"]
+    },
+    {
+      "id": "4F_187",
+      "word": "stronghold",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A place that has been fortified, or a place where a particular belief is strongly held.",
+      "example": "She described a historic stronghold she visited during her travels.",
+      "synonyms": ["fortress", "bastion"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_188",
+      "word": "suppose",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To assume that something is true or probable, without proof.",
+      "example": "She began her answer with, 'I suppose the main reason is...'",
+      "synonyms": ["assume", "presume", "imagine"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_189",
+      "word": "supposed",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Generally assumed or believed to be the case, often without proof.",
+      "example": "The supposed benefits of memorizing scripts were debated during the lesson.",
+      "synonyms": ["alleged", "presumed", "assumed"],
+      "antonyms": ["proven", "confirmed"]
+    },
+    {
+      "id": "4F_190",
+      "word": "supposedly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "According to what is generally assumed or believed, often doubtfully.",
+      "example": "Supposedly, speaking slowly improves clarity, though she found the opposite.",
+      "synonyms": ["allegedly", "reportedly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_191",
+      "word": "supposition",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An uncertain belief; an assumption.",
+      "example": "Her answer was based on supposition rather than personal experience.",
+      "synonyms": ["assumption", "guess", "conjecture"],
+      "antonyms": ["fact", "certainty"]
+    },
+    {
+      "id": "4F_192",
+      "word": "sure",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Confident in what one thinks or knows; certain.",
+      "example": "She felt sure of her answer after a moment of careful thought.",
+      "synonyms": ["certain", "confident", "convinced"],
+      "antonyms": ["unsure", "doubtful"]
+    },
+    {
+      "id": "4F_193",
+      "word": "surely",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to express confidence about a statement, often with a hint of doubt.",
+      "example": "Surely, consistent practice makes a noticeable difference in fluency.",
+      "synonyms": ["certainly", "undoubtedly"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_194",
+      "word": "surprise",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An unexpected or astonishing event or piece of information.",
+      "example": "It was a pleasant surprise how naturally the words came to her.",
+      "synonyms": ["shock", "astonishment"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_195",
+      "word": "surprised",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Feeling or showing surprise.",
+      "example": "She was surprised by how calm she felt once she began speaking.",
+      "synonyms": ["astonished", "amazed", "taken aback"],
+      "antonyms": ["unsurprised"]
+    },
+    {
+      "id": "4F_196",
+      "word": "surprising",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Causing surprise; unexpected.",
+      "example": "It was surprising how quickly her confidence grew with regular practice.",
+      "synonyms": ["unexpected", "astonishing"],
+      "antonyms": ["expected", "predictable"]
+    },
+    {
+      "id": "4F_197",
+      "word": "surprisingly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a way that causes surprise; unexpectedly.",
+      "example": "Surprisingly, the most difficult part of the test was the shortest question.",
+      "synonyms": ["unexpectedly", "remarkably"],
+      "antonyms": ["predictably"]
+    },
+    {
+      "id": "4F_198",
+      "word": "technically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "According to a strict interpretation of rules or facts.",
+      "example": "Technically, she answered the question correctly, though briefly.",
+      "synonyms": ["strictly speaking", "precisely"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_199",
+      "word": "there",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In or at that place; used to introduce a statement of existence.",
+      "example": "There is a strong link between confidence and clear pronunciation.",
+      "synonyms": [],
+      "antonyms": ["here"]
+    },
+    {
+      "id": "4F_200",
+      "word": "therein",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In that place, document, or respect.",
+      "example": "She explained her main idea and, therein, revealed her personal opinion.",
+      "synonyms": ["in that"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_201",
+      "word": "thereof",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Of the thing just mentioned.",
+      "example": "She described the process and the benefits thereof for language learners.",
+      "synonyms": ["of that"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_202",
+      "word": "thing",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An object, idea, or matter that is not specifically named.",
+      "example": "The most important thing was staying calm during the exam.",
+      "synonyms": ["matter", "object", "item"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_203",
+      "word": "think",
+      "type": "verb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "To have a particular opinion or belief about something.",
+      "example": "She paused to think before giving her honest opinion.",
+      "synonyms": ["believe", "consider", "reckon"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_204",
+      "word": "thinking",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The process of considering or reasoning about something.",
+      "example": "Clear thinking helped her organize her thoughts before speaking.",
+      "synonyms": ["reasoning", "reflection"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_205",
+      "word": "thought",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "An idea or opinion produced by thinking, or the process of thinking.",
+      "example": "She shared a final thought before concluding her answer.",
+      "synonyms": ["idea", "notion", "opinion"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_206",
+      "word": "thoughtful",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Showing careful consideration or attention; considerate.",
+      "example": "She gave a thoughtful answer that clearly addressed every part of the question.",
+      "synonyms": ["considerate", "reflective", "careful"],
+      "antonyms": ["thoughtless", "careless"]
+    },
+    {
+      "id": "4F_207",
+      "word": "thoughtfully",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a careful and considerate manner.",
+      "example": "She thoughtfully structured her answer before beginning to speak.",
+      "synonyms": ["carefully", "reflectively"],
+      "antonyms": ["carelessly"]
+    },
+    {
+      "id": "4F_208",
+      "word": "total",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Complete; entire; comprising the whole amount.",
+      "example": "She gave her total attention to the examiner's question.",
+      "synonyms": ["complete", "entire", "whole"],
+      "antonyms": ["partial"]
+    },
+    {
+      "id": "4F_209",
+      "word": "totalitarian",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Relating to a system of government that is centralized and dictatorial.",
+      "example": "She briefly discussed a totalitarian regime for her history-related topic.",
+      "synonyms": ["authoritarian", "dictatorial"],
+      "antonyms": ["democratic"]
+    },
+    {
+      "id": "4F_210",
+      "word": "totalitarianism",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A system of government that is centralized and dictatorial.",
+      "example": "She explained totalitarianism as part of a broader political discussion.",
+      "synonyms": ["authoritarianism"],
+      "antonyms": ["democracy"]
+    },
+    {
+      "id": "4F_211",
+      "word": "totality",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "The whole of something; the state of being total.",
+      "example": "She considered the totality of her performance, not just one mistake.",
+      "synonyms": ["entirety", "wholeness"],
+      "antonyms": ["part"]
+    },
+    {
+      "id": "4F_212",
+      "word": "totally",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Completely; entirely.",
+      "example": "She felt totally prepared after weeks of consistent practice.",
+      "synonyms": ["completely", "entirely", "utterly"],
+      "antonyms": ["partially"]
+    },
+    {
+      "id": "4F_213",
+      "word": "truly",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a truthful, accurate, or sincere manner; genuinely.",
+      "example": "She truly believed that daily practice had transformed her confidence.",
+      "synonyms": ["genuinely", "sincerely", "really"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_214",
+      "word": "type",
+      "type": "noun",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "A category of people or things with common characteristics.",
+      "example": "She used 'type of thing' as a natural filler while organizing her thoughts.",
+      "synonyms": ["kind", "sort", "category"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_215",
+      "word": "typical",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Having the usual qualities or characteristics of a particular type.",
+      "example": "Nervousness is a typical reaction before any speaking exam.",
+      "synonyms": ["usual", "characteristic", "standard"],
+      "antonyms": ["atypical", "unusual"]
+    },
+    {
+      "id": "4F_216",
+      "word": "typically",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a typical or usual manner; normally.",
+      "example": "Candidates typically feel more confident after a few practice sessions.",
+      "synonyms": ["usually", "normally", "generally"],
+      "antonyms": ["atypically", "rarely"]
+    },
+    {
+      "id": "4F_217",
+      "word": "ultimately",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Finally; in the end; used to summarize a final point.",
+      "example": "Ultimately, consistent practice mattered more than natural talent.",
+      "synonyms": ["eventually", "finally", "in the end"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_218",
+      "word": "unfortunate",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Having bad luck; regrettable.",
+      "example": "It was unfortunate that she misunderstood the first question.",
+      "synonyms": ["regrettable", "unlucky"],
+      "antonyms": ["fortunate", "lucky"]
+    },
+    {
+      "id": "4F_219",
+      "word": "unfortunately",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "It is unfortunate that; used to introduce a disappointing fact.",
+      "example": "Unfortunately, she ran out of time before finishing her final point.",
+      "synonyms": ["regrettably", "sadly"],
+      "antonyms": ["fortunately"]
+    },
+    {
+      "id": "4F_220",
+      "word": "usual",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Habitually or typically occurring or done; customary.",
+      "example": "She followed her usual routine of practicing before the exam.",
+      "synonyms": ["customary", "typical", "normal"],
+      "antonyms": ["unusual"]
+    },
+    {
+      "id": "4F_221",
+      "word": "usually",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Under normal conditions; generally.",
+      "example": "She usually feels calmer after the first minute of speaking.",
+      "synonyms": ["normally", "generally", "typically"],
+      "antonyms": ["rarely", "occasionally"]
+    },
+    {
+      "id": "4F_222",
+      "word": "very",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to emphasize an adjective or adverb; to a high degree.",
+      "example": "She felt very confident by the end of her preparation.",
+      "synonyms": ["extremely", "highly", "especially"],
+      "antonyms": ["slightly"]
+    },
+    {
+      "id": "4F_223",
+      "word": "virtual",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Almost or nearly as described, but not completely; existing online.",
+      "example": "She attended a virtual speaking class to practice with other students.",
+      "synonyms": ["near", "online", "simulated"],
+      "antonyms": ["physical", "actual"]
+    },
+    {
+      "id": "4F_224",
+      "word": "virtually",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Almost entirely; nearly.",
+      "example": "She was virtually fluent by the time she took the exam.",
+      "synonyms": ["almost", "nearly", "practically"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_225",
+      "word": "way",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used informally to mean 'far' or 'to a great degree'.",
+      "example": "She felt way more confident than she had expected before the test.",
+      "synonyms": ["far", "much"],
+      "antonyms": []
+    },
+    {
+      "id": "4F_226",
+      "word": "well",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "In a good or satisfactory manner; also used as a filler to begin a response.",
+      "example": "'Well, I think the most important factor is practice,' she began.",
+      "synonyms": ["satisfactorily", "favorably"],
+      "antonyms": ["badly", "poorly"]
+    },
+    {
+      "id": "4F_227",
+      "word": "well-known",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Known about by many people; famous.",
+      "example": "She discussed a well-known public figure for her cultural topic.",
+      "synonyms": ["famous", "renowned", "recognized"],
+      "antonyms": ["obscure", "unknown"]
+    },
+    {
+      "id": "4F_228",
+      "word": "worthwhile",
+      "type": "adjective",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Worth the time, money, or effort spent; valuable.",
+      "example": "She found daily speaking practice genuinely worthwhile for her progress.",
+      "synonyms": ["valuable", "beneficial", "rewarding"],
+      "antonyms": ["worthless", "pointless"]
+    },
+    {
+      "id": "4F_229",
+      "word": "yes",
+      "type": "adverb",
+      "category": "Idiomatic Expressions & Fillers (Speaking)",
+      "meaning": "Used to give an affirmative response or to express agreement.",
+      "example": "'Yes,' she replied confidently, 'I do think practice makes a real difference.'",
+      "synonyms": ["affirmative"],
+      "antonyms": ["no"]
     }
   ]
 }
