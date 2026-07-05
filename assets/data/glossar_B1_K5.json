@@ -4,10 +4,1166 @@
   "words": [
     {
       "id": "B1_K5_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Abfall",
+      "meaning": "waste",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_002",
+      "word": "der Autofahrer",
+      "meaning": "driver (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_003",
+      "word": "die Autofahrerin",
+      "meaning": "driver (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K5_004",
+      "word": "Bio-",
+      "meaning": "organic",
+      "example": "Bio-Produkte"
+    },
+    {
+      "id": "B1_K5_005",
+      "word": "digital",
+      "meaning": "digital"
+    },
+    {
+      "id": "B1_K5_006",
+      "word": "der Durchschnitt (Sg.)",
+      "meaning": "average"
+    },
+    {
+      "id": "B1_K5_007",
+      "word": "europäisch",
+      "meaning": "European"
+    },
+    {
+      "id": "B1_K5_008",
+      "word": "der Fleischkonsum (Sg.)",
+      "meaning": "meat consumption"
+    },
+    {
+      "id": "B1_K5_009",
+      "word": "das Huhn",
+      "meaning": "chicken",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K5_010",
+      "word": "liegen, er liegt, lag, hat gelegen",
+      "meaning": "to lie, to be located",
+      "example": "Der Marktanteil von Bio-Fleisch liegt nur bei zwei Prozent."
+    },
+    {
+      "id": "B1_K5_011",
+      "word": "der Marktanteil",
+      "meaning": "market share",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_012",
+      "word": "mit|rechnen",
+      "meaning": "hier: to include"
+    },
+    {
+      "id": "B1_K5_013",
+      "word": "der Papierverbrauch (Sg.)",
+      "meaning": "usage of paper"
+    },
+    {
+      "id": "B1_K5_014",
+      "word": "der Rekord",
+      "meaning": "record",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_015",
+      "word": "das Rind",
+      "meaning": "beef",
+      "plural": "-er"
+    },
+    {
+      "id": "B1_K5_016",
+      "word": "das Trinkwasser (Sg.)",
+      "meaning": "drinking water"
+    },
+    {
+      "id": "B1_K5_017",
+      "word": "verbrauchen",
+      "meaning": "to use up"
+    },
+    {
+      "id": "B1_K5_018",
+      "word": "der Verpackungsmüll (Sg.)",
+      "meaning": "packaging waste"
+    },
+    {
+      "id": "B1_K5_019",
+      "word": "das Bioprodukt",
+      "meaning": "organic product",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_020",
+      "word": "das Recycling (Sg.)",
+      "meaning": "recycling"
+    },
+    {
+      "id": "B1_K5_021",
+      "word": "die Region",
+      "meaning": "region",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_022",
+      "word": "regional",
+      "meaning": "regional(ly)"
+    },
+    {
+      "id": "B1_K5_023",
+      "word": "schützen (vor + D.)",
+      "meaning": "to protect"
+    },
+    {
+      "id": "B1_K5_024",
+      "word": "der Transportweg",
+      "meaning": "transport corridor",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_025",
+      "word": "Bio",
+      "meaning": "organic"
+    },
+    {
+      "id": "B1_K5_026",
+      "word": "extrem",
+      "meaning": "extreme"
+    },
+    {
+      "id": "B1_K5_027",
+      "word": "die Herkunft",
+      "meaning": "origin",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_028",
+      "word": "die Marke",
+      "meaning": "brand",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_029",
+      "word": "das Abgas",
+      "meaning": "exhaust",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_030",
+      "word": "auf|halten, er hält auf, hielt auf, hat aufgehalten",
+      "meaning": "to stop",
+      "example": "Wir müssen die Klimaerwärmung aufhalten!"
+    },
+    {
+      "id": "B1_K5_031",
+      "word": "bekämpfen",
+      "meaning": "to fight"
+    },
+    {
+      "id": "B1_K5_032",
+      "word": "beobachten",
+      "meaning": "to observe"
+    },
+    {
+      "id": "B1_K5_033",
+      "word": "durch|setzen",
+      "meaning": "to push through, to force"
+    },
+    {
+      "id": "B1_K5_034",
+      "word": "durch|streichen, er streicht durch, strich durch, hat durchgestrichen",
+      "meaning": "to cross out"
+    },
+    {
+      "id": "B1_K5_035",
+      "word": "die Erde (Sg.)",
+      "meaning": "earth"
+    },
+    {
+      "id": "B1_K5_036",
+      "word": "erforschen",
+      "meaning": "to investigate"
+    },
+    {
+      "id": "B1_K5_037",
+      "word": "ergreifen, er ergreift, ergriff, hat ergriffen",
+      "meaning": "to seize"
+    },
+    {
+      "id": "B1_K5_038",
+      "word": "die Ernte",
+      "meaning": "harvest",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_039",
+      "word": "ernten",
+      "meaning": "to harvest"
+    },
+    {
+      "id": "B1_K5_040",
+      "word": "fördern",
+      "meaning": "to promote"
+    },
+    {
+      "id": "B1_K5_041",
+      "word": "der Fortschritt",
+      "meaning": "progress",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_042",
+      "word": "die Klimaerwärmung (Sg.)",
+      "meaning": "global warming"
+    },
+    {
+      "id": "B1_K5_043",
+      "word": "der Klimawandel (Sg.)",
+      "meaning": "climate change"
+    },
+    {
+      "id": "B1_K5_044",
+      "word": "die Maßnahme",
+      "meaning": "measure",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_045",
+      "word": "messen, er misst, maß, hat gemessen",
+      "meaning": "to measure"
+    },
+    {
+      "id": "B1_K5_046",
+      "word": "ökologisch",
+      "meaning": "ecological"
+    },
+    {
+      "id": "B1_K5_047",
+      "word": "die Ressource",
+      "meaning": "ressource",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_048",
+      "word": "schädlich",
+      "meaning": "harmful"
+    },
+    {
+      "id": "B1_K5_049",
+      "word": "stoppen",
+      "meaning": "to stop"
+    },
+    {
+      "id": "B1_K5_050",
+      "word": "der Umweltschutz (Sg.)",
+      "meaning": "environmental protection"
+    },
+    {
+      "id": "B1_K5_051",
+      "word": "die Umweltverschmutzung (Sg.)",
+      "meaning": "(environmental) pollution"
+    },
+    {
+      "id": "B1_K5_052",
+      "word": "unterstützen",
+      "meaning": "to support"
+    },
+    {
+      "id": "B1_K5_053",
+      "word": "die Ursache",
+      "meaning": "cause",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_054",
+      "word": "vernichten",
+      "meaning": "to destroy"
+    },
+    {
+      "id": "B1_K5_055",
+      "word": "verringern",
+      "meaning": "to reduce"
+    },
+    {
+      "id": "B1_K5_056",
+      "word": "verschwenden",
+      "meaning": "to waste"
+    },
+    {
+      "id": "B1_K5_057",
+      "word": "zerstören",
+      "meaning": "to destroy"
+    },
+    {
+      "id": "B1_K5_058",
+      "word": "der Begriff",
+      "meaning": "term",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_059",
+      "word": "berechnen",
+      "meaning": "to calculate"
+    },
+    {
+      "id": "B1_K5_060",
+      "word": "der Fußabdruck",
+      "meaning": "footprint",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_061",
+      "word": "der Geschirrspüler",
+      "meaning": "dishwasher",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_062",
+      "word": "die Glasflasche",
+      "meaning": "glas bottle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_063",
+      "word": "das Öko-Duell",
+      "meaning": "eco-duel",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_064",
+      "word": "die Plastikflasche",
+      "meaning": "plastic bottle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_065",
+      "word": "allerdings",
+      "meaning": "though"
+    },
+    {
+      "id": "B1_K5_066",
+      "word": "der Bedarf (Sg.)",
+      "meaning": "need"
+    },
+    {
+      "id": "B1_K5_067",
+      "word": "die Duschzeit",
+      "meaning": "shower time",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_068",
+      "word": "effizient",
+      "meaning": "efficient"
+    },
+    {
+      "id": "B1_K5_069",
+      "word": "die Einwegflasche",
+      "meaning": "disposable bottle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_070",
+      "word": "erwärmen",
+      "meaning": "warming"
+    },
+    {
+      "id": "B1_K5_071",
+      "word": "der Fall",
+      "meaning": "case (in any case)",
+      "plural": "\"-e",
+      "example": "in jedem Fall"
+    },
+    {
+      "id": "B1_K5_072",
+      "word": "gedruckt",
+      "meaning": "printed"
+    },
+    {
+      "id": "B1_K5_073",
+      "word": "kommen (zu + D.), er kommt, kam, ist gekommen",
+      "meaning": "hier: to come to",
+      "example": "Die Diskussion kam leider zu keinem Ergebnis."
+    },
+    {
+      "id": "B1_K5_074",
+      "word": "korrekt",
+      "meaning": "correct"
+    },
+    {
+      "id": "B1_K5_075",
+      "word": "die Mehrwegflasche",
+      "meaning": "reusable bottle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_076",
+      "word": "die Ökobilanz",
+      "meaning": "ecobalance, life-cycle assessment",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_077",
+      "word": "das Resultat",
+      "meaning": "result",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_078",
+      "word": "die Seite",
+      "meaning": "side",
+      "plural": "-n",
+      "example": "Mit einer Spülmaschine sind Sie ökologisch auf der sicheren Seite."
+    },
+    {
+      "id": "B1_K5_079",
+      "word": "treffen, er trifft, traf, hat getroffen",
+      "meaning": "hier: to make",
+      "example": "eine Wahl treffen"
+    },
+    {
+      "id": "B1_K5_080",
+      "word": "unterscheiden, er unterscheidet, unterschied, hat unterschieden",
+      "meaning": "to distinguish"
+    },
+    {
+      "id": "B1_K5_081",
+      "word": "die Wahl",
+      "meaning": "choice (to make a choice)",
+      "plural": "-en",
+      "example": "eine Wahl treffen"
+    },
+    {
+      "id": "B1_K5_082",
+      "word": "der Ökovergleich",
+      "meaning": "eco-comparison",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_083",
+      "word": "die Alternative",
+      "meaning": "alternative",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_084",
+      "word": "die Pfandflasche",
+      "meaning": "deposit bottle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_085",
+      "word": "die Energiekosten (Pl.)",
+      "meaning": "cost of energy"
+    },
+    {
+      "id": "B1_K5_086",
+      "word": "das Satzzeichen",
+      "meaning": "punctuation marks",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_087",
+      "word": "das Müllproblem",
+      "meaning": "garbage problem",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_088",
+      "word": "der Absatz",
+      "meaning": "sales",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_089",
+      "word": "allein",
+      "meaning": "alone",
+      "example": "18 Millionen Tonnen Lebensmittel werfen wir allein in Deutschland jährlich weg."
+    },
+    {
+      "id": "B1_K5_090",
+      "word": "die Außenseite",
+      "meaning": "outside",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_091",
+      "word": "beschädigt",
+      "meaning": "damaged"
+    },
+    {
+      "id": "B1_K5_092",
+      "word": "dagegen",
+      "meaning": "against"
+    },
+    {
+      "id": "B1_K5_093",
+      "word": "damit",
+      "meaning": "so that",
+      "example": "Damit nicht so viel Müll entsteht, gibt es Pfandbecher."
+    },
+    {
+      "id": "B1_K5_094",
+      "word": "entstehen, er entsteht, entstand, ist entstanden",
+      "meaning": "to originate"
+    },
+    {
+      "id": "B1_K5_095",
+      "word": "erhältlich",
+      "meaning": "to be available"
+    },
+    {
+      "id": "B1_K5_096",
+      "word": "die Gegend",
+      "meaning": "areas",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_097",
+      "word": "die Geschäftsidee",
+      "meaning": "business idea",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_098",
+      "word": "haltbar",
+      "meaning": "durable"
+    },
+    {
+      "id": "B1_K5_099",
+      "word": "jederzeit",
+      "meaning": "at any time"
+    },
+    {
+      "id": "B1_K5_100",
+      "word": "der Kaffeebecher",
+      "meaning": "coffee cup",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_101",
+      "word": "krumm",
+      "meaning": "crooked"
+    },
+    {
+      "id": "B1_K5_102",
+      "word": "der Kunststoff",
+      "meaning": "plastic",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_103",
+      "word": "landen",
+      "meaning": "to land",
+      "example": "Es landen viel zu viele Kaffeebecher im Abfall."
+    },
+    {
+      "id": "B1_K5_104",
+      "word": "liefern",
+      "meaning": "to deliver"
+    },
+    {
+      "id": "B1_K5_105",
+      "word": "der Müllberg",
+      "meaning": "mountain of rubbish",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_106",
+      "word": "der Mülleimer",
+      "meaning": "rubbish bin",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_107",
+      "word": "nachhaltig",
+      "meaning": "sustainable"
+    },
+    {
+      "id": "B1_K5_108",
+      "word": "die Neugründung",
+      "meaning": "start-up",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_109",
+      "word": "der Ökostrom (Sg.)",
+      "meaning": "green electricity"
+    },
+    {
+      "id": "B1_K5_110",
+      "word": "der Online-Shop",
+      "meaning": "online shop",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K5_111",
+      "word": "das Pfand (Sg.)",
+      "meaning": "deposit"
+    },
+    {
+      "id": "B1_K5_112",
+      "word": "recycelbar",
+      "meaning": "recyclable"
+    },
+    {
+      "id": "B1_K5_113",
+      "word": "sogenannt",
+      "meaning": "so-called"
+    },
+    {
+      "id": "B1_K5_114",
+      "word": "das Solarpanel",
+      "meaning": "solar panel",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_115",
+      "word": "die Sonnenenergie (Sg.)",
+      "meaning": "sun energy"
+    },
+    {
+      "id": "B1_K5_116",
+      "word": "das Start-up",
+      "meaning": "start-up",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K5_117",
+      "word": "die Steckdose",
+      "meaning": "power outlet, socket",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_118",
+      "word": "die Tonne",
+      "meaning": "ton",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_119",
+      "word": "um … zu",
+      "meaning": "in order to"
+    },
+    {
+      "id": "B1_K5_120",
+      "word": "verleihen, er verleiht, verlieh, hat verliehen",
+      "meaning": "to lend"
+    },
+    {
+      "id": "B1_K5_121",
+      "word": "vermeiden, er vermeidet, vermied, hat vermieden",
+      "meaning": "to avoid"
+    },
+    {
+      "id": "B1_K5_122",
+      "word": "die Verschwendung (Sg.)",
+      "meaning": "waste"
+    },
+    {
+      "id": "B1_K5_123",
+      "word": "zu tun haben (mit + D.)",
+      "meaning": "to have to do with",
+      "example": "Was haben diese Ideen mit der Umwelt zu tun?"
+    },
+    {
+      "id": "B1_K5_124",
+      "word": "zurück|bekommen, er bekommt zurück, bekam zurück, hat zurückbekommen",
+      "meaning": "to get back"
+    },
+    {
+      "id": "B1_K5_125",
+      "word": "zurück|bringen, er bringt zurück, brachte zurück, hat zurückgebracht",
+      "meaning": "to bring back"
+    },
+    {
+      "id": "B1_K5_126",
+      "word": "der Pfandbecher",
+      "meaning": "deposit cup",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_127",
+      "word": "retten",
+      "meaning": "to rescue"
+    },
+    {
+      "id": "B1_K5_128",
+      "word": "verlangen",
+      "meaning": "to ask for"
+    },
+    {
+      "id": "B1_K5_129",
+      "word": "der Wegwerfbecher",
+      "meaning": "disposable cup",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_130",
+      "word": "die Aktion",
+      "meaning": "action",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_131",
+      "word": "elektronisch",
+      "meaning": "electronic"
+    },
+    {
+      "id": "B1_K5_132",
+      "word": "der Stromverbrauch (Sg.)",
+      "meaning": "energy usage"
+    },
+    {
+      "id": "B1_K5_133",
+      "word": "der Umwelttipp",
+      "meaning": "tip for the environment",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K5_134",
+      "word": "verschmutzen",
+      "meaning": "to pollute"
+    },
+    {
+      "id": "B1_K5_135",
+      "word": "der Satzanfang",
+      "meaning": "beginning of sentence",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_136",
+      "word": "die Ansicht",
+      "meaning": "opinion",
+      "plural": "-en",
+      "example": "Ich bin der Ansicht, dass …"
+    },
+    {
+      "id": "B1_K5_137",
+      "word": "das Argument",
+      "meaning": "argument",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_138",
+      "word": "der Standpunkt",
+      "meaning": "hier: point of view",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_139",
+      "word": "stehen, er steht, stand, hat gestanden",
+      "meaning": "hier: to be",
+      "example": "Ich stehe auf dem Standpunkt, dass …"
+    },
+    {
+      "id": "B1_K5_140",
+      "word": "überzeugt sein (von + D.)",
+      "meaning": "to be convinced"
+    },
+    {
+      "id": "B1_K5_141",
+      "word": "umsonst",
+      "meaning": "for free"
+    },
+    {
+      "id": "B1_K5_142",
+      "word": "die Uni-Mensa",
+      "meaning": "university cafeteria",
+      "plural": "-Mensen"
+    },
+    {
+      "id": "B1_K5_143",
+      "word": "völlig",
+      "meaning": "completely"
+    },
+    {
+      "id": "B1_K5_144",
+      "word": "widersprechen, er widerspricht, widersprach, hat widersprochen",
+      "meaning": "to contradict"
+    },
+    {
+      "id": "B1_K5_145",
+      "word": "der Blitz",
+      "meaning": "lightning",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_146",
+      "word": "blitzen",
+      "meaning": "to flash lightning"
+    },
+    {
+      "id": "B1_K5_147",
+      "word": "der Donner",
+      "meaning": "thunder",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_148",
+      "word": "donnern",
+      "meaning": "to thunder"
+    },
+    {
+      "id": "B1_K5_149",
+      "word": "feucht",
+      "meaning": "humid"
+    },
+    {
+      "id": "B1_K5_150",
+      "word": "hageln",
+      "meaning": "to hail"
+    },
+    {
+      "id": "B1_K5_151",
+      "word": "mild",
+      "meaning": "mild"
+    },
+    {
+      "id": "B1_K5_152",
+      "word": "neblig",
+      "meaning": "foggy"
+    },
+    {
+      "id": "B1_K5_153",
+      "word": "nieseln",
+      "meaning": "to drizzle"
+    },
+    {
+      "id": "B1_K5_154",
+      "word": "regnerisch",
+      "meaning": "rainy"
+    },
+    {
+      "id": "B1_K5_155",
+      "word": "schwül",
+      "meaning": "muggy"
+    },
+    {
+      "id": "B1_K5_156",
+      "word": "stürmisch",
+      "meaning": "stormy"
+    },
+    {
+      "id": "B1_K5_157",
+      "word": "das Traumwetter (Sg.)",
+      "meaning": "dream weather"
+    },
+    {
+      "id": "B1_K5_158",
+      "word": "wolkig",
+      "meaning": "cloudy"
+    },
+    {
+      "id": "B1_K5_159",
+      "word": "die Wettervorhersage",
+      "meaning": "weather forecast",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_160",
+      "word": "die Vorhersage",
+      "meaning": "forecast",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_161",
+      "word": "die Wetterbesserung (Sg.)",
+      "meaning": "weather improvement"
+    },
+    {
+      "id": "B1_K5_162",
+      "word": "das Gedächtnis (Sg.)",
+      "meaning": "memory"
+    },
+    {
+      "id": "B1_K5_163",
+      "word": "der Herbststurm",
+      "meaning": "autumn storm",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_164",
+      "word": "der Schneesturm",
+      "meaning": "snow storm",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_165",
+      "word": "der Sturm",
+      "meaning": "storm",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_166",
+      "word": "stürmen",
+      "meaning": "to storm"
+    },
+    {
+      "id": "B1_K5_167",
+      "word": "auf|klären",
+      "meaning": "to inform"
+    },
+    {
+      "id": "B1_K5_168",
+      "word": "beteiligen (sich) (an + D.)",
+      "meaning": "to participate"
+    },
+    {
+      "id": "B1_K5_169",
+      "word": "die Bevölkerung",
+      "meaning": "population",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_170",
+      "word": "der Bürger",
+      "meaning": "citizen (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_171",
+      "word": "die Bürgerin",
+      "meaning": "citizen (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K5_172",
+      "word": "dienen (als + N.)",
+      "meaning": "to serve"
+    },
+    {
+      "id": "B1_K5_173",
+      "word": "drehen",
+      "meaning": "to turn"
+    },
+    {
+      "id": "B1_K5_174",
+      "word": "das Engagement",
+      "meaning": "commitment, involvement",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K5_175",
+      "word": "extra",
+      "meaning": "extra"
+    },
+    {
+      "id": "B1_K5_176",
+      "word": "geschützt",
+      "meaning": "protected"
+    },
+    {
+      "id": "B1_K5_177",
+      "word": "die Hauskatze",
+      "meaning": "domestic cat",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_178",
+      "word": "hilflos",
+      "meaning": "helpless"
+    },
+    {
+      "id": "B1_K5_179",
+      "word": "die Idee",
+      "meaning": "idea",
+      "plural": "-n",
+      "example": "auf eine Idee kommen"
+    },
+    {
+      "id": "B1_K5_180",
+      "word": "immer wieder",
+      "meaning": "again and again"
+    },
+    {
+      "id": "B1_K5_181",
+      "word": "das Infomaterial",
+      "meaning": "information material",
+      "plural": "-ien"
+    },
+    {
+      "id": "B1_K5_182",
+      "word": "der Katzenfreund",
+      "meaning": "cat lover (m)",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_183",
+      "word": "die Katzenfreundin",
+      "meaning": "cat lover (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K5_184",
+      "word": "das Klima (Sg.)",
+      "meaning": "climate"
+    },
+    {
+      "id": "B1_K5_185",
+      "word": "ländlich",
+      "meaning": "rural"
+    },
+    {
+      "id": "B1_K5_186",
+      "word": "die Mitfahrbank",
+      "meaning": "ride-on bench",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_187",
+      "word": "das Nachbardorf",
+      "meaning": "neighbouring village",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K5_188",
+      "word": "der Naturfreund",
+      "meaning": "nature lover (m)",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_189",
+      "word": "die Naturfreundin",
+      "meaning": "nature lover (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K5_190",
+      "word": "pflanzen",
+      "meaning": "to plant"
+    },
+    {
+      "id": "B1_K5_191",
+      "word": "schaden",
+      "meaning": "to harm"
+    },
+    {
+      "id": "B1_K5_192",
+      "word": "die Schwierigkeit",
+      "meaning": "difficulty",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_193",
+      "word": "der Strauch",
+      "meaning": "bush",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K5_194",
+      "word": "die Themenwoche",
+      "meaning": "theme week",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_195",
+      "word": "verteilen",
+      "meaning": "to distribute"
+    },
+    {
+      "id": "B1_K5_196",
+      "word": "der Vorort",
+      "meaning": "suburb",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K5_197",
+      "word": "die Wildkatze",
+      "meaning": "wild cat",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K5_198",
+      "word": "zählen",
+      "meaning": "to count",
+      "example": "Kannst du auf Arabisch bis zehn zählen?"
+    },
+    {
+      "id": "B1_K5_199",
+      "word": "das Zeichen",
+      "meaning": "symbol",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_200",
+      "word": "an|schließen (sich), er schließt an, schloss an, hat angeschlossen",
+      "meaning": "hier: to follow",
+      "example": "Beim Plogging kann man sich einer Gruppe anschließen."
+    },
+    {
+      "id": "B1_K5_201",
+      "word": "auf|heben, er hebt auf, hob auf, hat aufgehoben",
+      "meaning": "to pick up"
+    },
+    {
+      "id": "B1_K5_202",
+      "word": "aufwändig",
+      "meaning": "laborious"
+    },
+    {
+      "id": "B1_K5_203",
+      "word": "die Geschwindigkeit",
+      "meaning": "speed",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K5_204",
+      "word": "das Plogging (Sg.)",
+      "meaning": "plogging"
+    },
+    {
+      "id": "B1_K5_205",
+      "word": "engagieren (sich) (für/gegen + A.)",
+      "meaning": "to be involved"
+    },
+    {
+      "id": "B1_K5_206",
+      "word": "der Teilnehmer",
+      "meaning": "participant (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K5_207",
+      "word": "die Teilnehmerin",
+      "meaning": "participant (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K5_208",
+      "word": "deklinieren",
+      "meaning": "to decline"
+    },
+    {
+      "id": "B1_K5_209",
+      "word": "entfallen, er entfällt, entfiel, ist entfallen",
+      "meaning": "omitted"
+    },
+    {
+      "id": "B1_K5_210",
+      "word": "der Finalsatz",
+      "meaning": "final sentence",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K5_211",
+      "word": "die Umweltaktion",
+      "meaning": "environmental campaign",
+      "plural": "-en"
     }
   ]
 }

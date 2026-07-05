@@ -4,10 +4,753 @@
   "words": [
     {
       "id": "B1_K12_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "regieren",
+      "meaning": "to rule"
+    },
+    {
+      "id": "B1_K12_002",
+      "word": "das Bankgeschäft",
+      "meaning": "banking",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_003",
+      "word": "der Beleg",
+      "meaning": "receipt",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_004",
+      "word": "ein|zahlen",
+      "meaning": "to deposit"
+    },
+    {
+      "id": "B1_K12_005",
+      "word": "der Kontoauszug",
+      "meaning": "bank statement",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K12_006",
+      "word": "die Rate",
+      "meaning": "rate",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_007",
+      "word": "überziehen, er überzieht, überzog, hat überzogen",
+      "meaning": "to overdraw",
+      "example": "Ich hoffe, ich muss mein Konto nie überziehen."
+    },
+    {
+      "id": "B1_K12_008",
+      "word": "der Zins",
+      "meaning": "interest",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_009",
+      "word": "an|geben, er gibt an, gab an, hat angegeben",
+      "meaning": "to state",
+      "example": "Bitte geben Sie Ihren Namen an."
+    },
+    {
+      "id": "B1_K12_010",
+      "word": "die Ausgabe",
+      "meaning": "expense",
+      "plural": "-n",
+      "example": "Ich habe jeden Monat viele Ausgaben und am Ende fast kein Geld mehr."
+    },
+    {
+      "id": "B1_K12_011",
+      "word": "die BIC",
+      "meaning": "SWIFT-BIC",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K12_012",
+      "word": "die Einnahme",
+      "meaning": "revenue",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_013",
+      "word": "fällig",
+      "meaning": "due"
+    },
+    {
+      "id": "B1_K12_014",
+      "word": "fristgerecht",
+      "meaning": "on time"
+    },
+    {
+      "id": "B1_K12_015",
+      "word": "die IBAN",
+      "meaning": "IBAN",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K12_016",
+      "word": "monatlich",
+      "meaning": "monthly"
+    },
+    {
+      "id": "B1_K12_017",
+      "word": "die Münze",
+      "meaning": "coin",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_018",
+      "word": "der Schein",
+      "meaning": "bill",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_019",
+      "word": "die Schulden (Pl.)",
+      "meaning": "debt",
+      "example": "Er hat hohe Schulden bei der Bank."
+    },
+    {
+      "id": "B1_K12_020",
+      "word": "versäumen",
+      "meaning": "to miss"
+    },
+    {
+      "id": "B1_K12_021",
+      "word": "die Zahlung",
+      "meaning": "payment",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_022",
+      "word": "abhängig",
+      "meaning": "dependent"
+    },
+    {
+      "id": "B1_K12_023",
+      "word": "je …, desto …",
+      "meaning": "the …, the …"
+    },
+    {
+      "id": "B1_K12_024",
+      "word": "je …, umso …",
+      "meaning": "the …, the …"
+    },
+    {
+      "id": "B1_K12_025",
+      "word": "die Kontoführungsgebühr",
+      "meaning": "account maintenance charge",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_026",
+      "word": "die Grundform",
+      "meaning": "basic form",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_027",
+      "word": "das Online-Banking (Sg.)",
+      "meaning": "online banking"
+    },
+    {
+      "id": "B1_K12_028",
+      "word": "der/die Bankangestellte",
+      "meaning": "bank teller",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_029",
+      "word": "das Bargeld (Sg.)",
+      "meaning": "cash"
+    },
+    {
+      "id": "B1_K12_030",
+      "word": "gering",
+      "meaning": "small"
+    },
+    {
+      "id": "B1_K12_031",
+      "word": "auf|nehmen, er nimmt auf, nahm auf, hat aufgenommen",
+      "meaning": "to take out",
+      "example": "Ich möchte gern einen Kredit aufnehmen."
+    },
+    {
+      "id": "B1_K12_032",
+      "word": "der Kleiderschrank",
+      "meaning": "wardrobe",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K12_033",
+      "word": "an|fallen, er fällt an, fiel an, ist angefallen",
+      "meaning": "to arise"
+    },
+    {
+      "id": "B1_K12_034",
+      "word": "die Ansicht",
+      "meaning": "prospect",
+      "plural": "-en",
+      "example": "Die Ansicht können Sie auf der Webseite ändern."
+    },
+    {
+      "id": "B1_K12_035",
+      "word": "der Benutzername",
+      "meaning": "user name",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_036",
+      "word": "der Dauerauftrag",
+      "meaning": "recurring payment, standing order",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K12_037",
+      "word": "ein|loggen (sich)",
+      "meaning": "to log in"
+    },
+    {
+      "id": "B1_K12_038",
+      "word": "ein|tragen, er trägt ein, trug ein, hat eingetragen",
+      "meaning": "to register"
+    },
+    {
+      "id": "B1_K12_039",
+      "word": "die Fotoüberweisung",
+      "meaning": "picture transfer",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_040",
+      "word": "die Kontodaten (Pl.)",
+      "meaning": "account information"
+    },
+    {
+      "id": "B1_K12_041",
+      "word": "die Kontoübersicht",
+      "meaning": "account overview",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_042",
+      "word": "der Log-in",
+      "meaning": "log-in",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K12_043",
+      "word": "das Menü",
+      "meaning": "menu",
+      "plural": "-s",
+      "example": "Klicken Sie im Menü \"Start\" an."
+    },
+    {
+      "id": "B1_K12_044",
+      "word": "die Standardübersicht",
+      "meaning": "standard overview",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_045",
+      "word": "gut|schreiben, er schreibt gut, schrieb gut, hat gutgeschrieben",
+      "meaning": "to credit",
+      "example": "einen Betrag auf dem Konto gutschreiben"
+    },
+    {
+      "id": "B1_K12_046",
+      "word": "die Kontoeröffnung",
+      "meaning": "account opening",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_047",
+      "word": "die Kopie",
+      "meaning": "copy",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_048",
+      "word": "umgehend",
+      "meaning": "immediate"
+    },
+    {
+      "id": "B1_K12_049",
+      "word": "der Verlust",
+      "meaning": "loss",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_050",
+      "word": "zudem",
+      "meaning": "in addition"
+    },
+    {
+      "id": "B1_K12_051",
+      "word": "global",
+      "meaning": "global"
+    },
+    {
+      "id": "B1_K12_052",
+      "word": "die Globalisierung (Sg.)",
+      "meaning": "globalization"
+    },
+    {
+      "id": "B1_K12_053",
+      "word": "Asien",
+      "meaning": "Asia"
+    },
+    {
+      "id": "B1_K12_054",
+      "word": "bedenken, er bedenkt, bedachte, hat bedacht",
+      "meaning": "to consider"
+    },
+    {
+      "id": "B1_K12_055",
+      "word": "die Bekämpfung (Sg.)",
+      "meaning": "combat"
+    },
+    {
+      "id": "B1_K12_056",
+      "word": "contra",
+      "meaning": "con"
+    },
+    {
+      "id": "B1_K12_057",
+      "word": "die Forschung",
+      "meaning": "research",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_058",
+      "word": "der Handyhersteller",
+      "meaning": "mobile phone manufacturer",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K12_059",
+      "word": "irgendwo",
+      "meaning": "somewhere"
+    },
+    {
+      "id": "B1_K12_060",
+      "word": "der Irrsinn (Sg.)",
+      "meaning": "insanity"
+    },
+    {
+      "id": "B1_K12_061",
+      "word": "der Konsument",
+      "meaning": "consumer (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_062",
+      "word": "die Konsumentin",
+      "meaning": "consumer (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K12_063",
+      "word": "nützen",
+      "meaning": "to be of use",
+      "example": "Die Globalisierung nützt allen."
+    },
+    {
+      "id": "B1_K12_064",
+      "word": "pauschal",
+      "meaning": "across-the-board"
+    },
+    {
+      "id": "B1_K12_065",
+      "word": "der Pluspunkt",
+      "meaning": "advantage",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_066",
+      "word": "pro",
+      "meaning": "pro",
+      "example": "Sind Sie pro oder contra Globalisierung?"
+    },
+    {
+      "id": "B1_K12_067",
+      "word": "problematisch",
+      "meaning": "problematic"
+    },
+    {
+      "id": "B1_K12_068",
+      "word": "das Produktangebot",
+      "meaning": "range of offered products",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_069",
+      "word": "profitieren (von + D.)",
+      "meaning": "to profit"
+    },
+    {
+      "id": "B1_K12_070",
+      "word": "die Sicht (Sg.)",
+      "meaning": "view",
+      "example": "Aus meiner Sicht ist der heutige Konsum echter Irrsinn."
+    },
+    {
+      "id": "B1_K12_071",
+      "word": "teilweise",
+      "meaning": "partly"
+    },
+    {
+      "id": "B1_K12_072",
+      "word": "überleben",
+      "meaning": "to survive"
+    },
+    {
+      "id": "B1_K12_073",
+      "word": "überzeugend",
+      "meaning": "convincing"
+    },
+    {
+      "id": "B1_K12_074",
+      "word": "das Umweltproblem",
+      "meaning": "environmental problem",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_075",
+      "word": "der Verbraucher",
+      "meaning": "user (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K12_076",
+      "word": "die Verbraucherin",
+      "meaning": "user (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K12_077",
+      "word": "verlegen",
+      "meaning": "to move",
+      "example": "die Produktion ins Ausland verlegen"
+    },
+    {
+      "id": "B1_K12_078",
+      "word": "der Weltmarkt (Sg.)",
+      "meaning": "world market"
+    },
+    {
+      "id": "B1_K12_079",
+      "word": "die Wissenschaft",
+      "meaning": "science",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_080",
+      "word": "der Wohlstand (Sg.)",
+      "meaning": "prosperity"
+    },
+    {
+      "id": "B1_K12_081",
+      "word": "wünschenswert",
+      "meaning": "preferable"
+    },
+    {
+      "id": "B1_K12_082",
+      "word": "das Versprechen",
+      "meaning": "promise",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K12_083",
+      "word": "der Wortakzent",
+      "meaning": "lexical stress",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_084",
+      "word": "der Wortstamm",
+      "meaning": "root word",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K12_085",
+      "word": "der Geldbetrag",
+      "meaning": "sum of money",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K12_086",
+      "word": "basieren (auf + D.)",
+      "meaning": "to be based on"
+    },
+    {
+      "id": "B1_K12_087",
+      "word": "betrügen, er betrügt, betrog, hat betrogen",
+      "meaning": "to cheat"
+    },
+    {
+      "id": "B1_K12_088",
+      "word": "drin sein",
+      "meaning": "to be in"
+    },
+    {
+      "id": "B1_K12_089",
+      "word": "ein|werfen, er wirft ein, warf ein, hat eingeworfen",
+      "meaning": "to insert"
+    },
+    {
+      "id": "B1_K12_090",
+      "word": "das Gewissen",
+      "meaning": "conscience",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K12_091",
+      "word": "die Gewissensfrage",
+      "meaning": "question of conscience",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_092",
+      "word": "der Kasten",
+      "meaning": "box",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K12_093",
+      "word": "das Kleingeld (Sg.)",
+      "meaning": "small change"
+    },
+    {
+      "id": "B1_K12_094",
+      "word": "nach|prüfen",
+      "meaning": "to check"
+    },
+    {
+      "id": "B1_K12_095",
+      "word": "der Staub (Sg.)",
+      "meaning": "dust"
+    },
+    {
+      "id": "B1_K12_096",
+      "word": "der Vorwurf",
+      "meaning": "accusation",
+      "plural": "\"-e",
+      "example": "Niemand kann mir einen Vorwurf machen, oder?"
+    },
+    {
+      "id": "B1_K12_097",
+      "word": "weiter|verschenken",
+      "meaning": "to pass on as a gift"
+    },
+    {
+      "id": "B1_K12_098",
+      "word": "der Zeitungskasten",
+      "meaning": "newspaper rack",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K12_099",
+      "word": "befürworten",
+      "meaning": "to agree with"
+    },
+    {
+      "id": "B1_K12_100",
+      "word": "der Blickkontakt",
+      "meaning": "eye contact",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K12_101",
+      "word": "räuspern (sich)",
+      "meaning": "to clear one's throat"
+    },
+    {
+      "id": "B1_K12_102",
+      "word": "tolerieren",
+      "meaning": "to tolerate"
+    },
+    {
+      "id": "B1_K12_103",
+      "word": "unmöglich",
+      "meaning": "impossible"
+    },
+    {
+      "id": "B1_K12_104",
+      "word": "das Wort",
+      "meaning": "word",
+      "plural": "\"-er",
+      "example": "Lass doch auch die anderen zu Wort kommen!"
+    },
+    {
+      "id": "B1_K12_105",
+      "word": "fort",
+      "meaning": "gone"
+    },
+    {
+      "id": "B1_K12_106",
+      "word": "merken",
+      "meaning": "to notice",
+      "example": "Er merkt nach dem Einkaufen, dass die Milch nicht berechnet wurde."
+    },
+    {
+      "id": "B1_K12_107",
+      "word": "aus|ziehen, er zieht aus, zog aus, ist ausgezogen",
+      "meaning": "to move out of",
+      "example": "Wann zieht ihr aus der Wohnung aus?"
+    },
+    {
+      "id": "B1_K12_108",
+      "word": "beten",
+      "meaning": "to pray"
+    },
+    {
+      "id": "B1_K12_109",
+      "word": "damalig",
+      "meaning": "bygone, past"
+    },
+    {
+      "id": "B1_K12_110",
+      "word": "die Entstehungszeit",
+      "meaning": "time of origin",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_111",
+      "word": "fortschrittlich",
+      "meaning": "progressive"
+    },
+    {
+      "id": "B1_K12_112",
+      "word": "geraten, er gerät, geriet, ist geraten",
+      "meaning": "to fall into"
+    },
+    {
+      "id": "B1_K12_113",
+      "word": "die Immobilie",
+      "meaning": "real estate",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_114",
+      "word": "die Jahresmiete",
+      "meaning": "yearly rent",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_115",
+      "word": "katholisch",
+      "meaning": "Catholic"
+    },
+    {
+      "id": "B1_K12_116",
+      "word": "die Kaufmannsfamilie",
+      "meaning": "merchant family",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_117",
+      "word": "die Konzeption",
+      "meaning": "idea, conception",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_118",
+      "word": "der Nachtwächter",
+      "meaning": "night watchman",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K12_119",
+      "word": "die Nachtwächterin",
+      "meaning": "night watchwoman",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K12_120",
+      "word": "der Originalzustand",
+      "meaning": "original condition",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K12_121",
+      "word": "die Schuld (Sg.)",
+      "meaning": "fault",
+      "example": "Sie ist ohne Schuld in Not geraten."
+    },
+    {
+      "id": "B1_K12_122",
+      "word": "die Selbsthilfe (Sg.)",
+      "meaning": "self-help"
+    },
+    {
+      "id": "B1_K12_123",
+      "word": "die Siedlung",
+      "meaning": "settlement, housing scheme",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_124",
+      "word": "die Sozialsiedlung",
+      "meaning": "social housing project",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K12_125",
+      "word": "die Stadtmauer",
+      "meaning": "city wall",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K12_126",
+      "word": "stammen (aus + D.)",
+      "meaning": "to originate (from)"
+    },
+    {
+      "id": "B1_K12_127",
+      "word": "das Stiftungsvermögen",
+      "meaning": "endowment capital",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K12_128",
+      "word": "symbolisch",
+      "meaning": "symbolic"
+    },
+    {
+      "id": "B1_K12_129",
+      "word": "touristisch",
+      "meaning": "touristic"
+    },
+    {
+      "id": "B1_K12_130",
+      "word": "der Urgroßvater",
+      "meaning": "great-grandfather",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K12_131",
+      "word": "zusätzlich",
+      "meaning": "additional"
+    },
+    {
+      "id": "B1_K12_132",
+      "word": "der Zustand",
+      "meaning": "state",
+      "plural": "\"-e",
+      "example": "eine Wohnung im Originalzustand"
+    },
+    {
+      "id": "B1_K12_133",
+      "word": "wohltätig",
+      "meaning": "benevolent"
+    },
+    {
+      "id": "B1_K12_134",
+      "word": "ein|leiten",
+      "meaning": "to introduce, to initiate"
     }
   ]
 }

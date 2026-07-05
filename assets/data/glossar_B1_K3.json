@@ -4,10 +4,1131 @@
   "words": [
     {
       "id": "B1_K3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Arbeiter",
+      "meaning": "worker (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_002",
+      "word": "die Arbeiterin",
+      "meaning": "worker (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_003",
+      "word": "automatisiert",
+      "meaning": "automated"
+    },
+    {
+      "id": "B1_K3_004",
+      "word": "die Bedingung",
+      "meaning": "condition",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_005",
+      "word": "die Behandlung",
+      "meaning": "treatment",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_006",
+      "word": "die Diagnose",
+      "meaning": "diagnosis",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_007",
+      "word": "die Gruppenarbeit",
+      "meaning": "group work",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_008",
+      "word": "die Handarbeit",
+      "meaning": "handiwork",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_009",
+      "word": "die Hygiene (Sg.)",
+      "meaning": "hygiene"
+    },
+    {
+      "id": "B1_K3_010",
+      "word": "die Konkurrenz (Sg.)",
+      "meaning": "competition"
+    },
+    {
+      "id": "B1_K3_011",
+      "word": "medizinisch",
+      "meaning": "medical"
+    },
+    {
+      "id": "B1_K3_012",
+      "word": "monoton",
+      "meaning": "monotonous"
+    },
+    {
+      "id": "B1_K3_013",
+      "word": "operieren",
+      "meaning": "to operate"
+    },
+    {
+      "id": "B1_K3_014",
+      "word": "die Pflegekraft",
+      "meaning": "caregiver",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_015",
+      "word": "die Schulbildung (Sg.)",
+      "meaning": "education"
+    },
+    {
+      "id": "B1_K3_016",
+      "word": "die Strafe",
+      "meaning": "punishment, penalty",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_017",
+      "word": "tolerant",
+      "meaning": "tolerant"
+    },
+    {
+      "id": "B1_K3_018",
+      "word": "die Unterrichtsform",
+      "meaning": "form of instruction",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_019",
+      "word": "der Gegensatz",
+      "meaning": "opposite",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_020",
+      "word": "minimal",
+      "meaning": "minimal"
+    },
+    {
+      "id": "B1_K3_021",
+      "word": "ausschließlich",
+      "meaning": "exclusive"
+    },
+    {
+      "id": "B1_K3_022",
+      "word": "bewusst",
+      "meaning": "conscious"
+    },
+    {
+      "id": "B1_K3_023",
+      "word": "biologisch",
+      "meaning": "biological"
+    },
+    {
+      "id": "B1_K3_024",
+      "word": "die Diät",
+      "meaning": "diet",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_025",
+      "word": "ernähren (sich)",
+      "meaning": "to eat, to nourish"
+    },
+    {
+      "id": "B1_K3_026",
+      "word": "die Ernährung (Sg.)",
+      "meaning": "nutrition"
+    },
+    {
+      "id": "B1_K3_027",
+      "word": "die Fitness (Sg.)",
+      "meaning": "fitness"
+    },
+    {
+      "id": "B1_K3_028",
+      "word": "die Form",
+      "meaning": "form",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_029",
+      "word": "die Frucht",
+      "meaning": "fruit",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_030",
+      "word": "halten, er hält, hielt, hat gehalten",
+      "meaning": "hier: to be on",
+      "example": "Diät halten"
+    },
+    {
+      "id": "B1_K3_031",
+      "word": "die Karotte",
+      "meaning": "carrot",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_032",
+      "word": "das Nahrungsmittel",
+      "meaning": "food",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_033",
+      "word": "produziert",
+      "meaning": "produced",
+      "example": "ökologisch produzierte Ware"
+    },
+    {
+      "id": "B1_K3_034",
+      "word": "die Speise",
+      "meaning": "food",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_035",
+      "word": "der Trend",
+      "meaning": "trend",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K3_036",
+      "word": "vegan",
+      "meaning": "vegan"
+    },
+    {
+      "id": "B1_K3_037",
+      "word": "vegetarisch",
+      "meaning": "vegetarian"
+    },
+    {
+      "id": "B1_K3_038",
+      "word": "das Vitamin",
+      "meaning": "vitamin",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_039",
+      "word": "das Workout",
+      "meaning": "workout",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K3_040",
+      "word": "erben",
+      "meaning": "to inherit"
+    },
+    {
+      "id": "B1_K3_041",
+      "word": "weshalb",
+      "meaning": "why"
+    },
+    {
+      "id": "B1_K3_042",
+      "word": "führen (zu + D.)",
+      "meaning": "to lead (to)",
+      "example": "Welche Ereignisse können zu Veränderungen führen?"
+    },
+    {
+      "id": "B1_K3_043",
+      "word": "gewohnt",
+      "meaning": "usual"
+    },
+    {
+      "id": "B1_K3_044",
+      "word": "die Krisensituation",
+      "meaning": "crisis (situation)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_045",
+      "word": "die Lebensgeschichte",
+      "meaning": "life story",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_046",
+      "word": "der Lebensweg",
+      "meaning": "path in life",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_047",
+      "word": "der Prozess",
+      "meaning": "process",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_048",
+      "word": "raus",
+      "meaning": "out"
+    },
+    {
+      "id": "B1_K3_049",
+      "word": "der Todesfall",
+      "meaning": "death",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_050",
+      "word": "die Trennung",
+      "meaning": "separation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_051",
+      "word": "der Wendepunkt",
+      "meaning": "turning point",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_052",
+      "word": "der Zeitschriftenartikel",
+      "meaning": "newspaper article",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_053",
+      "word": "Afrika",
+      "meaning": "Africa"
+    },
+    {
+      "id": "B1_K3_054",
+      "word": "das Anliegen",
+      "meaning": "issue",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_055",
+      "word": "der Berufssoldat",
+      "meaning": "professional soldier (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_056",
+      "word": "die Berufssoldatin",
+      "meaning": "professional soldier (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_057",
+      "word": "der Buchautor",
+      "meaning": "author (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_058",
+      "word": "die Buchautorin",
+      "meaning": "author (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_059",
+      "word": "die Bundeswehrzeit",
+      "meaning": "time in the armed forces",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_060",
+      "word": "ein|setzen (sich) (für/gegen + A.)",
+      "meaning": "to support",
+      "example": "sich für den Schutz der Wildtiere einsetzen"
+    },
+    {
+      "id": "B1_K3_061",
+      "word": "die Herausforderung",
+      "meaning": "challenge",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_062",
+      "word": "die Lebenswende",
+      "meaning": "turning point (in life)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_063",
+      "word": "der Mut (Sg.)",
+      "meaning": "courage",
+      "example": "Mark möchte anderen Mut machen, für ihre Ziele zu kämpfen."
+    },
+    {
+      "id": "B1_K3_064",
+      "word": "Namibia",
+      "meaning": "Namibia"
+    },
+    {
+      "id": "B1_K3_065",
+      "word": "die Rückkehr (Sg.)",
+      "meaning": "return"
+    },
+    {
+      "id": "B1_K3_066",
+      "word": "sammeln",
+      "meaning": "hier: to gain",
+      "example": "Als Fotograf hat er schon viel Erfahrung gesammelt."
+    },
+    {
+      "id": "B1_K3_067",
+      "word": "schließlich",
+      "meaning": "finally, eventually"
+    },
+    {
+      "id": "B1_K3_068",
+      "word": "das Schutzprojekt",
+      "meaning": "protection project",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_069",
+      "word": "die Sehnsucht",
+      "meaning": "longing, desire",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_070",
+      "word": "verursachen",
+      "meaning": "to cause"
+    },
+    {
+      "id": "B1_K3_071",
+      "word": "wesentlich",
+      "meaning": "considerable"
+    },
+    {
+      "id": "B1_K3_072",
+      "word": "der Wildhüter",
+      "meaning": "gamekeeper (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_073",
+      "word": "die Wildhüterin",
+      "meaning": "gamekeeper (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_074",
+      "word": "das Wildtier",
+      "meaning": "wild animal",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_075",
+      "word": "die Wildtierstation",
+      "meaning": "wild animal care facility",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_076",
+      "word": "zufällig",
+      "meaning": "coincidentally"
+    },
+    {
+      "id": "B1_K3_077",
+      "word": "zweimonatig",
+      "meaning": "two month(ly)"
+    },
+    {
+      "id": "B1_K3_078",
+      "word": "abwärts",
+      "meaning": "downwards"
+    },
+    {
+      "id": "B1_K3_079",
+      "word": "der Bahnradfahrer",
+      "meaning": "track bicycle driver (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_080",
+      "word": "die Bahnradfahrerin",
+      "meaning": "track bicycle driver (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_081",
+      "word": "ehren",
+      "meaning": "to honour"
+    },
+    {
+      "id": "B1_K3_082",
+      "word": "engagiert sein",
+      "meaning": "to be involved in"
+    },
+    {
+      "id": "B1_K3_083",
+      "word": "ereignen (sich)",
+      "meaning": "to happen"
+    },
+    {
+      "id": "B1_K3_084",
+      "word": "-fach",
+      "meaning": "\"-fold\"",
+      "example": "zehnfach"
+    },
+    {
+      "id": "B1_K3_085",
+      "word": "gelähmt",
+      "meaning": "paralyzed"
+    },
+    {
+      "id": "B1_K3_086",
+      "word": "der Held",
+      "meaning": "hero (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_087",
+      "word": "die Heldin",
+      "meaning": "hero (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_088",
+      "word": "der Höhepunkt",
+      "meaning": "peak",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_089",
+      "word": "kämpfen (für/gegen + A.)",
+      "meaning": "to fight"
+    },
+    {
+      "id": "B1_K3_090",
+      "word": "lokal",
+      "meaning": "local"
+    },
+    {
+      "id": "B1_K3_091",
+      "word": "mittlerweile",
+      "meaning": "meanwhile"
+    },
+    {
+      "id": "B1_K3_092",
+      "word": "der Oberkörper",
+      "meaning": "upper body",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_093",
+      "word": "der Olympiasieger",
+      "meaning": "Olympic champion (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_094",
+      "word": "die Olympiasiegerin",
+      "meaning": "Olympic champion (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_095",
+      "word": "der Optimismus (Sg.)",
+      "meaning": "optimism"
+    },
+    {
+      "id": "B1_K3_096",
+      "word": "politisch",
+      "meaning": "political"
+    },
+    {
+      "id": "B1_K3_097",
+      "word": "die Powerfrau",
+      "meaning": "power woman",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_098",
+      "word": "das Privatleben (Sg.)",
+      "meaning": "private life"
+    },
+    {
+      "id": "B1_K3_099",
+      "word": "radikal",
+      "meaning": "radical"
+    },
+    {
+      "id": "B1_K3_100",
+      "word": "seitdem",
+      "meaning": "since then",
+      "example": "Sie hatte einen Unfall. Seitdem ist sie gelähmt."
+    },
+    {
+      "id": "B1_K3_101",
+      "word": "die Selbstständigkeit (Sg.)",
+      "meaning": "independence"
+    },
+    {
+      "id": "B1_K3_102",
+      "word": "der Stadtrat",
+      "meaning": "city council",
+      "plural": "\"-e",
+      "example": "Sie ist Mitglied im Stadtrat."
+    },
+    {
+      "id": "B1_K3_103",
+      "word": "stürzen",
+      "meaning": "to fall"
+    },
+    {
+      "id": "B1_K3_104",
+      "word": "tätig sein",
+      "meaning": "to take an active part"
+    },
+    {
+      "id": "B1_K3_105",
+      "word": "unverändert",
+      "meaning": "unchanged"
+    },
+    {
+      "id": "B1_K3_106",
+      "word": "von … auf",
+      "meaning": "from one … to the next",
+      "example": "Von einem Tag auf den anderen veränderte sich ihr Leben radikal."
+    },
+    {
+      "id": "B1_K3_107",
+      "word": "die Wahl",
+      "meaning": "election",
+      "plural": "-en",
+      "example": "Sie gewann eine lokale Wahl und ist nun im Stadtrat aktiv."
+    },
+    {
+      "id": "B1_K3_108",
+      "word": "der Weltmeister",
+      "meaning": "world champion (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_109",
+      "word": "die Weltmeisterin",
+      "meaning": "world champion (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_110",
+      "word": "die Wirbelsäule",
+      "meaning": "spine",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_111",
+      "word": "literarisch",
+      "meaning": "literary"
+    },
+    {
+      "id": "B1_K3_112",
+      "word": "das Vergangene (Sg.)",
+      "meaning": "past"
+    },
+    {
+      "id": "B1_K3_113",
+      "word": "die Vergangenheitsform",
+      "meaning": "past tense",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_114",
+      "word": "der Zeitungsartikel",
+      "meaning": "newspaper article",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_115",
+      "word": "begeistern",
+      "meaning": "to delight, to inspire"
+    },
+    {
+      "id": "B1_K3_116",
+      "word": "historisch",
+      "meaning": "historical"
+    },
+    {
+      "id": "B1_K3_117",
+      "word": "das Stadtfest",
+      "meaning": "city festival",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_118",
+      "word": "erstellen",
+      "meaning": "to create"
+    },
+    {
+      "id": "B1_K3_119",
+      "word": "der/die Alte",
+      "meaning": "hier: oneself",
+      "plural": "-n",
+      "example": "wieder der/die Alte sein"
+    },
+    {
+      "id": "B1_K3_120",
+      "word": "auf|wachen",
+      "meaning": "to wake up"
+    },
+    {
+      "id": "B1_K3_121",
+      "word": "außerhalb (+ G.)",
+      "meaning": "outside"
+    },
+    {
+      "id": "B1_K3_122",
+      "word": "frisch",
+      "meaning": "hier: new",
+      "example": "Ich bin frisch verliebt."
+    },
+    {
+      "id": "B1_K3_123",
+      "word": "gemacht sein (für + A.)",
+      "meaning": "to be made for",
+      "example": "Ich freue mich, wenn ich Klamotten finde, die wie für mich gemacht sind."
+    },
+    {
+      "id": "B1_K3_124",
+      "word": "innerhalb (+ G.)",
+      "meaning": "within"
+    },
+    {
+      "id": "B1_K3_125",
+      "word": "liebevoll",
+      "meaning": "loving"
+    },
+    {
+      "id": "B1_K3_126",
+      "word": "der Nachtisch",
+      "meaning": "dessert",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_127",
+      "word": "schwach, schwächer, am schwächsten",
+      "meaning": "weak"
+    },
+    {
+      "id": "B1_K3_128",
+      "word": "die Schwiegereltern (Pl.)",
+      "meaning": "parents-in-law"
+    },
+    {
+      "id": "B1_K3_129",
+      "word": "der Sonnabend",
+      "meaning": "Saturday",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_130",
+      "word": "verlieben (sich) (in + A.)",
+      "meaning": "to fall in love"
+    },
+    {
+      "id": "B1_K3_131",
+      "word": "verschwinden, er verschwindet, verschwand, ist verschwunden",
+      "meaning": "to disappear"
+    },
+    {
+      "id": "B1_K3_132",
+      "word": "während (+ G.)",
+      "meaning": "during",
+      "example": "Während der Arbeit lachen mein Team und ich oft."
+    },
+    {
+      "id": "B1_K3_133",
+      "word": "der Regentag",
+      "meaning": "rainy day",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_134",
+      "word": "jetzig",
+      "meaning": "current"
+    },
+    {
+      "id": "B1_K3_135",
+      "word": "das Klinikum",
+      "meaning": "clinic, hospital",
+      "plural": "Kliniken"
+    },
+    {
+      "id": "B1_K3_136",
+      "word": "die Krise",
+      "meaning": "crisis (situation)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_137",
+      "word": "lieb haben",
+      "meaning": "to love"
+    },
+    {
+      "id": "B1_K3_138",
+      "word": "das Verhältnis",
+      "meaning": "relationship",
+      "plural": "-se"
+    },
+    {
+      "id": "B1_K3_139",
+      "word": "die Zuneigung (Sg.)",
+      "meaning": "affection"
+    },
+    {
+      "id": "B1_K3_140",
+      "word": "die Botschaft",
+      "meaning": "embassy",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_141",
+      "word": "das Konsulat",
+      "meaning": "consulate",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_142",
+      "word": "der Reisepass",
+      "meaning": "passport",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_143",
+      "word": "überqueren",
+      "meaning": "to cross"
+    },
+    {
+      "id": "B1_K3_144",
+      "word": "der Zoll",
+      "meaning": "customs",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_145",
+      "word": "auf|geben, er gibt auf, gab auf, hat aufgegeben",
+      "meaning": "hier: to forsake"
+    },
+    {
+      "id": "B1_K3_146",
+      "word": "die Liebesgeschichte",
+      "meaning": "love story",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_147",
+      "word": "niemals",
+      "meaning": "never"
+    },
+    {
+      "id": "B1_K3_148",
+      "word": "weg|ziehen, er zieht weg, zog weg, ist weggezogen",
+      "meaning": "to move away"
+    },
+    {
+      "id": "B1_K3_149",
+      "word": "der/die Büroangestellte",
+      "meaning": "office worker",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_150",
+      "word": "das Camping (Sg.)",
+      "meaning": "camping"
+    },
+    {
+      "id": "B1_K3_151",
+      "word": "die Espresso-Kanne",
+      "meaning": "Italian coffee pot",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_152",
+      "word": "der Aspekt",
+      "meaning": "aspect",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_153",
+      "word": "der Blogeintrag",
+      "meaning": "blog post",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_154",
+      "word": "das Fach",
+      "meaning": "compartment",
+      "plural": "\"-er",
+      "example": "Meine Tasche hat viele kleine Fächer."
+    },
+    {
+      "id": "B1_K3_155",
+      "word": "gucken",
+      "meaning": "to look"
+    },
+    {
+      "id": "B1_K3_156",
+      "word": "jahrelang",
+      "meaning": "for years"
+    },
+    {
+      "id": "B1_K3_157",
+      "word": "der Lehrling",
+      "meaning": "apprentice",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_158",
+      "word": "die Mark",
+      "meaning": "German Mark",
+      "plural": "-",
+      "example": "Vor dem Euro war die Währung in Deutschland Mark."
+    },
+    {
+      "id": "B1_K3_159",
+      "word": "der Pfennig",
+      "meaning": "penny",
+      "plural": "-e",
+      "example": "Vor dem Cent hieß die Währung in Deutschland Pfennig."
+    },
+    {
+      "id": "B1_K3_160",
+      "word": "relativ",
+      "meaning": "relative"
+    },
+    {
+      "id": "B1_K3_161",
+      "word": "veröffentlichen",
+      "meaning": "to release, to publish"
+    },
+    {
+      "id": "B1_K3_162",
+      "word": "der Baustein",
+      "meaning": "building block",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_163",
+      "word": "das Muster",
+      "meaning": "pattern",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_164",
+      "word": "die Struktur",
+      "meaning": "structure",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_165",
+      "word": "die Tempusform",
+      "meaning": "tense (form)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_166",
+      "word": "aus|suchen",
+      "meaning": "to choose"
+    },
+    {
+      "id": "B1_K3_167",
+      "word": "nachher",
+      "meaning": "afterwards"
+    },
+    {
+      "id": "B1_K3_168",
+      "word": "begrüßen",
+      "meaning": "to greet"
+    },
+    {
+      "id": "B1_K3_169",
+      "word": "das Benehmen (Sg.)",
+      "meaning": "behaviour"
+    },
+    {
+      "id": "B1_K3_170",
+      "word": "anwesend",
+      "meaning": "present"
+    },
+    {
+      "id": "B1_K3_171",
+      "word": "auf|halten, er hält auf, hielt auf, hat aufgehalten",
+      "meaning": "to hold open",
+      "example": "Es ist höflich, anderen Menschen die Tür aufzuhalten."
+    },
+    {
+      "id": "B1_K3_172",
+      "word": "die Begrüßung",
+      "meaning": "greeting",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_173",
+      "word": "das Benimmbuch",
+      "meaning": "book of etiquette",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K3_174",
+      "word": "die Beziehung",
+      "meaning": "relationship",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_175",
+      "word": "beziehungsweise (bzw.)",
+      "meaning": "or (rather)"
+    },
+    {
+      "id": "B1_K3_176",
+      "word": "duzen",
+      "meaning": "to use the informal greeting"
+    },
+    {
+      "id": "B1_K3_177",
+      "word": "der Gastgeber",
+      "meaning": "host (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K3_178",
+      "word": "die Gastgeberin",
+      "meaning": "host (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K3_179",
+      "word": "die Geschäftsfrau",
+      "meaning": "business woman",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_180",
+      "word": "der Geschäftsmann",
+      "meaning": "business man",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K3_181",
+      "word": "die Gewohnheit",
+      "meaning": "habit",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K3_182",
+      "word": "hierarchisch",
+      "meaning": "hierarchical"
+    },
+    {
+      "id": "B1_K3_183",
+      "word": "ignorieren",
+      "meaning": "to ignore"
+    },
+    {
+      "id": "B1_K3_184",
+      "word": "klagen",
+      "meaning": "to lament"
+    },
+    {
+      "id": "B1_K3_185",
+      "word": "der Kuss",
+      "meaning": "kiss",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K3_186",
+      "word": "der Lift",
+      "meaning": "elevator",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K3_187",
+      "word": "niesen",
+      "meaning": "to sneeze"
+    },
+    {
+      "id": "B1_K3_188",
+      "word": "das Personal (Sg.)",
+      "meaning": "staff"
+    },
+    {
+      "id": "B1_K3_189",
+      "word": "die Reihe",
+      "meaning": "hier: turn",
+      "plural": "-n",
+      "example": "der Reihe nach"
+    },
+    {
+      "id": "B1_K3_190",
+      "word": "siezen",
+      "meaning": "to use the formal greeting"
+    },
+    {
+      "id": "B1_K3_191",
+      "word": "theoretisch",
+      "meaning": "theoretical"
+    },
+    {
+      "id": "B1_K3_192",
+      "word": "üblich",
+      "meaning": "usual"
+    },
+    {
+      "id": "B1_K3_193",
+      "word": "umarmen",
+      "meaning": "to hug"
+    },
+    {
+      "id": "B1_K3_194",
+      "word": "umgekehrt",
+      "meaning": "the other way around"
+    },
+    {
+      "id": "B1_K3_195",
+      "word": "unsicher",
+      "meaning": "insecure"
+    },
+    {
+      "id": "B1_K3_196",
+      "word": "unter (+ D.)",
+      "meaning": "among",
+      "example": "Unter Studierenden gibt es eigentlich kein Siezen mehr."
+    },
+    {
+      "id": "B1_K3_197",
+      "word": "verhalten (sich), er verhält, verhielt, hat verhalten",
+      "meaning": "to behave"
+    },
+    {
+      "id": "B1_K3_198",
+      "word": "verkehrt",
+      "meaning": "hier: wrong"
+    },
+    {
+      "id": "B1_K3_199",
+      "word": "vertraut",
+      "meaning": "familiar"
+    },
+    {
+      "id": "B1_K3_200",
+      "word": "der/die Vorgesetzte",
+      "meaning": "superiors",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_201",
+      "word": "die Wange",
+      "meaning": "cheek",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K3_202",
+      "word": "die Vokaländerung",
+      "meaning": "vowel change",
+      "plural": "-en"
     }
   ]
 }

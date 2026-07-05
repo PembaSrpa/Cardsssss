@@ -4,10 +4,728 @@
   "words": [
     {
       "id": "B1_K1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "faulenzen",
+      "meaning": "to lounge around"
+    },
+    {
+      "id": "B1_K1_002",
+      "word": "giftig",
+      "meaning": "poisonous"
+    },
+    {
+      "id": "B1_K1_003",
+      "word": "der Himmel",
+      "meaning": "sky",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K1_004",
+      "word": "im Freien",
+      "meaning": "outdoors"
+    },
+    {
+      "id": "B1_K1_005",
+      "word": "das Insekt",
+      "meaning": "insect",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_006",
+      "word": "das Netz",
+      "meaning": "net",
+      "plural": "-e",
+      "example": "Er hat nachts ein Netz vor dem Zelt."
+    },
+    {
+      "id": "B1_K1_007",
+      "word": "der Pilz",
+      "meaning": "mushroom",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_008",
+      "word": "der Schutz (Sg.)",
+      "meaning": "protection"
+    },
+    {
+      "id": "B1_K1_009",
+      "word": "zelten",
+      "meaning": "to camp"
+    },
+    {
+      "id": "B1_K1_010",
+      "word": "angenehm",
+      "meaning": "pleasant"
+    },
+    {
+      "id": "B1_K1_011",
+      "word": "die Aussicht",
+      "meaning": "view",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_012",
+      "word": "dabei sein (für + A.)",
+      "meaning": "hier: to be",
+      "example": "Im Urlaub am Meer ist für jeden etwas dabei."
+    },
+    {
+      "id": "B1_K1_013",
+      "word": "drüben",
+      "meaning": "over there"
+    },
+    {
+      "id": "B1_K1_014",
+      "word": "das Erlebnis",
+      "meaning": "experience",
+      "plural": "-se"
+    },
+    {
+      "id": "B1_K1_015",
+      "word": "der Genuss (Sg.)",
+      "meaning": "hier: treat"
+    },
+    {
+      "id": "B1_K1_016",
+      "word": "herrlich",
+      "meaning": "glorious"
+    },
+    {
+      "id": "B1_K1_017",
+      "word": "die Küste",
+      "meaning": "coast",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_018",
+      "word": "reif",
+      "meaning": "ripe"
+    },
+    {
+      "id": "B1_K1_019",
+      "word": "der Sand (Sg.)",
+      "meaning": "sand"
+    },
+    {
+      "id": "B1_K1_020",
+      "word": "die Traube",
+      "meaning": "grape",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_021",
+      "word": "der Urlaubsgruß",
+      "meaning": "greetings from abroad",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_022",
+      "word": "derselbe, dasselbe, dieselbe",
+      "meaning": "the same"
+    },
+    {
+      "id": "B1_K1_023",
+      "word": "die Entfernung",
+      "meaning": "distance",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_024",
+      "word": "das Ferienhaus",
+      "meaning": "holiday home",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K1_025",
+      "word": "gründlich",
+      "meaning": "thorough"
+    },
+    {
+      "id": "B1_K1_026",
+      "word": "rechtzeitig",
+      "meaning": "on time"
+    },
+    {
+      "id": "B1_K1_027",
+      "word": "schick",
+      "meaning": "fancy"
+    },
+    {
+      "id": "B1_K1_028",
+      "word": "der Typ",
+      "meaning": "type",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_029",
+      "word": "der Urlaubstyp",
+      "meaning": "holiday type",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_030",
+      "word": "das Urlaubsziel",
+      "meaning": "holiday destination",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_031",
+      "word": "der Chat",
+      "meaning": "chat",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K1_032",
+      "word": "erholen (sich)",
+      "meaning": "to relax"
+    },
+    {
+      "id": "B1_K1_033",
+      "word": "der Kompromiss",
+      "meaning": "compromise",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_034",
+      "word": "meinetwegen",
+      "meaning": "fine with me"
+    },
+    {
+      "id": "B1_K1_035",
+      "word": "sorry (ugs.)",
+      "meaning": "sorry"
+    },
+    {
+      "id": "B1_K1_036",
+      "word": "die Urlaubsplanung",
+      "meaning": "holiday planning",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_037",
+      "word": "wieso",
+      "meaning": "why"
+    },
+    {
+      "id": "B1_K1_038",
+      "word": "zu",
+      "meaning": "to",
+      "example": "Ich habe keine Lust, lange nach einer Ferienwohnung zu suchen."
+    },
+    {
+      "id": "B1_K1_039",
+      "word": "entspannend",
+      "meaning": "relaxing"
+    },
+    {
+      "id": "B1_K1_040",
+      "word": "erfahren, er erfährt, erfuhr, hat erfahren",
+      "meaning": "to learn"
+    },
+    {
+      "id": "B1_K1_041",
+      "word": "die Schifffahrt",
+      "meaning": "boat trip",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_042",
+      "word": "das Wellnesshotel",
+      "meaning": "spa hotel",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K1_043",
+      "word": "ca.",
+      "meaning": "approx. (approximately)"
+    },
+    {
+      "id": "B1_K1_044",
+      "word": "enthalten sein (in + D.)",
+      "meaning": "to be included"
+    },
+    {
+      "id": "B1_K1_045",
+      "word": "die Fahrtzeit",
+      "meaning": "travel time",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_046",
+      "word": "das Gästehaus",
+      "meaning": "guest house",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K1_047",
+      "word": "die Halbpension (Sg.)",
+      "meaning": "half board"
+    },
+    {
+      "id": "B1_K1_048",
+      "word": "höchstens",
+      "meaning": "at the most"
+    },
+    {
+      "id": "B1_K1_049",
+      "word": "der Reisebüro-Mitarbeiter",
+      "meaning": "travel agent (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K1_050",
+      "word": "die Reisebüro-Mitarbeiterin",
+      "meaning": "travel agent (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K1_051",
+      "word": "der Skibus",
+      "meaning": "ski bus",
+      "plural": "-se"
+    },
+    {
+      "id": "B1_K1_052",
+      "word": "das Skigebiet",
+      "meaning": "ski resort",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_053",
+      "word": "der Skilift",
+      "meaning": "ski lift",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_054",
+      "word": "die Vollpension (Sg.)",
+      "meaning": "full board"
+    },
+    {
+      "id": "B1_K1_055",
+      "word": "der Wellness-Bereich",
+      "meaning": "spa area",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_056",
+      "word": "der Winterurlaub",
+      "meaning": "winter holiday",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_057",
+      "word": "die Badewanne",
+      "meaning": "bathtub",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_058",
+      "word": "das Boot",
+      "meaning": "boat",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_059",
+      "word": "da",
+      "meaning": "hier: as",
+      "example": "Da Rothenburg so bekannt ist, kommen viele Touristen in die Stadt."
+    },
+    {
+      "id": "B1_K1_060",
+      "word": "der Einfall",
+      "meaning": "idea",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_061",
+      "word": "enttäuscht",
+      "meaning": "disappointed"
+    },
+    {
+      "id": "B1_K1_062",
+      "word": "der Forumstext",
+      "meaning": "texts in the forum",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_063",
+      "word": "jedenfalls",
+      "meaning": "in any case"
+    },
+    {
+      "id": "B1_K1_064",
+      "word": "liegen, er liegt, lag, hat gelegen",
+      "meaning": "hier: to be in the lead",
+      "example": "In Umfragen liegen meistens große Städte vorn."
+    },
+    {
+      "id": "B1_K1_065",
+      "word": "obwohl",
+      "meaning": "although/even though"
+    },
+    {
+      "id": "B1_K1_066",
+      "word": "offenbar",
+      "meaning": "obvious"
+    },
+    {
+      "id": "B1_K1_067",
+      "word": "solche, solchen",
+      "meaning": "such"
+    },
+    {
+      "id": "B1_K1_068",
+      "word": "spazieren",
+      "meaning": "to go for a walk"
+    },
+    {
+      "id": "B1_K1_069",
+      "word": "die Stadtatmosphäre (Sg.)",
+      "meaning": "city atmosphere"
+    },
+    {
+      "id": "B1_K1_070",
+      "word": "die Strandpromenade",
+      "meaning": "beach side promenade",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_071",
+      "word": "weg sein",
+      "meaning": "to be gone"
+    },
+    {
+      "id": "B1_K1_072",
+      "word": "der Strandurlaub",
+      "meaning": "holiday at the beach",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_073",
+      "word": "das Abenteuer",
+      "meaning": "adventure",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K1_074",
+      "word": "auf|bauen",
+      "meaning": "to build"
+    },
+    {
+      "id": "B1_K1_075",
+      "word": "die Bild-Geschichte",
+      "meaning": "picture story",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_076",
+      "word": "Bock (Sg. ohne Artikel, ugs.)",
+      "meaning": "hier: to feel like",
+      "example": "keinen Bock mehr auf etwas haben"
+    },
+    {
+      "id": "B1_K1_077",
+      "word": "brennen, er brennt, brannte, hat gebrannt",
+      "meaning": "to burn"
+    },
+    {
+      "id": "B1_K1_078",
+      "word": "der Eimer",
+      "meaning": "Übersetzung in etwa hier: spout",
+      "plural": "-",
+      "example": "Es regnet! Der ganze Ausflug ist im Eimer!"
+    },
+    {
+      "id": "B1_K1_079",
+      "word": "der Kofferraum",
+      "meaning": "car boot",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_080",
+      "word": "mehrfach",
+      "meaning": "repeatedly"
+    },
+    {
+      "id": "B1_K1_081",
+      "word": "schief|gehen, es geht schief, ging schief, ist schiefgegangen",
+      "meaning": "to go wrong"
+    },
+    {
+      "id": "B1_K1_082",
+      "word": "tragen, er trägt, trug, hat getragen",
+      "meaning": "to carry",
+      "example": "Gepäck zum Auto tragen"
+    },
+    {
+      "id": "B1_K1_083",
+      "word": "verzweifelt",
+      "meaning": "desperate"
+    },
+    {
+      "id": "B1_K1_084",
+      "word": "die Wiese",
+      "meaning": "meadow",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_085",
+      "word": "das Zeug (Sg.)",
+      "meaning": "stuff"
+    },
+    {
+      "id": "B1_K1_086",
+      "word": "fest machen",
+      "meaning": "to fasten"
+    },
+    {
+      "id": "B1_K1_087",
+      "word": "die Perspektive",
+      "meaning": "perspective",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_088",
+      "word": "diktieren",
+      "meaning": "to dictate"
+    },
+    {
+      "id": "B1_K1_089",
+      "word": "auf",
+      "meaning": "hier: up",
+      "example": "Ohren auf!"
+    },
+    {
+      "id": "B1_K1_090",
+      "word": "der ICE",
+      "meaning": "ICE",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K1_091",
+      "word": "die Zugnummer",
+      "meaning": "train number",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_092",
+      "word": "die Bushaltestelle",
+      "meaning": "bus stop",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_093",
+      "word": "das Gepäckband",
+      "meaning": "baggage conveyor belt",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K1_094",
+      "word": "der Tiergarten",
+      "meaning": "zoo",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K1_095",
+      "word": "der Hauptbahnhof",
+      "meaning": "central station",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_096",
+      "word": "die Alm",
+      "meaning": "alpine pasture (alp)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_097",
+      "word": "der Almsommer",
+      "meaning": "summer on the alp",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K1_098",
+      "word": "der Almurlaub",
+      "meaning": "holiday on the alp",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_099",
+      "word": "begeistert",
+      "meaning": "enthusiatic"
+    },
+    {
+      "id": "B1_K1_100",
+      "word": "beinahe",
+      "meaning": "almost"
+    },
+    {
+      "id": "B1_K1_101",
+      "word": "eher",
+      "meaning": "rather",
+      "example": "Insgesamt ist es eher einsam hier auf der Alm."
+    },
+    {
+      "id": "B1_K1_102",
+      "word": "die Einsamkeit (Sg.)",
+      "meaning": "solitude"
+    },
+    {
+      "id": "B1_K1_103",
+      "word": "der Empfang (Sg.)",
+      "meaning": "reception",
+      "example": "Hier auf dem Berg gibt es keinen Empfang für Handys."
+    },
+    {
+      "id": "B1_K1_104",
+      "word": "entschließen (sich) (zu + D.), er entschließt, entschloss, hat entschlossen",
+      "meaning": "to decide"
+    },
+    {
+      "id": "B1_K1_105",
+      "word": "erholt",
+      "meaning": "relaxed, recovered"
+    },
+    {
+      "id": "B1_K1_106",
+      "word": "erkälten (sich)",
+      "meaning": "to have a cold"
+    },
+    {
+      "id": "B1_K1_107",
+      "word": "falls",
+      "meaning": "in case"
+    },
+    {
+      "id": "B1_K1_108",
+      "word": "das Gebirge",
+      "meaning": "mountains, mountain range",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K1_109",
+      "word": "gegen",
+      "meaning": "hier: around",
+      "example": "Wir treffen uns gegen 8 Uhr, okay?"
+    },
+    {
+      "id": "B1_K1_110",
+      "word": "heim|fahren, er fährt heim, fuhr heim, ist heimgefahren",
+      "meaning": "to go home"
+    },
+    {
+      "id": "B1_K1_111",
+      "word": "das Heimweh (Sg.)",
+      "meaning": "homesickness"
+    },
+    {
+      "id": "B1_K1_112",
+      "word": "hierher",
+      "meaning": "here"
+    },
+    {
+      "id": "B1_K1_113",
+      "word": "die Hütte",
+      "meaning": "hut/lodge",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K1_114",
+      "word": "die Käserei",
+      "meaning": "cheese factory",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_115",
+      "word": "melken",
+      "meaning": "to milk"
+    },
+    {
+      "id": "B1_K1_116",
+      "word": "momentan",
+      "meaning": "at the moment"
+    },
+    {
+      "id": "B1_K1_117",
+      "word": "die Neuigkeit",
+      "meaning": "news",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_118",
+      "word": "der Rückblick",
+      "meaning": "review",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_119",
+      "word": "der Sonnenaufgang",
+      "meaning": "sunrise",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_120",
+      "word": "der Terminkalender",
+      "meaning": "diary",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K1_121",
+      "word": "vorbei sein",
+      "meaning": "to be over"
+    },
+    {
+      "id": "B1_K1_122",
+      "word": "der Zeitpunkt",
+      "meaning": "(point in) time",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_123",
+      "word": "der Almaufenthalt",
+      "meaning": "visit to an alp",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K1_124",
+      "word": "mit|arbeiten",
+      "meaning": "to assist"
+    },
+    {
+      "id": "B1_K1_125",
+      "word": "der Ferienclub",
+      "meaning": "holiday club",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K1_126",
+      "word": "der Olivenbaum",
+      "meaning": "olive tree",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_127",
+      "word": "die Weihnachtsferien (Pl.)",
+      "meaning": "Christmas holidays"
+    },
+    {
+      "id": "B1_K1_128",
+      "word": "die Abneigung",
+      "meaning": "dislike",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K1_129",
+      "word": "der Kausalsatz",
+      "meaning": "causal clause",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K1_130",
+      "word": "der Konzessivsatz",
+      "meaning": "concessive clause",
+      "plural": "\"-e"
     }
   ]
 }

@@ -4,10 +4,1122 @@
   "words": [
     {
       "id": "B1_K8_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "an|strengen (sich)",
+      "meaning": "to show effort"
+    },
+    {
+      "id": "B1_K8_002",
+      "word": "das Apfelmus (Sg.)",
+      "meaning": "apple sauce"
+    },
+    {
+      "id": "B1_K8_003",
+      "word": "ausreichend",
+      "meaning": "sufficient"
+    },
+    {
+      "id": "B1_K8_004",
+      "word": "blutig",
+      "meaning": "bloody"
+    },
+    {
+      "id": "B1_K8_005",
+      "word": "ein|bauen",
+      "meaning": "to build in"
+    },
+    {
+      "id": "B1_K8_006",
+      "word": "ein|cremen",
+      "meaning": "to put on"
+    },
+    {
+      "id": "B1_K8_007",
+      "word": "eiskalt",
+      "meaning": "ice cold"
+    },
+    {
+      "id": "B1_K8_008",
+      "word": "die Flüssigkeit",
+      "meaning": "fluid",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_009",
+      "word": "der Fruchtsaft",
+      "meaning": "fruit juice",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_010",
+      "word": "das Gehirn",
+      "meaning": "brain",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_011",
+      "word": "der Geist",
+      "meaning": "soul",
+      "plural": "-er"
+    },
+    {
+      "id": "B1_K8_012",
+      "word": "die Gymnastik (Sg.)",
+      "meaning": "gymnastics"
+    },
+    {
+      "id": "B1_K8_013",
+      "word": "der Knödel",
+      "meaning": "German dumpling",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_014",
+      "word": "kühlen",
+      "meaning": "to cool"
+    },
+    {
+      "id": "B1_K8_015",
+      "word": "der Pfannkuchen",
+      "meaning": "pancake",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_016",
+      "word": "raten (zu + D.), er rät, riet, hat geraten",
+      "meaning": "to advise",
+      "example": "Ich rate dir, auf deine Gesundheit zu achten."
+    },
+    {
+      "id": "B1_K8_017",
+      "word": "das Rätsel",
+      "meaning": "riddle",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_018",
+      "word": "roh",
+      "meaning": "raw"
+    },
+    {
+      "id": "B1_K8_019",
+      "word": "der Schatten",
+      "meaning": "shadow",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_020",
+      "word": "der Schweinebraten",
+      "meaning": "roast pork",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_021",
+      "word": "spüren",
+      "meaning": "to sense"
+    },
+    {
+      "id": "B1_K8_022",
+      "word": "stärken",
+      "meaning": "to strengthen"
+    },
+    {
+      "id": "B1_K8_023",
+      "word": "das Steak",
+      "meaning": "steak",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K8_024",
+      "word": "die Wasserflasche",
+      "meaning": "water bottle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_025",
+      "word": "zwischendurch",
+      "meaning": "in between"
+    },
+    {
+      "id": "B1_K8_026",
+      "word": "die Auswertung",
+      "meaning": "evaluation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_027",
+      "word": "bisher",
+      "meaning": "so far"
+    },
+    {
+      "id": "B1_K8_028",
+      "word": "einigermaßen",
+      "meaning": "more or less"
+    },
+    {
+      "id": "B1_K8_029",
+      "word": "das Signal",
+      "meaning": "signal",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_030",
+      "word": "zusammen|zählen",
+      "meaning": "to add"
+    },
+    {
+      "id": "B1_K8_031",
+      "word": "atmen",
+      "meaning": "to breathe"
+    },
+    {
+      "id": "B1_K8_032",
+      "word": "auf|lösen",
+      "meaning": "to resolve"
+    },
+    {
+      "id": "B1_K8_033",
+      "word": "blass",
+      "meaning": "pale"
+    },
+    {
+      "id": "B1_K8_034",
+      "word": "die Brust",
+      "meaning": "chest",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_035",
+      "word": "ein|nehmen, er nimmt ein, nahm ein, hat eingenommen",
+      "meaning": "to take",
+      "example": "Medikamente einnehmen"
+    },
+    {
+      "id": "B1_K8_036",
+      "word": "kleben",
+      "meaning": "to stick"
+    },
+    {
+      "id": "B1_K8_037",
+      "word": "der Krankenwagen",
+      "meaning": "ambulance",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_038",
+      "word": "krank|schreiben, er schreibt krank, schrieb krank, hat krankgeschrieben",
+      "meaning": "to sign sb off work, to take sick leave"
+    },
+    {
+      "id": "B1_K8_039",
+      "word": "die Notaufnahme",
+      "meaning": "emergency room",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_040",
+      "word": "der Notruf",
+      "meaning": "SOS, emergency call",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_041",
+      "word": "das Pulver",
+      "meaning": "powder",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_042",
+      "word": "der Rest",
+      "meaning": "rest",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_043",
+      "word": "das Schmerzmittel",
+      "meaning": "pain killer",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_044",
+      "word": "die Schulter",
+      "meaning": "shoulder",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_045",
+      "word": "verschreiben, er verschreibt, verschrieb, hat verschrieben",
+      "meaning": "to prescribe"
+    },
+    {
+      "id": "B1_K8_046",
+      "word": "die Versichertenkarte",
+      "meaning": "insurance card",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_047",
+      "word": "das Krankenzimmer",
+      "meaning": "hospital room",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_048",
+      "word": "brauchen",
+      "meaning": "to need",
+      "example": "Sie brauchen mich nur zu rufen, wenn ich Ihnen helfen soll."
+    },
+    {
+      "id": "B1_K8_049",
+      "word": "warnen (vor + D.)",
+      "meaning": "to warn"
+    },
+    {
+      "id": "B1_K8_050",
+      "word": "zu",
+      "meaning": "to",
+      "example": "Danke, aber du brauchst mir nicht zu helfen."
+    },
+    {
+      "id": "B1_K8_051",
+      "word": "der Pfleger",
+      "meaning": "nurse (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_052",
+      "word": "die Pflegerin",
+      "meaning": "nurse (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K8_053",
+      "word": "glatt",
+      "meaning": "smooth"
+    },
+    {
+      "id": "B1_K8_054",
+      "word": "schwindelig/schwindlig",
+      "meaning": "dizzy"
+    },
+    {
+      "id": "B1_K8_055",
+      "word": "unbequem",
+      "meaning": "uncomfortable"
+    },
+    {
+      "id": "B1_K8_056",
+      "word": "das Akkusativobjekt",
+      "meaning": "direct object",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_057",
+      "word": "kämmen (sich)",
+      "meaning": "to comb"
+    },
+    {
+      "id": "B1_K8_058",
+      "word": "die Besuchszeit",
+      "meaning": "visiting hours",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_059",
+      "word": "die Wertsachen (Pl.)",
+      "meaning": "valuables"
+    },
+    {
+      "id": "B1_K8_060",
+      "word": "der Alarmknopf",
+      "meaning": "alarm",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_061",
+      "word": "der Apparat",
+      "meaning": "appratus, machine",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_062",
+      "word": "auf|bewahren",
+      "meaning": "to keep safe"
+    },
+    {
+      "id": "B1_K8_063",
+      "word": "auf|teilen",
+      "meaning": "to divide"
+    },
+    {
+      "id": "B1_K8_064",
+      "word": "der Bademantel",
+      "meaning": "bathrobe",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K8_065",
+      "word": "die Bedienungsanleitung",
+      "meaning": "instruction manual",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_066",
+      "word": "beschildert",
+      "meaning": "marked with signs"
+    },
+    {
+      "id": "B1_K8_067",
+      "word": "betragen, er beträgt, betrug, hat betragen",
+      "meaning": "to come to"
+    },
+    {
+      "id": "B1_K8_068",
+      "word": "der Brand",
+      "meaning": "fire",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_069",
+      "word": "die Chipkarte",
+      "meaning": "keycard",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_070",
+      "word": "der Diät-Assistent",
+      "meaning": "dietary assistant (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_071",
+      "word": "die Diät-Assistentin",
+      "meaning": "dietary assistant (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K8_072",
+      "word": "diätisch",
+      "meaning": "dietary",
+      "example": "diätische Ernährung"
+    },
+    {
+      "id": "B1_K8_073",
+      "word": "die Drogerie",
+      "meaning": "drug store",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_074",
+      "word": "einschließlich",
+      "meaning": "including"
+    },
+    {
+      "id": "B1_K8_075",
+      "word": "die Entlassung",
+      "meaning": "discharge",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_076",
+      "word": "die Fernbedienung",
+      "meaning": "remote control",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_077",
+      "word": "das Fernsehgerät",
+      "meaning": "television",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_078",
+      "word": "das Festnetz (Sg.)",
+      "meaning": "landline"
+    },
+    {
+      "id": "B1_K8_079",
+      "word": "grundsätzlich",
+      "meaning": "in general"
+    },
+    {
+      "id": "B1_K8_080",
+      "word": "der Haupteingang",
+      "meaning": "main entrance",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_081",
+      "word": "die Hauptmahlzeit",
+      "meaning": "main meal",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_082",
+      "word": "der Hausschuh",
+      "meaning": "slipper",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_083",
+      "word": "das Infoblatt",
+      "meaning": "fact sheet",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K8_084",
+      "word": "der Klinikaufenthalt",
+      "meaning": "hospital stay",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_085",
+      "word": "das Küchenteam",
+      "meaning": "kitchen staff",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K8_086",
+      "word": "das Nachthemd",
+      "meaning": "nightgown",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_087",
+      "word": "der Nachttisch",
+      "meaning": "nightstand",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_088",
+      "word": "der Notausgang",
+      "meaning": "emergency exit",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_089",
+      "word": "obere",
+      "meaning": "upper"
+    },
+    {
+      "id": "B1_K8_090",
+      "word": "prinzipiell",
+      "meaning": "basically"
+    },
+    {
+      "id": "B1_K8_091",
+      "word": "die Rücksicht (Sg.)",
+      "meaning": "consideration",
+      "example": "Bitte nehmen Sie bei Partys Rücksicht auf Ihre Nachbarn."
+    },
+    {
+      "id": "B1_K8_092",
+      "word": "der Schlafanzug",
+      "meaning": "pyjamas",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_093",
+      "word": "das Schließfach",
+      "meaning": "safe",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K8_094",
+      "word": "das Shampoo",
+      "meaning": "shampoo",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K8_095",
+      "word": "sichtbar",
+      "meaning": "visible"
+    },
+    {
+      "id": "B1_K8_096",
+      "word": "der Trainingsanzug",
+      "meaning": "track suit",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_097",
+      "word": "untersagt sein",
+      "meaning": "to be forbidden"
+    },
+    {
+      "id": "B1_K8_098",
+      "word": "die Zahnbürste",
+      "meaning": "toothbrush",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_099",
+      "word": "die Zahnpasta",
+      "meaning": "toothpaste",
+      "plural": "-pasten"
+    },
+    {
+      "id": "B1_K8_100",
+      "word": "der Zimmernachbar",
+      "meaning": "next-door neighbour (m)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_101",
+      "word": "die Zimmernachbarin",
+      "meaning": "next-door neighbour (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K8_102",
+      "word": "zur Verfügung stehen",
+      "meaning": "to be available"
+    },
+    {
+      "id": "B1_K8_103",
+      "word": "zuständig (für + A.)",
+      "meaning": "responsible"
+    },
+    {
+      "id": "B1_K8_104",
+      "word": "die Zwischenmahlzeit",
+      "meaning": "snack",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_105",
+      "word": "der Krankenbesuch",
+      "meaning": "hospital visit",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_106",
+      "word": "der Alzheimer (Sg.)",
+      "meaning": "Alzheimer's Disease"
+    },
+    {
+      "id": "B1_K8_107",
+      "word": "amerikanisch",
+      "meaning": "American"
+    },
+    {
+      "id": "B1_K8_108",
+      "word": "andererseits",
+      "meaning": "on the other hand"
+    },
+    {
+      "id": "B1_K8_109",
+      "word": "aus|lösen",
+      "meaning": "to elicit"
+    },
+    {
+      "id": "B1_K8_110",
+      "word": "die Beerdigung",
+      "meaning": "funeral",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_111",
+      "word": "beruhigend",
+      "meaning": "soothing"
+    },
+    {
+      "id": "B1_K8_112",
+      "word": "das Dur (Sg.)",
+      "meaning": "major"
+    },
+    {
+      "id": "B1_K8_113",
+      "word": "einerseits …, andererseits …",
+      "meaning": "on the one hand…, on the other hand…"
+    },
+    {
+      "id": "B1_K8_114",
+      "word": "empfinden, er empfindet, empfand, hat empfunden",
+      "meaning": "to feel"
+    },
+    {
+      "id": "B1_K8_115",
+      "word": "entweder … oder …",
+      "meaning": "either … or"
+    },
+    {
+      "id": "B1_K8_116",
+      "word": "feierlich",
+      "meaning": "festive"
+    },
+    {
+      "id": "B1_K8_117",
+      "word": "die Filmbranche",
+      "meaning": "film industry",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_118",
+      "word": "der Forscher",
+      "meaning": "researcher (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_119",
+      "word": "die Forscherin",
+      "meaning": "researcher (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K8_120",
+      "word": "gelangen",
+      "meaning": "to reach, attain"
+    },
+    {
+      "id": "B1_K8_121",
+      "word": "Heavy Metal (Sg.) (ohne Artikel)",
+      "meaning": "heavy metal"
+    },
+    {
+      "id": "B1_K8_122",
+      "word": "der Käsekuchen",
+      "meaning": "cheesecake",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_123",
+      "word": "die Klassik (Sg.)",
+      "meaning": "classic"
+    },
+    {
+      "id": "B1_K8_124",
+      "word": "leiden (an + D.), er leidet, litt, hat gelitten",
+      "meaning": "to suffer"
+    },
+    {
+      "id": "B1_K8_125",
+      "word": "die Liebesszene",
+      "meaning": "love scene",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_126",
+      "word": "die Medizin (Sg.)",
+      "meaning": "medicine",
+      "example": "Musik kann wie Medizin wirken."
+    },
+    {
+      "id": "B1_K8_127",
+      "word": "Metal (Sg.) (ohne Artikel)",
+      "meaning": "metal",
+      "example": "Ich höre gern Metal."
+    },
+    {
+      "id": "B1_K8_128",
+      "word": "mithilfe (von + D.)",
+      "meaning": "with the help of"
+    },
+    {
+      "id": "B1_K8_129",
+      "word": "das Moll (Sg.)",
+      "meaning": "minor"
+    },
+    {
+      "id": "B1_K8_130",
+      "word": "der Musikgeschmack (Sg.)",
+      "meaning": "music taste"
+    },
+    {
+      "id": "B1_K8_131",
+      "word": "das Musikstudium",
+      "meaning": "study of music",
+      "plural": "-studien"
+    },
+    {
+      "id": "B1_K8_132",
+      "word": "nicht nur …, sondern auch …",
+      "meaning": "not only… but also…"
+    },
+    {
+      "id": "B1_K8_133",
+      "word": "der Puls (Sg.)",
+      "meaning": "pulse"
+    },
+    {
+      "id": "B1_K8_134",
+      "word": "die Reklame",
+      "meaning": "advertisement",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_135",
+      "word": "Salsa (Sg.) (ohne Artikel)",
+      "meaning": "salsa music"
+    },
+    {
+      "id": "B1_K8_136",
+      "word": "sinken, er sinkt, sank, ist gesunken",
+      "meaning": "to sink"
+    },
+    {
+      "id": "B1_K8_137",
+      "word": "sowohl … als auch …",
+      "meaning": "… as well as…"
+    },
+    {
+      "id": "B1_K8_138",
+      "word": "das Stück",
+      "meaning": "piece",
+      "plural": "-e",
+      "example": "Ich spiele ein Stück von Mozart am Klavier."
+    },
+    {
+      "id": "B1_K8_139",
+      "word": "der Ton",
+      "meaning": "tone",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_140",
+      "word": "die Tonart",
+      "meaning": "key",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_141",
+      "word": "tragisch",
+      "meaning": "tragic"
+    },
+    {
+      "id": "B1_K8_142",
+      "word": "verarbeiten",
+      "meaning": "to process"
+    },
+    {
+      "id": "B1_K8_143",
+      "word": "vermutlich",
+      "meaning": "presumably"
+    },
+    {
+      "id": "B1_K8_144",
+      "word": "weder … noch …",
+      "meaning": "neither…nor"
+    },
+    {
+      "id": "B1_K8_145",
+      "word": "die Wirkung",
+      "meaning": "effect",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_146",
+      "word": "würzig",
+      "meaning": "spicy"
+    },
+    {
+      "id": "B1_K8_147",
+      "word": "zwar …, aber …",
+      "meaning": "still…yet…"
+    },
+    {
+      "id": "B1_K8_148",
+      "word": "die Heilung",
+      "meaning": "cure",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_149",
+      "word": "das Wort",
+      "meaning": "word",
+      "plural": "\"-e",
+      "example": "etwas mit einfachen Worten erklären"
+    },
+    {
+      "id": "B1_K8_150",
+      "word": "die Einschränkung",
+      "meaning": "limitation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_151",
+      "word": "der Konnektor",
+      "meaning": "restriction",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_152",
+      "word": "zweiteilig",
+      "meaning": "two-part"
+    },
+    {
+      "id": "B1_K8_153",
+      "word": "der Jazz (Sg.)",
+      "meaning": "jazz"
+    },
+    {
+      "id": "B1_K8_154",
+      "word": "klassisch",
+      "meaning": "classic"
+    },
+    {
+      "id": "B1_K8_155",
+      "word": "der Kopf",
+      "meaning": "head",
+      "plural": "\"-e",
+      "example": "Was geht dir durch den Kopf?"
+    },
+    {
+      "id": "B1_K8_156",
+      "word": "die Nachfrage",
+      "meaning": "demand, inquiry",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_157",
+      "word": "die Seite",
+      "meaning": "side",
+      "plural": "-n",
+      "example": "Geh mal zur Seite."
+    },
+    {
+      "id": "B1_K8_158",
+      "word": "die Unsicherheit",
+      "meaning": "uncertainty",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_159",
+      "word": "die Gedächtnisleistung",
+      "meaning": "memory skills",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_160",
+      "word": "kommen (auf + A.), er kommt, kam, ist gekommen",
+      "meaning": "hier: to think",
+      "example": "Ich komme gerade nicht auf die Lösung."
+    },
+    {
+      "id": "B1_K8_161",
+      "word": "die Kursstunde",
+      "meaning": "lesson",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_162",
+      "word": "überfragt sein",
+      "meaning": "to be stumped"
+    },
+    {
+      "id": "B1_K8_163",
+      "word": "woran",
+      "meaning": "what"
+    },
+    {
+      "id": "B1_K8_164",
+      "word": "die Zunge",
+      "meaning": "tongue",
+      "plural": "-n",
+      "example": "Wie heißt das Wort noch mal? Mir liegt es auf der Zunge."
+    },
+    {
+      "id": "B1_K8_165",
+      "word": "der Lerncoach",
+      "meaning": "learning coach",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K8_166",
+      "word": "die Motivation (Sg.)",
+      "meaning": "motivation"
+    },
+    {
+      "id": "B1_K8_167",
+      "word": "die Programmankündigung",
+      "meaning": "program announcement",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_168",
+      "word": "der Studiogast",
+      "meaning": "studio guest",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_169",
+      "word": "vermitteln",
+      "meaning": "to convey",
+      "example": "Es ist wichtig, in den Schulen auch Lerntechniken zu vermitteln."
+    },
+    {
+      "id": "B1_K8_170",
+      "word": "der Lerntipp",
+      "meaning": "learning tip",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K8_171",
+      "word": "der Lerntyp",
+      "meaning": "learning type",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_172",
+      "word": "die Lernzeit",
+      "meaning": "learning time",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_173",
+      "word": "der Moderator",
+      "meaning": "moderator (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_174",
+      "word": "die Moderatorin",
+      "meaning": "moderator (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K8_175",
+      "word": "motiviert",
+      "meaning": "motivated"
+    },
+    {
+      "id": "B1_K8_176",
+      "word": "aus|denken (sich), er denkt aus, dachte aus, hat ausgedacht",
+      "meaning": "to think of"
+    },
+    {
+      "id": "B1_K8_177",
+      "word": "fantasievoll",
+      "meaning": "imaginative"
+    },
+    {
+      "id": "B1_K8_178",
+      "word": "überprüfen",
+      "meaning": "to check"
+    },
+    {
+      "id": "B1_K8_179",
+      "word": "ungewöhnlich",
+      "meaning": "unusual"
+    },
+    {
+      "id": "B1_K8_180",
+      "word": "alltäglich",
+      "meaning": "ordinary"
+    },
+    {
+      "id": "B1_K8_181",
+      "word": "die Altersgruppe",
+      "meaning": "peer group",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_182",
+      "word": "aus|breiten (sich)",
+      "meaning": "to spread"
+    },
+    {
+      "id": "B1_K8_183",
+      "word": "der Ausflugstipp",
+      "meaning": "excursion tip",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K8_184",
+      "word": "der Aussichtsturm",
+      "meaning": "belvedere, observation tower",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_185",
+      "word": "barrierearm",
+      "meaning": "partly accessible"
+    },
+    {
+      "id": "B1_K8_186",
+      "word": "essbar",
+      "meaning": "edible"
+    },
+    {
+      "id": "B1_K8_187",
+      "word": "familienfreundlich",
+      "meaning": "family friendly"
+    },
+    {
+      "id": "B1_K8_188",
+      "word": "die Ferne (Sg.)",
+      "meaning": "distance"
+    },
+    {
+      "id": "B1_K8_189",
+      "word": "formen",
+      "meaning": "to form"
+    },
+    {
+      "id": "B1_K8_190",
+      "word": "das Freigelände",
+      "meaning": "open-air site",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K8_191",
+      "word": "geeignet (für + A.)",
+      "meaning": "suitable"
+    },
+    {
+      "id": "B1_K8_192",
+      "word": "interaktiv",
+      "meaning": "interactive"
+    },
+    {
+      "id": "B1_K8_193",
+      "word": "der Klang",
+      "meaning": "sound",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K8_194",
+      "word": "der/die Musikinteressierte",
+      "meaning": "musically interested",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K8_195",
+      "word": "der Pfad",
+      "meaning": "way",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K8_196",
+      "word": "Riesen-",
+      "meaning": "huge",
+      "example": "Ole und Valerie wohnen in einem Riesenhaus."
+    },
+    {
+      "id": "B1_K8_197",
+      "word": "die Schönheit",
+      "meaning": "beauty",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K8_198",
+      "word": "traumhaft",
+      "meaning": "dreamy"
+    },
+    {
+      "id": "B1_K8_199",
+      "word": "die Villa",
+      "meaning": "mansion",
+      "plural": "Villen"
+    },
+    {
+      "id": "B1_K8_200",
+      "word": "visuell",
+      "meaning": "visual"
+    },
+    {
+      "id": "B1_K8_201",
+      "word": "wundern (sich) (über + A.)",
+      "meaning": "to marvel"
     }
   ]
 }

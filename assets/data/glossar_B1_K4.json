@@ -4,10 +4,1050 @@
   "words": [
     {
       "id": "B1_K4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Analyse",
+      "meaning": "analysis",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_002",
+      "word": "aus|tragen, er trägt aus, trug aus, hat ausgetragen",
+      "meaning": "to deliver",
+      "example": "Post austragen"
+    },
+    {
+      "id": "B1_K4_003",
+      "word": "der Briefträger",
+      "meaning": "postal carrier (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_004",
+      "word": "die Briefträgerin",
+      "meaning": "postal carrier (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_005",
+      "word": "der Chemiker",
+      "meaning": "chemist (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_006",
+      "word": "die Chemikerin",
+      "meaning": "chemist (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_007",
+      "word": "die Elektronik (Sg.)",
+      "meaning": "electronics"
+    },
+    {
+      "id": "B1_K4_008",
+      "word": "exakt",
+      "meaning": "exact"
+    },
+    {
+      "id": "B1_K4_009",
+      "word": "geregelt",
+      "meaning": "hier: fixed"
+    },
+    {
+      "id": "B1_K4_010",
+      "word": "der Mechatroniker",
+      "meaning": "mechanical electronics engineer (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_011",
+      "word": "die Mechatronikerin",
+      "meaning": "mechanical electronics engineer (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_012",
+      "word": "das Metall",
+      "meaning": "metal",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_013",
+      "word": "zu|stellen",
+      "meaning": "hier: to deliver"
+    },
+    {
+      "id": "B1_K4_014",
+      "word": "ursprünglich",
+      "meaning": "originally"
+    },
+    {
+      "id": "B1_K4_015",
+      "word": "die Akte",
+      "meaning": "file",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_016",
+      "word": "an|bauen",
+      "meaning": "to cultivate, to attach"
+    },
+    {
+      "id": "B1_K4_017",
+      "word": "der/die Angeklagte",
+      "meaning": "defendant",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_018",
+      "word": "die Anlage",
+      "meaning": "attachment, facility, exhibit",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_019",
+      "word": "beschäftigen (sich) (mit + D.)",
+      "meaning": "to occupy oneself with"
+    },
+    {
+      "id": "B1_K4_020",
+      "word": "das Einkommen",
+      "meaning": "income",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_021",
+      "word": "der Elektroingenieur",
+      "meaning": "electrical engineer (m)",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_022",
+      "word": "die Elektroingenieurin",
+      "meaning": "electrical engineer (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_023",
+      "word": "fair",
+      "meaning": "fair"
+    },
+    {
+      "id": "B1_K4_024",
+      "word": "der Fernsehsender",
+      "meaning": "TV channel",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_025",
+      "word": "gerecht",
+      "meaning": "fair"
+    },
+    {
+      "id": "B1_K4_026",
+      "word": "das Gericht",
+      "meaning": "court (of law)",
+      "plural": "-e",
+      "example": "Ich bin Anwältin und oft am Gericht."
+    },
+    {
+      "id": "B1_K4_027",
+      "word": "die Gerichtsverhandlung",
+      "meaning": "trial",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_028",
+      "word": "her|stellen",
+      "meaning": "to create"
+    },
+    {
+      "id": "B1_K4_029",
+      "word": "die Industrie",
+      "meaning": "industry",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_030",
+      "word": "die Landwirtschaft (Sg.)",
+      "meaning": "agriculture"
+    },
+    {
+      "id": "B1_K4_031",
+      "word": "die Menschenkenntnis (Sg.)",
+      "meaning": "people skills, knowledge of people"
+    },
+    {
+      "id": "B1_K4_032",
+      "word": "die Öffentlichkeit (Sg.)",
+      "meaning": "public"
+    },
+    {
+      "id": "B1_K4_033",
+      "word": "die Partei",
+      "meaning": "political party",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_034",
+      "word": "der Rechtsanwalt",
+      "meaning": "lawyer (m)",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_035",
+      "word": "die Rechtsanwältin",
+      "meaning": "lawyer (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_036",
+      "word": "die Reportage",
+      "meaning": "report",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_037",
+      "word": "der Reporter",
+      "meaning": "reporter (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_038",
+      "word": "die Reporterin",
+      "meaning": "reporter (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_039",
+      "word": "der Richter",
+      "meaning": "judge (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_040",
+      "word": "die Richterin",
+      "meaning": "judge (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_041",
+      "word": "der Schreiner",
+      "meaning": "carpenter (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_042",
+      "word": "die Schreinerin",
+      "meaning": "carpenter (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_043",
+      "word": "der Spezialist",
+      "meaning": "specialist (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_044",
+      "word": "die Spezialistin",
+      "meaning": "specialist (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_045",
+      "word": "das Urteil",
+      "meaning": "verdict",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_046",
+      "word": "das Verbrechen",
+      "meaning": "crime",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_047",
+      "word": "der Augenblick",
+      "meaning": "moment",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_048",
+      "word": "daran",
+      "meaning": "about that"
+    },
+    {
+      "id": "B1_K4_049",
+      "word": "die Entwicklung",
+      "meaning": "development",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_050",
+      "word": "ernst nehmen, er nimmt ernst, nahm ernst, hat ernst genommen",
+      "meaning": "to take sth seriously"
+    },
+    {
+      "id": "B1_K4_051",
+      "word": "aus|halten, er hält aus, hielt aus, hat ausgehalten",
+      "meaning": "to cope (with)"
+    },
+    {
+      "id": "B1_K4_052",
+      "word": "der Wunschberuf",
+      "meaning": "dream job",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_053",
+      "word": "die Konjunktivform",
+      "meaning": "subjunctive form",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_054",
+      "word": "der Bedingungssatz",
+      "meaning": "conditional clause",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_055",
+      "word": "frei|nehmen, er nimmt frei, nahm frei, hat freigenommen",
+      "meaning": "to take time off"
+    },
+    {
+      "id": "B1_K4_056",
+      "word": "irreal",
+      "meaning": "surreal"
+    },
+    {
+      "id": "B1_K4_057",
+      "word": "das Besteck",
+      "meaning": "cutlery",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_058",
+      "word": "die Bürste",
+      "meaning": "brush",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_059",
+      "word": "färben",
+      "meaning": "to colour"
+    },
+    {
+      "id": "B1_K4_060",
+      "word": "föhnen",
+      "meaning": "to dry ones hair"
+    },
+    {
+      "id": "B1_K4_061",
+      "word": "die Gaststätte",
+      "meaning": "restaurant",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_062",
+      "word": "der Hammer",
+      "meaning": "hammer",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_063",
+      "word": "der Imbiss",
+      "meaning": "takeaway",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_064",
+      "word": "der Kamm",
+      "meaning": "comb",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_065",
+      "word": "der Karton",
+      "meaning": "carton",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_066",
+      "word": "der Rechner",
+      "meaning": "calculator",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_067",
+      "word": "die Schere",
+      "meaning": "scissors",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_068",
+      "word": "der Umschlag",
+      "meaning": "envelope",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_069",
+      "word": "irren (sich) (in + D.)",
+      "meaning": "to be wrong, to confuse"
+    },
+    {
+      "id": "B1_K4_070",
+      "word": "schütten",
+      "meaning": "hier: to spill",
+      "example": "Peinlich, heute habe ich einem Kollegen aus Versehen Kaffee über das Hemd geschüttet."
+    },
+    {
+      "id": "B1_K4_071",
+      "word": "das Versehen",
+      "meaning": "accident (accidentally)",
+      "plural": "-",
+      "example": "aus Versehen"
+    },
+    {
+      "id": "B1_K4_072",
+      "word": "verwechseln",
+      "meaning": "to confuse"
+    },
+    {
+      "id": "B1_K4_073",
+      "word": "zusammen|sitzen, er sitzt zusammen, saß zusammen, ist zusammengesessen",
+      "meaning": "to sit with"
+    },
+    {
+      "id": "B1_K4_074",
+      "word": "die Absicht",
+      "meaning": "intention",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_075",
+      "word": "schrecklich",
+      "meaning": "terrible",
+      "example": "Es tut mir schrecklich leid!"
+    },
+    {
+      "id": "B1_K4_076",
+      "word": "verzeihen, er verzeiht, verzieh, hat verziehen",
+      "meaning": "to forgive"
+    },
+    {
+      "id": "B1_K4_077",
+      "word": "kürzlich",
+      "meaning": "shortly"
+    },
+    {
+      "id": "B1_K4_078",
+      "word": "unfreundlich",
+      "meaning": "unfriendly"
+    },
+    {
+      "id": "B1_K4_079",
+      "word": "die Variante",
+      "meaning": "variant",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_080",
+      "word": "ab|schreiben, er schreibt ab, schrieb ab, hat abgeschrieben",
+      "meaning": "to copy"
+    },
+    {
+      "id": "B1_K4_081",
+      "word": "der Anhang",
+      "meaning": "appendix",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_082",
+      "word": "an|kommen (auf + D.), es kommt an, kam an, ist angekommen",
+      "meaning": "hier: to depend on"
+    },
+    {
+      "id": "B1_K4_083",
+      "word": "aussagekräftig",
+      "meaning": "meaningful"
+    },
+    {
+      "id": "B1_K4_084",
+      "word": "die Bescheinigung",
+      "meaning": "certificate",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_085",
+      "word": "das Bewerbungsfoto",
+      "meaning": "application photo",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_086",
+      "word": "das Bewerbungsportal",
+      "meaning": "application website",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_087",
+      "word": "das Bewerbungsschreiben",
+      "meaning": "cover letter",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_088",
+      "word": "das Bewerbungstraining",
+      "meaning": "job application training",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_089",
+      "word": "darum",
+      "meaning": "hier keine direkte Übersetzung",
+      "example": "Könntest du dich darum kümmern, dass unser Kunde pünktlich zum Flughafen kommt?"
+    },
+    {
+      "id": "B1_K4_090",
+      "word": "der Download",
+      "meaning": "download",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_091",
+      "word": "eignen (sich) (für + A.)",
+      "meaning": "to be suitable for"
+    },
+    {
+      "id": "B1_K4_092",
+      "word": "enthalten, er enthält, enthielt, hat enthalten",
+      "meaning": "to contain"
+    },
+    {
+      "id": "B1_K4_093",
+      "word": "erkundigen (sich) (nach + D.)",
+      "meaning": "to inquire"
+    },
+    {
+      "id": "B1_K4_094",
+      "word": "die Fortbildung",
+      "meaning": "further training",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_095",
+      "word": "frühere",
+      "meaning": "previous"
+    },
+    {
+      "id": "B1_K4_096",
+      "word": "die Geduld (Sg.)",
+      "meaning": "patience"
+    },
+    {
+      "id": "B1_K4_097",
+      "word": "die Institution",
+      "meaning": "institution",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_098",
+      "word": "jedoch",
+      "meaning": "however"
+    },
+    {
+      "id": "B1_K4_099",
+      "word": "die Jobsuche",
+      "meaning": "job search",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_100",
+      "word": "der Lebenslauf",
+      "meaning": "resume",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_101",
+      "word": "mit|schicken",
+      "meaning": "to send along"
+    },
+    {
+      "id": "B1_K4_102",
+      "word": "das PDF-Dokument",
+      "meaning": "PDF document",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_103",
+      "word": "die Personalabteilung",
+      "meaning": "human resources",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_104",
+      "word": "der Personalchef",
+      "meaning": "HR director (m)",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_105",
+      "word": "die Personalchefin",
+      "meaning": "HR director (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_106",
+      "word": "die Personalien (Pl.)",
+      "meaning": "personal data"
+    },
+    {
+      "id": "B1_K4_107",
+      "word": "der Profi",
+      "meaning": "professional",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_108",
+      "word": "der Ratgeber",
+      "meaning": "advisor",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_109",
+      "word": "relevant",
+      "meaning": "relevant"
+    },
+    {
+      "id": "B1_K4_110",
+      "word": "sämtlich",
+      "meaning": "all"
+    },
+    {
+      "id": "B1_K4_111",
+      "word": "selbstverständlich",
+      "meaning": "of course"
+    },
+    {
+      "id": "B1_K4_112",
+      "word": "seriös",
+      "meaning": "respectable"
+    },
+    {
+      "id": "B1_K4_113",
+      "word": "der Stand (Sg.)",
+      "meaning": "status",
+      "example": "Der Chef fragt mich oft nach dem Stand der Dinge in meinem Projekt."
+    },
+    {
+      "id": "B1_K4_114",
+      "word": "die Voraussetzung",
+      "meaning": "prerequisite, condition",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_115",
+      "word": "die Vorlage",
+      "meaning": "guideline",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_116",
+      "word": "zukünftig",
+      "meaning": "future"
+    },
+    {
+      "id": "B1_K4_117",
+      "word": "der Zweck",
+      "meaning": "purpose",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_118",
+      "word": "darüber",
+      "meaning": "about that"
+    },
+    {
+      "id": "B1_K4_119",
+      "word": "das Pronominaladverb",
+      "meaning": "pronominal adverb",
+      "plural": "-ien"
+    },
+    {
+      "id": "B1_K4_120",
+      "word": "befriedigend",
+      "meaning": "satisfying"
+    },
+    {
+      "id": "B1_K4_121",
+      "word": "beziehen (sich) (auf + A.), er bezieht, bezog, hat bezogen",
+      "meaning": "to refer to"
+    },
+    {
+      "id": "B1_K4_122",
+      "word": "danach",
+      "meaning": "after that",
+      "example": "Die freie Stelle? Ja, Frau Markovic hat sich danach erkundigt."
+    },
+    {
+      "id": "B1_K4_123",
+      "word": "der Arbeitnehmer",
+      "meaning": "worker (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_124",
+      "word": "die Arbeitnehmerin",
+      "meaning": "worker (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_125",
+      "word": "der Eindruck",
+      "meaning": "impression",
+      "plural": "\"-e",
+      "example": "Mach einen guten Eindruck auf den Arbeitgeber."
+    },
+    {
+      "id": "B1_K4_126",
+      "word": "klein|machen",
+      "meaning": "to belittle oneself"
+    },
+    {
+      "id": "B1_K4_127",
+      "word": "überzeugen (von + D.)",
+      "meaning": "to convince"
+    },
+    {
+      "id": "B1_K4_128",
+      "word": "qualifiziert",
+      "meaning": "qualified"
+    },
+    {
+      "id": "B1_K4_129",
+      "word": "die Absprache",
+      "meaning": "agreement",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_130",
+      "word": "gesucht",
+      "meaning": "wanted"
+    },
+    {
+      "id": "B1_K4_131",
+      "word": "das Inserat",
+      "meaning": "advertisement, insert",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_132",
+      "word": "kommunikativ",
+      "meaning": "communicative"
+    },
+    {
+      "id": "B1_K4_133",
+      "word": "der Nachtportier",
+      "meaning": "night porter (m)",
+      "plural": "-s/-e"
+    },
+    {
+      "id": "B1_K4_134",
+      "word": "der Stundenlohn",
+      "meaning": "hourly wage",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K4_135",
+      "word": "der Teilzeitjob",
+      "meaning": "part-time job",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_136",
+      "word": "das Vergnügen",
+      "meaning": "enjoyment, delight",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_137",
+      "word": "die Zeiteinteilung",
+      "meaning": "time management",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_138",
+      "word": "der Bereich",
+      "meaning": "area",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_139",
+      "word": "die Bewerbungsunterlagen (Pl.)",
+      "meaning": "application"
+    },
+    {
+      "id": "B1_K4_140",
+      "word": "der Interessent",
+      "meaning": "interested party (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_141",
+      "word": "die Interessentin",
+      "meaning": "interested party (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_142",
+      "word": "vorbei|kommen, er kommt vorbei, kam vorbei, ist vorbeigekommen",
+      "meaning": "to come over in person"
+    },
+    {
+      "id": "B1_K4_143",
+      "word": "absolut",
+      "meaning": "absolutely"
+    },
+    {
+      "id": "B1_K4_144",
+      "word": "aggressiv",
+      "meaning": "aggressive"
+    },
+    {
+      "id": "B1_K4_145",
+      "word": "die Anfahrt",
+      "meaning": "journey",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_146",
+      "word": "die Aufmerksamkeit (Sg.)",
+      "meaning": "attention"
+    },
+    {
+      "id": "B1_K4_147",
+      "word": "die Aufregung (Sg.)",
+      "meaning": "excitement"
+    },
+    {
+      "id": "B1_K4_148",
+      "word": "der Auftritt",
+      "meaning": "appearance",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K4_149",
+      "word": "die Beurteilung",
+      "meaning": "assessment",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_150",
+      "word": "der Bewerber",
+      "meaning": "applicant (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_151",
+      "word": "die Bewerberin",
+      "meaning": "applicant (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_152",
+      "word": "die Branche",
+      "meaning": "field of business",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K4_153",
+      "word": "die Einstellung",
+      "meaning": "approach, attitude",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_154",
+      "word": "entspannt",
+      "meaning": "relaxed"
+    },
+    {
+      "id": "B1_K4_155",
+      "word": "die Fähigkeit",
+      "meaning": "ability",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_156",
+      "word": "der Faktor",
+      "meaning": "factor",
+      "plural": "Faktoren"
+    },
+    {
+      "id": "B1_K4_157",
+      "word": "gesamt",
+      "meaning": "whole"
+    },
+    {
+      "id": "B1_K4_158",
+      "word": "heraus-suchen",
+      "meaning": "to look up"
+    },
+    {
+      "id": "B1_K4_159",
+      "word": "konservativ",
+      "meaning": "conservative"
+    },
+    {
+      "id": "B1_K4_160",
+      "word": "die Körperhaltung",
+      "meaning": "posture",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_161",
+      "word": "die Körpersprache (Sg.)",
+      "meaning": "body language"
+    },
+    {
+      "id": "B1_K4_162",
+      "word": "lauter",
+      "meaning": "hier: all",
+      "example": "Vor lauter Aufregung habe ich die Frage der Prüferin nicht verstanden."
+    },
+    {
+      "id": "B1_K4_163",
+      "word": "locker",
+      "meaning": "casual"
+    },
+    {
+      "id": "B1_K4_164",
+      "word": "menschlich",
+      "meaning": "human"
+    },
+    {
+      "id": "B1_K4_165",
+      "word": "möglichst",
+      "meaning": "possible"
+    },
+    {
+      "id": "B1_K4_166",
+      "word": "offen",
+      "meaning": "open",
+      "example": "Jeder Arbeitgeber freut sich über offene und engagierte Mitarbeiter."
+    },
+    {
+      "id": "B1_K4_167",
+      "word": "optimistisch",
+      "meaning": "optimistic"
+    },
+    {
+      "id": "B1_K4_168",
+      "word": "das Outfit",
+      "meaning": "outfit",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K4_169",
+      "word": "die Persönlichkeit",
+      "meaning": "personality",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_170",
+      "word": "die Planung",
+      "meaning": "plan",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_171",
+      "word": "ruhig",
+      "meaning": "calm",
+      "example": "Sagen Sie ruhig, wenn Sie etwas nicht verstanden haben."
+    },
+    {
+      "id": "B1_K4_172",
+      "word": "signalisieren",
+      "meaning": "to signal"
+    },
+    {
+      "id": "B1_K4_173",
+      "word": "steif",
+      "meaning": "stiff"
+    },
+    {
+      "id": "B1_K4_174",
+      "word": "stellen",
+      "meaning": "to set",
+      "example": "den Wecker stellen"
+    },
+    {
+      "id": "B1_K4_175",
+      "word": "der Unternehmer",
+      "meaning": "business man",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_176",
+      "word": "die Unternehmerin",
+      "meaning": "business woman",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K4_177",
+      "word": "die Verbindung",
+      "meaning": "connection",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K4_178",
+      "word": "vor|ziehen, er zieht vor, zog vor, hat vorgezogen",
+      "meaning": "to prefer"
+    },
+    {
+      "id": "B1_K4_179",
+      "word": "der Wecker",
+      "meaning": "alarm (to set the alarm clock)",
+      "plural": "-",
+      "example": "den Wecker stellen"
+    },
+    {
+      "id": "B1_K4_180",
+      "word": "zählen (zu + D.)",
+      "meaning": "to count",
+      "example": "Pünktlichkeit zählt zu den wichtigsten Eigenschaften eines Bewerbers."
+    },
+    {
+      "id": "B1_K4_181",
+      "word": "zahlreich",
+      "meaning": "numerous"
+    },
+    {
+      "id": "B1_K4_182",
+      "word": "zornig",
+      "meaning": "furious"
+    },
+    {
+      "id": "B1_K4_183",
+      "word": "zusammen|stellen",
+      "meaning": "to collect"
+    },
+    {
+      "id": "B1_K4_184",
+      "word": "der Zweifel",
+      "meaning": "doubt",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K4_185",
+      "word": "inhaltlich",
+      "meaning": "ungefähr: relevant"
+    },
+    {
+      "id": "B1_K4_186",
+      "word": "speziell",
+      "meaning": "hier: specifically"
     }
   ]
 }

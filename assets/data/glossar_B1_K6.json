@@ -4,10 +4,807 @@
   "words": [
     {
       "id": "B1_K6_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Bildunterschrift",
+      "meaning": "picture subtitle",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_002",
+      "word": "der Chip",
+      "meaning": "chip",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_003",
+      "word": "der Daten-Chip",
+      "meaning": "data chip",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_004",
+      "word": "die Drohne",
+      "meaning": "drone",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_005",
+      "word": "die Haut",
+      "meaning": "skin",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K6_006",
+      "word": "irgendwann",
+      "meaning": "sometime"
+    },
+    {
+      "id": "B1_K6_007",
+      "word": "der Mars (Sg.)",
+      "meaning": "Mars"
+    },
+    {
+      "id": "B1_K6_008",
+      "word": "die Mobilität (Sg.)",
+      "meaning": "mobility"
+    },
+    {
+      "id": "B1_K6_009",
+      "word": "der Passagier",
+      "meaning": "passenger (m)",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_010",
+      "word": "die Passagierin",
+      "meaning": "passenger (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_011",
+      "word": "der Planet",
+      "meaning": "planet",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_012",
+      "word": "staubsaugen",
+      "meaning": "to vacuum (clean)"
+    },
+    {
+      "id": "B1_K6_013",
+      "word": "übernehmen, er übernimmt, übernahm, hat übernommen",
+      "meaning": "to take on"
+    },
+    {
+      "id": "B1_K6_014",
+      "word": "die Wohnanlage",
+      "meaning": "residential complex",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_015",
+      "word": "die Prognose",
+      "meaning": "prognosis",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_016",
+      "word": "von … aus",
+      "meaning": "from",
+      "example": "Ich arbeite viel von zu Hause aus."
+    },
+    {
+      "id": "B1_K6_017",
+      "word": "der Anlass",
+      "meaning": "reason",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K6_018",
+      "word": "Silvester",
+      "meaning": "new year",
+      "plural": "- (ohne Artikel)"
+    },
+    {
+      "id": "B1_K6_019",
+      "word": "vor|nehmen (sich), er nimmt vor, nahm vor, hat vorgenommen",
+      "meaning": "to plan to do sth"
+    },
+    {
+      "id": "B1_K6_020",
+      "word": "die Ausrede",
+      "meaning": "excuse",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_021",
+      "word": "befragen",
+      "meaning": "to question"
+    },
+    {
+      "id": "B1_K6_022",
+      "word": "dauernd",
+      "meaning": "constant"
+    },
+    {
+      "id": "B1_K6_023",
+      "word": "einfach so",
+      "meaning": "just like that"
+    },
+    {
+      "id": "B1_K6_024",
+      "word": "fassen",
+      "meaning": "hier: to make",
+      "example": "einen Vorsatz fassen"
+    },
+    {
+      "id": "B1_K6_025",
+      "word": "frisch",
+      "meaning": "fresh",
+      "example": "Ich genieße die Ruhe und die frische Luft."
+    },
+    {
+      "id": "B1_K6_026",
+      "word": "der Leser",
+      "meaning": "reader (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_027",
+      "word": "die Leserin",
+      "meaning": "reader (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_028",
+      "word": "Süßes",
+      "meaning": "sweet",
+      "example": "Papa, bringst du uns was Süßes aus dem Supermarkt mit?"
+    },
+    {
+      "id": "B1_K6_029",
+      "word": "der Vorsatz",
+      "meaning": "resolution (to make a resolution)",
+      "plural": "\"-e",
+      "example": "einen Vorsatz fassen"
+    },
+    {
+      "id": "B1_K6_030",
+      "word": "werden",
+      "meaning": "will",
+      "example": "Was wird sich in der Zukunft ändern?"
+    },
+    {
+      "id": "B1_K6_031",
+      "word": "das Futur (Sg.)",
+      "meaning": "future tense"
+    },
+    {
+      "id": "B1_K6_032",
+      "word": "die Wahrheit",
+      "meaning": "truth",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_033",
+      "word": "gelingen, es gelingt, gelang, ist gelungen",
+      "meaning": "to succeed"
+    },
+    {
+      "id": "B1_K6_034",
+      "word": "realisieren",
+      "meaning": "to realize"
+    },
+    {
+      "id": "B1_K6_035",
+      "word": "das Hauptproblem",
+      "meaning": "main problem",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_036",
+      "word": "konkret",
+      "meaning": "concrete"
+    },
+    {
+      "id": "B1_K6_037",
+      "word": "eventuell",
+      "meaning": "potential"
+    },
+    {
+      "id": "B1_K6_038",
+      "word": "die n-Deklination",
+      "meaning": "n-declination",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_039",
+      "word": "der Praktikant",
+      "meaning": "intern (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_040",
+      "word": "die Praktikantin",
+      "meaning": "intern (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_041",
+      "word": "das Zitat",
+      "meaning": "quote",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_042",
+      "word": "der Affe",
+      "meaning": "monkey",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_043",
+      "word": "der Elefant",
+      "meaning": "elephant",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_044",
+      "word": "der Löwe",
+      "meaning": "lion",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_045",
+      "word": "der Pädagoge",
+      "meaning": "educator (m)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_046",
+      "word": "die Pädagogin",
+      "meaning": "educator (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_047",
+      "word": "die Vokallänge",
+      "meaning": "vowel length",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_048",
+      "word": "anonym",
+      "meaning": "anonymous"
+    },
+    {
+      "id": "B1_K6_049",
+      "word": "der Arbeitsort",
+      "meaning": "place of work, workplace",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_050",
+      "word": "auf|halten (sich), er hält auf, hielt auf, hat aufgehalten",
+      "meaning": "hier: to be",
+      "example": "Sie hält sich viel in der Küche der WG auf."
+    },
+    {
+      "id": "B1_K6_051",
+      "word": "aus|gehen (von + D.), er geht aus, ging aus, ist ausgegangen",
+      "meaning": "to assume",
+      "example": "Experten gehen davon aus, dass …"
+    },
+    {
+      "id": "B1_K6_052",
+      "word": "autonom",
+      "meaning": "autonomous"
+    },
+    {
+      "id": "B1_K6_053",
+      "word": "befinden (sich), er befindet, befand, hat befunden",
+      "meaning": "to be located"
+    },
+    {
+      "id": "B1_K6_054",
+      "word": "begegnen",
+      "meaning": "to see"
+    },
+    {
+      "id": "B1_K6_055",
+      "word": "der Dienstleistungsbereich",
+      "meaning": "service industry",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_056",
+      "word": "die Erholungsmöglichkeit",
+      "meaning": "recreational opportunities",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_057",
+      "word": "das Fünftel",
+      "meaning": "fifth",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_058",
+      "word": "der Fußweg",
+      "meaning": "foot path",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_059",
+      "word": "die Grünfläche",
+      "meaning": "green space",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_060",
+      "word": "der Hausbewohner",
+      "meaning": "inhabitant (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_061",
+      "word": "die Hausbewohnerin",
+      "meaning": "inhabitant (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_062",
+      "word": "die Hausfassade",
+      "meaning": "house front",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_063",
+      "word": "heutig",
+      "meaning": "present day",
+      "example": "Heutige Fahrzeuge können noch nicht fliegen."
+    },
+    {
+      "id": "B1_K6_064",
+      "word": "das Homeoffice (Sg.)",
+      "meaning": "home office"
+    },
+    {
+      "id": "B1_K6_065",
+      "word": "längst",
+      "meaning": "for a long time"
+    },
+    {
+      "id": "B1_K6_066",
+      "word": "lauten",
+      "meaning": "hier: to be"
+    },
+    {
+      "id": "B1_K6_067",
+      "word": "die Lebensqualität (Sg.)",
+      "meaning": "quality of life"
+    },
+    {
+      "id": "B1_K6_068",
+      "word": "lebenswert",
+      "meaning": "to be worth living in"
+    },
+    {
+      "id": "B1_K6_069",
+      "word": "das Mikro-Wohnen (Sg.)",
+      "meaning": "mikro living"
+    },
+    {
+      "id": "B1_K6_070",
+      "word": "miteinander",
+      "meaning": "togetherness"
+    },
+    {
+      "id": "B1_K6_071",
+      "word": "das Prinzip",
+      "meaning": "principle",
+      "plural": "-ien"
+    },
+    {
+      "id": "B1_K6_072",
+      "word": "das Privatauto",
+      "meaning": "private car",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_073",
+      "word": "die Rolle",
+      "meaning": "role",
+      "plural": "-n",
+      "example": "Geld spielt für viele eine wichtige Rolle im Leben."
+    },
+    {
+      "id": "B1_K6_074",
+      "word": "die Solarzelle",
+      "meaning": "solar cell",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_075",
+      "word": "spielen",
+      "meaning": "to play",
+      "example": "Geld spielt für viele eine wichtige Rolle im Leben."
+    },
+    {
+      "id": "B1_K6_076",
+      "word": "das Stadtviertel",
+      "meaning": "area",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_077",
+      "word": "vergrößern",
+      "meaning": "to enlarge"
+    },
+    {
+      "id": "B1_K6_078",
+      "word": "voraussichtlich",
+      "meaning": "to be expected"
+    },
+    {
+      "id": "B1_K6_079",
+      "word": "wachsen, er wächst, wuchs, ist gewachsen",
+      "meaning": "to grow"
+    },
+    {
+      "id": "B1_K6_080",
+      "word": "die Windturbine",
+      "meaning": "wind turbine",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_081",
+      "word": "die Akademie",
+      "meaning": "academy",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_082",
+      "word": "das Altenheim",
+      "meaning": "care home/ care facility",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_083",
+      "word": "das Fundbüro",
+      "meaning": "lost and found office",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_084",
+      "word": "die Fußgängerzone",
+      "meaning": "pedestrian zone",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_085",
+      "word": "das Hallenbad",
+      "meaning": "indoor swimming pool",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K6_086",
+      "word": "die Kindertagesstätte",
+      "meaning": "kindergarten",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_087",
+      "word": "der Kiosk",
+      "meaning": "kiosk",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_088",
+      "word": "die Klinik",
+      "meaning": "hospital",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_089",
+      "word": "der Tierpark",
+      "meaning": "zoo",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_090",
+      "word": "die Volkshochschule",
+      "meaning": "community college",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_091",
+      "word": "der Zirkus",
+      "meaning": "circus",
+      "plural": "-se"
+    },
+    {
+      "id": "B1_K6_092",
+      "word": "der Anteil",
+      "meaning": "percentage",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_093",
+      "word": "um|formulieren",
+      "meaning": "to rephrase"
+    },
+    {
+      "id": "B1_K6_094",
+      "word": "der Kasus (Sg.)",
+      "meaning": "case"
+    },
+    {
+      "id": "B1_K6_095",
+      "word": "der Bürgermeister",
+      "meaning": "mayor (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_096",
+      "word": "die Bürgermeisterin",
+      "meaning": "mayor (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_097",
+      "word": "die Bildung (Sg.)",
+      "meaning": "education",
+      "example": "Eine gute Bildung hilft für das ganze Leben."
+    },
+    {
+      "id": "B1_K6_098",
+      "word": "möglicherweise",
+      "meaning": "possibly"
+    },
+    {
+      "id": "B1_K6_099",
+      "word": "die Verkehrssituation",
+      "meaning": "traffic situation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_100",
+      "word": "der Wohnraum",
+      "meaning": "living space",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K6_101",
+      "word": "die Vorfreude (Sg.)",
+      "meaning": "anticipation"
+    },
+    {
+      "id": "B1_K6_102",
+      "word": "die Melodie",
+      "meaning": "melody",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_103",
+      "word": "der Rhythmus",
+      "meaning": "rhythm",
+      "plural": "Rhythmen"
+    },
+    {
+      "id": "B1_K6_104",
+      "word": "der Stern",
+      "meaning": "star",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_105",
+      "word": "dahin",
+      "meaning": "there"
+    },
+    {
+      "id": "B1_K6_106",
+      "word": "grad",
+      "meaning": "at the moment"
+    },
+    {
+      "id": "B1_K6_107",
+      "word": "die Hürde",
+      "meaning": "hurdle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_108",
+      "word": "in der Lage sein",
+      "meaning": "to be able to",
+      "example": "Ich bin grade nicht in der Lage, mich zu bewegen."
+    },
+    {
+      "id": "B1_K6_109",
+      "word": "die Liedzeile",
+      "meaning": "lyric",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_110",
+      "word": "nach|denken, er denkt nach, dachte nach, hat nachgedacht",
+      "meaning": "to think (about)"
+    },
+    {
+      "id": "B1_K6_111",
+      "word": "schweben",
+      "meaning": "to float"
+    },
+    {
+      "id": "B1_K6_112",
+      "word": "selber (ugs. für selbst)",
+      "meaning": "self"
+    },
+    {
+      "id": "B1_K6_113",
+      "word": "stapeln",
+      "meaning": "to stack"
+    },
+    {
+      "id": "B1_K6_114",
+      "word": "die Tiefe",
+      "meaning": "depth",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_115",
+      "word": "die Umschreibung",
+      "meaning": "paraphrase",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_116",
+      "word": "bewerten",
+      "meaning": "to evaluate"
+    },
+    {
+      "id": "B1_K6_117",
+      "word": "kitschig",
+      "meaning": "cheesy"
+    },
+    {
+      "id": "B1_K6_118",
+      "word": "verständlich",
+      "meaning": "understandable"
+    },
+    {
+      "id": "B1_K6_119",
+      "word": "der Bass",
+      "meaning": "bass",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K6_120",
+      "word": "die Flöte",
+      "meaning": "flute",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_121",
+      "word": "das Musikinstrument",
+      "meaning": "musical instrument",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_122",
+      "word": "das Piano",
+      "meaning": "piano",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_123",
+      "word": "das Schlagzeug",
+      "meaning": "drums",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_124",
+      "word": "die Violine",
+      "meaning": "violin",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_125",
+      "word": "die Auszeichnung",
+      "meaning": "award",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_126",
+      "word": "die Biografie",
+      "meaning": "biography",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K6_127",
+      "word": "die Casting-Show",
+      "meaning": "casting show",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_128",
+      "word": "die Charts (Pl.)",
+      "meaning": "charts"
+    },
+    {
+      "id": "B1_K6_129",
+      "word": "der Coversong",
+      "meaning": "cover song",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_130",
+      "word": "die Jury",
+      "meaning": "jury",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_131",
+      "word": "der Preis",
+      "meaning": "prize",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K6_132",
+      "word": "der Songwriter",
+      "meaning": "songwriter (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_133",
+      "word": "die Songwriterin",
+      "meaning": "songwriter (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_134",
+      "word": "mit|singen, er singt mit, sang mit, hat mitgesungen",
+      "meaning": "to sing along"
+    },
+    {
+      "id": "B1_K6_135",
+      "word": "der Song",
+      "meaning": "song",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K6_136",
+      "word": "der Songtitel",
+      "meaning": "song title",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K6_137",
+      "word": "bezeichnen",
+      "meaning": "to mean"
+    },
+    {
+      "id": "B1_K6_138",
+      "word": "die Bezeichnung",
+      "meaning": "term",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_139",
+      "word": "der Doktorand",
+      "meaning": "PhD student (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K6_140",
+      "word": "die Doktorandin",
+      "meaning": "PhD student (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K6_141",
+      "word": "der Internationalismus",
+      "meaning": "internationalism",
+      "plural": "Internationalismen"
     }
   ]
 }

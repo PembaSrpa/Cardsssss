@@ -4,10 +4,1016 @@
   "words": [
     {
       "id": "B1_K10_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Demokratie",
+      "meaning": "democracy",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_002",
+      "word": "die Ehrlichkeit (Sg.)",
+      "meaning": "honesty"
+    },
+    {
+      "id": "B1_K10_003",
+      "word": "die Erziehung (Sg.)",
+      "meaning": "upbringing"
+    },
+    {
+      "id": "B1_K10_004",
+      "word": "die Fairness (Sg.)",
+      "meaning": "fairness"
+    },
+    {
+      "id": "B1_K10_005",
+      "word": "die Gerechtigkeit (Sg.)",
+      "meaning": "justice"
+    },
+    {
+      "id": "B1_K10_006",
+      "word": "die Gleichberechtigung (Sg.)",
+      "meaning": "equality"
+    },
+    {
+      "id": "B1_K10_007",
+      "word": "die Hilfsbereitschaft (Sg.)",
+      "meaning": "helpfulness"
+    },
+    {
+      "id": "B1_K10_008",
+      "word": "der Respekt (Sg.)",
+      "meaning": "respect"
+    },
+    {
+      "id": "B1_K10_009",
+      "word": "der Wert",
+      "meaning": "value",
+      "plural": "-e",
+      "example": "Welche Werte sind in einer Gesellschaft wichtig?"
+    },
+    {
+      "id": "B1_K10_010",
+      "word": "die Zivilcourage (Sg.)",
+      "meaning": "moral courage"
+    },
+    {
+      "id": "B1_K10_011",
+      "word": "der/die Abgeordnete",
+      "meaning": "MP, congress(wo)man",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_012",
+      "word": "das Amt",
+      "meaning": "office",
+      "plural": "\"-er",
+      "example": "Sie übernimmt das Amt einer Abgeordneten."
+    },
+    {
+      "id": "B1_K10_013",
+      "word": "die Arbeitsstelle",
+      "meaning": "job",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_014",
+      "word": "die Aufnahme (Sg.)",
+      "meaning": "inclusion",
+      "example": "die Aufnahme in ein Team"
+    },
+    {
+      "id": "B1_K10_015",
+      "word": "das Bedürfnis",
+      "meaning": "need",
+      "plural": "-se"
+    },
+    {
+      "id": "B1_K10_016",
+      "word": "blind",
+      "meaning": "blind"
+    },
+    {
+      "id": "B1_K10_017",
+      "word": "der/die Blinde",
+      "meaning": "blind person",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_018",
+      "word": "der Bundeskanzler",
+      "meaning": "chancellor (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_019",
+      "word": "die Bundeskanzlerin",
+      "meaning": "chancellor (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_020",
+      "word": "der Bundestag (Sg.)",
+      "meaning": "Bundestag"
+    },
+    {
+      "id": "B1_K10_021",
+      "word": "die Flucht (Sg.)",
+      "meaning": "escape"
+    },
+    {
+      "id": "B1_K10_022",
+      "word": "humorvoll",
+      "meaning": "funny"
+    },
+    {
+      "id": "B1_K10_023",
+      "word": "die Integration (Sg.)",
+      "meaning": "integration"
+    },
+    {
+      "id": "B1_K10_024",
+      "word": "der Kandidat",
+      "meaning": "candidate (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_025",
+      "word": "die Kandidatin",
+      "meaning": "candidate (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_026",
+      "word": "körperlich",
+      "meaning": "physical"
+    },
+    {
+      "id": "B1_K10_027",
+      "word": "der Migrant",
+      "meaning": "migrant (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_028",
+      "word": "die Migrantin",
+      "meaning": "migrant (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_029",
+      "word": "die Minderheit",
+      "meaning": "minority",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_030",
+      "word": "der Minister",
+      "meaning": "minister (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_031",
+      "word": "die Ministerin",
+      "meaning": "minister (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_032",
+      "word": "das Recht",
+      "meaning": "law",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_033",
+      "word": "die Regierung",
+      "meaning": "government",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_034",
+      "word": "verlassen, er verlässt, verließ, hat verlassen",
+      "meaning": "to leave"
+    },
+    {
+      "id": "B1_K10_035",
+      "word": "vollständig",
+      "meaning": "complete"
+    },
+    {
+      "id": "B1_K10_036",
+      "word": "das Vorurteil",
+      "meaning": "prejudice",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_037",
+      "word": "die Meinungsfreiheit (Sg.)",
+      "meaning": "freedom of opinion"
+    },
+    {
+      "id": "B1_K10_038",
+      "word": "sichern",
+      "meaning": "to secure"
+    },
+    {
+      "id": "B1_K10_039",
+      "word": "alarmieren",
+      "meaning": "to alert"
+    },
+    {
+      "id": "B1_K10_040",
+      "word": "die Arbeitssuche (Sg.)",
+      "meaning": "job search"
+    },
+    {
+      "id": "B1_K10_041",
+      "word": "aus|bilden",
+      "meaning": "to train"
+    },
+    {
+      "id": "B1_K10_042",
+      "word": "die Ausgabestelle",
+      "meaning": "issuing office",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_043",
+      "word": "bedürftig",
+      "meaning": "needy"
+    },
+    {
+      "id": "B1_K10_044",
+      "word": "der Behördengang",
+      "meaning": "visit to the authorities",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K10_045",
+      "word": "die Berufsfeuerwehr",
+      "meaning": "professional fire brigade",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_046",
+      "word": "bewältigen",
+      "meaning": "to deal with"
+    },
+    {
+      "id": "B1_K10_047",
+      "word": "das Ding",
+      "meaning": "thing (To help during times of need is my thing)",
+      "plural": "-e",
+      "example": "In der Not zu helfen ist mein Ding."
+    },
+    {
+      "id": "B1_K10_048",
+      "word": "ehrenamtlich",
+      "meaning": "voluntary"
+    },
+    {
+      "id": "B1_K10_049",
+      "word": "erfüllen",
+      "meaning": "to fulfill",
+      "example": "eine wichtige Funktion erfüllen"
+    },
+    {
+      "id": "B1_K10_050",
+      "word": "die Erste Hilfe (Sg.)",
+      "meaning": "first aid"
+    },
+    {
+      "id": "B1_K10_051",
+      "word": "die Feuerwehrleute (Pl.)",
+      "meaning": "firefighters"
+    },
+    {
+      "id": "B1_K10_052",
+      "word": "die Funktion",
+      "meaning": "function",
+      "plural": "-en",
+      "example": "eine wichtige Funktion erfüllen"
+    },
+    {
+      "id": "B1_K10_053",
+      "word": "das Hochwasser",
+      "meaning": "flood",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_054",
+      "word": "die Jugendgruppe",
+      "meaning": "youth group",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_055",
+      "word": "die Mühe",
+      "meaning": "effort",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_056",
+      "word": "die Nachhilfe (Sg.)",
+      "meaning": "tutoring (to tutor)",
+      "example": "Nachhilfe geben"
+    },
+    {
+      "id": "B1_K10_057",
+      "word": "die Nachtzeit",
+      "meaning": "nighttime",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_058",
+      "word": "die Not",
+      "meaning": "need",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K10_059",
+      "word": "die Organisation",
+      "meaning": "organization",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_060",
+      "word": "der Pate",
+      "meaning": "godfather",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_061",
+      "word": "die Patenschaft (Sg.)",
+      "meaning": "sponsorship, godparenthood"
+    },
+    {
+      "id": "B1_K10_062",
+      "word": "die Patin",
+      "meaning": "godmother",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_063",
+      "word": "qualitativ",
+      "meaning": "qualitative"
+    },
+    {
+      "id": "B1_K10_064",
+      "word": "spenden",
+      "meaning": "to donate"
+    },
+    {
+      "id": "B1_K10_065",
+      "word": "übrig",
+      "meaning": "remaining"
+    },
+    {
+      "id": "B1_K10_066",
+      "word": "das Vereinsmitglied",
+      "meaning": "club member",
+      "plural": "-er"
+    },
+    {
+      "id": "B1_K10_067",
+      "word": "werden, er wird, wurde, ist worden",
+      "meaning": "will",
+      "example": "Er wird in Erster Hilfe ausgebildet."
+    },
+    {
+      "id": "B1_K10_068",
+      "word": "die Auswahl (Sg.)",
+      "meaning": "selection",
+      "example": "eine Auswahl treffen"
+    },
+    {
+      "id": "B1_K10_069",
+      "word": "die Apfelsine",
+      "meaning": "orange",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_070",
+      "word": "die Aprikose",
+      "meaning": "apricot",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_071",
+      "word": "das Croissant",
+      "meaning": "croissant",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K10_072",
+      "word": "das Gewürz",
+      "meaning": "spice",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_073",
+      "word": "das Hackfleisch (Sg.)",
+      "meaning": "ground meat"
+    },
+    {
+      "id": "B1_K10_074",
+      "word": "das Hörnchen",
+      "meaning": "croissant",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_075",
+      "word": "das Hühnchen",
+      "meaning": "chicken",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_076",
+      "word": "der/das Ketchup",
+      "meaning": "ketchup",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K10_077",
+      "word": "die Konfitüre",
+      "meaning": "jam",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_078",
+      "word": "die Margarine",
+      "meaning": "margarine",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_079",
+      "word": "das Milchprodukt",
+      "meaning": "milk product",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_080",
+      "word": "die Orange",
+      "meaning": "orange",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_081",
+      "word": "die Pflaume",
+      "meaning": "plum",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_082",
+      "word": "der Pudding",
+      "meaning": "pudding",
+      "plural": "-e/-s"
+    },
+    {
+      "id": "B1_K10_083",
+      "word": "der Quark (Sg.)",
+      "meaning": "curd"
+    },
+    {
+      "id": "B1_K10_084",
+      "word": "die Schlagsahne (Sg.)",
+      "meaning": "whipped cream"
+    },
+    {
+      "id": "B1_K10_085",
+      "word": "die Soße",
+      "meaning": "sauce",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_086",
+      "word": "die Vollmilch (Sg.)",
+      "meaning": "whole milk"
+    },
+    {
+      "id": "B1_K10_087",
+      "word": "würzen",
+      "meaning": "to season"
+    },
+    {
+      "id": "B1_K10_088",
+      "word": "die Zwetschge/Zwetschke",
+      "meaning": "plum",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_089",
+      "word": "das Aktiv (Sg.)",
+      "meaning": "active"
+    },
+    {
+      "id": "B1_K10_090",
+      "word": "das Passiv (Sg.)",
+      "meaning": "passive"
+    },
+    {
+      "id": "B1_K10_091",
+      "word": "der Passivsatz",
+      "meaning": "passive sentence",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K10_092",
+      "word": "die Passivform",
+      "meaning": "passive form",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_093",
+      "word": "die Anfrage",
+      "meaning": "enquiry",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_094",
+      "word": "bundesweit",
+      "meaning": "nationwide"
+    },
+    {
+      "id": "B1_K10_095",
+      "word": "verbreiten",
+      "meaning": "to spread"
+    },
+    {
+      "id": "B1_K10_096",
+      "word": "ab|melden",
+      "meaning": "to sign off"
+    },
+    {
+      "id": "B1_K10_097",
+      "word": "das Einwohnermeldeamt",
+      "meaning": "registration office",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K10_098",
+      "word": "die Stadtinformation",
+      "meaning": "city information",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_099",
+      "word": "verantwortlich (für + A.)",
+      "meaning": "responsible"
+    },
+    {
+      "id": "B1_K10_100",
+      "word": "ab|stimmen",
+      "meaning": "to vote"
+    },
+    {
+      "id": "B1_K10_101",
+      "word": "ab|ziehen, er zieht ab, zog ab, hat abgezogen",
+      "meaning": "to be deducted"
+    },
+    {
+      "id": "B1_K10_102",
+      "word": "das Arbeitsamt",
+      "meaning": "job center",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K10_103",
+      "word": "das Architekturbüro",
+      "meaning": "architecture firm",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K10_104",
+      "word": "die Brezel",
+      "meaning": "pretzel",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_105",
+      "word": "die Bürgerversammlung",
+      "meaning": "town meeting",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_106",
+      "word": "durch|führen",
+      "meaning": "to conduct"
+    },
+    {
+      "id": "B1_K10_107",
+      "word": "ein|nehmen, er nimmt ein, nahm ein, hat eingenommen",
+      "meaning": "to take in",
+      "example": "Geld einnehmen"
+    },
+    {
+      "id": "B1_K10_108",
+      "word": "das Elterncafé",
+      "meaning": "parent coffee shop",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K10_109",
+      "word": "elternfrei",
+      "meaning": "parent-free"
+    },
+    {
+      "id": "B1_K10_110",
+      "word": "entsorgen",
+      "meaning": "to dispose of"
+    },
+    {
+      "id": "B1_K10_111",
+      "word": "erscheinen, er erscheint, erschien, ist erschienen",
+      "meaning": "to be released",
+      "example": "Die Zeitschrift erscheint einmal im Monat."
+    },
+    {
+      "id": "B1_K10_112",
+      "word": "finanzieren",
+      "meaning": "to finance"
+    },
+    {
+      "id": "B1_K10_113",
+      "word": "heraus|finden, er findet heraus, fand heraus, hat herausgefunden",
+      "meaning": "to find out"
+    },
+    {
+      "id": "B1_K10_114",
+      "word": "die Online-Redaktion",
+      "meaning": "online editors",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_115",
+      "word": "die Semmel",
+      "meaning": "bread roll (South German)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_116",
+      "word": "der Sitz",
+      "meaning": "seat",
+      "plural": "-e",
+      "example": "Die politische Vertretung hat ihren Sitz im Rathaus."
+    },
+    {
+      "id": "B1_K10_117",
+      "word": "das Sommerprojekt",
+      "meaning": "summer project",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_118",
+      "word": "die Spielstadt",
+      "meaning": "play city",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K10_119",
+      "word": "die Vertretung",
+      "meaning": "delegation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_120",
+      "word": "das Vorhaben",
+      "meaning": "scheme",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_121",
+      "word": "der Weblog",
+      "meaning": "web blog",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K10_122",
+      "word": "die Zone",
+      "meaning": "zone",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_123",
+      "word": "zu|lassen, er lässt zu, ließ zu, hat zugelassen",
+      "meaning": "to be admitted"
+    },
+    {
+      "id": "B1_K10_124",
+      "word": "das Zusammenleben (Sg.)",
+      "meaning": "communal life"
+    },
+    {
+      "id": "B1_K10_125",
+      "word": "zuverlässig",
+      "meaning": "reliable"
+    },
+    {
+      "id": "B1_K10_126",
+      "word": "mit|organisieren",
+      "meaning": "to help organise"
+    },
+    {
+      "id": "B1_K10_127",
+      "word": "der Organisator",
+      "meaning": "organiser (m)",
+      "plural": "Organisatoren"
+    },
+    {
+      "id": "B1_K10_128",
+      "word": "die Organisatorin",
+      "meaning": "organiser (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_129",
+      "word": "gell",
+      "meaning": "right"
+    },
+    {
+      "id": "B1_K10_130",
+      "word": "hin|gehen, er geht hin, ging hin, ist hingegangen",
+      "meaning": "to go"
+    },
+    {
+      "id": "B1_K10_131",
+      "word": "die Partikel",
+      "meaning": "particle",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_132",
+      "word": "der Anspruch",
+      "meaning": "entitlement",
+      "plural": "\"-e",
+      "example": "Die Angestellten haben Anspruch auf 30 Tage Urlaub."
+    },
+    {
+      "id": "B1_K10_133",
+      "word": "ab-räumen",
+      "meaning": "to clear"
+    },
+    {
+      "id": "B1_K10_134",
+      "word": "die Lieferung",
+      "meaning": "shipment",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_135",
+      "word": "die Straßenlampe",
+      "meaning": "street lamp",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_136",
+      "word": "der Kontrastakzent",
+      "meaning": "contrast emphasis",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_137",
+      "word": "das Kontrastwort",
+      "meaning": "contrast word",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K10_138",
+      "word": "die EU (Sg.)",
+      "meaning": "EU"
+    },
+    {
+      "id": "B1_K10_139",
+      "word": "die Union",
+      "meaning": "union",
+      "plural": "-en",
+      "example": "die Europäische Union"
+    },
+    {
+      "id": "B1_K10_140",
+      "word": "der Ausstieg",
+      "meaning": "exit",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_141",
+      "word": "befürchten",
+      "meaning": "to fear"
+    },
+    {
+      "id": "B1_K10_142",
+      "word": "bei|treten, er tritt bei, trat bei, ist beigetreten",
+      "meaning": "to join"
+    },
+    {
+      "id": "B1_K10_143",
+      "word": "die Besonderheit",
+      "meaning": "feature",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_144",
+      "word": "die Dienstleistung",
+      "meaning": "service",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_145",
+      "word": "eine Entscheidung treffen",
+      "meaning": "to make a decision"
+    },
+    {
+      "id": "B1_K10_146",
+      "word": "endgültig",
+      "meaning": "final"
+    },
+    {
+      "id": "B1_K10_147",
+      "word": "die Europäische Union (Sg.) (= EU)",
+      "meaning": "European Union (= EU)"
+    },
+    {
+      "id": "B1_K10_148",
+      "word": "führen",
+      "meaning": "hier: to wage",
+      "example": "Krieg führen"
+    },
+    {
+      "id": "B1_K10_149",
+      "word": "die Gemeinschaft",
+      "meaning": "community",
+      "plural": "-en",
+      "example": "die Europäische Gemeinschaft"
+    },
+    {
+      "id": "B1_K10_150",
+      "word": "die Grenzkontrolle",
+      "meaning": "border control",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_151",
+      "word": "Großbritannien",
+      "meaning": "Great Britain"
+    },
+    {
+      "id": "B1_K10_152",
+      "word": "im Lauf (+ G.)",
+      "meaning": "over the course",
+      "example": "Im Lauf der Zeit hat sich viel geändert."
+    },
+    {
+      "id": "B1_K10_153",
+      "word": "der Krieg",
+      "meaning": "war",
+      "plural": "-e",
+      "example": "Krieg führen"
+    },
+    {
+      "id": "B1_K10_154",
+      "word": "national",
+      "meaning": "national"
+    },
+    {
+      "id": "B1_K10_155",
+      "word": "der Normalfall",
+      "meaning": "rule",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K10_156",
+      "word": "der Skeptiker",
+      "meaning": "sceptic (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K10_157",
+      "word": "die Skeptikerin",
+      "meaning": "sceptic (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K10_158",
+      "word": "die Vorschrift",
+      "meaning": "regulation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_159",
+      "word": "der Weltkrieg",
+      "meaning": "world war",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K10_160",
+      "word": "wirtschaftlich",
+      "meaning": "economic"
+    },
+    {
+      "id": "B1_K10_161",
+      "word": "zunächst",
+      "meaning": "initially"
+    },
+    {
+      "id": "B1_K10_162",
+      "word": "die Atomkraft (Sg.)",
+      "meaning": "atomic power"
+    },
+    {
+      "id": "B1_K10_163",
+      "word": "Belgien",
+      "meaning": "Belgium"
+    },
+    {
+      "id": "B1_K10_164",
+      "word": "die Kriegswaffe",
+      "meaning": "weapon of war",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K10_165",
+      "word": "Luxemburg",
+      "meaning": "Luxembourg"
+    },
+    {
+      "id": "B1_K10_166",
+      "word": "der Mitgliedsstaat",
+      "meaning": "member state",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_167",
+      "word": "die Niederlande (Pl.)",
+      "meaning": "Netherlands"
+    },
+    {
+      "id": "B1_K10_168",
+      "word": "regeln",
+      "meaning": "to regulate"
+    },
+    {
+      "id": "B1_K10_169",
+      "word": "schließen, er schließt, schloss, hat geschlossen",
+      "meaning": "to conclude",
+      "example": "einen Vertrag schließen"
+    },
+    {
+      "id": "B1_K10_170",
+      "word": "die Solidarität (Sg.)",
+      "meaning": "solidarity"
+    },
+    {
+      "id": "B1_K10_171",
+      "word": "die Toleranz (Sg.)",
+      "meaning": "tolerance"
+    },
+    {
+      "id": "B1_K10_172",
+      "word": "der Umgang (Sg.)",
+      "meaning": "dealing"
+    },
+    {
+      "id": "B1_K10_173",
+      "word": "unterzeichnen",
+      "meaning": "to sign"
+    },
+    {
+      "id": "B1_K10_174",
+      "word": "die Wirtschaftsbeziehung",
+      "meaning": "economic relationship",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K10_175",
+      "word": "die Würde (Sg.)",
+      "meaning": "dignity"
+    },
+    {
+      "id": "B1_K10_176",
+      "word": "der Faden",
+      "meaning": "in etwa: the train (to lose one's train of thought)",
+      "plural": "\"-",
+      "example": "den Faden verlieren"
+    },
+    {
+      "id": "B1_K10_177",
+      "word": "der Humor (Sg.)",
+      "meaning": "humour",
+      "example": "Nimm die Situation mit Humor und mach einfach weiter."
+    },
+    {
+      "id": "B1_K10_178",
+      "word": "ins Stocken kommen",
+      "meaning": "to falter"
+    },
+    {
+      "id": "B1_K10_179",
+      "word": "der Vortrag",
+      "meaning": "lecture",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K10_180",
+      "word": "abschließend",
+      "meaning": "in conclusion"
     }
   ]
 }

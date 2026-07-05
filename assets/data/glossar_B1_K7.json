@@ -4,10 +4,957 @@
   "words": [
     {
       "id": "B1_K7_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "zwischenmenschlich",
+      "meaning": "interpersonal"
+    },
+    {
+      "id": "B1_K7_002",
+      "word": "decken",
+      "meaning": "hier: to lay",
+      "example": "den Tisch decken"
+    },
+    {
+      "id": "B1_K7_003",
+      "word": "die Erhöhung",
+      "meaning": "increase",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_004",
+      "word": "die Forderung",
+      "meaning": "demand",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_005",
+      "word": "das Gelände",
+      "meaning": "site",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K7_006",
+      "word": "die Gelegenheit",
+      "meaning": "opportunity",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_007",
+      "word": "der Grill",
+      "meaning": "grill",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K7_008",
+      "word": "hassen",
+      "meaning": "to hate"
+    },
+    {
+      "id": "B1_K7_009",
+      "word": "das Institut",
+      "meaning": "institute",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_010",
+      "word": "die Kabine",
+      "meaning": "cabin",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_011",
+      "word": "klären",
+      "meaning": "to settle"
+    },
+    {
+      "id": "B1_K7_012",
+      "word": "die Krankenkasse",
+      "meaning": "insurance company",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_013",
+      "word": "das Lagerfeuer",
+      "meaning": "campfire",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K7_014",
+      "word": "die Mahnung",
+      "meaning": "reminder",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_015",
+      "word": "die Pflicht",
+      "meaning": "duty",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_016",
+      "word": "der Präsident",
+      "meaning": "president (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_017",
+      "word": "die Präsidentin",
+      "meaning": "president (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K7_018",
+      "word": "der Prof (= Professor/in)",
+      "meaning": "professor",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K7_019",
+      "word": "der Schatz",
+      "meaning": "darling",
+      "plural": "\"-e",
+      "example": "Hallo, mein Schatz!"
+    },
+    {
+      "id": "B1_K7_020",
+      "word": "schätzen",
+      "meaning": "to guess",
+      "example": "Ich schätze, so tolle Nachbarn findet man selten."
+    },
+    {
+      "id": "B1_K7_021",
+      "word": "die Spätschicht",
+      "meaning": "late shift",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_022",
+      "word": "streiken",
+      "meaning": "to go on strike"
+    },
+    {
+      "id": "B1_K7_023",
+      "word": "die Teilnahme (Sg.)",
+      "meaning": "participation"
+    },
+    {
+      "id": "B1_K7_024",
+      "word": "die Versammlung",
+      "meaning": "assembly",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_025",
+      "word": "verspäten (sich)",
+      "meaning": "to be late"
+    },
+    {
+      "id": "B1_K7_026",
+      "word": "das Verständnis (Sg.)",
+      "meaning": "sympathy (To have sympathy for + A.)",
+      "example": "Verständnis haben für + A."
+    },
+    {
+      "id": "B1_K7_027",
+      "word": "die Vorstellung",
+      "meaning": "introduction",
+      "plural": "-en",
+      "example": "Kommst du zur Vorstellung der neuen Präsidentin?"
+    },
+    {
+      "id": "B1_K7_028",
+      "word": "hervor|heben, er hebt hervor, hob hervor, hat hervorgehoben",
+      "meaning": "to highlight"
+    },
+    {
+      "id": "B1_K7_029",
+      "word": "schätzen (an + D.)",
+      "meaning": "to value",
+      "example": "An meinem Chef schätze ich vor allem seine Ruhe und Freundlichkeit."
+    },
+    {
+      "id": "B1_K7_030",
+      "word": "aus den Augen verlieren",
+      "meaning": "to lose touch",
+      "example": "Meine Freunde aus der Kindheit habe ich leider aus den Augen verloren."
+    },
+    {
+      "id": "B1_K7_031",
+      "word": "die Ausgabe",
+      "meaning": "edition",
+      "plural": "-n",
+      "example": "Lesen Sie den interessanten Artikel in der Juli-Ausgabe."
+    },
+    {
+      "id": "B1_K7_032",
+      "word": "beim Alten bleiben",
+      "meaning": "to stay the same",
+      "example": "Früher dachte ich, dass immer alles beim Alten bleibt."
+    },
+    {
+      "id": "B1_K7_033",
+      "word": "berufstätig",
+      "meaning": "working"
+    },
+    {
+      "id": "B1_K7_034",
+      "word": "beschließen, er beschließt, beschloss, hat beschlossen",
+      "meaning": "to decide"
+    },
+    {
+      "id": "B1_K7_035",
+      "word": "die Clique",
+      "meaning": "clique",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_036",
+      "word": "eingespannt sein",
+      "meaning": "to be very busy",
+      "example": "Meine Freunde und ich sind alle beruflich stark eingespannt."
+    },
+    {
+      "id": "B1_K7_037",
+      "word": "entgegen (+ G.)",
+      "meaning": "against"
+    },
+    {
+      "id": "B1_K7_038",
+      "word": "die Erwartung",
+      "meaning": "expectation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_039",
+      "word": "die Ewigkeit",
+      "meaning": "ages",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_040",
+      "word": "fest|stellen",
+      "meaning": "to realize"
+    },
+    {
+      "id": "B1_K7_041",
+      "word": "die Freundschaftsgeschichte",
+      "meaning": "friendship history",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_042",
+      "word": "das Gespräch",
+      "meaning": "conversation",
+      "plural": "-e",
+      "example": "ins Gespräch kommen"
+    },
+    {
+      "id": "B1_K7_043",
+      "word": "gut|tun, er tut gut, tat gut, hat gutgetan",
+      "meaning": "to benefit"
+    },
+    {
+      "id": "B1_K7_044",
+      "word": "halten, er hält, hielt, hat gehalten",
+      "meaning": "to hold",
+      "example": "Unsere Freundschaft hält schon seit 20 Jahren."
+    },
+    {
+      "id": "B1_K7_045",
+      "word": "der Konflikt",
+      "meaning": "conflict",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_046",
+      "word": "kräftig",
+      "meaning": "hard"
+    },
+    {
+      "id": "B1_K7_047",
+      "word": "nachdem",
+      "meaning": "after"
+    },
+    {
+      "id": "B1_K7_048",
+      "word": "selbe",
+      "meaning": "same",
+      "example": "Inga und ich wohnen im selben Haus."
+    },
+    {
+      "id": "B1_K7_049",
+      "word": "der Studienplatz",
+      "meaning": "place to study",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K7_050",
+      "word": "verlieren, er verliert, verlor, hat verloren",
+      "meaning": "to lose",
+      "example": "aus den Augen verlieren"
+    },
+    {
+      "id": "B1_K7_051",
+      "word": "verstehen (sich) (mit + D.), er versteht, verstand, hat verstanden",
+      "meaning": "to get along",
+      "example": "Ich verstehe mich nicht so gut mit meinem Mitbewohner."
+    },
+    {
+      "id": "B1_K7_052",
+      "word": "der Weg",
+      "meaning": "path",
+      "plural": "-e",
+      "example": "Meiner besten Freundin bin ich zufällig über den Weg gelaufen."
+    },
+    {
+      "id": "B1_K7_053",
+      "word": "zusammen|stoßen, er stößt zusammen, stieß zusammen, ist zusammengestoßen",
+      "meaning": "to crash together"
+    },
+    {
+      "id": "B1_K7_054",
+      "word": "zusammen|wohnen",
+      "meaning": "to live together"
+    },
+    {
+      "id": "B1_K7_055",
+      "word": "die Bildung",
+      "meaning": "formation",
+      "plural": "-en",
+      "example": "Wie ist die Bildung des Plusquamperfekts?"
+    },
+    {
+      "id": "B1_K7_056",
+      "word": "die Gegenwart (Sg.)",
+      "meaning": "present"
+    },
+    {
+      "id": "B1_K7_057",
+      "word": "das Plusquamperfekt (Sg.)",
+      "meaning": "pluperfect"
+    },
+    {
+      "id": "B1_K7_058",
+      "word": "die Vorvergangenheit (Sg.)",
+      "meaning": "past perfect"
+    },
+    {
+      "id": "B1_K7_059",
+      "word": "das Netzwerk",
+      "meaning": "network",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_060",
+      "word": "die Konfliktsituation",
+      "meaning": "conflict situation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_061",
+      "word": "bevor",
+      "meaning": "before"
+    },
+    {
+      "id": "B1_K7_062",
+      "word": "erschöpft",
+      "meaning": "exhausted"
+    },
+    {
+      "id": "B1_K7_063",
+      "word": "seit",
+      "meaning": "since",
+      "example": "Seit ich dich kenne, bin ich glücklich."
+    },
+    {
+      "id": "B1_K7_064",
+      "word": "seitdem",
+      "meaning": "since",
+      "example": "Seitdem du den Job gewechselt hast, bist du immer gestresst."
+    },
+    {
+      "id": "B1_K7_065",
+      "word": "während",
+      "meaning": "while",
+      "example": "Ich putze, während ich telefoniere."
+    },
+    {
+      "id": "B1_K7_066",
+      "word": "der Schülerjob",
+      "meaning": "student job",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K7_067",
+      "word": "akzeptieren",
+      "meaning": "to accept"
+    },
+    {
+      "id": "B1_K7_068",
+      "word": "bereit sein (zu + D.)",
+      "meaning": "to be ready"
+    },
+    {
+      "id": "B1_K7_069",
+      "word": "diplomatisch",
+      "meaning": "diplomatic"
+    },
+    {
+      "id": "B1_K7_070",
+      "word": "einigen (sich) (auf + A.)",
+      "meaning": "to agree"
+    },
+    {
+      "id": "B1_K7_071",
+      "word": "erleichtern",
+      "meaning": "to facilitate"
+    },
+    {
+      "id": "B1_K7_072",
+      "word": "gehören (zu + D.)",
+      "meaning": "to belong to"
+    },
+    {
+      "id": "B1_K7_073",
+      "word": "die Goldwaage",
+      "meaning": "hier keine Übersetzung",
+      "plural": "-n",
+      "example": "Leg doch nicht jedes Wort auf die Goldwaage!"
+    },
+    {
+      "id": "B1_K7_074",
+      "word": "die Harmonie",
+      "meaning": "harmony",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_075",
+      "word": "die Ich-Aussage",
+      "meaning": "I-statement",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_076",
+      "word": "die Kritik",
+      "meaning": "criticism",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_077",
+      "word": "nach|geben, er gibt nach, gab nach, hat nachgegeben",
+      "meaning": "to give in"
+    },
+    {
+      "id": "B1_K7_078",
+      "word": "schweigen, er schweigt, schwieg, hat geschwiegen",
+      "meaning": "to remain silent"
+    },
+    {
+      "id": "B1_K7_079",
+      "word": "der Streit",
+      "meaning": "arguement",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_080",
+      "word": "das Wort",
+      "meaning": "word",
+      "plural": "\"-er",
+      "example": "Leg doch nicht jedes Wort auf die Goldwaage!"
+    },
+    {
+      "id": "B1_K7_081",
+      "word": "zu Ende sein",
+      "meaning": "to finish"
+    },
+    {
+      "id": "B1_K7_082",
+      "word": "auf|regen (sich) (über + A.)",
+      "meaning": "to get annoyed"
+    },
+    {
+      "id": "B1_K7_083",
+      "word": "das Streitgespräch",
+      "meaning": "argument",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_084",
+      "word": "übertreiben, er übertreibt, übertrieb, hat übertrieben",
+      "meaning": "to exaggerate"
+    },
+    {
+      "id": "B1_K7_085",
+      "word": "undiplomatisch",
+      "meaning": "undiplomatic"
+    },
+    {
+      "id": "B1_K7_086",
+      "word": "die Modalpartikel",
+      "meaning": "modal particle",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K7_087",
+      "word": "amüsieren (sich) (über + A.)",
+      "meaning": "to amuse"
+    },
+    {
+      "id": "B1_K7_088",
+      "word": "angeblich",
+      "meaning": "allegedly"
+    },
+    {
+      "id": "B1_K7_089",
+      "word": "behaupten",
+      "meaning": "to claim"
+    },
+    {
+      "id": "B1_K7_090",
+      "word": "die Behauptung",
+      "meaning": "claim",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_091",
+      "word": "beschäftigt sein (mit + D.)",
+      "meaning": "to be busy"
+    },
+    {
+      "id": "B1_K7_092",
+      "word": "beweisen, er beweist, bewies, hat bewiesen",
+      "meaning": "to prove"
+    },
+    {
+      "id": "B1_K7_093",
+      "word": "der Ehegatte",
+      "meaning": "spouse (m)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_094",
+      "word": "die Ehegattin",
+      "meaning": "spouse (f)s",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K7_095",
+      "word": "eigen",
+      "meaning": "own"
+    },
+    {
+      "id": "B1_K7_096",
+      "word": "der Einfluss",
+      "meaning": "influence",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K7_097",
+      "word": "die Einzelheit",
+      "meaning": "detail",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_098",
+      "word": "der Ersatz (Sg.)",
+      "meaning": "replacement"
+    },
+    {
+      "id": "B1_K7_099",
+      "word": "die Fake News (Pl.)",
+      "meaning": "fake news"
+    },
+    {
+      "id": "B1_K7_100",
+      "word": "das Familienleben (Sg.)",
+      "meaning": "family life"
+    },
+    {
+      "id": "B1_K7_101",
+      "word": "fürchten",
+      "meaning": "to be scared"
+    },
+    {
+      "id": "B1_K7_102",
+      "word": "geheim",
+      "meaning": "secret"
+    },
+    {
+      "id": "B1_K7_103",
+      "word": "klicken (auf + A.)",
+      "meaning": "to click"
+    },
+    {
+      "id": "B1_K7_104",
+      "word": "die Mehrheit",
+      "meaning": "majority",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_105",
+      "word": "die Presse (Sg.)",
+      "meaning": "press"
+    },
+    {
+      "id": "B1_K7_106",
+      "word": "der/die Promi",
+      "meaning": "famous person",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K7_107",
+      "word": "die Scheidung",
+      "meaning": "divorce",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_108",
+      "word": "die Schlagzeile",
+      "meaning": "headline",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_109",
+      "word": "wundervoll",
+      "meaning": "wonderful"
+    },
+    {
+      "id": "B1_K7_110",
+      "word": "arm, ärmer, am ärmsten",
+      "meaning": "poor"
+    },
+    {
+      "id": "B1_K7_111",
+      "word": "die Fernsehkrimiserie",
+      "meaning": "TV crime series",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_112",
+      "word": "das Gericht",
+      "meaning": "court (of law)",
+      "plural": "-e",
+      "example": "vor Gericht gehen"
+    },
+    {
+      "id": "B1_K7_113",
+      "word": "kommerziell",
+      "meaning": "comercial"
+    },
+    {
+      "id": "B1_K7_114",
+      "word": "komponieren",
+      "meaning": "to compose"
+    },
+    {
+      "id": "B1_K7_115",
+      "word": "der Komponist",
+      "meaning": "composer (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_116",
+      "word": "die Komponistin",
+      "meaning": "composer (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K7_117",
+      "word": "leidenschaftlich",
+      "meaning": "passionate"
+    },
+    {
+      "id": "B1_K7_118",
+      "word": "die Musikgeschichte (Sg.)",
+      "meaning": "musical history"
+    },
+    {
+      "id": "B1_K7_119",
+      "word": "der Pianist",
+      "meaning": "piano player (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_120",
+      "word": "die Pianistin",
+      "meaning": "piano player (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K7_121",
+      "word": "die Schauspielkarriere",
+      "meaning": "acting career",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_122",
+      "word": "verhindern",
+      "meaning": "to prevent"
+    },
+    {
+      "id": "B1_K7_123",
+      "word": "zwingen, er zwingt, zwang, hat gezwungen",
+      "meaning": "to force"
+    },
+    {
+      "id": "B1_K7_124",
+      "word": "dokumentieren",
+      "meaning": "to document"
+    },
+    {
+      "id": "B1_K7_125",
+      "word": "erhalten sein",
+      "meaning": "to be preserved",
+      "example": "Die Briefe sind alt, aber gut erhalten."
+    },
+    {
+      "id": "B1_K7_126",
+      "word": "die Inspiration",
+      "meaning": "inspiration",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_127",
+      "word": "die Konzentration (Sg.)",
+      "meaning": "concentration"
+    },
+    {
+      "id": "B1_K7_128",
+      "word": "die Konzertreise",
+      "meaning": "concert tour",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_129",
+      "word": "die Krimireihe",
+      "meaning": "crime series",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_130",
+      "word": "die Parade-Rolle",
+      "meaning": "main role",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_131",
+      "word": "der Tod",
+      "meaning": "death",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_132",
+      "word": "um (+ A.)",
+      "meaning": "around",
+      "example": "die Gegend um Leipzig"
+    },
+    {
+      "id": "B1_K7_133",
+      "word": "die Sammlung",
+      "meaning": "collection",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_134",
+      "word": "der Fuchs",
+      "meaning": "fox",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K7_135",
+      "word": "die Moral (Sg.)",
+      "meaning": "moral"
+    },
+    {
+      "id": "B1_K7_136",
+      "word": "beißen, er beißt, biss, hat gebissen",
+      "meaning": "to bite"
+    },
+    {
+      "id": "B1_K7_137",
+      "word": "die Beute (Sg.)",
+      "meaning": "prey"
+    },
+    {
+      "id": "B1_K7_138",
+      "word": "brüllen",
+      "meaning": "roared"
+    },
+    {
+      "id": "B1_K7_139",
+      "word": "davon|gehen, er geht davon, ging davon, ist davongegangen",
+      "meaning": "to leave"
+    },
+    {
+      "id": "B1_K7_140",
+      "word": "die Fabel",
+      "meaning": "fable",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_141",
+      "word": "der Feind",
+      "meaning": "enemy (m)",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_142",
+      "word": "die Feindin",
+      "meaning": "enemy (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K7_143",
+      "word": "der Hirsch",
+      "meaning": "stag",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_144",
+      "word": "die Jagd",
+      "meaning": "hunt",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_145",
+      "word": "kraftlos",
+      "meaning": "powerless"
+    },
+    {
+      "id": "B1_K7_146",
+      "word": "die Lebensweisheit",
+      "meaning": "worldly wisdom",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_147",
+      "word": "lügen, er lügt, log, hat gelogen",
+      "meaning": "to lie"
+    },
+    {
+      "id": "B1_K7_148",
+      "word": "scharf, schärfer, am schärfsten",
+      "meaning": "sharp",
+      "example": "Vorsicht, das Messer ist scharf."
+    },
+    {
+      "id": "B1_K7_149",
+      "word": "stecken (in + D.)",
+      "meaning": "hier: to hide"
+    },
+    {
+      "id": "B1_K7_150",
+      "word": "zurück|brüllen",
+      "meaning": "to roar back"
+    },
+    {
+      "id": "B1_K7_151",
+      "word": "fressen, er frisst, fraß, hat gefressen",
+      "meaning": "to eat"
+    },
+    {
+      "id": "B1_K7_152",
+      "word": "loben",
+      "meaning": "to praise"
+    },
+    {
+      "id": "B1_K7_153",
+      "word": "der Rabe",
+      "meaning": "crow",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_154",
+      "word": "der Schnabel",
+      "meaning": "beak",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K7_155",
+      "word": "stehlen, er stiehlt, stahl, hat gestohlen",
+      "meaning": "to steal"
+    },
+    {
+      "id": "B1_K7_156",
+      "word": "vor|singen, er singt vor, sang vor, hat vorgesungen",
+      "meaning": "to sing"
+    },
+    {
+      "id": "B1_K7_157",
+      "word": "die Ente",
+      "meaning": "duck",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_158",
+      "word": "die Fliege",
+      "meaning": "fly",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_159",
+      "word": "die Giraffe",
+      "meaning": "giraffe",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_160",
+      "word": "das Krokodil",
+      "meaning": "crocodile",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_161",
+      "word": "die Mücke",
+      "meaning": "mosquito",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_162",
+      "word": "der Pinguin",
+      "meaning": "penguin",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_163",
+      "word": "die Schildkröte",
+      "meaning": "turtle",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_164",
+      "word": "die Rede",
+      "meaning": "speech",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K7_165",
+      "word": "der Satzteil",
+      "meaning": "part of the sentence",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_166",
+      "word": "die Markierung",
+      "meaning": "marking",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K7_167",
+      "word": "das Konfliktgespräch",
+      "meaning": "argument",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K7_168",
+      "word": "der Temporalsatz",
+      "meaning": "temporal clause",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K7_169",
+      "word": "das Tempus",
+      "meaning": "tense",
+      "plural": "Tempora"
     }
   ]
 }

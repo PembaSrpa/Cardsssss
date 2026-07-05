@@ -4,10 +4,848 @@
   "words": [
     {
       "id": "B1_K2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "benötigen",
+      "meaning": "to need"
+    },
+    {
+      "id": "B1_K2_002",
+      "word": "der Fingerabdruck",
+      "meaning": "finger print",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_003",
+      "word": "der Funkkopfhörer",
+      "meaning": "wireless headphones",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_004",
+      "word": "das Lastenfahrrad",
+      "meaning": "freight bicycle",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K2_005",
+      "word": "der Sprachassistent",
+      "meaning": "language assistant",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_006",
+      "word": "der Steh-Sitz-Tisch",
+      "meaning": "stand-sit-table",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_007",
+      "word": "der Türöffner",
+      "meaning": "door opener",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_008",
+      "word": "der Slogan",
+      "meaning": "slogan",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_009",
+      "word": "die Taste",
+      "meaning": "key",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_010",
+      "word": "der Transport",
+      "meaning": "transport",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_011",
+      "word": "an|schließen, er schließt an, schloss an, hat angeschlossen",
+      "meaning": "hier: to connect",
+      "example": "Er schließt den Lautsprecher an den Laptop an."
+    },
+    {
+      "id": "B1_K2_012",
+      "word": "auf|laden, er lädt auf, lud auf, hat aufgeladen",
+      "meaning": "to charge"
+    },
+    {
+      "id": "B1_K2_013",
+      "word": "bedienen",
+      "meaning": "to use"
+    },
+    {
+      "id": "B1_K2_014",
+      "word": "ein|setzen",
+      "meaning": "to insert",
+      "example": "eine Batterie ins Handy einsetzen"
+    },
+    {
+      "id": "B1_K2_015",
+      "word": "ein|stecken",
+      "meaning": "to plug (in)"
+    },
+    {
+      "id": "B1_K2_016",
+      "word": "installieren",
+      "meaning": "to install"
+    },
+    {
+      "id": "B1_K2_017",
+      "word": "schalten",
+      "meaning": "to switch",
+      "example": "das Handy stumm schalten"
+    },
+    {
+      "id": "B1_K2_018",
+      "word": "stumm",
+      "meaning": "mute",
+      "example": "das Handy stumm schalten"
+    },
+    {
+      "id": "B1_K2_019",
+      "word": "die Anleitung",
+      "meaning": "instruction",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_020",
+      "word": "an|schaffen (sich)",
+      "meaning": "to get"
+    },
+    {
+      "id": "B1_K2_021",
+      "word": "bloß",
+      "meaning": "only"
+    },
+    {
+      "id": "B1_K2_022",
+      "word": "die Frage",
+      "meaning": "question",
+      "plural": "-n",
+      "example": "vor einer Frage stehen"
+    },
+    {
+      "id": "B1_K2_023",
+      "word": "der Handyladen",
+      "meaning": "mobile phone shop",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K2_024",
+      "word": "herunter|fallen, er fällt herunter, fiel herunter, ist heruntergefallen",
+      "meaning": "to fall"
+    },
+    {
+      "id": "B1_K2_025",
+      "word": "irgendetwas",
+      "meaning": "something"
+    },
+    {
+      "id": "B1_K2_026",
+      "word": "kaputt|gehen, er geht kaputt, ging kaputt, ist kaputtgegangen",
+      "meaning": "to break"
+    },
+    {
+      "id": "B1_K2_027",
+      "word": "kommen, er kommt, kam, ist gekommen",
+      "meaning": "to come",
+      "example": "auf den Markt kommen"
+    },
+    {
+      "id": "B1_K2_028",
+      "word": "lohnen (sich)",
+      "meaning": "to be worth it"
+    },
+    {
+      "id": "B1_K2_029",
+      "word": "das Sonderangebot",
+      "meaning": "special offer",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_030",
+      "word": "der Staubsauger",
+      "meaning": "vacuum cleaner",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_031",
+      "word": "stehen, er steht, stand, hat gestanden",
+      "meaning": "hier: to be confronted with",
+      "example": "vor einer Frage stehen"
+    },
+    {
+      "id": "B1_K2_032",
+      "word": "technisch",
+      "meaning": "technical"
+    },
+    {
+      "id": "B1_K2_033",
+      "word": "der Knopf",
+      "meaning": "button",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_034",
+      "word": "nähen",
+      "meaning": "to sew"
+    },
+    {
+      "id": "B1_K2_035",
+      "word": "reinigen",
+      "meaning": "to clean"
+    },
+    {
+      "id": "B1_K2_036",
+      "word": "streichen, er streicht, strich, hat gestrichen",
+      "meaning": "to paint"
+    },
+    {
+      "id": "B1_K2_037",
+      "word": "der Kopfhörer",
+      "meaning": "headphones",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_038",
+      "word": "das Ladekabel",
+      "meaning": "charger",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_039",
+      "word": "die Powerbank",
+      "meaning": "powerbank",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_040",
+      "word": "daher",
+      "meaning": "therefore"
+    },
+    {
+      "id": "B1_K2_041",
+      "word": "darum",
+      "meaning": "that's why",
+      "example": "Max' Lautsprecher geht nicht, darum lässt er ihn reparieren."
+    },
+    {
+      "id": "B1_K2_042",
+      "word": "deswegen",
+      "meaning": "therefore"
+    },
+    {
+      "id": "B1_K2_043",
+      "word": "der Handyakku",
+      "meaning": "mobile phone battery",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_044",
+      "word": "sodass",
+      "meaning": "so that"
+    },
+    {
+      "id": "B1_K2_045",
+      "word": "der Stick",
+      "meaning": "USB",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_046",
+      "word": "an|haben, er hat an, hatte an, hat angehabt",
+      "meaning": "to wear"
+    },
+    {
+      "id": "B1_K2_047",
+      "word": "an|schalten",
+      "meaning": "to switch on"
+    },
+    {
+      "id": "B1_K2_048",
+      "word": "dabei|haben",
+      "meaning": "to have sth with oneself"
+    },
+    {
+      "id": "B1_K2_049",
+      "word": "diesmal",
+      "meaning": "this time"
+    },
+    {
+      "id": "B1_K2_050",
+      "word": "die EC-Karte",
+      "meaning": "debit card",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_051",
+      "word": "die Gebrauchsanweisung",
+      "meaning": "instructions",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_052",
+      "word": "die Geheimzahl",
+      "meaning": "PIN",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_053",
+      "word": "der Geldautomat",
+      "meaning": "ATM (automatic teller machine)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_054",
+      "word": "das Girokonto",
+      "meaning": "checking account",
+      "plural": "-konten"
+    },
+    {
+      "id": "B1_K2_055",
+      "word": "gratis",
+      "meaning": "free"
+    },
+    {
+      "id": "B1_K2_056",
+      "word": "nach|sehen, er sieht nach, sah nach, hat nachgesehen",
+      "meaning": "to have a look"
+    },
+    {
+      "id": "B1_K2_057",
+      "word": "das Portemonnaie",
+      "meaning": "wallet",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_058",
+      "word": "der Rabatt",
+      "meaning": "discount",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_059",
+      "word": "rein",
+      "meaning": "pure",
+      "example": "Es war reines Glück, dass ich mein Handy wieder gefunden habe."
+    },
+    {
+      "id": "B1_K2_060",
+      "word": "verraten, er verrät, verriet, hat verraten",
+      "meaning": "to reveal"
+    },
+    {
+      "id": "B1_K2_061",
+      "word": "zurück|gehen, er geht zurück, ging zurück, ist zurückgegangen",
+      "meaning": "to go back"
+    },
+    {
+      "id": "B1_K2_062",
+      "word": "zurück|zahlen",
+      "meaning": "to pay back"
+    },
+    {
+      "id": "B1_K2_063",
+      "word": "die Garantie",
+      "meaning": "hier: warranty",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_064",
+      "word": "laden, er lädt, lud, hat geladen",
+      "meaning": "hier: to charge",
+      "example": "Mein Handy ist fast leer, ich muss es laden."
+    },
+    {
+      "id": "B1_K2_065",
+      "word": "die Quittung",
+      "meaning": "receipt",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_066",
+      "word": "reklamieren",
+      "meaning": "to complain/exchange"
+    },
+    {
+      "id": "B1_K2_067",
+      "word": "testen",
+      "meaning": "to test"
+    },
+    {
+      "id": "B1_K2_068",
+      "word": "die Technologie",
+      "meaning": "technology",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_069",
+      "word": "die Vorstellung",
+      "meaning": "hier: idea/suggestion",
+      "plural": "-en",
+      "example": "Hast du eine Vorstellung, wie eine smarte Wohnung aussieht?"
+    },
+    {
+      "id": "B1_K2_070",
+      "word": "die Alarmanlage",
+      "meaning": "alarm (system)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_071",
+      "word": "die Ausnahme",
+      "meaning": "exception",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_072",
+      "word": "bemerken",
+      "meaning": "to notice"
+    },
+    {
+      "id": "B1_K2_073",
+      "word": "bereits",
+      "meaning": "already"
+    },
+    {
+      "id": "B1_K2_074",
+      "word": "berühren",
+      "meaning": "to touch"
+    },
+    {
+      "id": "B1_K2_075",
+      "word": "der Einbruch",
+      "meaning": "break-in",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_076",
+      "word": "gleichzeitig",
+      "meaning": "simultaneous"
+    },
+    {
+      "id": "B1_K2_077",
+      "word": "die Haustür",
+      "meaning": "front door",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_078",
+      "word": "hin|sehen, er sieht hin, sah hin, hat hingesehen",
+      "meaning": "to look"
+    },
+    {
+      "id": "B1_K2_079",
+      "word": "die Jalousie",
+      "meaning": "shutter",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_080",
+      "word": "machen (zu + D.)",
+      "meaning": "to make",
+      "example": "Wir haben die Wohnung zu einem Smart Home gemacht."
+    },
+    {
+      "id": "B1_K2_081",
+      "word": "das Magazin",
+      "meaning": "magazine",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_082",
+      "word": "der Monitor",
+      "meaning": "monitor",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_083",
+      "word": "der Neubau",
+      "meaning": "new building",
+      "plural": "-ten"
+    },
+    {
+      "id": "B1_K2_084",
+      "word": "die Nutzung",
+      "meaning": "usage",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_085",
+      "word": "sicher",
+      "meaning": "safe",
+      "example": "Durch die Alarmanlage fühlen sich die Bewohner sicher."
+    },
+    {
+      "id": "B1_K2_086",
+      "word": "smart",
+      "meaning": "smart"
+    },
+    {
+      "id": "B1_K2_087",
+      "word": "das Smart Home",
+      "meaning": "smart home",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_088",
+      "word": "steuern",
+      "meaning": "to control"
+    },
+    {
+      "id": "B1_K2_089",
+      "word": "der Tagesablauf",
+      "meaning": "daily routine",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_090",
+      "word": "die Videonachricht",
+      "meaning": "video message",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_091",
+      "word": "die Wand",
+      "meaning": "wall",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_092",
+      "word": "die Zentrale",
+      "meaning": "headquarters",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_093",
+      "word": "kommen, er kommt, kam, ist gekommen",
+      "meaning": "to come",
+      "example": "zu Besuch kommen"
+    },
+    {
+      "id": "B1_K2_094",
+      "word": "wessen",
+      "meaning": "whose"
+    },
+    {
+      "id": "B1_K2_095",
+      "word": "zu Besuch kommen",
+      "meaning": "to come for a visit"
+    },
+    {
+      "id": "B1_K2_096",
+      "word": "an|passen (an + A.)",
+      "meaning": "to adjust"
+    },
+    {
+      "id": "B1_K2_097",
+      "word": "ein|schalten",
+      "meaning": "to switch on"
+    },
+    {
+      "id": "B1_K2_098",
+      "word": "Hightech (Sg. ohne Artikel)",
+      "meaning": "high tech"
+    },
+    {
+      "id": "B1_K2_099",
+      "word": "geschehen, er geschieht, geschah, ist geschehen",
+      "meaning": "to happen"
+    },
+    {
+      "id": "B1_K2_100",
+      "word": "leisten (sich)",
+      "meaning": "to afford"
+    },
+    {
+      "id": "B1_K2_101",
+      "word": "die Sorge",
+      "meaning": "worry",
+      "plural": "-n",
+      "example": "Ich mache mir so viele Sorgen um meine Kinder."
+    },
+    {
+      "id": "B1_K2_102",
+      "word": "trotz (+ G.)",
+      "meaning": "despite"
+    },
+    {
+      "id": "B1_K2_103",
+      "word": "wegen (+ G.)",
+      "meaning": "because of"
+    },
+    {
+      "id": "B1_K2_104",
+      "word": "entsprechen, er entspricht, entsprach, hat entsprochen",
+      "meaning": "to correspond"
+    },
+    {
+      "id": "B1_K2_105",
+      "word": "die Einkaufsliste",
+      "meaning": "shopping list",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_106",
+      "word": "sparsam",
+      "meaning": "frugal/economical"
+    },
+    {
+      "id": "B1_K2_107",
+      "word": "von Hand",
+      "meaning": "by hand"
+    },
+    {
+      "id": "B1_K2_108",
+      "word": "die Gefahr",
+      "meaning": "danger",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K2_109",
+      "word": "die Werbeanzeige",
+      "meaning": "advertisement",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_110",
+      "word": "ansprechend",
+      "meaning": "appealing"
+    },
+    {
+      "id": "B1_K2_111",
+      "word": "unmodern",
+      "meaning": "unfashionable"
+    },
+    {
+      "id": "B1_K2_112",
+      "word": "unverständlich",
+      "meaning": "incomprehensible"
+    },
+    {
+      "id": "B1_K2_113",
+      "word": "ausgezeichnet",
+      "meaning": "excellent"
+    },
+    {
+      "id": "B1_K2_114",
+      "word": "frech",
+      "meaning": "cheeky"
+    },
+    {
+      "id": "B1_K2_115",
+      "word": "merkwürdig",
+      "meaning": "strange"
+    },
+    {
+      "id": "B1_K2_116",
+      "word": "seltsam",
+      "meaning": "odd"
+    },
+    {
+      "id": "B1_K2_117",
+      "word": "wirken (auf + A.)",
+      "meaning": "hier: to seem"
+    },
+    {
+      "id": "B1_K2_118",
+      "word": "davon",
+      "meaning": "hier in etwa: of it"
+    },
+    {
+      "id": "B1_K2_119",
+      "word": "der Klebefilm",
+      "meaning": "adhesive tape",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_120",
+      "word": "der Markenname",
+      "meaning": "brand name",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_121",
+      "word": "die Schmerztablette",
+      "meaning": "pain killer",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K2_122",
+      "word": "der Süßstoff",
+      "meaning": "sweetener",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_123",
+      "word": "das Taschentuch",
+      "meaning": "handkerchief",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K2_124",
+      "word": "an|sprechen, er spricht an, sprach an, hat angesprochen",
+      "meaning": "to speak to",
+      "example": "Werbung spricht sehr oft Gefühle an."
+    },
+    {
+      "id": "B1_K2_125",
+      "word": "aufmerksam",
+      "meaning": "attentive"
+    },
+    {
+      "id": "B1_K2_126",
+      "word": "automatisch",
+      "meaning": "automatic"
+    },
+    {
+      "id": "B1_K2_127",
+      "word": "beeinflussen",
+      "meaning": "to influence"
+    },
+    {
+      "id": "B1_K2_128",
+      "word": "dabei",
+      "meaning": "hier keine Übersetzung",
+      "example": "Werbung hilft dabei, dass Kunden bestimmte Produkte kaufen."
+    },
+    {
+      "id": "B1_K2_129",
+      "word": "ebenfalls",
+      "meaning": "also"
+    },
+    {
+      "id": "B1_K2_130",
+      "word": "die Erinnerung",
+      "meaning": "memory",
+      "plural": "-en",
+      "example": "in Erinnerung bleiben"
+    },
+    {
+      "id": "B1_K2_131",
+      "word": "genügen",
+      "meaning": "to suffice"
+    },
+    {
+      "id": "B1_K2_132",
+      "word": "interessiert",
+      "meaning": "interested"
+    },
+    {
+      "id": "B1_K2_133",
+      "word": "das Kaufverhalten",
+      "meaning": "shopping behaviour",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_134",
+      "word": "reichen",
+      "meaning": "to be enough",
+      "example": "Das reicht schon."
+    },
+    {
+      "id": "B1_K2_135",
+      "word": "der Spruch",
+      "meaning": "saying",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_136",
+      "word": "überrascht",
+      "meaning": "surprised"
+    },
+    {
+      "id": "B1_K2_137",
+      "word": "das Unternehmen",
+      "meaning": "company",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_138",
+      "word": "das Verhalten",
+      "meaning": "behaviour",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K2_139",
+      "word": "vertrauen",
+      "meaning": "to trust"
+    },
+    {
+      "id": "B1_K2_140",
+      "word": "die Werbesprache (Sg.)",
+      "meaning": "advertising language"
+    },
+    {
+      "id": "B1_K2_141",
+      "word": "der Werbetrick",
+      "meaning": "advertising trick",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K2_142",
+      "word": "das Wortspiel",
+      "meaning": "pun/play on words",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_143",
+      "word": "das Merkmal",
+      "meaning": "characteristic",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_144",
+      "word": "Finnland",
+      "meaning": "Finland"
+    },
+    {
+      "id": "B1_K2_145",
+      "word": "italienisch",
+      "meaning": "Italian"
+    },
+    {
+      "id": "B1_K2_146",
+      "word": "das Kinderprodukt",
+      "meaning": "children's product",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K2_147",
+      "word": "ungesund",
+      "meaning": "unhealthy"
+    },
+    {
+      "id": "B1_K2_148",
+      "word": "verbieten, er verbietet, verbot, hat verboten",
+      "meaning": "to forbid"
+    },
+    {
+      "id": "B1_K2_149",
+      "word": "das Adverb",
+      "meaning": "adverb",
+      "plural": "-ien"
+    },
+    {
+      "id": "B1_K2_150",
+      "word": "davor",
+      "meaning": "before that"
+    },
+    {
+      "id": "B1_K2_151",
+      "word": "der Konsekutivsatz",
+      "meaning": "consecutive clause",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K2_152",
+      "word": "die Silbe",
+      "meaning": "syllable",
+      "plural": "-n"
     }
   ]
 }

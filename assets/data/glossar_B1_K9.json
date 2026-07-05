@@ -4,10 +4,975 @@
   "words": [
     {
       "id": "B1_K9_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Kunststück",
+      "meaning": "piece of art",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_002",
+      "word": "an|regen (zu + D.)",
+      "meaning": "to inspire"
+    },
+    {
+      "id": "B1_K9_003",
+      "word": "die Betonwand",
+      "meaning": "concrete wall",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_004",
+      "word": "der Brunnen",
+      "meaning": "fountain",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_005",
+      "word": "die Espressokanne",
+      "meaning": "espresso can",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_006",
+      "word": "das Graffito",
+      "meaning": "graffiti",
+      "plural": "Graffiti"
+    },
+    {
+      "id": "B1_K9_007",
+      "word": "die Hauswand",
+      "meaning": "exterior wall of a house",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_008",
+      "word": "hinauf",
+      "meaning": "up"
+    },
+    {
+      "id": "B1_K9_009",
+      "word": "die Installation",
+      "meaning": "installation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_010",
+      "word": "konsumieren",
+      "meaning": "to consume"
+    },
+    {
+      "id": "B1_K9_011",
+      "word": "der Kunstblog",
+      "meaning": "art blog",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_012",
+      "word": "das Kunstwerk",
+      "meaning": "artwork",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_013",
+      "word": "rund",
+      "meaning": "round",
+      "example": "Ein Ball ist rund."
+    },
+    {
+      "id": "B1_K9_014",
+      "word": "der Spieß",
+      "meaning": "skewer",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_015",
+      "word": "der Stadtteil",
+      "meaning": "district",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_016",
+      "word": "die Statue",
+      "meaning": "statue",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_017",
+      "word": "weich",
+      "meaning": "soft"
+    },
+    {
+      "id": "B1_K9_018",
+      "word": "weiter|entwickeln",
+      "meaning": "to evolve"
+    },
+    {
+      "id": "B1_K9_019",
+      "word": "steil",
+      "meaning": "steep"
+    },
+    {
+      "id": "B1_K9_020",
+      "word": "die Radioumfrage",
+      "meaning": "radio survey",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_021",
+      "word": "das Kunstobjekt",
+      "meaning": "artwork",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_022",
+      "word": "die Putzfrau",
+      "meaning": "cleaner (f)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_023",
+      "word": "der Putzmann",
+      "meaning": "cleaner (m)",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K9_024",
+      "word": "tierisch",
+      "meaning": "animal"
+    },
+    {
+      "id": "B1_K9_025",
+      "word": "der Zeitungstext",
+      "meaning": "newspaper text",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_026",
+      "word": "die Auktion",
+      "meaning": "auction",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_027",
+      "word": "der Auktionsbesucher",
+      "meaning": "auction visitor (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_028",
+      "word": "die Auktionsbesucherin",
+      "meaning": "auction visitor (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_029",
+      "word": "begrenzt",
+      "meaning": "limited"
+    },
+    {
+      "id": "B1_K9_030",
+      "word": "beschädigen",
+      "meaning": "to damage"
+    },
+    {
+      "id": "B1_K9_031",
+      "word": "clever",
+      "meaning": "smart"
+    },
+    {
+      "id": "B1_K9_032",
+      "word": "erraten, er errät, erriet, hat erraten",
+      "meaning": "to guess"
+    },
+    {
+      "id": "B1_K9_033",
+      "word": "der Ethnologe",
+      "meaning": "ethnologist (m)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_034",
+      "word": "die Ethnologin",
+      "meaning": "ethnologist (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_035",
+      "word": "die Galerie",
+      "meaning": "gallery",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_036",
+      "word": "die Gummiwanne",
+      "meaning": "rubber tub",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_037",
+      "word": "handeln (sich) (um + A.)",
+      "meaning": "hier: to be about"
+    },
+    {
+      "id": "B1_K9_038",
+      "word": "heran|kommen (an + A.), er kommt heran, kam heran, ist herangekommen",
+      "meaning": "to approach"
+    },
+    {
+      "id": "B1_K9_039",
+      "word": "das Inland (Sg.)",
+      "meaning": "inland"
+    },
+    {
+      "id": "B1_K9_040",
+      "word": "der Käufer",
+      "meaning": "buyer (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_041",
+      "word": "die Käuferin",
+      "meaning": "buyer (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_042",
+      "word": "der Kunsthistoriker",
+      "meaning": "art historian (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_043",
+      "word": "die Kunsthistorikerin",
+      "meaning": "art historian (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_044",
+      "word": "der Kunstsupermarkt",
+      "meaning": "art supermarket",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_045",
+      "word": "das Missgeschick",
+      "meaning": "misfortune",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_046",
+      "word": "nicht …, sondern …",
+      "meaning": "accident"
+    },
+    {
+      "id": "B1_K9_047",
+      "word": "original",
+      "meaning": "original"
+    },
+    {
+      "id": "B1_K9_048",
+      "word": "das Original",
+      "meaning": "original",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_049",
+      "word": "die Preiskategorie",
+      "meaning": "price category",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_050",
+      "word": "die Reinigungsfirma",
+      "meaning": "cleaning company",
+      "plural": "-firmen"
+    },
+    {
+      "id": "B1_K9_051",
+      "word": "das Reinigungspersonal (Sg.)",
+      "meaning": "cleaning staff"
+    },
+    {
+      "id": "B1_K9_052",
+      "word": "scheinbar",
+      "meaning": "apparent"
+    },
+    {
+      "id": "B1_K9_053",
+      "word": "der Verkaufsraum",
+      "meaning": "showroom",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_054",
+      "word": "der Zoodirektor",
+      "meaning": "zoo director (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_055",
+      "word": "die Zoodirektorin",
+      "meaning": "zoo director (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_056",
+      "word": "die Präpositionalergänzung",
+      "meaning": "prepositional appendix",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_057",
+      "word": "die Satzverneinung",
+      "meaning": "sentence negation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_058",
+      "word": "die Stellung",
+      "meaning": "position",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_059",
+      "word": "der Verbteil",
+      "meaning": "part of the verb",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_060",
+      "word": "verneinen",
+      "meaning": "to negate"
+    },
+    {
+      "id": "B1_K9_061",
+      "word": "die Putzfirma",
+      "meaning": "cleaning company",
+      "plural": "-firmen"
+    },
+    {
+      "id": "B1_K9_062",
+      "word": "durcheinander",
+      "meaning": "disorganized"
+    },
+    {
+      "id": "B1_K9_063",
+      "word": "an|wenden",
+      "meaning": "to use"
+    },
+    {
+      "id": "B1_K9_064",
+      "word": "auf|führen",
+      "meaning": "to perform"
+    },
+    {
+      "id": "B1_K9_065",
+      "word": "auf|treten, er tritt auf, trat auf, ist aufgetreten",
+      "meaning": "to perform"
+    },
+    {
+      "id": "B1_K9_066",
+      "word": "behandeln",
+      "meaning": "to treat"
+    },
+    {
+      "id": "B1_K9_067",
+      "word": "besprechen, er bespricht, besprach, hat besprochen",
+      "meaning": "to discuss"
+    },
+    {
+      "id": "B1_K9_068",
+      "word": "die Broschüre",
+      "meaning": "brochure",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_069",
+      "word": "das Büfett",
+      "meaning": "buffet",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_070",
+      "word": "die Darstellung",
+      "meaning": "depiction",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_071",
+      "word": "die Eröffnung",
+      "meaning": "opening",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_072",
+      "word": "der Frieden (Sg.)",
+      "meaning": "peace"
+    },
+    {
+      "id": "B1_K9_073",
+      "word": "der Geschmack (Sg.)",
+      "meaning": "flavour"
+    },
+    {
+      "id": "B1_K9_074",
+      "word": "herum|springen, er springt herum, sprang herum, ist herumgesprungen",
+      "meaning": "to jump around"
+    },
+    {
+      "id": "B1_K9_075",
+      "word": "das Kostüm",
+      "meaning": "costume",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_076",
+      "word": "der Kursabschluss",
+      "meaning": "course completion",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_077",
+      "word": "die Qualifikation",
+      "meaning": "qualification",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_078",
+      "word": "rennen, er rennt, rannte, ist gerannt",
+      "meaning": "to run"
+    },
+    {
+      "id": "B1_K9_079",
+      "word": "schminken (sich)",
+      "meaning": "to put make up on"
+    },
+    {
+      "id": "B1_K9_080",
+      "word": "schreien, er schreit, schrie, hat geschrien",
+      "meaning": "to scream"
+    },
+    {
+      "id": "B1_K9_081",
+      "word": "der Snack",
+      "meaning": "snack",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_082",
+      "word": "das Theaterabenteuer",
+      "meaning": "theatre adventure",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_083",
+      "word": "die Uniform",
+      "meaning": "uniform",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_084",
+      "word": "das Aquarell",
+      "meaning": "watercolour",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_085",
+      "word": "bestehen (aus + D.), er besteht, bestand, hat bestanden",
+      "meaning": "to consist"
+    },
+    {
+      "id": "B1_K9_086",
+      "word": "bewegen",
+      "meaning": "to move",
+      "example": "Die Musik bewegt mich, sie macht mich traurig."
+    },
+    {
+      "id": "B1_K9_087",
+      "word": "brasilianisch",
+      "meaning": "Brasilian"
+    },
+    {
+      "id": "B1_K9_088",
+      "word": "erarbeiten",
+      "meaning": "to develop"
+    },
+    {
+      "id": "B1_K9_089",
+      "word": "künstlerisch",
+      "meaning": "artistic"
+    },
+    {
+      "id": "B1_K9_090",
+      "word": "die Ölfarbe",
+      "meaning": "oil colour",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_091",
+      "word": "die Palette",
+      "meaning": "palette",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_092",
+      "word": "der Schwerpunkt",
+      "meaning": "focus",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_093",
+      "word": "der Theatermacher",
+      "meaning": "theatre maker (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_094",
+      "word": "die Theatermacherin",
+      "meaning": "theatre maker (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_095",
+      "word": "um|setzen",
+      "meaning": "to realize"
+    },
+    {
+      "id": "B1_K9_096",
+      "word": "das Upcycling (Sg.)",
+      "meaning": "upcycling"
+    },
+    {
+      "id": "B1_K9_097",
+      "word": "die Vase",
+      "meaning": "vase",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_098",
+      "word": "die Adjektivendung",
+      "meaning": "end of an adjective",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_099",
+      "word": "die Eigenschaft",
+      "meaning": "characteristic",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_100",
+      "word": "das Lernplakat",
+      "meaning": "revision poster",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_101",
+      "word": "nominal",
+      "meaning": "nominal"
+    },
+    {
+      "id": "B1_K9_102",
+      "word": "der/die Teilnehmende",
+      "meaning": "participant",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_103",
+      "word": "dankbar",
+      "meaning": "thankful"
+    },
+    {
+      "id": "B1_K9_104",
+      "word": "der Farbstift",
+      "meaning": "crayon",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_105",
+      "word": "die Frisur",
+      "meaning": "hair style",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_106",
+      "word": "der Kuli",
+      "meaning": "pen",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_107",
+      "word": "rum|liegen, er liegt rum, lag rum, hat/ist rumgelegen",
+      "meaning": "to lie around"
+    },
+    {
+      "id": "B1_K9_108",
+      "word": "chaotisch",
+      "meaning": "chaotic"
+    },
+    {
+      "id": "B1_K9_109",
+      "word": "das Theaterstück",
+      "meaning": "theatre play",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_110",
+      "word": "erfinden, er erfindet, erfand, hat erfunden",
+      "meaning": "to invent"
+    },
+    {
+      "id": "B1_K9_111",
+      "word": "die Motto-Party",
+      "meaning": "theme party",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_112",
+      "word": "das Sportteam",
+      "meaning": "sports team",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_113",
+      "word": "veranstalten",
+      "meaning": "to organize"
+    },
+    {
+      "id": "B1_K9_114",
+      "word": "ersetzen",
+      "meaning": "to replace"
+    },
+    {
+      "id": "B1_K9_115",
+      "word": "improvisieren",
+      "meaning": "to improvise"
+    },
+    {
+      "id": "B1_K9_116",
+      "word": "das Referat",
+      "meaning": "presentation",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_117",
+      "word": "der Gründer",
+      "meaning": "founder (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_118",
+      "word": "die Gründerin",
+      "meaning": "founder (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_119",
+      "word": "das Impro-Theater",
+      "meaning": "improv theatre",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_120",
+      "word": "die Biene",
+      "meaning": "bee",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_121",
+      "word": "die Briefmarke",
+      "meaning": "postage stamp",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_122",
+      "word": "die Couch",
+      "meaning": "couch",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K9_123",
+      "word": "der Detektiv",
+      "meaning": "detective (m)",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_124",
+      "word": "die Detektivin",
+      "meaning": "detective (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_125",
+      "word": "der Dieb",
+      "meaning": "thief",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K9_126",
+      "word": "die Rose",
+      "meaning": "rose",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_127",
+      "word": "der Spiegel",
+      "meaning": "mirror",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_128",
+      "word": "die Stufe",
+      "meaning": "step",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_129",
+      "word": "der Topf",
+      "meaning": "pot",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_130",
+      "word": "das Treppenhaus",
+      "meaning": "stairwell",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K9_131",
+      "word": "die Umleitung",
+      "meaning": "diversion",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_132",
+      "word": "die Vorstellung",
+      "meaning": "performance",
+      "plural": "-en",
+      "example": "Das Theater gibt nächste Woche drei Vorstellungen."
+    },
+    {
+      "id": "B1_K9_133",
+      "word": "der Autoverkauf",
+      "meaning": "car sale",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_134",
+      "word": "der Backofen",
+      "meaning": "oven",
+      "plural": "\"-"
+    },
+    {
+      "id": "B1_K9_135",
+      "word": "der Kunstsammler",
+      "meaning": "art collector (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_136",
+      "word": "die Kunstsammlerin",
+      "meaning": "art collector (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_137",
+      "word": "das Missverständnis",
+      "meaning": "misunderstanding",
+      "plural": "-se"
+    },
+    {
+      "id": "B1_K9_138",
+      "word": "einzig",
+      "meaning": "only"
+    },
+    {
+      "id": "B1_K9_139",
+      "word": "heimlich",
+      "meaning": "secret"
+    },
+    {
+      "id": "B1_K9_140",
+      "word": "her sein",
+      "meaning": "to be long ago",
+      "example": "Es ist lange her, dass ich im Chor gesungen habe."
+    },
+    {
+      "id": "B1_K9_141",
+      "word": "der Meister",
+      "meaning": "master (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_142",
+      "word": "die Meisterin",
+      "meaning": "master (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_143",
+      "word": "die Mode",
+      "meaning": "fashion",
+      "plural": "-n",
+      "example": "aus der Mode kommen"
+    },
+    {
+      "id": "B1_K9_144",
+      "word": "musizieren",
+      "meaning": "to make music"
+    },
+    {
+      "id": "B1_K9_145",
+      "word": "die Nachbarschaft (Sg.)",
+      "meaning": "neighbourhood"
+    },
+    {
+      "id": "B1_K9_146",
+      "word": "der Neffe",
+      "meaning": "nephew",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_147",
+      "word": "schließen, er schließt, schloss, hat geschlossen",
+      "meaning": "to make",
+      "example": "Freundschaft schließen"
+    },
+    {
+      "id": "B1_K9_148",
+      "word": "der Schulchor",
+      "meaning": "school choir",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K9_149",
+      "word": "talentiert",
+      "meaning": "talented"
+    },
+    {
+      "id": "B1_K9_150",
+      "word": "die Tradition",
+      "meaning": "tradition",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K9_151",
+      "word": "traditionell",
+      "meaning": "traditional"
+    },
+    {
+      "id": "B1_K9_152",
+      "word": "das Treffen",
+      "meaning": "meeting",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_153",
+      "word": "uncool",
+      "meaning": "uncool"
+    },
+    {
+      "id": "B1_K9_154",
+      "word": "das Virus",
+      "meaning": "virus",
+      "plural": "Viren"
+    },
+    {
+      "id": "B1_K9_155",
+      "word": "das Volkslied",
+      "meaning": "folk song",
+      "plural": "-er"
+    },
+    {
+      "id": "B1_K9_156",
+      "word": "zeitlos",
+      "meaning": "timeless"
+    },
+    {
+      "id": "B1_K9_157",
+      "word": "zu|sehen, er sieht zu, sah zu, hat zugesehen",
+      "meaning": "to watch"
+    },
+    {
+      "id": "B1_K9_158",
+      "word": "ein|sperren",
+      "meaning": "to lock sb in"
+    },
+    {
+      "id": "B1_K9_159",
+      "word": "entzwei",
+      "meaning": "in two"
+    },
+    {
+      "id": "B1_K9_160",
+      "word": "erschießen, er erschießt, erschoss, hat erschossen",
+      "meaning": "to shoot"
+    },
+    {
+      "id": "B1_K9_161",
+      "word": "finster",
+      "meaning": "gloomy"
+    },
+    {
+      "id": "B1_K9_162",
+      "word": "der Gedanke",
+      "meaning": "thought",
+      "plural": "-n",
+      "example": "Mach dir mal keine Gedanken."
+    },
+    {
+      "id": "B1_K9_163",
+      "word": "der Jäger",
+      "meaning": "hunter (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_164",
+      "word": "die Jägerin",
+      "meaning": "hunter (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K9_165",
+      "word": "der Kerker",
+      "meaning": "dungeon",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K9_166",
+      "word": "die Mauer",
+      "meaning": "wall",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_167",
+      "word": "nächtlich",
+      "meaning": "nightly"
+    },
+    {
+      "id": "B1_K9_168",
+      "word": "die Schranke",
+      "meaning": "barrier",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K9_169",
+      "word": "vergeblich",
+      "meaning": "forgivable"
+    },
+    {
+      "id": "B1_K9_170",
+      "word": "vorbei|fliegen, er fliegt vorbei, flog vorbei, ist vorbeigeflogen",
+      "meaning": "to fly past"
+    },
+    {
+      "id": "B1_K9_171",
+      "word": "zerreißen, er zerreißt, zerriss, hat zerrissen",
+      "meaning": "to tear apart"
+    },
+    {
+      "id": "B1_K9_172",
+      "word": "relativieren",
+      "meaning": "to relativise"
     }
   ]
 }

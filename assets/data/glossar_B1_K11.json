@@ -4,10 +4,725 @@
   "words": [
     {
       "id": "B1_K11_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Bürogebäude",
+      "meaning": "office building",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_002",
+      "word": "der Dreck (Sg.)",
+      "meaning": "dirt"
+    },
+    {
+      "id": "B1_K11_003",
+      "word": "der Fußgänger",
+      "meaning": "pedestrian (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_004",
+      "word": "die Fußgängerin",
+      "meaning": "pedestrian (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K11_005",
+      "word": "das Schaufenster",
+      "meaning": "shop window",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_006",
+      "word": "der Schmutz (Sg.)",
+      "meaning": "dirt"
+    },
+    {
+      "id": "B1_K11_007",
+      "word": "das Tempo",
+      "meaning": "speed",
+      "plural": "Tempi"
+    },
+    {
+      "id": "B1_K11_008",
+      "word": "das Freizeitangebot",
+      "meaning": "recreational activity, leisure activity",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_009",
+      "word": "der Stadtmensch",
+      "meaning": "townie",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_010",
+      "word": "an|gehen, er geht an, ging an, ist angegangen",
+      "meaning": "to concern",
+      "example": "Was ich mache, das geht keinen was an."
+    },
+    {
+      "id": "B1_K11_011",
+      "word": "anscheinend",
+      "meaning": "apparent"
+    },
+    {
+      "id": "B1_K11_012",
+      "word": "der Dialekt",
+      "meaning": "dialect",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_013",
+      "word": "eindeutig",
+      "meaning": "clear"
+    },
+    {
+      "id": "B1_K11_014",
+      "word": "der Forumsname",
+      "meaning": "forum name",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_015",
+      "word": "irgendein, irgendeine, irgendwelche",
+      "meaning": "some"
+    },
+    {
+      "id": "B1_K11_016",
+      "word": "das Kulturfest",
+      "meaning": "cultural festival",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_017",
+      "word": "der Landmensch",
+      "meaning": "country person",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_018",
+      "word": "entsprechend",
+      "meaning": "equivalent"
+    },
+    {
+      "id": "B1_K11_019",
+      "word": "die Sportsachen (Pl.)",
+      "meaning": "sport gear"
+    },
+    {
+      "id": "B1_K11_020",
+      "word": "irgendeins",
+      "meaning": "some"
+    },
+    {
+      "id": "B1_K11_021",
+      "word": "die Singularform",
+      "meaning": "singular form",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_022",
+      "word": "erwachen",
+      "meaning": "to awaken"
+    },
+    {
+      "id": "B1_K11_023",
+      "word": "die Backstube",
+      "meaning": "bakery",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_024",
+      "word": "der Bauhof",
+      "meaning": "construction yard",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K11_025",
+      "word": "der Dienst",
+      "meaning": "duty",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_026",
+      "word": "ein|liefern",
+      "meaning": "admitted"
+    },
+    {
+      "id": "B1_K11_027",
+      "word": "die Frühschicht",
+      "meaning": "morning shift",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_028",
+      "word": "das Garagentor",
+      "meaning": "garage door",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_029",
+      "word": "herunter|fahren, er fährt herunter, fuhr herunter, ist heruntergefahren",
+      "meaning": "to shut (down)"
+    },
+    {
+      "id": "B1_K11_030",
+      "word": "hindern (an + D.)",
+      "meaning": "to hinder"
+    },
+    {
+      "id": "B1_K11_031",
+      "word": "hinein|gehen, er geht hinein, ging hinein, ist hineingegangen",
+      "meaning": "to enter"
+    },
+    {
+      "id": "B1_K11_032",
+      "word": "konzentriert",
+      "meaning": "concentrated"
+    },
+    {
+      "id": "B1_K11_033",
+      "word": "der Korb",
+      "meaning": "basket",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K11_034",
+      "word": "laden, er lädt, lud, hat geladen",
+      "meaning": "to load",
+      "example": "Die Bäckerin lädt Körbe mit Brot ins Auto."
+    },
+    {
+      "id": "B1_K11_035",
+      "word": "der Magazinbericht",
+      "meaning": "magazine report",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_036",
+      "word": "der/die Obdachlose",
+      "meaning": "homeless person",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_037",
+      "word": "das Reinigungsfahrzeug",
+      "meaning": "street cleaning vehicle",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_038",
+      "word": "die Schicht",
+      "meaning": "shift",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_039",
+      "word": "schwer",
+      "meaning": "severe",
+      "example": "Auf der Autobahn gab es einen schweren Unfall."
+    },
+    {
+      "id": "B1_K11_040",
+      "word": "städtisch",
+      "meaning": "urban"
+    },
+    {
+      "id": "B1_K11_041",
+      "word": "die Übergabe",
+      "meaning": "handover",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_042",
+      "word": "unruhig",
+      "meaning": "restless, turbulent"
+    },
+    {
+      "id": "B1_K11_043",
+      "word": "der Weg",
+      "meaning": "way",
+      "plural": "-e",
+      "example": "Es ist schon spät. Wir sollten uns auf den Weg machen."
+    },
+    {
+      "id": "B1_K11_044",
+      "word": "der Nachtdienst",
+      "meaning": "night shift",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_045",
+      "word": "der Sozialarbeiter",
+      "meaning": "social worker (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_046",
+      "word": "die Sozialarbeiterin",
+      "meaning": "social worker (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K11_047",
+      "word": "um … herum (+ A.)",
+      "meaning": "around"
+    },
+    {
+      "id": "B1_K11_048",
+      "word": "ab|hängen (von + D.), er hängt ab, hing ab, hat abgehangen",
+      "meaning": "to be dependent on"
+    },
+    {
+      "id": "B1_K11_049",
+      "word": "die Arbeitslosigkeit (Sg.)",
+      "meaning": "unemployment"
+    },
+    {
+      "id": "B1_K11_050",
+      "word": "berücksichtigen",
+      "meaning": "to consider"
+    },
+    {
+      "id": "B1_K11_051",
+      "word": "betreffen, er betrifft, betraf, hat betroffen",
+      "meaning": "to concern"
+    },
+    {
+      "id": "B1_K11_052",
+      "word": "die Diversität (Sg.)",
+      "meaning": "diversity"
+    },
+    {
+      "id": "B1_K11_053",
+      "word": "die Elternzeit (Sg.)",
+      "meaning": "parental leave"
+    },
+    {
+      "id": "B1_K11_054",
+      "word": "die Fachleute (Pl.)",
+      "meaning": "specialists"
+    },
+    {
+      "id": "B1_K11_055",
+      "word": "fest|legen",
+      "meaning": "to determine"
+    },
+    {
+      "id": "B1_K11_056",
+      "word": "die Gender-Gerechtigkeit (Sg.)",
+      "meaning": "gender equality, gender equity"
+    },
+    {
+      "id": "B1_K11_057",
+      "word": "gesellschaftlich",
+      "meaning": "social"
+    },
+    {
+      "id": "B1_K11_058",
+      "word": "gesetzlich",
+      "meaning": "statutory"
+    },
+    {
+      "id": "B1_K11_059",
+      "word": "das Gesundheitssystem",
+      "meaning": "healthcare system",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_060",
+      "word": "die Hochschule",
+      "meaning": "institution of higher education",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_061",
+      "word": "die Intensität",
+      "meaning": "intensity",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_062",
+      "word": "jeweilig",
+      "meaning": "respective"
+    },
+    {
+      "id": "B1_K11_063",
+      "word": "die Kinderbetreuung (Sg.)",
+      "meaning": "childcare"
+    },
+    {
+      "id": "B1_K11_064",
+      "word": "rechtlich",
+      "meaning": "legal"
+    },
+    {
+      "id": "B1_K11_065",
+      "word": "sowie",
+      "meaning": "as well as"
+    },
+    {
+      "id": "B1_K11_066",
+      "word": "der Vordergrund (Sg.)",
+      "meaning": "foreground",
+      "example": "im Vordergrund stehen"
+    },
+    {
+      "id": "B1_K11_067",
+      "word": "vorgeschrieben sein",
+      "meaning": "to be mandatory"
+    },
+    {
+      "id": "B1_K11_068",
+      "word": "die Work-Life-Balance (Sg.)",
+      "meaning": "work-life-balance"
+    },
+    {
+      "id": "B1_K11_069",
+      "word": "der Zugang",
+      "meaning": "access",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K11_070",
+      "word": "der Radiobericht",
+      "meaning": "radio report",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_071",
+      "word": "das Ranking",
+      "meaning": "ranking",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K11_072",
+      "word": "werten",
+      "meaning": "to assess"
+    },
+    {
+      "id": "B1_K11_073",
+      "word": "fort|setzen",
+      "meaning": "to continue"
+    },
+    {
+      "id": "B1_K11_074",
+      "word": "aus|reden",
+      "meaning": "to finish speaking (to let somebody finish speaking)",
+      "example": "jemanden ausreden lassen"
+    },
+    {
+      "id": "B1_K11_075",
+      "word": "außer Acht lassen",
+      "meaning": "to disregard"
+    },
+    {
+      "id": "B1_K11_076",
+      "word": "das Budget",
+      "meaning": "budget",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K11_077",
+      "word": "die Diskussion",
+      "meaning": "discussion",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_078",
+      "word": "ein|gehen (auf + D.), er geht ein, ging ein, ist eingegangen",
+      "meaning": "to react to",
+      "example": "auf einen Standpunkt eingehen"
+    },
+    {
+      "id": "B1_K11_079",
+      "word": "die Kita",
+      "meaning": "kindergarten",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K11_080",
+      "word": "die Open-Air-Arena",
+      "meaning": "open air arena",
+      "plural": "-Arenen"
+    },
+    {
+      "id": "B1_K11_081",
+      "word": "der Rand",
+      "meaning": "edge",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K11_082",
+      "word": "recht geben",
+      "meaning": "to agree"
+    },
+    {
+      "id": "B1_K11_083",
+      "word": "die Renovierung",
+      "meaning": "renovation",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_084",
+      "word": "die Sporthalle",
+      "meaning": "gym(nasium)",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_085",
+      "word": "der Stadtrat",
+      "meaning": "city council member (m)",
+      "plural": "\"-e",
+      "example": "Er ist Stadtrat für Verkehr."
+    },
+    {
+      "id": "B1_K11_086",
+      "word": "die Stadträtin",
+      "meaning": "city council member (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K11_087",
+      "word": "der Umbau",
+      "meaning": "renovation",
+      "plural": "-ten"
+    },
+    {
+      "id": "B1_K11_088",
+      "word": "unterbrechen, er unterbricht, unterbrach, hat unterbrochen",
+      "meaning": "to interrupt"
+    },
+    {
+      "id": "B1_K11_089",
+      "word": "vermitteln",
+      "meaning": "to mediate",
+      "example": "Die Diskussion ist sehr emotional. Der Moderator sollte vermitteln."
+    },
+    {
+      "id": "B1_K11_090",
+      "word": "der Wohnbau (Sg.)",
+      "meaning": "housing construction"
+    },
+    {
+      "id": "B1_K11_091",
+      "word": "ab|biegen, er biegt ab, bog ab, ist abgebogen",
+      "meaning": "to turn"
+    },
+    {
+      "id": "B1_K11_092",
+      "word": "die Autowerkstatt",
+      "meaning": "garage",
+      "plural": "\"-en"
+    },
+    {
+      "id": "B1_K11_093",
+      "word": "das Billett (Schweizerdeutsch)",
+      "meaning": "ticket (Swiss German)",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K11_094",
+      "word": "die Bootstour",
+      "meaning": "boat trip",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_095",
+      "word": "der/die Einheimische",
+      "meaning": "native",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_096",
+      "word": "der Fahrschein",
+      "meaning": "ticket",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_097",
+      "word": "die Fassade",
+      "meaning": "facaded",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_098",
+      "word": "der Favorit",
+      "meaning": "favourite (m)",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_099",
+      "word": "die Favoritin",
+      "meaning": "favourite (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K11_100",
+      "word": "fern",
+      "meaning": "distant"
+    },
+    {
+      "id": "B1_K11_101",
+      "word": "fließen, er fließt, floss, ist geflossen",
+      "meaning": "to flow"
+    },
+    {
+      "id": "B1_K11_102",
+      "word": "der Flüchtling",
+      "meaning": "refugee",
+      "plural": "-e"
+    },
+    {
+      "id": "B1_K11_103",
+      "word": "das Flussbad",
+      "meaning": "river swimming pool",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K11_104",
+      "word": "die Gasse",
+      "meaning": "alley",
+      "plural": "-n"
+    },
+    {
+      "id": "B1_K11_105",
+      "word": "der Hauptgrund",
+      "meaning": "main reason",
+      "plural": "\"-e"
+    },
+    {
+      "id": "B1_K11_106",
+      "word": "das Industrieviertel",
+      "meaning": "industrial quarter",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_107",
+      "word": "die Initiative",
+      "meaning": "initiative",
+      "plural": "-n",
+      "example": "eine soziale Initiative"
+    },
+    {
+      "id": "B1_K11_108",
+      "word": "der Mittelpunkt",
+      "meaning": "centre",
+      "plural": "-e",
+      "example": "im Mittelpunkt stehen"
+    },
+    {
+      "id": "B1_K11_109",
+      "word": "mittendrin",
+      "meaning": "in the middle of"
+    },
+    {
+      "id": "B1_K11_110",
+      "word": "nirgendwo",
+      "meaning": "nowhere"
+    },
+    {
+      "id": "B1_K11_111",
+      "word": "parkieren (Schweizerdeutsch)",
+      "meaning": "to park (Swiss German)"
+    },
+    {
+      "id": "B1_K11_112",
+      "word": "rauf|fahren, er fährt rauf, fuhr rauf, ist raufgefahren",
+      "meaning": "to drive up"
+    },
+    {
+      "id": "B1_K11_113",
+      "word": "rollen",
+      "meaning": "to roll"
+    },
+    {
+      "id": "B1_K11_114",
+      "word": "rum|fahren, er fährt rum, fuhr rum, ist rumgefahren",
+      "meaning": "to drive around"
+    },
+    {
+      "id": "B1_K11_115",
+      "word": "schmal",
+      "meaning": "narrow"
+    },
+    {
+      "id": "B1_K11_116",
+      "word": "schweizerdeutsch",
+      "meaning": "Swiss German"
+    },
+    {
+      "id": "B1_K11_117",
+      "word": "steigen, er steigt, stieg, ist gestiegen",
+      "meaning": "to climb"
+    },
+    {
+      "id": "B1_K11_118",
+      "word": "das Trendviertel",
+      "meaning": "trending district",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_119",
+      "word": "das Velo (Schweizerdeutsch)",
+      "meaning": "bicycle (Swiss German)",
+      "plural": "-s"
+    },
+    {
+      "id": "B1_K11_120",
+      "word": "das Wahrzeichen",
+      "meaning": "landmark",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_121",
+      "word": "an|schauen",
+      "meaning": "to look at"
+    },
+    {
+      "id": "B1_K11_122",
+      "word": "das Denkmal",
+      "meaning": "memorial, monument",
+      "plural": "\"-er"
+    },
+    {
+      "id": "B1_K11_123",
+      "word": "die Rundfahrt",
+      "meaning": "round trip",
+      "plural": "-en"
+    },
+    {
+      "id": "B1_K11_124",
+      "word": "springen, er springt, sprang, ist gesprungen",
+      "meaning": "to jump"
+    },
+    {
+      "id": "B1_K11_125",
+      "word": "der Stadtbummel",
+      "meaning": "stroll through the city",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_126",
+      "word": "der Tourismus (Sg.)",
+      "meaning": "tourism"
+    },
+    {
+      "id": "B1_K11_127",
+      "word": "der Geschäftspartner",
+      "meaning": "business partner (m)",
+      "plural": "-"
+    },
+    {
+      "id": "B1_K11_128",
+      "word": "die Geschäftspartnerin",
+      "meaning": "business partner (f)",
+      "plural": "-nen"
+    },
+    {
+      "id": "B1_K11_129",
+      "word": "halbformell",
+      "meaning": "half formal"
     }
   ]
 }

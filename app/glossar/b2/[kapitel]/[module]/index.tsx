@@ -1,7 +1,8 @@
 import { router, useLocalSearchParams } from "expo-router";
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useState } from "react";
 import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { useFocusEffect } from "@react-navigation/native";
 import { NavBar } from "../../../../../components/NavBar";
 import { Scales } from "../../../../../components/Scales";
 import { ThemeToggle } from "../../../../../components/ThemeToggle";
@@ -23,18 +24,19 @@ export default function GlossarB2VocabularyListScreen(): React.JSX.Element {
   const { words, isLoading } = useGlossarB2Module(kapitel, moduleId);
   const [resumeIndex, setResumeIndex] = useState<number | null>(null);
 
-  useEffect(() => {
-    let isMounted = true;
-    AsyncStorage.getItem(glossarListIndexKey("B2", kapitel, moduleId)).then((raw) => {
-      if (isMounted && raw) {
-        const parsed = parseInt(raw, 10);
-        if (parsed > 0) setResumeIndex(parsed);
-      }
-    });
-    return () => {
-      isMounted = false;
-    };
-  }, [kapitel, moduleId]);
+  useFocusEffect(
+    useCallback(() => {
+      let isMounted = true;
+      AsyncStorage.getItem(glossarListIndexKey("B2", kapitel, moduleId)).then((raw) => {
+        if (!isMounted) return;
+        const parsed = raw ? parseInt(raw, 10) : 0;
+        setResumeIndex(parsed > 0 ? parsed : null);
+      });
+      return () => {
+        isMounted = false;
+      };
+    }, [kapitel, moduleId])
+  );
 
   const goToFlashcards = (start: number): void => {
     router.push(`/glossar/b2/${kapitel}/${moduleId}/flashcards?start=${start}`);
@@ -86,7 +88,7 @@ export default function GlossarB2VocabularyListScreen(): React.JSX.Element {
 const styles = StyleSheet.create({
   root: { flex: 1 },
   inner: { flex: 1, paddingHorizontal: 32, paddingTop: 56 },
-  startButton: { marginTop: 8, marginBottom: 16 },
+  startButton: { marginTop: 8, marginBottom: 16, paddingVertical: 22 },
   listContent: { paddingBottom: 40 },
   wordRow: { borderWidth: 1, borderRadius: 10, padding: 14, marginBottom: 10 },
   wordText: { fontFamily: FONTS.bold, fontSize: FONT_SIZES.sm },
