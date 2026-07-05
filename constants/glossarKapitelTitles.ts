@@ -1,0 +1,69 @@
+// Kapitel titles for the Glossar feature, keyed by level then kapitel number.
+// These are display-only labels (from the course book's table of contents)
+// and are independent of the glossar_*.json word-list schema — add or edit
+// freely here without touching the data files or the validator.
+//
+// A level/kapitel not listed here just falls back to "Kapitel {n}" with no
+// subtitle (see getGlossarKapitelTitle below), so it's safe to fill these in
+// incrementally as each level's glossary is transcribed.
+
+export const GLOSSAR_KAPITEL_TITLES: Partial<Record<string, Partial<Record<number, string>>>> = {
+  A1: {
+    1: "Guten Tag!",
+    2: "Freunde, Kollegen und ich",
+    3: "In Hamburg",
+    4: "Guten Appetit!",
+    5: "Alltag und Familie",
+    6: "Zeit mit Freunden",
+    7: "Arbeitsalltag",
+    8: "Fit und gesund",
+    9: "Meine Wohnung",
+    10: "Studium und Beruf",
+    11: "Die Jacke gefällt mir!",
+    12: "Ab in den Urlaub!",
+  },
+  A2: {
+    1: "Rund ums Essen",
+    2: "Nach der Schulzeit",
+    3: "Medien im Alltag",
+    4: "Große und kleine Gefühle",
+    5: "Was machen Sie beruflich?",
+    6: "Ganz schön mobil",
+    7: "Gelernt ist gelernt",
+    8: "Sportlich, sportlich!",
+    9: "Zusammen leben",
+    10: "Gute Unterhaltung!",
+    11: "Wie die Zeit vergeht!",
+    12: "Typisch, oder?",
+  },
+  B1: {
+    1: "Gute Reise!",
+    2: "Das ist ja praktisch!",
+    3: "Veränderungen",
+    4: "Arbeitswelt",
+    5: "Umweltfreundlich?",
+    6: "Blick nach vorn",
+    7: "Zwischenmenschliches",
+    8: "Rund um Körper und Geist",
+    9: "Kunststücke",
+    10: "Miteinander",
+    11: "Stadt, Land, Fluss",
+    12: "Geld regiert die Welt?",
+  },
+  B2: {
+    1: "Heimat ist …",
+    2: "Sprich mit mir!",
+    3: "Arbeit ist das halbe Leben?",
+    4: "Zusammen leben",
+    5: "Wer Wissen schafft, macht Wissenschaft",
+    6: "Fit für",
+    7: "Kulturwelten",
+    8: "Das macht(e) Geschichte",
+    9: "Mit viel Gefühl",
+    10: "Ein Blick in die Zukunft",
+  },
+};
+
+export function getGlossarKapitelTitle(level: string, kapitel: number): string | undefined {
+  return GLOSSAR_KAPITEL_TITLES[level]?.[kapitel];
+}

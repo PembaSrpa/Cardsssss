@@ -5,6 +5,7 @@ import { NavBar } from "../../../../components/NavBar";
 import { Scales } from "../../../../components/Scales";
 import { ThemeToggle } from "../../../../components/ThemeToggle";
 import { useGlossarB2Meta } from "../../../../hooks/useGlossarData";
+import { getGlossarKapitelTitle } from "../../../../constants/glossarKapitelTitles";
 import { useTheme } from "../../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../../theme/typography";
 
@@ -14,12 +15,14 @@ export default function GlossarB2ModuleListScreen(): React.JSX.Element {
   const kapitel = params.kapitel ? parseInt(params.kapitel, 10) : 1;
 
   const { modules, isLoading } = useGlossarB2Meta(kapitel);
+  const kapitelTitle = getGlossarKapitelTitle("B2", kapitel);
+  const navTitle = kapitelTitle ? `B2 · Kapitel ${kapitel} · ${kapitelTitle}` : `B2 · Kapitel ${kapitel}`;
 
   return (
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <ScrollView contentContainerStyle={styles.content}>
-        <NavBar title={`B2 · Kapitel ${kapitel}`} right={<ThemeToggle />} />
+        <NavBar title={navTitle} right={<ThemeToggle />} />
         {isLoading ? (
           <Text style={[styles.loading, { color: colors.textMuted }]}>loading…</Text>
         ) : (

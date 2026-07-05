@@ -5,6 +5,7 @@ import { NavBar } from "../../../components/NavBar";
 import { Scales } from "../../../components/Scales";
 import { ThemeToggle } from "../../../components/ThemeToggle";
 import { GLOSSAR_KAPITEL_COUNT, isB2Level, getGlossarKapitelWords } from "../../../hooks/useGlossarData";
+import { getGlossarKapitelTitle } from "../../../constants/glossarKapitelTitles";
 import { useTheme } from "../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../theme/typography";
 
@@ -52,6 +53,7 @@ function KapitelRow({
 }): React.JSX.Element {
   const { colors } = useTheme();
   const wordCount = isB2 ? null : getGlossarKapitelWords(level, kapitel).length;
+  const title = getGlossarKapitelTitle(level, kapitel);
 
   return (
     <Pressable
@@ -61,7 +63,14 @@ function KapitelRow({
         { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
       ]}
     >
-      <Text style={[styles.rowTitle, { color: colors.text }]}>Kapitel {kapitel}</Text>
+      <View style={styles.rowTextGroup}>
+        <Text style={[styles.rowTitle, { color: colors.text }]}>Kapitel {kapitel}</Text>
+        {title ? (
+          <Text style={[styles.rowSubtitle, { color: colors.textMuted }]} numberOfLines={1}>
+            {title}
+          </Text>
+        ) : null}
+      </View>
       <Text style={[styles.rowCount, { color: colors.textMuted }]}>
         {isB2 ? "4 modules" : `${wordCount} ${wordCount === 1 ? "word" : "words"}`}
       </Text>
@@ -81,6 +90,8 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     alignItems: "center",
   },
+  rowTextGroup: { flex: 1, marginRight: 12 },
   rowTitle: { fontFamily: FONTS.bold, fontSize: FONT_SIZES.md },
+  rowSubtitle: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.xs, marginTop: 2 },
   rowCount: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.xs },
 });
