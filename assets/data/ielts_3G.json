@@ -4,15 +4,4092 @@
   "words": [
     {
       "id": "3G_001",
-      "word": "placeholder",
+      "word": "accuracy",
       "type": "noun",
       "category": "Media, Art, Culture & Tourism",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The quality of being correct or precise.",
+      "example": "The documentary was praised for its historical accuracy.",
+      "synonyms": ["precision", "correctness", "exactness"],
+      "antonyms": ["inaccuracy"]
+    },
+    {
+      "id": "3G_002",
+      "word": "accurate",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Correct in all details; exact.",
+      "example": "The museum exhibit gives an accurate account of ancient trade routes.",
+      "synonyms": ["precise", "correct", "exact"],
+      "antonyms": ["inaccurate"]
+    },
+    {
+      "id": "3G_003",
+      "word": "accurately",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way that is correct or precise.",
+      "example": "The film accurately portrays life in the 1920s.",
+      "synonyms": ["precisely", "correctly"],
+      "antonyms": ["inaccurately"]
+    },
+    {
+      "id": "3G_004",
+      "word": "act",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A section of a play, opera, or show, or an action performed.",
+      "example": "The play's final act was praised for its emotional intensity.",
+      "synonyms": ["performance", "deed", "scene"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_005",
+      "word": "advertise",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To promote a product, service, or event publicly.",
+      "example": "The gallery advertised its new exhibition across local newspapers.",
+      "synonyms": ["promote", "publicize", "market"],
+      "antonyms": ["conceal"]
+    },
+    {
+      "id": "3G_006",
+      "word": "advertisement",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A public promotion of a product, service, or event.",
+      "example": "The television advertisement for the film aired during prime time.",
+      "synonyms": ["ad", "commercial", "promotion"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_007",
+      "word": "advertiser",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person or company that promotes products publicly.",
+      "example": "Streaming platforms attract advertisers by tracking viewer preferences.",
+      "synonyms": ["sponsor", "promoter"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_008",
+      "word": "advertising",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The business of promoting products or services to the public.",
+      "example": "Advertising revenue funds much of the free content available online.",
+      "synonyms": ["promotion", "marketing", "publicity"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_009",
+      "word": "aesthetic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Concerned with beauty or artistic style.",
+      "example": "The film's aesthetic drew heavily from classic noir cinema.",
+      "synonyms": ["artistic", "visual", "stylistic"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_010",
+      "word": "aesthetically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way relating to beauty or artistic style.",
+      "example": "The building was aesthetically striking but functionally impractical.",
+      "synonyms": ["artistically", "visually"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_011",
+      "word": "aesthetics",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The study or philosophy of beauty and artistic taste.",
+      "example": "The course explores the aesthetics of contemporary photography.",
+      "synonyms": ["artistic theory", "visual theory"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_012",
+      "word": "alternative",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A different option or approach from the usual one.",
+      "example": "Independent cinema offers an alternative to mainstream blockbusters.",
+      "synonyms": ["substitute", "option", "choice"],
+      "antonyms": ["mainstream", "convention"]
+    },
+    {
+      "id": "3G_013",
+      "word": "alternatively",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "As another option; instead.",
+      "example": "Alternatively, viewers can stream the documentary for free online.",
+      "synonyms": ["otherwise", "instead"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_014",
+      "word": "architect",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who designs buildings.",
+      "example": "The architect blended traditional and modern styles in the museum's design.",
+      "synonyms": ["designer", "planner"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_015",
+      "word": "architectural",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the design of buildings.",
+      "example": "The city's architectural heritage attracts thousands of tourists each year.",
+      "synonyms": ["structural", "design-related"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_016",
+      "word": "architecture",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The art and practice of designing buildings.",
+      "example": "Gothic architecture remains a defining feature of the old city center.",
+      "synonyms": ["building design", "construction"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_017",
+      "word": "archival",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to historical records or documents.",
+      "example": "The exhibit included archival photographs from the early twentieth century.",
+      "synonyms": ["historical", "documentary"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_018",
+      "word": "archive",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A collection of historical documents or records.",
+      "example": "The museum's archive preserves thousands of rare manuscripts.",
+      "synonyms": ["collection", "records", "repository"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_019",
+      "word": "art",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Creative work expressing imaginative or technical skill.",
+      "example": "Contemporary art often challenges traditional notions of beauty.",
+      "synonyms": ["creative work", "craft"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_020",
+      "word": "arterial",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to an artery, or describing a main route.",
+      "example": "Traffic congestion on the arterial road delayed the festival parade.",
+      "synonyms": ["main", "principal"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_021",
+      "word": "artery",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A blood vessel carrying blood from the heart, or a main route.",
+      "example": "The tour bus traveled along the city's main artery toward the old town.",
+      "synonyms": ["vessel", "route"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_022",
+      "word": "artful",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Clever or skillful, especially in a subtle way.",
+      "example": "The novelist's artful use of foreshadowing kept readers guessing.",
+      "synonyms": ["skillful", "cunning", "clever"],
+      "antonyms": ["clumsy", "artless"]
+    },
+    {
+      "id": "3G_023",
+      "word": "artfully",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a skillful or clever manner.",
+      "example": "The director artfully wove multiple storylines into a single film.",
+      "synonyms": ["skillfully", "cleverly"],
+      "antonyms": ["clumsily"]
+    },
+    {
+      "id": "3G_024",
+      "word": "arthritic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to or affected by arthritis.",
+      "example": "The elderly sculptor continued working despite arthritic hands.",
+      "synonyms": ["stiff", "inflamed"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_025",
+      "word": "arthritis",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A medical condition causing joint pain and inflammation.",
+      "example": "The museum guide had developed arthritis after decades of standing tours.",
+      "synonyms": ["joint inflammation"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_026",
+      "word": "artichoke",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A vegetable with a thistle-like flower head.",
+      "example": "The chef served a stuffed artichoke as part of the cultural food festival.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3G_027",
+      "word": "article",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A piece of writing included in a newspaper or magazine.",
+      "example": "The magazine published an article about emerging street artists.",
+      "synonyms": ["piece", "report", "story"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_028",
+      "word": "articulate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To express an idea or feeling clearly and effectively.",
+      "example": "The critic articulated her views on modern architecture with precision.",
+      "synonyms": ["express", "voice", "convey"],
+      "antonyms": ["mumble"]
+    },
+    {
+      "id": "3G_029",
+      "word": "articulated",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Expressed clearly and precisely.",
+      "example": "Her clearly articulated argument convinced the panel of judges.",
+      "synonyms": ["expressed", "stated", "voiced"],
+      "antonyms": ["vague"]
+    },
+    {
+      "id": "3G_030",
+      "word": "articulation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The action of expressing thoughts or ideas clearly.",
+      "example": "The documentary praised the poet's articulation of national identity.",
+      "synonyms": ["expression", "phrasing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_031",
+      "word": "artifact",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An object made by a human being, especially of historical interest.",
+      "example": "The museum displayed ancient artifacts recovered from the excavation site.",
+      "synonyms": ["object", "relic", "item"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_032",
+      "word": "artifice",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Clever or cunning devices, especially used in art to create an effect.",
+      "example": "The stage set relied on artifice to create the illusion of a storm.",
+      "synonyms": ["trickery", "cunning", "deception"],
+      "antonyms": ["sincerity"]
+    },
+    {
+      "id": "3G_033",
+      "word": "artificial",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Made or produced by human beings rather than occurring naturally.",
+      "example": "The film used artificial lighting to recreate a moonlit scene.",
+      "synonyms": ["synthetic", "manufactured", "man-made"],
+      "antonyms": ["natural"]
+    },
+    {
+      "id": "3G_034",
+      "word": "artificially",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way that is not natural.",
+      "example": "The colors in the photograph were artificially enhanced for effect.",
+      "synonyms": ["synthetically"],
+      "antonyms": ["naturally"]
+    },
+    {
+      "id": "3G_035",
+      "word": "artillery",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Large-caliber weapons used in warfare.",
+      "example": "The war documentary included footage of heavy artillery bombardments.",
+      "synonyms": ["weaponry", "ordnance"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_036",
+      "word": "artisan",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A skilled worker who makes things by hand.",
+      "example": "The craft festival showcased local artisans selling handmade pottery.",
+      "synonyms": ["craftsman", "artist", "maker"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_037",
+      "word": "artist",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who creates art, such as paintings or sculpture.",
+      "example": "The artist unveiled her latest sculpture at the gallery opening.",
+      "synonyms": ["creator", "painter", "sculptor"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_038",
+      "word": "artistic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to or having a talent for art.",
+      "example": "The film received praise for its artistic cinematography.",
+      "synonyms": ["creative", "aesthetic", "expressive"],
+      "antonyms": ["unartistic"]
+    },
+    {
+      "id": "3G_039",
+      "word": "artistically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a manner relating to art or artistic skill.",
+      "example": "The set was artistically designed to reflect the play's melancholic tone.",
+      "synonyms": ["creatively", "aesthetically"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_040",
+      "word": "artistry",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Creative skill or ability.",
+      "example": "The sculptor's artistry transformed raw marble into a lifelike figure.",
+      "synonyms": ["craftsmanship", "skill", "talent"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_041",
+      "word": "artwork",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A work of art, especially a painting or illustration.",
+      "example": "The gallery's new artwork explores themes of migration and identity.",
+      "synonyms": ["painting", "piece", "illustration"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_042",
+      "word": "attract",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To cause someone to be interested in or drawn toward something.",
+      "example": "The film festival attracted visitors from around the world.",
+      "synonyms": ["draw", "entice", "lure"],
+      "antonyms": ["repel"]
+    },
+    {
+      "id": "3G_043",
+      "word": "attracting",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Drawing interest or attention.",
+      "example": "The exhibition is attracting record numbers of visitors this month.",
+      "synonyms": ["drawing", "luring"],
+      "antonyms": ["repelling"]
+    },
+    {
+      "id": "3G_044",
+      "word": "attraction",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A quality that draws interest, or a place of interest to visitors.",
+      "example": "The ancient temple remains the region's most popular tourist attraction.",
+      "synonyms": ["draw", "appeal", "landmark"],
+      "antonyms": ["repulsion"]
+    },
+    {
+      "id": "3G_045",
+      "word": "attractive",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Pleasing or appealing to look at or experience.",
+      "example": "The city's attractive waterfront draws thousands of tourists each summer.",
+      "synonyms": ["appealing", "pleasing", "alluring"],
+      "antonyms": ["unattractive"]
+    },
+    {
+      "id": "3G_046",
+      "word": "attractiveness",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The quality of being pleasing or appealing.",
+      "example": "The film's visual attractiveness compensated for its weak plot.",
+      "synonyms": ["appeal", "charm"],
+      "antonyms": ["unattractiveness"]
+    },
+    {
+      "id": "3G_047",
+      "word": "audience",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The group of people watching or listening to a performance.",
+      "example": "The comedian engaged the audience with witty improvisation.",
+      "synonyms": ["spectators", "viewers", "crowd"],
+      "antonyms": ["performer"]
+    },
+    {
+      "id": "3G_048",
+      "word": "authentic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Genuine and true to its origins, not fake or copied.",
+      "example": "The restaurant serves authentic regional cuisine using traditional recipes.",
+      "synonyms": ["genuine", "real", "original"],
+      "antonyms": ["fake", "inauthentic"]
+    },
+    {
+      "id": "3G_049",
+      "word": "authenticity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The quality of being genuine or true to origin.",
+      "example": "Tourists often seek authenticity rather than commercialized experiences.",
+      "synonyms": ["genuineness", "legitimacy"],
+      "antonyms": ["inauthenticity"]
+    },
+    {
+      "id": "3G_050",
+      "word": "belief",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An acceptance that something exists or is true.",
+      "example": "Religious belief shapes much of the region's traditional art.",
+      "synonyms": ["conviction", "faith", "opinion"],
+      "antonyms": ["disbelief"]
+    },
+    {
+      "id": "3G_051",
+      "word": "bias",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A tendency to favor one perspective unfairly.",
+      "example": "Critics accused the newspaper of political bias in its coverage.",
+      "synonyms": ["prejudice", "partiality", "favoritism"],
+      "antonyms": ["impartiality"]
+    },
+    {
+      "id": "3G_052",
+      "word": "biased",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Showing unfair favor toward one side.",
+      "example": "The documentary was criticized for presenting a biased account of events.",
+      "synonyms": ["prejudiced", "partial", "one-sided"],
+      "antonyms": ["unbiased", "impartial"]
+    },
+    {
+      "id": "3G_053",
+      "word": "blockbuster",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A film or book that is a great commercial success.",
+      "example": "The summer blockbuster broke box office records worldwide.",
+      "synonyms": ["hit", "smash", "success"],
+      "antonyms": ["flop"]
+    },
+    {
+      "id": "3G_054",
+      "word": "broadcast",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To transmit a program by radio or television.",
+      "example": "The channel will broadcast the festival live to millions of viewers.",
+      "synonyms": ["transmit", "air", "televise"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_055",
+      "word": "broadcaster",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person or organization that transmits radio or television programs.",
+      "example": "The national broadcaster covered the cultural festival extensively.",
+      "synonyms": ["network", "station", "presenter"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_056",
+      "word": "broadcasting",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The transmission of programs via radio or television.",
+      "example": "Public broadcasting relies heavily on government and viewer funding.",
+      "synonyms": ["transmission", "airing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_057",
+      "word": "celebrity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A famous person, especially in entertainment.",
+      "example": "The celebrity's endorsement significantly boosted ticket sales.",
+      "synonyms": ["star", "icon", "public figure"],
+      "antonyms": ["nobody"]
+    },
+    {
+      "id": "3G_058",
+      "word": "censorship",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The suppression of speech or media considered unacceptable.",
+      "example": "Censorship of controversial films remains common in some countries.",
+      "synonyms": ["suppression", "control", "restriction"],
+      "antonyms": ["freedom of expression"]
+    },
+    {
+      "id": "3G_059",
+      "word": "cinema",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The industry of filmmaking, or a movie theater.",
+      "example": "European cinema often explores themes rarely seen in mainstream Hollywood films.",
+      "synonyms": ["film", "movies", "theater"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_060",
+      "word": "cinematic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to films or the style of filmmaking.",
+      "example": "The novel's cinematic pacing made it a natural candidate for adaptation.",
+      "synonyms": ["film-like", "visual"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_061",
+      "word": "civic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to a city or its citizens.",
+      "example": "The civic center hosts art exhibitions and community events year-round.",
+      "synonyms": ["municipal", "communal", "public"],
+      "antonyms": ["private"]
+    },
+    {
+      "id": "3G_062",
+      "word": "civics",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The study of the rights and duties of citizenship.",
+      "example": "Civics classes sometimes use media literacy to teach critical thinking.",
+      "synonyms": ["citizenship studies"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_063",
+      "word": "classic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Judged over time to be of the highest quality and enduring value.",
+      "example": "The film has become a classic studied in cinema courses worldwide.",
+      "synonyms": ["timeless", "iconic", "masterful"],
+      "antonyms": ["forgettable"]
+    },
+    {
+      "id": "3G_064",
+      "word": "classical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to ancient Greek and Roman culture, or traditional in style.",
+      "example": "Classical music remains a staple of the city's summer festival.",
+      "synonyms": ["traditional", "ancient", "established"],
+      "antonyms": ["modern", "contemporary"]
+    },
+    {
+      "id": "3G_065",
+      "word": "classically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way relating to classical tradition or style.",
+      "example": "She was classically trained as a ballet dancer before turning to film.",
+      "synonyms": ["traditionally"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_066",
+      "word": "collaborate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To work jointly with others, especially on a creative project.",
+      "example": "The two artists collaborated on a mural depicting local history.",
+      "synonyms": ["cooperate", "partner", "team up"],
+      "antonyms": ["work alone"]
+    },
+    {
+      "id": "3G_067",
+      "word": "collaboration",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The action of working jointly with others.",
+      "example": "The album was a collaboration between musicians from three continents.",
+      "synonyms": ["partnership", "cooperation", "teamwork"],
+      "antonyms": ["independence"]
+    },
+    {
+      "id": "3G_068",
+      "word": "collaborative",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Produced by or involving joint effort.",
+      "example": "The mural was a collaborative project involving students and local artists.",
+      "synonyms": ["joint", "cooperative", "shared"],
+      "antonyms": ["individual"]
+    },
+    {
+      "id": "3G_069",
+      "word": "collaborator",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who works jointly with others.",
+      "example": "The director's longtime collaborator composed the film's score.",
+      "synonyms": ["partner", "associate"],
+      "antonyms": ["rival"]
+    },
+    {
+      "id": "3G_070",
+      "word": "comedian",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A professional entertainer who tells jokes to make people laugh.",
+      "example": "The comedian's stand-up special became an unexpected streaming hit.",
+      "synonyms": ["humorist", "entertainer"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_071",
+      "word": "comedy",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Entertainment intended to be humorous.",
+      "example": "The romantic comedy topped the box office for three consecutive weeks.",
+      "synonyms": ["humor", "farce"],
+      "antonyms": ["tragedy"]
+    },
+    {
+      "id": "3G_072",
+      "word": "comment",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A remark expressing an opinion.",
+      "example": "The critic's comment on the film's pacing sparked online debate.",
+      "synonyms": ["remark", "observation", "statement"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_073",
+      "word": "commentary",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A spoken or written expression of opinion on events.",
+      "example": "The documentary included commentary from historians and archaeologists.",
+      "synonyms": ["analysis", "narration", "discussion"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_074",
+      "word": "commentator",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who provides analysis or opinion, especially in the media.",
+      "example": "The sports commentator praised the team's discipline throughout the tournament.",
+      "synonyms": ["analyst", "pundit", "narrator"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_075",
+      "word": "community",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A group of people living in the same place or sharing common interests.",
+      "example": "The mural was created with input from the local community.",
+      "synonyms": ["neighborhood", "populace", "society"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_076",
+      "word": "community-based",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Organized around or serving a local community.",
+      "example": "The community-based arts program offers free classes to youth.",
+      "synonyms": ["grassroots", "local"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_077",
+      "word": "consumer",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who purchases goods or services.",
+      "example": "Streaming has changed how consumers experience music and film.",
+      "synonyms": ["buyer", "customer", "user"],
+      "antonyms": ["producer"]
+    },
+    {
+      "id": "3G_078",
+      "word": "consumerism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The preoccupation with acquiring consumer goods.",
+      "example": "The exhibit critiqued modern consumerism through satirical sculpture.",
+      "synonyms": ["materialism", "commercialism"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_079",
+      "word": "contemporary",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Belonging to the present time.",
+      "example": "The gallery specializes in contemporary art from emerging artists.",
+      "synonyms": ["modern", "current", "present-day"],
+      "antonyms": ["historical", "traditional"]
+    },
+    {
+      "id": "3G_080",
+      "word": "content",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Material such as text, images, or video, especially online.",
+      "example": "The streaming platform produces original content exclusively for subscribers.",
+      "synonyms": ["material", "media", "information"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_081",
+      "word": "contented",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Satisfied or at ease.",
+      "example": "The audience left the theater contented after the uplifting performance.",
+      "synonyms": ["satisfied", "pleased", "content"],
+      "antonyms": ["discontented"]
+    },
+    {
+      "id": "3G_082",
+      "word": "contention",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A point asserted in an argument, or disagreement.",
+      "example": "Her contention was that reality television distorts genuine human behavior.",
+      "synonyms": ["argument", "claim", "dispute"],
+      "antonyms": ["agreement"]
+    },
+    {
+      "id": "3G_083",
+      "word": "contentious",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Likely to cause disagreement or controversy.",
+      "example": "The film's contentious subject matter sparked heated debate among critics.",
+      "synonyms": ["controversial", "disputed", "divisive"],
+      "antonyms": ["uncontroversial"]
+    },
+    {
+      "id": "3G_084",
+      "word": "contentment",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A state of happiness and satisfaction.",
+      "example": "The documentary captured a quiet sense of contentment among the villagers.",
+      "synonyms": ["satisfaction", "happiness", "ease"],
+      "antonyms": ["discontent"]
+    },
+    {
+      "id": "3G_085",
+      "word": "copyright",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The legal right to control the reproduction of a creative work.",
+      "example": "The photographer holds the copyright to all images in the exhibition.",
+      "synonyms": ["intellectual property right"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_086",
+      "word": "corpus",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A collection of written or spoken material, especially for study.",
+      "example": "Linguists analyzed a corpus of newspaper articles from the past century.",
+      "synonyms": ["collection", "body of work"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_087",
+      "word": "creative",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Involving imagination or original ideas.",
+      "example": "The advertising campaign relied on a highly creative visual concept.",
+      "synonyms": ["imaginative", "inventive", "original"],
+      "antonyms": ["unimaginative"]
+    },
+    {
+      "id": "3G_088",
+      "word": "creatively",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In an imaginative or original way.",
+      "example": "The set designer creatively repurposed old furniture for the stage.",
+      "synonyms": ["imaginatively", "inventively"],
+      "antonyms": ["unimaginatively"]
+    },
+    {
+      "id": "3G_089",
+      "word": "creativity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The use of imagination to produce original ideas or works.",
+      "example": "The festival celebrates creativity across film, music, and visual art.",
+      "synonyms": ["imagination", "inventiveness", "originality"],
+      "antonyms": ["unoriginality"]
+    },
+    {
+      "id": "3G_090",
+      "word": "credibility",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The quality of being trusted or believed.",
+      "example": "The journalist's credibility was questioned after the story was found inaccurate.",
+      "synonyms": ["trustworthiness", "reliability"],
+      "antonyms": ["unreliability"]
+    },
+    {
+      "id": "3G_091",
+      "word": "cult",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A relatively small group with intense devotion to something, or a small devoted following.",
+      "example": "The low-budget film gained cult status decades after its release.",
+      "synonyms": ["devoted following", "sect"],
+      "antonyms": ["mainstream"]
+    },
+    {
+      "id": "3G_092",
+      "word": "cultivar",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A plant variety produced through selective breeding.",
+      "example": "The botanical garden displays rare cultivars alongside cultural exhibits.",
+      "synonyms": ["variety", "strain"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_093",
+      "word": "cultivate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To develop or improve something through effort.",
+      "example": "The artist cultivated her distinctive style over many years of practice.",
+      "synonyms": ["develop", "nurture", "foster"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "3G_094",
+      "word": "cultivated",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Refined through education and experience.",
+      "example": "Her cultivated taste in art was evident in her private collection.",
+      "synonyms": ["refined", "sophisticated", "cultured"],
+      "antonyms": ["uncultivated", "crude"]
+    },
+    {
+      "id": "3G_095",
+      "word": "cultivation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The development or refinement of a skill or quality.",
+      "example": "The cultivation of local talent is central to the theater's mission.",
+      "synonyms": ["development", "nurturing", "refinement"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "3G_096",
+      "word": "cultural",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the customs and ideas of a society.",
+      "example": "The festival celebrates the region's rich cultural heritage.",
+      "synonyms": ["societal", "ethnic", "traditional"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_097",
+      "word": "culturally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way relating to culture.",
+      "example": "The exhibit was culturally significant to the indigenous community it represented.",
+      "synonyms": ["socially"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_098",
+      "word": "culture",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The customs, arts, and social behavior of a particular group.",
+      "example": "Popular culture increasingly shapes how young people view the world.",
+      "synonyms": ["customs", "heritage", "traditions"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_099",
+      "word": "cultured",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Having refined taste in art, literature, and manners.",
+      "example": "The cultured audience appreciated the subtleties of the classical performance.",
+      "synonyms": ["refined", "sophisticated", "cultivated"],
+      "antonyms": ["uncultured"]
+    },
+    {
+      "id": "3G_100",
+      "word": "deconstruct",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To analyze a text or artwork by breaking it into its underlying assumptions.",
+      "example": "The lecture deconstructed the film's use of gender stereotypes.",
+      "synonyms": ["analyze", "dissect", "break down"],
+      "antonyms": ["construct"]
+    },
+    {
+      "id": "3G_101",
+      "word": "deconstruction",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The analytical process of breaking down a text or idea to reveal underlying assumptions.",
+      "example": "Her essay offers a deconstruction of colonial narratives in classic literature.",
+      "synonyms": ["analysis", "critique"],
+      "antonyms": ["construction"]
+    },
+    {
+      "id": "3G_102",
+      "word": "destination",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The place to which someone is traveling.",
+      "example": "The coastal town has become a popular tourist destination.",
+      "synonyms": ["locale", "spot", "endpoint"],
+      "antonyms": ["origin"]
+    },
+    {
+      "id": "3G_103",
+      "word": "dialogue",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Conversation, especially in a book, play, or film.",
+      "example": "The screenwriter revised the dialogue to sound more natural.",
+      "synonyms": ["conversation", "exchange", "discourse"],
+      "antonyms": ["monologue"]
+    },
+    {
+      "id": "3G_104",
+      "word": "diaspora",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "People who have spread from their original homeland to other parts of the world.",
+      "example": "The film explores identity within the South Asian diaspora.",
+      "synonyms": ["dispersion", "expatriate community"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_105",
+      "word": "digest",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A summary of published information, especially news or literature.",
+      "example": "The magazine published a digest of the year's most influential films.",
+      "synonyms": ["summary", "synopsis"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_106",
+      "word": "digestion",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of breaking down food in the body.",
+      "example": "The travel article mentioned local spices believed to aid digestion.",
+      "synonyms": ["assimilation"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_107",
+      "word": "digestive",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to digestion.",
+      "example": "The cooking show discussed traditional remedies for digestive health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3G_108",
+      "word": "digit",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A numeral from zero to nine, or a finger or toe.",
+      "example": "Streaming services often report viewership in seven-digit figures.",
+      "synonyms": ["numeral", "figure"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_109",
+      "word": "digital",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to computer or electronic technology.",
+      "example": "Digital platforms have transformed how audiences consume media.",
+      "synonyms": ["electronic", "computerized", "online"],
+      "antonyms": ["analog"]
+    },
+    {
+      "id": "3G_110",
+      "word": "digitally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "By digital or electronic means.",
+      "example": "Old photographs were digitally restored for the museum's online archive.",
+      "synonyms": ["electronically"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_111",
+      "word": "digitize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To convert something into digital form.",
+      "example": "The library began to digitize rare manuscripts for public access.",
+      "synonyms": ["computerize", "convert"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_112",
+      "word": "diversity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The state of including a variety of different people, forms, or ideas.",
+      "example": "The festival's lineup celebrated musical diversity from across the globe.",
+      "synonyms": ["variety", "heterogeneity", "range"],
+      "antonyms": ["uniformity"]
+    },
+    {
+      "id": "3G_113",
+      "word": "document",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To record something in detail, especially in writing or on film.",
+      "example": "The photographer set out to document daily life in the refugee camp.",
+      "synonyms": ["record", "chronicle", "capture"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_114",
+      "word": "documentary",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A nonfiction film or program presenting factual information.",
+      "example": "The documentary examined the decline of traditional fishing communities.",
+      "synonyms": ["nonfiction film", "exposé"],
+      "antonyms": ["fiction"]
+    },
+    {
+      "id": "3G_115",
+      "word": "documentation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Material that provides official evidence or information.",
+      "example": "The archive holds extensive documentation of the city's colonial past.",
+      "synonyms": ["records", "evidence", "files"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_116",
+      "word": "documented",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Recorded in written or photographic form.",
+      "example": "The exhibit features carefully documented accounts of the migration.",
+      "synonyms": ["recorded", "chronicled"],
+      "antonyms": ["undocumented"]
+    },
+    {
+      "id": "3G_117",
+      "word": "drama",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A play or performance dealing with serious subject matter.",
+      "example": "The stage drama tackled themes of grief and reconciliation.",
+      "synonyms": ["play", "theater piece"],
+      "antonyms": ["comedy"]
+    },
+    {
+      "id": "3G_118",
+      "word": "dramatic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to drama, or striking and impressive.",
+      "example": "The film's dramatic ending left the audience in stunned silence.",
+      "synonyms": ["theatrical", "striking", "intense"],
+      "antonyms": ["undramatic"]
+    },
+    {
+      "id": "3G_119",
+      "word": "dramatically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a striking or impressive manner.",
+      "example": "Ticket sales rose dramatically after the festival's opening night.",
+      "synonyms": ["strikingly", "sharply"],
+      "antonyms": ["gradually"]
+    },
+    {
+      "id": "3G_120",
+      "word": "dramatize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To present something in the form of a play, or to exaggerate for effect.",
+      "example": "The novel was later dramatized for television.",
+      "synonyms": ["adapt", "exaggerate", "theatricalize"],
+      "antonyms": ["understate"]
+    },
+    {
+      "id": "3G_121",
+      "word": "draw",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To produce a picture with a pencil or pen, or to attract.",
+      "example": "The exhibition draws thousands of visitors during the summer season.",
+      "synonyms": ["sketch", "attract", "illustrate"],
+      "antonyms": ["repel"]
+    },
+    {
+      "id": "3G_122",
+      "word": "engagement",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Involvement or interest, especially with an audience.",
+      "example": "Social media engagement is now a key measure of a campaign's success.",
+      "synonyms": ["involvement", "interaction", "participation"],
+      "antonyms": ["disengagement"]
+    },
+    {
+      "id": "3G_123",
+      "word": "entertain",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To provide amusement or enjoyment.",
+      "example": "The street performer entertained passersby with juggling tricks.",
+      "synonyms": ["amuse", "delight", "divert"],
+      "antonyms": ["bore"]
+    },
+    {
+      "id": "3G_124",
+      "word": "entertainer",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person whose job is to entertain others.",
+      "example": "The entertainer captivated the crowd with a mix of music and comedy.",
+      "synonyms": ["performer", "artist"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_125",
+      "word": "entertaining",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Providing amusement or enjoyment.",
+      "example": "The film was entertaining despite its predictable plot.",
+      "synonyms": ["amusing", "enjoyable", "engaging"],
+      "antonyms": ["boring"]
+    },
+    {
+      "id": "3G_126",
+      "word": "entertainment",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Activities or performances designed to provide enjoyment.",
+      "example": "The industry has shifted much of its entertainment to streaming platforms.",
+      "synonyms": ["amusement", "diversion", "recreation"],
+      "antonyms": ["boredom"]
+    },
+    {
+      "id": "3G_127",
+      "word": "ethical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to moral principles.",
+      "example": "Journalists face ethical dilemmas when reporting on private individuals.",
+      "synonyms": ["moral", "principled", "righteous"],
+      "antonyms": ["unethical"]
+    },
+    {
+      "id": "3G_128",
+      "word": "ethically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a manner consistent with moral principles.",
+      "example": "The documentary was criticized for failing to ethically obtain consent from participants.",
+      "synonyms": ["morally"],
+      "antonyms": ["unethically"]
+    },
+    {
+      "id": "3G_129",
+      "word": "event",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A planned public or social occasion.",
+      "example": "The cultural event drew performers from over twenty countries.",
+      "synonyms": ["occasion", "occurrence", "function"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_130",
+      "word": "eventual",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Occurring at the end of a process.",
+      "example": "The film's eventual success surprised even its own producers.",
+      "synonyms": ["ultimate", "final"],
+      "antonyms": ["immediate"]
+    },
+    {
+      "id": "3G_131",
+      "word": "eventually",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In the end, after a period of time.",
+      "example": "The independent film eventually found a wide audience through streaming.",
+      "synonyms": ["ultimately", "finally"],
+      "antonyms": ["immediately"]
+    },
+    {
+      "id": "3G_132",
+      "word": "exhibit",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To display something publicly, especially works of art.",
+      "example": "The museum will exhibit rare artifacts from the ancient trade routes.",
+      "synonyms": ["display", "showcase", "present"],
+      "antonyms": ["conceal"]
+    },
+    {
+      "id": "3G_133",
+      "word": "exhibition",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A public display of works of art or items of interest.",
+      "example": "The gallery's new exhibition features photography from conflict zones.",
+      "synonyms": ["display", "showcase", "show"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_134",
+      "word": "exhibitor",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person or organization that displays items publicly.",
+      "example": "Local exhibitors showcased handmade crafts at the cultural fair.",
+      "synonyms": ["displayer", "presenter"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_135",
+      "word": "experience",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To undergo or encounter something firsthand.",
+      "example": "The immersive exhibit lets visitors experience ancient Rome firsthand.",
+      "synonyms": ["undergo", "encounter", "live through"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_136",
+      "word": "experienced",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Having knowledge or skill gained from practice.",
+      "example": "An experienced tour guide can bring history vividly to life.",
+      "synonyms": ["skilled", "seasoned", "practiced"],
+      "antonyms": ["inexperienced"]
+    },
+    {
+      "id": "3G_137",
+      "word": "experiment",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An attempt at something new, or a scientific test.",
+      "example": "The director's latest film is a bold experiment in nonlinear storytelling.",
+      "synonyms": ["trial", "test", "venture"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_138",
+      "word": "experimental",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to new and untested methods or ideas.",
+      "example": "The gallery dedicates one room entirely to experimental video art.",
+      "synonyms": ["innovative", "unconventional", "avant-garde"],
+      "antonyms": ["conventional"]
+    },
+    {
+      "id": "3G_139",
+      "word": "experimentally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way that involves testing new methods.",
+      "example": "The band experimentally blended traditional folk with electronic music.",
+      "synonyms": ["unconventionally"],
+      "antonyms": ["conventionally"]
+    },
+    {
+      "id": "3G_140",
+      "word": "experimentation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of trying new methods or ideas.",
+      "example": "Artistic experimentation flourished during the postwar avant-garde movement.",
+      "synonyms": ["trial", "testing", "innovation"],
+      "antonyms": ["convention"]
+    },
+    {
+      "id": "3G_141",
+      "word": "experimenter",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who tries new methods or ideas.",
+      "example": "As an early experimenter in film, she pioneered several visual techniques.",
+      "synonyms": ["innovator", "pioneer"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_142",
+      "word": "express",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To convey thoughts or feelings.",
+      "example": "The mural allows the community to express its shared history visually.",
+      "synonyms": ["convey", "articulate", "voice"],
+      "antonyms": ["suppress"]
+    },
+    {
+      "id": "3G_143",
+      "word": "expressed",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Clearly stated or conveyed.",
+      "example": "The painter's expressed intent was to capture the chaos of urban life.",
+      "synonyms": ["stated", "voiced"],
+      "antonyms": ["implied"]
+    },
+    {
+      "id": "3G_144",
+      "word": "expression",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The act of conveying thoughts or feelings, or a facial look.",
+      "example": "Street art has become a powerful form of political expression.",
+      "synonyms": ["articulation", "communication"],
+      "antonyms": ["suppression"]
+    },
+    {
+      "id": "3G_145",
+      "word": "expressionless",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Showing no emotion, especially on one's face.",
+      "example": "The actor's expressionless delivery added an eerie tone to the scene.",
+      "synonyms": ["blank", "impassive"],
+      "antonyms": ["expressive"]
+    },
+    {
+      "id": "3G_146",
+      "word": "expressive",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Effectively conveying thought or feeling.",
+      "example": "Her expressive brushstrokes conveyed a sense of restless energy.",
+      "synonyms": ["emotive", "vivid", "articulate"],
+      "antonyms": ["expressionless"]
+    },
+    {
+      "id": "3G_147",
+      "word": "expressly",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Explicitly or specifically.",
+      "example": "The mural was expressly commissioned to honor local war veterans.",
+      "synonyms": ["explicitly", "specifically"],
+      "antonyms": ["implicitly"]
+    },
+    {
+      "id": "3G_148",
+      "word": "fact",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A thing known or proved to be true.",
+      "example": "The documentary carefully separates fact from speculation.",
+      "synonyms": ["truth", "reality"],
+      "antonyms": ["fiction"]
+    },
+    {
+      "id": "3G_149",
+      "word": "faction",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A small, organized dissenting group within a larger one.",
+      "example": "A vocal faction of critics dismissed the exhibit as shallow spectacle.",
+      "synonyms": ["group", "clique", "sect"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_150",
+      "word": "factor",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A circumstance contributing to a result.",
+      "example": "Budget was a major factor in the festival's limited program.",
+      "synonyms": ["element", "cause", "influence"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_151",
+      "word": "factory",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A building where goods are manufactured.",
+      "example": "The old textile factory was converted into an art gallery.",
+      "synonyms": ["plant", "mill"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_152",
+      "word": "factual",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Based on or containing facts.",
+      "example": "The film claims to be factual, though several scenes are dramatized.",
+      "synonyms": ["accurate", "true", "verified"],
+      "antonyms": ["fictional"]
+    },
+    {
+      "id": "3G_153",
+      "word": "fan",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An enthusiastic devotee of a particular activity or performer.",
+      "example": "Fans lined up for hours to get tickets to the concert.",
+      "synonyms": ["enthusiast", "admirer", "follower"],
+      "antonyms": ["critic"]
+    },
+    {
+      "id": "3G_154",
+      "word": "feel",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To experience an emotion or sensation.",
+      "example": "The film's score makes audiences feel the character's isolation.",
+      "synonyms": ["sense", "experience"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_155",
+      "word": "festival",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An organized series of events celebrating a particular art form or culture.",
+      "example": "The film festival showcases work from emerging international directors.",
+      "synonyms": ["celebration", "fair", "gala"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_156",
+      "word": "fiction",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Literature describing imaginary events and people.",
+      "example": "Historical fiction blends factual events with invented characters.",
+      "synonyms": ["invention", "narrative", "storytelling"],
+      "antonyms": ["fact"]
+    },
+    {
+      "id": "3G_157",
+      "word": "fictional",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Invented or imaginary, not real.",
+      "example": "The novel's fictional town closely resembles the author's hometown.",
+      "synonyms": ["invented", "imaginary", "made-up"],
+      "antonyms": ["factual"]
+    },
+    {
+      "id": "3G_158",
+      "word": "film",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To record something using a camera.",
+      "example": "The crew traveled abroad to film the documentary's final scenes.",
+      "synonyms": ["shoot", "record", "capture"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_159",
+      "word": "filming",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of making a film.",
+      "example": "Filming took place over six months across three continents.",
+      "synonyms": ["shooting", "production"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_160",
+      "word": "filmmaker",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who makes films, especially as a profession.",
+      "example": "The young filmmaker won an award for her debut documentary.",
+      "synonyms": ["director", "producer"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_161",
+      "word": "framing",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The way something, especially an image or issue, is presented.",
+      "example": "The photographer's framing drew attention to the subject's isolation.",
+      "synonyms": ["composition", "presentation"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_162",
+      "word": "freedom",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The power to act, speak, or think without restraint.",
+      "example": "Freedom of the press is essential to a functioning democracy.",
+      "synonyms": ["liberty", "independence"],
+      "antonyms": ["restriction", "oppression"]
+    },
+    {
+      "id": "3G_163",
+      "word": "funding",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Money provided for a purpose.",
+      "example": "Public funding for the arts has declined significantly in recent years.",
+      "synonyms": ["financing", "sponsorship", "investment"],
+      "antonyms": ["defunding"]
+    },
+    {
+      "id": "3G_164",
+      "word": "gallery",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A room or building for the display of works of art.",
+      "example": "The gallery opened a new wing dedicated to contemporary sculpture.",
+      "synonyms": ["exhibition space", "museum"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_165",
+      "word": "genre",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A category of artistic composition characterized by a particular style.",
+      "example": "Horror remains one of the most consistently profitable film genres.",
+      "synonyms": ["category", "style", "type"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_166",
+      "word": "geopolitical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to politics influenced by geographical factors.",
+      "example": "The documentary examines the geopolitical tensions behind the conflict.",
+      "synonyms": ["political-geographic"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_167",
+      "word": "grant",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A sum of money given for a particular purpose, especially by an organization.",
+      "example": "The artist received a grant to complete her mural project.",
+      "synonyms": ["funding", "subsidy", "award"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_168",
+      "word": "granting",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The act of giving or awarding something officially.",
+      "example": "The foundation is granting scholarships to emerging documentary filmmakers.",
+      "synonyms": ["awarding", "giving"],
+      "antonyms": ["denying"]
+    },
+    {
+      "id": "3G_169",
+      "word": "hear",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To perceive sound with the ears.",
+      "example": "Audiences can hear the orchestra's full range through the venue's new sound system.",
+      "synonyms": ["listen", "perceive"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_170",
+      "word": "hegemonic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to dominance of one group or culture over others.",
+      "example": "Critics argue that mainstream cinema reinforces hegemonic cultural narratives.",
+      "synonyms": ["dominant", "dominating"],
+      "antonyms": ["marginal"]
+    },
+    {
+      "id": "3G_171",
+      "word": "heritage",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Valued traditions, buildings, or features passed down from previous generations.",
+      "example": "UNESCO recognized the old town as a world heritage site.",
+      "synonyms": ["legacy", "tradition", "inheritance"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_172",
+      "word": "historian",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who studies or writes about history.",
+      "example": "The historian consulted archival footage for the documentary.",
+      "synonyms": ["scholar", "chronicler"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_173",
+      "word": "historic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Famous or important in history.",
+      "example": "The historic theater has hosted performances for over a century.",
+      "synonyms": ["significant", "notable", "momentous"],
+      "antonyms": ["unremarkable"]
+    },
+    {
+      "id": "3G_174",
+      "word": "historical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the study or representation of past events.",
+      "example": "The film takes considerable liberties with historical accuracy.",
+      "synonyms": ["past", "chronological", "bygone"],
+      "antonyms": ["contemporary"]
+    },
+    {
+      "id": "3G_175",
+      "word": "historiography",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The study of the writing of history and historical methods.",
+      "example": "Her thesis examines the historiography of colonial-era travel writing.",
+      "synonyms": ["history writing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_176",
+      "word": "history",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The study of past events, or a record of such events.",
+      "example": "The museum traces the history of the region's textile trade.",
+      "synonyms": ["past", "chronicle", "record"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_177",
+      "word": "hit",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A great success, especially in entertainment.",
+      "example": "The song became an unexpected global hit within weeks of release.",
+      "synonyms": ["success", "sensation", "smash"],
+      "antonyms": ["flop"]
+    },
+    {
+      "id": "3G_178",
+      "word": "icon",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person or thing regarded as a representative symbol.",
+      "example": "The actress became a cultural icon after her breakout role.",
+      "synonyms": ["symbol", "figurehead", "legend"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_179",
+      "word": "iconic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Widely recognized as representing something significant.",
+      "example": "The film's iconic soundtrack remains popular decades later.",
+      "synonyms": ["legendary", "emblematic", "celebrated"],
+      "antonyms": ["obscure"]
+    },
+    {
+      "id": "3G_180",
+      "word": "iconography",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The visual images and symbols used in a particular context.",
+      "example": "The exhibit analyzes religious iconography in medieval painting.",
+      "synonyms": ["symbolism", "imagery"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_181",
+      "word": "identical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Exactly alike; the same.",
+      "example": "The two paintings appear identical except for a subtle color shift.",
+      "synonyms": ["same", "matching", "indistinguishable"],
+      "antonyms": ["different"]
+    },
+    {
+      "id": "3G_182",
+      "word": "identity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The fact of being who or what a person or thing is.",
+      "example": "The novel explores questions of cultural identity among immigrants.",
+      "synonyms": ["individuality", "character", "selfhood"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_183",
+      "word": "imaginable",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Able to be imagined; conceivable.",
+      "example": "The set designer used every imaginable material to build the fantasy world.",
+      "synonyms": ["conceivable", "possible"],
+      "antonyms": ["unimaginable"]
+    },
+    {
+      "id": "3G_184",
+      "word": "imaginary",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Existing only in the imagination; not real.",
+      "example": "The film is set in an imaginary kingdom loosely inspired by medieval Europe.",
+      "synonyms": ["fictional", "invented", "fanciful"],
+      "antonyms": ["real"]
+    },
+    {
+      "id": "3G_185",
+      "word": "imagination",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The faculty of forming new ideas or images not present to the senses.",
+      "example": "Children's books rely heavily on imagination to build fantastical worlds.",
+      "synonyms": ["creativity", "invention", "fancy"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_186",
+      "word": "imaginative",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Having or showing creativity or inventiveness.",
+      "example": "The imaginative set design transformed the stage into an underwater world.",
+      "synonyms": ["creative", "inventive", "original"],
+      "antonyms": ["unimaginative"]
+    },
+    {
+      "id": "3G_187",
+      "word": "imagine",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To form a mental image of something not present.",
+      "example": "It's hard to imagine the city before the ancient temple was built.",
+      "synonyms": ["envision", "picture", "conceive"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_188",
+      "word": "imagined",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Existing only in the mind; conceived.",
+      "example": "The novel presents an imagined future shaped by climate change.",
+      "synonyms": ["envisioned", "conceived", "fictional"],
+      "antonyms": ["real"]
+    },
+    {
+      "id": "3G_189",
+      "word": "imaging",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of producing images, especially through technology.",
+      "example": "Digital imaging techniques restored the faded mural to its original color.",
+      "synonyms": ["image production"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_190",
+      "word": "industry",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Economic activity concerned with the production of goods or services.",
+      "example": "The streaming industry has reshaped how films are financed and distributed.",
+      "synonyms": ["sector", "business", "trade"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_191",
+      "word": "inequity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Unfairness or lack of justice.",
+      "example": "Critics highlight inequity in funding between mainstream and independent cinema.",
+      "synonyms": ["unfairness", "injustice", "disparity"],
+      "antonyms": ["equity"]
+    },
+    {
+      "id": "3G_192",
+      "word": "influence",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The capacity to affect someone or something.",
+      "example": "Silent films had a lasting influence on modern visual storytelling.",
+      "synonyms": ["impact", "effect", "sway"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_193",
+      "word": "informal",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Not formal or official; relaxed.",
+      "example": "The interview took place in an informal setting rather than a studio.",
+      "synonyms": ["casual", "relaxed", "unofficial"],
+      "antonyms": ["formal"]
+    },
+    {
+      "id": "3G_194",
+      "word": "informally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a casual or unofficial manner.",
+      "example": "The director informally discussed the project before any contracts were signed.",
+      "synonyms": ["casually", "unofficially"],
+      "antonyms": ["formally"]
+    },
+    {
+      "id": "3G_195",
+      "word": "innovate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To introduce new methods or ideas.",
+      "example": "The studio continues to innovate with new special-effects technology.",
+      "synonyms": ["pioneer", "invent", "modernize"],
+      "antonyms": ["conform"]
+    },
+    {
+      "id": "3G_196",
+      "word": "innovation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A new method, idea, or product.",
+      "example": "Streaming technology was a major innovation in how audiences consume television.",
+      "synonyms": ["invention", "advancement", "breakthrough"],
+      "antonyms": ["tradition"]
+    },
+    {
+      "id": "3G_197",
+      "word": "innovative",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Featuring new methods or ideas.",
+      "example": "The exhibit showcased innovative uses of recycled materials in sculpture.",
+      "synonyms": ["inventive", "groundbreaking", "novel"],
+      "antonyms": ["conventional"]
+    },
+    {
+      "id": "3G_198",
+      "word": "innovator",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who introduces new methods or ideas.",
+      "example": "She is widely regarded as an innovator in experimental theater.",
+      "synonyms": ["pioneer", "inventor"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_199",
+      "word": "intangible",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Unable to be touched or precisely defined, but still real.",
+      "example": "Cultural heritage includes intangible traditions like folk music and oral storytelling.",
+      "synonyms": ["abstract", "immaterial"],
+      "antonyms": ["tangible"]
+    },
+    {
+      "id": "3G_200",
+      "word": "intellect",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The capacity for rational thought and understanding.",
+      "example": "The film appeals more to intellect than to emotion.",
+      "synonyms": ["mind", "reason", "intelligence"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_201",
+      "word": "intellectual",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the intellect or rational thought.",
+      "example": "The novel is admired for its intellectual depth and philosophical ambition.",
+      "synonyms": ["cerebral", "scholarly", "cognitive"],
+      "antonyms": ["unintellectual"]
+    },
+    {
+      "id": "3G_202",
+      "word": "intellectually",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a manner relating to the intellect.",
+      "example": "The play is intellectually demanding, requiring close attention throughout.",
+      "synonyms": ["cerebrally"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_203",
+      "word": "interact",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To communicate or engage with someone or something.",
+      "example": "The exhibit allows visitors to interact directly with the artwork.",
+      "synonyms": ["engage", "communicate", "connect"],
+      "antonyms": ["ignore"]
+    },
+    {
+      "id": "3G_204",
+      "word": "interaction",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Communication or engagement between people or things.",
+      "example": "Audience interaction has become a defining feature of modern theater.",
+      "synonyms": ["engagement", "exchange", "communication"],
+      "antonyms": ["isolation"]
+    },
+    {
+      "id": "3G_205",
+      "word": "interactive",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Allowing two-way communication or engagement.",
+      "example": "The museum's interactive displays let children touch historical replicas.",
+      "synonyms": ["participatory", "engaging"],
+      "antonyms": ["passive"]
+    },
+    {
+      "id": "3G_206",
+      "word": "intersect",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To cross or meet at a point.",
+      "example": "The film's storylines intersect unexpectedly in the final act.",
+      "synonyms": ["cross", "converge", "meet"],
+      "antonyms": ["diverge"]
+    },
+    {
+      "id": "3G_207",
+      "word": "intersection",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A point where things cross or meet.",
+      "example": "The exhibit explores the intersection of art and social activism.",
+      "synonyms": ["crossroads", "junction", "convergence"],
+      "antonyms": ["divergence"]
+    },
+    {
+      "id": "3G_208",
+      "word": "journal",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A periodical publication, or a personal diary.",
+      "example": "The travel writer kept a detailed journal throughout her expedition.",
+      "synonyms": ["publication", "diary", "log"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_209",
+      "word": "journalism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The activity of gathering, writing, and publishing news.",
+      "example": "Investigative journalism exposed corruption within the film industry.",
+      "synonyms": ["reporting", "news writing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_210",
+      "word": "journalist",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who writes for newspapers, magazines, or news websites.",
+      "example": "The journalist interviewed dozens of local artists for the feature story.",
+      "synonyms": ["reporter", "correspondent", "writer"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_211",
+      "word": "journalistic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to journalism or its style.",
+      "example": "The documentary adopted a journalistic approach, relying heavily on interviews.",
+      "synonyms": ["reportorial"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_212",
+      "word": "language",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The method of communication used by a particular community.",
+      "example": "The film's use of regional language gave it a strong sense of authenticity.",
+      "synonyms": ["speech", "tongue", "dialect"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_213",
+      "word": "leisure",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Free time used for enjoyment.",
+      "example": "Museums have become popular leisure destinations for families on weekends.",
+      "synonyms": ["recreation", "relaxation", "free time"],
+      "antonyms": ["work"]
+    },
+    {
+      "id": "3G_214",
+      "word": "leisurely",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relaxed and unhurried.",
+      "example": "Visitors enjoyed a leisurely stroll through the sculpture garden.",
+      "synonyms": ["relaxed", "unhurried", "easygoing"],
+      "antonyms": ["rushed"]
+    },
+    {
+      "id": "3G_215",
+      "word": "literature",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Written works, especially those considered to have artistic merit.",
+      "example": "The course surveys world literature from the twentieth century onward.",
+      "synonyms": ["writing", "texts", "letters"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_216",
+      "word": "live",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Broadcast or performed in real time, not recorded.",
+      "example": "The band performed a live concert streamed to fans worldwide.",
+      "synonyms": ["real-time", "unrecorded"],
+      "antonyms": ["recorded"]
+    },
+    {
+      "id": "3G_217",
+      "word": "localize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To adapt something for a particular local audience.",
+      "example": "The studio localized the game's dialogue for international audiences.",
+      "synonyms": ["adapt", "customize", "tailor"],
+      "antonyms": ["globalize"]
+    },
+    {
+      "id": "3G_218",
+      "word": "localized",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Restricted or adapted to a particular area or audience.",
+      "example": "The festival's marketing was localized for each participating city.",
+      "synonyms": ["regional", "adapted"],
+      "antonyms": ["global"]
+    },
+    {
+      "id": "3G_219",
+      "word": "magazine",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A periodical publication containing articles and illustrations.",
+      "example": "The fashion magazine featured an interview with the rising designer.",
+      "synonyms": ["periodical", "journal"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_220",
+      "word": "mainstream",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Ideas or practices considered normal or dominant.",
+      "example": "Independent films rarely receive the marketing budgets of mainstream releases.",
+      "synonyms": ["conventional", "popular", "dominant"],
+      "antonyms": ["alternative", "fringe"]
+    },
+    {
+      "id": "3G_221",
+      "word": "media",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The main means of mass communication, such as television and newspapers.",
+      "example": "Social media has transformed how news and entertainment spread.",
+      "synonyms": ["press", "broadcasting", "journalism"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_222",
+      "word": "medial",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Situated in the middle; relating to the middle.",
+      "example": "The linguist studied the medial sounds within the region's dialect.",
+      "synonyms": ["middle", "central"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_223",
+      "word": "median",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The middle value in a set of data.",
+      "example": "The median age of festival attendees has dropped in recent years.",
+      "synonyms": ["middle value", "midpoint"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_224",
+      "word": "mediate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To intervene between disputing parties to help resolve a conflict.",
+      "example": "The producer had to mediate between the director and the studio executives.",
+      "synonyms": ["negotiate", "arbitrate", "intervene"],
+      "antonyms": ["escalate"]
+    },
+    {
+      "id": "3G_225",
+      "word": "mediation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Intervention to resolve a dispute between parties.",
+      "example": "Mediation between the union and studio avoided a lengthy production strike.",
+      "synonyms": ["arbitration", "negotiation"],
+      "antonyms": ["escalation"]
+    },
+    {
+      "id": "3G_226",
+      "word": "mediator",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who mediates between disputing parties.",
+      "example": "An independent mediator helped settle the dispute over broadcasting rights.",
+      "synonyms": ["arbitrator", "negotiator"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_227",
+      "word": "memorabilia",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Objects valued because of their connection with a notable person or event.",
+      "example": "The auction sold rare film memorabilia to collectors worldwide.",
+      "synonyms": ["souvenirs", "collectibles", "keepsakes"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_228",
+      "word": "memorable",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Worth remembering; easily remembered.",
+      "example": "The film's memorable score has become instantly recognizable.",
+      "synonyms": ["unforgettable", "notable", "striking"],
+      "antonyms": ["forgettable"]
+    },
+    {
+      "id": "3G_229",
+      "word": "memorandum",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A written message, especially in business or official contexts.",
+      "example": "The studio issued a memorandum outlining new content guidelines.",
+      "synonyms": ["note", "memo", "notice"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_230",
+      "word": "memorial",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Something built or done to honor a person or event.",
+      "example": "The city unveiled a memorial to commemorate the festival's founder.",
+      "synonyms": ["monument", "tribute"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_231",
+      "word": "memorialize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To preserve the memory of someone or something.",
+      "example": "The documentary memorializes a fading way of rural life.",
+      "synonyms": ["commemorate", "honor", "immortalize"],
+      "antonyms": ["forget"]
+    },
+    {
+      "id": "3G_232",
+      "word": "memorize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To commit something to memory.",
+      "example": "Actors must memorize lengthy scripts before rehearsals begin.",
+      "synonyms": ["learn by heart", "retain"],
+      "antonyms": ["forget"]
+    },
+    {
+      "id": "3G_233",
+      "word": "memory",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The faculty of retaining and recalling information, or a recollection.",
+      "example": "The exhibit relies on collective memory to reconstruct the vanished neighborhood.",
+      "synonyms": ["recollection", "remembrance"],
+      "antonyms": ["forgetfulness"]
+    },
+    {
+      "id": "3G_234",
+      "word": "migrate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To move from one place to settle in another.",
+      "example": "Many musicians migrated to the city seeking greater creative opportunities.",
+      "synonyms": ["relocate", "move", "resettle"],
+      "antonyms": ["stay"]
+    },
+    {
+      "id": "3G_235",
+      "word": "migration",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The movement of people or animals from one place to another.",
+      "example": "The novel follows a family's migration across two continents.",
+      "synonyms": ["relocation", "movement"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_236",
+      "word": "migratory",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to migration; moving periodically from one place to another.",
+      "example": "The photography series documents migratory birds along ancient trade routes.",
+      "synonyms": ["nomadic", "transient"],
+      "antonyms": ["sedentary"]
+    },
+    {
+      "id": "3G_237",
+      "word": "mobilization",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The action of organizing people or resources for a purpose.",
+      "example": "The film sparked a mobilization of public support for refugee rights.",
+      "synonyms": ["organization", "rallying"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_238",
+      "word": "mobilize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To organize people to take collective action.",
+      "example": "Activists used social media to mobilize thousands for the cultural rally.",
+      "synonyms": ["rally", "organize", "marshal"],
+      "antonyms": ["demobilize"]
+    },
+    {
+      "id": "3G_239",
+      "word": "modern",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the present or recent times.",
+      "example": "The gallery's modern wing displays work from the past fifty years.",
+      "synonyms": ["contemporary", "current", "present-day"],
+      "antonyms": ["ancient", "traditional"]
+    },
+    {
+      "id": "3G_240",
+      "word": "modern-day",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Belonging to the present time.",
+      "example": "The play reimagines a Shakespearean tragedy in a modern-day setting.",
+      "synonyms": ["contemporary", "present-day"],
+      "antonyms": ["historical"]
+    },
+    {
+      "id": "3G_241",
+      "word": "modernism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A style and movement in art and literature emphasizing innovation.",
+      "example": "The exhibit traces the rise of modernism in early twentieth-century painting.",
+      "synonyms": ["avant-garde movement"],
+      "antonyms": ["traditionalism"]
+    },
+    {
+      "id": "3G_242",
+      "word": "modernist",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to modernism, especially in art and architecture.",
+      "example": "The modernist architect rejected ornamentation in favor of clean lines.",
+      "synonyms": ["avant-garde"],
+      "antonyms": ["traditionalist"]
+    },
+    {
+      "id": "3G_243",
+      "word": "modernity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The condition of being modern.",
+      "example": "The film contrasts rural tradition with the pace of urban modernity.",
+      "synonyms": ["contemporaneity"],
+      "antonyms": ["antiquity"]
+    },
+    {
+      "id": "3G_244",
+      "word": "modernization",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of adapting something to modern needs.",
+      "example": "Modernization of the theater included new digital sound systems.",
+      "synonyms": ["updating", "renewal"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_245",
+      "word": "modernize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To adapt something to modern needs or habits.",
+      "example": "The museum modernized its exhibits with interactive digital displays.",
+      "synonyms": ["update", "renew", "revamp"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_246",
+      "word": "morality",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Principles concerning right and wrong behavior.",
+      "example": "The film raises difficult questions about morality during wartime.",
+      "synonyms": ["ethics", "virtue", "principles"],
+      "antonyms": ["immorality"]
+    },
+    {
+      "id": "3G_247",
+      "word": "movement",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A group of people sharing common ideas, especially in art or politics.",
+      "example": "The street art movement transformed the city's public spaces.",
+      "synonyms": ["campaign", "trend", "wave"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_248",
+      "word": "multicultural",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to or containing several cultural groups.",
+      "example": "The multicultural festival featured food, music, and dance from around the world.",
+      "synonyms": ["diverse", "cosmopolitan"],
+      "antonyms": ["monocultural"]
+    },
+    {
+      "id": "3G_249",
+      "word": "multiculturalism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The presence of multiple distinct cultural groups within a society.",
+      "example": "Multiculturalism is a recurring theme in the city's contemporary art scene.",
+      "synonyms": ["cultural diversity", "pluralism"],
+      "antonyms": ["assimilation"]
+    },
+    {
+      "id": "3G_250",
+      "word": "museum",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A building housing objects of historical, artistic, or scientific interest.",
+      "example": "The museum's new wing focuses on regional folk art.",
+      "synonyms": ["gallery", "exhibition hall"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_251",
+      "word": "music",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Vocal or instrumental sounds combined to produce beauty of form.",
+      "example": "Traditional music plays a central role in the festival's opening ceremony.",
+      "synonyms": ["melody", "song", "composition"],
+      "antonyms": ["silence"]
+    },
+    {
+      "id": "3G_252",
+      "word": "musical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to music.",
+      "example": "The musical received rave reviews for its innovative choreography.",
+      "synonyms": ["melodic", "tuneful"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_253",
+      "word": "musically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a manner relating to music.",
+      "example": "The film was musically ambitious, blending orchestral and electronic elements.",
+      "synonyms": ["melodically"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_254",
+      "word": "musician",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who plays or composes music.",
+      "example": "The street musician drew a large crowd with his violin performance.",
+      "synonyms": ["performer", "composer", "instrumentalist"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_255",
+      "word": "narrate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To give a spoken account of events, especially in a film or story.",
+      "example": "The documentary is narrated by a renowned historian.",
+      "synonyms": ["recount", "tell", "relate"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_256",
+      "word": "narration",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Spoken commentary accompanying a film or broadcast.",
+      "example": "The film's narration guides viewers through decades of political upheaval.",
+      "synonyms": ["voiceover", "commentary"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_257",
+      "word": "narrative",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A spoken or written account of events; a story.",
+      "example": "The exhibit weaves a compelling narrative of migration and resilience.",
+      "synonyms": ["story", "account", "tale"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_258",
+      "word": "narrator",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who narrates a story, film, or broadcast.",
+      "example": "The narrator's calm voice contrasted sharply with the film's chaotic imagery.",
+      "synonyms": ["storyteller", "commentator"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_259",
+      "word": "network",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A group of interconnected people or organizations, or a broadcasting company.",
+      "example": "The television network canceled the show after disappointing ratings.",
+      "synonyms": ["system", "web", "broadcaster"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_260",
+      "word": "networking",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The action of interacting with others to exchange information or build connections.",
+      "example": "Film festivals offer valuable networking opportunities for young directors.",
+      "synonyms": ["connecting", "socializing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_261",
+      "word": "news",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Newly received information about recent events.",
+      "example": "Breaking news about the festival's cancellation spread quickly online.",
+      "synonyms": ["reports", "information", "bulletin"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_262",
+      "word": "newspaper",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A printed publication containing news and articles.",
+      "example": "The local newspaper covered the film festival extensively.",
+      "synonyms": ["paper", "gazette", "journal"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_263",
+      "word": "norm",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A standard or pattern regarded as typical.",
+      "example": "Streaming has quickly become the norm for how audiences watch television.",
+      "synonyms": ["standard", "convention", "rule"],
+      "antonyms": ["exception"]
+    },
+    {
+      "id": "3G_264",
+      "word": "normal",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Conforming to a standard; usual or typical.",
+      "example": "Ticket prices returned to normal after the festival's opening weekend.",
+      "synonyms": ["standard", "typical", "usual"],
+      "antonyms": ["abnormal"]
+    },
+    {
+      "id": "3G_265",
+      "word": "normalcy",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The state of being normal.",
+      "example": "After years of disruption, the film industry slowly returned to normalcy.",
+      "synonyms": ["normality", "stability"],
+      "antonyms": ["abnormality"]
+    },
+    {
+      "id": "3G_266",
+      "word": "normality",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The state of being usual or expected.",
+      "example": "A sense of normality returned to cinemas after the pandemic restrictions eased.",
+      "synonyms": ["normalcy"],
+      "antonyms": ["abnormality"]
+    },
+    {
+      "id": "3G_267",
+      "word": "normalization",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of making something conform to a standard, or becoming accepted as normal.",
+      "example": "Critics warned against the normalization of excessive on-screen violence.",
+      "synonyms": ["standardization", "acceptance"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_268",
+      "word": "normalize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To bring something to a normal state, or to make it seem acceptable.",
+      "example": "The show has been criticized for normalizing harmful stereotypes.",
+      "synonyms": ["standardize", "regularize"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_269",
+      "word": "normally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Under normal or usual conditions.",
+      "example": "Ticket sales normally spike after positive reviews are published.",
+      "synonyms": ["usually", "typically"],
+      "antonyms": ["abnormally"]
+    },
+    {
+      "id": "3G_270",
+      "word": "norman",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the Normans, a medieval people, or their architectural style.",
+      "example": "The cathedral's Norman architecture attracts thousands of history tourists each year.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3G_271",
+      "word": "normative",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Establishing or relating to a standard or norm.",
+      "example": "The report critiques normative beauty standards perpetuated by advertising.",
+      "synonyms": ["standard-setting", "prescriptive"],
+      "antonyms": ["descriptive"]
+    },
+    {
+      "id": "3G_272",
+      "word": "objective",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Not influenced by personal feelings or opinions.",
+      "example": "Journalists strive to remain objective when covering controversial events.",
+      "synonyms": ["unbiased", "impartial", "neutral"],
+      "antonyms": ["subjective", "biased"]
+    },
+    {
+      "id": "3G_273",
+      "word": "objectively",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way not influenced by personal feelings or opinions.",
+      "example": "It is difficult to assess art objectively, since taste is inherently personal.",
+      "synonyms": ["impartially", "neutrally"],
+      "antonyms": ["subjectively"]
+    },
+    {
+      "id": "3G_274",
+      "word": "objectivity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The quality of being unbiased or impartial.",
+      "example": "The documentary aimed for objectivity by presenting multiple perspectives.",
+      "synonyms": ["impartiality", "neutrality"],
+      "antonyms": ["subjectivity"]
+    },
+    {
+      "id": "3G_275",
+      "word": "online",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Connected to or available through the internet.",
+      "example": "Online streaming has largely replaced traditional television viewing.",
+      "synonyms": ["internet-based", "digital"],
+      "antonyms": ["offline"]
+    },
+    {
+      "id": "3G_276",
+      "word": "oral",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Spoken rather than written.",
+      "example": "Oral tradition remains the primary way many indigenous stories are preserved.",
+      "synonyms": ["spoken", "verbal"],
+      "antonyms": ["written"]
+    },
+    {
+      "id": "3G_277",
+      "word": "orally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "By word of mouth; verbally.",
+      "example": "The folklore was passed down orally for generations before being written.",
+      "synonyms": ["verbally"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_278",
+      "word": "original",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Not copied or derivative; existing from the beginning.",
+      "example": "The museum displays the original manuscript alongside later reproductions.",
+      "synonyms": ["authentic", "genuine", "novel"],
+      "antonyms": ["derivative", "copy"]
+    },
+    {
+      "id": "3G_279",
+      "word": "originality",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The quality of being novel and inventive.",
+      "example": "Critics praised the film's originality despite its modest budget.",
+      "synonyms": ["novelty", "inventiveness", "creativity"],
+      "antonyms": ["derivativeness"]
+    },
+    {
+      "id": "3G_280",
+      "word": "originally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "At first, before any subsequent changes.",
+      "example": "The screenplay was originally written as a stage play.",
+      "synonyms": ["initially", "at first"],
+      "antonyms": ["eventually"]
+    },
+    {
+      "id": "3G_281",
+      "word": "paint",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A colored substance applied to a surface to decorate or protect it.",
+      "example": "The mural artist chose bold colors to paint the community center's wall.",
+      "synonyms": ["pigment", "coat"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_282",
+      "word": "paintbrush",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A brush used for applying paint.",
+      "example": "She dipped her paintbrush carefully before adding the final details.",
+      "synonyms": ["brush"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_283",
+      "word": "painted",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Covered or decorated with paint.",
+      "example": "The painted ceiling depicted scenes from local mythology.",
+      "synonyms": ["colored", "decorated"],
+      "antonyms": ["unpainted"]
+    },
+    {
+      "id": "3G_284",
+      "word": "painter",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who paints pictures.",
+      "example": "The painter spent months capturing the changing light over the harbor.",
+      "synonyms": ["artist"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_285",
+      "word": "painting",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A picture made using paint.",
+      "example": "The gallery's newest painting sold within hours of the opening.",
+      "synonyms": ["artwork", "canvas"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_286",
+      "word": "perform",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To entertain an audience by acting, singing, or playing music.",
+      "example": "The orchestra will perform a new symphony at the closing ceremony.",
+      "synonyms": ["act", "present", "play"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_287",
+      "word": "performance",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An act of presenting a play, concert, or other form of entertainment.",
+      "example": "The opening night performance received a standing ovation.",
+      "synonyms": ["show", "presentation", "production"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_288",
+      "word": "performer",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who performs for an audience.",
+      "example": "The street performer amazed onlookers with his acrobatic tricks.",
+      "synonyms": ["actor", "entertainer", "artist"],
+      "antonyms": ["audience"]
+    },
+    {
+      "id": "3G_289",
+      "word": "performing",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to arts performed before an audience.",
+      "example": "She studied at a prestigious performing arts academy.",
+      "synonyms": ["theatrical"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_290",
+      "word": "photograph",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An image captured by a camera.",
+      "example": "The exhibit features photographs taken during the country's civil war.",
+      "synonyms": ["picture", "snapshot", "image"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_291",
+      "word": "photographer",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who takes photographs, especially professionally.",
+      "example": "The war photographer risked her life to document the conflict.",
+      "synonyms": ["cameraman", "image-maker"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_292",
+      "word": "photographic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to photography.",
+      "example": "The novel's descriptions are almost photographic in their precision.",
+      "synonyms": ["pictorial", "visual"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_293",
+      "word": "photography",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The art or practice of taking photographs.",
+      "example": "Street photography captures unposed moments of everyday life.",
+      "synonyms": ["image-making"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_294",
+      "word": "plagiarism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The practice of using someone's work without proper credit.",
+      "example": "The journalist was fired after allegations of plagiarism surfaced.",
+      "synonyms": ["copying", "piracy", "theft"],
+      "antonyms": ["originality"]
+    },
+    {
+      "id": "3G_295",
+      "word": "platform",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A raised structure for performing, or a system for delivering digital content.",
+      "example": "The film premiered exclusively on a streaming platform.",
+      "synonyms": ["stage", "service", "medium"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_296",
+      "word": "play",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A dramatic work written for performance.",
+      "example": "The community theater staged an original play about local history.",
+      "synonyms": ["drama", "production"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_297",
+      "word": "pluralism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A condition in which multiple groups coexist within a society.",
+      "example": "Cultural pluralism is reflected in the city's diverse festival calendar.",
+      "synonyms": ["diversity", "multiculturalism"],
+      "antonyms": ["uniformity"]
+    },
+    {
+      "id": "3G_298",
+      "word": "pluralistic",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Characterized by a diversity of groups coexisting.",
+      "example": "A pluralistic media landscape allows for a wider range of viewpoints.",
+      "synonyms": ["diverse", "multicultural"],
+      "antonyms": ["uniform"]
+    },
+    {
+      "id": "3G_299",
+      "word": "pop",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to popular music or culture.",
+      "example": "The exhibit examines pop art's influence on modern advertising.",
+      "synonyms": ["popular"],
+      "antonyms": ["classical"]
+    },
+    {
+      "id": "3G_300",
+      "word": "popular",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Liked or admired by many people.",
+      "example": "The festival's most popular event sold out within minutes.",
+      "synonyms": ["well-liked", "favored", "beloved"],
+      "antonyms": ["unpopular"]
+    },
+    {
+      "id": "3G_301",
+      "word": "popularity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The state of being liked or admired by many people.",
+      "example": "The band's popularity soared after their song went viral online.",
+      "synonyms": ["fame", "acclaim", "favor"],
+      "antonyms": ["unpopularity"]
+    },
+    {
+      "id": "3G_302",
+      "word": "popularize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To make something widely known or liked.",
+      "example": "The film helped popularize a previously obscure literary genre.",
+      "synonyms": ["promote", "spread", "publicize"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_303",
+      "word": "popularly",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "By many people; widely.",
+      "example": "The novel is popularly regarded as a masterpiece of modern fiction.",
+      "synonyms": ["widely", "commonly"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_304",
+      "word": "postmodern",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to a late-twentieth-century movement rejecting traditional forms.",
+      "example": "The postmodern novel blends multiple narrative styles and timelines.",
+      "synonyms": ["avant-garde"],
+      "antonyms": ["modernist"]
+    },
+    {
+      "id": "3G_305",
+      "word": "postmodernism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A movement in art and literature characterized by a departure from modernist ideals.",
+      "example": "The lecture examines postmodernism's influence on contemporary architecture.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3G_306",
+      "word": "print",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Printed publications, such as newspapers and books, as a medium.",
+      "example": "Print journalism has declined sharply since the rise of online news.",
+      "synonyms": ["publication", "press"],
+      "antonyms": ["digital"]
+    },
+    {
+      "id": "3G_307",
+      "word": "propaganda",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Biased or misleading information used to promote a political cause.",
+      "example": "The film has been criticized as little more than state propaganda.",
+      "synonyms": ["disinformation", "spin"],
+      "antonyms": ["objective reporting"]
+    },
+    {
+      "id": "3G_308",
+      "word": "proprietary",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to an owner, or exclusively owned.",
+      "example": "The streaming service uses proprietary technology to compress video files.",
+      "synonyms": ["exclusive", "owned"],
+      "antonyms": ["public", "open"]
+    },
+    {
+      "id": "3G_309",
+      "word": "proprietor",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The owner of a business, especially a small one.",
+      "example": "The proprietor of the local cinema has run it for over thirty years.",
+      "synonyms": ["owner", "operator"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_310",
+      "word": "propriety",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Conformity to conventionally accepted behavior.",
+      "example": "The play was criticized at the time for violating standards of propriety.",
+      "synonyms": ["decorum", "decency"],
+      "antonyms": ["impropriety"]
+    },
+    {
+      "id": "3G_311",
+      "word": "radio",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A system for broadcasting sound programs.",
+      "example": "Community radio remains a vital source of local news and culture.",
+      "synonyms": ["broadcast medium"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_312",
+      "word": "radioactive",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Emitting radiation.",
+      "example": "The film depicts a fictional town contaminated by radioactive waste.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3G_313",
+      "word": "radiologist",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A medical specialist who interprets diagnostic images.",
+      "example": "The documentary followed a radiologist working in a remote hospital.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3G_314",
+      "word": "read",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To look at and comprehend written material.",
+      "example": "Millions of readers have read the novel since its translation into twelve languages.",
+      "synonyms": ["peruse", "study"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_315",
+      "word": "recreation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Activity done for enjoyment when not working.",
+      "example": "Museums and parks are popular forms of recreation for city residents.",
+      "synonyms": ["leisure", "amusement", "pastime"],
+      "antonyms": ["work"]
+    },
+    {
+      "id": "3G_316",
+      "word": "recreational",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to leisure activities done for enjoyment.",
+      "example": "The city built a recreational trail connecting several cultural landmarks.",
+      "synonyms": ["leisure-related"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_317",
+      "word": "regular",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Occurring at consistent intervals, or usual.",
+      "example": "The theater hosts a regular schedule of community performances.",
+      "synonyms": ["consistent", "routine", "usual"],
+      "antonyms": ["irregular"]
+    },
+    {
+      "id": "3G_318",
+      "word": "regular-season",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the standard portion of a sports season before playoffs.",
+      "example": "Broadcasters compete fiercely for regular-season television rights.",
+      "synonyms": [],
+      "antonyms": ["postseason"]
+    },
+    {
+      "id": "3G_319",
+      "word": "regularity",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The quality of occurring at consistent intervals.",
+      "example": "The festival's regularity has made it a beloved annual tradition.",
+      "synonyms": ["consistency", "routine"],
+      "antonyms": ["irregularity"]
+    },
+    {
+      "id": "3G_320",
+      "word": "regularly",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "At consistent intervals; often.",
+      "example": "The gallery regularly rotates its exhibits to feature new artists.",
+      "synonyms": ["routinely", "consistently"],
+      "antonyms": ["irregularly"]
+    },
+    {
+      "id": "3G_321",
+      "word": "religion",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The belief in and worship of a superhuman power.",
+      "example": "Religion has profoundly shaped the region's art and architecture.",
+      "synonyms": ["faith", "belief system"],
+      "antonyms": ["secularism"]
+    },
+    {
+      "id": "3G_322",
+      "word": "represent",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To stand for or symbolize something.",
+      "example": "The sculpture represents the resilience of the local fishing community.",
+      "synonyms": ["symbolize", "embody", "depict"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_323",
+      "word": "representation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The depiction of someone or something in a particular way.",
+      "example": "The film has been praised for its nuanced representation of disability.",
+      "synonyms": ["depiction", "portrayal"],
+      "antonyms": ["misrepresentation"]
+    },
+    {
+      "id": "3G_324",
+      "word": "representational",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to depicting recognizable objects or scenes, as opposed to abstract.",
+      "example": "The gallery contrasted abstract works with more representational paintings.",
+      "synonyms": ["figurative", "realistic"],
+      "antonyms": ["abstract"]
+    },
+    {
+      "id": "3G_325",
+      "word": "representative",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Typical of a class or group.",
+      "example": "The exhibit offers a representative sample of the region's folk art.",
+      "synonyms": ["typical", "illustrative"],
+      "antonyms": ["atypical"]
+    },
+    {
+      "id": "3G_326",
+      "word": "resist",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To withstand the action or effect of something; to oppose.",
+      "example": "The artist's work resists easy categorization within a single genre.",
+      "synonyms": ["oppose", "withstand", "defy"],
+      "antonyms": ["accept", "yield"]
+    },
+    {
+      "id": "3G_327",
+      "word": "resistant",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Opposed to something, or able to withstand it.",
+      "example": "The traditional community was initially resistant to modern tourism.",
+      "synonyms": ["opposed", "unyielding"],
+      "antonyms": ["receptive"]
+    },
+    {
+      "id": "3G_328",
+      "word": "rhetoric",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Persuasive language, especially in speech or writing.",
+      "example": "The film critiques the empty rhetoric of modern advertising.",
+      "synonyms": ["persuasion", "oratory"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_329",
+      "word": "rhetorical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the art of persuasive speaking or writing.",
+      "example": "The playwright uses rhetorical questions to engage the audience directly.",
+      "synonyms": ["persuasive", "oratorical"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_330",
+      "word": "rhetorically",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a manner relating to persuasive language.",
+      "example": "The speech was rhetorically powerful but light on concrete detail.",
+      "synonyms": ["persuasively"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_331",
+      "word": "satire",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The use of humor or exaggeration to criticize, especially in art or writing.",
+      "example": "The play is a sharp satire of celebrity culture and consumerism.",
+      "synonyms": ["parody", "mockery", "lampoon"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_332",
+      "word": "satirical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Using satire to criticize or mock.",
+      "example": "The satirical cartoon lampooned the government's media policy.",
+      "synonyms": ["mocking", "ironic", "sardonic"],
+      "antonyms": ["earnest"]
+    },
+    {
+      "id": "3G_333",
+      "word": "sculptural",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to or resembling sculpture.",
+      "example": "The building's sculptural facade drew comparisons to modern art installations.",
+      "synonyms": ["three-dimensional", "statuesque"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_334",
+      "word": "sculpture",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A three-dimensional work of art.",
+      "example": "The park's newest sculpture depicts a family of migrating birds.",
+      "synonyms": ["statue", "carving"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_335",
+      "word": "secular",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Not connected with religious or spiritual matters.",
+      "example": "Secular festivals have grown alongside traditional religious celebrations.",
+      "synonyms": ["nonreligious", "worldly"],
+      "antonyms": ["religious", "sacred"]
+    },
+    {
+      "id": "3G_336",
+      "word": "secularism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The principle of separating institutions from religious influence.",
+      "example": "The museum's founding reflected a broader movement toward secularism.",
+      "synonyms": ["nonreligious governance"],
+      "antonyms": ["theocracy"]
+    },
+    {
+      "id": "3G_337",
+      "word": "see",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To perceive with the eyes.",
+      "example": "Visitors travel from across the country to see the famous mural in person.",
+      "synonyms": ["view", "observe", "witness"],
+      "antonyms": ["overlook"]
+    },
+    {
+      "id": "3G_338",
+      "word": "share",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To give a portion of something, or to post content for others to view.",
+      "example": "The video was shared millions of times within a single day.",
+      "synonyms": ["distribute", "post", "circulate"],
+      "antonyms": ["withhold"]
+    },
+    {
+      "id": "3G_339",
+      "word": "shared",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Held or experienced jointly by more than one person.",
+      "example": "The exhibit reflects a shared cultural memory of the immigrant community.",
+      "synonyms": ["joint", "common", "collective"],
+      "antonyms": ["individual"]
+    },
+    {
+      "id": "3G_340",
+      "word": "shareholder",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who owns shares in a company.",
+      "example": "Shareholders questioned the studio's investment in unproven franchises.",
+      "synonyms": ["stockholder", "investor"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_341",
+      "word": "show",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A public performance or exhibition.",
+      "example": "The gallery's new show explores the theme of memory and place.",
+      "synonyms": ["exhibition", "display", "performance"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_342",
+      "word": "signifier",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A word, image, or symbol that represents an idea or object.",
+      "example": "In the painting, the broken mirror acts as a signifier of fractured identity.",
+      "synonyms": ["symbol", "sign"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_343",
+      "word": "signify",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To be a sign or indication of something; to mean.",
+      "example": "The recurring motif of birds signifies freedom throughout the film.",
+      "synonyms": ["indicate", "represent", "denote"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_344",
+      "word": "sing",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To make musical sounds with the voice.",
+      "example": "The choir will sing traditional folk songs at the opening ceremony.",
+      "synonyms": ["vocalize", "chant"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_345",
+      "word": "social",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to society or interaction among people.",
+      "example": "Social media has become a powerful tool for promoting independent films.",
+      "synonyms": ["societal", "communal"],
+      "antonyms": ["antisocial"]
+    },
+    {
+      "id": "3G_346",
+      "word": "socialism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A political and economic theory advocating collective ownership.",
+      "example": "The documentary examines the rise of socialism in postwar Europe.",
+      "synonyms": ["collectivism"],
+      "antonyms": ["capitalism"]
+    },
+    {
+      "id": "3G_347",
+      "word": "socialist",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to or advocating socialism.",
+      "example": "The mural was commissioned during a period of socialist cultural policy.",
+      "synonyms": ["collectivist"],
+      "antonyms": ["capitalist"]
+    },
+    {
+      "id": "3G_348",
+      "word": "socialite",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person prominent in fashionable society.",
+      "example": "The socialite's lavish parties were frequently covered by gossip magazines.",
+      "synonyms": ["celebrity", "high-society figure"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_349",
+      "word": "socialization",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of learning behavior acceptable to society.",
+      "example": "Reality television offers viewers a distorted lens on modern socialization.",
+      "synonyms": ["acculturation", "integration"],
+      "antonyms": ["isolation"]
+    },
+    {
+      "id": "3G_350",
+      "word": "socialize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To interact with others, or to prepare something to be shared with society.",
+      "example": "Film festivals give industry professionals a chance to socialize and network.",
+      "synonyms": ["interact", "mingle"],
+      "antonyms": ["isolate"]
+    },
+    {
+      "id": "3G_351",
+      "word": "socially",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way relating to society or interaction.",
+      "example": "The film was socially controversial upon its initial release.",
+      "synonyms": ["societally"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_352",
+      "word": "spiritual",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to the soul or spirit rather than material things.",
+      "example": "The documentary explores the spiritual significance of pilgrimage routes.",
+      "synonyms": ["religious", "sacred", "transcendent"],
+      "antonyms": ["material", "secular"]
+    },
+    {
+      "id": "3G_353",
+      "word": "spirituality",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A concern with the soul or spirit rather than material matters.",
+      "example": "The exhibit examines spirituality as expressed through folk art.",
+      "synonyms": ["religiosity", "faith"],
+      "antonyms": ["materialism"]
+    },
+    {
+      "id": "3G_354",
+      "word": "spiritually",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a manner relating to the soul or spirit.",
+      "example": "Many pilgrims describe the journey as spiritually transformative.",
+      "synonyms": ["religiously"],
+      "antonyms": ["materially"]
+    },
+    {
+      "id": "3G_355",
+      "word": "sponsor",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To provide funds for an event or activity, typically in exchange for advertising.",
+      "example": "A local business agreed to sponsor the annual arts festival.",
+      "synonyms": ["fund", "back", "support"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_356",
+      "word": "sponsored",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Funded or supported by a sponsor.",
+      "example": "The sponsored exhibit toured five cities over the course of a year.",
+      "synonyms": ["funded", "backed"],
+      "antonyms": ["unsponsored"]
+    },
+    {
+      "id": "3G_357",
+      "word": "sponsorship",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Financial support provided by a sponsor.",
+      "example": "Corporate sponsorship has become essential to funding major film festivals.",
+      "synonyms": ["patronage", "backing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_358",
+      "word": "sport",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An activity involving physical exertion and skill, often competitive.",
+      "example": "The documentary follows an underdog team competing in a national sport.",
+      "synonyms": ["athletics", "game"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_359",
+      "word": "sporting",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to sport, or showing fairness in competition.",
+      "example": "The film captures the sporting spirit of a small-town rivalry.",
+      "synonyms": ["athletic", "fair-minded"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_360",
+      "word": "sportsman",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A man who participates in sport, especially skillfully or fairly.",
+      "example": "The retired sportsman now hosts a popular sports commentary show.",
+      "synonyms": ["athlete"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_361",
+      "word": "sportsmanship",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Fair and generous conduct in sport.",
+      "example": "The film highlights the coach's emphasis on sportsmanship over winning.",
+      "synonyms": ["fair play", "decency"],
+      "antonyms": ["unsportsmanlike conduct"]
+    },
+    {
+      "id": "3G_362",
+      "word": "sportswriter",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A journalist who writes about sports.",
+      "example": "The veteran sportswriter covered three decades of championship tournaments.",
+      "synonyms": ["sports journalist"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_363",
+      "word": "sporty",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Fond of or good at sports, or stylish in a casual, athletic way.",
+      "example": "The magazine's sporty aesthetic reflects its young, active readership.",
+      "synonyms": ["athletic", "casual"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_364",
+      "word": "stereotype",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A widely held but oversimplified idea about a group.",
+      "example": "The sitcom has faced criticism for relying on outdated cultural stereotypes.",
+      "synonyms": ["cliché", "generalization"],
+      "antonyms": ["individuality"]
+    },
+    {
+      "id": "3G_365",
+      "word": "stereotyped",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Represented in an oversimplified or fixed way.",
+      "example": "The film's stereotyped portrayal of rural life drew significant backlash.",
+      "synonyms": ["clichéd", "formulaic"],
+      "antonyms": ["nuanced"]
+    },
+    {
+      "id": "3G_366",
+      "word": "stereotypical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Conforming to a fixed general pattern; typical of a stereotype.",
+      "example": "The advertisement relied on a stereotypical image of the ideal family.",
+      "synonyms": ["clichéd", "typecast"],
+      "antonyms": ["unconventional"]
+    },
+    {
+      "id": "3G_367",
+      "word": "stereotyping",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The action of viewing or portraying a group in an oversimplified way.",
+      "example": "Media literacy programs teach students to recognize stereotyping in advertising.",
+      "synonyms": ["pigeonholing", "typecasting"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_368",
+      "word": "storyteller",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who tells or writes stories.",
+      "example": "The oral storyteller kept the village's ancient legends alive for generations.",
+      "synonyms": ["narrator", "raconteur"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_369",
+      "word": "storytelling",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The activity of telling or writing stories.",
+      "example": "Digital storytelling has transformed how museums engage young visitors.",
+      "synonyms": ["narration", "tale-telling"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_370",
+      "word": "stream",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To transmit or receive media over the internet in real time.",
+      "example": "Millions of viewers streamed the concert live from around the world.",
+      "synonyms": ["broadcast", "transmit"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_371",
+      "word": "streamer",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who broadcasts live content over the internet.",
+      "example": "The streamer's live commentary attracted thousands of viewers during the festival.",
+      "synonyms": ["broadcaster"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_372",
+      "word": "streamline",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To make a process more efficient by simplifying it.",
+      "example": "The studio streamlined its production process to cut costs.",
+      "synonyms": ["simplify", "optimize"],
+      "antonyms": ["complicate"]
+    },
+    {
+      "id": "3G_373",
+      "word": "streamlined",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Simplified and made more efficient.",
+      "example": "The museum introduced a streamlined ticketing system for large groups.",
+      "synonyms": ["simplified", "efficient"],
+      "antonyms": ["cumbersome"]
+    },
+    {
+      "id": "3G_374",
+      "word": "style",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A distinctive manner or appearance, especially in art or fashion.",
+      "example": "The director is known for his distinctive visual style.",
+      "synonyms": ["manner", "aesthetic", "technique"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_375",
+      "word": "subscribe",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To arrange to receive a publication or service regularly, especially by payment.",
+      "example": "Millions of viewers subscribe to the streaming service each month.",
+      "synonyms": ["sign up", "register"],
+      "antonyms": ["unsubscribe"]
+    },
+    {
+      "id": "3G_376",
+      "word": "subscriber",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who subscribes to a publication or service.",
+      "example": "The platform's subscriber base grew rapidly after the show's premiere.",
+      "synonyms": ["member", "patron"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_377",
+      "word": "subscription",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "An arrangement to receive a service or publication regularly.",
+      "example": "The magazine's subscription numbers declined as digital media grew.",
+      "synonyms": ["membership", "enrollment"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_378",
+      "word": "subversion",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The undermining of established norms or authority.",
+      "example": "The film is a quiet subversion of traditional gender roles.",
+      "synonyms": ["undermining", "sabotage"],
+      "antonyms": ["reinforcement"]
+    },
+    {
+      "id": "3G_379",
+      "word": "subversive",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Seeking to undermine established norms or authority.",
+      "example": "The satirical magazine gained a reputation for its subversive humor.",
+      "synonyms": ["rebellious", "disruptive"],
+      "antonyms": ["conformist"]
+    },
+    {
+      "id": "3G_380",
+      "word": "televise",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To broadcast something on television.",
+      "example": "The award ceremony was televised live to millions of viewers.",
+      "synonyms": ["broadcast", "air"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_381",
+      "word": "televised",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Broadcast on television.",
+      "example": "The televised debate drew record ratings for the network.",
+      "synonyms": ["broadcast", "aired"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_382",
+      "word": "television",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A system for transmitting visual images and sound, or a device for receiving it.",
+      "example": "Television remains a major source of news for older generations.",
+      "synonyms": ["TV", "broadcasting"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_383",
+      "word": "tell",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To communicate information, especially in speech or writing.",
+      "example": "The novel tells the story of three generations of a fishing family.",
+      "synonyms": ["recount", "narrate", "relate"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_384",
+      "word": "theater",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A building for the performance of plays, or the art of drama.",
+      "example": "The historic theater has hosted performances for over a century.",
+      "synonyms": ["playhouse", "stage"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_385",
+      "word": "theatrical",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to acting or drama, or exaggerated in manner.",
+      "example": "Her theatrical gestures added dramatic flair to the speech.",
+      "synonyms": ["dramatic", "stagy"],
+      "antonyms": ["understated"]
+    },
+    {
+      "id": "3G_386",
+      "word": "ticket",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A piece of paper or document giving entry to an event.",
+      "example": "Tickets for the festival's opening night sold out within hours.",
+      "synonyms": ["pass", "admission"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_387",
+      "word": "tourism",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The activity of traveling for pleasure.",
+      "example": "Cultural tourism has become a major source of income for the region.",
+      "synonyms": ["travel", "sightseeing"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_388",
+      "word": "tradition",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A custom or belief passed down through generations.",
+      "example": "The festival preserves a centuries-old tradition of harvest celebration.",
+      "synonyms": ["custom", "practice", "heritage"],
+      "antonyms": ["innovation"]
+    },
+    {
+      "id": "3G_389",
+      "word": "traditional",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to long-established customs or beliefs.",
+      "example": "The chef reinterpreted traditional recipes with modern techniques.",
+      "synonyms": ["customary", "conventional", "established"],
+      "antonyms": ["modern"]
+    },
+    {
+      "id": "3G_390",
+      "word": "traditionalist",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who values long-established customs.",
+      "example": "The traditionalist critics dismissed the exhibit as overly experimental.",
+      "synonyms": ["conservative", "purist"],
+      "antonyms": ["reformer"]
+    },
+    {
+      "id": "3G_391",
+      "word": "traditionally",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "According to long-established custom.",
+      "example": "The festival traditionally opens with a procession through the old town.",
+      "synonyms": ["customarily", "conventionally"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_392",
+      "word": "translate",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To express the meaning of text or speech in another language.",
+      "example": "The novel has been translated into more than twenty languages.",
+      "synonyms": ["interpret", "render"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_393",
+      "word": "translation",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The process of translating, or the translated text itself.",
+      "example": "The film's subtitles offer only a rough translation of the original dialogue.",
+      "synonyms": ["interpretation", "rendering"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_394",
+      "word": "translator",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who translates text or speech.",
+      "example": "The translator worked closely with the director to preserve the script's tone.",
+      "synonyms": ["interpreter"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_395",
+      "word": "travel",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The activity of making journeys, especially over long distances.",
+      "example": "The exhibit follows the artist's travels across three continents.",
+      "synonyms": ["journeying", "voyaging"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_396",
+      "word": "traveler",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A person who travels, especially frequently or extensively.",
+      "example": "The travel magazine profiles adventurous travelers exploring remote regions.",
+      "synonyms": ["voyager", "tourist"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_397",
+      "word": "traveling",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Moving from place to place; itinerant.",
+      "example": "The traveling exhibition has already visited over a dozen countries.",
+      "synonyms": ["itinerant", "touring"],
+      "antonyms": ["stationary"]
+    },
+    {
+      "id": "3G_398",
+      "word": "trend",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A general direction in which something is developing or changing.",
+      "example": "Streaming has become the dominant trend in how audiences consume television.",
+      "synonyms": ["tendency", "movement", "direction"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_399",
+      "word": "trendy",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Fashionable or currently popular.",
+      "example": "The trendy new gallery quickly became a hub for young artists.",
+      "synonyms": ["fashionable", "stylish", "in vogue"],
+      "antonyms": ["outdated"]
+    },
+    {
+      "id": "3G_400",
+      "word": "vernacular",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The language or dialect spoken by ordinary people in a region.",
+      "example": "The novel is written in the vernacular of the local fishing community.",
+      "synonyms": ["dialect", "colloquial speech"],
+      "antonyms": ["formal language"]
+    },
+    {
+      "id": "3G_401",
+      "word": "view",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To look at or consider something in a particular way.",
+      "example": "Critics view the film as a bold departure from the director's earlier work.",
+      "synonyms": ["regard", "perceive", "consider"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_402",
+      "word": "viral",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Spreading rapidly and widely, especially online.",
+      "example": "The short video went viral within hours of being posted.",
+      "synonyms": ["widespread", "trending"],
+      "antonyms": ["obscure"]
+    },
+    {
+      "id": "3G_403",
+      "word": "visual",
+      "type": "adjective",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "Relating to seeing or sight.",
+      "example": "The film's visual style draws heavily from classic painting techniques.",
+      "synonyms": ["optical", "pictorial"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_404",
+      "word": "visualization",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The representation of something in visual form.",
+      "example": "Data visualization helped researchers understand audience viewing patterns.",
+      "synonyms": ["depiction", "imagery"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_405",
+      "word": "visualize",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To form a mental image of something, or to represent it visually.",
+      "example": "The designer used sketches to visualize the stage set before construction began.",
+      "synonyms": ["envision", "picture", "depict"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_406",
+      "word": "visually",
+      "type": "adverb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "In a way relating to seeing or appearance.",
+      "example": "The film is visually stunning, even if its plot feels familiar.",
+      "synonyms": ["aesthetically", "optically"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_407",
+      "word": "web",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "The internet, or a network of interconnected things.",
+      "example": "Independent filmmakers increasingly rely on the web to reach global audiences.",
+      "synonyms": ["internet", "network"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_408",
+      "word": "worldview",
+      "type": "noun",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "A particular philosophy or view of life.",
+      "example": "The documentary presents a worldview shaped by decades of political upheaval.",
+      "synonyms": ["perspective", "outlook", "philosophy"],
+      "antonyms": []
+    },
+    {
+      "id": "3G_409",
+      "word": "write",
+      "type": "verb",
+      "category": "Media, Art, Culture & Tourism",
+      "meaning": "To mark words on a surface to communicate, or to compose text.",
+      "example": "She spent a decade writing the screenplay before it was finally produced.",
+      "synonyms": ["compose", "draft", "author"],
       "antonyms": []
     }
   ]

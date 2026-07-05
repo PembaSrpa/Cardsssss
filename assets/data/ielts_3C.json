@@ -4,16 +4,3913 @@
   "words": [
     {
       "id": "3C_001",
-      "word": "placeholder",
+      "word": "ability",
       "type": "noun",
       "category": "Education, Pedagogy & Youth Development",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The capacity or skill needed to do something.",
+      "example": "Her ability to analyze complex data impressed the committee.",
+      "synonyms": ["capability", "skill", "competence", "aptitude"],
+      "antonyms": ["inability", "incompetence"]
+    },
+    {
+      "id": "3C_002",
+      "word": "academia",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The environment or community of scholars, teachers, and researchers.",
+      "example": "He decided to remain in academia rather than pursue a career in industry.",
+      "synonyms": ["scholarship", "academy", "the academic world"],
       "antonyms": []
+    },
+    {
+      "id": "3C_003",
+      "word": "academic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to education, schools, or scholarly study.",
+      "example": "Her academic performance improved significantly after she started tutoring.",
+      "synonyms": ["scholarly", "educational", "intellectual", "theoretical"],
+      "antonyms": ["practical", "vocational"]
+    },
+    {
+      "id": "3C_004",
+      "word": "academically",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way that relates to education or scholarship.",
+      "example": "The student excelled academically but struggled socially.",
+      "synonyms": ["scholastically", "intellectually"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_005",
+      "word": "academy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A school or college, especially for specialized training.",
+      "example": "He enrolled in a military academy after finishing secondary school.",
+      "synonyms": ["institute", "school", "college"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_006",
+      "word": "access",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The means or opportunity to approach or use something.",
+      "example": "Universities must improve access to education for low-income students.",
+      "synonyms": ["entry", "admission", "availability"],
+      "antonyms": ["denial", "exclusion"]
+    },
+    {
+      "id": "3C_007",
+      "word": "accessibility",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The quality of being easy to obtain, use, or reach.",
+      "example": "The accessibility of online courses has transformed adult education.",
+      "synonyms": ["availability", "approachability"],
+      "antonyms": ["inaccessibility"]
+    },
+    {
+      "id": "3C_008",
+      "word": "accessible",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Able to be easily reached, entered, or understood.",
+      "example": "The lecture notes were made accessible to all students online.",
+      "synonyms": ["available", "reachable", "obtainable"],
+      "antonyms": ["inaccessible", "unavailable"]
+    },
+    {
+      "id": "3C_009",
+      "word": "accession",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The attainment or formal assumption of a position, right, or possession.",
+      "example": "Her accession to the role of headteacher was widely welcomed.",
+      "synonyms": ["attainment", "assumption", "succession"],
+      "antonyms": ["relinquishment"]
+    },
+    {
+      "id": "3C_010",
+      "word": "accessory",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An additional or supplementary item, often less important than the main thing.",
+      "example": "Extracurricular clubs are often seen as an accessory to formal schooling.",
+      "synonyms": ["addition", "supplement", "adjunct"],
+      "antonyms": ["essential", "necessity"]
+    },
+    {
+      "id": "3C_011",
+      "word": "accomplish",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To succeed in doing or completing something.",
+      "example": "She accomplished her goal of finishing the dissertation on time.",
+      "synonyms": ["achieve", "complete", "fulfill", "attain"],
+      "antonyms": ["fail", "abandon"]
+    },
+    {
+      "id": "3C_012",
+      "word": "accomplished",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Highly trained or skilled; having succeeded in a task.",
+      "example": "He is an accomplished linguist fluent in five languages.",
+      "synonyms": ["skilled", "expert", "proficient", "talented"],
+      "antonyms": ["unskilled", "incompetent"]
+    },
+    {
+      "id": "3C_013",
+      "word": "accomplishment",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A thing done successfully, typically requiring skill or effort.",
+      "example": "Graduating with honors was her greatest accomplishment.",
+      "synonyms": ["achievement", "feat", "success", "attainment"],
+      "antonyms": ["failure"]
+    },
+    {
+      "id": "3C_014",
+      "word": "accredit",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To give official authorization or approval to an institution.",
+      "example": "The board voted to accredit the new vocational program.",
+      "synonyms": ["certify", "authorize", "sanction", "approve"],
+      "antonyms": ["disapprove", "reject"]
+    },
+    {
+      "id": "3C_015",
+      "word": "accreditation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Official recognition that an institution meets certain standards.",
+      "example": "The university lost its accreditation due to declining academic standards.",
+      "synonyms": ["certification", "endorsement", "validation"],
+      "antonyms": ["disqualification"]
+    },
+    {
+      "id": "3C_016",
+      "word": "accredited",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Officially recognized or authorized as meeting a standard.",
+      "example": "She earned her degree from an accredited university.",
+      "synonyms": ["certified", "authorized", "approved"],
+      "antonyms": ["unaccredited", "unofficial"]
+    },
+    {
+      "id": "3C_017",
+      "word": "achievement",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A thing accomplished successfully, typically by effort or skill.",
+      "example": "The scholarship recognizes academic achievement among rural students.",
+      "synonyms": ["accomplishment", "attainment", "feat"],
+      "antonyms": ["failure"]
+    },
+    {
+      "id": "3C_018",
+      "word": "acquire",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To buy or obtain an asset, skill, or quality for oneself.",
+      "example": "Children acquire language skills rapidly during early childhood.",
+      "synonyms": ["obtain", "gain", "attain", "develop"],
+      "antonyms": ["lose", "forfeit"]
+    },
+    {
+      "id": "3C_019",
+      "word": "acquired",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Gained or learned rather than innate.",
+      "example": "Fluency in a second language is often an acquired skill.",
+      "synonyms": ["gained", "learned", "developed"],
+      "antonyms": ["innate", "inherent"]
+    },
+    {
+      "id": "3C_020",
+      "word": "adaptive",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Able to adjust to new conditions or requirements.",
+      "example": "Adaptive learning technology tailors lessons to each student's pace.",
+      "synonyms": ["flexible", "adjustable", "versatile"],
+      "antonyms": ["rigid", "inflexible"]
+    },
+    {
+      "id": "3C_021",
+      "word": "adult",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A fully grown or mature person.",
+      "example": "Many adult learners return to education later in life.",
+      "synonyms": ["grown-up", "mature person"],
+      "antonyms": ["child", "minor"]
+    },
+    {
+      "id": "3C_022",
+      "word": "ambition",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A strong desire to achieve something.",
+      "example": "Her ambition to become a professor drove her through years of study.",
+      "synonyms": ["aspiration", "drive", "determination"],
+      "antonyms": ["apathy", "indifference"]
+    },
+    {
+      "id": "3C_023",
+      "word": "apprentice",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person learning a trade from a skilled employer.",
+      "example": "The plumbing apprentice worked under a licensed tradesman for three years.",
+      "synonyms": ["trainee", "learner", "novice"],
+      "antonyms": ["master", "expert"]
+    },
+    {
+      "id": "3C_024",
+      "word": "apprenticeship",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A period of training in a trade under a skilled worker.",
+      "example": "He completed a five-year apprenticeship before becoming a certified electrician.",
+      "synonyms": ["training", "traineeship", "internship"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_025",
+      "word": "aptitude",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A natural ability to do something.",
+      "example": "The test measures a student's aptitude for mathematics.",
+      "synonyms": ["talent", "gift", "flair", "capability"],
+      "antonyms": ["ineptitude"]
+    },
+    {
+      "id": "3C_026",
+      "word": "aspiration",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A hope or ambition of achieving something.",
+      "example": "Her aspiration was to teach in underserved communities.",
+      "synonyms": ["ambition", "goal", "dream"],
+      "antonyms": ["indifference"]
+    },
+    {
+      "id": "3C_027",
+      "word": "aspire",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To direct one's hopes or ambitions toward achieving something.",
+      "example": "Many students aspire to attend prestigious universities.",
+      "synonyms": ["strive", "aim", "hope", "dream"],
+      "antonyms": ["relinquish", "abandon"]
+    },
+    {
+      "id": "3C_028",
+      "word": "aspirin",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A common medication used to relieve pain and reduce fever.",
+      "example": "She took an aspirin to ease her headache before the exam.",
+      "synonyms": ["painkiller", "analgesic"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_029",
+      "word": "aspiring",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Directing one's hopes toward becoming something specified.",
+      "example": "The workshop supports aspiring teachers in developing classroom skills.",
+      "synonyms": ["hopeful", "budding", "would-be"],
+      "antonyms": ["accomplished", "established"]
+    },
+    {
+      "id": "3C_030",
+      "word": "assessment",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The evaluation of a student's ability, performance, or work.",
+      "example": "Continuous assessment replaced the single final exam in many schools.",
+      "synonyms": ["evaluation", "appraisal", "testing"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_031",
+      "word": "attendance",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The act of being present, especially regularly, at school or work.",
+      "example": "Poor attendance often correlates with lower academic performance.",
+      "synonyms": ["presence", "turnout"],
+      "antonyms": ["absence"]
+    },
+    {
+      "id": "3C_032",
+      "word": "attention",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Notice, consideration, or mental focus given to something.",
+      "example": "Teachers must capture students' attention within the first few minutes.",
+      "synonyms": ["focus", "concentration", "notice"],
+      "antonyms": ["inattention", "distraction"]
+    },
+    {
+      "id": "3C_033",
+      "word": "attentive",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Paying close attention; observant.",
+      "example": "An attentive teacher notices when a student is struggling silently.",
+      "synonyms": ["observant", "alert", "focused"],
+      "antonyms": ["inattentive", "distracted"]
+    },
+    {
+      "id": "3C_034",
+      "word": "attentively",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way that shows close attention.",
+      "example": "The students listened attentively to the guest lecturer.",
+      "synonyms": ["closely", "carefully", "alertly"],
+      "antonyms": ["inattentively"]
+    },
+    {
+      "id": "3C_035",
+      "word": "auditor",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who formally examines accounts, or who attends a course without earning credit.",
+      "example": "She sat in as an auditor in the graduate seminar.",
+      "synonyms": ["listener", "observer", "examiner"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_036",
+      "word": "auditorium",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A large room or building for public gatherings such as lectures or ceremonies.",
+      "example": "The graduation ceremony was held in the school auditorium.",
+      "synonyms": ["hall", "theater", "assembly room"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_037",
+      "word": "auditory",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to the sense of hearing.",
+      "example": "Auditory learners benefit most from lectures and discussions.",
+      "synonyms": ["aural", "hearing-related"],
+      "antonyms": ["visual"]
+    },
+    {
+      "id": "3C_038",
+      "word": "autonomy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The right or condition of self-governance; independence.",
+      "example": "Universities value academic autonomy in setting their own curricula.",
+      "synonyms": ["independence", "self-governance", "freedom"],
+      "antonyms": ["dependence", "subordination"]
+    },
+    {
+      "id": "3C_039",
+      "word": "barrier",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An obstacle that prevents movement, access, or progress.",
+      "example": "Language remains a major barrier to education for many immigrant children.",
+      "synonyms": ["obstacle", "hindrance", "impediment"],
+      "antonyms": ["facilitator", "gateway"]
+    },
+    {
+      "id": "3C_040",
+      "word": "beaver",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A large semiaquatic rodent known for building dams.",
+      "example": "The class watched a documentary about how a beaver constructs its dam.",
+      "synonyms": ["rodent"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_041",
+      "word": "behavior",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The way a person acts or conducts themselves.",
+      "example": "The school introduced a new policy to address disruptive behavior.",
+      "synonyms": ["conduct", "manner", "demeanor"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_042",
+      "word": "behavioral",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to the way a person or animal behaves.",
+      "example": "Behavioral therapy is sometimes used to help students with attention difficulties.",
+      "synonyms": ["conduct-related", "psychological"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_043",
+      "word": "blended",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Combining different elements, especially online and in-person learning.",
+      "example": "Blended learning combines classroom teaching with digital resources.",
+      "synonyms": ["hybrid", "combined", "mixed"],
+      "antonyms": ["pure", "single-mode"]
+    },
+    {
+      "id": "3C_044",
+      "word": "careen",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To move swiftly and uncontrollably in a specified direction.",
+      "example": "The bus careened down the hill after the brakes failed.",
+      "synonyms": ["swerve", "lurch", "veer"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_045",
+      "word": "career",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An occupation undertaken for a significant period of a person's life.",
+      "example": "Career counseling helps students choose a suitable professional path.",
+      "synonyms": ["profession", "vocation", "occupation"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_046",
+      "word": "certificate",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A document proving completion of a course or qualification.",
+      "example": "She received a certificate upon completing the training program.",
+      "synonyms": ["diploma", "credential", "qualification"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_047",
+      "word": "certification",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action or process of confirming certain qualities through an official process.",
+      "example": "Teacher certification requires passing a standardized examination.",
+      "synonyms": ["accreditation", "licensing", "qualification"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_048",
+      "word": "certified",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having official confirmation of meeting a required standard.",
+      "example": "He is a certified public accountant with ten years of experience.",
+      "synonyms": ["qualified", "accredited", "licensed"],
+      "antonyms": ["uncertified"]
+    },
+    {
+      "id": "3C_049",
+      "word": "certify",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To officially confirm as possessing certain qualifications or meeting a standard.",
+      "example": "The board will certify teachers who complete the required coursework.",
+      "synonyms": ["accredit", "validate", "authorize"],
+      "antonyms": ["disqualify"]
+    },
+    {
+      "id": "3C_050",
+      "word": "charter",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A formal document granting rights or founding an institution.",
+      "example": "The charter school operates independently of the district's standard curriculum.",
+      "synonyms": ["license", "franchise", "agreement"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_051",
+      "word": "chartered",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Officially recognized through a charter or professional certification.",
+      "example": "She is a chartered accountant who also teaches finance part-time.",
+      "synonyms": ["certified", "licensed", "accredited"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_052",
+      "word": "child",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A young human being below the age of full physical development.",
+      "example": "Every child deserves access to quality early education.",
+      "synonyms": ["kid", "youngster", "minor"],
+      "antonyms": ["adult"]
+    },
+    {
+      "id": "3C_053",
+      "word": "child-rearing",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of caring for and raising children.",
+      "example": "Effective child-rearing practices support both academic and emotional development.",
+      "synonyms": ["parenting", "upbringing"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_054",
+      "word": "childhood",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The state or period of being a child.",
+      "example": "Early childhood experiences shape long-term learning outcomes.",
+      "synonyms": ["youth", "infancy"],
+      "antonyms": ["adulthood"]
+    },
+    {
+      "id": "3C_055",
+      "word": "childish",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Immature or silly, typical of a young child.",
+      "example": "His childish behavior in class disrupted the lesson.",
+      "synonyms": ["immature", "juvenile", "infantile"],
+      "antonyms": ["mature", "adult"]
+    },
+    {
+      "id": "3C_056",
+      "word": "childless",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having no children.",
+      "example": "The childless couple volunteered as mentors at the local youth center.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3C_057",
+      "word": "childlike",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having qualities typically associated with a child, often positively.",
+      "example": "She approached learning with a childlike curiosity.",
+      "synonyms": ["innocent", "naive", "youthful"],
+      "antonyms": ["worldly", "jaded"]
+    },
+    {
+      "id": "3C_058",
+      "word": "citation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A reference to a published or unpublished source, or an official commendation.",
+      "example": "Proper citation of sources is essential to avoid plagiarism.",
+      "synonyms": ["reference", "quotation", "mention"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_059",
+      "word": "civic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a city, citizens, or civic duty.",
+      "example": "Schools increasingly emphasize civic education to encourage responsible citizenship.",
+      "synonyms": ["municipal", "communal", "public"],
+      "antonyms": ["private"]
+    },
+    {
+      "id": "3C_060",
+      "word": "civics",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The study of the rights and duties of citizenship.",
+      "example": "Civics classes teach students how government institutions function.",
+      "synonyms": ["citizenship studies"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_061",
+      "word": "class",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A group of students taught together, or a course of instruction.",
+      "example": "The chemistry class conducted an experiment on chemical reactions.",
+      "synonyms": ["course", "lesson", "lecture"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_062",
+      "word": "classroom",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A room where classes are taught.",
+      "example": "The classroom was equipped with interactive whiteboards.",
+      "synonyms": ["schoolroom"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_063",
+      "word": "coaching",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The practice of training or guiding someone to develop skills.",
+      "example": "Academic coaching helps struggling students build better study habits.",
+      "synonyms": ["tutoring", "mentoring", "training"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_064",
+      "word": "cohort",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A group of people with a shared characteristic, such as a class year.",
+      "example": "The 2026 cohort of graduates entered a competitive job market.",
+      "synonyms": ["group", "class", "set"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_065",
+      "word": "collaborate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To work jointly with others on an activity.",
+      "example": "Students were encouraged to collaborate on the group research project.",
+      "synonyms": ["cooperate", "team up", "partner"],
+      "antonyms": ["compete", "work alone"]
+    },
+    {
+      "id": "3C_066",
+      "word": "collaboration",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of working together to achieve a goal.",
+      "example": "Collaboration between teachers and parents improves student outcomes.",
+      "synonyms": ["cooperation", "partnership", "teamwork"],
+      "antonyms": ["competition", "isolation"]
+    },
+    {
+      "id": "3C_067",
+      "word": "collaborative",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Involving joint effort by multiple parties.",
+      "example": "The school adopted a collaborative approach to curriculum design.",
+      "synonyms": ["cooperative", "joint", "shared"],
+      "antonyms": ["individual", "solitary"]
+    },
+    {
+      "id": "3C_068",
+      "word": "collaborator",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who works jointly with others.",
+      "example": "She served as a research collaborator on the education reform study.",
+      "synonyms": ["partner", "associate", "colleague"],
+      "antonyms": ["rival"]
+    },
+    {
+      "id": "3C_069",
+      "word": "college",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An institution of higher education.",
+      "example": "She applied to several colleges known for their engineering programs.",
+      "synonyms": ["university", "institute"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_070",
+      "word": "collegiate",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a college or its students.",
+      "example": "Collegiate sports play a major role in campus life.",
+      "synonyms": ["academic", "university-related"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_071",
+      "word": "communicate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To share or exchange information or ideas.",
+      "example": "Effective teachers communicate complex ideas in simple terms.",
+      "synonyms": ["convey", "express", "transmit"],
+      "antonyms": ["withhold", "conceal"]
+    },
+    {
+      "id": "3C_072",
+      "word": "communication",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The exchange of information or ideas between people.",
+      "example": "Clear communication between teachers and parents strengthens student support.",
+      "synonyms": ["interaction", "exchange", "correspondence"],
+      "antonyms": ["silence", "miscommunication"]
+    },
+    {
+      "id": "3C_073",
+      "word": "communicative",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Willing or able to share thoughts and information readily.",
+      "example": "The communicative approach to language teaching focuses on real conversation.",
+      "synonyms": ["expressive", "talkative", "forthcoming"],
+      "antonyms": ["reticent", "uncommunicative"]
+    },
+    {
+      "id": "3C_074",
+      "word": "communicator",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who conveys information, especially skillfully.",
+      "example": "A great teacher is above all a skilled communicator.",
+      "synonyms": ["speaker", "presenter", "messenger"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_075",
+      "word": "competence",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The ability to do something successfully or efficiently.",
+      "example": "Digital competence is now considered essential in modern classrooms.",
+      "synonyms": ["proficiency", "skill", "capability"],
+      "antonyms": ["incompetence"]
+    },
+    {
+      "id": "3C_076",
+      "word": "competency",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A specific skill or ability required to perform a task.",
+      "example": "The curriculum lists core competencies students must demonstrate.",
+      "synonyms": ["skill", "capability", "proficiency"],
+      "antonyms": ["incompetency"]
+    },
+    {
+      "id": "3C_077",
+      "word": "comprehend",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To grasp mentally; to understand fully.",
+      "example": "Young readers sometimes struggle to comprehend abstract concepts.",
+      "synonyms": ["understand", "grasp", "apprehend"],
+      "antonyms": ["misunderstand"]
+    },
+    {
+      "id": "3C_078",
+      "word": "contemplate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To think deeply about something.",
+      "example": "She contemplated switching her major to educational psychology.",
+      "synonyms": ["consider", "ponder", "reflect on"],
+      "antonyms": ["disregard"]
+    },
+    {
+      "id": "3C_079",
+      "word": "contemplation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Deep reflective thought.",
+      "example": "The retreat offered students time for quiet contemplation.",
+      "synonyms": ["reflection", "meditation", "thought"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_080",
+      "word": "contemplative",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Involving or given to deep thought or reflection.",
+      "example": "The professor encouraged a contemplative approach to reading philosophy.",
+      "synonyms": ["reflective", "thoughtful", "meditative"],
+      "antonyms": ["impulsive"]
+    },
+    {
+      "id": "3C_081",
+      "word": "contempt",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The feeling that someone or something is beneath consideration.",
+      "example": "His contempt for the outdated curriculum was evident in his critique.",
+      "synonyms": ["disdain", "scorn", "disrespect"],
+      "antonyms": ["respect", "admiration"]
+    },
+    {
+      "id": "3C_082",
+      "word": "contemptuous",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Showing contempt; scornful.",
+      "example": "The student's contemptuous remarks toward classmates led to disciplinary action.",
+      "synonyms": ["scornful", "disdainful", "dismissive"],
+      "antonyms": ["respectful", "admiring"]
+    },
+    {
+      "id": "3C_083",
+      "word": "counsel",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Advice, especially given formally or by an expert.",
+      "example": "Her counsel helped him decide which university to attend.",
+      "synonyms": ["advice", "guidance", "recommendation"],
+      "antonyms": ["misdirection"]
+    },
+    {
+      "id": "3C_084",
+      "word": "counseling",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Professional guidance used to resolve personal, academic, or psychological issues.",
+      "example": "The university offers free counseling services to stressed students.",
+      "synonyms": ["guidance", "therapy", "advising"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_085",
+      "word": "counselor",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person trained to give guidance.",
+      "example": "The guidance counselor helped her choose the right university.",
+      "synonyms": ["advisor", "mentor", "guide"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_086",
+      "word": "creativity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The use of imagination to produce original ideas.",
+      "example": "Arts education fosters creativity from an early age.",
+      "synonyms": ["imagination", "inventiveness", "originality"],
+      "antonyms": ["unoriginality"]
+    },
+    {
+      "id": "3C_087",
+      "word": "critical",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Involving careful judgment, or expressing disapproval.",
+      "example": "Critical thinking is a core skill taught in higher education.",
+      "synonyms": ["analytical", "judgmental", "evaluative"],
+      "antonyms": ["uncritical"]
+    },
+    {
+      "id": "3C_088",
+      "word": "critically",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a manner involving careful judgment or analysis.",
+      "example": "Students are taught to read critically rather than passively.",
+      "synonyms": ["analytically", "judgmentally"],
+      "antonyms": ["uncritically"]
+    },
+    {
+      "id": "3C_089",
+      "word": "cultural",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to the customs, arts, and ideas of a society.",
+      "example": "Cultural diversity in classrooms enriches the learning experience.",
+      "synonyms": ["societal", "ethnic", "traditional"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_090",
+      "word": "culturally",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way relating to culture.",
+      "example": "Culturally responsive teaching takes students' backgrounds into account.",
+      "synonyms": ["socially"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_091",
+      "word": "curiosity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A strong desire to know or learn something.",
+      "example": "Curiosity drives young children to ask endless questions.",
+      "synonyms": ["inquisitiveness", "interest", "wonder"],
+      "antonyms": ["indifference", "apathy"]
+    },
+    {
+      "id": "3C_092",
+      "word": "curricular",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a curriculum.",
+      "example": "Curricular reform aimed to include more practical skills training.",
+      "synonyms": ["educational", "academic"],
+      "antonyms": ["extracurricular"]
+    },
+    {
+      "id": "3C_093",
+      "word": "curriculum",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The subjects comprising a course of study.",
+      "example": "The new curriculum emphasizes critical thinking over rote memorization.",
+      "synonyms": ["syllabus", "coursework", "program"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_094",
+      "word": "degree",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An academic qualification awarded by a university.",
+      "example": "She earned a degree in early childhood education.",
+      "synonyms": ["qualification", "diploma", "credential"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_095",
+      "word": "delinquency",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Minor crime or wrongdoing, especially committed by young people.",
+      "example": "Youth delinquency rates dropped after the community program launched.",
+      "synonyms": ["misconduct", "wrongdoing", "offending"],
+      "antonyms": ["law-abiding behavior"]
+    },
+    {
+      "id": "3C_096",
+      "word": "delinquent",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Failing to do what is required; showing a tendency to offend.",
+      "example": "Delinquent students were referred to a rehabilitation program.",
+      "synonyms": ["offending", "errant", "wayward"],
+      "antonyms": ["law-abiding"]
+    },
+    {
+      "id": "3C_097",
+      "word": "deviant",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Departing from usual or accepted standards.",
+      "example": "The study examined the causes of deviant behavior among teenagers.",
+      "synonyms": ["aberrant", "abnormal", "nonconformist"],
+      "antonyms": ["conventional", "normal"]
+    },
+    {
+      "id": "3C_098",
+      "word": "digital",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to computer or electronic technology.",
+      "example": "Digital literacy is now taught alongside traditional reading skills.",
+      "synonyms": ["electronic", "computerized", "online"],
+      "antonyms": ["analog"]
+    },
+    {
+      "id": "3C_099",
+      "word": "digitally",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "By digital or electronic means.",
+      "example": "Assignments are submitted digitally through the school's learning platform.",
+      "synonyms": ["electronically"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_100",
+      "word": "diploma",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A certificate awarded for completing a course of study.",
+      "example": "He received his diploma after four years of secondary school.",
+      "synonyms": ["certificate", "credential", "degree"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_101",
+      "word": "diplomacy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The skill of managing relationships and negotiations tactfully.",
+      "example": "The teacher handled the parents' complaint with great diplomacy.",
+      "synonyms": ["tact", "discretion", "negotiation"],
+      "antonyms": ["tactlessness"]
+    },
+    {
+      "id": "3C_102",
+      "word": "diplomat",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who conducts negotiations, often representing a country.",
+      "example": "Her father worked as a diplomat, which meant she attended schools abroad.",
+      "synonyms": ["envoy", "ambassador"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_103",
+      "word": "diplomatic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Tactful and skilled in dealing with people.",
+      "example": "She gave diplomatic feedback that motivated rather than discouraged.",
+      "synonyms": ["tactful", "discreet", "courteous"],
+      "antonyms": ["blunt", "undiplomatic"]
+    },
+    {
+      "id": "3C_104",
+      "word": "diplomatically",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a tactful and careful manner.",
+      "example": "The principal diplomatically addressed the parents' concerns.",
+      "synonyms": ["tactfully"],
+      "antonyms": ["bluntly"]
+    },
+    {
+      "id": "3C_105",
+      "word": "disadvantage",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An unfavorable circumstance that reduces opportunities.",
+      "example": "Poverty places many children at a significant educational disadvantage.",
+      "synonyms": ["handicap", "drawback", "setback"],
+      "antonyms": ["advantage"]
+    },
+    {
+      "id": "3C_106",
+      "word": "disadvantaged",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Lacking normal opportunities, especially due to poverty or social status.",
+      "example": "Scholarships aim to support disadvantaged students in reaching university.",
+      "synonyms": ["underprivileged", "deprived", "marginalized"],
+      "antonyms": ["privileged", "advantaged"]
+    },
+    {
+      "id": "3C_107",
+      "word": "discern",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To perceive or recognize something clearly.",
+      "example": "Teachers must discern which students need extra support.",
+      "synonyms": ["perceive", "detect", "recognize"],
+      "antonyms": ["overlook", "miss"]
+    },
+    {
+      "id": "3C_108",
+      "word": "discernible",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Able to be perceived or recognized.",
+      "example": "A discernible improvement in test scores followed the new program.",
+      "synonyms": ["noticeable", "perceptible", "visible"],
+      "antonyms": ["imperceptible"]
+    },
+    {
+      "id": "3C_109",
+      "word": "discerning",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Showing good judgment, especially in evaluating things.",
+      "example": "A discerning reader questions the author's assumptions.",
+      "synonyms": ["perceptive", "judicious", "insightful"],
+      "antonyms": ["undiscerning"]
+    },
+    {
+      "id": "3C_110",
+      "word": "disciplinary",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to punishment for breaking rules.",
+      "example": "The student faced disciplinary action for repeated absences.",
+      "synonyms": ["punitive", "corrective"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_111",
+      "word": "discipline",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Training that develops self-control, or a branch of knowledge.",
+      "example": "Self-discipline is crucial for succeeding in independent study.",
+      "synonyms": ["self-control", "order", "field"],
+      "antonyms": ["disorder", "indiscipline"]
+    },
+    {
+      "id": "3C_112",
+      "word": "disciplined",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Showing controlled behavior or self-control.",
+      "example": "A disciplined study routine helped her master the material quickly.",
+      "synonyms": ["controlled", "orderly", "methodical"],
+      "antonyms": ["undisciplined", "chaotic"]
+    },
+    {
+      "id": "3C_113",
+      "word": "disengage",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To withdraw involvement or attention from something.",
+      "example": "Students often disengage from lessons that feel irrelevant to them.",
+      "synonyms": ["withdraw", "detach", "disconnect"],
+      "antonyms": ["engage", "participate"]
+    },
+    {
+      "id": "3C_114",
+      "word": "disengagement",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The state of withdrawing involvement or interest.",
+      "example": "Student disengagement is a major concern in large lecture classes.",
+      "synonyms": ["withdrawal", "detachment", "apathy"],
+      "antonyms": ["engagement"]
+    },
+    {
+      "id": "3C_115",
+      "word": "dissertation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A long piece of research writing submitted for an academic degree.",
+      "example": "She spent two years researching her doctoral dissertation.",
+      "synonyms": ["thesis", "treatise"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_116",
+      "word": "distance",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Conducted or delivered from far away, especially by remote learning.",
+      "example": "Distance learning made higher education accessible to rural students.",
+      "synonyms": ["remote", "long-distance"],
+      "antonyms": ["in-person"]
+    },
+    {
+      "id": "3C_117",
+      "word": "diversity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The state of including a variety of different people or elements.",
+      "example": "Cultural diversity in the classroom broadens students' perspectives.",
+      "synonyms": ["variety", "heterogeneity", "multiplicity"],
+      "antonyms": ["uniformity", "homogeneity"]
+    },
+    {
+      "id": "3C_118",
+      "word": "dropout",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who leaves school before completing a course.",
+      "example": "The program targets high school dropouts to help them re-enroll.",
+      "synonyms": ["leaver", "quitter"],
+      "antonyms": ["graduate"]
+    },
+    {
+      "id": "3C_119",
+      "word": "dysfunction",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Abnormal or impaired functioning.",
+      "example": "Family dysfunction can negatively affect a child's academic performance.",
+      "synonyms": ["malfunction", "disorder", "impairment"],
+      "antonyms": ["functionality"]
+    },
+    {
+      "id": "3C_120",
+      "word": "dysfunctional",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Not operating normally or properly.",
+      "example": "Children from dysfunctional households may need additional emotional support at school.",
+      "synonyms": ["impaired", "disordered", "troubled"],
+      "antonyms": ["functional", "healthy"]
+    },
+    {
+      "id": "3C_121",
+      "word": "educate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To give intellectual, moral, and social instruction to someone.",
+      "example": "The program aims to educate parents about early childhood development.",
+      "synonyms": ["teach", "instruct", "train"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_122",
+      "word": "educated",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having received formal education or instruction.",
+      "example": "An educated workforce drives long-term economic growth.",
+      "synonyms": ["schooled", "trained", "literate"],
+      "antonyms": ["uneducated"]
+    },
+    {
+      "id": "3C_123",
+      "word": "education",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of teaching or receiving instruction.",
+      "example": "Access to quality education remains unequal across regions.",
+      "synonyms": ["schooling", "instruction", "teaching"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_124",
+      "word": "educational",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to education or providing instruction.",
+      "example": "The museum offers educational programs for school groups.",
+      "synonyms": ["instructive", "academic", "pedagogical"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_125",
+      "word": "educator",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who provides instruction or education professionally.",
+      "example": "Experienced educators mentor new teachers during their first year.",
+      "synonyms": ["teacher", "instructor", "tutor"],
+      "antonyms": ["student"]
+    },
+    {
+      "id": "3C_126",
+      "word": "efficacy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The ability to produce a desired or intended result.",
+      "example": "Researchers questioned the efficacy of the new teaching method.",
+      "synonyms": ["effectiveness", "success", "potency"],
+      "antonyms": ["inefficacy"]
+    },
+    {
+      "id": "3C_127",
+      "word": "efficient",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Achieving maximum productivity with minimum wasted effort.",
+      "example": "An efficient study schedule can significantly improve exam results.",
+      "synonyms": ["effective", "productive", "streamlined"],
+      "antonyms": ["inefficient", "wasteful"]
+    },
+    {
+      "id": "3C_128",
+      "word": "efficiently",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way that avoids wasted time, effort, or resources.",
+      "example": "She organized her notes efficiently before the final exam.",
+      "synonyms": ["effectively", "productively"],
+      "antonyms": ["inefficiently"]
+    },
+    {
+      "id": "3C_129",
+      "word": "empower",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To give someone the authority, confidence, or means to do something.",
+      "example": "The mentorship program empowers young women to pursue STEM careers.",
+      "synonyms": ["enable", "authorize", "strengthen"],
+      "antonyms": ["disempower", "weaken"]
+    },
+    {
+      "id": "3C_130",
+      "word": "empowering",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Giving someone increased confidence or control over their own life.",
+      "example": "Learning to code was an empowering experience for the students.",
+      "synonyms": ["enabling", "strengthening"],
+      "antonyms": ["discouraging"]
+    },
+    {
+      "id": "3C_131",
+      "word": "empowerment",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of gaining power, confidence, or control.",
+      "example": "Financial literacy programs support the economic empowerment of youth.",
+      "synonyms": ["strengthening", "enablement"],
+      "antonyms": ["disempowerment"]
+    },
+    {
+      "id": "3C_132",
+      "word": "engagement",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Involvement, participation, or emotional investment in something.",
+      "example": "Student engagement drops sharply during long lectures.",
+      "synonyms": ["involvement", "participation", "commitment"],
+      "antonyms": ["disengagement"]
+    },
+    {
+      "id": "3C_133",
+      "word": "enrichment",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of improving quality or value, often through added activities.",
+      "example": "The summer enrichment program offers extra science and arts classes.",
+      "synonyms": ["enhancement", "improvement"],
+      "antonyms": ["impoverishment"]
+    },
+    {
+      "id": "3C_134",
+      "word": "enrollment",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of registering as a member of a school or course.",
+      "example": "University enrollment increased after tuition fees were reduced.",
+      "synonyms": ["registration", "admission"],
+      "antonyms": ["withdrawal"]
+    },
+    {
+      "id": "3C_135",
+      "word": "equitable",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Fair and impartial to all parties.",
+      "example": "The reform aims to create a more equitable funding system for schools.",
+      "synonyms": ["fair", "just", "impartial"],
+      "antonyms": ["inequitable", "unfair"]
+    },
+    {
+      "id": "3C_136",
+      "word": "equity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The quality of being fair and just.",
+      "example": "Educational equity requires addressing gaps in resources between schools.",
+      "synonyms": ["fairness", "justice", "impartiality"],
+      "antonyms": ["inequity"]
+    },
+    {
+      "id": "3C_137",
+      "word": "evaluate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To assess the value, quality, or performance of something.",
+      "example": "Teachers evaluate student progress through regular assessments.",
+      "synonyms": ["assess", "appraise", "judge"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_138",
+      "word": "evaluation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of assessing something's value, quality, or performance.",
+      "example": "The annual evaluation determines which teachers receive additional training.",
+      "synonyms": ["assessment", "appraisal", "review"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_139",
+      "word": "evaluative",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to or involving assessment.",
+      "example": "The rubric provides evaluative criteria for grading essays.",
+      "synonyms": ["assessing", "judgmental"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_140",
+      "word": "evaluator",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who assesses or appraises something.",
+      "example": "An external evaluator reviewed the school's new curriculum.",
+      "synonyms": ["assessor", "examiner", "reviewer"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_141",
+      "word": "exam",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A formal test of knowledge or skill.",
+      "example": "Final exams determine a large portion of the semester grade.",
+      "synonyms": ["examination", "test", "assessment"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_142",
+      "word": "examination",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A formal test, or a detailed inspection of something.",
+      "example": "The medical examination is required before enrolling in the sports program.",
+      "synonyms": ["exam", "test", "inspection"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_143",
+      "word": "examine",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To inspect closely, or to test someone's knowledge formally.",
+      "example": "The professor will examine students on the entire semester's material.",
+      "synonyms": ["inspect", "assess", "test"],
+      "antonyms": ["overlook"]
+    },
+    {
+      "id": "3C_144",
+      "word": "examiner",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who tests or inspects something formally.",
+      "example": "The external examiner reviewed the dissertation before final approval.",
+      "synonyms": ["assessor", "evaluator", "inspector"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_145",
+      "word": "example",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A thing characteristic of its kind, or a model to be followed.",
+      "example": "The teacher gave a clear example to illustrate the grammar rule.",
+      "synonyms": ["instance", "illustration", "sample"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_146",
+      "word": "expenditure",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of spending money, or the amount spent.",
+      "example": "Government expenditure on education has increased over the past decade.",
+      "synonyms": ["spending", "outlay", "cost"],
+      "antonyms": ["income", "revenue"]
+    },
+    {
+      "id": "3C_147",
+      "word": "extracurricular",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Outside the regular curriculum of a school or college.",
+      "example": "Extracurricular activities like debate club build valuable soft skills.",
+      "synonyms": ["nonacademic", "additional"],
+      "antonyms": ["curricular"]
+    },
+    {
+      "id": "3C_148",
+      "word": "fail",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To be unsuccessful in achieving a desired goal.",
+      "example": "Many students fail the exam not from lack of ability but poor preparation.",
+      "synonyms": ["flunk", "falter"],
+      "antonyms": ["succeed", "pass"]
+    },
+    {
+      "id": "3C_149",
+      "word": "failed",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Unsuccessful; having not achieved its intended result.",
+      "example": "The failed policy was replaced with a more flexible grading system.",
+      "synonyms": ["unsuccessful", "botched"],
+      "antonyms": ["successful"]
+    },
+    {
+      "id": "3C_150",
+      "word": "failing",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A weakness or shortcoming.",
+      "example": "Chronic underfunding is a major failing of the current system.",
+      "synonyms": ["shortcoming", "flaw", "weakness"],
+      "antonyms": ["strength"]
+    },
+    {
+      "id": "3C_151",
+      "word": "failure",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A lack of success.",
+      "example": "Fear of failure often prevents students from taking academic risks.",
+      "synonyms": ["defeat", "shortfall", "unsuccess"],
+      "antonyms": ["success"]
+    },
+    {
+      "id": "3C_152",
+      "word": "feedback",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Information given about performance, used as a basis for improvement.",
+      "example": "Constructive feedback helps students understand where they went wrong.",
+      "synonyms": ["response", "critique", "evaluation"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_153",
+      "word": "funding",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Money provided for a particular purpose, especially by an organization.",
+      "example": "Reduced funding forced the school to cut its music program.",
+      "synonyms": ["financing", "investment", "sponsorship"],
+      "antonyms": ["defunding"]
+    },
+    {
+      "id": "3C_154",
+      "word": "gifted",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having exceptional talent or intelligence.",
+      "example": "Gifted students often need a more challenging curriculum.",
+      "synonyms": ["talented", "exceptional", "brilliant"],
+      "antonyms": ["average", "ungifted"]
+    },
+    {
+      "id": "3C_155",
+      "word": "giftedness",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The state of having exceptional natural ability.",
+      "example": "Educators debate the best way to identify giftedness in young children.",
+      "synonyms": ["talent", "brilliance", "aptitude"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_156",
+      "word": "grade",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A level of achievement, quality, or rank; a mark given for work.",
+      "example": "She received top grades in every subject this semester.",
+      "synonyms": ["mark", "score", "rank"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_157",
+      "word": "grader",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who assesses or scores work.",
+      "example": "The teacher hired an assistant grader to handle the large number of essays.",
+      "synonyms": ["marker", "assessor"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_158",
+      "word": "graduate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To complete a degree or diploma program successfully.",
+      "example": "She will graduate from university next spring with honors.",
+      "synonyms": ["complete", "finish", "matriculate"],
+      "antonyms": ["drop out"]
+    },
+    {
+      "id": "3C_159",
+      "word": "graduated",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Arranged in gradual stages, or having completed a degree.",
+      "example": "The program uses a graduated approach, increasing difficulty over time.",
+      "synonyms": ["staged", "progressive"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_160",
+      "word": "graduation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The successful completion of an academic degree or diploma.",
+      "example": "Graduation day is one of the proudest moments for students and parents.",
+      "synonyms": ["commencement", "completion"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_161",
+      "word": "grit",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Courage, resolve, and perseverance in the face of difficulty.",
+      "example": "Grit often predicts academic success better than raw intelligence.",
+      "synonyms": ["perseverance", "tenacity", "resilience"],
+      "antonyms": ["weakness", "quitting"]
+    },
+    {
+      "id": "3C_162",
+      "word": "gritty",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Showing courage and resolve; tenacious.",
+      "example": "Her gritty determination helped her overcome years of academic setbacks.",
+      "synonyms": ["tenacious", "resilient", "tough"],
+      "antonyms": ["weak", "feeble"]
+    },
+    {
+      "id": "3C_163",
+      "word": "head",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The person in charge of an organization, such as a headteacher.",
+      "example": "The head of the school introduced a new attendance policy.",
+      "synonyms": ["principal", "director", "leader"],
+      "antonyms": ["subordinate"]
+    },
+    {
+      "id": "3C_164",
+      "word": "holistic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Considering the whole person or system, not just individual parts.",
+      "example": "Holistic education addresses emotional and social development alongside academics.",
+      "synonyms": ["comprehensive", "integrated", "whole"],
+      "antonyms": ["partial", "fragmented"]
+    },
+    {
+      "id": "3C_165",
+      "word": "home",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to one's own house or family, as opposed to a formal institution.",
+      "example": "Home education has grown in popularity over the past decade.",
+      "synonyms": ["domestic", "household"],
+      "antonyms": ["institutional"]
+    },
+    {
+      "id": "3C_166",
+      "word": "immigrant",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who comes to live permanently in a foreign country.",
+      "example": "Immigrant children often face language barriers in their first years of school.",
+      "synonyms": ["migrant", "newcomer", "settler"],
+      "antonyms": ["emigrant", "native"]
+    },
+    {
+      "id": "3C_167",
+      "word": "immigrate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To come to live permanently in a foreign country.",
+      "example": "Her family immigrated when she was seven, and she quickly learned the local language.",
+      "synonyms": ["relocate", "migrate", "settle"],
+      "antonyms": ["emigrate"]
+    },
+    {
+      "id": "3C_168",
+      "word": "immigration",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The movement of people into a country to live there permanently.",
+      "example": "Immigration policy directly affects school enrollment in border regions.",
+      "synonyms": ["migration", "settlement"],
+      "antonyms": ["emigration"]
+    },
+    {
+      "id": "3C_169",
+      "word": "incentive",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A thing that motivates or encourages a particular action.",
+      "example": "Scholarships act as a strong incentive for academic achievement.",
+      "synonyms": ["motivation", "inducement", "reward"],
+      "antonyms": ["deterrent"]
+    },
+    {
+      "id": "3C_170",
+      "word": "inclusion",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The practice of including students with diverse needs in mainstream settings.",
+      "example": "Inclusion policies ensure children with disabilities learn alongside their peers.",
+      "synonyms": ["integration", "incorporation"],
+      "antonyms": ["exclusion", "segregation"]
+    },
+    {
+      "id": "3C_171",
+      "word": "incorporate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To include something as part of a whole.",
+      "example": "The new syllabus incorporates project-based learning throughout the year.",
+      "synonyms": ["integrate", "include", "embed"],
+      "antonyms": ["exclude", "omit"]
+    },
+    {
+      "id": "3C_172",
+      "word": "incorporation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of including something as part of a whole.",
+      "example": "The incorporation of technology into classrooms has changed teaching methods.",
+      "synonyms": ["integration", "inclusion"],
+      "antonyms": ["exclusion"]
+    },
+    {
+      "id": "3C_173",
+      "word": "indigenous",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Originating naturally in a particular place; native.",
+      "example": "The curriculum now includes indigenous history and languages.",
+      "synonyms": ["native", "aboriginal", "local"],
+      "antonyms": ["foreign", "imported"]
+    },
+    {
+      "id": "3C_174",
+      "word": "inquiry",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An act of asking for information, or a method of investigative learning.",
+      "example": "Inquiry-based learning encourages students to ask their own questions.",
+      "synonyms": ["investigation", "examination", "question"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_175",
+      "word": "instruct",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To teach someone a skill or subject, or to give directions.",
+      "example": "The coach will instruct new apprentices in basic safety procedures.",
+      "synonyms": ["teach", "train", "educate"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_176",
+      "word": "instruction",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of teaching, or detailed guidance on how to do something.",
+      "example": "Direct instruction remains common in early literacy programs.",
+      "synonyms": ["teaching", "guidance", "tuition"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_177",
+      "word": "instructional",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to teaching or education.",
+      "example": "The school invested in new instructional materials for science classes.",
+      "synonyms": ["educational", "pedagogical"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_178",
+      "word": "instructive",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Useful and informative; serving to teach.",
+      "example": "The guest speaker's talk was both instructive and inspiring.",
+      "synonyms": ["informative", "educational", "enlightening"],
+      "antonyms": ["uninformative"]
+    },
+    {
+      "id": "3C_179",
+      "word": "instructor",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who teaches a skill or subject.",
+      "example": "The swimming instructor worked patiently with beginner students.",
+      "synonyms": ["teacher", "tutor", "coach"],
+      "antonyms": ["student"]
+    },
+    {
+      "id": "3C_180",
+      "word": "integrity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The quality of being honest and having strong moral principles.",
+      "example": "Academic integrity policies prohibit plagiarism and cheating.",
+      "synonyms": ["honesty", "honor", "uprightness"],
+      "antonyms": ["dishonesty"]
+    },
+    {
+      "id": "3C_181",
+      "word": "intelligence",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The ability to acquire and apply knowledge and skills.",
+      "example": "Emotional intelligence is increasingly valued alongside academic intelligence.",
+      "synonyms": ["intellect", "cleverness", "acumen"],
+      "antonyms": ["stupidity"]
+    },
+    {
+      "id": "3C_182",
+      "word": "intelligent",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having or showing high mental capacity.",
+      "example": "The intelligent design of the curriculum kept students engaged.",
+      "synonyms": ["clever", "smart", "bright"],
+      "antonyms": ["unintelligent", "dim"]
+    },
+    {
+      "id": "3C_183",
+      "word": "intelligently",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a clever or thoughtful way.",
+      "example": "She intelligently structured her essay to build a clear argument.",
+      "synonyms": ["cleverly", "wisely"],
+      "antonyms": ["foolishly"]
+    },
+    {
+      "id": "3C_184",
+      "word": "intelligentsia",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Intellectuals or highly educated people considered as a group.",
+      "example": "The reforms were championed by the country's academic intelligentsia.",
+      "synonyms": ["intellectuals", "elite", "literati"],
+      "antonyms": ["masses"]
+    },
+    {
+      "id": "3C_185",
+      "word": "intelligible",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Able to be understood.",
+      "example": "The professor made a complex theory intelligible to first-year students.",
+      "synonyms": ["understandable", "clear", "comprehensible"],
+      "antonyms": ["unintelligible", "incomprehensible"]
+    },
+    {
+      "id": "3C_186",
+      "word": "interactive",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Allowing two-way communication or active engagement.",
+      "example": "Interactive whiteboards make lessons more engaging for young students.",
+      "synonyms": ["participatory", "engaging", "collaborative"],
+      "antonyms": ["passive"]
+    },
+    {
+      "id": "3C_187",
+      "word": "investment",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of committing resources for future benefit.",
+      "example": "Investment in early childhood education yields long-term social benefits.",
+      "synonyms": ["commitment", "expenditure", "funding"],
+      "antonyms": ["divestment"]
+    },
+    {
+      "id": "3C_188",
+      "word": "knowledge",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Facts, information, and skills acquired through experience or education.",
+      "example": "Prior knowledge greatly influences how students absorb new material.",
+      "synonyms": ["understanding", "learning", "awareness"],
+      "antonyms": ["ignorance"]
+    },
+    {
+      "id": "3C_189",
+      "word": "knowledgeable",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having wide information or understanding of a subject.",
+      "example": "A knowledgeable teacher can adapt lessons to unexpected student questions.",
+      "synonyms": ["informed", "well-versed", "learned"],
+      "antonyms": ["ignorant", "uninformed"]
+    },
+    {
+      "id": "3C_190",
+      "word": "leader",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who guides or directs a group.",
+      "example": "Student leaders organized the annual charity fundraiser.",
+      "synonyms": ["guide", "head", "director"],
+      "antonyms": ["follower"]
+    },
+    {
+      "id": "3C_191",
+      "word": "leadership",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action or ability of leading a group or organization.",
+      "example": "Strong school leadership is linked to better student outcomes.",
+      "synonyms": ["guidance", "direction", "management"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_192",
+      "word": "learn",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To gain knowledge or skill through study or experience.",
+      "example": "Children learn best through hands-on activities and play.",
+      "synonyms": ["study", "absorb", "master"],
+      "antonyms": ["forget", "unlearn"]
+    },
+    {
+      "id": "3C_193",
+      "word": "learned",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having much knowledge acquired through study.",
+      "example": "The learned professor published extensively on cognitive development.",
+      "synonyms": ["scholarly", "erudite", "educated"],
+      "antonyms": ["uneducated", "ignorant"]
+    },
+    {
+      "id": "3C_194",
+      "word": "learner",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who is acquiring knowledge or skill.",
+      "example": "Adult learners often balance study with full-time work.",
+      "synonyms": ["student", "pupil", "trainee"],
+      "antonyms": ["teacher"]
+    },
+    {
+      "id": "3C_195",
+      "word": "learning",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The acquisition of knowledge or skills through study or experience.",
+      "example": "Lifelong learning is increasingly emphasized in career development.",
+      "synonyms": ["education", "study", "schooling"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_196",
+      "word": "lecture",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A talk given to instruct or inform an audience, especially at a university.",
+      "example": "The lecture on cognitive psychology drew a large audience.",
+      "synonyms": ["talk", "address", "speech"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_197",
+      "word": "lecturer",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who gives lectures, especially at a university.",
+      "example": "She works as a lecturer in the department of linguistics.",
+      "synonyms": ["professor", "instructor", "teacher"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_198",
+      "word": "librarian",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who manages or works in a library.",
+      "example": "The librarian helped students locate sources for their research papers.",
+      "synonyms": ["archivist", "curator"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_199",
+      "word": "library",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A building or room containing books and resources for reading or borrowing.",
+      "example": "The university library extended its hours during exam season.",
+      "synonyms": ["archive", "reading room"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_200",
+      "word": "linguist",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person skilled in languages or the study of language.",
+      "example": "As a trained linguist, she analyzed the syntax of endangered languages.",
+      "synonyms": ["philologist", "polyglot"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_201",
+      "word": "linguistic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to language or the study of language.",
+      "example": "Linguistic diversity in the classroom can be a valuable teaching resource.",
+      "synonyms": ["language-related", "philological"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_202",
+      "word": "linguistics",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The scientific study of language.",
+      "example": "She majored in linguistics before switching to education policy.",
+      "synonyms": ["language study", "philology"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_203",
+      "word": "liter",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A metric unit of volume equal to one thousand cubic centimeters.",
+      "example": "The chemistry experiment required exactly one liter of solution.",
+      "synonyms": ["litre"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_204",
+      "word": "literacy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The ability to read and write.",
+      "example": "Improving adult literacy remains a global education priority.",
+      "synonyms": ["reading ability", "competence"],
+      "antonyms": ["illiteracy"]
+    },
+    {
+      "id": "3C_205",
+      "word": "literary",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to literature or the writing of books.",
+      "example": "The literary analysis focused on symbolism in the novel.",
+      "synonyms": ["bookish", "poetic"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_206",
+      "word": "literate",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Able to read and write.",
+      "example": "Being digitally literate is now as important as being print literate.",
+      "synonyms": ["educated", "well-read"],
+      "antonyms": ["illiterate"]
+    },
+    {
+      "id": "3C_207",
+      "word": "mastery",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Comprehensive knowledge or skill in a subject.",
+      "example": "Mastery of basic algebra is essential before moving to calculus.",
+      "synonyms": ["proficiency", "expertise", "command"],
+      "antonyms": ["incompetence"]
+    },
+    {
+      "id": "3C_208",
+      "word": "minority",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A smaller part of a group, or an underrepresented group within society.",
+      "example": "Support programs target minority students to close the achievement gap.",
+      "synonyms": ["subgroup", "underrepresented group"],
+      "antonyms": ["majority"]
+    },
+    {
+      "id": "3C_209",
+      "word": "mobility",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The ability to move or advance freely, including social advancement.",
+      "example": "Education is often described as an engine of social mobility.",
+      "synonyms": ["movement", "advancement", "flexibility"],
+      "antonyms": ["immobility"]
+    },
+    {
+      "id": "3C_210",
+      "word": "mobilization",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of organizing people or resources for a particular purpose.",
+      "example": "The mobilization of volunteers helped rebuild the flooded school.",
+      "synonyms": ["organization", "deployment"],
+      "antonyms": ["demobilization"]
+    },
+    {
+      "id": "3C_211",
+      "word": "mobilize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To organize and encourage people to take collective action.",
+      "example": "The union mobilized teachers to protest against budget cuts.",
+      "synonyms": ["rally", "organize", "marshal"],
+      "antonyms": ["demobilize"]
+    },
+    {
+      "id": "3C_212",
+      "word": "modular",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Composed of separate, interchangeable units.",
+      "example": "The modular curriculum allows students to select courses flexibly.",
+      "synonyms": ["sectional", "component-based"],
+      "antonyms": ["unified"]
+    },
+    {
+      "id": "3C_213",
+      "word": "modulate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To adjust or regulate the level or tone of something.",
+      "example": "Good speakers modulate their voice to keep an audience engaged.",
+      "synonyms": ["adjust", "regulate", "moderate"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_214",
+      "word": "module",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A self-contained unit forming part of a course or program.",
+      "example": "Each module of the online course ends with a short quiz.",
+      "synonyms": ["unit", "segment", "component"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_215",
+      "word": "motivate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To give someone a reason or incentive to act.",
+      "example": "Teachers must find creative ways to motivate reluctant learners.",
+      "synonyms": ["inspire", "encourage", "drive"],
+      "antonyms": ["discourage", "demotivate"]
+    },
+    {
+      "id": "3C_216",
+      "word": "motivated",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having a strong desire or reason to achieve something.",
+      "example": "Highly motivated students often seek out extra learning opportunities.",
+      "synonyms": ["driven", "inspired", "determined"],
+      "antonyms": ["unmotivated", "apathetic"]
+    },
+    {
+      "id": "3C_217",
+      "word": "motivation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The reason or drive behind one's actions.",
+      "example": "Intrinsic motivation leads to deeper and more lasting learning.",
+      "synonyms": ["drive", "incentive", "inspiration"],
+      "antonyms": ["apathy"]
+    },
+    {
+      "id": "3C_218",
+      "word": "motivational",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Designed to inspire enthusiasm or effort.",
+      "example": "The motivational speaker encouraged graduates to pursue bold goals.",
+      "synonyms": ["inspiring", "encouraging"],
+      "antonyms": ["discouraging"]
+    },
+    {
+      "id": "3C_219",
+      "word": "motivator",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person or thing that provides motivation.",
+      "example": "Fear of failure can be a poor motivator compared to genuine curiosity.",
+      "synonyms": ["incentive", "inspiration", "driver"],
+      "antonyms": ["deterrent"]
+    },
+    {
+      "id": "3C_220",
+      "word": "multicultural",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to or containing several cultural groups.",
+      "example": "The multicultural student body enriches classroom discussions.",
+      "synonyms": ["diverse", "cosmopolitan", "pluralistic"],
+      "antonyms": ["monocultural"]
+    },
+    {
+      "id": "3C_221",
+      "word": "multiculturalism",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The presence of several distinct cultural groups within a society.",
+      "example": "Schools increasingly promote multiculturalism through inclusive curricula.",
+      "synonyms": ["cultural diversity", "pluralism"],
+      "antonyms": ["assimilation"]
+    },
+    {
+      "id": "3C_222",
+      "word": "nurture",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To care for and encourage the growth or development of.",
+      "example": "Good teachers nurture curiosity as much as they impart facts.",
+      "synonyms": ["foster", "cultivate", "support"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "3C_223",
+      "word": "nurturing",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Caring for and encouraging the growth of someone.",
+      "example": "A nurturing classroom environment helps shy students gain confidence.",
+      "synonyms": ["supportive", "caring", "encouraging"],
+      "antonyms": ["neglectful"]
+    },
+    {
+      "id": "3C_224",
+      "word": "online",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Connected to or available through the internet.",
+      "example": "Online courses have expanded access to higher education worldwide.",
+      "synonyms": ["internet-based", "digital", "virtual"],
+      "antonyms": ["offline"]
+    },
+    {
+      "id": "3C_225",
+      "word": "opportunistic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Exploiting chances as they arise, sometimes unfairly.",
+      "example": "Critics accused the college of opportunistic marketing to prospective students.",
+      "synonyms": ["exploitative", "self-serving"],
+      "antonyms": ["principled"]
+    },
+    {
+      "id": "3C_226",
+      "word": "opportunity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A set of circumstances that makes something possible.",
+      "example": "Scholarships provide opportunity for talented students from poor backgrounds.",
+      "synonyms": ["chance", "possibility", "prospect"],
+      "antonyms": ["obstacle"]
+    },
+    {
+      "id": "3C_227",
+      "word": "outcome",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The way a thing turns out; a result.",
+      "example": "Improved teaching methods led to better learning outcomes.",
+      "synonyms": ["result", "consequence", "effect"],
+      "antonyms": ["cause"]
+    },
+    {
+      "id": "3C_228",
+      "word": "output",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The amount of something produced or achieved.",
+      "example": "The professor's academic output includes over fifty published papers.",
+      "synonyms": ["production", "yield", "result"],
+      "antonyms": ["input"]
+    },
+    {
+      "id": "3C_229",
+      "word": "outreach",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An organization's involvement with and support of the wider community.",
+      "example": "The university's outreach program tutors children in underserved neighborhoods.",
+      "synonyms": ["community engagement", "extension"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_230",
+      "word": "participate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To take part in an activity.",
+      "example": "Students who participate actively in discussions tend to retain more information.",
+      "synonyms": ["engage", "join", "contribute"],
+      "antonyms": ["abstain", "withdraw"]
+    },
+    {
+      "id": "3C_231",
+      "word": "participating",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Taking part in an activity.",
+      "example": "All participating schools received funding for new equipment.",
+      "synonyms": ["involved", "engaged"],
+      "antonyms": ["nonparticipating"]
+    },
+    {
+      "id": "3C_232",
+      "word": "participation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of taking part in something.",
+      "example": "Class participation counts toward the final grade.",
+      "synonyms": ["involvement", "engagement", "contribution"],
+      "antonyms": ["nonparticipation"]
+    },
+    {
+      "id": "3C_233",
+      "word": "participatory",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Involving participation, especially in decision-making.",
+      "example": "The school adopted a participatory approach to setting classroom rules.",
+      "synonyms": ["collaborative", "inclusive"],
+      "antonyms": ["authoritarian"]
+    },
+    {
+      "id": "3C_234",
+      "word": "pedagogical",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to teaching methods.",
+      "example": "The reform introduced new pedagogical strategies for teaching mathematics.",
+      "synonyms": ["instructional", "educational"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_235",
+      "word": "pedagogy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The method and practice of teaching.",
+      "example": "Modern pedagogy increasingly emphasizes student-centered learning.",
+      "synonyms": ["teaching method", "instruction"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_236",
+      "word": "peer",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person of the same age, status, or ability as another.",
+      "example": "Peer feedback can be just as valuable as teacher feedback.",
+      "synonyms": ["equal", "colleague", "contemporary"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_237",
+      "word": "performance",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "How well a person or system carries out a task.",
+      "example": "Standardized tests are commonly used to measure academic performance.",
+      "synonyms": ["achievement", "execution", "output"],
+      "antonyms": ["underperformance"]
+    },
+    {
+      "id": "3C_238",
+      "word": "personal",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a particular individual rather than a group.",
+      "example": "Personal tutoring allows lessons to be tailored to individual needs.",
+      "synonyms": ["individual", "private", "own"],
+      "antonyms": ["impersonal"]
+    },
+    {
+      "id": "3C_239",
+      "word": "personality",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The combination of characteristics that form an individual's character.",
+      "example": "A teacher's personality can strongly influence classroom atmosphere.",
+      "synonyms": ["character", "temperament", "disposition"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_240",
+      "word": "personalize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To design or tailor something to meet individual needs.",
+      "example": "Adaptive software can personalize lessons for each student's level.",
+      "synonyms": ["tailor", "customize", "individualize"],
+      "antonyms": ["standardize"]
+    },
+    {
+      "id": "3C_241",
+      "word": "personalized",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Designed or tailored to meet the needs of a particular individual.",
+      "example": "Personalized learning plans help address gaps for struggling students.",
+      "synonyms": ["customized", "tailored", "individualized"],
+      "antonyms": ["generic", "standardized"]
+    },
+    {
+      "id": "3C_242",
+      "word": "personally",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way that concerns or is done by a specific individual.",
+      "example": "The teacher personally reached out to every failing student.",
+      "synonyms": ["individually", "directly"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_243",
+      "word": "plagiarism",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The practice of taking someone's work and passing it off as one's own.",
+      "example": "Plagiarism detection software is now standard in most universities.",
+      "synonyms": ["copying", "piracy", "theft"],
+      "antonyms": ["originality"]
+    },
+    {
+      "id": "3C_244",
+      "word": "pluralistic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Characterized by a diversity of groups or beliefs coexisting.",
+      "example": "A pluralistic society benefits from an education system that embraces diverse viewpoints.",
+      "synonyms": ["diverse", "multicultural", "heterogeneous"],
+      "antonyms": ["uniform", "monolithic"]
+    },
+    {
+      "id": "3C_245",
+      "word": "police",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The civil force responsible for maintaining public order and enforcing the law.",
+      "example": "Some schools employ officers to work alongside the police during large events.",
+      "synonyms": ["law enforcement", "the authorities"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_246",
+      "word": "policeman",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A male member of a police force.",
+      "example": "The policeman visited the school to talk about road safety.",
+      "synonyms": ["officer"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_247",
+      "word": "policing",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The activity of maintaining law and order, or monitoring behavior.",
+      "example": "Community policing programs often partner with local schools.",
+      "synonyms": ["patrolling", "monitoring", "enforcement"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_248",
+      "word": "policy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A course of action adopted by a government or institution.",
+      "example": "The new attendance policy requires parental notification after three absences.",
+      "synonyms": ["guideline", "strategy", "regulation"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_249",
+      "word": "policy-making",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of creating official policies.",
+      "example": "Teachers are rarely consulted directly in education policy-making.",
+      "synonyms": ["legislating", "planning"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_250",
+      "word": "policymaker",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person responsible for creating official policies.",
+      "example": "Policymakers debated how to allocate the new education budget.",
+      "synonyms": ["legislator", "official", "decision-maker"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_251",
+      "word": "portfolio",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A collection of work samples used to demonstrate skill or achievement.",
+      "example": "Art students submit a portfolio as part of their college application.",
+      "synonyms": ["collection", "compilation", "dossier"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_252",
+      "word": "poverty",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The state of lacking sufficient money or resources.",
+      "example": "Poverty remains one of the strongest predictors of low educational attainment.",
+      "synonyms": ["destitution", "deprivation", "hardship"],
+      "antonyms": ["wealth", "affluence"]
+    },
+    {
+      "id": "3C_253",
+      "word": "preschool",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Education for children before they begin primary school.",
+      "example": "Attending preschool helps children develop early social and cognitive skills.",
+      "synonyms": ["nursery school", "kindergarten"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_254",
+      "word": "preschooler",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A child who attends preschool.",
+      "example": "The preschooler learned to count and recognize colors through play.",
+      "synonyms": ["toddler", "young child"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_255",
+      "word": "private",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Not funded, owned, or controlled by the government.",
+      "example": "Private schools often have smaller class sizes than public ones.",
+      "synonyms": ["independent", "nonpublic"],
+      "antonyms": ["public"]
+    },
+    {
+      "id": "3C_256",
+      "word": "private-sector",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to businesses and organizations not owned by the government.",
+      "example": "Private-sector partnerships have funded several new vocational programs.",
+      "synonyms": ["commercial", "corporate"],
+      "antonyms": ["public-sector"]
+    },
+    {
+      "id": "3C_257",
+      "word": "privately",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Not publicly or officially; on a personal basis.",
+      "example": "She privately tutored several students to supplement her income.",
+      "synonyms": ["confidentially", "personally"],
+      "antonyms": ["publicly"]
+    },
+    {
+      "id": "3C_258",
+      "word": "privatization",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The transfer of a business or service from public to private ownership.",
+      "example": "Critics worry that privatization of schools could widen inequality.",
+      "synonyms": ["denationalization"],
+      "antonyms": ["nationalization"]
+    },
+    {
+      "id": "3C_259",
+      "word": "privatize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To transfer from public to private ownership or control.",
+      "example": "The government decided not to privatize the public university system.",
+      "synonyms": ["denationalize"],
+      "antonyms": ["nationalize"]
+    },
+    {
+      "id": "3C_260",
+      "word": "privilege",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A special right or advantage available only to a particular group.",
+      "example": "Access to elite universities is often tied to social privilege.",
+      "synonyms": ["advantage", "benefit", "entitlement"],
+      "antonyms": ["disadvantage"]
+    },
+    {
+      "id": "3C_261",
+      "word": "privileged",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having special rights or advantages not available to everyone.",
+      "example": "Privileged students often have access to private tutors and resources.",
+      "synonyms": ["advantaged", "favored"],
+      "antonyms": ["underprivileged"]
+    },
+    {
+      "id": "3C_262",
+      "word": "proactive",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Taking action to create change rather than reacting to events.",
+      "example": "Proactive schools identify at-risk students before problems escalate.",
+      "synonyms": ["forward-thinking", "anticipatory"],
+      "antonyms": ["reactive"]
+    },
+    {
+      "id": "3C_263",
+      "word": "professional",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a paid occupation requiring special training.",
+      "example": "Ongoing professional development keeps teachers up to date on best practices.",
+      "synonyms": ["expert", "skilled", "occupational"],
+      "antonyms": ["amateur"]
+    },
+    {
+      "id": "3C_264",
+      "word": "professionalism",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The competence, skill, or conduct expected of a trained professional.",
+      "example": "The intern displayed remarkable professionalism during her first placement.",
+      "synonyms": ["competence", "expertise", "conduct"],
+      "antonyms": ["unprofessionalism"]
+    },
+    {
+      "id": "3C_265",
+      "word": "professionally",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a manner consistent with professional standards.",
+      "example": "She handled the difficult parent meeting professionally and calmly.",
+      "synonyms": ["competently", "skillfully"],
+      "antonyms": ["unprofessionally"]
+    },
+    {
+      "id": "3C_266",
+      "word": "program",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A planned series of activities, especially educational ones.",
+      "example": "The after-school program offers tutoring and sports activities.",
+      "synonyms": ["scheme", "curriculum", "initiative"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_267",
+      "word": "programmatic",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a program, or following a systematic plan.",
+      "example": "The reform followed a programmatic approach across all districts.",
+      "synonyms": ["systematic", "structured"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_268",
+      "word": "programmer",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who writes computer programs.",
+      "example": "The coding club was led by a professional programmer volunteering her time.",
+      "synonyms": ["developer", "coder"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_269",
+      "word": "programming",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of writing computer code, or planning a schedule of activities.",
+      "example": "Programming classes are now offered as early as elementary school.",
+      "synonyms": ["coding", "scheduling"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_270",
+      "word": "progress",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Forward movement toward a goal or improved state.",
+      "example": "Regular assessments track each student's academic progress.",
+      "synonyms": ["advancement", "development", "improvement"],
+      "antonyms": ["regression"]
+    },
+    {
+      "id": "3C_271",
+      "word": "progression",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of developing gradually toward a more advanced state.",
+      "example": "The curriculum follows a logical progression from basic to complex topics.",
+      "synonyms": ["advancement", "development", "sequence"],
+      "antonyms": ["regression"]
+    },
+    {
+      "id": "3C_272",
+      "word": "progressive",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Happening gradually, or favoring new ideas and reform.",
+      "example": "Progressive education emphasizes student-centered, experiential learning.",
+      "synonyms": ["reformist", "gradual", "innovative"],
+      "antonyms": ["traditional", "conservative"]
+    },
+    {
+      "id": "3C_273",
+      "word": "progressively",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a gradually increasing manner.",
+      "example": "The exercises become progressively more difficult throughout the course.",
+      "synonyms": ["gradually", "increasingly"],
+      "antonyms": ["abruptly"]
+    },
+    {
+      "id": "3C_274",
+      "word": "project",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A planned piece of work, especially an extended academic task.",
+      "example": "Students worked in teams to complete the final research project.",
+      "synonyms": ["assignment", "task", "initiative"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_275",
+      "word": "projected",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Estimated or forecasted based on current trends.",
+      "example": "Projected enrollment for next year is expected to rise by ten percent.",
+      "synonyms": ["forecasted", "anticipated", "estimated"],
+      "antonyms": ["actual"]
+    },
+    {
+      "id": "3C_276",
+      "word": "projectile",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An object that is propelled through the air.",
+      "example": "The physics class calculated the trajectory of a projectile launched at an angle.",
+      "synonyms": ["missile"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_277",
+      "word": "projecting",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Forecasting or estimating a future outcome.",
+      "example": "The report is projecting a shortage of qualified science teachers by 2030.",
+      "synonyms": ["forecasting", "estimating"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_278",
+      "word": "projection",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An estimate of future events based on current data.",
+      "example": "Enrollment projections helped the district plan new school construction.",
+      "synonyms": ["forecast", "estimate", "prediction"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_279",
+      "word": "projector",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A device used to display images or slides onto a screen.",
+      "example": "The classroom projector broke down in the middle of the presentation.",
+      "synonyms": ["display device"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_280",
+      "word": "public",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Provided by the government for use by everyone.",
+      "example": "Public education is funded through local and national taxation.",
+      "synonyms": ["state-run", "communal"],
+      "antonyms": ["private"]
+    },
+    {
+      "id": "3C_281",
+      "word": "public-relations",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to managing an organization's public image and communication.",
+      "example": "The university's public-relations team handled the media coverage of the scandal.",
+      "synonyms": ["communications-related"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_282",
+      "word": "publication",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of making information available to the public, or a published work.",
+      "example": "Her research findings appeared in a leading education publication.",
+      "synonyms": ["release", "printing", "journal"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_283",
+      "word": "publicist",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who promotes something, especially in the media.",
+      "example": "The author hired a publicist to promote her book about literacy reform.",
+      "synonyms": ["promoter", "press agent"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_284",
+      "word": "publicity",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Attention given to something by media coverage.",
+      "example": "The scholarship program received significant publicity after the news story aired.",
+      "synonyms": ["attention", "exposure", "coverage"],
+      "antonyms": ["obscurity"]
+    },
+    {
+      "id": "3C_285",
+      "word": "publicize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To bring something to public attention.",
+      "example": "The school worked to publicize its new scholarship fund.",
+      "synonyms": ["advertise", "promote", "announce"],
+      "antonyms": ["conceal"]
+    },
+    {
+      "id": "3C_286",
+      "word": "publicized",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Made known to the public.",
+      "example": "The widely publicized study changed how teachers approach reading instruction.",
+      "synonyms": ["announced", "advertised"],
+      "antonyms": ["unpublicized"]
+    },
+    {
+      "id": "3C_287",
+      "word": "publicly",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way that is open to general knowledge.",
+      "example": "The board publicly announced the new funding allocation.",
+      "synonyms": ["openly", "officially"],
+      "antonyms": ["privately"]
+    },
+    {
+      "id": "3C_288",
+      "word": "qualification",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A skill or accomplishment that makes someone suitable for a job or task.",
+      "example": "A teaching qualification is required before entering the classroom.",
+      "synonyms": ["credential", "certification", "degree"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_289",
+      "word": "qualified",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having the necessary skill, knowledge, or credentials.",
+      "example": "The school struggled to hire qualified science teachers.",
+      "synonyms": ["certified", "competent", "trained"],
+      "antonyms": ["unqualified"]
+    },
+    {
+      "id": "3C_290",
+      "word": "qualifier",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A word, statement, or event that limits or modifies something.",
+      "example": "The report included several qualifiers about the study's limitations.",
+      "synonyms": ["modifier", "condition"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_291",
+      "word": "qualify",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To become entitled to something by fulfilling certain conditions.",
+      "example": "Students must pass the entrance exam to qualify for the honors program.",
+      "synonyms": ["become eligible", "meet requirements"],
+      "antonyms": ["disqualify"]
+    },
+    {
+      "id": "3C_292",
+      "word": "qualifying",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a stage that determines eligibility.",
+      "example": "She passed the qualifying round of the national spelling competition.",
+      "synonyms": ["eligibility-determining"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_293",
+      "word": "read",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To look at and comprehend the meaning of written words.",
+      "example": "Children who read regularly tend to develop stronger vocabularies.",
+      "synonyms": ["peruse", "study", "interpret"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_294",
+      "word": "readiness",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The state of being fully prepared for something.",
+      "example": "School readiness assessments help identify children who may need extra support.",
+      "synonyms": ["preparedness", "preparation"],
+      "antonyms": ["unpreparedness"]
+    },
+    {
+      "id": "3C_295",
+      "word": "reference",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A source consulted for information, or a recommendation given about someone.",
+      "example": "The essay included several academic references to support its argument.",
+      "synonyms": ["citation", "source", "recommendation"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_296",
+      "word": "reform",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Improvement made by removing faults or abuses.",
+      "example": "Education reform aims to modernize outdated teaching methods.",
+      "synonyms": ["change", "revision", "improvement"],
+      "antonyms": ["preservation"]
+    },
+    {
+      "id": "3C_297",
+      "word": "reformed",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Improved through changes made to remove faults.",
+      "example": "The reformed curriculum places greater emphasis on critical thinking.",
+      "synonyms": ["revised", "improved", "amended"],
+      "antonyms": ["unreformed"]
+    },
+    {
+      "id": "3C_298",
+      "word": "reformer",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who advocates for change or improvement.",
+      "example": "The education reformer pushed for smaller class sizes nationwide.",
+      "synonyms": ["activist", "campaigner", "advocate"],
+      "antonyms": ["traditionalist"]
+    },
+    {
+      "id": "3C_299",
+      "word": "reforming",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Making or seeking to make changes or improvements.",
+      "example": "The reforming minister introduced sweeping changes to the exam system.",
+      "synonyms": ["revising", "changing"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_300",
+      "word": "reformist",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Advocating for gradual political or social reform.",
+      "example": "Reformist educators pushed back against rigid standardized testing.",
+      "synonyms": ["progressive", "revisionist"],
+      "antonyms": ["conservative"]
+    },
+    {
+      "id": "3C_301",
+      "word": "remediation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of correcting a fault or deficiency, especially in learning.",
+      "example": "Remediation classes help students catch up on missed foundational skills.",
+      "synonyms": ["correction", "improvement", "remedy"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "3C_302",
+      "word": "research",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Systematic investigation carried out to establish facts or reach new conclusions.",
+      "example": "Her research focused on the impact of class size on student achievement.",
+      "synonyms": ["investigation", "study", "inquiry"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_303",
+      "word": "researcher",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who carries out systematic investigation.",
+      "example": "The researcher interviewed dozens of teachers for her study.",
+      "synonyms": ["investigator", "scholar", "analyst"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_304",
+      "word": "resource",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A stock or supply of materials, money, or staff that can be drawn on when needed.",
+      "example": "Limited resources force many rural schools to share textbooks.",
+      "synonyms": ["asset", "supply", "material"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_305",
+      "word": "resourceful",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having the ability to find quick and clever solutions to problems.",
+      "example": "Resourceful teachers adapt lessons even when supplies are scarce.",
+      "synonyms": ["inventive", "creative", "ingenious"],
+      "antonyms": ["helpless"]
+    },
+    {
+      "id": "3C_306",
+      "word": "retention",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The continued possession or ability to keep something, including students or staff.",
+      "example": "Student retention improved after the university introduced mentoring programs.",
+      "synonyms": ["keeping", "preservation", "continuation"],
+      "antonyms": ["attrition"]
+    },
+    {
+      "id": "3C_307",
+      "word": "review",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A formal assessment or examination of something.",
+      "example": "The committee will review the proposed changes to the grading policy.",
+      "synonyms": ["examination", "evaluation", "appraisal"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_308",
+      "word": "reviewer",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who assesses or critiques something.",
+      "example": "The journal reviewer provided detailed feedback on the manuscript.",
+      "synonyms": ["critic", "evaluator", "assessor"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_309",
+      "word": "rural",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to the countryside rather than towns or cities.",
+      "example": "Rural schools often struggle with teacher recruitment due to remote locations.",
+      "synonyms": ["countryside", "agrarian"],
+      "antonyms": ["urban"]
+    },
+    {
+      "id": "3C_310",
+      "word": "scaffold",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To support a learning task by breaking it into manageable, structured steps.",
+      "example": "Teachers scaffold complex tasks by breaking them into smaller steps.",
+      "synonyms": ["support", "structure", "frame"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_311",
+      "word": "scaffolding",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A system of instructional support that is gradually removed as competence grows.",
+      "example": "Scaffolding helps students build confidence before tackling harder problems independently.",
+      "synonyms": ["support structure", "guidance"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_312",
+      "word": "scholarship",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A grant of money awarded to support a student's education.",
+      "example": "The scholarship covered her full tuition and living expenses.",
+      "synonyms": ["grant", "bursary", "award"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_313",
+      "word": "school",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An institution for educating children.",
+      "example": "The local school introduced a new anti-bullying policy this year.",
+      "synonyms": ["institution", "academy"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_314",
+      "word": "school-age",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Old enough to attend school.",
+      "example": "School-age children in the region often walk long distances to class.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3C_315",
+      "word": "school-based",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Conducted within a school setting.",
+      "example": "School-based health clinics provide free checkups for students.",
+      "synonyms": ["on-campus"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_316",
+      "word": "schoolboy",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A boy who attends school.",
+      "example": "The schoolboy proudly showed his parents his art project.",
+      "synonyms": ["pupil", "student"],
+      "antonyms": ["schoolgirl"]
+    },
+    {
+      "id": "3C_317",
+      "word": "schoolchild",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A child who attends school.",
+      "example": "Every schoolchild in the district received a free lunch.",
+      "synonyms": ["pupil", "student"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_318",
+      "word": "schoolgirl",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A girl who attends school.",
+      "example": "The schoolgirl won first place in the regional science fair.",
+      "synonyms": ["pupil", "student"],
+      "antonyms": ["schoolboy"]
+    },
+    {
+      "id": "3C_319",
+      "word": "schoolhouse",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A building used as a school, especially a small one.",
+      "example": "The old schoolhouse was converted into a community learning center.",
+      "synonyms": ["schoolroom"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_320",
+      "word": "schooling",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Education received at school.",
+      "example": "Her formal schooling ended early, but she continued learning independently.",
+      "synonyms": ["education", "instruction"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_321",
+      "word": "schoolmate",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who attends the same school as another.",
+      "example": "She reconnected with an old schoolmate at the reunion.",
+      "synonyms": ["classmate", "peer"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_322",
+      "word": "schoolteacher",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who teaches at a school.",
+      "example": "The retired schoolteacher now volunteers as a literacy tutor.",
+      "synonyms": ["teacher", "instructor"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_323",
+      "word": "schoolwork",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Work done by a student as part of a course of study.",
+      "example": "She finished her schoolwork before joining the after-school club.",
+      "synonyms": ["homework", "coursework"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_324",
+      "word": "schoolyard",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An outdoor area attached to a school used for play.",
+      "example": "Children gathered in the schoolyard during the morning break.",
+      "synonyms": ["playground"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_325",
+      "word": "secondary",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to education for children roughly aged eleven to eighteen.",
+      "example": "She began secondary school at the age of twelve.",
+      "synonyms": ["high-school-level"],
+      "antonyms": ["primary"]
+    },
+    {
+      "id": "3C_326",
+      "word": "segregate",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To set people or things apart from the rest or from each other.",
+      "example": "Historically, some school systems segregated students by race.",
+      "synonyms": ["separate", "isolate", "divide"],
+      "antonyms": ["integrate"]
+    },
+    {
+      "id": "3C_327",
+      "word": "segregated",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Separated based on race, class, or other group characteristics.",
+      "example": "Segregated schooling was ruled unconstitutional decades ago in many countries.",
+      "synonyms": ["separated", "divided"],
+      "antonyms": ["integrated"]
+    },
+    {
+      "id": "3C_328",
+      "word": "segregation",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The enforced separation of different racial or social groups.",
+      "example": "The fight against school segregation was a major civil rights milestone.",
+      "synonyms": ["separation", "division", "apartheid"],
+      "antonyms": ["integration"]
+    },
+    {
+      "id": "3C_329",
+      "word": "semester",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Half of an academic year.",
+      "example": "She studied abroad for one semester during her junior year.",
+      "synonyms": ["term"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_330",
+      "word": "seminar",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A small class in which discussion or focused training takes place.",
+      "example": "The graduate seminar focused on contemporary education policy debates.",
+      "synonyms": ["workshop", "class", "discussion group"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_331",
+      "word": "seminary",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An institution for training religious ministers or priests.",
+      "example": "He attended a seminary before becoming a chaplain at a boarding school.",
+      "synonyms": ["theological college"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_332",
+      "word": "sequence",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A particular order in which related events or things follow each other.",
+      "example": "The lesson plan follows a logical sequence from simple to complex ideas.",
+      "synonyms": ["order", "series", "progression"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_333",
+      "word": "sequencing",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The arrangement of items or events in a particular order.",
+      "example": "Proper sequencing of topics helps students build on prior knowledge.",
+      "synonyms": ["ordering", "arranging"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_334",
+      "word": "skill",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The ability to do something well, usually gained through training or practice.",
+      "example": "Critical thinking is a skill that can be developed through practice.",
+      "synonyms": ["ability", "expertise", "competence"],
+      "antonyms": ["incompetence"]
+    },
+    {
+      "id": "3C_335",
+      "word": "skilled",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having the ability to do something well through training or practice.",
+      "example": "Skilled educators can adapt their methods to diverse learning styles.",
+      "synonyms": ["proficient", "expert", "trained"],
+      "antonyms": ["unskilled"]
+    },
+    {
+      "id": "3C_336",
+      "word": "skillet",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A frying pan.",
+      "example": "The culinary students learned to season a cast-iron skillet properly.",
+      "synonyms": ["frying pan"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_337",
+      "word": "skillful",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having or showing great skill.",
+      "example": "The skillful teacher managed a classroom of thirty energetic children with ease.",
+      "synonyms": ["adept", "proficient", "expert"],
+      "antonyms": ["clumsy", "inept"]
+    },
+    {
+      "id": "3C_338",
+      "word": "skillfully",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a manner showing great skill.",
+      "example": "She skillfully balanced discipline with encouragement in her classroom.",
+      "synonyms": ["adeptly", "expertly"],
+      "antonyms": ["clumsily"]
+    },
+    {
+      "id": "3C_339",
+      "word": "social",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to society or interaction with other people.",
+      "example": "Social skills are often taught alongside academic subjects in early education.",
+      "synonyms": ["societal", "communal", "interpersonal"],
+      "antonyms": ["antisocial"]
+    },
+    {
+      "id": "3C_340",
+      "word": "socialism",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A political and economic theory advocating collective ownership and control.",
+      "example": "Some universities offer courses examining the history of socialism.",
+      "synonyms": ["collectivism"],
+      "antonyms": ["capitalism"]
+    },
+    {
+      "id": "3C_341",
+      "word": "socialist",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to or advocating socialism.",
+      "example": "The socialist government expanded free public education nationwide.",
+      "synonyms": ["collectivist"],
+      "antonyms": ["capitalist"]
+    },
+    {
+      "id": "3C_342",
+      "word": "socialite",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who is prominent in fashionable society.",
+      "example": "The socialite funded a new scholarship program for underprivileged students.",
+      "synonyms": ["celebrity", "high-society figure"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_343",
+      "word": "socialization",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of learning behavior acceptable to society.",
+      "example": "Preschool plays a key role in early childhood socialization.",
+      "synonyms": ["integration", "acculturation"],
+      "antonyms": ["isolation"]
+    },
+    {
+      "id": "3C_344",
+      "word": "socialize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To interact with others, or to prepare someone for social life.",
+      "example": "Recess allows children to socialize and develop friendships.",
+      "synonyms": ["interact", "mingle", "integrate"],
+      "antonyms": ["isolate"]
+    },
+    {
+      "id": "3C_345",
+      "word": "socially",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "In a way relating to society or interaction with others.",
+      "example": "Socially isolated students often struggle academically as well.",
+      "synonyms": ["interpersonally"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_346",
+      "word": "special",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Better, greater, or otherwise different from what is usual.",
+      "example": "Special education programs are designed to meet diverse learning needs.",
+      "synonyms": ["distinctive", "particular", "specific"],
+      "antonyms": ["ordinary", "general"]
+    },
+    {
+      "id": "3C_347",
+      "word": "specialist",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person with special knowledge or skill in a particular field.",
+      "example": "A learning specialist was assigned to support students with dyslexia.",
+      "synonyms": ["expert", "authority", "professional"],
+      "antonyms": ["generalist"]
+    },
+    {
+      "id": "3C_348",
+      "word": "specialization",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Concentration on and expertise in a particular area of study or work.",
+      "example": "Her specialization is in bilingual education and language acquisition.",
+      "synonyms": ["focus", "concentration", "expertise"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_349",
+      "word": "specialize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To concentrate on and become expert in a particular area.",
+      "example": "She decided to specialize in special needs education after her internship.",
+      "synonyms": ["focus", "concentrate"],
+      "antonyms": ["generalize"]
+    },
+    {
+      "id": "3C_350",
+      "word": "specialized",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Developed for or concentrated on a particular purpose or area of knowledge.",
+      "example": "Specialized training equips teachers to support students with learning disabilities.",
+      "synonyms": ["focused", "dedicated", "expert"],
+      "antonyms": ["general"]
+    },
+    {
+      "id": "3C_351",
+      "word": "specially",
+      "type": "adverb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "For a particular purpose; specifically.",
+      "example": "The materials were specially designed for visually impaired students.",
+      "synonyms": ["specifically", "particularly"],
+      "antonyms": ["generally"]
+    },
+    {
+      "id": "3C_352",
+      "word": "specialty",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An area in which a person is particularly skilled or an activity to which they devote themselves.",
+      "example": "Her academic specialty is developmental psychology.",
+      "synonyms": ["expertise", "forte", "focus"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_353",
+      "word": "staff",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The group of people employed by an organization.",
+      "example": "The school hired additional support staff to help students with special needs.",
+      "synonyms": ["personnel", "employees", "workforce"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_354",
+      "word": "standardization",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process of making things conform to a single standard.",
+      "example": "Standardization of test scores allows comparison across different schools.",
+      "synonyms": ["uniformity", "normalization"],
+      "antonyms": ["variation"]
+    },
+    {
+      "id": "3C_355",
+      "word": "standardize",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To make something conform to a set standard.",
+      "example": "The district decided to standardize the curriculum across all its schools.",
+      "synonyms": ["unify", "normalize", "regulate"],
+      "antonyms": ["diversify"]
+    },
+    {
+      "id": "3C_356",
+      "word": "standardized",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Made to conform to a common standard.",
+      "example": "Standardized testing remains a controversial method of measuring student achievement.",
+      "synonyms": ["uniform", "regulated"],
+      "antonyms": ["individualized"]
+    },
+    {
+      "id": "3C_357",
+      "word": "student",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who is studying at a school or college.",
+      "example": "The student submitted her thesis a week before the deadline.",
+      "synonyms": ["pupil", "learner", "scholar"],
+      "antonyms": ["teacher"]
+    },
+    {
+      "id": "3C_358",
+      "word": "student-athlete",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A student who also participates in competitive sports.",
+      "example": "Balancing training and coursework is challenging for every student-athlete.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3C_359",
+      "word": "study",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A piece of research, or the devotion of time to learning.",
+      "example": "A recent study found that sleep significantly affects academic performance.",
+      "synonyms": ["research", "examination", "learning"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_360",
+      "word": "syllabus",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An outline of the topics covered in a course.",
+      "example": "The syllabus lists all assigned readings and exam dates.",
+      "synonyms": ["curriculum", "course outline"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_361",
+      "word": "talent",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A natural aptitude or skill.",
+      "example": "The school nurtures musical talent through its extensive arts program.",
+      "synonyms": ["gift", "aptitude", "ability"],
+      "antonyms": ["incompetence"]
+    },
+    {
+      "id": "3C_362",
+      "word": "talented",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having a natural aptitude or skill.",
+      "example": "The talented young pianist was accepted into a prestigious conservatory.",
+      "synonyms": ["gifted", "skilled", "capable"],
+      "antonyms": ["untalented"]
+    },
+    {
+      "id": "3C_363",
+      "word": "teach",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To impart knowledge or skill to someone.",
+      "example": "She has taught mathematics at the same school for twenty years.",
+      "synonyms": ["instruct", "educate", "train"],
+      "antonyms": ["learn"]
+    },
+    {
+      "id": "3C_364",
+      "word": "teacher",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who teaches, especially in a school.",
+      "example": "The teacher adapted her lesson plan to accommodate different learning styles.",
+      "synonyms": ["instructor", "educator", "tutor"],
+      "antonyms": ["student"]
+    },
+    {
+      "id": "3C_365",
+      "word": "teacher-librarian",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A librarian who also has teaching responsibilities in a school.",
+      "example": "The teacher-librarian ran weekly workshops on research skills.",
+      "synonyms": ["library instructor"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_366",
+      "word": "teaching",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The profession or activity of educating people.",
+      "example": "Teaching requires patience, creativity, and constant adaptation.",
+      "synonyms": ["instruction", "education", "tutoring"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_367",
+      "word": "teen",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person aged between thirteen and nineteen.",
+      "example": "Many teens struggle to balance schoolwork with part-time jobs.",
+      "synonyms": ["teenager", "adolescent"],
+      "antonyms": ["adult"]
+    },
+    {
+      "id": "3C_368",
+      "word": "test",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An assessment of knowledge or ability.",
+      "example": "The final test covers material from the entire semester.",
+      "synonyms": ["exam", "assessment", "quiz"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_369",
+      "word": "testing",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of assessing knowledge or ability.",
+      "example": "Standardized testing has become a major point of debate among educators.",
+      "synonyms": ["assessment", "examination"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_370",
+      "word": "textbook",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A book used for the study of a particular subject.",
+      "example": "The outdated textbook failed to reflect recent scientific discoveries.",
+      "synonyms": ["coursebook", "manual"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_371",
+      "word": "thesis",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A long essay or research paper submitted for an academic degree.",
+      "example": "Her thesis examined the effects of poverty on childhood literacy.",
+      "synonyms": ["dissertation", "treatise"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_372",
+      "word": "think",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To use one's mind to consider or reason about something.",
+      "example": "Teachers encourage students to think critically rather than memorize facts.",
+      "synonyms": ["reason", "ponder", "reflect"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_373",
+      "word": "training",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of teaching a person a particular skill or type of behavior.",
+      "example": "New teachers undergo extensive training before entering the classroom.",
+      "synonyms": ["instruction", "coaching", "preparation"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_374",
+      "word": "tuition",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Fees paid for instruction, or teaching itself.",
+      "example": "Rising tuition costs have made university less accessible for many families.",
+      "synonyms": ["fees", "instruction", "teaching"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_375",
+      "word": "tutorial",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A period of instruction given by a tutor to an individual or small group.",
+      "example": "The weekly tutorial gave students a chance to ask detailed questions.",
+      "synonyms": ["lesson", "session", "class"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_376",
+      "word": "tutoring",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The action of giving individual instruction, typically for a fee.",
+      "example": "Private tutoring can help students catch up in difficult subjects.",
+      "synonyms": ["coaching", "teaching", "instruction"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_377",
+      "word": "undergraduate",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A university student who has not yet received a first degree.",
+      "example": "As an undergraduate, she majored in psychology with a minor in education.",
+      "synonyms": ["student", "collegian"],
+      "antonyms": ["graduate"]
+    },
+    {
+      "id": "3C_378",
+      "word": "university",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "An institution of higher education offering degree programs.",
+      "example": "The university expanded its scholarship fund for first-generation students.",
+      "synonyms": ["college", "institute"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_379",
+      "word": "urban",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to a city or densely populated area.",
+      "example": "Urban schools often face overcrowding despite having more resources nearby.",
+      "synonyms": ["metropolitan", "city-based"],
+      "antonyms": ["rural"]
+    },
+    {
+      "id": "3C_380",
+      "word": "urbanization",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The process by which populations become concentrated in cities.",
+      "example": "Rapid urbanization has strained school infrastructure in many growing cities.",
+      "synonyms": ["city growth", "metropolitanization"],
+      "antonyms": ["ruralization"]
+    },
+    {
+      "id": "3C_381",
+      "word": "vocational",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Relating to training for a specific occupation or trade.",
+      "example": "Vocational training programs prepare students for skilled trades like plumbing and welding.",
+      "synonyms": ["occupational", "trade-related"],
+      "antonyms": ["academic"]
+    },
+    {
+      "id": "3C_382",
+      "word": "voucher",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A document that can be exchanged for goods or services, including school funding.",
+      "example": "School vouchers allow parents to use public funds toward private tuition.",
+      "synonyms": ["coupon", "certificate"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_383",
+      "word": "workshop",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A session for discussion or practical work on a particular subject.",
+      "example": "The teacher-training workshop covered new strategies for classroom management.",
+      "synonyms": ["seminar", "session", "class"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_384",
+      "word": "writ",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A form of written legal command or order.",
+      "example": "The court issued a writ requiring the district to fund equal resources.",
+      "synonyms": ["order", "decree", "mandate"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_385",
+      "word": "write",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To mark letters or words on a surface to communicate meaning.",
+      "example": "Students practiced writing persuasive essays throughout the semester.",
+      "synonyms": ["compose", "draft", "pen"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_386",
+      "word": "writer",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "A person who writes, especially as an occupation.",
+      "example": "The writer visited the school to discuss her creative process with students.",
+      "synonyms": ["author", "novelist"],
+      "antonyms": ["reader"]
+    },
+    {
+      "id": "3C_387",
+      "word": "writhe",
+      "type": "verb",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "To twist the body about due to pain or discomfort.",
+      "example": "He writhed in discomfort after sitting through hours of exam revision.",
+      "synonyms": ["squirm", "contort", "wriggle"],
+      "antonyms": ["relax"]
+    },
+    {
+      "id": "3C_388",
+      "word": "writing",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The activity or skill of composing text, or the text itself.",
+      "example": "Creative writing classes help students express themselves beyond standard essays.",
+      "synonyms": ["composition", "authorship"],
+      "antonyms": []
+    },
+    {
+      "id": "3C_389",
+      "word": "written",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Produced or expressed in writing, as opposed to spoken.",
+      "example": "The written exam counts for sixty percent of the final grade.",
+      "synonyms": ["documented", "recorded"],
+      "antonyms": ["spoken", "oral"]
+    },
+    {
+      "id": "3C_390",
+      "word": "youth",
+      "type": "noun",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "The period between childhood and adulthood, or young people collectively.",
+      "example": "Youth unemployment often correlates with limited access to vocational training.",
+      "synonyms": ["adolescence", "young people"],
+      "antonyms": ["adulthood"]
+    },
+    {
+      "id": "3C_391",
+      "word": "youthful",
+      "type": "adjective",
+      "category": "Education, Pedagogy & Youth Development",
+      "meaning": "Having the characteristics associated with young people, such as energy or freshness.",
+      "example": "Her youthful enthusiasm for teaching never faded despite decades in the classroom.",
+      "synonyms": ["young", "vigorous", "energetic"],
+      "antonyms": ["aged", "elderly"]
     }
   ]
 }

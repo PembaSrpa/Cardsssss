@@ -4,15 +4,4332 @@
   "words": [
     {
       "id": "3D_001",
-      "word": "placeholder",
+      "word": "abdomen",
       "type": "noun",
       "category": "Health, Diet, Medicine & Lifestyle",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The part of the body between the chest and pelvis.",
+      "example": "The doctor examined her abdomen for signs of tenderness.",
+      "synonyms": ["belly", "stomach"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_002",
+      "word": "abdominal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the abdomen.",
+      "example": "She experienced abdominal pain after eating.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_003",
+      "word": "abnormal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Deviating from what is normal or usual.",
+      "example": "The scan revealed an abnormal growth in the tissue.",
+      "synonyms": ["irregular", "atypical"],
+      "antonyms": ["normal"]
+    },
+    {
+      "id": "3D_004",
+      "word": "abnormality",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A deviation from what is normal.",
+      "example": "Doctors detected an abnormality during the routine checkup.",
+      "synonyms": ["irregularity", "anomaly"],
+      "antonyms": ["normality"]
+    },
+    {
+      "id": "3D_005",
+      "word": "abnormally",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a way that deviates from normal.",
+      "example": "Her blood pressure was abnormally high during the visit.",
+      "synonyms": ["unusually"],
+      "antonyms": ["normally"]
+    },
+    {
+      "id": "3D_006",
+      "word": "abort",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To end a pregnancy prematurely, or to stop a process before completion.",
+      "example": "The surgical team had to abort the procedure due to complications.",
+      "synonyms": ["terminate", "stop"],
+      "antonyms": ["continue"]
+    },
+    {
+      "id": "3D_007",
+      "word": "abortion",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The deliberate termination of a pregnancy.",
+      "example": "The clinic provides counseling before an abortion.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_008",
+      "word": "absorption",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of taking in a substance, especially by the body.",
+      "example": "Vitamin D improves calcium absorption in the body.",
+      "synonyms": ["uptake"],
+      "antonyms": ["excretion"]
+    },
+    {
+      "id": "3D_009",
+      "word": "activate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make active or operative.",
+      "example": "The medication activates receptors in the nervous system.",
+      "synonyms": ["trigger", "initiate"],
+      "antonyms": ["deactivate"]
+    },
+    {
+      "id": "3D_010",
+      "word": "activation",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of making something active.",
+      "example": "Activation of the immune system helps fight infection.",
+      "synonyms": [],
+      "antonyms": ["deactivation"]
+    },
+    {
+      "id": "3D_011",
+      "word": "active",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Engaging in physical activity; functioning.",
+      "example": "Staying active reduces the risk of heart disease.",
+      "synonyms": ["energetic"],
+      "antonyms": ["inactive", "sedentary"]
+    },
+    {
+      "id": "3D_012",
+      "word": "actively",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In an active manner.",
+      "example": "She actively manages her diabetes through diet and exercise.",
+      "synonyms": [],
+      "antonyms": ["passively"]
+    },
+    {
+      "id": "3D_013",
+      "word": "activism",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The use of vigorous campaigning to bring about change.",
+      "example": "Health activism helped expand access to vaccines.",
+      "synonyms": ["campaigning"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_014",
+      "word": "activity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being active; physical exertion.",
+      "example": "Regular physical activity improves cardiovascular health.",
+      "synonyms": ["exercise"],
+      "antonyms": ["inactivity"]
+    },
+    {
+      "id": "3D_015",
+      "word": "acute",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Severe but of short duration.",
+      "example": "The patient was admitted with acute abdominal pain.",
+      "synonyms": ["severe", "sharp"],
+      "antonyms": ["chronic"]
+    },
+    {
+      "id": "3D_016",
+      "word": "acutely",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a severe and sudden manner.",
+      "example": "She became acutely ill after the exposure.",
+      "synonyms": ["severely"],
+      "antonyms": ["mildly"]
+    },
+    {
+      "id": "3D_017",
+      "word": "addict",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person addicted to a substance.",
+      "example": "The clinic offers treatment programs for recovering addicts.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_018",
+      "word": "addiction",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A compulsive dependency on a substance or behavior.",
+      "example": "Addiction to opioids has become a major public health crisis.",
+      "synonyms": ["dependency"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_019",
+      "word": "addictive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Causing addiction.",
+      "example": "Nicotine is a highly addictive substance.",
+      "synonyms": ["habit-forming"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_020",
+      "word": "adrenaline",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A hormone released in response to stress.",
+      "example": "Adrenaline surged through her body during the emergency.",
+      "synonyms": ["epinephrine"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_021",
+      "word": "adultery",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Voluntary sexual relations outside marriage.",
+      "example": "The counselor addressed the emotional impact of adultery on families.",
+      "synonyms": [],
+      "antonyms": ["fidelity"]
+    },
+    {
+      "id": "3D_022",
+      "word": "adulthood",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being an adult.",
+      "example": "Chronic conditions developed in childhood can persist into adulthood.",
+      "synonyms": ["maturity"],
+      "antonyms": ["childhood"]
+    },
+    {
+      "id": "3D_023",
+      "word": "aerial",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Existing or happening in the air.",
+      "example": "Aerial photography helped track the spread of the outbreak.",
+      "synonyms": ["airborne"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_024",
+      "word": "aerobic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to exercise that increases oxygen consumption.",
+      "example": "Aerobic exercise strengthens the heart and lungs.",
+      "synonyms": [],
+      "antonyms": ["anaerobic"]
+    },
+    {
+      "id": "3D_025",
+      "word": "aerobics",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Vigorous exercise performed to music.",
+      "example": "She attends an aerobics class three times a week.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_026",
+      "word": "aerodynamic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the properties of moving air.",
+      "example": "Not commonly used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_027",
+      "word": "aerosol",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Fine particles suspended in gas, or a spray.",
+      "example": "Aerosol inhalers deliver medication directly to the lungs.",
+      "synonyms": ["spray"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_028",
+      "word": "afflict",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To cause pain or suffering to.",
+      "example": "The disease afflicts millions of people worldwide.",
+      "synonyms": ["trouble", "plague"],
+      "antonyms": ["relieve"]
+    },
+    {
+      "id": "3D_029",
+      "word": "affliction",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A condition causing pain or suffering.",
+      "example": "Chronic pain is a common affliction among the elderly.",
+      "synonyms": ["ailment", "malady"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_030",
+      "word": "affordability",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being affordable.",
+      "example": "Affordability remains a barrier to accessing healthcare.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_031",
+      "word": "affordable",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Able to be purchased without financial strain.",
+      "example": "Affordable insurance improves access to medical care.",
+      "synonyms": ["inexpensive"],
+      "antonyms": ["expensive"]
+    },
+    {
+      "id": "3D_032",
+      "word": "aging",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of growing old.",
+      "example": "Healthy aging depends on diet, exercise, and social connection.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_033",
+      "word": "aide",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who assists another, especially in healthcare.",
+      "example": "A home health aide helped the patient with daily tasks.",
+      "synonyms": ["assistant"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_034",
+      "word": "aids",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A disease caused by HIV that damages the immune system.",
+      "example": "AIDS remains a significant global health concern.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_035",
+      "word": "ailment",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A minor illness.",
+      "example": "The clinic treats common ailments like colds and flu.",
+      "synonyms": ["illness", "malady"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_036",
+      "word": "alcohol",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance found in intoxicating drinks.",
+      "example": "Excessive alcohol consumption can damage the liver.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_037",
+      "word": "alcoholic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to alcohol; a person dependent on alcohol.",
+      "example": "The recovering alcoholic attended weekly support meetings.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_038",
+      "word": "alcoholism",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Addiction to alcohol.",
+      "example": "Alcoholism can lead to serious long-term health complications.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_039",
+      "word": "alert",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Quick to notice and respond.",
+      "example": "The patient remained alert throughout the examination.",
+      "synonyms": ["attentive", "vigilant"],
+      "antonyms": ["drowsy"]
+    },
+    {
+      "id": "3D_040",
+      "word": "alertness",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being alert.",
+      "example": "Caffeine can temporarily increase alertness.",
+      "synonyms": ["vigilance"],
+      "antonyms": ["drowsiness"]
+    },
+    {
+      "id": "3D_041",
+      "word": "allergen",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance that causes an allergic reaction.",
+      "example": "Pollen is a common allergen during spring months.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_042",
+      "word": "allergy",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A damaging immune response to a substance.",
+      "example": "Her allergy to peanuts requires her to carry medication.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_043",
+      "word": "alleviate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make suffering less severe.",
+      "example": "The medication helps alleviate chronic pain.",
+      "synonyms": ["ease", "relieve"],
+      "antonyms": ["aggravate"]
+    },
+    {
+      "id": "3D_044",
+      "word": "anatomical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the structure of the body.",
+      "example": "The textbook includes detailed anatomical diagrams.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_045",
+      "word": "anatomy",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The structure of an organism's body.",
+      "example": "Students study human anatomy in their first year of medical school.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_046",
+      "word": "antibiotic",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A medicine that inhibits bacterial growth.",
+      "example": "The doctor prescribed an antibiotic to treat the infection.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_047",
+      "word": "antioxidant",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance that inhibits oxidation and cell damage.",
+      "example": "Berries are rich in antioxidants that protect against disease.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_048",
+      "word": "antiseptic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Preventing infection by inhibiting microorganisms.",
+      "example": "The nurse applied an antiseptic before dressing the wound.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_049",
+      "word": "anxiety",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A feeling of worry or unease.",
+      "example": "Anxiety can have both psychological and physical symptoms.",
+      "synonyms": ["worry", "nervousness"],
+      "antonyms": ["calm"]
+    },
+    {
+      "id": "3D_050",
+      "word": "assimilate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To absorb and integrate, especially nutrients or information.",
+      "example": "The body needs time to assimilate essential nutrients.",
+      "synonyms": ["absorb", "incorporate"],
+      "antonyms": ["reject"]
+    },
+    {
+      "id": "3D_051",
+      "word": "assimilation",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of assimilating.",
+      "example": "Nutrient assimilation occurs primarily in the small intestine.",
+      "synonyms": ["absorption"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_052",
+      "word": "asthma",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chronic respiratory condition causing breathing difficulty.",
+      "example": "Air pollution can trigger asthma attacks.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_053",
+      "word": "attention",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Notice taken of someone or something; medical care.",
+      "example": "The injury required immediate medical attention.",
+      "synonyms": ["care", "notice"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "3D_054",
+      "word": "autoimmune",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to disease caused by the immune system attacking the body.",
+      "example": "Rheumatoid arthritis is an autoimmune condition.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_055",
+      "word": "average",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Typical or usual; a calculated mean.",
+      "example": "The average recovery time was about two weeks.",
+      "synonyms": ["typical", "standard"],
+      "antonyms": ["exceptional"]
+    },
+    {
+      "id": "3D_056",
+      "word": "avert",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To prevent or ward off.",
+      "example": "Early screening can help avert serious complications.",
+      "synonyms": ["prevent", "avoid"],
+      "antonyms": ["cause"]
+    },
+    {
+      "id": "3D_057",
+      "word": "bacterial",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to bacteria.",
+      "example": "A bacterial infection often requires antibiotic treatment.",
+      "synonyms": [],
+      "antonyms": ["viral"]
+    },
+    {
+      "id": "3D_058",
+      "word": "barrier",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An obstacle that prevents access or progress.",
+      "example": "Cost remains a major barrier to healthcare access.",
+      "synonyms": ["obstacle"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_059",
+      "word": "behavior",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The way a person acts.",
+      "example": "Diet and exercise behavior significantly affect long-term health.",
+      "synonyms": ["conduct"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_060",
+      "word": "behavioral",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to behavior.",
+      "example": "Behavioral therapy can help patients manage chronic stress.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_061",
+      "word": "biochemical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the chemical processes in living organisms.",
+      "example": "Biochemical tests measure hormone levels in the blood.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_062",
+      "word": "biochemistry",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The branch of science concerning chemical processes in organisms.",
+      "example": "Biochemistry explains how the body metabolizes nutrients.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_063",
+      "word": "blood",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The fluid circulated by the heart, carrying oxygen and nutrients.",
+      "example": "A blood test can reveal signs of infection.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_064",
+      "word": "bloodied",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Covered or stained with blood.",
+      "example": "The bloodied bandage was replaced immediately.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_065",
+      "word": "bloodless",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Without bloodshed; lacking blood.",
+      "example": "The procedure was relatively bloodless thanks to modern techniques.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_066",
+      "word": "bloodshed",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The killing or wounding of people.",
+      "example": "Not typically used in medical contexts, but included as vocabulary.",
+      "synonyms": ["violence"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_067",
+      "word": "bloodstream",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The blood flowing through the body.",
+      "example": "The medication enters the bloodstream within minutes.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_068",
+      "word": "bloody",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Covered with or involving blood.",
+      "example": "The wound left a bloody trail on the bandage.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_069",
+      "word": "bodily",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the body.",
+      "example": "The patient reported no unusual bodily sensations.",
+      "synonyms": ["physical"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_070",
+      "word": "body",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The physical structure of a person.",
+      "example": "Regular exercise keeps the body healthy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_071",
+      "word": "breath",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The air taken into or expelled from the lungs.",
+      "example": "Shortness of breath can indicate a respiratory problem.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_072",
+      "word": "breathe",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To take air into and expel it from the lungs.",
+      "example": "Patients were taught to breathe deeply during recovery.",
+      "synonyms": ["respire"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_073",
+      "word": "breather",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A short rest, especially to catch one's breath.",
+      "example": "The physical therapist allowed her a brief breather during the session.",
+      "synonyms": ["break", "pause"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_074",
+      "word": "breathing",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of taking air into and out of the lungs.",
+      "example": "Breathing exercises can help reduce anxiety.",
+      "synonyms": ["respiration"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_075",
+      "word": "breathless",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Out of breath; struggling to breathe.",
+      "example": "She felt breathless after climbing just a few stairs.",
+      "synonyms": ["winded"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_076",
+      "word": "breathlessly",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a breathless manner.",
+      "example": "He spoke breathlessly after the strenuous workout.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_077",
+      "word": "breathtaking",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Astonishing; awe-inspiring.",
+      "example": "Not typically used in medical contexts, but included as vocabulary.",
+      "synonyms": ["stunning"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_078",
+      "word": "cancer",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A disease caused by uncontrolled cell division.",
+      "example": "Early detection significantly improves cancer survival rates.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_079",
+      "word": "cancerous",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to or affected by cancer.",
+      "example": "The biopsy confirmed the tissue was cancerous.",
+      "synonyms": ["malignant"],
+      "antonyms": ["benign"]
+    },
+    {
+      "id": "3D_080",
+      "word": "capability",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The ability to do something.",
+      "example": "The hospital expanded its testing capability during the outbreak.",
+      "synonyms": ["capacity"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_081",
+      "word": "carbohydrate",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An organic compound that is a major dietary energy source.",
+      "example": "Whole grains are a healthy source of carbohydrates.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_082",
+      "word": "carcinogen",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance capable of causing cancer.",
+      "example": "Tobacco smoke contains numerous known carcinogens.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_083",
+      "word": "cardiac",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the heart.",
+      "example": "The patient was rushed to the hospital after a cardiac event.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_084",
+      "word": "cardiovascular",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the heart and blood vessels.",
+      "example": "Regular exercise improves cardiovascular health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_085",
+      "word": "care",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The provision of what is necessary for health.",
+      "example": "Access to affordable care remains a major policy challenge.",
+      "synonyms": ["treatment"],
+      "antonyms": ["neglect"]
+    },
+    {
+      "id": "3D_086",
+      "word": "caregiver",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who provides care for someone in need.",
+      "example": "Family caregivers often experience significant emotional strain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_087",
+      "word": "childbirth",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of giving birth to a child.",
+      "example": "Complications during childbirth require immediate medical attention.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_088",
+      "word": "cholesterol",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A fatty substance found in the blood.",
+      "example": "High cholesterol increases the risk of heart disease.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_089",
+      "word": "chronic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Persisting for a long time.",
+      "example": "Chronic conditions require ongoing management rather than a single cure.",
+      "synonyms": ["persistent", "long-term"],
+      "antonyms": ["acute"]
+    },
+    {
+      "id": "3D_090",
+      "word": "chronically",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a persistent, long-term manner.",
+      "example": "She has been chronically ill for several years.",
+      "synonyms": ["persistently"],
+      "antonyms": ["acutely"]
+    },
+    {
+      "id": "3D_091",
+      "word": "chronicle",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A factual record of events.",
+      "example": "The study chronicles the progression of the disease over a decade.",
+      "synonyms": ["record"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_092",
+      "word": "chronicler",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who records events.",
+      "example": "The researcher acted as a chronicler of the outbreak's spread.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_093",
+      "word": "clean",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Free from dirt or contamination.",
+      "example": "Clean water is essential for preventing disease.",
+      "synonyms": ["sanitary", "hygienic"],
+      "antonyms": ["dirty", "contaminated"]
+    },
+    {
+      "id": "3D_094",
+      "word": "clinic",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A facility for outpatient medical treatment.",
+      "example": "The community clinic offers free vaccinations.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_095",
+      "word": "clinical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to direct medical treatment or observation of patients.",
+      "example": "The drug is currently undergoing clinical trials.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_096",
+      "word": "clinically",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a manner relating to clinical practice.",
+      "example": "The treatment was clinically proven to reduce symptoms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_097",
+      "word": "clinician",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A healthcare professional who works directly with patients.",
+      "example": "The clinician recommended a change in medication.",
+      "synonyms": ["practitioner"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_098",
+      "word": "cognition",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The mental process of acquiring knowledge.",
+      "example": "Aging can affect cognition and memory.",
+      "synonyms": ["thinking"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_099",
+      "word": "cognitive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to cognition.",
+      "example": "Cognitive decline is a common concern among older adults.",
+      "synonyms": ["mental"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_100",
+      "word": "condition",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A state of health, or a disease.",
+      "example": "The patient was diagnosed with a chronic condition.",
+      "synonyms": ["ailment", "disorder"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_101",
+      "word": "conditional",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Subject to certain conditions.",
+      "example": "Approval for the treatment was conditional on further testing.",
+      "synonyms": [],
+      "antonyms": ["unconditional"]
+    },
+    {
+      "id": "3D_102",
+      "word": "conditioner",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance used to improve condition.",
+      "example": "Not typically used in medical contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_103",
+      "word": "conditioning",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of training the body or mind.",
+      "example": "Physical conditioning improves overall athletic performance.",
+      "synonyms": ["training"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_104",
+      "word": "congenital",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Present from birth.",
+      "example": "The congenital heart defect was detected during a prenatal scan.",
+      "synonyms": ["inborn"],
+      "antonyms": ["acquired"]
+    },
+    {
+      "id": "3D_105",
+      "word": "contaminant",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance that pollutes or makes impure.",
+      "example": "Contaminants in the water supply posed a serious health risk.",
+      "synonyms": ["pollutant"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_106",
+      "word": "contaminate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make impure by exposure to a harmful substance.",
+      "example": "Improper handling can contaminate medical equipment.",
+      "synonyms": ["pollute"],
+      "antonyms": ["purify"]
+    },
+    {
+      "id": "3D_107",
+      "word": "contaminated",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Made impure by a harmful substance.",
+      "example": "The contaminated batch of medication was recalled immediately.",
+      "synonyms": ["polluted"],
+      "antonyms": ["clean"]
+    },
+    {
+      "id": "3D_108",
+      "word": "contamination",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being contaminated.",
+      "example": "Cross-contamination in hospitals can spread infection.",
+      "synonyms": ["pollution"],
+      "antonyms": ["purity"]
+    },
+    {
+      "id": "3D_109",
+      "word": "coverage",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The extent of insurance protection.",
+      "example": "Her insurance coverage includes routine checkups.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_110",
+      "word": "crisis",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A time of intense difficulty or danger.",
+      "example": "The opioid crisis has affected communities nationwide.",
+      "synonyms": ["emergency"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_111",
+      "word": "cyclical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Occurring in cycles.",
+      "example": "Some mood disorders follow a cyclical pattern.",
+      "synonyms": ["recurring", "periodic"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_112",
+      "word": "deliver",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To bring about; to assist in childbirth.",
+      "example": "The obstetrician helped deliver the baby safely.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_113",
+      "word": "deliverance",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of being rescued or set free.",
+      "example": "Not commonly used in medical contexts, but included as vocabulary.",
+      "synonyms": ["rescue"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_114",
+      "word": "delivery",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of giving birth; the act of delivering.",
+      "example": "The delivery went smoothly with no complications.",
+      "synonyms": ["childbirth"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_115",
+      "word": "dementia",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chronic decline in cognitive function.",
+      "example": "Dementia affects memory, thinking, and daily functioning.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_116",
+      "word": "depress",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To lower the spirits of; to reduce activity.",
+      "example": "The medication can depress the central nervous system.",
+      "synonyms": ["lower", "suppress"],
+      "antonyms": ["stimulate"]
+    },
+    {
+      "id": "3D_117",
+      "word": "depressed",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Suffering from depression; reduced in activity.",
+      "example": "She felt depressed after the difficult diagnosis.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_118",
+      "word": "depressing",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Causing sadness.",
+      "example": "The prognosis was depressing for the entire family.",
+      "synonyms": ["disheartening"],
+      "antonyms": ["uplifting"]
+    },
+    {
+      "id": "3D_119",
+      "word": "depression",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A mental health condition causing persistent sadness.",
+      "example": "Depression is one of the most common mental health disorders.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_120",
+      "word": "depressive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to or characterized by depression.",
+      "example": "The patient exhibited depressive symptoms for several months.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_121",
+      "word": "diabetes",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chronic condition affecting blood sugar regulation.",
+      "example": "Diabetes requires careful monitoring of blood glucose levels.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_122",
+      "word": "diabetic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to or having diabetes.",
+      "example": "The diabetic patient adjusted her insulin dosage.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_123",
+      "word": "diagnose",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To identify the nature of an illness.",
+      "example": "The doctor diagnosed the condition after several tests.",
+      "synonyms": ["identify", "determine"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_124",
+      "word": "diagnosis",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The identification of an illness.",
+      "example": "An early diagnosis significantly improves treatment outcomes.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_125",
+      "word": "diagnostic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to diagnosis.",
+      "example": "Diagnostic imaging revealed the extent of the injury.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_126",
+      "word": "diagnostics",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The practice of diagnosing disease.",
+      "example": "Advances in diagnostics have improved early cancer detection.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_127",
+      "word": "diet",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The food regularly consumed by a person.",
+      "example": "A balanced diet supports long-term health.",
+      "synonyms": ["nutrition"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_128",
+      "word": "dietary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to diet.",
+      "example": "Dietary changes can help manage high cholesterol.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_129",
+      "word": "dietitian",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An expert in diet and nutrition.",
+      "example": "The dietitian created a meal plan for the diabetic patient.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_130",
+      "word": "disability",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A physical or mental condition limiting activity.",
+      "example": "The program provides support for people with disabilities.",
+      "synonyms": ["impairment"],
+      "antonyms": ["ability"]
+    },
+    {
+      "id": "3D_131",
+      "word": "disable",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To deprive of a physical or mental ability.",
+      "example": "The injury temporarily disabled her ability to walk.",
+      "synonyms": ["incapacitate"],
+      "antonyms": ["enable"]
+    },
+    {
+      "id": "3D_132",
+      "word": "disabled",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having a disability.",
+      "example": "The clinic offers accessible facilities for disabled patients.",
+      "synonyms": [],
+      "antonyms": ["able-bodied"]
+    },
+    {
+      "id": "3D_133",
+      "word": "discretion",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The freedom to decide or judge.",
+      "example": "Treatment decisions are often left to the physician's discretion.",
+      "synonyms": ["judgment"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_134",
+      "word": "discretionary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Available for use at one's own judgment.",
+      "example": "Discretionary spending on healthcare varies by household income.",
+      "synonyms": [],
+      "antonyms": ["mandatory"]
+    },
+    {
+      "id": "3D_135",
+      "word": "disease",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A disorder of structure or function affecting the body.",
+      "example": "Heart disease remains a leading cause of death worldwide.",
+      "synonyms": ["illness", "ailment"],
+      "antonyms": ["health"]
+    },
+    {
+      "id": "3D_136",
+      "word": "diseased",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Affected by disease.",
+      "example": "The diseased tissue was removed during surgery.",
+      "synonyms": [],
+      "antonyms": ["healthy"]
+    },
+    {
+      "id": "3D_137",
+      "word": "disorder",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A disturbance of normal physical or mental functions.",
+      "example": "Anxiety disorder affects millions of people globally.",
+      "synonyms": ["condition", "illness"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_138",
+      "word": "disordered",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having a disorder; lacking order.",
+      "example": "Disordered eating can lead to serious nutritional deficiencies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_139",
+      "word": "disorderly",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Lacking order or discipline.",
+      "example": "Not commonly used in medical contexts, but included as vocabulary.",
+      "synonyms": ["chaotic"],
+      "antonyms": ["orderly"]
+    },
+    {
+      "id": "3D_140",
+      "word": "doctor",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A qualified practitioner of medicine.",
+      "example": "The doctor prescribed a course of antibiotics.",
+      "synonyms": ["physician"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_141",
+      "word": "doctoral",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to a doctorate.",
+      "example": "She completed doctoral research on infectious disease control.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_142",
+      "word": "doctorate",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The highest academic degree.",
+      "example": "He earned a doctorate in public health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_143",
+      "word": "dosage",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The size and frequency of a dose.",
+      "example": "The doctor adjusted the dosage based on her weight.",
+      "synonyms": ["dose"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_144",
+      "word": "drug",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A medicine or substance affecting bodily function.",
+      "example": "The new drug showed promising results in clinical trials.",
+      "synonyms": ["medication"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_145",
+      "word": "drug-related",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Connected to drug use.",
+      "example": "Drug-related hospital admissions have risen in recent years.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_146",
+      "word": "drugstore",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A pharmacy that also sells other goods.",
+      "example": "She picked up her prescription at the local drugstore.",
+      "synonyms": ["pharmacy"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_147",
+      "word": "eat",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To consume food.",
+      "example": "Patients are advised to eat smaller, more frequent meals.",
+      "synonyms": ["consume"],
+      "antonyms": ["fast"]
+    },
+    {
+      "id": "3D_148",
+      "word": "efficacy",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The ability to produce a desired result.",
+      "example": "Clinical trials measure the efficacy of new treatments.",
+      "synonyms": ["effectiveness"],
+      "antonyms": ["ineffectiveness"]
+    },
+    {
+      "id": "3D_149",
+      "word": "elderly",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Old, especially referring to people.",
+      "example": "Elderly patients often require closer monitoring of medication.",
+      "synonyms": ["aged", "senior"],
+      "antonyms": ["young"]
+    },
+    {
+      "id": "3D_150",
+      "word": "eliminate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To completely remove or get rid of.",
+      "example": "The treatment aims to eliminate the infection entirely.",
+      "synonyms": ["remove", "eradicate"],
+      "antonyms": ["retain"]
+    },
+    {
+      "id": "3D_151",
+      "word": "elimination",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of removing something completely.",
+      "example": "Elimination of the parasite required a lengthy treatment course.",
+      "synonyms": ["eradication"],
+      "antonyms": ["retention"]
+    },
+    {
+      "id": "3D_152",
+      "word": "emerge",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To become apparent or come into existence.",
+      "example": "New symptoms emerged several weeks after the initial infection.",
+      "synonyms": ["appear", "arise"],
+      "antonyms": ["disappear"]
+    },
+    {
+      "id": "3D_153",
+      "word": "emergence",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of coming into existence.",
+      "example": "The emergence of a new virus strain concerned health officials.",
+      "synonyms": ["appearance"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_154",
+      "word": "emergency",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A serious, unexpected situation requiring immediate action.",
+      "example": "The patient was rushed to the emergency room.",
+      "synonyms": ["crisis"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_155",
+      "word": "emergent",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Newly arising or coming into prominence.",
+      "example": "Emergent infectious diseases pose ongoing challenges for public health.",
+      "synonyms": ["emerging"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_156",
+      "word": "emerging",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Beginning to exist or become apparent.",
+      "example": "Emerging research links diet to long-term brain health.",
+      "synonyms": ["developing"],
+      "antonyms": ["established"]
+    },
+    {
+      "id": "3D_157",
+      "word": "emotion",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A strong feeling arising from circumstances.",
+      "example": "Chronic illness can trigger a wide range of emotions.",
+      "synonyms": ["feeling"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_158",
+      "word": "emotional",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to emotions.",
+      "example": "The diagnosis had a significant emotional impact on the family.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_159",
+      "word": "emotionally",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a way relating to emotions.",
+      "example": "She was emotionally exhausted after the long recovery.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_160",
+      "word": "empower",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To give someone the authority or confidence to act.",
+      "example": "The program aims to empower patients to manage their own care.",
+      "synonyms": ["enable"],
+      "antonyms": ["disempower"]
+    },
+    {
+      "id": "3D_161",
+      "word": "empowering",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Giving someone increased confidence or control.",
+      "example": "Learning to manage her condition was an empowering experience.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_162",
+      "word": "empowerment",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of becoming more confident or in control.",
+      "example": "Patient empowerment improves long-term health outcomes.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_163",
+      "word": "epidemic",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A widespread occurrence of a disease.",
+      "example": "The flu epidemic strained hospital resources across the region.",
+      "synonyms": ["outbreak"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_164",
+      "word": "evidence",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Facts or information supporting a conclusion.",
+      "example": "Clinical evidence supports the effectiveness of the treatment.",
+      "synonyms": ["proof"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_165",
+      "word": "evidence-based",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Based on scientific evidence.",
+      "example": "Doctors are encouraged to follow evidence-based treatment guidelines.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_166",
+      "word": "exacerbate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make a problem worse.",
+      "example": "Poor diet can exacerbate symptoms of chronic disease.",
+      "synonyms": ["worsen", "aggravate"],
+      "antonyms": ["alleviate"]
+    },
+    {
+      "id": "3D_167",
+      "word": "exercise",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Physical activity to improve health.",
+      "example": "Regular exercise reduces the risk of cardiovascular disease.",
+      "synonyms": ["workout"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_168",
+      "word": "exposure",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being exposed to something harmful.",
+      "example": "Prolonged exposure to pollutants increases respiratory risk.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_169",
+      "word": "facilitate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make a process easier.",
+      "example": "Physical therapy can facilitate recovery after surgery.",
+      "synonyms": ["enable", "assist"],
+      "antonyms": ["hinder"]
+    },
+    {
+      "id": "3D_170",
+      "word": "facilitator",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who assists a process.",
+      "example": "The support group facilitator guided the discussion on coping strategies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_171",
+      "word": "facility",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A place designed for a particular purpose.",
+      "example": "The medical facility expanded its emergency care unit.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_172",
+      "word": "falter",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To lose strength or momentum.",
+      "example": "Her recovery began to falter after the setback.",
+      "synonyms": ["waver", "weaken"],
+      "antonyms": ["strengthen"]
+    },
+    {
+      "id": "3D_173",
+      "word": "faltering",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Losing strength or momentum.",
+      "example": "The patient's faltering breathing prompted immediate intervention.",
+      "synonyms": ["weakening"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_174",
+      "word": "fast",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To abstain from food; quick.",
+      "example": "Patients were asked to fast before the blood test.",
+      "synonyms": [],
+      "antonyms": ["eat"]
+    },
+    {
+      "id": "3D_175",
+      "word": "fast-growing",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Increasing rapidly.",
+      "example": "The clinic serves a fast-growing population of elderly patients.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_176",
+      "word": "fast-moving",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Moving or progressing quickly.",
+      "example": "The fast-moving outbreak required an urgent public health response.",
+      "synonyms": [],
+      "antonyms": ["slow-moving"]
+    },
+    {
+      "id": "3D_177",
+      "word": "fast-paced",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Happening at a rapid rate.",
+      "example": "The fast-paced hospital environment requires quick decision-making.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_178",
+      "word": "fastball",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A fast pitch in baseball.",
+      "example": "Not relevant to health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_179",
+      "word": "fasten",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To close or secure firmly.",
+      "example": "Fasten the medical alert bracelet securely at all times.",
+      "synonyms": ["secure"],
+      "antonyms": ["unfasten"]
+    },
+    {
+      "id": "3D_180",
+      "word": "fastener",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A device used to fasten things.",
+      "example": "Not typically used in medical contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_181",
+      "word": "faster",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "More quick.",
+      "example": "The new treatment led to a faster recovery time.",
+      "synonyms": [],
+      "antonyms": ["slower"]
+    },
+    {
+      "id": "3D_182",
+      "word": "fastest",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Most quick.",
+      "example": "The fastest way to reduce swelling is with ice and rest.",
+      "synonyms": [],
+      "antonyms": ["slowest"]
+    },
+    {
+      "id": "3D_183",
+      "word": "fastest-growing",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Increasing most rapidly.",
+      "example": "Obesity is among the fastest-growing health concerns worldwide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_184",
+      "word": "fat",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A natural oily substance found in the body.",
+      "example": "Excess body fat increases the risk of chronic disease.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_185",
+      "word": "fat-free",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Containing no fat.",
+      "example": "Fat-free products are often marketed as healthier alternatives.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_186",
+      "word": "fatal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Causing death.",
+      "example": "The untreated infection can become fatal if left unchecked.",
+      "synonyms": ["deadly", "lethal"],
+      "antonyms": ["harmless"]
+    },
+    {
+      "id": "3D_187",
+      "word": "fatality",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A death resulting from accident or disease.",
+      "example": "The outbreak resulted in several fatalities.",
+      "synonyms": ["death"],
+      "antonyms": ["survival"]
+    },
+    {
+      "id": "3D_188",
+      "word": "fatally",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a way that causes death.",
+      "example": "The patient was fatally affected by the untreated condition.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_189",
+      "word": "fate",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The outcome or destiny of a person.",
+      "example": "The patient's fate depended on early diagnosis.",
+      "synonyms": ["destiny"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_190",
+      "word": "fateful",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having important, often negative, consequences.",
+      "example": "The fateful decision to delay treatment worsened her prognosis.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_191",
+      "word": "father",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A male parent.",
+      "example": "Family history, including the father's health, is relevant to diagnosis.",
+      "synonyms": [],
+      "antonyms": ["mother"]
+    },
+    {
+      "id": "3D_192",
+      "word": "father-in-law",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The father of one's spouse.",
+      "example": "Not typically relevant to medical vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_193",
+      "word": "fatherhood",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being a father.",
+      "example": "Fatherhood can bring significant lifestyle changes affecting health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_194",
+      "word": "fathom",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To understand fully.",
+      "example": "Doctors struggled to fathom the cause of her symptoms.",
+      "synonyms": ["comprehend"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_195",
+      "word": "fatigue",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Extreme tiredness.",
+      "example": "Chronic fatigue is a common symptom of several illnesses.",
+      "synonyms": ["exhaustion", "tiredness"],
+      "antonyms": ["energy"]
+    },
+    {
+      "id": "3D_196",
+      "word": "fatten",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make fat.",
+      "example": "Not typically used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": ["slim"]
+    },
+    {
+      "id": "3D_197",
+      "word": "fatty",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Containing a large amount of fat.",
+      "example": "Fatty foods should be consumed in moderation.",
+      "synonyms": ["greasy"],
+      "antonyms": ["lean"]
+    },
+    {
+      "id": "3D_198",
+      "word": "feasibility",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The possibility of something being done.",
+      "example": "Researchers assessed the feasibility of the new treatment protocol.",
+      "synonyms": ["viability"],
+      "antonyms": ["infeasibility"]
+    },
+    {
+      "id": "3D_199",
+      "word": "feasible",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Possible to accomplish.",
+      "example": "A home-based recovery plan was deemed feasible for the patient.",
+      "synonyms": ["viable", "achievable"],
+      "antonyms": ["infeasible"]
+    },
+    {
+      "id": "3D_200",
+      "word": "fertility",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The ability to conceive children.",
+      "example": "Fertility treatments have helped many couples conceive.",
+      "synonyms": [],
+      "antonyms": ["infertility"]
+    },
+    {
+      "id": "3D_201",
+      "word": "fiber",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A dietary component that aids digestion.",
+      "example": "A diet high in fiber supports digestive health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_202",
+      "word": "fiber-optic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to technology using thin glass fibers.",
+      "example": "Fiber-optic instruments are used in minimally invasive surgery.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_203",
+      "word": "fiberglass",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A material made of fine glass fibers.",
+      "example": "Not typically used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_204",
+      "word": "fit",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In good physical health.",
+      "example": "Staying fit reduces the risk of many chronic diseases.",
+      "synonyms": ["healthy", "in shape"],
+      "antonyms": ["unfit"]
+    },
+    {
+      "id": "3D_205",
+      "word": "fitness",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being physically healthy.",
+      "example": "Regular fitness routines improve overall well-being.",
+      "synonyms": ["health"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_206",
+      "word": "food",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Substance consumed for nutrition.",
+      "example": "Access to nutritious food is essential for good health.",
+      "synonyms": ["nutrition"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_207",
+      "word": "glucose",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A sugar that is a major energy source in the body.",
+      "example": "Blood glucose levels must be carefully monitored in diabetics.",
+      "synonyms": ["blood sugar"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_208",
+      "word": "guideline",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A recommendation indicating a policy or procedure.",
+      "example": "The updated guideline recommends more frequent screening.",
+      "synonyms": ["recommendation"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_209",
+      "word": "heal",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To become healthy again.",
+      "example": "The wound began to heal within a week.",
+      "synonyms": ["recover", "mend"],
+      "antonyms": ["worsen"]
+    },
+    {
+      "id": "3D_210",
+      "word": "healer",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person or thing that heals.",
+      "example": "Traditional healers still play a role in some rural communities.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_211",
+      "word": "healing",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of becoming healthy again.",
+      "example": "Proper nutrition supports faster healing after surgery.",
+      "synonyms": ["recovery"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_212",
+      "word": "health",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being free from illness.",
+      "example": "Public health campaigns encourage regular exercise and a balanced diet.",
+      "synonyms": ["wellness"],
+      "antonyms": ["illness"]
+    },
+    {
+      "id": "3D_213",
+      "word": "health-related",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Connected to health.",
+      "example": "Health-related expenses can place a significant burden on families.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_214",
+      "word": "healthful",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Beneficial to health.",
+      "example": "A healthful diet includes plenty of fruits and vegetables.",
+      "synonyms": ["healthy", "nutritious"],
+      "antonyms": ["unhealthful"]
+    },
+    {
+      "id": "3D_215",
+      "word": "healthy",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In good health; beneficial to health.",
+      "example": "A healthy lifestyle reduces the risk of chronic disease.",
+      "synonyms": ["fit", "well"],
+      "antonyms": ["unhealthy"]
+    },
+    {
+      "id": "3D_216",
+      "word": "hereditary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Passed genetically from parent to offspring.",
+      "example": "Some forms of cancer have a hereditary component.",
+      "synonyms": ["inherited", "genetic"],
+      "antonyms": ["acquired"]
+    },
+    {
+      "id": "3D_217",
+      "word": "holistic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Considering the whole person rather than just symptoms.",
+      "example": "Holistic care addresses physical, mental, and emotional health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_218",
+      "word": "hormonal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to hormones.",
+      "example": "Hormonal imbalances can affect mood and energy levels.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_219",
+      "word": "hormone",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chemical messenger produced by the body.",
+      "example": "Insulin is a hormone that regulates blood sugar.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_220",
+      "word": "hospice",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A facility providing care for the terminally ill.",
+      "example": "The hospice offered comfort care in the patient's final weeks.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_221",
+      "word": "hospital",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An institution providing medical treatment.",
+      "example": "She was admitted to the hospital for observation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_222",
+      "word": "hospitality",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The friendly reception of guests.",
+      "example": "Not typically used in medical contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_223",
+      "word": "hospitalization",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Admission to a hospital for treatment.",
+      "example": "Hospitalization was required due to the severity of the infection.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_224",
+      "word": "hospitalize",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To admit someone to a hospital.",
+      "example": "Doctors decided to hospitalize the patient for further observation.",
+      "synonyms": ["admit"],
+      "antonyms": ["discharge"]
+    },
+    {
+      "id": "3D_225",
+      "word": "hygiene",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Practices conducive to maintaining health and preventing disease.",
+      "example": "Good hygiene reduces the spread of infectious disease.",
+      "synonyms": ["cleanliness"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_226",
+      "word": "ill",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Unwell; affected by illness.",
+      "example": "She felt ill after eating the contaminated food.",
+      "synonyms": ["sick", "unwell"],
+      "antonyms": ["well", "healthy"]
+    },
+    {
+      "id": "3D_227",
+      "word": "illness",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A disease or period of poor health.",
+      "example": "Chronic illness affects millions of people worldwide.",
+      "synonyms": ["sickness", "disease"],
+      "antonyms": ["health"]
+    },
+    {
+      "id": "3D_228",
+      "word": "immune",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Resistant to a particular infection or disease.",
+      "example": "Vaccination helps the body become immune to certain diseases.",
+      "synonyms": ["resistant", "protected"],
+      "antonyms": ["susceptible"]
+    },
+    {
+      "id": "3D_229",
+      "word": "immunity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The ability to resist a particular infection.",
+      "example": "Natural immunity can develop after exposure to a virus.",
+      "synonyms": ["resistance"],
+      "antonyms": ["susceptibility"]
+    },
+    {
+      "id": "3D_230",
+      "word": "immunization",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of making a person immune to infection.",
+      "example": "Childhood immunization has significantly reduced disease outbreaks.",
+      "synonyms": ["vaccination"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_231",
+      "word": "immunize",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To make immune, especially through vaccination.",
+      "example": "Parents are encouraged to immunize their children on schedule.",
+      "synonyms": ["vaccinate"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_232",
+      "word": "incidence",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The rate of occurrence of something.",
+      "example": "The incidence of the disease has declined significantly.",
+      "synonyms": ["rate", "frequency"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_233",
+      "word": "incident",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An event, especially one that is unusual.",
+      "example": "The safety incident prompted a review of hospital protocols.",
+      "synonyms": ["event", "occurrence"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_234",
+      "word": "incidental",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Happening as a minor accompaniment.",
+      "example": "The scan revealed an incidental finding unrelated to her symptoms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_235",
+      "word": "incidentally",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "By chance; used to introduce a related point.",
+      "example": "Incidentally, the treatment also improved her sleep quality.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_236",
+      "word": "inequity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Lack of fairness or justice.",
+      "example": "Health inequity remains a significant global challenge.",
+      "synonyms": ["unfairness", "disparity"],
+      "antonyms": ["equity"]
+    },
+    {
+      "id": "3D_237",
+      "word": "infant",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A very young child.",
+      "example": "Infants require frequent checkups during their first year.",
+      "synonyms": ["baby"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_238",
+      "word": "infantry",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Soldiers who fight on foot.",
+      "example": "Not relevant to health vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_239",
+      "word": "infect",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To contaminate with a disease-causing organism.",
+      "example": "The virus can infect healthy cells within hours.",
+      "synonyms": ["contaminate"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_240",
+      "word": "infected",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Contaminated with a disease-causing organism.",
+      "example": "The infected wound required immediate treatment.",
+      "synonyms": ["contaminated"],
+      "antonyms": ["uninfected"]
+    },
+    {
+      "id": "3D_241",
+      "word": "infection",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The invasion of the body by disease-causing organisms.",
+      "example": "The infection spread quickly without proper treatment.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_242",
+      "word": "infectious",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Capable of being transmitted as an infection.",
+      "example": "Infectious diseases spread rapidly in crowded environments.",
+      "synonyms": ["contagious"],
+      "antonyms": ["noninfectious"]
+    },
+    {
+      "id": "3D_243",
+      "word": "inflame",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To cause inflammation in.",
+      "example": "The irritant can inflame the skin upon contact.",
+      "synonyms": ["irritate"],
+      "antonyms": ["soothe"]
+    },
+    {
+      "id": "3D_244",
+      "word": "inflammation",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A localized response involving swelling and redness.",
+      "example": "Chronic inflammation is linked to several serious diseases.",
+      "synonyms": ["swelling"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_245",
+      "word": "inflammatory",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Causing or relating to inflammation.",
+      "example": "Anti-inflammatory medication reduces swelling and pain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_246",
+      "word": "influenza",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A highly contagious viral infection.",
+      "example": "Influenza vaccines are updated annually to match circulating strains.",
+      "synonyms": ["flu"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_247",
+      "word": "insulin",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A hormone that regulates blood sugar levels.",
+      "example": "Diabetics often require insulin injections to manage their condition.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_248",
+      "word": "insurance",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Protection against financial loss, including medical costs.",
+      "example": "Health insurance covers a portion of hospital expenses.",
+      "synonyms": ["coverage"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_249",
+      "word": "intensive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Involving thorough or vigorous effort.",
+      "example": "The patient was moved to intensive care after surgery.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_250",
+      "word": "intensively",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In an intensive manner.",
+      "example": "Patients in critical condition are monitored intensively.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_251",
+      "word": "life",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The condition that distinguishes living organisms.",
+      "example": "Improved sanitation has extended average life expectancy.",
+      "synonyms": [],
+      "antonyms": ["death"]
+    },
+    {
+      "id": "3D_252",
+      "word": "lifestyle",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The way in which a person lives.",
+      "example": "A sedentary lifestyle increases the risk of heart disease.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_253",
+      "word": "longevity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A long life span.",
+      "example": "A balanced diet contributes to greater longevity.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_254",
+      "word": "malaria",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A mosquito-borne infectious disease.",
+      "example": "Malaria remains a leading cause of death in tropical regions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_255",
+      "word": "malnutrition",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A lack of proper nutrition.",
+      "example": "Malnutrition weakens the immune system, increasing disease risk.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_256",
+      "word": "maternal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to a mother.",
+      "example": "Maternal health directly affects infant outcomes.",
+      "synonyms": [],
+      "antonyms": ["paternal"]
+    },
+    {
+      "id": "3D_257",
+      "word": "maternity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being pregnant or a mother.",
+      "example": "The hospital's maternity ward welcomed a record number of births.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_258",
+      "word": "medic",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person trained to give medical treatment, especially in emergencies.",
+      "example": "A medic treated the injured hiker on-site.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_259",
+      "word": "medicaid",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A US government health insurance program for low-income individuals.",
+      "example": "Medicaid covers essential healthcare services for eligible families.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_260",
+      "word": "medical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the treatment of illness.",
+      "example": "She sought medical advice after noticing the symptoms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_261",
+      "word": "medically",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a manner relating to medicine.",
+      "example": "The condition was medically diagnosed after extensive testing.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_262",
+      "word": "medication",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance used to treat illness.",
+      "example": "She takes daily medication to manage her blood pressure.",
+      "synonyms": ["drug", "medicine"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_263",
+      "word": "medicinal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having healing properties.",
+      "example": "Certain herbs have long been used for medicinal purposes.",
+      "synonyms": ["therapeutic"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_264",
+      "word": "medicine",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The science of diagnosing and treating disease.",
+      "example": "Modern medicine has significantly extended human life expectancy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_265",
+      "word": "mental",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the mind.",
+      "example": "Mental health is as important as physical health.",
+      "synonyms": [],
+      "antonyms": ["physical"]
+    },
+    {
+      "id": "3D_266",
+      "word": "mental-health",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person's psychological well-being.",
+      "example": "Mental-health support is increasingly integrated into primary care.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_267",
+      "word": "mentality",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A characteristic way of thinking.",
+      "example": "A positive mentality can support recovery from illness.",
+      "synonyms": ["outlook", "mindset"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_268",
+      "word": "mentally",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In relation to the mind.",
+      "example": "She felt mentally exhausted after the difficult diagnosis.",
+      "synonyms": [],
+      "antonyms": ["physically"]
+    },
+    {
+      "id": "3D_269",
+      "word": "metabolic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to metabolism.",
+      "example": "Metabolic disorders can affect how the body processes energy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_270",
+      "word": "metabolism",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The chemical processes that maintain life.",
+      "example": "A slower metabolism can contribute to weight gain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_271",
+      "word": "mineral",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A naturally occurring inorganic substance essential to health.",
+      "example": "Calcium is an essential mineral for bone health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_272",
+      "word": "mobilization",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of organizing resources for action.",
+      "example": "Rapid mobilization of medical staff helped contain the outbreak.",
+      "synonyms": ["deployment"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_273",
+      "word": "mobilize",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To organize resources for action.",
+      "example": "Health officials mobilized resources to respond to the epidemic.",
+      "synonyms": ["deploy", "organize"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_274",
+      "word": "monitor",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To observe and check over time.",
+      "example": "Doctors monitor the patient's vital signs closely.",
+      "synonyms": ["observe", "track"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_275",
+      "word": "monitoring",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of observing and checking.",
+      "example": "Continuous monitoring is essential for critical care patients.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_276",
+      "word": "morbidity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being diseased.",
+      "example": "Obesity is associated with increased morbidity from related conditions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_277",
+      "word": "mortality",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being subject to death; the death rate.",
+      "example": "Infant mortality has declined significantly due to improved healthcare.",
+      "synonyms": ["death rate"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_278",
+      "word": "motive",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A reason for doing something.",
+      "example": "The patient's motive for seeking treatment was chronic pain.",
+      "synonyms": ["reason"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_279",
+      "word": "neurological",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the nervous system.",
+      "example": "The symptoms suggested an underlying neurological condition.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_280",
+      "word": "neurologist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A doctor specializing in the nervous system.",
+      "example": "The neurologist ordered an MRI to examine the brain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_281",
+      "word": "neuron",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A nerve cell.",
+      "example": "Neurons transmit electrical signals throughout the nervous system.",
+      "synonyms": ["nerve cell"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_282",
+      "word": "neuroscience",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The scientific study of the nervous system.",
+      "example": "Neuroscience has advanced our understanding of mental illness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_283",
+      "word": "neurosurgeon",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A surgeon specializing in the nervous system.",
+      "example": "The neurosurgeon performed the delicate brain surgery.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_284",
+      "word": "neurotic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to or affected by neurosis; excessively anxious.",
+      "example": "Her neurotic worry about her health caused unnecessary stress.",
+      "synonyms": ["anxious"],
+      "antonyms": ["calm"]
+    },
+    {
+      "id": "3D_285",
+      "word": "neurotransmitter",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chemical that transmits nerve signals.",
+      "example": "Serotonin is a neurotransmitter linked to mood regulation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_286",
+      "word": "nurse",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person trained to care for the sick.",
+      "example": "The nurse monitored the patient's recovery throughout the night.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_287",
+      "word": "nursery",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A room designed for young children, or a facility for infants.",
+      "example": "The hospital's nursery cares for newborns before discharge.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_288",
+      "word": "nursing",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The profession of caring for the sick.",
+      "example": "Nursing requires both clinical skill and compassion.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_289",
+      "word": "nutrition",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of providing food necessary for health.",
+      "example": "Proper nutrition is essential during recovery from illness.",
+      "synonyms": ["diet"],
+      "antonyms": ["malnutrition"]
+    },
+    {
+      "id": "3D_290",
+      "word": "nutritional",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to nutrition.",
+      "example": "The label lists the nutritional content of the product.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_291",
+      "word": "nutritionist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An expert in nutrition.",
+      "example": "The nutritionist designed a diet plan for the diabetic patient.",
+      "synonyms": ["dietitian"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_292",
+      "word": "nutritious",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Efficient as food; nourishing.",
+      "example": "A nutritious breakfast improves concentration throughout the day.",
+      "synonyms": ["healthy", "nourishing"],
+      "antonyms": ["unhealthy"]
+    },
+    {
+      "id": "3D_293",
+      "word": "obese",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Very overweight.",
+      "example": "Obese patients face higher risks of cardiovascular disease.",
+      "synonyms": ["overweight"],
+      "antonyms": ["underweight"]
+    },
+    {
+      "id": "3D_294",
+      "word": "obesity",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The condition of being very overweight.",
+      "example": "Obesity rates have risen significantly in recent decades.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_295",
+      "word": "organ",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A part of the body with a specific function.",
+      "example": "The transplant restored function to the failing organ.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_296",
+      "word": "organic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to living matter, or free from synthetic chemicals.",
+      "example": "Some patients prefer organic food to reduce pesticide exposure.",
+      "synonyms": ["natural"],
+      "antonyms": ["synthetic"]
+    },
+    {
+      "id": "3D_297",
+      "word": "organically",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a manner relating to organic methods.",
+      "example": "The farm grows produce organically to avoid chemical residue.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_298",
+      "word": "organism",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An individual living thing.",
+      "example": "The infection is caused by a microscopic organism.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_299",
+      "word": "organization",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An organized group with a particular purpose.",
+      "example": "The health organization launched a nationwide vaccination campaign.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_300",
+      "word": "organizational",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to an organization.",
+      "example": "Organizational challenges delayed the rollout of the new health program.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_301",
+      "word": "organize",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To arrange systematically.",
+      "example": "Volunteers organized a free health screening event.",
+      "synonyms": ["arrange", "coordinate"],
+      "antonyms": ["disorganize"]
+    },
+    {
+      "id": "3D_302",
+      "word": "organized",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Arranged systematically.",
+      "example": "An organized care plan improved the patient's recovery.",
+      "synonyms": ["structured"],
+      "antonyms": ["disorganized"]
+    },
+    {
+      "id": "3D_303",
+      "word": "organizer",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who arranges an event or activity.",
+      "example": "The event organizer coordinated with local health officials.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_304",
+      "word": "organizing",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of arranging.",
+      "example": "Organizing patient records improved the clinic's efficiency.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_305",
+      "word": "outbreak",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A sudden occurrence of disease.",
+      "example": "Health officials moved quickly to contain the outbreak.",
+      "synonyms": ["epidemic"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_306",
+      "word": "outreach",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An effort to provide services to a wider community.",
+      "example": "The clinic's outreach program serves underinsured families.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_307",
+      "word": "overweight",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Weighing more than is healthy.",
+      "example": "Being overweight increases the risk of several chronic diseases.",
+      "synonyms": [],
+      "antonyms": ["underweight"]
+    },
+    {
+      "id": "3D_308",
+      "word": "pain",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Physical suffering caused by illness or injury.",
+      "example": "Chronic pain significantly affects quality of life.",
+      "synonyms": ["ache", "discomfort"],
+      "antonyms": ["comfort"]
+    },
+    {
+      "id": "3D_309",
+      "word": "pandemic",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A disease occurring over a wide geographic area.",
+      "example": "The pandemic placed unprecedented strain on healthcare systems.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_310",
+      "word": "parasite",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An organism that lives on or in a host organism.",
+      "example": "The parasite caused severe intestinal illness in affected patients.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_311",
+      "word": "pathogen",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A microorganism that can cause disease.",
+      "example": "The pathogen spread rapidly through contaminated water.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_312",
+      "word": "pathological",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to disease or its study.",
+      "example": "The pathological report confirmed the presence of malignant cells.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_313",
+      "word": "pathologist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A scientist who studies disease.",
+      "example": "The pathologist examined the tissue sample under a microscope.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_314",
+      "word": "pathology",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The study of disease.",
+      "example": "Pathology reports guide decisions about further treatment.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_315",
+      "word": "patient",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person receiving medical treatment.",
+      "example": "The patient responded well to the new treatment plan.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_316",
+      "word": "patiently",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "With patience.",
+      "example": "She waited patiently for the test results.",
+      "synonyms": [],
+      "antonyms": ["impatiently"]
+    },
+    {
+      "id": "3D_317",
+      "word": "pediatric",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the medical care of children.",
+      "example": "The hospital opened a new pediatric ward.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_318",
+      "word": "pediatrician",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A doctor specializing in children's health.",
+      "example": "The pediatrician recommended a routine vaccination schedule.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_319",
+      "word": "pharmaceutical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to drugs or their production.",
+      "example": "The pharmaceutical company developed a new vaccine.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_320",
+      "word": "pharmacist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person qualified to prepare and dispense medicine.",
+      "example": "The pharmacist advised on potential drug interactions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_321",
+      "word": "physical",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the body rather than the mind.",
+      "example": "Physical activity is essential for maintaining good health.",
+      "synonyms": ["bodily"],
+      "antonyms": ["mental"]
+    },
+    {
+      "id": "3D_322",
+      "word": "physically",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a way relating to the body.",
+      "example": "She felt physically drained after the long recovery.",
+      "synonyms": [],
+      "antonyms": ["mentally"]
+    },
+    {
+      "id": "3D_323",
+      "word": "physician",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A qualified practitioner of medicine.",
+      "example": "Her physician recommended lifestyle changes to manage her condition.",
+      "synonyms": ["doctor"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_324",
+      "word": "physicist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A scientist who studies physics.",
+      "example": "Not directly related to health, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_325",
+      "word": "physics",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The study of matter and energy.",
+      "example": "Not directly related to health, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_326",
+      "word": "physiological",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the body's normal functions.",
+      "example": "Stress can trigger a range of physiological responses.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_327",
+      "word": "physiologist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A scientist who studies bodily functions.",
+      "example": "The physiologist studied how exercise affects heart rate.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_328",
+      "word": "physiology",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The study of the normal functions of living organisms.",
+      "example": "Physiology explains how the body regulates temperature.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_329",
+      "word": "placebo",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An inactive substance used as a control in trials.",
+      "example": "The placebo group showed no measurable improvement in symptoms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_330",
+      "word": "pregnancy",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The condition of carrying a developing fetus.",
+      "example": "Regular checkups are important throughout pregnancy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_331",
+      "word": "prevent",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To stop something from happening.",
+      "example": "Vaccines help prevent the spread of infectious disease.",
+      "synonyms": ["avert", "avoid"],
+      "antonyms": ["cause"]
+    },
+    {
+      "id": "3D_332",
+      "word": "preventable",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Able to be prevented.",
+      "example": "Many chronic diseases are preventable through lifestyle changes.",
+      "synonyms": [],
+      "antonyms": ["unavoidable"]
+    },
+    {
+      "id": "3D_333",
+      "word": "preventative",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Designed to prevent disease.",
+      "example": "Preventative care reduces the need for costly treatment later.",
+      "synonyms": ["preventive"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_334",
+      "word": "prevention",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of preventing something.",
+      "example": "Disease prevention is a key focus of public health policy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_335",
+      "word": "preventive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Designed to prevent disease.",
+      "example": "Preventive screenings can detect illness before symptoms appear.",
+      "synonyms": ["preventative"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_336",
+      "word": "prima",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "First or foremost, as in prima facie.",
+      "example": "Not commonly used independently in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_337",
+      "word": "primacy",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being most important.",
+      "example": "Patient safety holds primacy in hospital policy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_338",
+      "word": "primal",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to basic instincts.",
+      "example": "Fear can trigger a primal stress response in the body.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_339",
+      "word": "primarily",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "For the most part; mainly.",
+      "example": "The disease primarily affects older adults.",
+      "synonyms": ["mainly", "mostly"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_340",
+      "word": "primary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Main or most important.",
+      "example": "Primary care physicians coordinate a patient's overall treatment.",
+      "synonyms": ["main", "principal"],
+      "antonyms": ["secondary"]
+    },
+    {
+      "id": "3D_341",
+      "word": "primate",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A mammal of the order including humans and apes.",
+      "example": "Not commonly used in general health vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_342",
+      "word": "prime",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Of the best quality; main.",
+      "example": "Obesity is a prime risk factor for cardiovascular disease.",
+      "synonyms": ["main", "principal"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_343",
+      "word": "primer",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An introductory explanation.",
+      "example": "The pamphlet serves as a primer on managing diabetes.",
+      "synonyms": ["introduction"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_344",
+      "word": "primeval",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the earliest ages of the world.",
+      "example": "Not commonly used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_345",
+      "word": "primitive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to an early stage of development.",
+      "example": "Primitive medical practices have largely been replaced by modern methods.",
+      "synonyms": [],
+      "antonyms": ["advanced"]
+    },
+    {
+      "id": "3D_346",
+      "word": "primordial",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Existing at the very beginning of time.",
+      "example": "Not commonly used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_347",
+      "word": "proactive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Acting in anticipation of future problems.",
+      "example": "Proactive screening helps catch disease at an early stage.",
+      "synonyms": [],
+      "antonyms": ["reactive"]
+    },
+    {
+      "id": "3D_348",
+      "word": "process",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A series of actions to achieve a result.",
+      "example": "The body's process for metabolizing sugar can be disrupted by disease.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_349",
+      "word": "processed",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having undergone significant preparation, often referring to food.",
+      "example": "Processed food often contains high levels of sodium and sugar.",
+      "synonyms": [],
+      "antonyms": ["unprocessed"]
+    },
+    {
+      "id": "3D_350",
+      "word": "processing",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of preparing or handling.",
+      "example": "Processing of lab samples typically takes 24 to 48 hours.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_351",
+      "word": "procession",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A group of people moving in a formal manner.",
+      "example": "Not commonly used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_352",
+      "word": "processor",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A machine or system that processes something.",
+      "example": "Not directly related to health, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_353",
+      "word": "prognosis",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A forecast of the likely course of a disease.",
+      "example": "The doctor gave an optimistic prognosis for full recovery.",
+      "synonyms": ["outlook", "forecast"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_354",
+      "word": "protein",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An essential nutrient made of amino acids.",
+      "example": "Protein is essential for muscle repair and growth.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_355",
+      "word": "psychiatric",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to mental illness.",
+      "example": "The patient was referred for a psychiatric evaluation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_356",
+      "word": "psychiatrist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A doctor specializing in mental health.",
+      "example": "The psychiatrist prescribed medication to manage her anxiety.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_357",
+      "word": "psychiatry",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The branch of medicine dealing with mental illness.",
+      "example": "Psychiatry combines medication and therapy to treat mental illness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_358",
+      "word": "psychological",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the mind.",
+      "example": "The trauma had a lasting psychological impact.",
+      "synonyms": ["mental"],
+      "antonyms": ["physical"]
+    },
+    {
+      "id": "3D_359",
+      "word": "psychologically",
+      "type": "adverb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "In a manner relating to the mind.",
+      "example": "She was psychologically prepared for the difficult surgery.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_360",
+      "word": "psychologist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who studies the mind and behavior.",
+      "example": "The psychologist helped her develop coping strategies for stress.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_361",
+      "word": "psychology",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The scientific study of the mind and behavior.",
+      "example": "Psychology plays a key role in understanding chronic pain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_362",
+      "word": "recover",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To return to a normal state of health.",
+      "example": "Most patients recover fully within a few weeks.",
+      "synonyms": ["heal", "improve"],
+      "antonyms": ["relapse"]
+    },
+    {
+      "id": "3D_363",
+      "word": "recovery",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of returning to health.",
+      "example": "Full recovery from the surgery took several months.",
+      "synonyms": ["healing"],
+      "antonyms": ["relapse"]
+    },
+    {
+      "id": "3D_364",
+      "word": "rehabilitate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To restore to health through therapy.",
+      "example": "Physical therapy helped rehabilitate her injured knee.",
+      "synonyms": ["restore"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_365",
+      "word": "rehabilitation",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of restoring someone to health.",
+      "example": "Rehabilitation after the stroke included both physical and speech therapy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_366",
+      "word": "reproduce",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To produce offspring.",
+      "example": "Some infections can affect the ability to reproduce.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_367",
+      "word": "reproduction",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The biological process of producing offspring.",
+      "example": "Reproduction relies on the healthy function of multiple organ systems.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_368",
+      "word": "reproductive",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to reproduction.",
+      "example": "Reproductive health is an important aspect of overall wellness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_369",
+      "word": "resistance",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The ability to withstand something, such as infection.",
+      "example": "Antibiotic resistance is a growing global health concern.",
+      "synonyms": [],
+      "antonyms": ["susceptibility"]
+    },
+    {
+      "id": "3D_370",
+      "word": "respiration",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The process of breathing.",
+      "example": "Respiration rate is a key vital sign monitored by clinicians.",
+      "synonyms": ["breathing"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_371",
+      "word": "respirator",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A device to assist or protect breathing.",
+      "example": "The patient was placed on a respirator during recovery.",
+      "synonyms": ["ventilator"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_372",
+      "word": "respiratory",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to breathing.",
+      "example": "Respiratory illness increased during the winter months.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_373",
+      "word": "rest",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A period of relaxation or sleep.",
+      "example": "Adequate rest is essential for recovery from illness.",
+      "synonyms": ["sleep", "relaxation"],
+      "antonyms": ["activity"]
+    },
+    {
+      "id": "3D_374",
+      "word": "run",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To move quickly on foot; a form of exercise.",
+      "example": "Running regularly improves cardiovascular fitness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_375",
+      "word": "safe",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Protected from danger or risk.",
+      "example": "The vaccine was declared safe after extensive testing.",
+      "synonyms": ["secure"],
+      "antonyms": ["unsafe"]
+    },
+    {
+      "id": "3D_376",
+      "word": "salt",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A mineral used to season food, high intake linked to health risk.",
+      "example": "Excess salt intake is linked to high blood pressure.",
+      "synonyms": ["sodium"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_377",
+      "word": "salted",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Seasoned or preserved with salt.",
+      "example": "Salted snacks contribute significantly to daily sodium intake.",
+      "synonyms": [],
+      "antonyms": ["unsalted"]
+    },
+    {
+      "id": "3D_378",
+      "word": "saltwater",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Water containing salt, as in the sea.",
+      "example": "Not typically used in health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": ["freshwater"]
+    },
+    {
+      "id": "3D_379",
+      "word": "salty",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Containing or tasting of salt.",
+      "example": "A salty diet can increase the risk of hypertension.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_380",
+      "word": "sanitation",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Conditions relating to public health, especially clean water and sewage.",
+      "example": "Improved sanitation has significantly reduced disease transmission.",
+      "synonyms": ["hygiene"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_381",
+      "word": "screen",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To test for the presence of disease.",
+      "example": "Doctors screen for diabetes during routine checkups.",
+      "synonyms": ["test", "check"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_382",
+      "word": "screener",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person or device that conducts screening.",
+      "example": "The screener flagged several patients for follow-up testing.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_383",
+      "word": "screening",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The testing of people for the presence of disease.",
+      "example": "Regular cancer screening improves early detection rates.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_384",
+      "word": "screenplay",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The script of a film.",
+      "example": "Not relevant to health vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_385",
+      "word": "screenwriter",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who writes screenplays.",
+      "example": "Not relevant to health vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_386",
+      "word": "sedentary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Characterized by sitting with little physical activity.",
+      "example": "A sedentary lifestyle increases the risk of obesity and heart disease.",
+      "synonyms": ["inactive"],
+      "antonyms": ["active"]
+    },
+    {
+      "id": "3D_387",
+      "word": "sick",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Affected by illness.",
+      "example": "She stayed home because she felt sick.",
+      "synonyms": ["ill", "unwell"],
+      "antonyms": ["healthy"]
+    },
+    {
+      "id": "3D_388",
+      "word": "sleep",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A state of rest for the body and mind.",
+      "example": "Adequate sleep is essential for immune function and recovery.",
+      "synonyms": ["rest"],
+      "antonyms": ["wakefulness"]
+    },
+    {
+      "id": "3D_389",
+      "word": "slim",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having a thin, lean body.",
+      "example": "A slim build does not always indicate good health.",
+      "synonyms": ["thin", "lean"],
+      "antonyms": ["overweight"]
+    },
+    {
+      "id": "3D_390",
+      "word": "smoke",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To inhale and exhale tobacco smoke.",
+      "example": "Patients who smoke face a higher risk of respiratory disease.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_391",
+      "word": "smoked",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Having been exposed to smoke; having smoked tobacco.",
+      "example": "Smoked foods can contain higher levels of certain carcinogens.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_392",
+      "word": "smoker",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person who smokes tobacco.",
+      "example": "Smokers are at a significantly higher risk for lung cancer.",
+      "synonyms": [],
+      "antonyms": ["nonsmoker"]
+    },
+    {
+      "id": "3D_393",
+      "word": "smokestack",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chimney releasing smoke from an industrial process.",
+      "example": "Not typically used in individual health contexts, but included as vocabulary.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_394",
+      "word": "smoking",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The practice of inhaling tobacco smoke.",
+      "example": "Smoking remains a leading cause of preventable death.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_395",
+      "word": "smoky",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Filled with or resembling smoke.",
+      "example": "Smoky air from wildfires can worsen respiratory conditions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_396",
+      "word": "sodium",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chemical element found in salt.",
+      "example": "High sodium intake is linked to increased blood pressure.",
+      "synonyms": ["salt"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_397",
+      "word": "specialist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A doctor who focuses on a particular area of medicine.",
+      "example": "She was referred to a specialist for further evaluation.",
+      "synonyms": [],
+      "antonyms": ["generalist"]
+    },
+    {
+      "id": "3D_398",
+      "word": "stress",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Mental or emotional strain.",
+      "example": "Chronic stress can negatively affect both mental and physical health.",
+      "synonyms": ["strain", "pressure"],
+      "antonyms": ["relaxation"]
+    },
+    {
+      "id": "3D_399",
+      "word": "stressful",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Causing mental or emotional strain.",
+      "example": "A stressful work environment can contribute to burnout.",
+      "synonyms": [],
+      "antonyms": ["relaxing"]
+    },
+    {
+      "id": "3D_400",
+      "word": "stressor",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A factor causing stress.",
+      "example": "Identifying stressors is an important step in managing anxiety.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_401",
+      "word": "substance",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A material with particular physical properties, especially a drug.",
+      "example": "Substance use disorders require specialized treatment approaches.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_402",
+      "word": "sugar",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A sweet substance used to season and preserve food.",
+      "example": "Excess sugar intake is linked to obesity and diabetes.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_403",
+      "word": "sugary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Containing a lot of sugar.",
+      "example": "Sugary drinks contribute significantly to daily calorie intake.",
+      "synonyms": ["sweet"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_404",
+      "word": "supplement",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Something added to a diet to make up for a deficiency.",
+      "example": "She takes a vitamin D supplement during the winter months.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_405",
+      "word": "supplemental",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Added to complete or enhance something.",
+      "example": "Supplemental oxygen was provided during the flight for the patient.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_406",
+      "word": "supplementary",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Additional; supplementing something.",
+      "example": "Supplementary iron may be recommended for patients with anemia.",
+      "synonyms": ["additional"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_407",
+      "word": "supplementation",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The act of adding a supplement.",
+      "example": "Calcium supplementation supports bone health in older adults.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_408",
+      "word": "surgeon",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A doctor who performs surgery.",
+      "example": "The surgeon successfully removed the tumor.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_409",
+      "word": "surgery",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Medical treatment involving cutting into the body.",
+      "example": "She underwent surgery to repair the damaged ligament.",
+      "synonyms": ["operation"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_410",
+      "word": "swim",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To move through water using the limbs.",
+      "example": "Swimming is a low-impact exercise recommended for joint health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_411",
+      "word": "symptom",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A physical or mental sign indicating disease.",
+      "example": "Fatigue is a common symptom of several chronic illnesses.",
+      "synonyms": ["sign", "indication"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_412",
+      "word": "symptomatic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Showing symptoms of a disease.",
+      "example": "The patient remained symptomatic despite the initial treatment.",
+      "synonyms": [],
+      "antonyms": ["asymptomatic"]
+    },
+    {
+      "id": "3D_413",
+      "word": "syndrome",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A group of symptoms consistently occurring together.",
+      "example": "Metabolic syndrome increases the risk of heart disease and diabetes.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_414",
+      "word": "therapeutic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to the treatment of disease.",
+      "example": "The therapeutic effects of exercise extend to mental health.",
+      "synonyms": ["healing"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_415",
+      "word": "therapist",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A person trained to provide therapy.",
+      "example": "She began seeing a therapist to manage her anxiety.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_416",
+      "word": "therapy",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Treatment intended to relieve or heal a disorder.",
+      "example": "Physical therapy helped restore mobility after the injury.",
+      "synonyms": ["treatment"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_417",
+      "word": "tobacco",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A plant whose leaves are used in cigarettes.",
+      "example": "Tobacco use remains a leading cause of preventable illness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_418",
+      "word": "tolerance",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The body's capacity to endure a substance or condition.",
+      "example": "Long-term use can lead to increased drug tolerance.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_419",
+      "word": "trauma",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A deeply distressing experience, or physical injury.",
+      "example": "The accident caused significant physical and psychological trauma.",
+      "synonyms": ["injury", "shock"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_420",
+      "word": "traumatic",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Deeply disturbing or distressing.",
+      "example": "The traumatic injury required extensive rehabilitation.",
+      "synonyms": ["distressing"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_421",
+      "word": "traumatize",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To cause lasting psychological harm.",
+      "example": "The experience traumatized the young patient significantly.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_422",
+      "word": "treatment",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Medical care given to a patient.",
+      "example": "Early treatment significantly improves the chances of recovery.",
+      "synonyms": ["therapy", "care"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_423",
+      "word": "trial",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A test of a treatment's safety and effectiveness.",
+      "example": "The drug is currently in the final phase of clinical trial.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_424",
+      "word": "tumor",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An abnormal mass of tissue.",
+      "example": "The tumor was successfully removed during surgery.",
+      "synonyms": ["growth"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_425",
+      "word": "vaccinate",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To treat with a vaccine to produce immunity.",
+      "example": "Parents are encouraged to vaccinate their children on schedule.",
+      "synonyms": ["immunize"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_426",
+      "word": "vaccination",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Treatment with a vaccine.",
+      "example": "Vaccination campaigns have significantly reduced disease outbreaks.",
+      "synonyms": ["immunization"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_427",
+      "word": "vaccine",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A substance used to stimulate immunity.",
+      "example": "The new vaccine showed strong effectiveness in clinical trials.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_428",
+      "word": "viral",
+      "type": "adjective",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "Relating to or caused by a virus.",
+      "example": "The illness was confirmed to be viral rather than bacterial.",
+      "synonyms": [],
+      "antonyms": ["bacterial"]
+    },
+    {
+      "id": "3D_429",
+      "word": "vitamin",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "An organic compound essential for normal growth and health.",
+      "example": "Vitamin C supports immune function.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_430",
+      "word": "walk",
+      "type": "verb",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "To move at a regular pace by lifting and setting down each foot.",
+      "example": "A daily walk can improve cardiovascular health.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3D_431",
+      "word": "well-being",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being comfortable, healthy, and happy.",
+      "example": "Mental well-being is just as important as physical health.",
+      "synonyms": ["welfare"],
+      "antonyms": []
+    },
+    {
+      "id": "3D_432",
+      "word": "wellness",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "The state of being in good health.",
+      "example": "The company introduced a wellness program for employees.",
+      "synonyms": ["health"],
+      "antonyms": ["illness"]
+    },
+    {
+      "id": "3D_433",
+      "word": "zinc",
+      "type": "noun",
+      "category": "Health, Diet, Medicine & Lifestyle",
+      "meaning": "A chemical element important for immune function.",
+      "example": "Zinc deficiency can weaken the immune system.",
+      "synonyms": [],
       "antonyms": []
     }
   ]

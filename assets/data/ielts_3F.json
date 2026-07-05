@@ -4,15 +4,3922 @@
   "words": [
     {
       "id": "3F_001",
-      "word": "placeholder",
+      "word": "acquisition",
       "type": "noun",
       "category": "Business, Economics, Globalization & Employment",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "The act of acquiring, especially a company.",
+      "example": "The acquisition of the startup expanded the firm's market share.",
+      "synonyms": ["takeover", "purchase"],
+      "antonyms": ["divestiture"]
+    },
+    {
+      "id": "3F_002",
+      "word": "activation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of making something operative.",
+      "example": "Activation of the new account required identity verification.",
+      "synonyms": [],
+      "antonyms": ["deactivation"]
+    },
+    {
+      "id": "3F_003",
+      "word": "advertise",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To promote a product or service.",
+      "example": "The company chose to advertise heavily during the holiday season.",
+      "synonyms": ["promote", "market"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_004",
+      "word": "advertisement",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A public promotion of a product or service.",
+      "example": "The advertisement targeted a younger demographic.",
+      "synonyms": ["ad", "commercial"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_005",
+      "word": "advertiser",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or company that advertises.",
+      "example": "Advertisers shifted their budgets toward digital platforms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_006",
+      "word": "advertising",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The business of promoting products or services.",
+      "example": "Advertising spending increased significantly last quarter.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_007",
+      "word": "afford",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To have enough money to pay for something.",
+      "example": "Many households can no longer afford basic necessities.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_008",
+      "word": "affordability",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of being affordable.",
+      "example": "Affordability remains a key concern for first-time homebuyers.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_009",
+      "word": "affordable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Able to be purchased without excessive strain.",
+      "example": "The company launched an affordable version of its product.",
+      "synonyms": ["inexpensive"],
+      "antonyms": ["expensive"]
+    },
+    {
+      "id": "3F_010",
+      "word": "agility",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to move or adapt quickly.",
+      "example": "Business agility allowed the firm to respond to market shifts.",
+      "synonyms": ["flexibility"],
+      "antonyms": ["rigidity"]
+    },
+    {
+      "id": "3F_011",
+      "word": "asset",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A resource with economic value.",
+      "example": "The company's most valuable asset is its intellectual property.",
+      "synonyms": ["resource"],
+      "antonyms": ["liability"]
+    },
+    {
+      "id": "3F_012",
+      "word": "auditor",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who inspects financial accounts.",
+      "example": "The auditor reviewed the company's financial statements.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_013",
+      "word": "auditorium",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A large room for public gatherings.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_014",
+      "word": "auditory",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to hearing.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_015",
+      "word": "austerity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Strict economic policies to reduce spending.",
+      "example": "The government introduced austerity measures to cut the deficit.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_016",
+      "word": "automate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To convert a process to operate automatically.",
+      "example": "The factory automated much of its production line.",
+      "synonyms": ["mechanize"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_017",
+      "word": "automated",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Operated automatically, with minimal human input.",
+      "example": "Automated systems have reduced labor costs significantly.",
+      "synonyms": [],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "3F_018",
+      "word": "automatic",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Operating independently of human control.",
+      "example": "The system generates automatic invoices for each transaction.",
+      "synonyms": [],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "3F_019",
+      "word": "automatically",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In an automatic manner.",
+      "example": "Payments are processed automatically each month.",
+      "synonyms": [],
+      "antonyms": ["manually"]
+    },
+    {
+      "id": "3F_020",
+      "word": "automation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The use of automatic equipment in a process.",
+      "example": "Automation has transformed manufacturing efficiency worldwide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_021",
+      "word": "balance",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The amount of money in an account, or equilibrium.",
+      "example": "The company maintained a healthy balance between debt and equity.",
+      "synonyms": ["equilibrium"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_022",
+      "word": "balanced",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having stability between different elements.",
+      "example": "A balanced budget avoids excessive borrowing.",
+      "synonyms": [],
+      "antonyms": ["unbalanced"]
+    },
+    {
+      "id": "3F_023",
+      "word": "balancing",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The act of achieving equilibrium.",
+      "example": "Balancing short-term profit with long-term growth is a key challenge.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_024",
+      "word": "bank",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A financial institution.",
+      "example": "The bank approved the small business loan.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_025",
+      "word": "banking",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The business of operating a bank.",
+      "example": "Digital banking has transformed how consumers manage money.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_026",
+      "word": "bankruptcy",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The legal status of being unable to pay debts.",
+      "example": "The company filed for bankruptcy after years of losses.",
+      "synonyms": ["insolvency"],
+      "antonyms": ["solvency"]
+    },
+    {
+      "id": "3F_027",
+      "word": "benefit",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An advantage, or non-wage compensation.",
+      "example": "Employee benefits include health insurance and paid leave.",
+      "synonyms": ["advantage"],
+      "antonyms": ["drawback"]
+    },
+    {
+      "id": "3F_028",
+      "word": "bid",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An offer of a price, especially in an auction or contract.",
+      "example": "The firm submitted the lowest bid for the contract.",
+      "synonyms": ["offer"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_029",
+      "word": "bilateral",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Involving two parties.",
+      "example": "The two countries signed a bilateral trade agreement.",
+      "synonyms": [],
+      "antonyms": ["multilateral"]
+    },
+    {
+      "id": "3F_030",
+      "word": "bond",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A debt security issued by a company or government.",
+      "example": "Investors purchased government bonds for steady returns.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_031",
+      "word": "bondage",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of being enslaved or bound.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": ["freedom"]
+    },
+    {
+      "id": "3F_032",
+      "word": "bonding",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of forming a close relationship.",
+      "example": "Team bonding activities were organized during the retreat.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_033",
+      "word": "brand",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A type of product manufactured by a particular company.",
+      "example": "The brand built strong loyalty among younger consumers.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_034",
+      "word": "brand-name",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to a well-known brand.",
+      "example": "Brand-name products often command a premium price.",
+      "synonyms": [],
+      "antonyms": ["generic"]
+    },
+    {
+      "id": "3F_035",
+      "word": "brand-new",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Completely new.",
+      "example": "The company launched a brand-new product line this quarter.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_036",
+      "word": "brandish",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To wave or flourish something.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_037",
+      "word": "brandy",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A strong alcoholic spirit.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_038",
+      "word": "budget",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An estimate of income and expenditure.",
+      "example": "The department exceeded its annual budget.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_039",
+      "word": "budgetary",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to a budget.",
+      "example": "Budgetary constraints delayed the project's launch.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_040",
+      "word": "business",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A commercial enterprise.",
+      "example": "The small business expanded into international markets.",
+      "synonyms": ["enterprise", "company"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_041",
+      "word": "businessman",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A man engaged in commerce.",
+      "example": "The businessman invested heavily in renewable energy.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_042",
+      "word": "buy",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To obtain in exchange for payment.",
+      "example": "Consumers are more likely to buy during seasonal sales.",
+      "synonyms": ["purchase"],
+      "antonyms": ["sell"]
+    },
+    {
+      "id": "3F_043",
+      "word": "buyout",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The purchase of a controlling share in a company.",
+      "example": "The private equity firm completed a buyout of the retailer.",
+      "synonyms": ["acquisition"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_044",
+      "word": "capital",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Wealth used to generate more wealth, or invested funds.",
+      "example": "The startup raised capital from several venture investors.",
+      "synonyms": ["funds", "assets"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_045",
+      "word": "capitalism",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An economic system based on private ownership.",
+      "example": "Capitalism relies on competition to drive innovation.",
+      "synonyms": [],
+      "antonyms": ["socialism"]
+    },
+    {
+      "id": "3F_046",
+      "word": "capitalist",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who supports capitalism, or relating to it.",
+      "example": "The capitalist economy rewards innovation and risk-taking.",
+      "synonyms": [],
+      "antonyms": ["socialist"]
+    },
+    {
+      "id": "3F_047",
+      "word": "capitalization",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The total value of a company's stock.",
+      "example": "The company's market capitalization exceeded a billion dollars.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_048",
+      "word": "capitalize",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To provide with capital, or to take advantage of.",
+      "example": "The firm capitalized on rising demand for electric vehicles.",
+      "synonyms": ["exploit", "leverage"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_049",
+      "word": "capitol",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A building where a legislature meets.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_050",
+      "word": "capitulate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To give in to demands.",
+      "example": "The company capitulated to shareholder pressure and changed its strategy.",
+      "synonyms": ["surrender", "yield"],
+      "antonyms": ["resist"]
+    },
+    {
+      "id": "3F_051",
+      "word": "cartel",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An association of manufacturers to fix prices.",
+      "example": "The cartel controlled a significant share of the oil market.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_052",
+      "word": "chain",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A group of related businesses, or a series of connected parts.",
+      "example": "The retail chain operates hundreds of stores nationwide.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_053",
+      "word": "chain-link",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to a fence made of connected wire.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_054",
+      "word": "chainsaw",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A mechanical saw with a rotating chain.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_055",
+      "word": "circular",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to a circle, or a circulated notice.",
+      "example": "The company issued a circular to inform shareholders of the merger.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_056",
+      "word": "collateral",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Property pledged as security for a loan.",
+      "example": "The bank required collateral before approving the loan.",
+      "synonyms": ["security"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_057",
+      "word": "commodity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A raw material or primary product that can be traded.",
+      "example": "Oil is one of the most heavily traded commodities in the world.",
+      "synonyms": ["goods"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_058",
+      "word": "compensate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To give something to make up for loss or harm.",
+      "example": "The airline agreed to compensate passengers for the delay.",
+      "synonyms": ["reimburse", "pay"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_059",
+      "word": "compensation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Payment for work, loss, or damage.",
+      "example": "Employee compensation includes salary and benefits.",
+      "synonyms": ["pay", "remuneration"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_060",
+      "word": "compensatory",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Intended to compensate.",
+      "example": "Compensatory damages were awarded to the affected employees.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_061",
+      "word": "compete",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To strive to gain an advantage over rivals.",
+      "example": "Small businesses often struggle to compete with large corporations.",
+      "synonyms": ["contend", "rival"],
+      "antonyms": ["cooperate"]
+    },
+    {
+      "id": "3F_062",
+      "word": "competence",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to do something successfully.",
+      "example": "The manager demonstrated strong competence in crisis management.",
+      "synonyms": ["skill", "ability"],
+      "antonyms": ["incompetence"]
+    },
+    {
+      "id": "3F_063",
+      "word": "competency",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A required skill or ability.",
+      "example": "Financial literacy is a key competency for managers.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_064",
+      "word": "competent",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having the necessary ability to do something well.",
+      "example": "The competent team handled the merger smoothly.",
+      "synonyms": ["capable", "skilled"],
+      "antonyms": ["incompetent"]
+    },
+    {
+      "id": "3F_065",
+      "word": "competing",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Striving to gain an advantage over others.",
+      "example": "Competing firms lowered prices to attract customers.",
+      "synonyms": ["rival"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_066",
+      "word": "competition",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The activity of competing.",
+      "example": "Increased competition forced prices down across the industry.",
+      "synonyms": ["rivalry"],
+      "antonyms": ["cooperation"]
+    },
+    {
+      "id": "3F_067",
+      "word": "competitive",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to or marked by competition.",
+      "example": "The company adopted a competitive pricing strategy.",
+      "synonyms": [],
+      "antonyms": ["uncompetitive"]
+    },
+    {
+      "id": "3F_068",
+      "word": "competitiveness",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The quality of being competitive.",
+      "example": "Innovation is key to maintaining global competitiveness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_069",
+      "word": "competitor",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or company competing with another.",
+      "example": "The firm monitors its competitors closely for pricing changes.",
+      "synonyms": ["rival"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_070",
+      "word": "conglomerate",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A large corporation formed from several smaller companies.",
+      "example": "The conglomerate operates across multiple unrelated industries.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_071",
+      "word": "consult",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To seek information or advice from.",
+      "example": "Executives consult financial advisors before major investments.",
+      "synonyms": ["confer"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_072",
+      "word": "consultant",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who provides expert advice professionally.",
+      "example": "The consultant recommended restructuring the supply chain.",
+      "synonyms": ["advisor"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_073",
+      "word": "consultation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A meeting to discuss something, or the act of consulting.",
+      "example": "The merger followed extensive consultation with shareholders.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_074",
+      "word": "consultative",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Involving consultation.",
+      "example": "The firm adopted a consultative approach to decision-making.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_075",
+      "word": "consulting",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The business of providing expert advice.",
+      "example": "She works in management consulting for a global firm.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_076",
+      "word": "consumer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who purchases goods or services.",
+      "example": "Consumer spending drives a large share of economic growth.",
+      "synonyms": ["buyer", "customer"],
+      "antonyms": ["producer"]
+    },
+    {
+      "id": "3F_077",
+      "word": "consumerism",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The promotion of consumers' interests, or preoccupation with acquiring goods.",
+      "example": "Consumerism has significantly shaped modern retail markets.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_078",
+      "word": "consumption",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The using up of a resource, or purchasing of goods.",
+      "example": "Consumption patterns shifted sharply during the recession.",
+      "synonyms": [],
+      "antonyms": ["production"]
+    },
+    {
+      "id": "3F_079",
+      "word": "corporate",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to a large company or corporation.",
+      "example": "Corporate profits rose despite economic uncertainty.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_080",
+      "word": "corporation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A large company or group of companies.",
+      "example": "The corporation reported record revenue this quarter.",
+      "synonyms": ["company", "firm"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_081",
+      "word": "cost",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The amount of money required to purchase or produce something.",
+      "example": "Rising production costs squeezed the company's profit margins.",
+      "synonyms": ["expense", "price"],
+      "antonyms": ["revenue"]
+    },
+    {
+      "id": "3F_082",
+      "word": "cost-benefit",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to an analysis comparing costs and benefits.",
+      "example": "A cost-benefit analysis guided the investment decision.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_083",
+      "word": "cost-effective",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Producing good results without excessive expense.",
+      "example": "The company adopted a more cost-effective marketing strategy.",
+      "synonyms": ["economical"],
+      "antonyms": ["wasteful"]
+    },
+    {
+      "id": "3F_084",
+      "word": "costly",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Expensive.",
+      "example": "The delay proved costly for the entire supply chain.",
+      "synonyms": ["expensive"],
+      "antonyms": ["inexpensive"]
+    },
+    {
+      "id": "3F_085",
+      "word": "costume",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A set of clothes for a particular purpose.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_086",
+      "word": "counterpart",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or thing holding a similar position elsewhere.",
+      "example": "She met with her counterpart at the partner company.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_087",
+      "word": "covenant",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A formal agreement, especially in a legal or financial context.",
+      "example": "The loan agreement included several financial covenants.",
+      "synonyms": ["agreement", "contract"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_088",
+      "word": "credit",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to obtain goods before payment; trust in financial ability.",
+      "example": "The company relied on credit to fund its expansion.",
+      "synonyms": [],
+      "antonyms": ["debt"]
+    },
+    {
+      "id": "3F_089",
+      "word": "credit-card",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A card allowing purchases on credit.",
+      "example": "Credit-card debt has risen sharply among younger consumers.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_090",
+      "word": "creditor",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A party to whom money is owed.",
+      "example": "The company negotiated new terms with its creditors.",
+      "synonyms": ["lender"],
+      "antonyms": ["debtor"]
+    },
+    {
+      "id": "3F_091",
+      "word": "cultural",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to the ideas and customs of a society.",
+      "example": "Cultural differences influenced the company's marketing approach abroad.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_092",
+      "word": "culturally",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to culture.",
+      "example": "The advertisement was culturally tailored for each market.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_093",
+      "word": "culture",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The customs and social behavior of a society or organization.",
+      "example": "Company culture significantly affects employee retention.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_094",
+      "word": "cultured",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having refined taste, or artificially developed.",
+      "example": "Not commonly used in business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_095",
+      "word": "currency",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A system of money used in a country.",
+      "example": "The weak currency boosted the country's export competitiveness.",
+      "synonyms": ["money"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_096",
+      "word": "cut",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A reduction, especially in cost or staff.",
+      "example": "The company announced significant job cuts amid falling profits.",
+      "synonyms": ["reduction"],
+      "antonyms": ["increase"]
+    },
+    {
+      "id": "3F_097",
+      "word": "cycle",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A series of events regularly repeated.",
+      "example": "The economy moves through cycles of expansion and contraction.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_098",
+      "word": "cyclical",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Occurring in cycles.",
+      "example": "Cyclical industries perform differently across economic phases.",
+      "synonyms": ["recurring"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_099",
+      "word": "cycling",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The act of moving through cycles, or riding a bicycle.",
+      "example": "Not typically used in business vocabulary in this sense, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_100",
+      "word": "cyclist",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who rides a bicycle.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_101",
+      "word": "cyclone",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A violent storm.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_102",
+      "word": "deal",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An agreement, especially in business.",
+      "example": "The two companies finalized a multi-year supply deal.",
+      "synonyms": ["agreement", "transaction"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_103",
+      "word": "debt",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Money owed to another party.",
+      "example": "The government's debt continued to rise during the recession.",
+      "synonyms": [],
+      "antonyms": ["credit"]
+    },
+    {
+      "id": "3F_104",
+      "word": "debtor",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or entity that owes money.",
+      "example": "The debtor negotiated a revised repayment schedule.",
+      "synonyms": [],
+      "antonyms": ["creditor"]
+    },
+    {
+      "id": "3F_105",
+      "word": "decentralization",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The transfer of authority away from a central location.",
+      "example": "Decentralization gave regional offices more decision-making power.",
+      "synonyms": [],
+      "antonyms": ["centralization"]
+    },
+    {
+      "id": "3F_106",
+      "word": "decentralized",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having authority distributed away from a central point.",
+      "example": "The decentralized structure allowed faster local decision-making.",
+      "synonyms": [],
+      "antonyms": ["centralized"]
+    },
+    {
+      "id": "3F_107",
+      "word": "deflate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To reduce in size or importance, or to reduce prices.",
+      "example": "Falling demand helped deflate the overheated housing market.",
+      "synonyms": [],
+      "antonyms": ["inflate"]
+    },
+    {
+      "id": "3F_108",
+      "word": "demand",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The desire of consumers for goods or services.",
+      "example": "Demand for electric vehicles has grown rapidly.",
+      "synonyms": [],
+      "antonyms": ["supply"]
+    },
+    {
+      "id": "3F_109",
+      "word": "demanding",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Requiring a lot of effort or attention.",
+      "example": "The demanding schedule strained the company's workforce.",
+      "synonyms": ["challenging"],
+      "antonyms": ["undemanding"]
+    },
+    {
+      "id": "3F_110",
+      "word": "depreciation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A decrease in the value of an asset over time.",
+      "example": "Depreciation reduces the taxable value of company equipment.",
+      "synonyms": [],
+      "antonyms": ["appreciation"]
+    },
+    {
+      "id": "3F_111",
+      "word": "deregulate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To remove government regulations from an industry.",
+      "example": "The government moved to deregulate the airline industry.",
+      "synonyms": [],
+      "antonyms": ["regulate"]
+    },
+    {
+      "id": "3F_112",
+      "word": "deregulation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The removal of government regulations.",
+      "example": "Deregulation increased competition in the telecommunications sector.",
+      "synonyms": [],
+      "antonyms": ["regulation"]
+    },
+    {
+      "id": "3F_113",
+      "word": "devaluation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A reduction in the value of a currency.",
+      "example": "The devaluation made exports more competitive abroad.",
+      "synonyms": [],
+      "antonyms": ["revaluation"]
+    },
+    {
+      "id": "3F_114",
+      "word": "develop",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To grow or cause to grow and become more advanced.",
+      "example": "The company developed a new product to meet changing demand.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_115",
+      "word": "developed",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having advanced economic and industrial systems.",
+      "example": "Developed economies typically have higher labor costs.",
+      "synonyms": [],
+      "antonyms": ["developing"]
+    },
+    {
+      "id": "3F_116",
+      "word": "developer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or company that develops something, especially property.",
+      "example": "The developer secured funding for the new commercial complex.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_117",
+      "word": "developing",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In the process of economic development.",
+      "example": "Developing markets offer significant growth potential for investors.",
+      "synonyms": [],
+      "antonyms": ["developed"]
+    },
+    {
+      "id": "3F_118",
+      "word": "development",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of growth or advancement.",
+      "example": "Product development requires significant upfront investment.",
+      "synonyms": ["growth", "progress"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_119",
+      "word": "developmental",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to development.",
+      "example": "The company invested heavily in developmental research.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_120",
+      "word": "developmentally",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to development.",
+      "example": "The region remained developmentally behind its neighbors.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_121",
+      "word": "diffusion",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The spread of something, such as technology or innovation.",
+      "example": "The diffusion of new technology transformed the industry within a decade.",
+      "synonyms": ["spread"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_122",
+      "word": "discount",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A reduction in price.",
+      "example": "The store offered a discount to attract holiday shoppers.",
+      "synonyms": ["reduction"],
+      "antonyms": ["markup"]
+    },
+    {
+      "id": "3F_123",
+      "word": "discounted",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Sold at a reduced price.",
+      "example": "Discounted products moved quickly during the sale.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_124",
+      "word": "disrupt",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To interrupt normal processes, especially through innovation.",
+      "example": "New technology can disrupt established industries quickly.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_125",
+      "word": "disruption",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A disturbance that interrupts normal processes.",
+      "example": "Supply chain disruption delayed production for several months.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_126",
+      "word": "disruptive",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Causing significant change, especially through innovation.",
+      "example": "Disruptive technology often threatens established market leaders.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_127",
+      "word": "distribute",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To supply goods to retailers or consumers.",
+      "example": "The company distributes its products across multiple continents.",
+      "synonyms": ["supply", "deliver"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_128",
+      "word": "distributed",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Spread across multiple locations.",
+      "example": "The distributed workforce required new management approaches.",
+      "synonyms": [],
+      "antonyms": ["centralized"]
+    },
+    {
+      "id": "3F_129",
+      "word": "distribution",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The supply of goods to consumers or retailers.",
+      "example": "Efficient distribution reduced delivery times significantly.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_130",
+      "word": "distributor",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A company that supplies goods to retailers.",
+      "example": "The distributor manages logistics across the entire region.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_131",
+      "word": "diversity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A range of different types, including in the workforce.",
+      "example": "Workforce diversity has been linked to stronger business performance.",
+      "synonyms": ["variety"],
+      "antonyms": ["uniformity"]
+    },
+    {
+      "id": "3F_132",
+      "word": "dividend",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A payment made to shareholders from company profits.",
+      "example": "The company increased its quarterly dividend for shareholders.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_133",
+      "word": "dominate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To have a controlling influence over.",
+      "example": "The firm dominates the domestic smartphone market.",
+      "synonyms": ["control", "lead"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_134",
+      "word": "domination",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The exercise of control over something.",
+      "example": "Market domination raised concerns among regulators.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_135",
+      "word": "earn",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To obtain money in return for work.",
+      "example": "Employees earn a base salary plus performance bonuses.",
+      "synonyms": [],
+      "antonyms": ["spend"]
+    },
+    {
+      "id": "3F_136",
+      "word": "earnings",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Money obtained through work or business.",
+      "example": "The company reported strong quarterly earnings.",
+      "synonyms": ["income", "profit"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_137",
+      "word": "economic",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to the economy.",
+      "example": "Economic growth slowed during the second quarter.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_138",
+      "word": "economical",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Giving good value for money.",
+      "example": "The economical model attracted budget-conscious consumers.",
+      "synonyms": ["cost-effective"],
+      "antonyms": ["wasteful"]
+    },
+    {
+      "id": "3F_139",
+      "word": "economically",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to the economy or cost-efficiency.",
+      "example": "The region has grown economically weaker in recent years.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_140",
+      "word": "economics",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The study of production, distribution, and consumption.",
+      "example": "Economics helps explain how markets allocate resources.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_141",
+      "word": "economist",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An expert in economics.",
+      "example": "The economist predicted a moderate recovery next year.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_142",
+      "word": "economy",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The wealth and resources of a country or region.",
+      "example": "The economy grew faster than expected last quarter.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_143",
+      "word": "efficiency",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to achieve results with minimal waste.",
+      "example": "Automation improved production efficiency across all plants.",
+      "synonyms": ["productivity"],
+      "antonyms": ["inefficiency"]
+    },
+    {
+      "id": "3F_144",
+      "word": "elasticity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The responsiveness of demand or supply to price changes.",
+      "example": "Price elasticity determines how sales respond to a price increase.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_145",
+      "word": "employ",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To give work to someone.",
+      "example": "The company employs over ten thousand people worldwide.",
+      "synonyms": ["hire"],
+      "antonyms": ["dismiss"]
+    },
+    {
+      "id": "3F_146",
+      "word": "employee",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person employed for wages.",
+      "example": "Employee satisfaction strongly affects productivity.",
+      "synonyms": ["worker", "staff member"],
+      "antonyms": ["employer"]
+    },
+    {
+      "id": "3F_147",
+      "word": "employer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or organization that employs people.",
+      "example": "The employer offers flexible working arrangements.",
+      "synonyms": [],
+      "antonyms": ["employee"]
+    },
+    {
+      "id": "3F_148",
+      "word": "employment",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of having paid work.",
+      "example": "Employment rates improved as the economy recovered.",
+      "synonyms": ["work", "job"],
+      "antonyms": ["unemployment"]
+    },
+    {
+      "id": "3F_149",
+      "word": "entrepreneur",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who starts and runs a business.",
+      "example": "The entrepreneur launched her startup with limited initial funding.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_150",
+      "word": "entrepreneurial",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to entrepreneurship.",
+      "example": "The company fosters an entrepreneurial culture among employees.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_151",
+      "word": "entrepreneurship",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The activity of starting and running businesses.",
+      "example": "Entrepreneurship drives significant job creation in many economies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_152",
+      "word": "equitable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Fair and impartial.",
+      "example": "The company introduced a more equitable pay structure.",
+      "synonyms": ["fair"],
+      "antonyms": ["inequitable"]
+    },
+    {
+      "id": "3F_153",
+      "word": "equity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Ownership interest in a company, or fairness.",
+      "example": "Investors received equity in exchange for their capital.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_154",
+      "word": "ethic",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A moral principle guiding behavior.",
+      "example": "The company's work ethic emphasizes accountability and honesty.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_155",
+      "word": "ethical",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to moral principles.",
+      "example": "Ethical sourcing has become a priority for many retailers.",
+      "synonyms": ["moral"],
+      "antonyms": ["unethical"]
+    },
+    {
+      "id": "3F_156",
+      "word": "ethically",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner conforming to moral principles.",
+      "example": "The company sources its materials ethically.",
+      "synonyms": [],
+      "antonyms": ["unethically"]
+    },
+    {
+      "id": "3F_157",
+      "word": "ethicist",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A specialist in ethics.",
+      "example": "The ethicist advised the board on responsible AI use.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_158",
+      "word": "ethics",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Moral principles governing behavior.",
+      "example": "Corporate ethics increasingly influence investor decisions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_159",
+      "word": "excess",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An amount beyond what is necessary.",
+      "example": "Excess inventory forced the company to cut prices.",
+      "synonyms": ["surplus"],
+      "antonyms": ["shortage"]
+    },
+    {
+      "id": "3F_160",
+      "word": "excessive",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "More than is necessary.",
+      "example": "Excessive spending strained the company's cash flow.",
+      "synonyms": [],
+      "antonyms": ["insufficient"]
+    },
+    {
+      "id": "3F_161",
+      "word": "excessively",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To an excessive degree.",
+      "example": "The firm invested excessively in unproven technology.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_162",
+      "word": "exchange",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A place where securities or currencies are traded.",
+      "example": "Shares are traded on the national stock exchange.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_163",
+      "word": "expenditure",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Money spent on something.",
+      "example": "Government expenditure increased significantly during the crisis.",
+      "synonyms": ["spending"],
+      "antonyms": ["revenue"]
+    },
+    {
+      "id": "3F_164",
+      "word": "export",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To sell goods to another country.",
+      "example": "The country exports a large share of its manufactured goods.",
+      "synonyms": [],
+      "antonyms": ["import"]
+    },
+    {
+      "id": "3F_165",
+      "word": "exporter",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A country or company that exports goods.",
+      "example": "The country is a major exporter of agricultural products.",
+      "synonyms": [],
+      "antonyms": ["importer"]
+    },
+    {
+      "id": "3F_166",
+      "word": "facilitate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To make a process easier.",
+      "example": "New trade agreements facilitate cross-border commerce.",
+      "synonyms": ["enable"],
+      "antonyms": ["hinder"]
+    },
+    {
+      "id": "3F_167",
+      "word": "facilitator",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who assists a process.",
+      "example": "The facilitator guided negotiations between the two firms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_168",
+      "word": "facility",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A building or place designed for a purpose.",
+      "example": "The company built a new manufacturing facility overseas.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_169",
+      "word": "finance",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The management of money, or to provide funding.",
+      "example": "The startup struggled to finance its expansion plans.",
+      "synonyms": ["funding"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_170",
+      "word": "financial",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to finance.",
+      "example": "The company faced significant financial difficulties last year.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_171",
+      "word": "financially",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to finance.",
+      "example": "The firm remained financially stable throughout the downturn.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_172",
+      "word": "financier",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who manages large financial transactions.",
+      "example": "The financier backed several successful startups.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_173",
+      "word": "financing",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The provision of funds for a purpose.",
+      "example": "The company secured financing for its new factory.",
+      "synonyms": ["funding"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_174",
+      "word": "fire",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To dismiss someone from employment.",
+      "example": "The company decided to fire several underperforming managers.",
+      "synonyms": ["dismiss", "terminate"],
+      "antonyms": ["hire"]
+    },
+    {
+      "id": "3F_175",
+      "word": "firm",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A company or business.",
+      "example": "The consulting firm expanded into new international markets.",
+      "synonyms": ["company", "business"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_176",
+      "word": "fiscal",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to government revenue and spending.",
+      "example": "Fiscal policy plays a key role in managing economic growth.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_177",
+      "word": "fiscally",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to fiscal policy.",
+      "example": "The government remained fiscally cautious during the recovery.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_178",
+      "word": "forecast",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A prediction of future trends.",
+      "example": "Analysts revised their economic forecast downward this quarter.",
+      "synonyms": ["prediction", "projection"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_179",
+      "word": "forecaster",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who predicts future trends.",
+      "example": "The forecaster expected inflation to ease next year.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_180",
+      "word": "franchise",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A license to operate a business under a brand.",
+      "example": "She purchased a franchise of the popular coffee chain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_181",
+      "word": "franchisee",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who owns a franchise.",
+      "example": "The franchisee manages daily operations at the local level.",
+      "synonyms": [],
+      "antonyms": ["franchisor"]
+    },
+    {
+      "id": "3F_182",
+      "word": "free-market",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to an economy free from government intervention.",
+      "example": "Free-market policies encourage competition among firms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_183",
+      "word": "freelance",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Self-employed and hired for individual jobs.",
+      "example": "She works freelance as a marketing consultant.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_184",
+      "word": "fund",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A sum of money set aside for a purpose.",
+      "example": "The company established a fund to support employee education.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_185",
+      "word": "gain",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An increase in wealth or benefit.",
+      "example": "The company reported strong gains in the third quarter.",
+      "synonyms": ["profit", "increase"],
+      "antonyms": ["loss"]
+    },
+    {
+      "id": "3F_186",
+      "word": "gig",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A temporary or freelance job.",
+      "example": "The gig economy has changed how people find flexible work.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_187",
+      "word": "gigantic",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Extremely large.",
+      "example": "The gigantic conglomerate operates in over fifty countries.",
+      "synonyms": ["huge", "enormous"],
+      "antonyms": ["tiny"]
+    },
+    {
+      "id": "3F_188",
+      "word": "giggle",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To laugh lightly.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_189",
+      "word": "globalization",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process by which businesses develop international influence.",
+      "example": "Globalization has increased competition across nearly every industry.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_190",
+      "word": "gross",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Total, before deductions.",
+      "example": "The company's gross revenue rose despite rising costs.",
+      "synonyms": [],
+      "antonyms": ["net"]
+    },
+    {
+      "id": "3F_191",
+      "word": "grossly",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To a very great or blatant degree.",
+      "example": "The company was grossly undervalued before the acquisition.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_192",
+      "word": "grow",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To increase in size or amount.",
+      "example": "The startup grew rapidly after securing venture funding.",
+      "synonyms": ["expand"],
+      "antonyms": ["shrink"]
+    },
+    {
+      "id": "3F_193",
+      "word": "growth",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of increasing in size.",
+      "example": "Economic growth slowed amid rising interest rates.",
+      "synonyms": ["expansion"],
+      "antonyms": ["decline"]
+    },
+    {
+      "id": "3F_194",
+      "word": "hedge",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An investment to reduce risk.",
+      "example": "Investors used gold as a hedge against inflation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_195",
+      "word": "hire",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To employ someone for wages.",
+      "example": "The company plans to hire additional staff next quarter.",
+      "synonyms": ["employ", "recruit"],
+      "antonyms": ["fire"]
+    },
+    {
+      "id": "3F_196",
+      "word": "holistic",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Considering something as a whole rather than parts.",
+      "example": "The firm adopted a holistic approach to employee wellness.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_197",
+      "word": "import",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To bring in goods from another country.",
+      "example": "The country imports most of its raw materials.",
+      "synonyms": [],
+      "antonyms": ["export"]
+    },
+    {
+      "id": "3F_198",
+      "word": "importance",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of being significant.",
+      "example": "The report highlighted the importance of supply chain resilience.",
+      "synonyms": ["significance"],
+      "antonyms": ["insignificance"]
+    },
+    {
+      "id": "3F_199",
+      "word": "important",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Of great significance.",
+      "example": "Cost control is an important factor in maintaining profitability.",
+      "synonyms": ["significant"],
+      "antonyms": ["unimportant"]
+    },
+    {
+      "id": "3F_200",
+      "word": "importantly",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner of significance.",
+      "example": "Importantly, revenue grew despite falling consumer confidence.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_201",
+      "word": "importation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The act of bringing goods into a country.",
+      "example": "Importation costs rose due to new tariffs.",
+      "synonyms": [],
+      "antonyms": ["exportation"]
+    },
+    {
+      "id": "3F_202",
+      "word": "imported",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Brought in from another country.",
+      "example": "Imported goods became more expensive after the tariff increase.",
+      "synonyms": [],
+      "antonyms": ["domestic"]
+    },
+    {
+      "id": "3F_203",
+      "word": "importer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A country or company that imports goods.",
+      "example": "The company is a major importer of electronic components.",
+      "synonyms": [],
+      "antonyms": ["exporter"]
+    },
+    {
+      "id": "3F_204",
+      "word": "income",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Money received, especially from work or investment.",
+      "example": "Household income has not kept pace with rising costs.",
+      "synonyms": ["earnings", "revenue"],
+      "antonyms": ["expenditure"]
+    },
+    {
+      "id": "3F_205",
+      "word": "incorporate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To form a legal corporation.",
+      "example": "The founders decided to incorporate the business early on.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_206",
+      "word": "incorporation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The formation of a legal corporation.",
+      "example": "Incorporation provided the founders with limited liability protection.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_207",
+      "word": "inequality",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Lack of equality, especially in wealth or opportunity.",
+      "example": "Income inequality has widened significantly over the past decade.",
+      "synonyms": ["disparity"],
+      "antonyms": ["equality"]
+    },
+    {
+      "id": "3F_208",
+      "word": "inequity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Lack of fairness.",
+      "example": "Wage inequity remains a persistent issue in many industries.",
+      "synonyms": ["unfairness"],
+      "antonyms": ["equity"]
+    },
+    {
+      "id": "3F_209",
+      "word": "inflatable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Able to be filled with air; not directly economic.",
+      "example": "Not relevant to business vocabulary in this context, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_210",
+      "word": "inflate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To increase, especially prices or figures.",
+      "example": "Rising demand helped inflate housing prices nationwide.",
+      "synonyms": [],
+      "antonyms": ["deflate"]
+    },
+    {
+      "id": "3F_211",
+      "word": "inflated",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Artificially or excessively increased.",
+      "example": "Analysts warned of an inflated valuation for the startup.",
+      "synonyms": [],
+      "antonyms": ["deflated"]
+    },
+    {
+      "id": "3F_212",
+      "word": "inflation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A general increase in prices and fall in purchasing power.",
+      "example": "Inflation eroded consumers' purchasing power throughout the year.",
+      "synonyms": [],
+      "antonyms": ["deflation"]
+    },
+    {
+      "id": "3F_213",
+      "word": "inflationary",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Tending to cause inflation.",
+      "example": "Inflationary pressures forced the central bank to raise interest rates.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_214",
+      "word": "innovate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To introduce new methods or products.",
+      "example": "The company must innovate to remain competitive.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_215",
+      "word": "innovation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The introduction of new ideas or products.",
+      "example": "Innovation drives long-term growth in competitive markets.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_216",
+      "word": "innovative",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Featuring new methods or ideas.",
+      "example": "The startup developed an innovative approach to logistics.",
+      "synonyms": [],
+      "antonyms": ["conventional"]
+    },
+    {
+      "id": "3F_217",
+      "word": "innovator",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who introduces new methods or ideas.",
+      "example": "The company positioned itself as an industry innovator.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_218",
+      "word": "insurance",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Protection against financial loss.",
+      "example": "The company purchased insurance to cover potential liabilities.",
+      "synonyms": ["coverage"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_219",
+      "word": "interest",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Money paid for the use of borrowed money.",
+      "example": "Rising interest rates increased the cost of borrowing.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_220",
+      "word": "interested",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Showing curiosity or concern; having a financial stake.",
+      "example": "Interested parties submitted bids for the acquisition.",
+      "synonyms": [],
+      "antonyms": ["uninterested"]
+    },
+    {
+      "id": "3F_221",
+      "word": "interesting",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Engaging attention.",
+      "example": "The analyst raised an interesting point about market trends.",
+      "synonyms": [],
+      "antonyms": ["uninteresting"]
+    },
+    {
+      "id": "3F_222",
+      "word": "interestingly",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a way that engages attention.",
+      "example": "Interestingly, consumer spending rose despite the downturn.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_223",
+      "word": "investment",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The action of putting money into something for profit.",
+      "example": "The investment paid off after the company's rapid growth.",
+      "synonyms": [],
+      "antonyms": ["divestment"]
+    },
+    {
+      "id": "3F_224",
+      "word": "labor",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Work, especially manual work, or the workforce.",
+      "example": "Labor costs account for a significant share of total expenses.",
+      "synonyms": ["work", "workforce"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_225",
+      "word": "labor-intensive",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Requiring a large amount of labor relative to capital.",
+      "example": "Labor-intensive industries are particularly sensitive to wage increases.",
+      "synonyms": [],
+      "antonyms": ["capital-intensive"]
+    },
+    {
+      "id": "3F_226",
+      "word": "laboratory",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A room equipped for scientific research.",
+      "example": "Not commonly used in business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_227",
+      "word": "laborer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who does physical work.",
+      "example": "The factory employs hundreds of laborers.",
+      "synonyms": ["worker"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_228",
+      "word": "laborious",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Requiring considerable effort.",
+      "example": "The approval process proved laborious and time-consuming.",
+      "synonyms": ["tedious"],
+      "antonyms": ["effortless"]
+    },
+    {
+      "id": "3F_229",
+      "word": "leader",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who leads an organization or market.",
+      "example": "The company remains the market leader in its industry.",
+      "synonyms": [],
+      "antonyms": ["follower"]
+    },
+    {
+      "id": "3F_230",
+      "word": "leadership",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The action of leading a group or organization.",
+      "example": "Strong leadership guided the company through the crisis.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_231",
+      "word": "leverage",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The use of borrowed capital, or to use something to maximum advantage.",
+      "example": "The firm used leverage to fund its expansion.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_232",
+      "word": "leveraged",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Financed using borrowed capital.",
+      "example": "The leveraged buyout increased the company's debt significantly.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_233",
+      "word": "liability",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A debt or financial obligation.",
+      "example": "The company's liabilities exceeded its assets after the downturn.",
+      "synonyms": ["debt", "obligation"],
+      "antonyms": ["asset"]
+    },
+    {
+      "id": "3F_234",
+      "word": "liberalization",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The removal of restrictions on economic activity.",
+      "example": "Trade liberalization increased competition among domestic firms.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_235",
+      "word": "liberalize",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To remove restrictions on.",
+      "example": "The government moved to liberalize the banking sector.",
+      "synonyms": [],
+      "antonyms": ["restrict"]
+    },
+    {
+      "id": "3F_236",
+      "word": "liquidity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The availability of liquid assets to a market or company.",
+      "example": "The bank maintained sufficient liquidity to meet withdrawal demands.",
+      "synonyms": [],
+      "antonyms": ["illiquidity"]
+    },
+    {
+      "id": "3F_237",
+      "word": "loan",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A sum of money lent, typically at interest.",
+      "example": "The bank approved a loan to fund the new factory.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_238",
+      "word": "logistic",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to the detailed coordination of an operation.",
+      "example": "Logistic challenges delayed the product's launch.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_239",
+      "word": "logistical",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to logistics.",
+      "example": "Logistical issues disrupted the supply chain for weeks.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_240",
+      "word": "logistics",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The detailed coordination of a complex operation.",
+      "example": "Efficient logistics reduced delivery times across the network.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_241",
+      "word": "loss",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of losing money.",
+      "example": "The company reported a significant loss last quarter.",
+      "synonyms": [],
+      "antonyms": ["profit"]
+    },
+    {
+      "id": "3F_242",
+      "word": "manage",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To be in charge of a business or process.",
+      "example": "She manages a team of twenty employees.",
+      "synonyms": ["run", "oversee"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_243",
+      "word": "manageable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Able to be controlled or dealt with.",
+      "example": "The company reduced its debt to a manageable level.",
+      "synonyms": [],
+      "antonyms": ["unmanageable"]
+    },
+    {
+      "id": "3F_244",
+      "word": "managed",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Controlled or supervised.",
+      "example": "The fund is actively managed to maximize returns.",
+      "synonyms": [],
+      "antonyms": ["unmanaged"]
+    },
+    {
+      "id": "3F_245",
+      "word": "management",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of dealing with or controlling a business.",
+      "example": "Effective management is essential for long-term growth.",
+      "synonyms": ["administration"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_246",
+      "word": "manager",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person responsible for controlling part of a company.",
+      "example": "The manager oversees daily operations at the branch.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_247",
+      "word": "managerial",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to management.",
+      "example": "She was promoted to a managerial position after two years.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_248",
+      "word": "managing",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having a controlling role in a business.",
+      "example": "The managing director approved the new budget.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_249",
+      "word": "market",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An area or arena in which goods are traded.",
+      "example": "The company entered a new market to boost growth.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_250",
+      "word": "marketable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Able to be sold.",
+      "example": "The startup developed a marketable product within a year.",
+      "synonyms": ["sellable"],
+      "antonyms": ["unmarketable"]
+    },
+    {
+      "id": "3F_251",
+      "word": "marketer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who promotes and sells products.",
+      "example": "The marketer designed a campaign targeting younger consumers.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_252",
+      "word": "marketing",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The activity of promoting and selling products.",
+      "example": "Marketing costs increased as the company expanded its reach.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_253",
+      "word": "marketplace",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An arena for commercial dealings.",
+      "example": "The company faces stiff competition in the global marketplace.",
+      "synonyms": ["market"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_254",
+      "word": "merger",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A combination of two companies into one.",
+      "example": "The merger created one of the largest firms in the industry.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_255",
+      "word": "monetary",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to money.",
+      "example": "Central banks use monetary policy to control inflation.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_256",
+      "word": "monopolize",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To dominate a market to the exclusion of competitors.",
+      "example": "The company was accused of trying to monopolize the industry.",
+      "synonyms": ["dominate"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_257",
+      "word": "monopoly",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Exclusive control of a market by one company.",
+      "example": "Regulators investigated the firm for holding an illegal monopoly.",
+      "synonyms": [],
+      "antonyms": ["competition"]
+    },
+    {
+      "id": "3F_258",
+      "word": "multinational",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Operating in multiple countries.",
+      "example": "The multinational corporation employs staff across six continents.",
+      "synonyms": [],
+      "antonyms": ["domestic"]
+    },
+    {
+      "id": "3F_259",
+      "word": "negotiate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To discuss in order to reach an agreement.",
+      "example": "The two firms negotiated a new supply contract.",
+      "synonyms": ["bargain"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_260",
+      "word": "negotiated",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Arrived at through negotiation.",
+      "example": "The negotiated settlement satisfied both parties.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_261",
+      "word": "negotiating",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Engaged in discussion to reach an agreement.",
+      "example": "The negotiating team worked late to finalize the deal.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_262",
+      "word": "negotiation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Discussion aimed at reaching an agreement.",
+      "example": "Negotiation between the union and management resumed this week.",
+      "synonyms": ["bargaining"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_263",
+      "word": "negotiator",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who negotiates.",
+      "example": "The lead negotiator secured favorable terms for the company.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_264",
+      "word": "offshore",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Located or based outside one's own country.",
+      "example": "The company moved production offshore to cut labor costs.",
+      "synonyms": [],
+      "antonyms": ["onshore"]
+    },
+    {
+      "id": "3F_265",
+      "word": "outsource",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To obtain goods or services from an outside supplier.",
+      "example": "The company chose to outsource its customer service operations.",
+      "synonyms": [],
+      "antonyms": ["insource"]
+    },
+    {
+      "id": "3F_266",
+      "word": "overhead",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Ongoing business expenses not linked to production.",
+      "example": "Reducing overhead helped the company improve profitability.",
+      "synonyms": ["expenses"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_267",
+      "word": "owe",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To be in debt for a sum of money.",
+      "example": "The company owes several suppliers for recent shipments.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_268",
+      "word": "own",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To possess as property.",
+      "example": "The founders still own a majority stake in the company.",
+      "synonyms": ["possess"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_269",
+      "word": "partnership",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A business relationship between two or more parties.",
+      "example": "The two firms formed a strategic partnership to expand overseas.",
+      "synonyms": ["alliance"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_270",
+      "word": "pay",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Money given for work; to give money owed.",
+      "example": "Employees received a pay increase after the strong quarter.",
+      "synonyms": ["wage", "salary"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_271",
+      "word": "payroll",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A list of employees and the wages paid to them.",
+      "example": "The company's payroll expenses rose with new hires.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_272",
+      "word": "pension",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A regular payment made after retirement.",
+      "example": "The company offers a generous pension plan for long-term employees.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_273",
+      "word": "pivot",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A significant change in strategy.",
+      "example": "The startup decided to pivot toward a subscription-based model.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_274",
+      "word": "pivotal",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Of crucial importance.",
+      "example": "The acquisition was pivotal to the company's international expansion.",
+      "synonyms": ["crucial", "critical"],
+      "antonyms": ["minor"]
+    },
+    {
+      "id": "3F_275",
+      "word": "portfolio",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A range of investments held by a person or organization.",
+      "example": "Her portfolio includes a mix of stocks and bonds.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_276",
+      "word": "poverty",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of being extremely poor.",
+      "example": "Poverty rates declined as employment opportunities increased.",
+      "synonyms": [],
+      "antonyms": ["wealth"]
+    },
+    {
+      "id": "3F_277",
+      "word": "price",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The amount of money expected for goods or services.",
+      "example": "The company raised prices to offset higher production costs.",
+      "synonyms": ["cost"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_278",
+      "word": "priceless",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Too valuable to have a price; extremely valuable.",
+      "example": "The brand's reputation is considered priceless by investors.",
+      "synonyms": ["invaluable"],
+      "antonyms": ["worthless"]
+    },
+    {
+      "id": "3F_279",
+      "word": "pricey",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Expensive.",
+      "example": "The pricey subscription service targets high-income consumers.",
+      "synonyms": ["expensive"],
+      "antonyms": ["cheap"]
+    },
+    {
+      "id": "3F_280",
+      "word": "procure",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To obtain, especially through effort.",
+      "example": "The company procures raw materials from several international suppliers.",
+      "synonyms": ["acquire", "obtain"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_281",
+      "word": "procurement",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of obtaining goods or services.",
+      "example": "Procurement costs rose sharply due to global supply issues.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_282",
+      "word": "producer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or company that produces goods.",
+      "example": "The country is a leading producer of semiconductor chips.",
+      "synonyms": [],
+      "antonyms": ["consumer"]
+    },
+    {
+      "id": "3F_283",
+      "word": "productive",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Producing a significant amount or result.",
+      "example": "A productive workforce is essential for sustained economic growth.",
+      "synonyms": ["efficient"],
+      "antonyms": ["unproductive"]
+    },
+    {
+      "id": "3F_284",
+      "word": "productivity",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The effectiveness of productive effort.",
+      "example": "Automation significantly improved factory productivity.",
+      "synonyms": ["efficiency"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_285",
+      "word": "profit",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Financial gain from business activity.",
+      "example": "The company reported record profit despite rising costs.",
+      "synonyms": ["earnings", "gain"],
+      "antonyms": ["loss"]
+    },
+    {
+      "id": "3F_286",
+      "word": "profitability",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The degree to which a business yields profit.",
+      "example": "Cost cutting improved the company's overall profitability.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_287",
+      "word": "profitable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Yielding profit.",
+      "example": "The new product line proved highly profitable within its first year.",
+      "synonyms": ["lucrative"],
+      "antonyms": ["unprofitable"]
+    },
+    {
+      "id": "3F_288",
+      "word": "project",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A planned undertaking, or to estimate future figures.",
+      "example": "Analysts project moderate growth for the coming year.",
+      "synonyms": ["forecast", "plan"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_289",
+      "word": "projected",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Estimated for the future.",
+      "example": "Projected earnings exceeded analyst expectations.",
+      "synonyms": ["forecasted"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_290",
+      "word": "projectile",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An object propelled through the air.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_291",
+      "word": "projecting",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Estimating or extending forward.",
+      "example": "The report is projecting steady growth over the next five years.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_292",
+      "word": "projection",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An estimate of future trends.",
+      "example": "The company's revenue projection was revised upward.",
+      "synonyms": ["forecast"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_293",
+      "word": "projector",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A device that projects images.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_294",
+      "word": "promote",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To support or encourage; to advertise.",
+      "example": "The company launched a campaign to promote its new product.",
+      "synonyms": ["advertise", "advance"],
+      "antonyms": ["demote"]
+    },
+    {
+      "id": "3F_295",
+      "word": "promoter",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who supports or organizes an event or product.",
+      "example": "The promoter organized a nationwide marketing tour.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_296",
+      "word": "promotion",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Advancement in rank, or activity to increase sales.",
+      "example": "She received a promotion after leading the successful campaign.",
+      "synonyms": ["advancement"],
+      "antonyms": ["demotion"]
+    },
+    {
+      "id": "3F_297",
+      "word": "promotional",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to advertising or promotion.",
+      "example": "The store offered promotional discounts during the holiday season.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_298",
+      "word": "propulsion",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The action of driving something forward.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_299",
+      "word": "protect",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To keep safe from harm or loss.",
+      "example": "Tariffs are used to protect domestic industries from foreign competition.",
+      "synonyms": ["safeguard"],
+      "antonyms": ["expose"]
+    },
+    {
+      "id": "3F_300",
+      "word": "protected",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Kept safe from harm or competition.",
+      "example": "Protected industries often face less pressure to innovate.",
+      "synonyms": [],
+      "antonyms": ["exposed"]
+    },
+    {
+      "id": "3F_301",
+      "word": "protection",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The action of protecting.",
+      "example": "Trade protection can shield domestic industries from foreign competition.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_302",
+      "word": "protectionism",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The policy of protecting domestic industries through restrictions.",
+      "example": "Protectionism has increased trade tensions between major economies.",
+      "synonyms": [],
+      "antonyms": ["free trade"]
+    },
+    {
+      "id": "3F_303",
+      "word": "protectionist",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to protectionism.",
+      "example": "Protectionist policies raised tariffs on imported steel.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_304",
+      "word": "protective",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Intended to protect.",
+      "example": "The government introduced protective tariffs on key industries.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_305",
+      "word": "protector",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or thing that protects.",
+      "example": "Not commonly used in business vocabulary independently, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_306",
+      "word": "quota",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A limited quantity permitted in trade.",
+      "example": "The government imposed a quota on imported steel.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_307",
+      "word": "quotation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A formal statement of the price of a service or product.",
+      "example": "The contractor provided a quotation for the construction project.",
+      "synonyms": ["quote", "estimate"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_308",
+      "word": "recession",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A period of temporary economic decline.",
+      "example": "The recession led to widespread layoffs across the industry.",
+      "synonyms": ["downturn"],
+      "antonyms": ["recovery"]
+    },
+    {
+      "id": "3F_309",
+      "word": "redistribute",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To distribute differently, especially wealth.",
+      "example": "Progressive taxation aims to redistribute wealth more equitably.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_310",
+      "word": "redistribution",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of redistributing something.",
+      "example": "Wealth redistribution remains a controversial economic policy topic.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_311",
+      "word": "regulate",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To control by rules.",
+      "example": "Governments regulate financial markets to protect investors.",
+      "synonyms": ["control", "govern"],
+      "antonyms": ["deregulate"]
+    },
+    {
+      "id": "3F_312",
+      "word": "regulated",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Controlled by rules.",
+      "example": "The regulated industry faces strict compliance requirements.",
+      "synonyms": [],
+      "antonyms": ["unregulated"]
+    },
+    {
+      "id": "3F_313",
+      "word": "regulation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A rule made by an authority.",
+      "example": "New regulation increased compliance costs for small businesses.",
+      "synonyms": ["rule"],
+      "antonyms": ["deregulation"]
+    },
+    {
+      "id": "3F_314",
+      "word": "regulator",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An official body that supervises an industry.",
+      "example": "The regulator fined the bank for improper conduct.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_315",
+      "word": "regulatory",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to regulation.",
+      "example": "Regulatory approval delayed the launch of the new product.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_316",
+      "word": "retail",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The sale of goods to consumers.",
+      "example": "Retail sales rose modestly during the holiday season.",
+      "synonyms": [],
+      "antonyms": ["wholesale"]
+    },
+    {
+      "id": "3F_317",
+      "word": "retailer",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person or business that sells goods to consumers.",
+      "example": "The retailer expanded its online presence during the pandemic.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_318",
+      "word": "retailing",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The business of selling goods to consumers.",
+      "example": "Online retailing has transformed the shopping experience.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_319",
+      "word": "retire",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To leave one's job and stop working.",
+      "example": "She plans to retire after thirty years with the company.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_320",
+      "word": "retired",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having left one's job permanently.",
+      "example": "The retired executive now serves on several boards.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_321",
+      "word": "retiree",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who has retired from work.",
+      "example": "Retirees rely on pensions and savings for income.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_322",
+      "word": "retirement",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The period after leaving one's job.",
+      "example": "Many workers are delaying retirement due to rising living costs.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_323",
+      "word": "retiring",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Approaching or nearing retirement.",
+      "example": "The retiring CEO will be succeeded by the current CFO.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_324",
+      "word": "revenue",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Income generated from business activity.",
+      "example": "The company's revenue grew significantly despite the downturn.",
+      "synonyms": ["income"],
+      "antonyms": ["expenditure"]
+    },
+    {
+      "id": "3F_325",
+      "word": "risk",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Exposure to potential loss or harm.",
+      "example": "Investors accept greater risk in exchange for higher potential returns.",
+      "synonyms": [],
+      "antonyms": ["safety"]
+    },
+    {
+      "id": "3F_326",
+      "word": "risky",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Involving a significant chance of loss.",
+      "example": "The risky investment paid off despite initial market skepticism.",
+      "synonyms": ["hazardous"],
+      "antonyms": ["safe"]
+    },
+    {
+      "id": "3F_327",
+      "word": "run",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To manage or operate a business.",
+      "example": "She runs a successful chain of retail stores.",
+      "synonyms": ["manage", "operate"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_328",
+      "word": "salaried",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Receiving a fixed regular wage.",
+      "example": "Salaried employees receive consistent pay regardless of hours worked.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_329",
+      "word": "salary",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A fixed regular payment for employment.",
+      "example": "Her salary increased significantly after the promotion.",
+      "synonyms": ["pay", "wage"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_330",
+      "word": "scale",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The size of an operation, or to increase in size.",
+      "example": "The startup struggled to scale its operations quickly enough.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_331",
+      "word": "scaling",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of increasing in size or extent.",
+      "example": "Scaling the business required significant additional investment.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_332",
+      "word": "scallions",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A type of onion; not business-related.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_333",
+      "word": "scallop",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A type of shellfish; not business-related.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_334",
+      "word": "scalp",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The skin covering the top of the head; not business-related.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_335",
+      "word": "scalpel",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A small surgical knife; not business-related.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_336",
+      "word": "sector",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An area of the economy, such as an industry.",
+      "example": "The technology sector led overall market growth this year.",
+      "synonyms": ["industry"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_337",
+      "word": "self-sufficiency",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to meet one's own needs without external assistance.",
+      "example": "The country aims for greater energy self-sufficiency.",
+      "synonyms": [],
+      "antonyms": ["dependency"]
+    },
+    {
+      "id": "3F_338",
+      "word": "self-sufficient",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Able to meet one's own needs.",
+      "example": "The company became self-sufficient in raw material production.",
+      "synonyms": [],
+      "antonyms": ["dependent"]
+    },
+    {
+      "id": "3F_339",
+      "word": "sell",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To give in exchange for money.",
+      "example": "The company plans to sell its underperforming division.",
+      "synonyms": [],
+      "antonyms": ["buy"]
+    },
+    {
+      "id": "3F_340",
+      "word": "shareholder",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who owns shares in a company.",
+      "example": "Shareholders approved the merger at the annual meeting.",
+      "synonyms": ["stockholder"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_341",
+      "word": "skill",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to do something well.",
+      "example": "Employees with technical skill are in high demand.",
+      "synonyms": ["ability", "expertise"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_342",
+      "word": "skilled",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having the ability to do something well.",
+      "example": "The company relies heavily on skilled labor.",
+      "synonyms": ["trained", "expert"],
+      "antonyms": ["unskilled"]
+    },
+    {
+      "id": "3F_343",
+      "word": "skillet",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A frying pan; not business-related.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_344",
+      "word": "skillful",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having or showing great skill.",
+      "example": "Skillful negotiation secured favorable contract terms.",
+      "synonyms": ["adept", "proficient"],
+      "antonyms": ["unskillful"]
+    },
+    {
+      "id": "3F_345",
+      "word": "skillfully",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner showing great skill.",
+      "example": "She skillfully managed the company through the crisis.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_346",
+      "word": "social",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to society or its organization.",
+      "example": "Social factors increasingly influence consumer purchasing decisions.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_347",
+      "word": "socialism",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An economic system based on collective ownership.",
+      "example": "Socialism emphasizes public control over major industries.",
+      "synonyms": [],
+      "antonyms": ["capitalism"]
+    },
+    {
+      "id": "3F_348",
+      "word": "socialist",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to or supporting socialism.",
+      "example": "The socialist policy expanded public ownership of key utilities.",
+      "synonyms": [],
+      "antonyms": ["capitalist"]
+    },
+    {
+      "id": "3F_349",
+      "word": "socialite",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person prominent in fashionable society.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_350",
+      "word": "socialization",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of learning behaviors appropriate to a society.",
+      "example": "Not commonly used in core business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_351",
+      "word": "socialize",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To mix socially with others.",
+      "example": "Not commonly used in core business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_352",
+      "word": "socially",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to society.",
+      "example": "The company positioned itself as socially responsible.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_353",
+      "word": "stakeholder",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person with an interest in a business.",
+      "example": "The company consulted key stakeholders before the restructuring.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_354",
+      "word": "stock",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A share in the ownership of a company.",
+      "example": "The company's stock price rose after the earnings report.",
+      "synonyms": ["shares"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_355",
+      "word": "stockbroker",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who buys and sells stocks for clients.",
+      "example": "The stockbroker advised clients to diversify their portfolios.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_356",
+      "word": "stockholder",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who owns shares in a company.",
+      "example": "Stockholders voted in favor of the proposed merger.",
+      "synonyms": ["shareholder"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_357",
+      "word": "stocking",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The act of keeping goods in supply, or a garment.",
+      "example": "Stocking shelves efficiently reduces retail labor costs.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_358",
+      "word": "stockpile",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A large accumulated stock of goods.",
+      "example": "The company built a stockpile of raw materials before the price increase.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_359",
+      "word": "stocky",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Broad and solidly built; not business-related.",
+      "example": "Not relevant to business vocabulary, but included as given.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_360",
+      "word": "strategic",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Relating to the identification of long-term goals.",
+      "example": "The company made a strategic decision to enter new markets.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_361",
+      "word": "strategically",
+      "type": "adverb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "In a manner relating to long-term planning.",
+      "example": "The firm strategically expanded into emerging markets.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_362",
+      "word": "strategist",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person skilled in planning long-term action.",
+      "example": "The strategist advised the board on international expansion.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_363",
+      "word": "strategy",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A plan of action designed to achieve a long-term goal.",
+      "example": "The company revised its strategy after disappointing sales.",
+      "synonyms": ["plan"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_364",
+      "word": "subside",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To become less intense.",
+      "example": "Market volatility began to subside after the announcement.",
+      "synonyms": ["diminish", "decrease"],
+      "antonyms": ["intensify"]
+    },
+    {
+      "id": "3F_365",
+      "word": "subsidiary",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A company controlled by a parent company.",
+      "example": "The subsidiary operates independently but reports to the parent firm.",
+      "synonyms": [],
+      "antonyms": ["parent company"]
+    },
+    {
+      "id": "3F_366",
+      "word": "subsidize",
+      "type": "verb",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "To support financially, often by a government.",
+      "example": "The government subsidizes renewable energy production.",
+      "synonyms": ["fund", "support"],
+      "antonyms": ["tax"]
+    },
+    {
+      "id": "3F_367",
+      "word": "subsidized",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Supported financially by another party.",
+      "example": "Subsidized housing helps low-income families afford rent.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_368",
+      "word": "subsidy",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A sum of money granted to support an industry.",
+      "example": "The subsidy helped local farmers remain competitive.",
+      "synonyms": ["grant"],
+      "antonyms": ["tax"]
+    },
+    {
+      "id": "3F_369",
+      "word": "supply",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The amount of a resource available.",
+      "example": "Supply exceeded demand, causing prices to fall.",
+      "synonyms": [],
+      "antonyms": ["demand"]
+    },
+    {
+      "id": "3F_370",
+      "word": "surplus",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An amount left over after requirements are met.",
+      "example": "The country reported a trade surplus for the first time in years.",
+      "synonyms": ["excess"],
+      "antonyms": ["deficit"]
+    },
+    {
+      "id": "3F_371",
+      "word": "sustainability",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The ability to be maintained without depleting resources.",
+      "example": "Sustainability has become a priority for major corporations.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_372",
+      "word": "sustainable",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Able to be maintained at a certain level.",
+      "example": "The company adopted a more sustainable supply chain model.",
+      "synonyms": [],
+      "antonyms": ["unsustainable"]
+    },
+    {
+      "id": "3F_373",
+      "word": "synergy",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Increased effectiveness from combined action.",
+      "example": "The merger created synergy between the two companies' operations.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_374",
+      "word": "tariff",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A tax imposed on imported goods.",
+      "example": "The government imposed tariffs on imported steel.",
+      "synonyms": ["duty"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_375",
+      "word": "tightening",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The process of making stricter or more restrictive.",
+      "example": "Monetary tightening raised borrowing costs across the economy.",
+      "synonyms": [],
+      "antonyms": ["loosening"]
+    },
+    {
+      "id": "3F_376",
+      "word": "trade",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The buying and selling of goods.",
+      "example": "International trade boosted the country's economic growth.",
+      "synonyms": ["commerce"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_377",
+      "word": "trade-off",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A balance between two competing factors.",
+      "example": "The company faced a trade-off between cost and quality.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_378",
+      "word": "trademark",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A symbol legally registered to represent a company.",
+      "example": "The company registered a new trademark for its logo.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_379",
+      "word": "trader",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A person who buys and sells goods or securities.",
+      "example": "The trader executed several large transactions before the market closed.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_380",
+      "word": "training",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The action of teaching a skill.",
+      "example": "Employee training improved overall productivity.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_381",
+      "word": "uncertainty",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A state of doubt about future outcomes.",
+      "example": "Economic uncertainty caused investors to pull back on spending.",
+      "synonyms": ["doubt"],
+      "antonyms": ["certainty"]
+    },
+    {
+      "id": "3F_382",
+      "word": "unemployment",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The state of being without a paid job.",
+      "example": "Unemployment fell as the economy continued to recover.",
+      "synonyms": [],
+      "antonyms": ["employment"]
+    },
+    {
+      "id": "3F_383",
+      "word": "valuation",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An estimation of the worth of something.",
+      "example": "The startup's valuation doubled after its latest funding round.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3F_384",
+      "word": "volatile",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Subject to rapid and unpredictable change.",
+      "example": "The stock market remained volatile throughout the earnings season.",
+      "synonyms": ["unstable"],
+      "antonyms": ["stable"]
+    },
+    {
+      "id": "3F_385",
+      "word": "volatility",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The tendency to change rapidly and unpredictably.",
+      "example": "Market volatility increased investor anxiety.",
+      "synonyms": ["instability"],
+      "antonyms": ["stability"]
+    },
+    {
+      "id": "3F_386",
+      "word": "wage",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A fixed regular payment for work, usually manual.",
+      "example": "The company raised the minimum wage for hourly workers.",
+      "synonyms": ["pay"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_387",
+      "word": "wager",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A bet, or something risked on an uncertain outcome.",
+      "example": "The investment was seen as a wager on future demand.",
+      "synonyms": ["bet", "gamble"],
+      "antonyms": []
+    },
+    {
+      "id": "3F_388",
+      "word": "wealth",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "An abundance of valuable possessions or money.",
+      "example": "The country's wealth grew steadily over the past decade.",
+      "synonyms": ["riches"],
+      "antonyms": ["poverty"]
+    },
+    {
+      "id": "3F_389",
+      "word": "wealthy",
+      "type": "adjective",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "Having a great deal of money or assets.",
+      "example": "Wealthy investors dominate the private equity market.",
+      "synonyms": ["rich", "affluent"],
+      "antonyms": ["poor"]
+    },
+    {
+      "id": "3F_390",
+      "word": "wholesale",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The selling of goods in large quantities at low prices.",
+      "example": "The company sells its products wholesale to retailers.",
+      "synonyms": [],
+      "antonyms": ["retail"]
+    },
+    {
+      "id": "3F_391",
+      "word": "wholesaler",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "A business that sells goods in bulk to retailers.",
+      "example": "The wholesaler supplies dozens of local grocery stores.",
+      "synonyms": [],
+      "antonyms": ["retailer"]
+    },
+    {
+      "id": "3F_392",
+      "word": "workforce",
+      "type": "noun",
+      "category": "Business, Economics, Globalization & Employment",
+      "meaning": "The people engaged in or available for work.",
+      "example": "Automation has reshaped the manufacturing workforce significantly.",
+      "synonyms": ["labor force"],
       "antonyms": []
     }
   ]

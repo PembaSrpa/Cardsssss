@@ -4,15 +4,4057 @@
   "words": [
     {
       "id": "3B_001",
-      "word": "placeholder",
+      "word": "advance",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To move forward or make progress, especially in developing or improving something.",
+      "example": "Researchers continue to advance the field of quantum computing.",
+      "synonyms": ["progress", "develop", "improve", "proceed"],
+      "antonyms": ["retreat", "regress", "decline"]
+    },
+    {
+      "id": "3B_002",
+      "word": "advanced",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Highly developed or sophisticated, often referring to modern technology.",
+      "example": "The company invested heavily in advanced robotics for its factories.",
+      "synonyms": [
+        "sophisticated",
+        "cutting-edge",
+        "state-of-the-art",
+        "modern"
+      ],
+      "antonyms": ["primitive", "basic", "rudimentary"]
+    },
+    {
+      "id": "3B_003",
+      "word": "advancement",
       "type": "noun",
       "category": "Technology, Automation & Artificial Intelligence",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "This placeholder sentence will be replaced once real IELTS data is added.",
-      "synonyms": [
-        "sample",
-        "dummy"
-      ],
+      "meaning": "Progress or improvement, especially in technology or knowledge.",
+      "example": "Advancements in artificial intelligence have transformed many industries.",
+      "synonyms": ["progress", "development", "improvement", "innovation"],
+      "antonyms": ["regression", "decline", "stagnation"]
+    },
+    {
+      "id": "3B_004",
+      "word": "advancing",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Moving forward or making progress in development.",
+      "example": "Scientists are advancing rapidly toward more efficient battery technology.",
+      "synonyms": ["progressing", "developing", "improving", "moving forward"],
+      "antonyms": ["retreating", "declining", "stagnating"]
+    },
+    {
+      "id": "3B_005",
+      "word": "advantage",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A favorable circumstance or benefit that gives someone or something an edge.",
+      "example": "Automation gives manufacturers a significant advantage in production speed.",
+      "synonyms": ["benefit", "edge", "upper hand", "superiority"],
+      "antonyms": ["disadvantage", "drawback", "handicap"]
+    },
+    {
+      "id": "3B_006",
+      "word": "advantageous",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Beneficial or favorable, especially for gaining an advantage.",
+      "example": "Adopting new technology early can be advantageous for small businesses.",
+      "synonyms": ["beneficial", "favorable", "useful", "helpful"],
+      "antonyms": ["disadvantageous", "unfavorable", "harmful"]
+    },
+    {
+      "id": "3B_007",
+      "word": "advent",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The arrival or introduction of something new, especially technology.",
+      "example": "The advent of the internet revolutionized global communication.",
+      "synonyms": ["arrival", "emergence", "introduction", "dawn"],
+      "antonyms": ["departure", "disappearance", "end"]
+    },
+    {
+      "id": "3B_008",
+      "word": "adventure",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An exciting or risky experience or undertaking.",
+      "example": "Exploring new technologies can feel like an adventure into the unknown.",
+      "synonyms": ["expedition", "exploit", "escapade", "venture"],
+      "antonyms": ["routine", "monotony"]
+    },
+    {
+      "id": "3B_009",
+      "word": "adventurer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who seeks new, exciting, or risky experiences.",
+      "example": "Tech adventurers often invest in unproven but promising startups.",
+      "synonyms": ["explorer", "pioneer", "risk-taker", "daredevil"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_010",
+      "word": "adventurous",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Willing to take risks or try new and exciting things.",
+      "example": "Adventurous engineers pushed the boundaries of autonomous vehicle design.",
+      "synonyms": ["daring", "bold", "venturesome", "intrepid"],
+      "antonyms": ["cautious", "timid", "unadventurous"]
+    },
+    {
+      "id": "3B_011",
+      "word": "adversarial",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Involving opposition or conflict between two sides.",
+      "example": "Adversarial testing helps identify vulnerabilities in AI systems.",
+      "synonyms": ["hostile", "competitive", "antagonistic", "oppositional"],
+      "antonyms": ["cooperative", "friendly", "collaborative"]
+    },
+    {
+      "id": "3B_012",
+      "word": "adversary",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An opponent or competitor in a conflict or contest.",
+      "example": "In cybersecurity, engineers must anticipate the moves of a sophisticated adversary.",
+      "synonyms": ["opponent", "rival", "competitor", "enemy"],
+      "antonyms": ["ally", "friend", "supporter"]
+    },
+    {
+      "id": "3B_013",
+      "word": "adverse",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Harmful or unfavorable in its effects.",
+      "example": "Rapid automation can have adverse effects on employment in certain sectors.",
+      "synonyms": ["harmful", "negative", "unfavorable", "detrimental"],
+      "antonyms": ["beneficial", "favorable", "positive"]
+    },
+    {
+      "id": "3B_014",
+      "word": "adversely",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a harmful or unfavorable way.",
+      "example": "Poor data quality can adversely affect the accuracy of machine learning models.",
+      "synonyms": ["negatively", "harmfully", "unfavorably", "detrimentally"],
+      "antonyms": ["positively", "favorably", "beneficially"]
+    },
+    {
+      "id": "3B_015",
+      "word": "adversity",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A difficult or challenging situation.",
+      "example": "The startup overcame significant adversity before achieving technological success.",
+      "synonyms": ["hardship", "difficulty", "misfortune", "struggle"],
+      "antonyms": ["prosperity", "ease", "fortune"]
+    },
+    {
+      "id": "3B_016",
+      "word": "advertise",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To promote a product or service publicly.",
+      "example": "Companies increasingly advertise their products through targeted digital algorithms.",
+      "synonyms": ["promote", "publicize", "market", "announce"],
+      "antonyms": ["conceal", "hide", "suppress"]
+    },
+    {
+      "id": "3B_017",
+      "word": "advertisement",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A public promotion of a product or service.",
+      "example": "The advertisement highlighted the smartphone's advanced facial recognition feature.",
+      "synonyms": ["ad", "commercial", "promotion", "publicity"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_018",
+      "word": "advertiser",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or company that promotes products or services.",
+      "example": "Online advertisers use data analytics to target specific consumers.",
+      "synonyms": ["promoter", "marketer", "sponsor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_019",
+      "word": "advertising",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The business or activity of promoting products or services.",
+      "example": "Digital advertising relies heavily on algorithms to reach target audiences.",
+      "synonyms": ["promotion", "marketing", "publicity", "advertisement"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_020",
+      "word": "advice",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Guidance or recommendations offered to someone.",
+      "example": "Experts offered advice on integrating automation into small businesses.",
+      "synonyms": ["guidance", "recommendation", "counsel", "suggestion"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_021",
+      "word": "advisable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Recommended or sensible to do.",
+      "example": "It is advisable to test new software thoroughly before deployment.",
+      "synonyms": ["recommended", "prudent", "sensible", "wise"],
+      "antonyms": ["inadvisable", "unwise", "imprudent"]
+    },
+    {
+      "id": "3B_022",
+      "word": "advise",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To offer suggestions or recommendations.",
+      "example": "Consultants advise companies on how to adopt emerging technologies.",
+      "synonyms": ["recommend", "counsel", "suggest", "guide"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_023",
+      "word": "adviser",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who gives expert advice.",
+      "example": "The tech adviser recommended upgrading the company's cybersecurity systems.",
+      "synonyms": ["consultant", "counselor", "mentor", "advisor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_024",
+      "word": "advisor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who gives expert guidance, often in a professional context.",
+      "example": "Her advisor specialized in artificial intelligence research.",
+      "synonyms": ["consultant", "adviser", "mentor", "counselor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_025",
+      "word": "advisory",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Providing advice or recommendations.",
+      "example": "The committee serves an advisory role in shaping technology policy.",
+      "synonyms": ["consultative", "recommendatory", "guiding"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_026",
+      "word": "advocacy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Public support for a cause or policy.",
+      "example": "Advocacy for digital privacy has grown alongside surveillance technology.",
+      "synonyms": ["support", "promotion", "championing", "campaigning"],
+      "antonyms": ["opposition", "resistance"]
+    },
+    {
+      "id": "3B_027",
+      "word": "advocate",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To publicly support or recommend a cause.",
+      "example": "Many experts advocate for stricter regulation of artificial intelligence.",
+      "synonyms": ["support", "champion", "promote", "endorse"],
+      "antonyms": ["oppose", "discourage", "reject"]
+    },
+    {
+      "id": "3B_028",
+      "word": "aerospace",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The industry concerned with aircraft and spacecraft technology.",
+      "example": "The aerospace industry increasingly relies on autonomous systems.",
+      "synonyms": ["aviation", "astronautics"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_029",
+      "word": "agent",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or system that acts on behalf of another or performs a function.",
+      "example": "The software agent automatically negotiated the best price for the user.",
+      "synonyms": ["representative", "operative", "broker"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_030",
+      "word": "agile",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to move, think, or adapt quickly and easily.",
+      "example": "Agile development methods allow tech teams to respond quickly to change.",
+      "synonyms": ["flexible", "adaptable", "nimble", "responsive"],
+      "antonyms": ["rigid", "inflexible", "sluggish"]
+    },
+    {
+      "id": "3B_031",
+      "word": "algorithm",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A set of rules or steps used to solve a problem or perform a computation.",
+      "example": "The recommendation algorithm analyzes user behavior to suggest content.",
+      "synonyms": ["procedure", "formula", "process"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_032",
+      "word": "analytic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to detailed examination or analysis.",
+      "example": "Analytic tools help businesses interpret large volumes of data.",
+      "synonyms": ["analytical", "systematic", "methodical"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_033",
+      "word": "analytical",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Using logical reasoning to examine or break down information.",
+      "example": "Analytical software identifies patterns within massive datasets.",
+      "synonyms": ["logical", "systematic", "methodical", "investigative"],
+      "antonyms": ["unsystematic", "illogical"]
+    },
+    {
+      "id": "3B_034",
+      "word": "application",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A software program, or the act of putting something into practical use.",
+      "example": "The mobile application uses machine learning to personalize recommendations.",
+      "synonyms": ["app", "program", "software", "use"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_035",
+      "word": "archival",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the storage and preservation of records.",
+      "example": "Archival systems now use cloud storage to preserve digital records.",
+      "synonyms": ["historical", "record-keeping"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_036",
+      "word": "archive",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To collect and store records, often for long-term preservation.",
+      "example": "The company archives all customer data securely in the cloud.",
+      "synonyms": ["record", "store", "catalog"],
+      "antonyms": ["delete", "discard"]
+    },
+    {
+      "id": "3B_037",
+      "word": "arm",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To equip or provide with tools, weapons, or capabilities.",
+      "example": "The device is armed with advanced sensors to detect motion.",
+      "synonyms": ["equip", "provide", "supply"],
+      "antonyms": ["disarm", "strip"]
+    },
+    {
+      "id": "3B_038",
+      "word": "armament",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Military weapons and equipment.",
+      "example": "Modern armament increasingly incorporates artificial intelligence for targeting systems.",
+      "synonyms": ["weaponry", "arms", "ordnance"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_039",
+      "word": "armchair",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A chair with arm supports; also used to describe someone who comments without direct experience.",
+      "example": "Armchair critics often underestimate the complexity of autonomous vehicle design.",
+      "synonyms": ["chair", "seat"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_040",
+      "word": "armed",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Equipped with weapons or, more broadly, equipped with tools or capabilities.",
+      "example": "The robot is armed with multiple sensors for navigation.",
+      "synonyms": ["equipped", "outfitted", "fitted"],
+      "antonyms": ["unarmed", "unequipped"]
+    },
+    {
+      "id": "3B_041",
+      "word": "armenian",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to Armenia, its people, language, or culture.",
+      "example": "An Armenian software engineer led the open-source project's data team.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_042",
+      "word": "armor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Protective covering used to prevent damage.",
+      "example": "The device's outer armor protects its sensitive electronics from impact.",
+      "synonyms": ["shield", "protection", "plating"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_043",
+      "word": "armored",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Protected by a hard defensive covering.",
+      "example": "Armored vehicles increasingly use AI for threat detection.",
+      "synonyms": ["protected", "reinforced", "plated"],
+      "antonyms": ["unprotected", "unarmored"]
+    },
+    {
+      "id": "3B_044",
+      "word": "armpit",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The hollow area under the arm at the shoulder.",
+      "example": "Wearable sensors are sometimes placed near the armpit to monitor body temperature.",
+      "synonyms": ["underarm"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_045",
+      "word": "army",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A large organized military force.",
+      "example": "The army is testing autonomous drones for reconnaissance missions.",
+      "synonyms": ["military", "troops", "forces"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_046",
+      "word": "artificial",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Made or produced by human beings rather than occurring naturally.",
+      "example": "Artificial intelligence is reshaping how businesses process information.",
+      "synonyms": ["synthetic", "man-made", "manufactured"],
+      "antonyms": ["natural", "organic"]
+    },
+    {
+      "id": "3B_047",
+      "word": "artificially",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way that is not natural; through human intervention.",
+      "example": "The system artificially generates realistic images using neural networks.",
+      "synonyms": ["synthetically", "unnaturally"],
+      "antonyms": ["naturally"]
+    },
+    {
+      "id": "3B_048",
+      "word": "assemblage",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A collection or gathering of things or people.",
+      "example": "The exhibit displayed an assemblage of early computing devices.",
+      "synonyms": ["collection", "gathering", "assortment"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_049",
+      "word": "assemble",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To gather parts together to form a whole, or to bring people together.",
+      "example": "Robots assemble electronic components on the factory floor.",
+      "synonyms": ["construct", "build", "put together", "gather"],
+      "antonyms": ["dismantle", "disassemble"]
+    },
+    {
+      "id": "3B_050",
+      "word": "assembled",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Put together from separate parts.",
+      "example": "The assembled circuit board was tested for defects before shipping.",
+      "synonyms": ["constructed", "built", "joined"],
+      "antonyms": ["dismantled"]
+    },
+    {
+      "id": "3B_051",
+      "word": "assembly",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of putting parts together, or a gathering of people.",
+      "example": "Automated assembly lines have increased manufacturing efficiency.",
+      "synonyms": ["construction", "gathering", "assemblage"],
+      "antonyms": ["disassembly"]
+    },
+    {
+      "id": "3B_052",
+      "word": "assist",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To help or support.",
+      "example": "AI chatbots assist customers with troubleshooting technical issues.",
+      "synonyms": ["help", "aid", "support"],
+      "antonyms": ["hinder", "obstruct"]
+    },
+    {
+      "id": "3B_053",
+      "word": "assistance",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Help or support given to someone.",
+      "example": "The software provides real-time assistance to users navigating the platform.",
+      "synonyms": ["help", "aid", "support"],
+      "antonyms": ["hindrance"]
+    },
+    {
+      "id": "3B_054",
+      "word": "assistant",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or system that helps another.",
+      "example": "Virtual assistants can schedule meetings and answer simple questions.",
+      "synonyms": ["helper", "aide", "deputy"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_055",
+      "word": "assisted",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Helped or supported, often by technology.",
+      "example": "Assisted driving features reduce the risk of accidents.",
+      "synonyms": ["helped", "supported", "aided"],
+      "antonyms": ["unassisted"]
+    },
+    {
+      "id": "3B_056",
+      "word": "assistive",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Designed to help, especially people with disabilities.",
+      "example": "Assistive technology enables visually impaired users to navigate digital devices.",
+      "synonyms": ["helpful", "supportive", "aiding"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_057",
+      "word": "augment",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make something greater by adding to it.",
+      "example": "Augmented reality overlays digital information onto the physical world.",
+      "synonyms": ["enhance", "increase", "expand", "boost"],
+      "antonyms": ["reduce", "diminish", "decrease"]
+    },
+    {
+      "id": "3B_058",
+      "word": "automaker",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A company that manufactures automobiles.",
+      "example": "Major automakers are investing billions in electric vehicle technology.",
+      "synonyms": ["car manufacturer", "carmaker"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_059",
+      "word": "automate",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To convert a process so it operates with minimal human intervention.",
+      "example": "Factories automate repetitive tasks to increase efficiency.",
+      "synonyms": ["mechanize", "computerize", "streamline"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_060",
+      "word": "automated",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Operated automatically, with minimal human control.",
+      "example": "The warehouse uses automated systems to sort and ship packages.",
+      "synonyms": ["mechanized", "computerized", "robotic"],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "3B_061",
+      "word": "automatic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Operating independently of human control.",
+      "example": "The automatic braking system prevented a collision.",
+      "synonyms": ["mechanical", "self-operating", "automated"],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "3B_062",
+      "word": "automatically",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way that happens without human intervention.",
+      "example": "The software automatically updates itself when a new version is released.",
+      "synonyms": ["mechanically", "spontaneously"],
+      "antonyms": ["manually"]
+    },
+    {
+      "id": "3B_063",
+      "word": "automation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The use of technology to perform tasks without human involvement.",
+      "example": "Automation has transformed manufacturing and logistics industries.",
+      "synonyms": ["mechanization", "computerization"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_064",
+      "word": "automobile",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A motor vehicle designed for passenger transport.",
+      "example": "Self-driving automobiles rely on complex sensor networks.",
+      "synonyms": ["car", "vehicle"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_065",
+      "word": "automotive",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to motor vehicles.",
+      "example": "The automotive industry has embraced electric and autonomous technologies.",
+      "synonyms": ["vehicular", "car-related"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_066",
+      "word": "autonomous",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to operate independently without human control.",
+      "example": "Autonomous drones can deliver packages without a pilot.",
+      "synonyms": ["independent", "self-governing", "self-operating"],
+      "antonyms": ["dependent", "controlled"]
+    },
+    {
+      "id": "3B_067",
+      "word": "bandwidth",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The capacity of a network to transmit data, or figuratively, available capacity to handle tasks.",
+      "example": "Streaming high-definition video requires significant bandwidth.",
+      "synonyms": ["capacity", "throughput"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_068",
+      "word": "big",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Large in size, extent, or importance.",
+      "example": "Big data analytics allows companies to uncover hidden patterns.",
+      "synonyms": ["large", "substantial", "significant"],
+      "antonyms": ["small", "minor"]
+    },
+    {
+      "id": "3B_069",
+      "word": "biomedical",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to both biology and medicine.",
+      "example": "Biomedical engineers develop devices that monitor patients' vital signs.",
+      "synonyms": ["medical", "clinical"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_070",
+      "word": "biotechnology",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The use of living organisms or biological systems to develop products and technologies.",
+      "example": "Biotechnology companies use AI to accelerate drug discovery.",
+      "synonyms": ["bioengineering", "biotech"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_071",
+      "word": "bitch",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A female dog.",
+      "example": "The kennel used a mobile app to track the health records of each bitch and her puppies.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_072",
+      "word": "bite",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To use the teeth to cut, grip, or wound something; figuratively, to cause sudden harm or trouble.",
+      "example": "An overlooked software bug can bite developers late in the release cycle.",
+      "synonyms": ["nip", "chew", "gnaw"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_073",
+      "word": "biting",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Sharp, harsh, or cutting, often describing criticism or cold.",
+      "example": "The report offered a biting critique of the company's data privacy practices.",
+      "synonyms": ["harsh", "cutting", "scathing", "sharp"],
+      "antonyms": ["mild", "gentle"]
+    },
+    {
+      "id": "3B_074",
+      "word": "bitter",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Having a sharp, unpleasant taste, or feeling resentment.",
+      "example": "Employees felt bitter about being replaced by automated systems.",
+      "synonyms": ["resentful", "harsh", "acrid"],
+      "antonyms": ["sweet", "content"]
+    },
+    {
+      "id": "3B_075",
+      "word": "bitterly",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In an intensely unpleasant or resentful manner.",
+      "example": "Workers complained bitterly about the sudden shift to automation.",
+      "synonyms": ["harshly", "resentfully"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_076",
+      "word": "bitterness",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A feeling of anger or resentment.",
+      "example": "Bitterness among displaced workers grew as automation expanded.",
+      "synonyms": ["resentment", "animosity", "rancor"],
+      "antonyms": ["contentment", "satisfaction"]
+    },
+    {
+      "id": "3B_077",
+      "word": "bittersweet",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Combining both pleasure and pain or regret.",
+      "example": "The launch of the fully automated factory was bittersweet, boosting efficiency but cutting jobs.",
+      "synonyms": ["mixed", "ambivalent"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_078",
+      "word": "brand",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A type of product manufactured by a company, or its distinctive identity.",
+      "example": "The brand invested heavily in AI-driven customer service.",
+      "synonyms": ["trademark", "label", "make"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_079",
+      "word": "brand-name",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to a widely recognized commercial brand.",
+      "example": "Consumers often trust brand-name electronics over generic alternatives.",
+      "synonyms": ["branded", "name-brand"],
+      "antonyms": ["generic", "unbranded"]
+    },
+    {
+      "id": "3B_080",
+      "word": "brand-new",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Completely new and unused.",
+      "example": "The company unveiled its brand-new line of smart home devices.",
+      "synonyms": ["new", "fresh", "unused"],
+      "antonyms": ["old", "used"]
+    },
+    {
+      "id": "3B_081",
+      "word": "brandish",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To wave or flourish something, especially as a threat or display.",
+      "example": "The hacker brandished stolen data as leverage in the ransom demand.",
+      "synonyms": ["wave", "flourish", "wield"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_082",
+      "word": "brandy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A strong alcoholic spirit distilled from wine.",
+      "example": "The distillery uses digital sensors to monitor temperature during brandy production.",
+      "synonyms": ["spirit", "liquor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_083",
+      "word": "broad",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Wide in scope or extent.",
+      "example": "The company adopted a broad strategy for integrating AI across departments.",
+      "synonyms": ["wide", "extensive", "comprehensive"],
+      "antonyms": ["narrow", "limited"]
+    },
+    {
+      "id": "3B_084",
+      "word": "broad-based",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Involving many different areas or groups.",
+      "example": "The broad-based technology reform affected industries from healthcare to finance.",
+      "synonyms": ["wide-ranging", "comprehensive", "extensive"],
+      "antonyms": ["narrow", "limited"]
+    },
+    {
+      "id": "3B_085",
+      "word": "broadband",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A high-capacity internet connection that allows fast data transmission.",
+      "example": "Rural areas still lack reliable broadband access for remote work.",
+      "synonyms": ["high-speed internet"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_086",
+      "word": "broaden",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make or become wider in scope.",
+      "example": "The startup broadened its product range to include AI-powered tools.",
+      "synonyms": ["expand", "widen", "extend"],
+      "antonyms": ["narrow", "restrict"]
+    },
+    {
+      "id": "3B_087",
+      "word": "broadside",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A strong verbal or written attack.",
+      "example": "The columnist launched a broadside against unchecked AI surveillance.",
+      "synonyms": ["attack", "criticism", "tirade"],
+      "antonyms": ["praise", "endorsement"]
+    },
+    {
+      "id": "3B_088",
+      "word": "broadway",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A major theater district in New York City known for live performances.",
+      "example": "Broadway productions now use digital projection technology for stage effects.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_089",
+      "word": "capability",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The ability to perform a particular task or function.",
+      "example": "The new chip significantly increases the device's processing capability.",
+      "synonyms": ["ability", "capacity", "competence"],
+      "antonyms": ["incapacity", "inability"]
+    },
+    {
+      "id": "3B_090",
+      "word": "chip",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A small piece of semiconductor material used to carry out computing functions.",
+      "example": "Modern smartphones rely on powerful chips to run complex applications.",
+      "synonyms": ["microchip", "processor", "semiconductor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_091",
+      "word": "chipped",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Fitted with an electronic chip, or having a small piece broken off.",
+      "example": "The chipped credit card allows for secure contactless payments.",
+      "synonyms": ["fitted", "embedded"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_092",
+      "word": "circuit",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A closed path through which an electric current flows.",
+      "example": "Engineers designed a new circuit to reduce power consumption in the device.",
+      "synonyms": ["pathway", "network", "loop"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_093",
+      "word": "circuitry",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The system of electrical circuits within a device.",
+      "example": "The smartphone's circuitry became more compact with each new generation.",
+      "synonyms": ["wiring", "electronics"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_094",
+      "word": "clone",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make an identical copy of something.",
+      "example": "Developers can clone a software repository to work on it locally.",
+      "synonyms": ["copy", "replicate", "duplicate"],
+      "antonyms": ["originate"]
+    },
+    {
+      "id": "3B_095",
+      "word": "cloud",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Remote servers used to store, manage, and process data over the internet.",
+      "example": "The company migrated its entire database to the cloud.",
+      "synonyms": ["online storage", "remote server"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_096",
+      "word": "cloudless",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Without clouds; clear.",
+      "example": "The satellite captured cloudless images of the region for precise mapping.",
+      "synonyms": ["clear", "unclouded"],
+      "antonyms": ["cloudy", "overcast"]
+    },
+    {
+      "id": "3B_097",
+      "word": "cloudy",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Covered with clouds; unclear.",
+      "example": "Cloudy weather can interfere with satellite communication signals.",
+      "synonyms": ["overcast", "hazy"],
+      "antonyms": ["clear", "cloudless"]
+    },
+    {
+      "id": "3B_098",
+      "word": "code",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Instructions written in a programming language.",
+      "example": "Developers write code to build and maintain software applications.",
+      "synonyms": ["script", "program", "instructions"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_099",
+      "word": "coded",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Written or converted into code.",
+      "example": "The coded algorithm processes millions of transactions per second.",
+      "synonyms": ["encoded", "programmed"],
+      "antonyms": ["decoded"]
+    },
+    {
+      "id": "3B_100",
+      "word": "computation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of calculating something, especially using a computer.",
+      "example": "Quantum computation could solve problems beyond the reach of classical computers.",
+      "synonyms": ["calculation", "processing"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_101",
+      "word": "computational",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to computation or the use of computers.",
+      "example": "Computational biology combines data science with genetic research.",
+      "synonyms": ["computer-based", "algorithmic"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_102",
+      "word": "compute",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To calculate or determine something, especially using a computer.",
+      "example": "The system computes shipping costs based on distance and weight.",
+      "synonyms": ["calculate", "process", "determine"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_103",
+      "word": "computer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An electronic device that processes data according to instructions.",
+      "example": "The computer analyzed thousands of data points within seconds.",
+      "synonyms": ["PC", "machine", "processor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_104",
+      "word": "computer-based",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relying on or conducted using computers.",
+      "example": "Computer-based testing has replaced traditional paper exams in many schools.",
+      "synonyms": ["digital", "computerized"],
+      "antonyms": ["manual", "paper-based"]
+    },
+    {
+      "id": "3B_105",
+      "word": "computer-generated",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Produced by a computer, especially images or effects.",
+      "example": "The film relied heavily on computer-generated special effects.",
+      "synonyms": ["digitally created", "simulated"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_106",
+      "word": "computerized",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Controlled or performed by computer.",
+      "example": "The factory switched to a fully computerized inventory system.",
+      "synonyms": ["automated", "digitized"],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "3B_107",
+      "word": "computing",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The use or operation of computers.",
+      "example": "Cloud computing has reduced the cost of data storage for businesses.",
+      "synonyms": ["processing", "data handling"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_108",
+      "word": "connect",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To join or link together.",
+      "example": "The app connects users with service providers in real time.",
+      "synonyms": ["link", "join", "attach"],
+      "antonyms": ["disconnect", "separate"]
+    },
+    {
+      "id": "3B_109",
+      "word": "connected",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Joined or linked together, especially via networks.",
+      "example": "Connected devices allow homeowners to control appliances remotely.",
+      "synonyms": ["linked", "networked", "joined"],
+      "antonyms": ["disconnected", "isolated"]
+    },
+    {
+      "id": "3B_110",
+      "word": "connectedness",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of being connected.",
+      "example": "Increased connectedness through social media has changed how people communicate.",
+      "synonyms": ["connection", "linkage", "interdependence"],
+      "antonyms": ["isolation", "separation"]
+    },
+    {
+      "id": "3B_111",
+      "word": "connecting",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Joining or linking things together.",
+      "example": "The software works by connecting multiple databases into a single interface.",
+      "synonyms": ["linking", "joining", "bridging"],
+      "antonyms": ["disconnecting"]
+    },
+    {
+      "id": "3B_112",
+      "word": "connection",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A link or relationship between things.",
+      "example": "A stable internet connection is essential for cloud-based applications.",
+      "synonyms": ["link", "bond", "relationship"],
+      "antonyms": ["disconnection", "separation"]
+    },
+    {
+      "id": "3B_113",
+      "word": "connectivity",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of being connected, especially to networks.",
+      "example": "Improved connectivity allows remote workers to collaborate seamlessly.",
+      "synonyms": ["linkage", "networking"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_114",
+      "word": "connector",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device or component that joins things together.",
+      "example": "The new connector allows faster data transfer between devices.",
+      "synonyms": ["plug", "adapter", "link"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_115",
+      "word": "content",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Material such as text, images, or data, especially digital.",
+      "example": "The platform uses AI to recommend content based on user preferences.",
+      "synonyms": ["material", "information", "media"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_116",
+      "word": "contented",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Satisfied or at peace.",
+      "example": "Employees reported feeling more contented after automation reduced repetitive tasks.",
+      "synonyms": ["satisfied", "pleased", "fulfilled"],
+      "antonyms": ["discontented", "dissatisfied"]
+    },
+    {
+      "id": "3B_117",
+      "word": "contention",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A point being argued, or disagreement.",
+      "example": "The main contention in the debate was whether AI should replace human decision-making.",
+      "synonyms": ["argument", "dispute", "claim"],
+      "antonyms": ["agreement", "consensus"]
+    },
+    {
+      "id": "3B_118",
+      "word": "contentious",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Causing or likely to cause disagreement.",
+      "example": "The use of facial recognition remains a contentious issue in privacy debates.",
+      "synonyms": ["controversial", "disputed", "divisive"],
+      "antonyms": ["uncontroversial", "agreed"]
+    },
+    {
+      "id": "3B_119",
+      "word": "contentment",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A state of happiness and satisfaction.",
+      "example": "Some workers found contentment in roles that combined creativity with automation.",
+      "synonyms": ["satisfaction", "happiness", "fulfillment"],
+      "antonyms": ["discontent", "dissatisfaction"]
+    },
+    {
+      "id": "3B_120",
+      "word": "conversational",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to informal talk or dialogue.",
+      "example": "Conversational AI systems can now handle complex customer service inquiries.",
+      "synonyms": ["chatty", "dialogic", "informal"],
+      "antonyms": ["formal", "written"]
+    },
+    {
+      "id": "3B_121",
+      "word": "cyberspace",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The virtual environment in which digital communication occurs.",
+      "example": "Cybercriminals exploit vulnerabilities in cyberspace to steal data.",
+      "synonyms": ["internet", "digital realm"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_122",
+      "word": "data",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Facts and statistics collected for reference or analysis.",
+      "example": "Companies collect vast amounts of data to train machine learning models.",
+      "synonyms": ["information", "statistics", "facts"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_123",
+      "word": "database",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An organized collection of data stored electronically.",
+      "example": "The database stores millions of customer records securely.",
+      "synonyms": ["repository", "data bank"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_124",
+      "word": "decentralization",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of distributing functions or power away from a central authority.",
+      "example": "Blockchain technology promotes the decentralization of financial systems.",
+      "synonyms": ["distribution", "dispersal"],
+      "antonyms": ["centralization"]
+    },
+    {
+      "id": "3B_125",
+      "word": "decentralized",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Not controlled by a single central authority.",
+      "example": "Decentralized networks are more resistant to single points of failure.",
+      "synonyms": ["distributed", "dispersed"],
+      "antonyms": ["centralized"]
+    },
+    {
+      "id": "3B_126",
+      "word": "deep",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Extending far down or in, or intense; also used in terms like 'deep learning'.",
+      "example": "Deep learning models require vast amounts of training data.",
+      "synonyms": ["profound", "intense", "thorough"],
+      "antonyms": ["shallow", "superficial"]
+    },
+    {
+      "id": "3B_127",
+      "word": "deep-sea",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the deepest parts of the ocean.",
+      "example": "Deep-sea robots explore areas too dangerous for human divers.",
+      "synonyms": ["abyssal", "oceanic"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_128",
+      "word": "deep-seated",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Firmly established; difficult to change.",
+      "example": "Deep-seated resistance to automation persists in some industries.",
+      "synonyms": ["entrenched", "ingrained", "rooted"],
+      "antonyms": ["superficial", "shallow"]
+    },
+    {
+      "id": "3B_129",
+      "word": "deep-water",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to or situated in deep water.",
+      "example": "Deep-water sensors monitor ocean temperature changes caused by climate shifts.",
+      "synonyms": ["offshore", "oceanic"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_130",
+      "word": "deepen",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make or become deeper or more intense.",
+      "example": "The economic downturn deepened concerns about job losses from automation.",
+      "synonyms": ["intensify", "increase", "extend"],
+      "antonyms": ["lessen", "reduce"]
+    },
+    {
+      "id": "3B_131",
+      "word": "deepening",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Becoming more intense or profound.",
+      "example": "The deepening reliance on AI has raised new ethical questions.",
+      "synonyms": ["intensifying", "growing"],
+      "antonyms": ["lessening"]
+    },
+    {
+      "id": "3B_132",
+      "word": "deepest",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Most deep; furthest down or most intense.",
+      "example": "The submarine reached the deepest point of the ocean trench using advanced navigation systems.",
+      "synonyms": ["profoundest", "most extreme"],
+      "antonyms": ["shallowest"]
+    },
+    {
+      "id": "3B_133",
+      "word": "deploy",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To put into use or action, especially for a specific purpose.",
+      "example": "The company plans to deploy the new software across all branches.",
+      "synonyms": ["implement", "launch", "utilize"],
+      "antonyms": ["withdraw", "recall"]
+    },
+    {
+      "id": "3B_134",
+      "word": "deployment",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of deploying something.",
+      "example": "The deployment of autonomous vehicles requires extensive safety testing.",
+      "synonyms": ["implementation", "launch", "rollout"],
+      "antonyms": ["withdrawal"]
+    },
+    {
+      "id": "3B_135",
+      "word": "detect",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To discover or identify the presence of something.",
+      "example": "Sensors detect unusual activity and alert security teams instantly.",
+      "synonyms": ["identify", "discover", "notice"],
+      "antonyms": ["overlook", "miss"]
+    },
+    {
+      "id": "3B_136",
+      "word": "detectable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be detected or noticed.",
+      "example": "The malware was barely detectable by standard antivirus software.",
+      "synonyms": ["noticeable", "identifiable", "perceptible"],
+      "antonyms": ["undetectable", "imperceptible"]
+    },
+    {
+      "id": "3B_137",
+      "word": "detection",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of discovering or identifying something.",
+      "example": "Early detection of cyberattacks can prevent major data breaches.",
+      "synonyms": ["identification", "discovery"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_138",
+      "word": "detective",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who investigates crimes; also used to describe investigative tools or software.",
+      "example": "Detective software analyzes transaction patterns to uncover fraud.",
+      "synonyms": ["investigator", "sleuth"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_139",
+      "word": "detector",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device used to discover the presence of something.",
+      "example": "The smoke detector is now connected to a smart home network.",
+      "synonyms": ["sensor", "monitor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_140",
+      "word": "device",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A piece of equipment designed for a particular purpose.",
+      "example": "Wearable devices track users' heart rate and activity levels.",
+      "synonyms": ["gadget", "instrument", "apparatus"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_141",
+      "word": "diagnostic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the identification of a problem or condition.",
+      "example": "Diagnostic algorithms help doctors detect diseases earlier.",
+      "synonyms": ["analytical", "evaluative"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_142",
+      "word": "diagnostics",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of identifying problems, especially in machinery or medicine.",
+      "example": "The car's onboard diagnostics alert drivers to mechanical issues.",
+      "synonyms": ["analysis", "testing"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_143",
+      "word": "digit",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A single numeral, or a finger or toe.",
+      "example": "The system generates a unique six-digit code for verification.",
+      "synonyms": ["numeral", "figure"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_144",
+      "word": "digital",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to technology that uses discrete data, especially computers.",
+      "example": "Digital payments have largely replaced cash in many countries.",
+      "synonyms": ["electronic", "computerized"],
+      "antonyms": ["analog"]
+    },
+    {
+      "id": "3B_145",
+      "word": "digitally",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a digital manner, using computer technology.",
+      "example": "Documents can now be signed digitally instead of on paper.",
+      "synonyms": ["electronically"],
+      "antonyms": ["manually"]
+    },
+    {
+      "id": "3B_146",
+      "word": "digitize",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To convert information into digital form.",
+      "example": "Libraries are digitizing rare manuscripts to preserve them for future generations.",
+      "synonyms": ["computerize", "convert"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_147",
+      "word": "displace",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To force something or someone out of its usual place.",
+      "example": "Automation may displace workers in repetitive manufacturing roles.",
+      "synonyms": ["replace", "dislodge", "remove"],
+      "antonyms": ["retain", "keep"]
+    },
+    {
+      "id": "3B_148",
+      "word": "displaced",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Forced out of a usual place or position.",
+      "example": "Displaced workers were offered retraining programs in digital skills.",
+      "synonyms": ["dislodged", "uprooted", "ousted"],
+      "antonyms": ["retained"]
+    },
+    {
+      "id": "3B_149",
+      "word": "displacement",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of moving something from its usual place.",
+      "example": "The displacement of workers by robots is a growing economic concern.",
+      "synonyms": ["replacement", "removal", "dislocation"],
+      "antonyms": ["retention"]
+    },
+    {
+      "id": "3B_150",
+      "word": "disrupt",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To interrupt or disturb the normal course of something.",
+      "example": "New technologies often disrupt traditional business models.",
+      "synonyms": ["interrupt", "disturb", "upset"],
+      "antonyms": ["maintain", "sustain"]
+    },
+    {
+      "id": "3B_151",
+      "word": "disruption",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A disturbance or interruption of a normal process.",
+      "example": "The industry faced significant disruption following the rise of AI-driven platforms.",
+      "synonyms": ["interruption", "upheaval", "disturbance"],
+      "antonyms": ["stability", "continuity"]
+    },
+    {
+      "id": "3B_152",
+      "word": "disruptive",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Causing disturbance or radical change.",
+      "example": "Disruptive technologies often replace established industries entirely.",
+      "synonyms": ["innovative", "revolutionary", "upsetting"],
+      "antonyms": ["conventional", "stabilizing"]
+    },
+    {
+      "id": "3B_153",
+      "word": "distribute",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To give out or spread something across an area or group.",
+      "example": "The platform distributes computing tasks across thousands of servers.",
+      "synonyms": ["disperse", "allocate", "spread"],
+      "antonyms": ["collect", "concentrate"]
+    },
+    {
+      "id": "3B_154",
+      "word": "distributed",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Spread out over an area, especially across a network.",
+      "example": "Distributed computing systems process data across multiple locations simultaneously.",
+      "synonyms": ["dispersed", "decentralized", "spread"],
+      "antonyms": ["centralized", "concentrated"]
+    },
+    {
+      "id": "3B_155",
+      "word": "distribution",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of spreading or delivering something.",
+      "example": "The company improved its distribution network using predictive algorithms.",
+      "synonyms": ["allocation", "dispersal", "delivery"],
+      "antonyms": ["concentration"]
+    },
+    {
+      "id": "3B_156",
+      "word": "distributor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or company that supplies goods to retailers.",
+      "example": "The distributor uses automated tracking to manage its supply chain.",
+      "synonyms": ["supplier", "wholesaler", "dealer"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_157",
+      "word": "drone",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An unmanned aircraft controlled remotely or autonomously.",
+      "example": "Drones are increasingly used to deliver packages in remote areas.",
+      "synonyms": ["UAV", "unmanned aircraft"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_158",
+      "word": "e-commerce",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The buying and selling of goods and services online.",
+      "example": "E-commerce sales have surged as more consumers shop online.",
+      "synonyms": ["online retail", "online commerce"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_159",
+      "word": "economic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to trade, industry, or the management of resources.",
+      "example": "Automation has significant economic implications for the labor market.",
+      "synonyms": ["financial", "fiscal", "commercial"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_160",
+      "word": "economical",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Giving good value or using resources efficiently.",
+      "example": "The company chose an economical cloud storage plan for its data needs.",
+      "synonyms": ["cost-effective", "efficient", "thrifty"],
+      "antonyms": ["wasteful", "extravagant"]
+    },
+    {
+      "id": "3B_161",
+      "word": "economically",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way relating to economics, or in an efficient, cost-saving manner.",
+      "example": "The new system runs more economically, reducing energy costs.",
+      "synonyms": ["efficiently", "cost-effectively"],
+      "antonyms": ["wastefully"]
+    },
+    {
+      "id": "3B_162",
+      "word": "economics",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The study of the production, distribution, and consumption of goods and services.",
+      "example": "Economics increasingly incorporates data science to model consumer behavior.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_163",
+      "word": "economist",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An expert who studies economics.",
+      "example": "The economist predicted that automation would reshape entire industries.",
+      "synonyms": ["analyst", "financial expert"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_164",
+      "word": "economy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The system of production and consumption within a region.",
+      "example": "The digital economy has grown rapidly over the past decade.",
+      "synonyms": ["marketplace", "financial system"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_165",
+      "word": "efficiency",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of achieving maximum output with minimum wasted effort.",
+      "example": "Automation improves efficiency by reducing manual errors.",
+      "synonyms": ["productivity", "effectiveness"],
+      "antonyms": ["inefficiency", "waste"]
+    },
+    {
+      "id": "3B_166",
+      "word": "efficient",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Achieving maximum productivity with minimum wasted effort.",
+      "example": "The efficient algorithm processes requests in milliseconds.",
+      "synonyms": ["productive", "effective", "streamlined"],
+      "antonyms": ["inefficient", "wasteful"]
+    },
+    {
+      "id": "3B_167",
+      "word": "efficiently",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way that achieves maximum productivity with minimum waste.",
+      "example": "The system efficiently allocates resources across the network.",
+      "synonyms": ["productively", "effectively"],
+      "antonyms": ["inefficiently"]
+    },
+    {
+      "id": "3B_168",
+      "word": "empower",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To give someone the authority or confidence to do something.",
+      "example": "Digital tools empower small businesses to compete globally.",
+      "synonyms": ["enable", "authorize", "strengthen"],
+      "antonyms": ["restrict", "disempower"]
+    },
+    {
+      "id": "3B_169",
+      "word": "empowering",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Giving someone greater confidence or capability.",
+      "example": "Access to technology can be empowering for underserved communities.",
+      "synonyms": ["enabling", "encouraging", "strengthening"],
+      "antonyms": ["restrictive", "discouraging"]
+    },
+    {
+      "id": "3B_170",
+      "word": "empowerment",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of gaining greater control or confidence.",
+      "example": "Digital empowerment has allowed remote workers to build independent careers.",
+      "synonyms": ["enablement", "strengthening"],
+      "antonyms": ["disempowerment"]
+    },
+    {
+      "id": "3B_171",
+      "word": "encode",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To convert information into a coded form.",
+      "example": "The system encodes user data before transmitting it securely.",
+      "synonyms": ["encrypt", "translate", "convert"],
+      "antonyms": ["decode"]
+    },
+    {
+      "id": "3B_172",
+      "word": "encryption",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of converting information into a secure code.",
+      "example": "End-to-end encryption protects messages from being intercepted.",
+      "synonyms": ["encoding", "cipher"],
+      "antonyms": ["decryption"]
+    },
+    {
+      "id": "3B_173",
+      "word": "engineered",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Designed and built using engineering principles.",
+      "example": "The engineered system withstood extreme temperature fluctuations.",
+      "synonyms": ["designed", "constructed", "built"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_174",
+      "word": "enterprise",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A business or organization, especially a large one; also a bold undertaking.",
+      "example": "Large enterprises are adopting AI to streamline operations.",
+      "synonyms": ["business", "company", "venture"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_175",
+      "word": "evolve",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To develop gradually, especially over time.",
+      "example": "Machine learning models evolve as they are trained on more data.",
+      "synonyms": ["develop", "progress", "transform"],
+      "antonyms": ["stagnate"]
+    },
+    {
+      "id": "3B_176",
+      "word": "evolved",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Having developed gradually from an earlier form.",
+      "example": "The evolved algorithm performs significantly better than its predecessor.",
+      "synonyms": ["developed", "advanced", "transformed"],
+      "antonyms": ["unchanged"]
+    },
+    {
+      "id": "3B_177",
+      "word": "evolving",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Developing or changing gradually.",
+      "example": "Evolving technology requires businesses to constantly update their skills.",
+      "synonyms": ["developing", "changing", "progressing"],
+      "antonyms": ["static", "stagnant"]
+    },
+    {
+      "id": "3B_178",
+      "word": "execute",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To carry out or perform an action, especially a program's instructions.",
+      "example": "The processor executes millions of instructions per second.",
+      "synonyms": ["perform", "carry out", "run"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_179",
+      "word": "execution",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of carrying out a plan or program.",
+      "example": "Efficient code execution is critical for real-time applications.",
+      "synonyms": ["performance", "implementation"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_180",
+      "word": "executioner",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who carries out a death sentence.",
+      "example": "The historical drama depicted an executioner from the medieval era.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_181",
+      "word": "executive",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A senior manager responsible for running a business.",
+      "example": "Tech executives are prioritizing investment in artificial intelligence.",
+      "synonyms": ["manager", "director", "officer"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_182",
+      "word": "fast",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Moving or operating quickly.",
+      "example": "Fast processors allow real-time data analysis.",
+      "synonyms": ["quick", "rapid", "swift"],
+      "antonyms": ["slow", "sluggish"]
+    },
+    {
+      "id": "3B_183",
+      "word": "filter",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To remove unwanted elements from something.",
+      "example": "The spam filter automatically blocks suspicious emails.",
+      "synonyms": ["sift", "screen", "strain"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_184",
+      "word": "filtering",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of removing unwanted elements.",
+      "example": "Content filtering algorithms flag inappropriate material automatically.",
+      "synonyms": ["screening", "sorting"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_185",
+      "word": "freelance",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Working independently rather than being employed by a single company.",
+      "example": "Many freelance developers use online platforms to find remote work.",
+      "synonyms": ["independent", "self-employed"],
+      "antonyms": ["employed", "salaried"]
+    },
+    {
+      "id": "3B_186",
+      "word": "frontier",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The furthest extent of knowledge or achievement in a field.",
+      "example": "Quantum computing represents the next frontier in technology.",
+      "synonyms": ["boundary", "edge", "cutting edge"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_187",
+      "word": "generate",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To produce or create something.",
+      "example": "The AI model can generate realistic images from text descriptions.",
+      "synonyms": ["produce", "create", "yield"],
+      "antonyms": ["destroy", "eliminate"]
+    },
+    {
+      "id": "3B_188",
+      "word": "generating",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Producing or creating something.",
+      "example": "The software is capable of generating detailed reports automatically.",
+      "synonyms": ["producing", "creating", "yielding"],
+      "antonyms": ["destroying"]
+    },
+    {
+      "id": "3B_189",
+      "word": "generation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of producing something, or a group of people born around the same time.",
+      "example": "The new generation of processors offers significantly faster speeds.",
+      "synonyms": ["production", "creation", "cohort"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_190",
+      "word": "generational",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to a generation or the differences between generations.",
+      "example": "Generational shifts in technology use have changed workplace communication.",
+      "synonyms": ["age-related"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_191",
+      "word": "generator",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device or program that produces something.",
+      "example": "The password generator creates secure, random combinations.",
+      "synonyms": ["producer", "creator"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_192",
+      "word": "genetic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to genes or heredity.",
+      "example": "Genetic testing has become more accessible through advances in biotechnology.",
+      "synonyms": ["hereditary", "inherited"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_193",
+      "word": "genetically",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way relating to genes.",
+      "example": "Genetically modified crops are engineered to resist pests.",
+      "synonyms": ["hereditarily"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_194",
+      "word": "geneticist",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A scientist who studies genetics.",
+      "example": "The geneticist used AI to analyze patterns in the human genome.",
+      "synonyms": ["genetic scientist", "researcher"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_195",
+      "word": "genetics",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The study of genes and heredity.",
+      "example": "Advances in genetics have accelerated personalized medicine.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_196",
+      "word": "genome",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The complete set of genetic material in an organism.",
+      "example": "Scientists used computational tools to map the human genome.",
+      "synonyms": ["genetic code"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_197",
+      "word": "gig",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A short-term or freelance job, especially within the gig economy.",
+      "example": "The gig economy relies heavily on apps that connect workers with short-term jobs.",
+      "synonyms": ["job", "task", "assignment"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_198",
+      "word": "gigantic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Extremely large.",
+      "example": "The company processes a gigantic volume of data every second.",
+      "synonyms": ["huge", "massive", "enormous"],
+      "antonyms": ["tiny", "minuscule"]
+    },
+    {
+      "id": "3B_199",
+      "word": "giggle",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To laugh in a light, silly way.",
+      "example": "The chatbot's playful jokes made users giggle during testing.",
+      "synonyms": ["chuckle", "titter"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_200",
+      "word": "graphical",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to visual representation, such as diagrams or images.",
+      "example": "The graphical interface makes the software easier for beginners to use.",
+      "synonyms": ["visual", "pictorial"],
+      "antonyms": ["textual"]
+    },
+    {
+      "id": "3B_201",
+      "word": "graphically",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a visual or vividly descriptive way.",
+      "example": "The dashboard graphically displays real-time performance metrics.",
+      "synonyms": ["visually", "vividly"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_202",
+      "word": "grid",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A network of lines, or an electricity distribution network.",
+      "example": "Smart grids use sensors to balance electricity supply and demand.",
+      "synonyms": ["network", "framework"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_203",
+      "word": "gridlock",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A situation of severe congestion or standstill.",
+      "example": "Traffic gridlock could be reduced through AI-optimized signal systems.",
+      "synonyms": ["standstill", "congestion", "deadlock"],
+      "antonyms": ["flow", "movement"]
+    },
+    {
+      "id": "3B_204",
+      "word": "hack",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To gain unauthorized access to a computer system.",
+      "example": "Hackers attempted to hack the company's customer database.",
+      "synonyms": ["infiltrate", "breach", "crack"],
+      "antonyms": ["protect", "secure"]
+    },
+    {
+      "id": "3B_205",
+      "word": "hacker",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who gains unauthorized access to computer systems.",
+      "example": "The hacker exploited a flaw in the outdated software.",
+      "synonyms": ["cybercriminal", "intruder"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_206",
+      "word": "hardware",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The physical components of a computer system.",
+      "example": "Upgrading the hardware improved the computer's processing speed.",
+      "synonyms": ["equipment", "machinery"],
+      "antonyms": ["software"]
+    },
+    {
+      "id": "3B_207",
+      "word": "holistic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Considering the whole of something rather than its individual parts.",
+      "example": "A holistic approach to AI ethics considers social, legal, and technical factors.",
+      "synonyms": ["comprehensive", "integrated", "all-encompassing"],
+      "antonyms": ["partial", "fragmented"]
+    },
+    {
+      "id": "3B_208",
+      "word": "hybrid",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Something made by combining two different elements.",
+      "example": "Hybrid vehicles combine electric motors with traditional combustion engines.",
+      "synonyms": ["combination", "mixture", "blend"],
+      "antonyms": ["pure", "single-source"]
+    },
+    {
+      "id": "3B_209",
+      "word": "hyperactive",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Excessively active or energetic.",
+      "example": "The hyperactive algorithm flagged too many false positives.",
+      "synonyms": ["overactive", "restless"],
+      "antonyms": ["inactive", "lethargic"]
+    },
+    {
+      "id": "3B_210",
+      "word": "hyperactivity",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of being excessively active.",
+      "example": "Engineers reduced the sensor's hyperactivity to prevent unnecessary alerts.",
+      "synonyms": ["overactivity", "restlessness"],
+      "antonyms": ["inactivity", "lethargy"]
+    },
+    {
+      "id": "3B_211",
+      "word": "image",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A visual representation, such as a picture.",
+      "example": "The AI model was trained to classify thousands of images.",
+      "synonyms": ["picture", "photo", "graphic"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_212",
+      "word": "imagery",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Visual images collectively, especially in art or media.",
+      "example": "Satellite imagery helps track deforestation in real time.",
+      "synonyms": ["visuals", "pictures", "graphics"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_213",
+      "word": "immaculate",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Perfectly clean or without flaw.",
+      "example": "The lab maintained immaculate conditions for manufacturing microchips.",
+      "synonyms": ["flawless", "spotless", "pristine"],
+      "antonyms": ["dirty", "flawed"]
+    },
+    {
+      "id": "3B_214",
+      "word": "immature",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Not fully developed; lacking maturity.",
+      "example": "The immature prototype required several more rounds of testing.",
+      "synonyms": ["undeveloped", "unripe", "premature"],
+      "antonyms": ["mature", "developed"]
+    },
+    {
+      "id": "3B_215",
+      "word": "immediacy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The quality of being instant or urgent.",
+      "example": "The immediacy of real-time data helps businesses respond to trends quickly.",
+      "synonyms": ["urgency", "instantaneousness"],
+      "antonyms": ["delay"]
+    },
+    {
+      "id": "3B_216",
+      "word": "immense",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Extremely large.",
+      "example": "The data center handles an immense volume of internet traffic.",
+      "synonyms": ["enormous", "vast", "huge"],
+      "antonyms": ["tiny", "minuscule"]
+    },
+    {
+      "id": "3B_217",
+      "word": "immensely",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To a very great extent.",
+      "example": "Cloud computing has immensely reduced infrastructure costs for startups.",
+      "synonyms": ["greatly", "enormously", "vastly"],
+      "antonyms": ["slightly"]
+    },
+    {
+      "id": "3B_218",
+      "word": "immerse",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To involve deeply in something, especially through experience.",
+      "example": "Virtual reality immerses users in a fully simulated environment.",
+      "synonyms": ["engulf", "absorb", "involve"],
+      "antonyms": ["withdraw", "detach"]
+    },
+    {
+      "id": "3B_219",
+      "word": "immersion",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Deep involvement in an experience or environment.",
+      "example": "Immersion in virtual reality is used for training and simulation.",
+      "synonyms": ["engagement", "absorption"],
+      "antonyms": ["detachment"]
+    },
+    {
+      "id": "3B_220",
+      "word": "imminent",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "About to happen very soon.",
+      "example": "Engineers warned of an imminent system failure without maintenance.",
+      "synonyms": ["impending", "forthcoming", "near"],
+      "antonyms": ["distant", "remote"]
+    },
+    {
+      "id": "3B_221",
+      "word": "immobile",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Not moving or unable to move.",
+      "example": "The sensor detects when a vehicle remains immobile for an extended period.",
+      "synonyms": ["motionless", "stationary", "fixed"],
+      "antonyms": ["mobile", "moving"]
+    },
+    {
+      "id": "3B_222",
+      "word": "immobilize",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To prevent something from moving or functioning.",
+      "example": "A software glitch can immobilize an entire automated production line.",
+      "synonyms": ["paralyze", "disable", "halt"],
+      "antonyms": ["mobilize", "activate"]
+    },
+    {
+      "id": "3B_223",
+      "word": "immoral",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Not conforming to accepted standards of morality.",
+      "example": "Critics argue that certain uses of surveillance technology are immoral.",
+      "synonyms": ["unethical", "wrong", "corrupt"],
+      "antonyms": ["moral", "ethical"]
+    },
+    {
+      "id": "3B_224",
+      "word": "immortal",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Living forever; not subject to death.",
+      "example": "Some researchers speculate about digitally preserving human consciousness as a form of immortality.",
+      "synonyms": ["eternal", "everlasting", "undying"],
+      "antonyms": ["mortal", "temporary"]
+    },
+    {
+      "id": "3B_225",
+      "word": "immortality",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of living forever.",
+      "example": "Advances in biotechnology have reignited debates about digital immortality.",
+      "synonyms": ["eternity", "everlastingness"],
+      "antonyms": ["mortality"]
+    },
+    {
+      "id": "3B_226",
+      "word": "immortalize",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To preserve the memory of something forever.",
+      "example": "Digital archives immortalize historical records for future generations.",
+      "synonyms": ["preserve", "memorialize", "perpetuate"],
+      "antonyms": ["forget", "erase"]
+    },
+    {
+      "id": "3B_227",
+      "word": "immutable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Unchanging over time or unable to be changed.",
+      "example": "Blockchain records are designed to be immutable once verified.",
+      "synonyms": ["unchangeable", "fixed", "permanent"],
+      "antonyms": ["mutable", "changeable"]
+    },
+    {
+      "id": "3B_228",
+      "word": "innovate",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To introduce new ideas, methods, or products.",
+      "example": "Startups must innovate constantly to stay competitive in the tech industry.",
+      "synonyms": ["invent", "pioneer", "create"],
+      "antonyms": ["imitate", "replicate"]
+    },
+    {
+      "id": "3B_229",
+      "word": "innovation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The introduction of new ideas or methods.",
+      "example": "Technological innovation has accelerated dramatically over the past decade.",
+      "synonyms": ["invention", "advancement", "breakthrough"],
+      "antonyms": ["stagnation"]
+    },
+    {
+      "id": "3B_230",
+      "word": "innovative",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Featuring new methods or ideas.",
+      "example": "The company is known for its innovative approach to renewable energy.",
+      "synonyms": ["creative", "original", "groundbreaking"],
+      "antonyms": ["conventional", "unoriginal"]
+    },
+    {
+      "id": "3B_231",
+      "word": "innovator",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who introduces new ideas or methods.",
+      "example": "The innovator developed a groundbreaking algorithm for image recognition.",
+      "synonyms": ["pioneer", "inventor", "trailblazer"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_232",
+      "word": "input",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Data or information put into a system.",
+      "example": "The model's accuracy depends heavily on the quality of its input data.",
+      "synonyms": ["data", "information", "entry"],
+      "antonyms": ["output"]
+    },
+    {
+      "id": "3B_233",
+      "word": "intelligence",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The ability to acquire and apply knowledge and skills.",
+      "example": "Artificial intelligence continues to transform industries worldwide.",
+      "synonyms": ["intellect", "cognition", "reasoning"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_234",
+      "word": "intelligent",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Having or showing intelligence.",
+      "example": "Intelligent systems can learn from data and improve over time.",
+      "synonyms": ["smart", "clever", "sharp"],
+      "antonyms": ["unintelligent", "dull"]
+    },
+    {
+      "id": "3B_235",
+      "word": "intelligently",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In an intelligent manner.",
+      "example": "The system intelligently adjusts its recommendations based on user behavior.",
+      "synonyms": ["cleverly", "wisely", "shrewdly"],
+      "antonyms": ["foolishly"]
+    },
+    {
+      "id": "3B_236",
+      "word": "intelligentsia",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The intellectual elite of a society.",
+      "example": "The tech intelligentsia debated the ethical implications of AI development.",
+      "synonyms": ["intellectuals", "elite"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_237",
+      "word": "intelligible",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be understood.",
+      "example": "The chatbot generates intelligible responses even to complex questions.",
+      "synonyms": ["understandable", "clear", "comprehensible"],
+      "antonyms": ["unintelligible", "confusing"]
+    },
+    {
+      "id": "3B_238",
+      "word": "interface",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A point where two systems, or a user and a system, interact.",
+      "example": "The app's user interface was redesigned for greater simplicity.",
+      "synonyms": ["interaction point", "dashboard", "portal"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_239",
+      "word": "internet",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A global network connecting computers worldwide.",
+      "example": "The internet has transformed how businesses communicate and operate.",
+      "synonyms": ["web", "cyberspace", "network"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_240",
+      "word": "large-scale",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Involving a great size or extent.",
+      "example": "Large-scale data centers require massive amounts of electricity to operate.",
+      "synonyms": ["extensive", "widespread", "massive"],
+      "antonyms": ["small-scale", "limited"]
+    },
+    {
+      "id": "3B_241",
+      "word": "latency",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The delay before a transfer of data begins following an instruction.",
+      "example": "Low latency is essential for real-time video conferencing.",
+      "synonyms": ["delay", "lag"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_242",
+      "word": "layer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A level or thickness of material or a system component.",
+      "example": "The neural network consists of multiple layers that process data sequentially.",
+      "synonyms": ["level", "tier", "stratum"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_243",
+      "word": "layered",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Arranged in layers.",
+      "example": "The layered security system protects data at multiple levels.",
+      "synonyms": ["tiered", "stratified"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_244",
+      "word": "layering",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The arrangement of things in layers.",
+      "example": "Layering of software components improves system modularity.",
+      "synonyms": ["stratification", "tiering"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_245",
+      "word": "leader",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or organization that leads or guides.",
+      "example": "The company became a leader in AI-driven healthcare solutions.",
+      "synonyms": ["pioneer", "head", "chief"],
+      "antonyms": ["follower"]
+    },
+    {
+      "id": "3B_246",
+      "word": "leadership",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of leading a group or organization.",
+      "example": "Strong leadership is essential for guiding successful digital transformation.",
+      "synonyms": ["guidance", "direction", "management"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_247",
+      "word": "learn",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To gain knowledge or skill through study or experience.",
+      "example": "Machine learning systems learn from large datasets over time.",
+      "synonyms": ["acquire", "master", "absorb"],
+      "antonyms": ["forget"]
+    },
+    {
+      "id": "3B_248",
+      "word": "learned",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Having much knowledge acquired through study or training.",
+      "example": "The learned model made accurate predictions after extensive training.",
+      "synonyms": ["knowledgeable", "trained", "educated"],
+      "antonyms": ["untrained"]
+    },
+    {
+      "id": "3B_249",
+      "word": "learner",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or system that acquires knowledge or skill.",
+      "example": "The AI learner improves its accuracy with each new data set.",
+      "synonyms": ["student", "trainee"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_250",
+      "word": "learning",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The acquisition of knowledge or skills.",
+      "example": "Deep learning has driven major breakthroughs in image recognition.",
+      "synonyms": ["study", "training", "education"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_251",
+      "word": "legitimacy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The quality of being legal, valid, or justified.",
+      "example": "Questions about the legitimacy of AI-generated content have grown.",
+      "synonyms": ["validity", "legality", "authenticity"],
+      "antonyms": ["illegitimacy"]
+    },
+    {
+      "id": "3B_252",
+      "word": "legitimate",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Conforming to the law or accepted standards.",
+      "example": "The company verified that its data collection practices were legitimate.",
+      "synonyms": ["legal", "valid", "lawful"],
+      "antonyms": ["illegitimate", "unlawful"]
+    },
+    {
+      "id": "3B_253",
+      "word": "legitimately",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a lawful or valid way.",
+      "example": "The startup legitimately acquired the patent for its new algorithm.",
+      "synonyms": ["legally", "validly"],
+      "antonyms": ["illegitimately"]
+    },
+    {
+      "id": "3B_254",
+      "word": "legitimize",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make something legal or acceptable.",
+      "example": "New regulations aim to legitimize the use of autonomous vehicles on public roads.",
+      "synonyms": ["legalize", "validate", "authorize"],
+      "antonyms": ["delegitimize"]
+    },
+    {
+      "id": "3B_255",
+      "word": "leverage",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To use something to maximum advantage.",
+      "example": "Companies leverage big data to improve decision-making.",
+      "synonyms": ["utilize", "exploit", "use"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_256",
+      "word": "leveraged",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Used to maximum advantage, often strategically.",
+      "example": "The leveraged technology allowed the firm to scale rapidly.",
+      "synonyms": ["utilized", "exploited"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_257",
+      "word": "link",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A connection between two things.",
+      "example": "Clicking the link redirects users to the company's website.",
+      "synonyms": ["connection", "bond", "tie"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_258",
+      "word": "live",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Happening in real time; broadcast as it occurs.",
+      "example": "The platform streams live data from thousands of sensors.",
+      "synonyms": ["real-time", "ongoing"],
+      "antonyms": ["recorded", "delayed"]
+    },
+    {
+      "id": "3B_259",
+      "word": "logistic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the detailed coordination of complex operations.",
+      "example": "Logistic challenges arose when scaling the automated delivery network.",
+      "synonyms": ["logistical", "organizational"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_260",
+      "word": "logistical",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the organization of complicated operations.",
+      "example": "The company faced logistical hurdles in deploying drones nationwide.",
+      "synonyms": ["organizational", "operational"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_261",
+      "word": "logistics",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The detailed coordination of complex operations, especially supply chains.",
+      "example": "AI is streamlining logistics by optimizing delivery routes.",
+      "synonyms": ["coordination", "planning", "supply chain management"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_262",
+      "word": "machine",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device with moving parts that performs a task.",
+      "example": "The machine automatically sorts packages by size and weight.",
+      "synonyms": ["device", "apparatus", "mechanism"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_263",
+      "word": "machinery",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Machines collectively, especially large equipment.",
+      "example": "Factory machinery is increasingly monitored using IoT sensors.",
+      "synonyms": ["equipment", "apparatus"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_264",
+      "word": "machinist",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person skilled in operating machine tools.",
+      "example": "The machinist programmed the CNC machine to produce precise parts.",
+      "synonyms": ["operator", "technician"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_265",
+      "word": "manage",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To be in charge of, or to control something.",
+      "example": "The software helps managers manage large teams remotely.",
+      "synonyms": ["control", "direct", "oversee"],
+      "antonyms": ["neglect", "mismanage"]
+    },
+    {
+      "id": "3B_266",
+      "word": "manageable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be controlled or dealt with.",
+      "example": "Automation makes large workloads more manageable for small teams.",
+      "synonyms": ["controllable", "feasible"],
+      "antonyms": ["unmanageable"]
+    },
+    {
+      "id": "3B_267",
+      "word": "managed",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Organized and controlled.",
+      "example": "The company switched to a fully managed cloud service.",
+      "synonyms": ["controlled", "supervised", "administered"],
+      "antonyms": ["unmanaged"]
+    },
+    {
+      "id": "3B_268",
+      "word": "management",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of dealing with or controlling things or people.",
+      "example": "Effective data management is crucial for AI system performance.",
+      "synonyms": ["administration", "oversight", "control"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_269",
+      "word": "manager",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person responsible for controlling or administering an organization.",
+      "example": "The IT manager oversaw the migration to a new cloud platform.",
+      "synonyms": ["supervisor", "administrator", "director"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_270",
+      "word": "managerial",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the role of a manager.",
+      "example": "Managerial decisions increasingly rely on data-driven insights.",
+      "synonyms": ["administrative", "executive"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_271",
+      "word": "managing",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Being in charge of or controlling something.",
+      "example": "The system assists in managing inventory across multiple warehouses.",
+      "synonyms": ["overseeing", "directing", "controlling"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_272",
+      "word": "manufacture",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make goods on a large scale using machinery.",
+      "example": "The factory uses robots to manufacture electronic components.",
+      "synonyms": ["produce", "make", "fabricate"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_273",
+      "word": "manufactured",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Made industrially, often in bulk.",
+      "example": "The manufactured parts underwent automated quality inspection.",
+      "synonyms": ["produced", "fabricated", "made"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_274",
+      "word": "manufacturer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A company that produces goods.",
+      "example": "The manufacturer adopted AI-driven quality control to reduce defects.",
+      "synonyms": ["producer", "maker", "fabricator"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_275",
+      "word": "manufacturing",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of making goods, especially using machinery.",
+      "example": "Manufacturing has become increasingly automated over the past decade.",
+      "synonyms": ["production", "fabrication"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_276",
+      "word": "market",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A place or context in which goods are bought and sold.",
+      "example": "The market for AI-powered devices continues to expand rapidly.",
+      "synonyms": ["marketplace", "industry"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_277",
+      "word": "marketable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be sold; having qualities that attract buyers.",
+      "example": "The startup developed a highly marketable app for personal finance.",
+      "synonyms": ["sellable", "desirable", "viable"],
+      "antonyms": ["unmarketable"]
+    },
+    {
+      "id": "3B_278",
+      "word": "marketer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who promotes and sells products.",
+      "example": "Digital marketers rely on algorithms to target specific audiences.",
+      "synonyms": ["promoter", "advertiser"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_279",
+      "word": "marketing",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The activity of promoting and selling products or services.",
+      "example": "AI-driven marketing personalizes advertisements for individual users.",
+      "synonyms": ["promotion", "advertising"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_280",
+      "word": "marketplace",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A place, physical or digital, where goods are bought and sold.",
+      "example": "Online marketplaces use algorithms to recommend products to shoppers.",
+      "synonyms": ["market", "exchange", "platform"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_281",
+      "word": "microchip",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A tiny semiconductor chip used in electronic devices.",
+      "example": "Microchips embedded in pet collars help track lost animals.",
+      "synonyms": ["chip", "integrated circuit"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_282",
+      "word": "mobile",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to move or be moved easily; relating to mobile phones.",
+      "example": "Mobile applications allow users to manage finances from anywhere.",
+      "synonyms": ["portable", "movable", "wireless"],
+      "antonyms": ["stationary", "fixed"]
+    },
+    {
+      "id": "3B_283",
+      "word": "mobilization",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of organizing resources or people for a purpose.",
+      "example": "The mobilization of digital resources helped the company respond quickly to the crisis.",
+      "synonyms": ["organization", "deployment"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_284",
+      "word": "mobilize",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To organize and prepare resources or people for action.",
+      "example": "The startup mobilized its engineering team to fix the outage overnight.",
+      "synonyms": ["organize", "deploy", "marshal"],
+      "antonyms": ["demobilize"]
+    },
+    {
+      "id": "3B_285",
+      "word": "model",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A representation of a system, or a version of a product.",
+      "example": "The machine learning model was trained on millions of images.",
+      "synonyms": ["representation", "prototype", "version"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_286",
+      "word": "modeling",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of creating a representation of something.",
+      "example": "Predictive modeling helps businesses forecast future demand.",
+      "synonyms": ["simulation", "representation"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_287",
+      "word": "nanotechnology",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The manipulation of matter at an extremely small, atomic or molecular scale.",
+      "example": "Nanotechnology is being used to create more efficient solar panels.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_288",
+      "word": "network",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A group of interconnected people, systems, or computers.",
+      "example": "The company's network connects thousands of devices across the globe.",
+      "synonyms": ["system", "web", "grid"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_289",
+      "word": "networking",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of connecting systems, or building professional relationships.",
+      "example": "Networking equipment allows offices to share data securely.",
+      "synonyms": ["connecting", "linking"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_290",
+      "word": "neural",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to nerves or the nervous system; also used in terms like 'neural network'.",
+      "example": "Neural networks are modeled loosely on the structure of the human brain.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_291",
+      "word": "new",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Not existing before; recently made or discovered.",
+      "example": "The company launched a new AI-powered assistant this year.",
+      "synonyms": ["novel", "recent", "fresh"],
+      "antonyms": ["old", "outdated"]
+    },
+    {
+      "id": "3B_292",
+      "word": "next",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Coming immediately after the present one.",
+      "example": "Engineers are already designing the next generation of processors.",
+      "synonyms": ["following", "subsequent"],
+      "antonyms": ["previous", "prior"]
+    },
+    {
+      "id": "3B_293",
+      "word": "open",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Not closed or restricted; accessible.",
+      "example": "Open-source software allows developers worldwide to contribute code.",
+      "synonyms": ["accessible", "unrestricted", "public"],
+      "antonyms": ["closed", "restricted"]
+    },
+    {
+      "id": "3B_294",
+      "word": "optimization",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of making the best or most effective use of something.",
+      "example": "Optimization algorithms improve the efficiency of delivery routes.",
+      "synonyms": ["improvement", "refinement"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_295",
+      "word": "optimize",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make the best or most effective use of something.",
+      "example": "Developers optimize code to reduce processing time.",
+      "synonyms": ["improve", "enhance", "refine"],
+      "antonyms": ["worsen", "degrade"]
+    },
+    {
+      "id": "3B_296",
+      "word": "output",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The information or product produced by a system.",
+      "example": "The model's output improved significantly after additional training.",
+      "synonyms": ["result", "yield", "product"],
+      "antonyms": ["input"]
+    },
+    {
+      "id": "3B_297",
+      "word": "patent",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A government-granted right protecting an invention.",
+      "example": "The company filed a patent for its new battery technology.",
+      "synonyms": ["license", "copyright"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_298",
+      "word": "patented",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Protected by a patent.",
+      "example": "The patented algorithm gives the company a competitive advantage.",
+      "synonyms": ["protected", "licensed"],
+      "antonyms": ["unpatented"]
+    },
+    {
+      "id": "3B_299",
+      "word": "patently",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Clearly or obviously.",
+      "example": "The claims made in the advertisement were patently false.",
+      "synonyms": ["clearly", "obviously", "evidently"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_300",
+      "word": "permissible",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Allowed, especially by law or rules.",
+      "example": "Companies must ensure their data practices remain permissible under privacy laws.",
+      "synonyms": ["allowed", "acceptable", "lawful"],
+      "antonyms": ["impermissible", "forbidden"]
+    },
+    {
+      "id": "3B_301",
+      "word": "permission",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Consent or authorization to do something.",
+      "example": "Apps must request permission before accessing a user's location.",
+      "synonyms": ["consent", "authorization", "approval"],
+      "antonyms": ["refusal", "denial"]
+    },
+    {
+      "id": "3B_302",
+      "word": "permissive",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Allowing a great deal of freedom.",
+      "example": "Permissive data-sharing policies raised concerns among privacy advocates.",
+      "synonyms": ["lenient", "tolerant", "liberal"],
+      "antonyms": ["strict", "restrictive"]
+    },
+    {
+      "id": "3B_303",
+      "word": "pharmaceutical",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the production of medicinal drugs.",
+      "example": "Pharmaceutical companies use AI to accelerate drug discovery.",
+      "synonyms": ["medicinal", "medical"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_304",
+      "word": "platform",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A system or service that supports applications or activities.",
+      "example": "The platform connects buyers and sellers through an online marketplace.",
+      "synonyms": ["system", "framework", "service"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_305",
+      "word": "predict",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To estimate or forecast a future event.",
+      "example": "The algorithm predicts customer behavior based on past purchases.",
+      "synonyms": ["forecast", "anticipate", "foresee"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_306",
+      "word": "predictability",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The quality of being expected or foreseeable.",
+      "example": "The predictability of the system's output builds user trust.",
+      "synonyms": ["foreseeability", "consistency"],
+      "antonyms": ["unpredictability"]
+    },
+    {
+      "id": "3B_307",
+      "word": "predictable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be predicted.",
+      "example": "Predictable maintenance schedules reduce equipment downtime.",
+      "synonyms": ["foreseeable", "expected"],
+      "antonyms": ["unpredictable"]
+    },
+    {
+      "id": "3B_308",
+      "word": "predictably",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way that can be expected or predicted.",
+      "example": "The system predictably slowed down under heavy data loads.",
+      "synonyms": ["expectedly", "foreseeably"],
+      "antonyms": ["unpredictably"]
+    },
+    {
+      "id": "3B_309",
+      "word": "predicted",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Forecasted or anticipated.",
+      "example": "The predicted growth in AI adoption exceeded analysts' expectations.",
+      "synonyms": ["forecasted", "anticipated"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_310",
+      "word": "prediction",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A statement about what will happen in the future.",
+      "example": "The model's predictions helped the company plan inventory levels.",
+      "synonyms": ["forecast", "projection"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_311",
+      "word": "predictive",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the prediction of future events.",
+      "example": "Predictive maintenance identifies equipment failures before they occur.",
+      "synonyms": ["forecasting", "anticipatory"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_312",
+      "word": "predictor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A factor or variable that indicates a likely outcome.",
+      "example": "Past purchase behavior is a strong predictor of future spending.",
+      "synonyms": ["indicator", "forecaster"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_313",
+      "word": "privacy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of being free from public attention or intrusion.",
+      "example": "Data privacy has become a major concern with the rise of AI.",
+      "synonyms": ["confidentiality", "seclusion"],
+      "antonyms": ["exposure", "publicity"]
+    },
+    {
+      "id": "3B_314",
+      "word": "processor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The part of a computer that performs operations.",
+      "example": "The new processor doubles the device's computing speed.",
+      "synonyms": ["CPU", "chip"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_315",
+      "word": "programmatic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to a systematic plan or program, especially an automated one.",
+      "example": "Programmatic advertising uses algorithms to buy ad space in real time.",
+      "synonyms": ["automated", "systematic"],
+      "antonyms": ["manual"]
+    },
+    {
+      "id": "3B_316",
+      "word": "programmer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who writes computer programs.",
+      "example": "The programmer debugged the software before its release.",
+      "synonyms": ["coder", "developer"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_317",
+      "word": "programming",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The process of writing instructions for a computer.",
+      "example": "Programming skills are increasingly valuable across many industries.",
+      "synonyms": ["coding", "development"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_318",
+      "word": "proprietary",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to an owner; privately owned and controlled.",
+      "example": "The company uses proprietary software to manage its supply chain.",
+      "synonyms": ["private", "exclusive", "patented"],
+      "antonyms": ["open", "public"]
+    },
+    {
+      "id": "3B_319",
+      "word": "proprietor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The owner of a business.",
+      "example": "The proprietor invested in automated checkout systems for the store.",
+      "synonyms": ["owner", "operator"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_320",
+      "word": "propriety",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of conforming to accepted standards of behavior.",
+      "example": "The committee questioned the propriety of using AI to monitor employees.",
+      "synonyms": ["appropriateness", "decorum"],
+      "antonyms": ["impropriety"]
+    },
+    {
+      "id": "3B_321",
+      "word": "prototype",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An early sample or model built to test a concept.",
+      "example": "Engineers built a prototype to test the drone's flight stability.",
+      "synonyms": ["model", "sample", "mock-up"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_322",
+      "word": "quantum",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the smallest discrete units of energy, as in 'quantum computing'.",
+      "example": "Quantum computers use qubits instead of traditional binary bits.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_323",
+      "word": "raw",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Unprocessed or in its natural state.",
+      "example": "The algorithm processes raw data before generating insights.",
+      "synonyms": ["unprocessed", "unrefined"],
+      "antonyms": ["processed", "refined"]
+    },
+    {
+      "id": "3B_324",
+      "word": "reality",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of things as they actually exist.",
+      "example": "Virtual reality creates an immersive simulated environment.",
+      "synonyms": ["actuality", "existence"],
+      "antonyms": ["fantasy", "illusion"]
+    },
+    {
+      "id": "3B_325",
+      "word": "recognition",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of identifying someone or something.",
+      "example": "Facial recognition technology is used for secure device unlocking.",
+      "synonyms": ["identification", "detection"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_326",
+      "word": "recommend",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To suggest something as suitable for a purpose.",
+      "example": "The algorithm recommends products based on browsing history.",
+      "synonyms": ["suggest", "advise", "endorse"],
+      "antonyms": ["discourage"]
+    },
+    {
+      "id": "3B_327",
+      "word": "recommendation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A suggestion of what is suitable.",
+      "example": "The streaming service generates recommendations based on viewing habits.",
+      "synonyms": ["suggestion", "endorsement"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_328",
+      "word": "recommended",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Suggested as suitable.",
+      "example": "The recommended settings improve the device's battery life.",
+      "synonyms": ["suggested", "advised", "endorsed"],
+      "antonyms": ["discouraged"]
+    },
+    {
+      "id": "3B_329",
+      "word": "redundancy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A backup system, or the state of being unnecessary.",
+      "example": "The server system includes redundancy to prevent data loss during outages.",
+      "synonyms": ["backup", "duplication"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_330",
+      "word": "redundant",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "No longer needed; also having backup systems.",
+      "example": "Old software features become redundant as new technology emerges.",
+      "synonyms": ["unnecessary", "superfluous", "obsolete"],
+      "antonyms": ["essential", "necessary"]
+    },
+    {
+      "id": "3B_331",
+      "word": "remote",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Far away in distance; also operated from a distance.",
+      "example": "Remote work has become more common thanks to digital collaboration tools.",
+      "synonyms": ["distant", "far-off"],
+      "antonyms": ["nearby", "close"]
+    },
+    {
+      "id": "3B_332",
+      "word": "remotely",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "From a distance.",
+      "example": "Technicians can remotely diagnose issues in industrial machinery.",
+      "synonyms": ["from afar", "at a distance"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_333",
+      "word": "retail",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The sale of goods to consumers.",
+      "example": "Retail businesses increasingly rely on data analytics to predict demand.",
+      "synonyms": ["selling", "commerce"],
+      "antonyms": ["wholesale"]
+    },
+    {
+      "id": "3B_334",
+      "word": "retailer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A business that sells goods to consumers.",
+      "example": "The retailer implemented AI-powered inventory management.",
+      "synonyms": ["seller", "merchant", "vendor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_335",
+      "word": "retailing",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The business of selling goods to consumers.",
+      "example": "Online retailing has transformed the shopping experience.",
+      "synonyms": ["selling", "merchandising"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_336",
+      "word": "retrieval",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of getting something back, especially data.",
+      "example": "Fast data retrieval is essential for responsive applications.",
+      "synonyms": ["recovery", "extraction"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_337",
+      "word": "retrieve",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To get something back, especially data.",
+      "example": "The system retrieves relevant documents based on the search query.",
+      "synonyms": ["recover", "extract", "fetch"],
+      "antonyms": ["lose", "discard"]
+    },
+    {
+      "id": "3B_338",
+      "word": "retriever",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person, thing, or system that retrieves.",
+      "example": "The search algorithm functions as an efficient retriever of relevant information.",
+      "synonyms": ["fetcher", "extractor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_339",
+      "word": "robot",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A machine capable of carrying out tasks automatically.",
+      "example": "Robots assemble cars with precision on modern factory floors.",
+      "synonyms": ["automaton", "machine"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_340",
+      "word": "robotic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to or resembling a robot.",
+      "example": "Robotic arms perform delicate surgical procedures with high precision.",
+      "synonyms": ["mechanical", "automated"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_341",
+      "word": "robotics",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The branch of technology dealing with the design and use of robots.",
+      "example": "Robotics has advanced rapidly with improvements in AI and sensors.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_342",
+      "word": "satellite",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device placed in orbit to relay communications or gather data.",
+      "example": "Satellites provide the data needed for global positioning systems.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_343",
+      "word": "scale",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To increase or adjust something in size or extent.",
+      "example": "Cloud infrastructure allows companies to scale their operations quickly.",
+      "synonyms": ["expand", "grow", "resize"],
+      "antonyms": ["shrink", "downsize"]
+    },
+    {
+      "id": "3B_344",
+      "word": "secure",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Protected against threat or unauthorized access.",
+      "example": "The platform uses encryption to keep user data secure.",
+      "synonyms": ["safe", "protected", "guarded"],
+      "antonyms": ["vulnerable", "unsafe"]
+    },
+    {
+      "id": "3B_345",
+      "word": "securely",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way that is protected from danger or unauthorized access.",
+      "example": "Sensitive files are stored securely in the encrypted database.",
+      "synonyms": ["safely", "protectively"],
+      "antonyms": ["insecurely"]
+    },
+    {
+      "id": "3B_346",
+      "word": "security",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of being protected from danger or threat.",
+      "example": "Cybersecurity protects networks from unauthorized access and attacks.",
+      "synonyms": ["protection", "safety"],
+      "antonyms": ["vulnerability", "insecurity"]
+    },
+    {
+      "id": "3B_347",
+      "word": "semantic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to meaning in language or logic.",
+      "example": "Semantic search engines interpret the meaning behind a query, not just keywords.",
+      "synonyms": ["meaning-related", "contextual"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_348",
+      "word": "semantics",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The branch of linguistics concerned with meaning.",
+      "example": "Understanding semantics helps AI systems interpret human language accurately.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_349",
+      "word": "semiconductor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A material with electrical properties between a conductor and an insulator, used in electronics.",
+      "example": "Semiconductor shortages disrupted global electronics production.",
+      "synonyms": ["chip material"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_350",
+      "word": "sensor",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device that detects changes in the environment.",
+      "example": "Sensors in the vehicle detect obstacles and adjust speed automatically.",
+      "synonyms": ["detector", "monitor"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_351",
+      "word": "sensory",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the physical senses.",
+      "example": "Sensory data from wearable devices helps track physical activity.",
+      "synonyms": ["perceptual"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_352",
+      "word": "servant",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person who performs duties for others.",
+      "example": "Early computers were sometimes described as tireless mechanical servants.",
+      "synonyms": ["aide", "helper"],
+      "antonyms": ["master"]
+    },
+    {
+      "id": "3B_353",
+      "word": "serve",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To provide a service or perform a function.",
+      "example": "The server processes requests and serves data to connected devices.",
+      "synonyms": ["provide", "supply", "deliver"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_354",
+      "word": "server",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A computer or program that provides data or services to other computers.",
+      "example": "The company upgraded its servers to handle increased web traffic.",
+      "synonyms": ["host", "mainframe"],
+      "antonyms": ["client"]
+    },
+    {
+      "id": "3B_355",
+      "word": "serving",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Providing a service or function.",
+      "example": "The platform is currently serving millions of users worldwide.",
+      "synonyms": ["providing", "supplying"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_356",
+      "word": "servitude",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The state of being a slave or completely subject to someone.",
+      "example": "Historians study how industrialization changed traditional forms of servitude.",
+      "synonyms": ["bondage", "subjugation"],
+      "antonyms": ["freedom", "liberty"]
+    },
+    {
+      "id": "3B_357",
+      "word": "signal",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Information transmitted electronically, or a sign conveying information.",
+      "example": "The device transmits a wireless signal to nearby receivers.",
+      "synonyms": ["transmission", "indicator"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_358",
+      "word": "silicon",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A chemical element widely used in the manufacture of semiconductors.",
+      "example": "Silicon remains the primary material used in computer chip production.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_359",
+      "word": "silicone",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A synthetic material used in manufacturing, distinct from silicon.",
+      "example": "Silicone casings protect electronic devices from damage.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_360",
+      "word": "simulate",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To imitate a process or situation, often using a model.",
+      "example": "Engineers simulate crash scenarios to improve vehicle safety design.",
+      "synonyms": ["imitate", "replicate", "model"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_361",
+      "word": "simulated",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Made to look or work like something real, without being real.",
+      "example": "The simulated environment allowed pilots to train without risk.",
+      "synonyms": ["imitated", "artificial", "mock"],
+      "antonyms": ["real", "genuine"]
+    },
+    {
+      "id": "3B_362",
+      "word": "simulation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An imitation of a real process or system.",
+      "example": "The company ran a simulation to test how the software handles peak traffic.",
+      "synonyms": ["model", "imitation", "emulation"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_363",
+      "word": "simulator",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A device or program that simulates real conditions.",
+      "example": "Flight simulators help pilots practice emergency procedures safely.",
+      "synonyms": ["trainer", "emulator"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_364",
+      "word": "smart",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Having the ability to think, learn, or perform intelligently; often describing connected devices.",
+      "example": "Smart thermostats learn user preferences to optimize energy use.",
+      "synonyms": ["intelligent", "clever", "connected"],
+      "antonyms": ["dumb", "basic"]
+    },
+    {
+      "id": "3B_365",
+      "word": "smartly",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a clever or stylish way.",
+      "example": "The system smartly adjusts its output based on user feedback.",
+      "synonyms": ["cleverly", "skillfully"],
+      "antonyms": ["foolishly"]
+    },
+    {
+      "id": "3B_366",
+      "word": "smarts",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Practical intelligence or cleverness.",
+      "example": "The startup used technical smarts to build a scalable platform quickly.",
+      "synonyms": ["intelligence", "wit", "savvy"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_367",
+      "word": "software",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Programs and instructions used to operate computers.",
+      "example": "The company regularly updates its software to fix security vulnerabilities.",
+      "synonyms": ["programs", "applications"],
+      "antonyms": ["hardware"]
+    },
+    {
+      "id": "3B_368",
+      "word": "spectrum",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A range of related qualities, ideas, or values; also a range of frequencies.",
+      "example": "The wireless spectrum is regulated to prevent interference between devices.",
+      "synonyms": ["range", "scope"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_369",
+      "word": "stem",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An abbreviation for science, technology, engineering, and mathematics.",
+      "example": "STEM education prepares students for careers in emerging technology fields.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "id": "3B_370",
+      "word": "strategic",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to the identification of long-term goals and plans.",
+      "example": "Strategic investment in AI research gave the company a competitive edge.",
+      "synonyms": ["calculated", "planned", "tactical"],
+      "antonyms": ["unplanned", "haphazard"]
+    },
+    {
+      "id": "3B_371",
+      "word": "strategically",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way that serves a long-term plan.",
+      "example": "The company strategically expanded its cloud services to new markets.",
+      "synonyms": ["tactically", "deliberately"],
+      "antonyms": ["haphazardly"]
+    },
+    {
+      "id": "3B_372",
+      "word": "strategist",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person skilled in planning long-term goals.",
+      "example": "The technology strategist advised the firm on adopting automation.",
+      "synonyms": ["planner", "tactician"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_373",
+      "word": "strategy",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A plan of action designed to achieve a long-term goal.",
+      "example": "The company's digital strategy focused on expanding its AI capabilities.",
+      "synonyms": ["plan", "approach", "blueprint"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_374",
+      "word": "stream",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To transmit or receive data continuously, especially audio or video.",
+      "example": "Millions of users stream video content every day.",
+      "synonyms": ["broadcast", "transmit"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_375",
+      "word": "streamer",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or service that streams content online.",
+      "example": "The streamer used AI-generated captions to make videos more accessible.",
+      "synonyms": ["broadcaster"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_376",
+      "word": "streamline",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make a process more efficient by simplifying it.",
+      "example": "Automation helps streamline repetitive administrative tasks.",
+      "synonyms": ["simplify", "optimize", "refine"],
+      "antonyms": ["complicate"]
+    },
+    {
+      "id": "3B_377",
+      "word": "streamlined",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Made more efficient and simple.",
+      "example": "The streamlined checkout process reduced cart abandonment rates.",
+      "synonyms": ["simplified", "efficient", "optimized"],
+      "antonyms": ["complicated", "cumbersome"]
+    },
+    {
+      "id": "3B_378",
+      "word": "subscription",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An arrangement to receive a service regularly for payment.",
+      "example": "Many software companies now rely on subscription-based revenue models.",
+      "synonyms": ["membership", "plan"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_379",
+      "word": "supply",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To provide something that is needed.",
+      "example": "AI helps companies manage supply chains more efficiently.",
+      "synonyms": ["provide", "stock", "furnish"],
+      "antonyms": ["withhold"]
+    },
+    {
+      "id": "3B_380",
+      "word": "surveillance",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Close observation, especially of a suspected person or place.",
+      "example": "Surveillance cameras equipped with AI can detect unusual behavior in real time.",
+      "synonyms": ["monitoring", "observation"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_381",
+      "word": "technological",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Relating to technology.",
+      "example": "Technological progress has reshaped nearly every industry.",
+      "synonyms": ["technical", "digital"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_382",
+      "word": "technologically",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "In a way relating to technology.",
+      "example": "The company remains technologically ahead of its competitors.",
+      "synonyms": ["technically"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_383",
+      "word": "technologist",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "An expert in technology.",
+      "example": "The technologist designed a new system for processing sensor data.",
+      "synonyms": ["engineer", "technician", "specialist"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_384",
+      "word": "technology",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The application of scientific knowledge for practical purposes.",
+      "example": "Technology continues to transform how people work and communicate.",
+      "synonyms": ["engineering", "innovation"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_385",
+      "word": "translate",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To convert words or ideas from one language or form to another.",
+      "example": "The app can translate spoken language into text in real time.",
+      "synonyms": ["convert", "interpret", "render"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_386",
+      "word": "translation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The conversion of something from one language or form to another.",
+      "example": "Machine translation has improved significantly with advances in AI.",
+      "synonyms": ["conversion", "interpretation"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_387",
+      "word": "translator",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person or system that translates language.",
+      "example": "The translator app allows travelers to communicate across language barriers.",
+      "synonyms": ["interpreter"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_388",
+      "word": "transport",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To move goods or people from one place to another.",
+      "example": "Autonomous vehicles could transform how goods are transported.",
+      "synonyms": ["convey", "carry", "move"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_389",
+      "word": "transportation",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The action of transporting goods or people.",
+      "example": "Electric vehicles are reshaping the future of transportation.",
+      "synonyms": ["transit", "conveyance"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_390",
+      "word": "trustworthy",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be relied on as honest or truthful.",
+      "example": "Users expect AI systems to provide trustworthy and unbiased information.",
+      "synonyms": ["reliable", "dependable", "credible"],
+      "antonyms": ["untrustworthy", "unreliable"]
+    },
+    {
+      "id": "3B_391",
+      "word": "update",
+      "type": "verb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "To make something more current.",
+      "example": "The company released an update to fix several security flaws.",
+      "synonyms": ["revise", "refresh", "upgrade"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_392",
+      "word": "updated",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Made more current.",
+      "example": "Users are encouraged to install the updated version of the app.",
+      "synonyms": ["revised", "current", "upgraded"],
+      "antonyms": ["outdated"]
+    },
+    {
+      "id": "3B_393",
+      "word": "usable",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Able to be used effectively.",
+      "example": "Designers aim to make interfaces more usable for people with disabilities.",
+      "synonyms": ["functional", "practical", "workable"],
+      "antonyms": ["unusable"]
+    },
+    {
+      "id": "3B_394",
+      "word": "version",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A particular form of something, especially software.",
+      "example": "The latest version of the app includes improved security features.",
+      "synonyms": ["edition", "iteration", "release"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_395",
+      "word": "virtual",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Existing in a simulated or digital form rather than physically.",
+      "example": "Virtual meetings have become common in remote work environments.",
+      "synonyms": ["simulated", "digital", "online"],
+      "antonyms": ["physical", "real"]
+    },
+    {
+      "id": "3B_396",
+      "word": "virtually",
+      "type": "adverb",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Almost entirely, or in a virtual (digital) manner.",
+      "example": "Employees can now attend conferences virtually from anywhere in the world.",
+      "synonyms": ["practically", "nearly", "digitally"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_397",
+      "word": "virtuoso",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A person highly skilled in a particular field, especially the arts.",
+      "example": "The programmer was regarded as a virtuoso for his elegant code solutions.",
+      "synonyms": ["expert", "master", "prodigy"],
+      "antonyms": ["novice", "amateur"]
+    },
+    {
+      "id": "3B_398",
+      "word": "virtuous",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Having or showing high moral standards.",
+      "example": "Some argue that AI systems should be designed to make virtuous decisions.",
+      "synonyms": ["moral", "ethical", "righteous"],
+      "antonyms": ["immoral", "corrupt"]
+    },
+    {
+      "id": "3B_399",
+      "word": "virus",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Malicious software that spreads and damages computer systems.",
+      "example": "The virus infected thousands of computers before it was contained.",
+      "synonyms": ["malware", "bug"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_400",
+      "word": "voice",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Sound produced by a person's vocal organs; also used in terms like 'voice assistant'.",
+      "example": "Voice assistants can control smart home devices through spoken commands.",
+      "synonyms": ["speech", "tone"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_401",
+      "word": "web",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A network, especially the World Wide Web.",
+      "example": "The web connects billions of devices and users worldwide.",
+      "synonyms": ["internet", "network"],
+      "antonyms": []
+    },
+    {
+      "id": "3B_402",
+      "word": "wholesale",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The sale of goods in large quantities, typically to retailers.",
+      "example": "The company sells electronic components wholesale to manufacturers.",
+      "synonyms": ["bulk", "mass"],
+      "antonyms": ["retail"]
+    },
+    {
+      "id": "3B_403",
+      "word": "wholesaler",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "A business that sells goods in large quantities to retailers.",
+      "example": "The wholesaler uses automated systems to manage large inventories.",
+      "synonyms": ["supplier", "distributor"],
+      "antonyms": ["retailer"]
+    },
+    {
+      "id": "3B_404",
+      "word": "wireless",
+      "type": "adjective",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "Operating without wires, using radio or other signals.",
+      "example": "Wireless connectivity allows devices to communicate without physical cables.",
+      "synonyms": ["cordless", "remote"],
+      "antonyms": ["wired"]
+    },
+    {
+      "id": "3B_405",
+      "word": "workforce",
+      "type": "noun",
+      "category": "Technology, Automation & Artificial Intelligence",
+      "meaning": "The people engaged in or available for work.",
+      "example": "Automation is reshaping the skills required of the modern workforce.",
+      "synonyms": ["labor force", "personnel", "staff"],
       "antonyms": []
     }
   ]
