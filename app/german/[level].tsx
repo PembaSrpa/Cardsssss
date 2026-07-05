@@ -113,7 +113,7 @@ export default function GermanGameScreen(): React.JSX.Element {
 
   return (
     <View style={[styles.root, { backgroundColor: colors.background }]}>
-      <Scales variant="compact" edges={["left", "right", "bottom"]} />
+      <Scales variant="large" edges={["left", "right", "bottom"]} />
       <View style={styles.content}>
         <NavBar title={level} right={<ThemeToggle />} />
         <View style={styles.statsBar}>

@@ -198,6 +198,26 @@ export default function HomeScreen(): React.JSX.Element {
             )}
           </View>
         </Pressable>
+
+        <Text style={[styles.sectionLabel, { color: colors.textMuted }]}>MODULE 03</Text>
+        <Pressable
+          onPress={() => router.push("/glossar")}
+          style={({ pressed }) => [
+            styles.moduleCard,
+            { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
+          ]}
+        >
+          <Text style={[styles.moduleTitle, { color: colors.text }]}>Deutsch Glossaries</Text>
+          <Text style={[styles.moduleDesc, { color: colors.textMuted }]}>flashcards</Text>
+          <View style={[styles.moduleFooter, { borderTopColor: colors.border }]}>
+            <Pressable
+              onPress={() => router.push("/glossar")}
+              style={({ pressed }) => [styles.footerBtn, { borderColor: colors.border, opacity: pressed ? 0.7 : 1 }]}
+            >
+              <Text style={[styles.footerBtnLabel, { color: colors.text }]}>Browse</Text>
+            </Pressable>
+          </View>
+        </Pressable>
       </ScrollView>
     </View>
   );

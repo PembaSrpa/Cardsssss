@@ -1,0 +1,22 @@
+{
+  "level": "B2",
+  "kapitel": 5,
+  "modules": [
+    {
+      "id": "m1",
+      "title": "Modul 1"
+    },
+    {
+      "id": "m2",
+      "title": "Modul 2"
+    },
+    {
+      "id": "m3",
+      "title": "Modul 3"
+    },
+    {
+      "id": "m4",
+      "title": "Modul 4"
+    }
+  ]
+}

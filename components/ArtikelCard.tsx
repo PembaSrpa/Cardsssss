@@ -19,6 +19,16 @@ export type FeedbackState = "idle" | "correct" | "incorrect";
 const FEEDBACK_CORRECT = "#22c55e";
 const FEEDBACK_INCORRECT = "#ef4444";
 
+// Standard gender-color convention used in German learning materials:
+// der = blue, die = red, das = green. Applied to the hint labels (always)
+// and the revealed answer after swiping — never to the noun itself before
+// swiping, since that would give the answer away.
+const GENDER_COLORS: Record<GermanArtikel, string> = {
+  der: "#3b82f6",
+  die: "#ef4444",
+  das: "#22c55e",
+};
+
 interface ArtikelCardProps {
   word: string;
   meaning: string;
@@ -115,7 +125,7 @@ export function ArtikelCard({ word, meaning, correctArtikel, feedbackState, onSw
               <Text style={[styles.resultMark, { color: isCorrect ? FEEDBACK_CORRECT : FEEDBACK_INCORRECT }]}>
                 {isCorrect ? "✓" : "✕"}
               </Text>
-              <Text style={[styles.answerLabel, { color: isCorrect ? FEEDBACK_CORRECT : FEEDBACK_INCORRECT }]}>
+              <Text style={[styles.answerLabel, { color: GENDER_COLORS[correctArtikel] }]}>
                 {correctArtikel} {word}
               </Text>
             </>
@@ -128,8 +138,8 @@ export function ArtikelCard({ word, meaning, correctArtikel, feedbackState, onSw
           style={[
             styles.hintLabel,
             {
-              color: feedbackState !== "idle" && correctArtikel === "der" ? FEEDBACK_CORRECT : colors.textMuted,
-              borderColor: feedbackState !== "idle" && correctArtikel === "der" ? FEEDBACK_CORRECT : colors.border,
+              color: GENDER_COLORS.der,
+              borderColor: feedbackState !== "idle" && correctArtikel === "der" ? GENDER_COLORS.der : colors.border,
             },
           ]}
         >
@@ -139,8 +149,8 @@ export function ArtikelCard({ word, meaning, correctArtikel, feedbackState, onSw
           style={[
             styles.hintLabel,
             {
-              color: feedbackState !== "idle" && correctArtikel === "die" ? FEEDBACK_CORRECT : colors.textMuted,
-              borderColor: feedbackState !== "idle" && correctArtikel === "die" ? FEEDBACK_CORRECT : colors.border,
+              color: GENDER_COLORS.die,
+              borderColor: feedbackState !== "idle" && correctArtikel === "die" ? GENDER_COLORS.die : colors.border,
             },
           ]}
         >
@@ -150,8 +160,8 @@ export function ArtikelCard({ word, meaning, correctArtikel, feedbackState, onSw
           style={[
             styles.hintLabel,
             {
-              color: feedbackState !== "idle" && correctArtikel === "das" ? FEEDBACK_CORRECT : colors.textMuted,
-              borderColor: feedbackState !== "idle" && correctArtikel === "das" ? FEEDBACK_CORRECT : colors.border,
+              color: GENDER_COLORS.das,
+              borderColor: feedbackState !== "idle" && correctArtikel === "das" ? GENDER_COLORS.das : colors.border,
             },
           ]}
         >

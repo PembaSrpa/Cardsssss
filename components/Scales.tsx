@@ -2,11 +2,12 @@ import React, { useMemo } from "react";
 import { View, StyleSheet, useWindowDimensions } from "react-native";
 import { useTheme } from "../theme/ThemeContext";
 
-export type ScalesVariant = "spacious" | "compact";
+export type ScalesVariant = "spacious" | "compact" | "large";
 
 const WIDTH_BY_VARIANT: Record<ScalesVariant, number> = {
   spacious: 24,
   compact: 16,
+  large: 36,
 };
 
 const STRIPE_GAP = 8;
