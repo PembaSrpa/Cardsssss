@@ -4,10 +4,1128 @@
   "words": [
     {
       "id": "A1_K1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "Bulgarisch",
+      "meaning": "Bulgarian"
+    },
+    {
+      "id": "A1_K1_002",
+      "word": "Deutsch",
+      "meaning": "German",
+      "example": "Ich spreche Deutsch."
+    },
+    {
+      "id": "A1_K1_003",
+      "word": "Englisch",
+      "meaning": "English"
+    },
+    {
+      "id": "A1_K1_004",
+      "word": "gut",
+      "meaning": "good",
+      "example": "Guten Tag!"
+    },
+    {
+      "id": "A1_K1_005",
+      "word": "guten Tag",
+      "meaning": "Good day! Hello!"
+    },
+    {
+      "id": "A1_K1_006",
+      "word": "Indonesisch",
+      "meaning": "Indonesian"
+    },
+    {
+      "id": "A1_K1_007",
+      "word": "international",
+      "meaning": "international"
+    },
+    {
+      "id": "A1_K1_008",
+      "word": "Italienisch",
+      "meaning": "Italian"
+    },
+    {
+      "id": "A1_K1_009",
+      "word": "Japanisch",
+      "meaning": "Japanese"
+    },
+    {
+      "id": "A1_K1_010",
+      "word": "Russisch",
+      "meaning": "Russian"
+    },
+    {
+      "id": "A1_K1_011",
+      "word": "Serbisch",
+      "meaning": "Serbian"
+    },
+    {
+      "id": "A1_K1_012",
+      "word": "Sie",
+      "meaning": "you (formal)",
+      "example": "Ordnen Sie zu."
+    },
+    {
+      "id": "A1_K1_013",
+      "word": "Türkisch",
+      "meaning": "Turkish"
+    },
+    {
+      "id": "A1_K1_014",
+      "word": "Ungarisch",
+      "meaning": "Hungarian"
+    },
+    {
+      "id": "A1_K1_015",
+      "word": "was",
+      "meaning": "what?",
+      "example": "Was ist das?"
+    },
+    {
+      "id": "A1_K1_016",
+      "word": "zu|ordnen",
+      "meaning": "to assign, to match"
+    },
+    {
+      "id": "A1_K1_017",
+      "word": "zusammen|gehören",
+      "meaning": "to fit together"
+    },
+    {
+      "id": "A1_K1_018",
+      "word": "die Autobahn, -en",
+      "plural": "die Autobahnen",
+      "meaning": "highway"
+    },
+    {
+      "id": "A1_K1_019",
+      "word": "das Butterbrot, -e",
+      "plural": "die Butterbrote",
+      "meaning": "sandwich"
+    },
+    {
+      "id": "A1_K1_020",
+      "word": "das",
+      "meaning": "the",
+      "example": "das Würstchen"
+    },
+    {
+      "id": "A1_K1_021",
+      "word": "der",
+      "meaning": "the",
+      "example": "der Kindergarten"
+    },
+    {
+      "id": "A1_K1_022",
+      "word": "die",
+      "meaning": "the",
+      "example": "die Flasche"
+    },
+    {
+      "id": "A1_K1_023",
+      "word": "die Flasche, -n",
+      "plural": "die Flaschen",
+      "meaning": "bottle"
+    },
+    {
+      "id": "A1_K1_024",
+      "word": "das Handtuch, \"-er",
+      "plural": "die Handtücher",
+      "meaning": "towel"
+    },
+    {
+      "id": "A1_K1_025",
+      "word": "der Kindergarten, \"-",
+      "plural": "die Kindergärten",
+      "meaning": "kindergarten"
+    },
+    {
+      "id": "A1_K1_026",
+      "word": "der Koffer, -",
+      "plural": "die Koffer",
+      "meaning": "suitcase"
+    },
+    {
+      "id": "A1_K1_027",
+      "word": "der/die Kranke, -n",
+      "plural": "die Kranken",
+      "meaning": "sick person"
+    },
+    {
+      "id": "A1_K1_028",
+      "word": "die Nudel, -n",
+      "plural": "die Nudeln",
+      "meaning": "noodle"
+    },
+    {
+      "id": "A1_K1_029",
+      "word": "das Würstchen, -",
+      "plural": "die Würstchen",
+      "meaning": "sausage"
+    },
+    {
+      "id": "A1_K1_030",
+      "word": "das Würstel, -",
+      "plural": "die Würstel",
+      "meaning": "sausage"
+    },
+    {
+      "id": "A1_K1_031",
+      "word": "auf",
+      "meaning": "in",
+      "example": "„Würstchen“ heißt auf Italienisch „wurstel“."
+    },
+    {
+      "id": "A1_K1_032",
+      "word": "heißen, er heißt, hat geheißen",
+      "meaning": "to be called",
+      "example": "„Würstchen“ heißt auf Italienisch „wurstel“."
+    },
+    {
+      "id": "A1_K1_033",
+      "word": "Ihr, Ihre",
+      "meaning": "here: your",
+      "example": "Wie heißen die Wörter in Ihrer Sprache?"
+    },
+    {
+      "id": "A1_K1_034",
+      "word": "in (+ D.)",
+      "meaning": "in",
+      "example": "Wie heißen die Wörter in Ihrer Sprache?"
+    },
+    {
+      "id": "A1_K1_035",
+      "word": "Spanisch",
+      "meaning": "Spanish"
+    },
+    {
+      "id": "A1_K1_036",
+      "word": "die Sprache, -n",
+      "plural": "die Sprachen",
+      "meaning": "language"
+    },
+    {
+      "id": "A1_K1_037",
+      "word": "wie",
+      "meaning": "here: what",
+      "example": "Wie heißen die Wörter in Ihrer Sprache?"
+    },
+    {
+      "id": "A1_K1_038",
+      "word": "das Wort, \"-er",
+      "plural": "die Wörter",
+      "meaning": "word"
+    },
+    {
+      "id": "A1_K1_039",
+      "word": "andere, anderer",
+      "meaning": "other"
+    },
+    {
+      "id": "A1_K1_040",
+      "word": "deutsch",
+      "meaning": "German"
+    },
+    {
+      "id": "A1_K1_041",
+      "word": "ein, eine",
+      "meaning": "a"
+    },
+    {
+      "id": "A1_K1_042",
+      "word": "kennen, er kennt, hat gekannt",
+      "meaning": "to know"
+    },
+    {
+      "id": "A1_K1_043",
+      "word": "das Kursplakat, -e",
+      "plural": "die Kursplakate",
+      "meaning": "course poster"
+    },
+    {
+      "id": "A1_K1_044",
+      "word": "machen",
+      "meaning": "to make",
+      "example": "Machen Sie ein Kursplakat."
+    },
+    {
+      "id": "A1_K1_045",
+      "word": "sammeln",
+      "meaning": "to collect"
+    },
+    {
+      "id": "A1_K1_046",
+      "word": "und",
+      "meaning": "and"
+    },
+    {
+      "id": "A1_K1_047",
+      "word": "auch",
+      "meaning": "also"
+    },
+    {
+      "id": "A1_K1_048",
+      "word": "bis bald",
+      "meaning": "see you soon"
+    },
+    {
+      "id": "A1_K1_049",
+      "word": "ciao",
+      "meaning": "bye"
+    },
+    {
+      "id": "A1_K1_050",
+      "word": "danke",
+      "meaning": "thank you"
+    },
+    {
+      "id": "A1_K1_051",
+      "word": "die",
+      "meaning": "the",
+      "example": "Wie heißen die Personen?"
+    },
+    {
+      "id": "A1_K1_052",
+      "word": "dir",
+      "meaning": "you (dat.)",
+      "example": "Wie geht's? - Gut, und dir?"
+    },
+    {
+      "id": "A1_K1_053",
+      "word": "du",
+      "meaning": "you"
+    },
+    {
+      "id": "A1_K1_054",
+      "word": "die Entschuldigung, -en",
+      "plural": "die Entschuldigungen",
+      "meaning": "here: to be sorry",
+      "example": "Entschuldigung, wie heißt du?"
+    },
+    {
+      "id": "A1_K1_055",
+      "word": "ganz",
+      "meaning": "here: pretty",
+      "example": "Wie geht's? - Ganz gut, danke."
+    },
+    {
+      "id": "A1_K1_056",
+      "word": "gehen, er geht, ist gegangen",
+      "meaning": "to go",
+      "example": "Wie geht's?"
+    },
+    {
+      "id": "A1_K1_057",
+      "word": "gut",
+      "meaning": "good",
+      "example": "Wie geht es Ihnen? - Danke, sehr gut!"
+    },
+    {
+      "id": "A1_K1_058",
+      "word": "hallo",
+      "meaning": "hello"
+    },
+    {
+      "id": "A1_K1_059",
+      "word": "heißen, er heißt, hat geheißen",
+      "meaning": "to be named",
+      "example": "Ich heiße Niklas."
+    },
+    {
+      "id": "A1_K1_060",
+      "word": "hören",
+      "meaning": "to hear"
+    },
+    {
+      "id": "A1_K1_061",
+      "word": "ich",
+      "meaning": "I"
+    },
+    {
+      "id": "A1_K1_062",
+      "word": "lesen, er liest, hat gelesen",
+      "meaning": "to read"
+    },
+    {
+      "id": "A1_K1_063",
+      "word": "die Person, -en",
+      "plural": "die Personen",
+      "meaning": "person"
+    },
+    {
+      "id": "A1_K1_064",
+      "word": "sehr",
+      "meaning": "very",
+      "example": "Wie geht's? - Danke, sehr gut."
+    },
+    {
+      "id": "A1_K1_065",
+      "word": "sein, er ist, ist gewesen",
+      "meaning": "to be",
+      "example": "Hallo, ich bin Julia."
+    },
+    {
+      "id": "A1_K1_066",
+      "word": "tschüs",
+      "meaning": "bye"
+    },
+    {
+      "id": "A1_K1_067",
+      "word": "wer",
+      "meaning": "who?",
+      "example": "Wer bist du?"
+    },
+    {
+      "id": "A1_K1_068",
+      "word": "die Situation, -en",
+      "plural": "die Situationen",
+      "meaning": "situation"
+    },
+    {
+      "id": "A1_K1_069",
+      "word": "spielen",
+      "meaning": "to play"
+    },
+    {
+      "id": "A1_K1_070",
+      "word": "bekannt",
+      "meaning": "well-known"
+    },
+    {
+      "id": "A1_K1_071",
+      "word": "der Name, -n",
+      "plural": "die Namen",
+      "meaning": "name"
+    },
+    {
+      "id": "A1_K1_072",
+      "word": "oder",
+      "meaning": "or",
+      "example": "Julia oder Niklas"
+    },
+    {
+      "id": "A1_K1_073",
+      "word": "auf Wiedersehen",
+      "meaning": "goodbye"
+    },
+    {
+      "id": "A1_K1_074",
+      "word": "das",
+      "meaning": "this",
+      "example": "Das ist Frau Kowalski."
+    },
+    {
+      "id": "A1_K1_075",
+      "word": "es",
+      "meaning": "it"
+    },
+    {
+      "id": "A1_K1_076",
+      "word": "Frau",
+      "meaning": "Miss, Mrs, Ms",
+      "example": "Guten Morgen, Frau Weber."
+    },
+    {
+      "id": "A1_K1_077",
+      "word": "gute Nacht",
+      "meaning": "good night"
+    },
+    {
+      "id": "A1_K1_078",
+      "word": "guten Abend",
+      "meaning": "good evening"
+    },
+    {
+      "id": "A1_K1_079",
+      "word": "guten Morgen",
+      "meaning": "good morning"
+    },
+    {
+      "id": "A1_K1_080",
+      "word": "Herr",
+      "meaning": "Mr",
+      "example": "Guten Tag, Herr Hansen."
+    },
+    {
+      "id": "A1_K1_081",
+      "word": "Ihnen",
+      "meaning": "you (formal, dat.)",
+      "example": "Wie geht es Ihnen?"
+    },
+    {
+      "id": "A1_K1_082",
+      "word": "mein, meine",
+      "meaning": "my"
+    },
+    {
+      "id": "A1_K1_083",
+      "word": "formell",
+      "meaning": "formal"
+    },
+    {
+      "id": "A1_K1_084",
+      "word": "informell",
+      "meaning": "informal"
+    },
+    {
+      "id": "A1_K1_085",
+      "word": "der Nachname, -n",
+      "plural": "die Nachnamen",
+      "meaning": "last name"
+    },
+    {
+      "id": "A1_K1_086",
+      "word": "das Personalpronomen, -",
+      "plural": "die Personalpronomen",
+      "meaning": "personal pronoun"
+    },
+    {
+      "id": "A1_K1_087",
+      "word": "das Verb, -en",
+      "plural": "die Verben",
+      "meaning": "verb"
+    },
+    {
+      "id": "A1_K1_088",
+      "word": "der Vorname, -n",
+      "plural": "die Vornamen",
+      "meaning": "first name"
+    },
+    {
+      "id": "A1_K1_089",
+      "word": "die Antwort, -en",
+      "plural": "die Antworten",
+      "meaning": "answer"
+    },
+    {
+      "id": "A1_K1_090",
+      "word": "aus (+ D.)",
+      "meaning": "here: from",
+      "example": "Ich komme aus Deutschland."
+    },
+    {
+      "id": "A1_K1_091",
+      "word": "Deutschland",
+      "meaning": "Germany"
+    },
+    {
+      "id": "A1_K1_092",
+      "word": "in (+ D.)",
+      "meaning": "in",
+      "example": "Ich wohne in Frankfurt."
+    },
+    {
+      "id": "A1_K1_093",
+      "word": "kommen, er kommt, ist gekommen",
+      "meaning": "to come from"
+    },
+    {
+      "id": "A1_K1_094",
+      "word": "der Reiseführer, -",
+      "plural": "die Reiseführer",
+      "meaning": "travel guide (m)",
+      "example": "Ich arbeite als Reiseführer."
+    },
+    {
+      "id": "A1_K1_095",
+      "word": "die Reiseführerin, -nen",
+      "plural": "die Reiseführerinnen",
+      "meaning": "travel guide (f)"
+    },
+    {
+      "id": "A1_K1_096",
+      "word": "sprechen, er spricht, hat gesprochen",
+      "meaning": "to speak"
+    },
+    {
+      "id": "A1_K1_097",
+      "word": "das Telefon, -e",
+      "plural": "die Telefone",
+      "meaning": "telephone"
+    },
+    {
+      "id": "A1_K1_098",
+      "word": "welche, welcher",
+      "meaning": "which"
+    },
+    {
+      "id": "A1_K1_099",
+      "word": "wo",
+      "meaning": "where",
+      "example": "Wo wohnen Sie?"
+    },
+    {
+      "id": "A1_K1_100",
+      "word": "woher",
+      "meaning": "from where",
+      "example": "Woher kommst du?"
+    },
+    {
+      "id": "A1_K1_101",
+      "word": "wohnen",
+      "meaning": "to live"
+    },
+    {
+      "id": "A1_K1_102",
+      "word": "der Aussagesatz, \"-e",
+      "plural": "die Aussagesätze",
+      "meaning": "declarative sentence"
+    },
+    {
+      "id": "A1_K1_103",
+      "word": "den",
+      "meaning": "the"
+    },
+    {
+      "id": "A1_K1_104",
+      "word": "das Interview, -s",
+      "plural": "die Interviews",
+      "meaning": "interview"
+    },
+    {
+      "id": "A1_K1_105",
+      "word": "variieren",
+      "meaning": "to vary"
+    },
+    {
+      "id": "A1_K1_106",
+      "word": "die W-Frage, -n",
+      "plural": "die W-Fragen",
+      "meaning": "w-question"
+    },
+    {
+      "id": "A1_K1_107",
+      "word": "er",
+      "meaning": "he"
+    },
+    {
+      "id": "A1_K1_108",
+      "word": "ergänzen",
+      "meaning": "to complete"
+    },
+    {
+      "id": "A1_K1_109",
+      "word": "sie",
+      "meaning": "she",
+      "example": "Sie kommt aus Deutschland."
+    },
+    {
+      "id": "A1_K1_110",
+      "word": "notieren",
+      "meaning": "to note"
+    },
+    {
+      "id": "A1_K1_111",
+      "word": "wie",
+      "meaning": "here: like",
+      "example": "Machen Sie ein Interview wie in Aufgabe 4."
+    },
+    {
+      "id": "A1_K1_112",
+      "word": "zwei",
+      "meaning": "two"
+    },
+    {
+      "id": "A1_K1_113",
+      "word": "der Partner, -",
+      "plural": "die Partner",
+      "meaning": "partner (m)"
+    },
+    {
+      "id": "A1_K1_114",
+      "word": "die Partnerin, -nen",
+      "plural": "die Partnerinnen",
+      "meaning": "partner (f)"
+    },
+    {
+      "id": "A1_K1_115",
+      "word": "raten, er rät, hat geraten",
+      "meaning": "to guess"
+    },
+    {
+      "id": "A1_K1_116",
+      "word": "vor|stellen",
+      "meaning": "to introduce",
+      "example": "Stellen Sie Ihren Partner im Kurs vor."
+    },
+    {
+      "id": "A1_K1_117",
+      "word": "acht",
+      "meaning": "eight"
+    },
+    {
+      "id": "A1_K1_118",
+      "word": "achtzehn",
+      "meaning": "eighteen"
+    },
+    {
+      "id": "A1_K1_119",
+      "word": "der Buchstabe, -n",
+      "plural": "die Buchstaben",
+      "meaning": "letter"
+    },
+    {
+      "id": "A1_K1_120",
+      "word": "dann",
+      "meaning": "then"
+    },
+    {
+      "id": "A1_K1_121",
+      "word": "drei",
+      "meaning": "three"
+    },
+    {
+      "id": "A1_K1_122",
+      "word": "dreizehn",
+      "meaning": "thirteen"
+    },
+    {
+      "id": "A1_K1_123",
+      "word": "eins",
+      "meaning": "one"
+    },
+    {
+      "id": "A1_K1_124",
+      "word": "elf",
+      "meaning": "eleven"
+    },
+    {
+      "id": "A1_K1_125",
+      "word": "fünf",
+      "meaning": "five"
+    },
+    {
+      "id": "A1_K1_126",
+      "word": "fünfzehn",
+      "meaning": "fifteen"
+    },
+    {
+      "id": "A1_K1_127",
+      "word": "laut",
+      "meaning": "loud"
+    },
+    {
+      "id": "A1_K1_128",
+      "word": "mit|sprechen, er spricht mit, hat mitgesprochen",
+      "meaning": "to speak along"
+    },
+    {
+      "id": "A1_K1_129",
+      "word": "neun",
+      "meaning": "nine"
+    },
+    {
+      "id": "A1_K1_130",
+      "word": "neunzehn",
+      "meaning": "nineteen"
+    },
+    {
+      "id": "A1_K1_131",
+      "word": "null",
+      "meaning": "zero"
+    },
+    {
+      "id": "A1_K1_132",
+      "word": "sechs",
+      "meaning": "six"
+    },
+    {
+      "id": "A1_K1_133",
+      "word": "sechzehn",
+      "meaning": "sixteen"
+    },
+    {
+      "id": "A1_K1_134",
+      "word": "sieben",
+      "meaning": "seven"
+    },
+    {
+      "id": "A1_K1_135",
+      "word": "siebzehn",
+      "meaning": "seventeen"
+    },
+    {
+      "id": "A1_K1_136",
+      "word": "vier",
+      "meaning": "four"
+    },
+    {
+      "id": "A1_K1_137",
+      "word": "vierzehn",
+      "meaning": "fourteen"
+    },
+    {
+      "id": "A1_K1_138",
+      "word": "die Zahl, -en",
+      "plural": "die Zahlen",
+      "meaning": "number"
+    },
+    {
+      "id": "A1_K1_139",
+      "word": "zehn",
+      "meaning": "ten"
+    },
+    {
+      "id": "A1_K1_140",
+      "word": "zwanzig",
+      "meaning": "twenty"
+    },
+    {
+      "id": "A1_K1_141",
+      "word": "zwölf",
+      "meaning": "twelve"
+    },
+    {
+      "id": "A1_K1_142",
+      "word": "die Handynummer, -n",
+      "plural": "die Handynummern",
+      "meaning": "mobile phone number"
+    },
+    {
+      "id": "A1_K1_143",
+      "word": "dein, deine",
+      "meaning": "your"
+    },
+    {
+      "id": "A1_K1_144",
+      "word": "fragen",
+      "meaning": "to ask"
+    },
+    {
+      "id": "A1_K1_145",
+      "word": "nach (+ D.)",
+      "meaning": "here: about",
+      "example": "Fragen Sie nach der Telefonnummer."
+    },
+    {
+      "id": "A1_K1_146",
+      "word": "die Telefonnummer, -n",
+      "plural": "die Telefonnummern",
+      "meaning": "telephone number"
+    },
+    {
+      "id": "A1_K1_147",
+      "word": "das Alphabet, -e",
+      "plural": "die Alphabete",
+      "meaning": "alphabet"
+    },
+    {
+      "id": "A1_K1_148",
+      "word": "mit|lesen, er liest mit, hat mitgelesen",
+      "meaning": "to read along"
+    },
+    {
+      "id": "A1_K1_149",
+      "word": "zuerst",
+      "meaning": "at first"
+    },
+    {
+      "id": "A1_K1_150",
+      "word": "die E-Mail-Adresse, -n",
+      "plural": "die E-Mail-Adressen",
+      "meaning": "email address"
+    },
+    {
+      "id": "A1_K1_151",
+      "word": "das Gespräch, -e",
+      "plural": "die Gespräche",
+      "meaning": "conversation"
+    },
+    {
+      "id": "A1_K1_152",
+      "word": "man",
+      "meaning": "one"
+    },
+    {
+      "id": "A1_K1_153",
+      "word": "minus",
+      "meaning": "minus"
+    },
+    {
+      "id": "A1_K1_154",
+      "word": "der Punkt, -e",
+      "plural": "die Punkte",
+      "meaning": "period",
+      "example": "der Punkt am Satzende"
+    },
+    {
+      "id": "A1_K1_155",
+      "word": "sagen",
+      "meaning": "to say"
+    },
+    {
+      "id": "A1_K1_156",
+      "word": "schreiben, er schreibt, hat geschrieben",
+      "meaning": "to write"
+    },
+    {
+      "id": "A1_K1_157",
+      "word": "der Unterstrich, -e",
+      "plural": "die Unterstriche",
+      "meaning": "underscore"
+    },
+    {
+      "id": "A1_K1_158",
+      "word": "bitte",
+      "meaning": "please"
+    },
+    {
+      "id": "A1_K1_159",
+      "word": "buchstabieren",
+      "meaning": "to spell"
+    },
+    {
+      "id": "A1_K1_160",
+      "word": "der Dialog, -e",
+      "plural": "die Dialoge",
+      "meaning": "dialogue"
+    },
+    {
+      "id": "A1_K1_161",
+      "word": "ein bisschen",
+      "meaning": "a little"
+    },
+    {
+      "id": "A1_K1_162",
+      "word": "langsam",
+      "meaning": "slow"
+    },
+    {
+      "id": "A1_K1_163",
+      "word": "nicht",
+      "meaning": "not"
+    },
+    {
+      "id": "A1_K1_164",
+      "word": "noch einmal",
+      "meaning": "once more"
+    },
+    {
+      "id": "A1_K1_165",
+      "word": "verstehen, er versteht, hat verstanden",
+      "meaning": "to understand",
+      "example": "Das verstehe ich nicht."
+    },
+    {
+      "id": "A1_K1_166",
+      "word": "Algerien",
+      "meaning": "Algeria"
+    },
+    {
+      "id": "A1_K1_167",
+      "word": "Arabisch",
+      "meaning": "Arabic"
+    },
+    {
+      "id": "A1_K1_168",
+      "word": "Brasilien",
+      "meaning": "Brasil"
+    },
+    {
+      "id": "A1_K1_169",
+      "word": "Französisch",
+      "meaning": "French"
+    },
+    {
+      "id": "A1_K1_170",
+      "word": "Japan",
+      "meaning": "Japan"
+    },
+    {
+      "id": "A1_K1_171",
+      "word": "das Land, \"-er",
+      "plural": "die Länder",
+      "meaning": "country"
+    },
+    {
+      "id": "A1_K1_172",
+      "word": "lernen",
+      "meaning": "to learn",
+      "example": "Sie lernt Spanisch."
+    },
+    {
+      "id": "A1_K1_173",
+      "word": "Österreich",
+      "meaning": "Austria"
+    },
+    {
+      "id": "A1_K1_174",
+      "word": "Portugiesisch",
+      "meaning": "Portugese"
+    },
+    {
+      "id": "A1_K1_175",
+      "word": "die Schweiz (Sg.)",
+      "meaning": "Switzerland",
+      "example": "Sie kommt aus der Schweiz."
+    },
+    {
+      "id": "A1_K1_176",
+      "word": "sie",
+      "meaning": "they",
+      "example": "Kennst du die Personen? Wo wohnen sie?"
+    },
+    {
+      "id": "A1_K1_177",
+      "word": "die Tabelle, -n",
+      "plural": "die Tabellen",
+      "meaning": "table, chart"
+    },
+    {
+      "id": "A1_K1_178",
+      "word": "die USA (Pl.)",
+      "meaning": "USA",
+      "example": "Olivia kommt aus den USA."
+    },
+    {
+      "id": "A1_K1_179",
+      "word": "Frankreich",
+      "meaning": "France"
+    },
+    {
+      "id": "A1_K1_180",
+      "word": "Griechenland",
+      "meaning": "Greece"
+    },
+    {
+      "id": "A1_K1_181",
+      "word": "Italien",
+      "meaning": "Italy"
+    },
+    {
+      "id": "A1_K1_182",
+      "word": "Mexiko",
+      "meaning": "Mexico"
+    },
+    {
+      "id": "A1_K1_183",
+      "word": "Portugal",
+      "meaning": "Portugal"
+    },
+    {
+      "id": "A1_K1_184",
+      "word": "Thailand",
+      "meaning": "Thailand"
+    },
+    {
+      "id": "A1_K1_185",
+      "word": "Polen",
+      "meaning": "Poland"
+    },
+    {
+      "id": "A1_K1_186",
+      "word": "Polnisch",
+      "meaning": "Polish"
+    },
+    {
+      "id": "A1_K1_187",
+      "word": "Rätoromanisch",
+      "meaning": "Raetho-Romanic"
+    },
+    {
+      "id": "A1_K1_188",
+      "word": "Russland",
+      "meaning": "Russia"
+    },
+    {
+      "id": "A1_K1_189",
+      "word": "Spanien",
+      "meaning": "Spain"
+    },
+    {
+      "id": "A1_K1_190",
+      "word": "die Türkei (Sg.)",
+      "meaning": "Turkey"
+    },
+    {
+      "id": "A1_K1_191",
+      "word": "die Ukraine (Sg.)",
+      "meaning": "Ukraine"
+    },
+    {
+      "id": "A1_K1_192",
+      "word": "zu",
+      "meaning": "here: as",
+      "example": "Arbeiten Sie zu zweit."
+    },
+    {
+      "id": "A1_K1_193",
+      "word": "zweit",
+      "meaning": "here: pair",
+      "example": "Arbeiten Sie zu zweit."
+    },
+    {
+      "id": "A1_K1_194",
+      "word": "kurz",
+      "meaning": "short",
+      "example": "Schreiben Sie einen kurzen Text."
+    },
+    {
+      "id": "A1_K1_195",
+      "word": "die Stadt, \"-e",
+      "plural": "die Städte",
+      "meaning": "city"
+    },
+    {
+      "id": "A1_K1_196",
+      "word": "der Text, -e",
+      "plural": "die Texte",
+      "meaning": "text"
+    },
+    {
+      "id": "A1_K1_197",
+      "word": "das Befinden (Sg.)",
+      "meaning": "condition"
+    },
+    {
+      "id": "A1_K1_198",
+      "word": "darauf",
+      "meaning": "upon"
+    },
+    {
+      "id": "A1_K1_199",
+      "word": "die Grammatik, -en",
+      "plural": "die Grammatiken",
+      "meaning": "grammar"
+    },
+    {
+      "id": "A1_K1_200",
+      "word": "grüßen",
+      "meaning": "to great"
+    },
+    {
+      "id": "A1_K1_201",
+      "word": "reagieren",
+      "meaning": "to react"
+    },
+    {
+      "id": "A1_K1_202",
+      "word": "das Redemittel, -",
+      "plural": "die Redemittel",
+      "meaning": "useful phrases"
+    },
+    {
+      "id": "A1_K1_203",
+      "word": "das Subjekt, -e",
+      "plural": "die Subjekte",
+      "meaning": "subject"
+    },
+    {
+      "id": "A1_K1_204",
+      "word": "über (+ A.)",
+      "meaning": "about",
+      "example": "über andere sprechen"
+    },
+    {
+      "id": "A1_K1_205",
+      "word": "verabschieden",
+      "meaning": "to say goodbye"
+    },
+    {
+      "id": "A1_K1_206",
+      "word": "das W-Wort, \"-er",
+      "plural": "die W-Wörter",
+      "meaning": "w-word"
     }
   ]
 }

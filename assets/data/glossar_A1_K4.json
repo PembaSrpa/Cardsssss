@@ -4,10 +4,1125 @@
   "words": [
     {
       "id": "A1_K4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Apfelsaft, \"-e",
+      "plural": "die Apfelsäfte",
+      "meaning": "apple juice"
+    },
+    {
+      "id": "A1_K4_002",
+      "word": "die Banane, -n",
+      "plural": "die Bananen",
+      "meaning": "banana"
+    },
+    {
+      "id": "A1_K4_003",
+      "word": "das Brötchen, -",
+      "plural": "die Brötchen",
+      "meaning": "bread roll"
+    },
+    {
+      "id": "A1_K4_004",
+      "word": "die Butter (Sg.)",
+      "meaning": "butter"
+    },
+    {
+      "id": "A1_K4_005",
+      "word": "die/das Cola, -s",
+      "plural": "die Colas",
+      "meaning": "cola"
+    },
+    {
+      "id": "A1_K4_006",
+      "word": "das Ei, -er",
+      "plural": "die Eier",
+      "meaning": "egg"
+    },
+    {
+      "id": "A1_K4_007",
+      "word": "der Essig, -e",
+      "plural": "die Essige",
+      "meaning": "vinegar"
+    },
+    {
+      "id": "A1_K4_008",
+      "word": "das Fleisch (Sg.)",
+      "meaning": "meat"
+    },
+    {
+      "id": "A1_K4_009",
+      "word": "das Frühstück, -e",
+      "plural": "die Frühstücke",
+      "meaning": "breakfast"
+    },
+    {
+      "id": "A1_K4_010",
+      "word": "das Gemüse, -",
+      "plural": "die Gemüse",
+      "meaning": "vegetable"
+    },
+    {
+      "id": "A1_K4_011",
+      "word": "guten Appetit",
+      "meaning": "Enjoy!"
+    },
+    {
+      "id": "A1_K4_012",
+      "word": "der/das Joghurt, -s",
+      "plural": "die Joghurts",
+      "meaning": "yogurt"
+    },
+    {
+      "id": "A1_K4_013",
+      "word": "die Kartoffel, -n",
+      "plural": "die Kartoffeln",
+      "meaning": "potato"
+    },
+    {
+      "id": "A1_K4_014",
+      "word": "der Käse (Sg.)",
+      "meaning": "cheese"
+    },
+    {
+      "id": "A1_K4_015",
+      "word": "das Lebensmittel, -",
+      "plural": "die Lebensmittel",
+      "meaning": "groceries"
+    },
+    {
+      "id": "A1_K4_016",
+      "word": "die Marmelade, -n",
+      "plural": "die Marmeladen",
+      "meaning": "jam, marmelade"
+    },
+    {
+      "id": "A1_K4_017",
+      "word": "die Milch (Sg.)",
+      "meaning": "milk"
+    },
+    {
+      "id": "A1_K4_018",
+      "word": "das Mittagessen, -",
+      "plural": "die Mittagessen",
+      "meaning": "lunch"
+    },
+    {
+      "id": "A1_K4_019",
+      "word": "das Müsli, -s",
+      "plural": "die Müslis",
+      "meaning": "muesli"
+    },
+    {
+      "id": "A1_K4_020",
+      "word": "das Öl, -e",
+      "plural": "die Öle",
+      "meaning": "oil"
+    },
+    {
+      "id": "A1_K4_021",
+      "word": "der Orangensaft, \"-e",
+      "plural": "die Orangensäfte",
+      "meaning": "orange juice"
+    },
+    {
+      "id": "A1_K4_022",
+      "word": "der Pfeffer, -",
+      "plural": "die Pfeffer",
+      "meaning": "pepper"
+    },
+    {
+      "id": "A1_K4_023",
+      "word": "das Salz, -e",
+      "plural": "die Salze",
+      "meaning": "salt"
+    },
+    {
+      "id": "A1_K4_024",
+      "word": "der Tee, -s",
+      "plural": "die Tees",
+      "meaning": "tea"
+    },
+    {
+      "id": "A1_K4_025",
+      "word": "verbinden, er verbindet, hat verbunden",
+      "meaning": "to connect",
+      "example": "Verbinden Sie Nomen und Artikel."
+    },
+    {
+      "id": "A1_K4_026",
+      "word": "das Wasser, -",
+      "plural": "die Wasser",
+      "meaning": "water"
+    },
+    {
+      "id": "A1_K4_027",
+      "word": "die Muttersprache, -n",
+      "plural": "die Muttersprachen",
+      "meaning": "mother tongue"
+    },
+    {
+      "id": "A1_K4_028",
+      "word": "die Bäckerei, -en",
+      "plural": "die Bäckereien",
+      "meaning": "bakery"
+    },
+    {
+      "id": "A1_K4_029",
+      "word": "ein|kaufen",
+      "meaning": "to shop"
+    },
+    {
+      "id": "A1_K4_030",
+      "word": "die Metzgerei, -en",
+      "plural": "die Metzgereien",
+      "meaning": "butcher"
+    },
+    {
+      "id": "A1_K4_031",
+      "word": "der Supermarkt, \"-e",
+      "plural": "die Supermärkte",
+      "meaning": "supermarket"
+    },
+    {
+      "id": "A1_K4_032",
+      "word": "das Abendessen, -",
+      "plural": "die Abendessen",
+      "meaning": "dinner"
+    },
+    {
+      "id": "A1_K4_033",
+      "word": "das Brot, -e",
+      "plural": "die Brote",
+      "meaning": "bread"
+    },
+    {
+      "id": "A1_K4_034",
+      "word": "die Gurke, -n",
+      "plural": "die Gurken",
+      "meaning": "cucumber"
+    },
+    {
+      "id": "A1_K4_035",
+      "word": "der Kaffee, -s",
+      "plural": "die Kaffees",
+      "meaning": "coffee"
+    },
+    {
+      "id": "A1_K4_036",
+      "word": "der/das Keks, -e",
+      "plural": "die Kekse",
+      "meaning": "cookie"
+    },
+    {
+      "id": "A1_K4_037",
+      "word": "der Kuchen, -",
+      "plural": "die Kuchen",
+      "meaning": "cake"
+    },
+    {
+      "id": "A1_K4_038",
+      "word": "die Sahne (Sg.)",
+      "meaning": "cream"
+    },
+    {
+      "id": "A1_K4_039",
+      "word": "der Salat, -e",
+      "plural": "die Salate",
+      "meaning": "salad"
+    },
+    {
+      "id": "A1_K4_040",
+      "word": "der Schinken, -",
+      "plural": "die Schinken",
+      "meaning": "ham"
+    },
+    {
+      "id": "A1_K4_041",
+      "word": "die Schokolade, -n",
+      "plural": "die Schokoladen",
+      "meaning": "chocolate"
+    },
+    {
+      "id": "A1_K4_042",
+      "word": "die Suppe, -n",
+      "plural": "die Suppen",
+      "meaning": "soup"
+    },
+    {
+      "id": "A1_K4_043",
+      "word": "die Tomate, -n",
+      "plural": "die Tomaten",
+      "meaning": "tomato"
+    },
+    {
+      "id": "A1_K4_044",
+      "word": "die Wurst, \"-e",
+      "plural": "die Würste",
+      "meaning": "sausage"
+    },
+    {
+      "id": "A1_K4_045",
+      "word": "der Zucker (Sg.)",
+      "meaning": "sugar"
+    },
+    {
+      "id": "A1_K4_046",
+      "word": "der Apfel, \"-",
+      "plural": "die Äpfel",
+      "meaning": "apple"
+    },
+    {
+      "id": "A1_K4_047",
+      "word": "das Geschäft, -e",
+      "plural": "die Geschäfte",
+      "meaning": "shop"
+    },
+    {
+      "id": "A1_K4_048",
+      "word": "kaufen",
+      "meaning": "to buy"
+    },
+    {
+      "id": "A1_K4_049",
+      "word": "bis später",
+      "meaning": "see you later"
+    },
+    {
+      "id": "A1_K4_050",
+      "word": "die Einladung, -en",
+      "plural": "die Einladungen",
+      "meaning": "invitation"
+    },
+    {
+      "id": "A1_K4_051",
+      "word": "das Essen, -",
+      "plural": "die Essen",
+      "meaning": "meal, food"
+    },
+    {
+      "id": "A1_K4_052",
+      "word": "fertig",
+      "meaning": "ready"
+    },
+    {
+      "id": "A1_K4_053",
+      "word": "gleich",
+      "meaning": "nearly",
+      "example": "Das Essen ist gleich fertig."
+    },
+    {
+      "id": "A1_K4_054",
+      "word": "grillen",
+      "meaning": "to barbecue"
+    },
+    {
+      "id": "A1_K4_055",
+      "word": "die Nachricht, -en",
+      "plural": "die Nachrichten",
+      "meaning": "message",
+      "example": "Sie schreibt Paul eine Nachricht."
+    },
+    {
+      "id": "A1_K4_056",
+      "word": "uns",
+      "meaning": "ours",
+      "example": "Wir grillen heute Abend bei uns."
+    },
+    {
+      "id": "A1_K4_057",
+      "word": "vielleicht",
+      "meaning": "maybe"
+    },
+    {
+      "id": "A1_K4_058",
+      "word": "die Zeit, -en",
+      "plural": "die Zeiten",
+      "meaning": "time",
+      "example": "Wir haben morgen keine Zeit."
+    },
+    {
+      "id": "A1_K4_059",
+      "word": "alles",
+      "meaning": "everything"
+    },
+    {
+      "id": "A1_K4_060",
+      "word": "brauchen",
+      "meaning": "to need"
+    },
+    {
+      "id": "A1_K4_061",
+      "word": "der Einkaufszettel, -",
+      "plural": "die Einkaufszettel",
+      "meaning": "grocery list"
+    },
+    {
+      "id": "A1_K4_062",
+      "word": "das Getränk, -e",
+      "plural": "die Getränke",
+      "meaning": "drink"
+    },
+    {
+      "id": "A1_K4_063",
+      "word": "die Grillparty, -s",
+      "plural": "die Grillpartys",
+      "meaning": "barbecue"
+    },
+    {
+      "id": "A1_K4_064",
+      "word": "mehr",
+      "meaning": "here: anymore",
+      "example": "Wir haben keinen Käse mehr."
+    },
+    {
+      "id": "A1_K4_065",
+      "word": "planen",
+      "meaning": "to plan"
+    },
+    {
+      "id": "A1_K4_066",
+      "word": "stimmen",
+      "meaning": "here: to be true",
+      "example": "Oliven sind oft teuer. - Ja, stimmt."
+    },
+    {
+      "id": "A1_K4_067",
+      "word": "teuer",
+      "meaning": "expensive"
+    },
+    {
+      "id": "A1_K4_068",
+      "word": "der Einkauf, \"-e",
+      "plural": "die Einkäufe",
+      "meaning": "shopping"
+    },
+    {
+      "id": "A1_K4_069",
+      "word": "die Birne, -n",
+      "plural": "die Birnen",
+      "meaning": "pear"
+    },
+    {
+      "id": "A1_K4_070",
+      "word": "der Fisch, -e",
+      "plural": "die Fische",
+      "meaning": "fish"
+    },
+    {
+      "id": "A1_K4_071",
+      "word": "das Hähnchen, -",
+      "plural": "die Hähnchen",
+      "meaning": "chicken"
+    },
+    {
+      "id": "A1_K4_072",
+      "word": "die Olive, -n",
+      "plural": "die Oliven",
+      "meaning": "olive"
+    },
+    {
+      "id": "A1_K4_073",
+      "word": "die Pommes frites (Pl.)",
+      "meaning": "chips"
+    },
+    {
+      "id": "A1_K4_074",
+      "word": "der Reis (Sg.)",
+      "meaning": "rice"
+    },
+    {
+      "id": "A1_K4_075",
+      "word": "schmecken",
+      "meaning": "to taste"
+    },
+    {
+      "id": "A1_K4_076",
+      "word": "süß",
+      "meaning": "sweet",
+      "example": "Schokolade schmeckt süß."
+    },
+    {
+      "id": "A1_K4_077",
+      "word": "der Akkusativ, -e",
+      "plural": "die Akkusative",
+      "meaning": "accusative"
+    },
+    {
+      "id": "A1_K4_078",
+      "word": "der Nominativ, -e",
+      "plural": "die Nominative",
+      "meaning": "nominative"
+    },
+    {
+      "id": "A1_K4_079",
+      "word": "essen, er isst, hat gegessen",
+      "meaning": "to eat"
+    },
+    {
+      "id": "A1_K4_080",
+      "word": "zusammen",
+      "meaning": "together"
+    },
+    {
+      "id": "A1_K4_081",
+      "word": "der Saft, \"-e",
+      "plural": "die Säfte",
+      "meaning": "juice",
+      "example": "Ich trinke gerne Saft."
+    },
+    {
+      "id": "A1_K4_082",
+      "word": "der Umlaut, -e",
+      "plural": "die Umlaute",
+      "meaning": "umlaut"
+    },
+    {
+      "id": "A1_K4_083",
+      "word": "der Cent, -s",
+      "plural": "die Cents",
+      "meaning": "cent"
+    },
+    {
+      "id": "A1_K4_084",
+      "word": "dort",
+      "meaning": "there"
+    },
+    {
+      "id": "A1_K4_085",
+      "word": "dran|kommen, er kommt dran, ist drangekommen",
+      "meaning": "to have one's turn"
+    },
+    {
+      "id": "A1_K4_086",
+      "word": "der Einkaufswagen, -",
+      "plural": "die Einkaufswagen",
+      "meaning": "shopping cart"
+    },
+    {
+      "id": "A1_K4_087",
+      "word": "der Emmentaler, -",
+      "plural": "die Emmentaler",
+      "meaning": "Emmentaler cheese"
+    },
+    {
+      "id": "A1_K4_088",
+      "word": "etwas",
+      "meaning": "here: anything",
+      "example": "Sonst noch etwas?"
+    },
+    {
+      "id": "A1_K4_089",
+      "word": "finden, er findet, hat gefunden",
+      "meaning": "to find",
+      "example": "Entschuldigung, wo finde ich Reis?"
+    },
+    {
+      "id": "A1_K4_090",
+      "word": "das Gramm, -",
+      "plural": "die Gramm",
+      "meaning": "gram"
+    },
+    {
+      "id": "A1_K4_091",
+      "word": "gut",
+      "meaning": "here: alright",
+      "example": "Kommst du? - Also gut …"
+    },
+    {
+      "id": "A1_K4_092",
+      "word": "der Kassenzettel, -",
+      "plural": "die Kassenzettel",
+      "meaning": "receipt"
+    },
+    {
+      "id": "A1_K4_093",
+      "word": "kosten",
+      "meaning": "to cost"
+    },
+    {
+      "id": "A1_K4_094",
+      "word": "machen",
+      "meaning": "to make",
+      "example": "Zahlen, bitte. - Gern. Das macht 12 Euro, bitte."
+    },
+    {
+      "id": "A1_K4_095",
+      "word": "möchten, er möchte, hat gemocht",
+      "meaning": "to want"
+    },
+    {
+      "id": "A1_K4_096",
+      "word": "nehmen, er nimmt, hat genommen",
+      "meaning": "to take",
+      "example": "Ich nehme ein Brötchen, bitte."
+    },
+    {
+      "id": "A1_K4_097",
+      "word": "der Preis, -e",
+      "plural": "die Preise",
+      "meaning": "price"
+    },
+    {
+      "id": "A1_K4_098",
+      "word": "sonst",
+      "meaning": "otherwise"
+    },
+    {
+      "id": "A1_K4_099",
+      "word": "das Stück, -e/-",
+      "plural": "die Stücke",
+      "meaning": "piece"
+    },
+    {
+      "id": "A1_K4_100",
+      "word": "die Tüte, -n",
+      "plural": "die Tüten",
+      "meaning": "bag"
+    },
+    {
+      "id": "A1_K4_101",
+      "word": "wechseln",
+      "meaning": "to change"
+    },
+    {
+      "id": "A1_K4_102",
+      "word": "wie viel, wie viele",
+      "meaning": "how much"
+    },
+    {
+      "id": "A1_K4_103",
+      "word": "die Limonade, -n",
+      "plural": "die Limonaden",
+      "meaning": "lemonade"
+    },
+    {
+      "id": "A1_K4_104",
+      "word": "recherchieren",
+      "meaning": "to research"
+    },
+    {
+      "id": "A1_K4_105",
+      "word": "der Becher, -",
+      "plural": "die Becher",
+      "meaning": "cup"
+    },
+    {
+      "id": "A1_K4_106",
+      "word": "die Dose, -n",
+      "plural": "die Dosen",
+      "meaning": "jar"
+    },
+    {
+      "id": "A1_K4_107",
+      "word": "das Fett, -e",
+      "plural": "die Fette",
+      "meaning": "fat"
+    },
+    {
+      "id": "A1_K4_108",
+      "word": "das Kilo, -s (= kg)",
+      "plural": "die Kilos",
+      "meaning": "kilo"
+    },
+    {
+      "id": "A1_K4_109",
+      "word": "das Kilogramm, - (= kg)",
+      "plural": "die Kilogramm",
+      "meaning": "kilogram"
+    },
+    {
+      "id": "A1_K4_110",
+      "word": "der Liter, -",
+      "plural": "die Liter",
+      "meaning": "litre"
+    },
+    {
+      "id": "A1_K4_111",
+      "word": "das Maß, -e",
+      "plural": "die Maße",
+      "meaning": "measure"
+    },
+    {
+      "id": "A1_K4_112",
+      "word": "die Packung, -en",
+      "plural": "die Packungen",
+      "meaning": "packet"
+    },
+    {
+      "id": "A1_K4_113",
+      "word": "die Verpackung, -en",
+      "plural": "die Verpackungen",
+      "meaning": "packaging"
+    },
+    {
+      "id": "A1_K4_114",
+      "word": "gerne",
+      "meaning": "with pleasure"
+    },
+    {
+      "id": "A1_K4_115",
+      "word": "gleichfalls",
+      "meaning": "likewise"
+    },
+    {
+      "id": "A1_K4_116",
+      "word": "lecker",
+      "meaning": "tasty"
+    },
+    {
+      "id": "A1_K4_117",
+      "word": "satt",
+      "meaning": "full"
+    },
+    {
+      "id": "A1_K4_118",
+      "word": "die Mahlzeit, -en",
+      "plural": "die Mahlzeiten",
+      "meaning": "enjoy your meal",
+      "example": "Guten Appetit! - Mahlzeit!"
+    },
+    {
+      "id": "A1_K4_119",
+      "word": "prost",
+      "meaning": "cheers"
+    },
+    {
+      "id": "A1_K4_120",
+      "word": "zum Wohl",
+      "meaning": "cheers"
+    },
+    {
+      "id": "A1_K4_121",
+      "word": "die Frau, -en",
+      "plural": "die Frauen",
+      "meaning": "woman",
+      "example": "Die Frau trinkt gern Tee."
+    },
+    {
+      "id": "A1_K4_122",
+      "word": "der Mann, \"-er",
+      "plural": "die Männer",
+      "meaning": "man",
+      "example": "Der Mann möchte ein Brötchen."
+    },
+    {
+      "id": "A1_K4_123",
+      "word": "trinken, er trinkt, hat getrunken",
+      "meaning": "to drink"
+    },
+    {
+      "id": "A1_K4_124",
+      "word": "abends",
+      "meaning": "in the evening"
+    },
+    {
+      "id": "A1_K4_125",
+      "word": "allein",
+      "meaning": "alone"
+    },
+    {
+      "id": "A1_K4_126",
+      "word": "die Arbeit, -en",
+      "plural": "die Arbeiten",
+      "meaning": "work"
+    },
+    {
+      "id": "A1_K4_127",
+      "word": "asiatisch",
+      "meaning": "Asian"
+    },
+    {
+      "id": "A1_K4_128",
+      "word": "der Döner, -",
+      "plural": "die Döner",
+      "meaning": "kebab"
+    },
+    {
+      "id": "A1_K4_129",
+      "word": "frühstücken",
+      "meaning": "to eat breakfast"
+    },
+    {
+      "id": "A1_K4_130",
+      "word": "gesund",
+      "meaning": "healthy"
+    },
+    {
+      "id": "A1_K4_131",
+      "word": "halb",
+      "meaning": "here: half past",
+      "example": "Ich frühstücke um halb acht."
+    },
+    {
+      "id": "A1_K4_132",
+      "word": "die Kantine, -n",
+      "plural": "die Kantinen",
+      "meaning": "canteen"
+    },
+    {
+      "id": "A1_K4_133",
+      "word": "manchmal",
+      "meaning": "sometimes"
+    },
+    {
+      "id": "A1_K4_134",
+      "word": "der Mann, \"-er",
+      "plural": "die Männer",
+      "meaning": "husband",
+      "example": "Mein Mann und ich frühstücken zusammen."
+    },
+    {
+      "id": "A1_K4_135",
+      "word": "der Mittag, -e",
+      "plural": "die Mittage",
+      "meaning": "noon"
+    },
+    {
+      "id": "A1_K4_136",
+      "word": "mittags",
+      "meaning": "at noon"
+    },
+    {
+      "id": "A1_K4_137",
+      "word": "mögen, er mag, hat gemocht",
+      "meaning": "to like"
+    },
+    {
+      "id": "A1_K4_138",
+      "word": "der Morgen, -",
+      "plural": "die Morgen",
+      "meaning": "morning"
+    },
+    {
+      "id": "A1_K4_139",
+      "word": "morgens",
+      "meaning": "in the morning"
+    },
+    {
+      "id": "A1_K4_140",
+      "word": "nachmittags",
+      "meaning": "afternoon"
+    },
+    {
+      "id": "A1_K4_141",
+      "word": "nichts",
+      "meaning": "nothing"
+    },
+    {
+      "id": "A1_K4_142",
+      "word": "nur",
+      "meaning": "only"
+    },
+    {
+      "id": "A1_K4_143",
+      "word": "das Obst (Sg.)",
+      "meaning": "fruit"
+    },
+    {
+      "id": "A1_K4_144",
+      "word": "die Pizza, -s/Pizzen",
+      "plural": "die Pizzen",
+      "meaning": "pizza"
+    },
+    {
+      "id": "A1_K4_145",
+      "word": "schlafen, er schläft, hat geschlafen",
+      "meaning": "to sleep"
+    },
+    {
+      "id": "A1_K4_146",
+      "word": "das Sushi, -s",
+      "plural": "die Sushi",
+      "meaning": "sushi"
+    },
+    {
+      "id": "A1_K4_147",
+      "word": "um",
+      "meaning": "at",
+      "example": "Abends um sieben essen wir alle zusammen."
+    },
+    {
+      "id": "A1_K4_148",
+      "word": "vormittags",
+      "meaning": "before noon"
+    },
+    {
+      "id": "A1_K4_149",
+      "word": "wach",
+      "meaning": "awake"
+    },
+    {
+      "id": "A1_K4_150",
+      "word": "wenig",
+      "meaning": "a bit"
+    },
+    {
+      "id": "A1_K4_151",
+      "word": "erzählen",
+      "meaning": "to tell"
+    },
+    {
+      "id": "A1_K4_152",
+      "word": "der Vormittag, -e",
+      "plural": "die Vormittage",
+      "meaning": "before noon"
+    },
+    {
+      "id": "A1_K4_153",
+      "word": "die Mindmap, -s",
+      "plural": "die Mindmaps",
+      "meaning": "mind map"
+    },
+    {
+      "id": "A1_K4_154",
+      "word": "das Paar, -e",
+      "plural": "die Paare",
+      "meaning": "pair"
+    },
+    {
+      "id": "A1_K4_155",
+      "word": "das Thema, Themen",
+      "plural": "die Themen",
+      "meaning": "topic"
+    },
+    {
+      "id": "A1_K4_156",
+      "word": "die Assoziation, -en",
+      "plural": "die Assoziationen",
+      "meaning": "association"
+    },
+    {
+      "id": "A1_K4_157",
+      "word": "ein|fallen, es fällt ein, ist eingefallen",
+      "meaning": "to think of"
+    },
+    {
+      "id": "A1_K4_158",
+      "word": "frei",
+      "meaning": "free",
+      "example": "Sammeln Sie freie Assoziationen."
+    },
+    {
+      "id": "A1_K4_159",
+      "word": "die Methode, -n",
+      "plural": "die Methoden",
+      "meaning": "method"
+    },
+    {
+      "id": "A1_K4_160",
+      "word": "thematisch",
+      "meaning": "topical"
+    },
+    {
+      "id": "A1_K4_161",
+      "word": "die Wortgruppe, -n",
+      "plural": "die Wortgruppen",
+      "meaning": "word group"
+    },
+    {
+      "id": "A1_K4_162",
+      "word": "rund um",
+      "meaning": "all about",
+      "example": "Berufe rund ums Essen"
+    },
+    {
+      "id": "A1_K4_163",
+      "word": "als",
+      "meaning": "as",
+      "example": "Max Schmidt arbeitet seit zwei Jahren als Koch."
+    },
+    {
+      "id": "A1_K4_164",
+      "word": "die Altstadt, \"-e",
+      "plural": "die Altstädte",
+      "meaning": "historic city"
+    },
+    {
+      "id": "A1_K4_165",
+      "word": "am",
+      "meaning": "at",
+      "example": "Max Schmidt ist Koch am Bodensee."
+    },
+    {
+      "id": "A1_K4_166",
+      "word": "die Arbeitszeit, -en",
+      "plural": "die Arbeitszeiten",
+      "meaning": "working hours"
+    },
+    {
+      "id": "A1_K4_167",
+      "word": "beantworten",
+      "meaning": "to answer"
+    },
+    {
+      "id": "A1_K4_168",
+      "word": "der Champignon, -s",
+      "plural": "die Champignons",
+      "meaning": "mushroom"
+    },
+    {
+      "id": "A1_K4_169",
+      "word": "der Chef, -s",
+      "plural": "die Chefs",
+      "meaning": "boss (m)"
+    },
+    {
+      "id": "A1_K4_170",
+      "word": "die Chefin, -nen",
+      "plural": "die Chefinnen",
+      "meaning": "boss (f)"
+    },
+    {
+      "id": "A1_K4_171",
+      "word": "das Dessert, -s",
+      "plural": "die Desserts",
+      "meaning": "dessert"
+    },
+    {
+      "id": "A1_K4_172",
+      "word": "echt",
+      "meaning": "really",
+      "example": "Das ist dann echt stressig!"
+    },
+    {
+      "id": "A1_K4_173",
+      "word": "das Fischgericht, -e",
+      "plural": "die Fischgerichte",
+      "meaning": "fish dish"
+    },
+    {
+      "id": "A1_K4_174",
+      "word": "frisch",
+      "meaning": "fresh"
+    },
+    {
+      "id": "A1_K4_175",
+      "word": "das Gericht, -e",
+      "plural": "die Gerichte",
+      "meaning": "meal"
+    },
+    {
+      "id": "A1_K4_176",
+      "word": "helfen, er hilft, hat geholfen",
+      "meaning": "to help"
+    },
+    {
+      "id": "A1_K4_177",
+      "word": "klein",
+      "meaning": "small"
+    },
+    {
+      "id": "A1_K4_178",
+      "word": "kreativ",
+      "meaning": "creative"
+    },
+    {
+      "id": "A1_K4_179",
+      "word": "länger",
+      "meaning": "longer"
+    },
+    {
+      "id": "A1_K4_180",
+      "word": "natürlich",
+      "meaning": "of course",
+      "example": "Das ist natürlich nicht so schön."
+    },
+    {
+      "id": "A1_K4_181",
+      "word": "nett",
+      "meaning": "nice"
+    },
+    {
+      "id": "A1_K4_182",
+      "word": "normalerweise",
+      "meaning": "normally"
+    },
+    {
+      "id": "A1_K4_183",
+      "word": "probieren",
+      "meaning": "to try"
+    },
+    {
+      "id": "A1_K4_184",
+      "word": "schälen",
+      "meaning": "to peel"
+    },
+    {
+      "id": "A1_K4_185",
+      "word": "schneiden, er schneidet, hat geschnitten",
+      "meaning": "to cut",
+      "example": "Er schneidet das Gemüse."
+    },
+    {
+      "id": "A1_K4_186",
+      "word": "seit (+ D.)",
+      "meaning": "since, for"
+    },
+    {
+      "id": "A1_K4_187",
+      "word": "der Spaß (Sg.)",
+      "meaning": "fun",
+      "example": "Kochen macht Spaß."
+    },
+    {
+      "id": "A1_K4_188",
+      "word": "stressig",
+      "meaning": "stressful"
+    },
+    {
+      "id": "A1_K4_189",
+      "word": "das Team, -s",
+      "plural": "die Teams",
+      "meaning": "team"
+    },
+    {
+      "id": "A1_K4_190",
+      "word": "Uhr",
+      "meaning": "o'clock",
+      "example": "Ich arbeite von 6 bis 15 Uhr."
+    },
+    {
+      "id": "A1_K4_191",
+      "word": "waschen, er wäscht, hat gewaschen",
+      "meaning": "to wash"
+    },
+    {
+      "id": "A1_K4_192",
+      "word": "wichtig",
+      "meaning": "important"
+    },
+    {
+      "id": "A1_K4_193",
+      "word": "zu|bereiten",
+      "meaning": "to prepare"
+    },
+    {
+      "id": "A1_K4_194",
+      "word": "zurück",
+      "meaning": "back"
+    },
+    {
+      "id": "A1_K4_195",
+      "word": "die Zwiebel, -n",
+      "plural": "die Zwiebeln",
+      "meaning": "onion"
+    },
+    {
+      "id": "A1_K4_196",
+      "word": "führen",
+      "meaning": "here: to have",
+      "example": "ein Gespräch führen"
+    },
+    {
+      "id": "A1_K4_197",
+      "word": "unregelmäßig",
+      "meaning": "irregular",
+      "example": "unregelmäßige Verben"
+    },
+    {
+      "id": "A1_K4_198",
+      "word": "die Vorliebe, -n",
+      "plural": "die Vorlieben",
+      "meaning": "preference"
     }
   ]
 }

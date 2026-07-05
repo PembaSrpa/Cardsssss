@@ -4,10 +4,644 @@
   "words": [
     {
       "id": "A1_K10_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Studium, Studien",
+      "plural": "die Studien",
+      "meaning": "studies"
+    },
+    {
+      "id": "A1_K10_002",
+      "word": "betreuen",
+      "meaning": "to supervise"
+    },
+    {
+      "id": "A1_K10_003",
+      "word": "geben, er gibt, hat gegeben",
+      "meaning": "to give",
+      "example": "Ich gebe Unterricht an der Uni."
+    },
+    {
+      "id": "A1_K10_004",
+      "word": "malen",
+      "meaning": "to paint"
+    },
+    {
+      "id": "A1_K10_005",
+      "word": "segeln",
+      "meaning": "to sail"
+    },
+    {
+      "id": "A1_K10_006",
+      "word": "der Unterricht (Sg.)",
+      "meaning": "lessons",
+      "example": "Ich gebe Unterricht an der Uni."
+    },
+    {
+      "id": "A1_K10_007",
+      "word": "der Künstler, -",
+      "plural": "die Künstler",
+      "meaning": "artist (m)"
+    },
+    {
+      "id": "A1_K10_008",
+      "word": "die Künstlerin, -nen",
+      "plural": "die Künstlerinnen",
+      "meaning": "artist (f)"
+    },
+    {
+      "id": "A1_K10_009",
+      "word": "die Radiosendung, -en",
+      "plural": "die Radiosendungen",
+      "meaning": "radio programme"
+    },
+    {
+      "id": "A1_K10_010",
+      "word": "der Segellehrer, -",
+      "plural": "die Segellehrer",
+      "meaning": "sailing instructor (m)"
+    },
+    {
+      "id": "A1_K10_011",
+      "word": "die Segellehrerin, -nen",
+      "plural": "die Segellehrerinnen",
+      "meaning": "sailing instructor (f)"
+    },
+    {
+      "id": "A1_K10_012",
+      "word": "der Arbeitsplatz, \"-e",
+      "plural": "die Arbeitsplätze",
+      "meaning": "workplace"
+    },
+    {
+      "id": "A1_K10_013",
+      "word": "die Baustelle, -n",
+      "plural": "die Baustellen",
+      "meaning": "construction site"
+    },
+    {
+      "id": "A1_K10_014",
+      "word": "das Kaufhaus, \"-er",
+      "plural": "die Kaufhäuser",
+      "meaning": "department store"
+    },
+    {
+      "id": "A1_K10_015",
+      "word": "die Werkstatt, \"-en",
+      "plural": "die Werkstätten",
+      "meaning": "workshop"
+    },
+    {
+      "id": "A1_K10_016",
+      "word": "die Karriere, -n",
+      "plural": "die Karrieren",
+      "meaning": "career"
+    },
+    {
+      "id": "A1_K10_017",
+      "word": "der Punkt, -e",
+      "plural": "die Punkte",
+      "meaning": "point",
+      "example": "Geben Sie Punkte: Was ist wichtig, was nicht?"
+    },
+    {
+      "id": "A1_K10_018",
+      "word": "verdienen",
+      "meaning": "to earn"
+    },
+    {
+      "id": "A1_K10_019",
+      "word": "die Kursstatistik, -en",
+      "plural": "die Kursstatistiken",
+      "meaning": "course statistic"
+    },
+    {
+      "id": "A1_K10_020",
+      "word": "der Feierabend, -e",
+      "plural": "die Feierabende",
+      "meaning": "closing time, home time"
+    },
+    {
+      "id": "A1_K10_021",
+      "word": "fleißig",
+      "meaning": "hardworking"
+    },
+    {
+      "id": "A1_K10_022",
+      "word": "haben, er hat, hat gehabt",
+      "meaning": "to have",
+      "example": "Ich habe heute lange gelernt."
+    },
+    {
+      "id": "A1_K10_023",
+      "word": "laufen, es läuft, ist gelaufen",
+      "meaning": "to go",
+      "example": "Heute läuft es gut. Die Präsentation ist fast fertig."
+    },
+    {
+      "id": "A1_K10_024",
+      "word": "leer",
+      "meaning": "empty",
+      "example": "Der Kühlschrank ist leer."
+    },
+    {
+      "id": "A1_K10_025",
+      "word": "letzte, letzter",
+      "meaning": "last"
+    },
+    {
+      "id": "A1_K10_026",
+      "word": "mal",
+      "meaning": "sometime"
+    },
+    {
+      "id": "A1_K10_027",
+      "word": "der Professor, Professoren",
+      "plural": "die Professoren",
+      "meaning": "professor (m)"
+    },
+    {
+      "id": "A1_K10_028",
+      "word": "die Professorin, -nen",
+      "plural": "die Professorinnen",
+      "meaning": "professor (f)"
+    },
+    {
+      "id": "A1_K10_029",
+      "word": "das Projekt, -e",
+      "plural": "die Projekte",
+      "meaning": "project"
+    },
+    {
+      "id": "A1_K10_030",
+      "word": "das Semester, -",
+      "plural": "die Semester",
+      "meaning": "semester"
+    },
+    {
+      "id": "A1_K10_031",
+      "word": "vorbei sein",
+      "meaning": "to be over"
+    },
+    {
+      "id": "A1_K10_032",
+      "word": "ebenso",
+      "meaning": "also"
+    },
+    {
+      "id": "A1_K10_033",
+      "word": "das Partizip, -ien",
+      "plural": "die Partizipien",
+      "meaning": "participle"
+    },
+    {
+      "id": "A1_K10_034",
+      "word": "das Perfekt (Sg.)",
+      "meaning": "perfect"
+    },
+    {
+      "id": "A1_K10_035",
+      "word": "sein, er ist, ist gewesen",
+      "meaning": "to be here: to happen",
+      "example": "Was ist passiert?"
+    },
+    {
+      "id": "A1_K10_036",
+      "word": "die Prüfung, -en",
+      "plural": "die Prüfungen",
+      "meaning": "test, exam"
+    },
+    {
+      "id": "A1_K10_037",
+      "word": "die Statistik, -en",
+      "plural": "die Statistiken",
+      "meaning": "statistics"
+    },
+    {
+      "id": "A1_K10_038",
+      "word": "das Studio, -s",
+      "plural": "die Studios",
+      "meaning": "studio"
+    },
+    {
+      "id": "A1_K10_039",
+      "word": "trainieren",
+      "meaning": "to train"
+    },
+    {
+      "id": "A1_K10_040",
+      "word": "das Unicafé, -s",
+      "plural": "die Unicafés",
+      "meaning": "uni café"
+    },
+    {
+      "id": "A1_K10_041",
+      "word": "beide",
+      "meaning": "both"
+    },
+    {
+      "id": "A1_K10_042",
+      "word": "kaum",
+      "meaning": "barely"
+    },
+    {
+      "id": "A1_K10_043",
+      "word": "nehmen, er nimmt, hat genommen",
+      "meaning": "to take",
+      "example": "Er hat vier Wochen Urlaub genommen."
+    },
+    {
+      "id": "A1_K10_044",
+      "word": "der Anhang, \"-e",
+      "plural": "die Anhänge",
+      "meaning": "appendix"
+    },
+    {
+      "id": "A1_K10_045",
+      "word": "die Liste, -n",
+      "plural": "die Listen",
+      "meaning": "list"
+    },
+    {
+      "id": "A1_K10_046",
+      "word": "die Aufgabe, -n",
+      "plural": "die Aufgaben",
+      "meaning": "assignment"
+    },
+    {
+      "id": "A1_K10_047",
+      "word": "mischen",
+      "meaning": "to mix"
+    },
+    {
+      "id": "A1_K10_048",
+      "word": "die Agentur für Arbeit (Sg.)",
+      "meaning": "employment office"
+    },
+    {
+      "id": "A1_K10_049",
+      "word": "arbeitslos",
+      "meaning": "unemployed"
+    },
+    {
+      "id": "A1_K10_050",
+      "word": "die Bewerbung, -en",
+      "plural": "die Bewerbungen",
+      "meaning": "application"
+    },
+    {
+      "id": "A1_K10_051",
+      "word": "durch (+ A.)",
+      "meaning": "through",
+      "example": "Die Stelle habe ich durch ein Job-Portal gefunden."
+    },
+    {
+      "id": "A1_K10_052",
+      "word": "die Ehefrau, -en",
+      "plural": "die Ehefrauen",
+      "meaning": "wife"
+    },
+    {
+      "id": "A1_K10_053",
+      "word": "der Ehemann, \"-er",
+      "plural": "die Ehemänner",
+      "meaning": "husband"
+    },
+    {
+      "id": "A1_K10_054",
+      "word": "eilig",
+      "meaning": "hurried",
+      "example": "Ich habe es immer eilig."
+    },
+    {
+      "id": "A1_K10_055",
+      "word": "fliegen, er fliegt, ist geflogen",
+      "meaning": "to fly"
+    },
+    {
+      "id": "A1_K10_056",
+      "word": "freundlich",
+      "meaning": "friendly",
+      "example": "Der Chef ist immer freundlich."
+    },
+    {
+      "id": "A1_K10_057",
+      "word": "früher",
+      "meaning": "formerly, in the past"
+    },
+    {
+      "id": "A1_K10_058",
+      "word": "die Heimat (Sg.)",
+      "meaning": "home"
+    },
+    {
+      "id": "A1_K10_059",
+      "word": "der Hotelchef, -s",
+      "plural": "die Hotelchefs",
+      "meaning": "hotel boss (m)"
+    },
+    {
+      "id": "A1_K10_060",
+      "word": "die Hotelchefin, -nen",
+      "plural": "die Hotelchefinnen",
+      "meaning": "hotel boss (f)"
+    },
+    {
+      "id": "A1_K10_061",
+      "word": "das Internet (Sg.)",
+      "meaning": "internet"
+    },
+    {
+      "id": "A1_K10_062",
+      "word": "der Job, -s",
+      "plural": "die Jobs",
+      "meaning": "job"
+    },
+    {
+      "id": "A1_K10_063",
+      "word": "das Job-Portal, -e",
+      "plural": "die Job-Portale",
+      "meaning": "job portal"
+    },
+    {
+      "id": "A1_K10_064",
+      "word": "nur noch",
+      "meaning": "only"
+    },
+    {
+      "id": "A1_K10_065",
+      "word": "das Profil, -e",
+      "plural": "die Profile",
+      "meaning": "profile"
+    },
+    {
+      "id": "A1_K10_066",
+      "word": "der Sekretär, -e",
+      "plural": "die Sekretäre",
+      "meaning": "secretary (m)"
+    },
+    {
+      "id": "A1_K10_067",
+      "word": "die Sekretärin, -nen",
+      "plural": "die Sekretärinnen",
+      "meaning": "secretary (f)"
+    },
+    {
+      "id": "A1_K10_068",
+      "word": "die Stelle, -n",
+      "plural": "die Stellen",
+      "meaning": "position"
+    },
+    {
+      "id": "A1_K10_069",
+      "word": "die Ortsveränderung, -en",
+      "plural": "die Ortsveränderungen",
+      "meaning": "change of location"
+    },
+    {
+      "id": "A1_K10_070",
+      "word": "das Angebot, -e",
+      "plural": "die Angebote",
+      "meaning": "offer",
+      "example": "ein Angebot schreiben"
+    },
+    {
+      "id": "A1_K10_071",
+      "word": "die Nachrichten (Pl.)",
+      "meaning": "news",
+      "example": "Er liest Nachrichten im Internet."
+    },
+    {
+      "id": "A1_K10_072",
+      "word": "normal",
+      "meaning": "normal"
+    },
+    {
+      "id": "A1_K10_073",
+      "word": "der Spaziergang, \"-e",
+      "plural": "die Spaziergänge",
+      "meaning": "walk"
+    },
+    {
+      "id": "A1_K10_074",
+      "word": "der Tennisplatz, \"-e",
+      "plural": "die Tennisplätze",
+      "meaning": "tennis court"
+    },
+    {
+      "id": "A1_K10_075",
+      "word": "wirklich",
+      "meaning": "really",
+      "example": "Wie war es wirklich?"
+    },
+    {
+      "id": "A1_K10_076",
+      "word": "her",
+      "meaning": "ago"
+    },
+    {
+      "id": "A1_K10_077",
+      "word": "der Anruf, -e",
+      "plural": "die Anrufe",
+      "meaning": "call"
+    },
+    {
+      "id": "A1_K10_078",
+      "word": "die Durchwahl, -en",
+      "plural": "die Durchwahlen",
+      "meaning": "direct dialling"
+    },
+    {
+      "id": "A1_K10_079",
+      "word": "verbinden, er verbindet, hat verbunden",
+      "meaning": "to connect",
+      "example": "Können Sie mich mit Frau Hofer verbinden?"
+    },
+    {
+      "id": "A1_K10_080",
+      "word": "bestimmt",
+      "meaning": "certain",
+      "example": "Sie möchten eine bestimmte Person sprechen."
+    },
+    {
+      "id": "A1_K10_081",
+      "word": "melden (sich)",
+      "meaning": "to answer"
+    },
+    {
+      "id": "A1_K10_082",
+      "word": "wie bitte",
+      "meaning": "excuse me"
+    },
+    {
+      "id": "A1_K10_083",
+      "word": "der Anschluss, \"-e",
+      "plural": "die Anschlüsse",
+      "meaning": "connection"
+    },
+    {
+      "id": "A1_K10_084",
+      "word": "besetzt",
+      "meaning": "busy"
+    },
+    {
+      "id": "A1_K10_085",
+      "word": "die Computerfirma, -firmen",
+      "plural": "die Computerfirmen",
+      "meaning": "computer company"
+    },
+    {
+      "id": "A1_K10_086",
+      "word": "das Computerproblem, -e",
+      "plural": "die Computerprobleme",
+      "meaning": "computer problem"
+    },
+    {
+      "id": "A1_K10_087",
+      "word": "vor|spielen",
+      "meaning": "to act out"
+    },
+    {
+      "id": "A1_K10_088",
+      "word": "der Anfang, \"-e",
+      "plural": "die Anfänge",
+      "meaning": "beginning"
+    },
+    {
+      "id": "A1_K10_089",
+      "word": "die Attraktion, -en",
+      "plural": "die Attraktionen",
+      "meaning": "attraction"
+    },
+    {
+      "id": "A1_K10_090",
+      "word": "das Ausland (Sg.)",
+      "meaning": "abroad"
+    },
+    {
+      "id": "A1_K10_091",
+      "word": "berühmt",
+      "meaning": "famous"
+    },
+    {
+      "id": "A1_K10_092",
+      "word": "die Bühne, -n",
+      "plural": "die Bühnen",
+      "meaning": "stage"
+    },
+    {
+      "id": "A1_K10_093",
+      "word": "das Ende, -n",
+      "plural": "die Enden",
+      "meaning": "end"
+    },
+    {
+      "id": "A1_K10_094",
+      "word": "das Festspiel, -e",
+      "plural": "die Festspiele",
+      "meaning": "festival production"
+    },
+    {
+      "id": "A1_K10_095",
+      "word": "der Händler, -",
+      "plural": "die Händler",
+      "meaning": "merchant (m)"
+    },
+    {
+      "id": "A1_K10_096",
+      "word": "die Händlerin, -nen",
+      "plural": "die Händlerinnen",
+      "meaning": "merchant (f)"
+    },
+    {
+      "id": "A1_K10_097",
+      "word": "insgesamt",
+      "meaning": "all together"
+    },
+    {
+      "id": "A1_K10_098",
+      "word": "das Karussell, -e",
+      "plural": "die Karusselle",
+      "meaning": "merry-go-round"
+    },
+    {
+      "id": "A1_K10_099",
+      "word": "das Kulturfestival, -s",
+      "plural": "die Kulturfestivals",
+      "meaning": "culture festival"
+    },
+    {
+      "id": "A1_K10_100",
+      "word": "die Oper, -n",
+      "plural": "die Opern",
+      "meaning": "opera"
+    },
+    {
+      "id": "A1_K10_101",
+      "word": "statt|finden, er findet statt, hat stattgefunden",
+      "meaning": "to take place"
+    },
+    {
+      "id": "A1_K10_102",
+      "word": "der Stollen, -",
+      "plural": "die Stollen",
+      "meaning": "German fruit cake"
+    },
+    {
+      "id": "A1_K10_103",
+      "word": "verkaufen",
+      "meaning": "to sell"
+    },
+    {
+      "id": "A1_K10_104",
+      "word": "die Ware, -n",
+      "plural": "die Waren",
+      "meaning": "goods, merchandise"
+    },
+    {
+      "id": "A1_K10_105",
+      "word": "der Weihnachtsmarkt, \"-e",
+      "plural": "die Weihnachtsmärkte",
+      "meaning": "Christmas market"
+    },
+    {
+      "id": "A1_K10_106",
+      "word": "der Zuschauer, -",
+      "plural": "die Zuschauer",
+      "meaning": "spectator (m)"
+    },
+    {
+      "id": "A1_K10_107",
+      "word": "die Zuschauerin, -nen",
+      "plural": "die Zuschauerinnen",
+      "meaning": "spectator (f)"
+    },
+    {
+      "id": "A1_K10_108",
+      "word": "die Veranstaltung, -en",
+      "plural": "die Veranstaltungen",
+      "meaning": "event"
+    },
+    {
+      "id": "A1_K10_109",
+      "word": "der Statist, -en",
+      "plural": "die Statisten",
+      "meaning": "extra (m)"
+    },
+    {
+      "id": "A1_K10_110",
+      "word": "die Statistin, -nen",
+      "plural": "die Statistinnen",
+      "meaning": "extra (f)"
+    },
+    {
+      "id": "A1_K10_111",
+      "word": "der Saison-Job, -s",
+      "plural": "die Saison-Jobs",
+      "meaning": "seasonal job"
+    },
+    {
+      "id": "A1_K10_112",
+      "word": "nach|fragen",
+      "meaning": "to ask again"
     }
   ]
 }

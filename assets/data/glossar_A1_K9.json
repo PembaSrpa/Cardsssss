@@ -4,10 +4,774 @@
   "words": [
     {
       "id": "A1_K9_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Arbeitszimmer, -",
+      "plural": "die Arbeitszimmer",
+      "meaning": "office"
+    },
+    {
+      "id": "A1_K9_002",
+      "word": "das Bad, \"-er",
+      "plural": "die Bäder",
+      "meaning": "bath"
+    },
+    {
+      "id": "A1_K9_003",
+      "word": "der Balkon, -e",
+      "plural": "die Balkone",
+      "meaning": "balcony"
+    },
+    {
+      "id": "A1_K9_004",
+      "word": "der Fernseher, -",
+      "plural": "die Fernseher",
+      "meaning": "television"
+    },
+    {
+      "id": "A1_K9_005",
+      "word": "der Flur, -e",
+      "plural": "die Flure",
+      "meaning": "hallway"
+    },
+    {
+      "id": "A1_K9_006",
+      "word": "das Gerät, -e",
+      "plural": "die Geräte",
+      "meaning": "device, appliance"
+    },
+    {
+      "id": "A1_K9_007",
+      "word": "der Herd, -e",
+      "plural": "die Herde",
+      "meaning": "stove"
+    },
+    {
+      "id": "A1_K9_008",
+      "word": "die Kaffeemaschine, -n",
+      "plural": "die Kaffeemaschinen",
+      "meaning": "coffee machine"
+    },
+    {
+      "id": "A1_K9_009",
+      "word": "das Kinderzimmer, -",
+      "plural": "die Kinderzimmer",
+      "meaning": "nursery"
+    },
+    {
+      "id": "A1_K9_010",
+      "word": "die Küche, -n",
+      "plural": "die Küchen",
+      "meaning": "kitchen"
+    },
+    {
+      "id": "A1_K9_011",
+      "word": "der Kühlschrank, \"-e",
+      "plural": "die Kühlschränke",
+      "meaning": "refridgerator"
+    },
+    {
+      "id": "A1_K9_012",
+      "word": "die Lampe, -n",
+      "plural": "die Lampen",
+      "meaning": "lamp"
+    },
+    {
+      "id": "A1_K9_013",
+      "word": "die Möbel (Pl.)",
+      "meaning": "furniture"
+    },
+    {
+      "id": "A1_K9_014",
+      "word": "das Regal, -e",
+      "plural": "die Regale",
+      "meaning": "shelf"
+    },
+    {
+      "id": "A1_K9_015",
+      "word": "das Schlafzimmer, -",
+      "plural": "die Schlafzimmer",
+      "meaning": "bedroom"
+    },
+    {
+      "id": "A1_K9_016",
+      "word": "der Schrank, \"-e",
+      "plural": "die Schränke",
+      "meaning": "wardrobe, cupboard"
+    },
+    {
+      "id": "A1_K9_017",
+      "word": "der Schreibtisch, -e",
+      "plural": "die Schreibtische",
+      "meaning": "desk"
+    },
+    {
+      "id": "A1_K9_018",
+      "word": "der Sessel, -",
+      "plural": "die Sessel",
+      "meaning": "armchair"
+    },
+    {
+      "id": "A1_K9_019",
+      "word": "das Sofa, -s",
+      "plural": "die Sofas",
+      "meaning": "sofa, couch"
+    },
+    {
+      "id": "A1_K9_020",
+      "word": "die Spülmaschine, -n",
+      "plural": "die Spülmaschinen",
+      "meaning": "dishwasher"
+    },
+    {
+      "id": "A1_K9_021",
+      "word": "der Stuhl, \"-e",
+      "plural": "die Stühle",
+      "meaning": "chair"
+    },
+    {
+      "id": "A1_K9_022",
+      "word": "der Teppich, -e",
+      "plural": "die Teppiche",
+      "meaning": "carpet"
+    },
+    {
+      "id": "A1_K9_023",
+      "word": "die Toilette, -n",
+      "plural": "die Toiletten",
+      "meaning": "toilet"
+    },
+    {
+      "id": "A1_K9_024",
+      "word": "die Waschmaschine, -n",
+      "plural": "die Waschmaschinen",
+      "meaning": "washing machine"
+    },
+    {
+      "id": "A1_K9_025",
+      "word": "die Wohnung, -en",
+      "plural": "die Wohnungen",
+      "meaning": "flat"
+    },
+    {
+      "id": "A1_K9_026",
+      "word": "das Wohnzimmer, -",
+      "plural": "die Wohnzimmer",
+      "meaning": "living room"
+    },
+    {
+      "id": "A1_K9_027",
+      "word": "oben",
+      "meaning": "above, at the top"
+    },
+    {
+      "id": "A1_K9_028",
+      "word": "die Pflanze, -n",
+      "plural": "die Pflanzen",
+      "meaning": "plant"
+    },
+    {
+      "id": "A1_K9_029",
+      "word": "ziehen, er zieht, ist gezogen",
+      "meaning": "here: to move",
+      "example": "Beata ist in eine Wohnung gezogen."
+    },
+    {
+      "id": "A1_K9_030",
+      "word": "besonders",
+      "meaning": "especially",
+      "example": "Ich bin besonders gern in der Küche."
+    },
+    {
+      "id": "A1_K9_031",
+      "word": "der Lieblingsort, -e",
+      "plural": "die Lieblingsorte",
+      "meaning": "favourite place"
+    },
+    {
+      "id": "A1_K9_032",
+      "word": "das Lieblingszimmer, -",
+      "plural": "die Lieblingszimmer",
+      "meaning": "favourite room"
+    },
+    {
+      "id": "A1_K9_033",
+      "word": "hell",
+      "meaning": "light"
+    },
+    {
+      "id": "A1_K9_034",
+      "word": "maximal",
+      "meaning": "maximally"
+    },
+    {
+      "id": "A1_K9_035",
+      "word": "qm (= Quadratmeter)",
+      "meaning": "sq m (= square metre)"
+    },
+    {
+      "id": "A1_K9_036",
+      "word": "die Terrasse, -n",
+      "plural": "die Terrassen",
+      "meaning": "patio"
+    },
+    {
+      "id": "A1_K9_037",
+      "word": "ungefähr",
+      "meaning": "approximately"
+    },
+    {
+      "id": "A1_K9_038",
+      "word": "die Wohnungssuche (Sg.)",
+      "meaning": "flat search"
+    },
+    {
+      "id": "A1_K9_039",
+      "word": "das Zentrum, Zentren",
+      "plural": "die Zentren",
+      "meaning": "centre"
+    },
+    {
+      "id": "A1_K9_040",
+      "word": "die Miete, -n",
+      "plural": "die Mieten",
+      "meaning": "rent"
+    },
+    {
+      "id": "A1_K9_041",
+      "word": "der Wunsch, \"-e",
+      "plural": "die Wünsche",
+      "meaning": "wish"
+    },
+    {
+      "id": "A1_K9_042",
+      "word": "das Apartment, -s",
+      "plural": "die Apartments",
+      "meaning": "apartment"
+    },
+    {
+      "id": "A1_K9_043",
+      "word": "billig",
+      "meaning": "cheap"
+    },
+    {
+      "id": "A1_K9_044",
+      "word": "direkt",
+      "meaning": "here: right",
+      "example": "Die Wohnung ist direkt am Bahnhof."
+    },
+    {
+      "id": "A1_K9_045",
+      "word": "die Dusche, -n",
+      "plural": "die Duschen",
+      "meaning": "shower"
+    },
+    {
+      "id": "A1_K9_046",
+      "word": "elegant",
+      "meaning": "elegant"
+    },
+    {
+      "id": "A1_K9_047",
+      "word": "ideal",
+      "meaning": "ideal"
+    },
+    {
+      "id": "A1_K9_048",
+      "word": "jung",
+      "meaning": "young"
+    },
+    {
+      "id": "A1_K9_049",
+      "word": "die Nähe (Sg.)",
+      "meaning": "proximity"
+    },
+    {
+      "id": "A1_K9_050",
+      "word": "renoviert",
+      "meaning": "refurbished"
+    },
+    {
+      "id": "A1_K9_051",
+      "word": "der Stock, \"-e",
+      "plural": "die Stöcke",
+      "meaning": "floor"
+    },
+    {
+      "id": "A1_K9_052",
+      "word": "top",
+      "meaning": "well"
+    },
+    {
+      "id": "A1_K9_053",
+      "word": "vermieten",
+      "meaning": "to let sth"
+    },
+    {
+      "id": "A1_K9_054",
+      "word": "die Wohnfläche, -n",
+      "plural": "die Wohnflächen",
+      "meaning": "living space"
+    },
+    {
+      "id": "A1_K9_055",
+      "word": "die Wohnungsanzeige, -n",
+      "plural": "die Wohnungsanzeigen",
+      "meaning": "advertisement for a flat"
+    },
+    {
+      "id": "A1_K9_056",
+      "word": "zentral",
+      "meaning": "central"
+    },
+    {
+      "id": "A1_K9_057",
+      "word": "dunkel",
+      "meaning": "dark"
+    },
+    {
+      "id": "A1_K9_058",
+      "word": "günstig",
+      "meaning": "low-priced"
+    },
+    {
+      "id": "A1_K9_059",
+      "word": "stellen",
+      "meaning": "to put",
+      "example": "Carla will den Computer in die Küche stellen."
+    },
+    {
+      "id": "A1_K9_060",
+      "word": "aus|füllen",
+      "meaning": "to fill in",
+      "example": "ein Formular ausfüllen"
+    },
+    {
+      "id": "A1_K9_061",
+      "word": "besichtigen",
+      "meaning": "to view"
+    },
+    {
+      "id": "A1_K9_062",
+      "word": "die Kiste, -n",
+      "plural": "die Kisten",
+      "meaning": "box"
+    },
+    {
+      "id": "A1_K9_063",
+      "word": "das Licht, -er",
+      "plural": "die Lichter",
+      "meaning": "light"
+    },
+    {
+      "id": "A1_K9_064",
+      "word": "packen",
+      "meaning": "to pack"
+    },
+    {
+      "id": "A1_K9_065",
+      "word": "schließen, er schließt, hat geschlossen",
+      "meaning": "to close",
+      "example": "Bitte schließ die Tür."
+    },
+    {
+      "id": "A1_K9_066",
+      "word": "die Tür, -en",
+      "plural": "die Türen",
+      "meaning": "door"
+    },
+    {
+      "id": "A1_K9_067",
+      "word": "um|ziehen, er zieht um, ist umgezogen",
+      "meaning": "to move"
+    },
+    {
+      "id": "A1_K9_068",
+      "word": "der Umzug, \"-e",
+      "plural": "die Umzüge",
+      "meaning": "move"
+    },
+    {
+      "id": "A1_K9_069",
+      "word": "unterschreiben, er unterschreibt, hat unterschrieben",
+      "meaning": "to sign"
+    },
+    {
+      "id": "A1_K9_070",
+      "word": "der Vermieter, -",
+      "plural": "die Vermieter",
+      "meaning": "landlord"
+    },
+    {
+      "id": "A1_K9_071",
+      "word": "die Vermieterin, -nen",
+      "plural": "die Vermieterinnen",
+      "meaning": "landlady"
+    },
+    {
+      "id": "A1_K9_072",
+      "word": "der Vertrag, \"-e",
+      "plural": "die Verträge",
+      "meaning": "contract"
+    },
+    {
+      "id": "A1_K9_073",
+      "word": "zu|machen",
+      "meaning": "to close"
+    },
+    {
+      "id": "A1_K9_074",
+      "word": "freuen (sich)",
+      "meaning": "to look forward to sth"
+    },
+    {
+      "id": "A1_K9_075",
+      "word": "scheinen, er scheint, hat geschienen",
+      "meaning": "to shine"
+    },
+    {
+      "id": "A1_K9_076",
+      "word": "fehlend",
+      "meaning": "missing"
+    },
+    {
+      "id": "A1_K9_077",
+      "word": "bald",
+      "meaning": "soon"
+    },
+    {
+      "id": "A1_K9_078",
+      "word": "die Feier, -n",
+      "plural": "die Feiern",
+      "meaning": "celebration"
+    },
+    {
+      "id": "A1_K9_079",
+      "word": "der Glückwunsch, \"-e",
+      "plural": "die Glückwünsche",
+      "meaning": "congratulations"
+    },
+    {
+      "id": "A1_K9_080",
+      "word": "der Samstagabend, -e",
+      "plural": "die Samstagabende",
+      "meaning": "Saturday night"
+    },
+    {
+      "id": "A1_K9_081",
+      "word": "die Einweihungsfeier, -n",
+      "plural": "die Einweihungsfeiern",
+      "meaning": "house warming"
+    },
+    {
+      "id": "A1_K9_082",
+      "word": "genau",
+      "meaning": "exactly",
+      "example": "Wo genau sind die Dinge?"
+    },
+    {
+      "id": "A1_K9_083",
+      "word": "hinter (+ D.)",
+      "meaning": "behind"
+    },
+    {
+      "id": "A1_K9_084",
+      "word": "neben (+ D.)",
+      "meaning": "next to"
+    },
+    {
+      "id": "A1_K9_085",
+      "word": "über (+ D.)",
+      "meaning": "over",
+      "example": "Das Bild ist über dem Fernseher."
+    },
+    {
+      "id": "A1_K9_086",
+      "word": "unter (+ D.)",
+      "meaning": "under"
+    },
+    {
+      "id": "A1_K9_087",
+      "word": "zwischen (+ D.)",
+      "meaning": "between"
+    },
+    {
+      "id": "A1_K9_088",
+      "word": "aus|sehen, er sieht aus, hat ausgesehen",
+      "meaning": "to look"
+    },
+    {
+      "id": "A1_K9_089",
+      "word": "die Begeisterung (Sg.)",
+      "meaning": "enthusiasm"
+    },
+    {
+      "id": "A1_K9_090",
+      "word": "doch",
+      "meaning": "indeed",
+      "example": "Die Lampe ist doch toll!"
+    },
+    {
+      "id": "A1_K9_091",
+      "word": "gemütlich",
+      "meaning": "comfortable"
+    },
+    {
+      "id": "A1_K9_092",
+      "word": "hässlich",
+      "meaning": "ugly"
+    },
+    {
+      "id": "A1_K9_093",
+      "word": "nicht mehr",
+      "meaning": "not anymore"
+    },
+    {
+      "id": "A1_K9_094",
+      "word": "die Äußerung, -en",
+      "plural": "die Äußerungen",
+      "meaning": "remark"
+    },
+    {
+      "id": "A1_K9_095",
+      "word": "negativ",
+      "meaning": "negative"
+    },
+    {
+      "id": "A1_K9_096",
+      "word": "positiv",
+      "meaning": "positive"
+    },
+    {
+      "id": "A1_K9_097",
+      "word": "braun",
+      "meaning": "brown"
+    },
+    {
+      "id": "A1_K9_098",
+      "word": "gelb",
+      "meaning": "yellow"
+    },
+    {
+      "id": "A1_K9_099",
+      "word": "grau",
+      "meaning": "gray"
+    },
+    {
+      "id": "A1_K9_100",
+      "word": "lila",
+      "meaning": "purple"
+    },
+    {
+      "id": "A1_K9_101",
+      "word": "orange",
+      "meaning": "orange"
+    },
+    {
+      "id": "A1_K9_102",
+      "word": "schwarz",
+      "meaning": "black"
+    },
+    {
+      "id": "A1_K9_103",
+      "word": "weiß",
+      "meaning": "white"
+    },
+    {
+      "id": "A1_K9_104",
+      "word": "die Altbauwohnung, -en",
+      "plural": "die Altbauwohnungen",
+      "meaning": "flat in an old building"
+    },
+    {
+      "id": "A1_K9_105",
+      "word": "aus (+ D.)",
+      "meaning": "out (of)",
+      "example": "Die Treppen sind aus Holz."
+    },
+    {
+      "id": "A1_K9_106",
+      "word": "die Decke, -n",
+      "plural": "die Decken",
+      "meaning": "ceiling"
+    },
+    {
+      "id": "A1_K9_107",
+      "word": "das Fachwerkhaus, \"-er",
+      "plural": "die Fachwerkhäuser",
+      "meaning": "half-timber house"
+    },
+    {
+      "id": "A1_K9_108",
+      "word": "der Garten, \"-",
+      "plural": "die Gärten",
+      "meaning": "garden"
+    },
+    {
+      "id": "A1_K9_109",
+      "word": "das Hochhaus, \"-er",
+      "plural": "die Hochhäuser",
+      "meaning": "skyscraper"
+    },
+    {
+      "id": "A1_K9_110",
+      "word": "das Holz, \"-er",
+      "plural": "die Hölzer",
+      "meaning": "wood"
+    },
+    {
+      "id": "A1_K9_111",
+      "word": "das Loft, -s",
+      "plural": "die Lofts",
+      "meaning": "loft"
+    },
+    {
+      "id": "A1_K9_112",
+      "word": "der Raum, \"-e",
+      "plural": "die Räume",
+      "meaning": "room"
+    },
+    {
+      "id": "A1_K9_113",
+      "word": "das Reihenhaus, \"-er",
+      "plural": "die Reihenhäuser",
+      "meaning": "townhouse"
+    },
+    {
+      "id": "A1_K9_114",
+      "word": "die Treppe, -n",
+      "plural": "die Treppen",
+      "meaning": "stairs"
+    },
+    {
+      "id": "A1_K9_115",
+      "word": "die Überschrift, -en",
+      "plural": "die Überschriften",
+      "meaning": "heading"
+    },
+    {
+      "id": "A1_K9_116",
+      "word": "der Bewohner, -",
+      "plural": "die Bewohner",
+      "meaning": "resident (m)"
+    },
+    {
+      "id": "A1_K9_117",
+      "word": "die Bewohnerin, -nen",
+      "plural": "die Bewohnerinnen",
+      "meaning": "resident (f)"
+    },
+    {
+      "id": "A1_K9_118",
+      "word": "der Nachteil, -e",
+      "plural": "die Nachteile",
+      "meaning": "disadvantage"
+    },
+    {
+      "id": "A1_K9_119",
+      "word": "der Vorteil, -e",
+      "plural": "die Vorteile",
+      "meaning": "advantage"
+    },
+    {
+      "id": "A1_K9_120",
+      "word": "die Wohnform, -en",
+      "plural": "die Wohnformen",
+      "meaning": "form of housing"
+    },
+    {
+      "id": "A1_K9_121",
+      "word": "der Baum, \"-e",
+      "plural": "die Bäume",
+      "meaning": "tree"
+    },
+    {
+      "id": "A1_K9_122",
+      "word": "der Blick, -e",
+      "plural": "die Blicke",
+      "meaning": "view"
+    },
+    {
+      "id": "A1_K9_123",
+      "word": "die Blume, -n",
+      "plural": "die Blumen",
+      "meaning": "flower"
+    },
+    {
+      "id": "A1_K9_124",
+      "word": "ein paar",
+      "meaning": "a couple, a few"
+    },
+    {
+      "id": "A1_K9_125",
+      "word": "das Erdgeschoss, -e",
+      "plural": "die Erdgeschosse",
+      "meaning": "ground level"
+    },
+    {
+      "id": "A1_K9_126",
+      "word": "die Lage, -n",
+      "plural": "die Lagen",
+      "meaning": "location"
+    },
+    {
+      "id": "A1_K9_127",
+      "word": "nie",
+      "meaning": "never"
+    },
+    {
+      "id": "A1_K9_128",
+      "word": "weit",
+      "meaning": "far",
+      "example": "Von hier ist es nicht weit zur Uni."
+    },
+    {
+      "id": "A1_K9_129",
+      "word": "die WG, -s",
+      "plural": "die WGs",
+      "meaning": "flat share"
+    },
+    {
+      "id": "A1_K9_130",
+      "word": "die Wohn-Situation, -en",
+      "plural": "die Wohn-Situationen",
+      "meaning": "living situation"
+    },
+    {
+      "id": "A1_K9_131",
+      "word": "zufrieden",
+      "meaning": "satisfied"
+    },
+    {
+      "id": "A1_K9_132",
+      "word": "zurzeit",
+      "meaning": "currently"
+    },
+    {
+      "id": "A1_K9_133",
+      "word": "das Heft, -e",
+      "plural": "die Hefte",
+      "meaning": "exercise book"
+    },
+    {
+      "id": "A1_K9_134",
+      "word": "der Textbaustein, -e",
+      "plural": "die Textbausteine",
+      "meaning": "text block"
+    },
+    {
+      "id": "A1_K9_135",
+      "word": "der Gefallen (Sg.)",
+      "meaning": "approval"
+    },
+    {
+      "id": "A1_K9_136",
+      "word": "das Missfallen (Sg.)",
+      "meaning": "disapproval"
+    },
+    {
+      "id": "A1_K9_137",
+      "word": "die Wechselpräposition, -en",
+      "plural": "die Wechselpräpositionen",
+      "meaning": "two-case preposition"
     }
   ]
 }

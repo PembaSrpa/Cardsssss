@@ -4,10 +4,812 @@
   "words": [
     {
       "id": "A1_K6_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "feiern",
+      "meaning": "to celebrate"
+    },
+    {
+      "id": "A1_K6_002",
+      "word": "das Fitness-Studio, -s",
+      "plural": "die Fitness-Studios",
+      "meaning": "gym"
+    },
+    {
+      "id": "A1_K6_003",
+      "word": "die Freizeitaktivität, -en",
+      "plural": "die Freizeitaktivitäten",
+      "meaning": "extracurricular activity"
+    },
+    {
+      "id": "A1_K6_004",
+      "word": "glauben",
+      "meaning": "to believe",
+      "example": "Ich glaube, der Mann klettert."
+    },
+    {
+      "id": "A1_K6_005",
+      "word": "klettern",
+      "meaning": "to climb"
+    },
+    {
+      "id": "A1_K6_006",
+      "word": "der Ski, -",
+      "plural": "die Ski",
+      "meaning": "ski"
+    },
+    {
+      "id": "A1_K6_007",
+      "word": "wandern",
+      "meaning": "to hike"
+    },
+    {
+      "id": "A1_K6_008",
+      "word": "die Pantomime (Sg.)",
+      "meaning": "pantomime"
+    },
+    {
+      "id": "A1_K6_009",
+      "word": "das Ratebild, -er",
+      "plural": "die Ratebilder",
+      "meaning": "picture puzzle"
+    },
+    {
+      "id": "A1_K6_010",
+      "word": "denn",
+      "meaning": "then (here: modal particle)",
+      "example": "Was denn?"
+    },
+    {
+      "id": "A1_K6_011",
+      "word": "echt",
+      "meaning": "really",
+      "example": "Sofia hat morgen Geburtstag. - Echt?"
+    },
+    {
+      "id": "A1_K6_012",
+      "word": "ein|laden, er lädt ein, hat eingeladen",
+      "meaning": "to invite"
+    },
+    {
+      "id": "A1_K6_013",
+      "word": "die Fahrradtour, -en",
+      "plural": "die Fahrradtouren",
+      "meaning": "bike ride"
+    },
+    {
+      "id": "A1_K6_014",
+      "word": "hi",
+      "meaning": "hi"
+    },
+    {
+      "id": "A1_K6_015",
+      "word": "klar",
+      "meaning": "of course",
+      "example": "Kommst du heute? - Klar."
+    },
+    {
+      "id": "A1_K6_016",
+      "word": "klingen, er klingt, hat geklungen",
+      "meaning": "to sound",
+      "example": "Machen wir eine Fahrradtour? - Klingt gut."
+    },
+    {
+      "id": "A1_K6_017",
+      "word": "das Picknick, -s",
+      "plural": "die Picknicks",
+      "meaning": "picnic"
+    },
+    {
+      "id": "A1_K6_018",
+      "word": "schenken",
+      "meaning": "to give (as a gift)"
+    },
+    {
+      "id": "A1_K6_019",
+      "word": "die Überraschung, -en",
+      "plural": "die Überraschungen",
+      "meaning": "surprise"
+    },
+    {
+      "id": "A1_K6_020",
+      "word": "wen",
+      "meaning": "whom"
+    },
+    {
+      "id": "A1_K6_021",
+      "word": "werden, er wird, ist geworden",
+      "meaning": "here: to turn",
+      "example": "Sofia wird am Samstag 30."
+    },
+    {
+      "id": "A1_K6_022",
+      "word": "besonders",
+      "meaning": "special",
+      "example": "Was ist am Geburtstag besonders?"
+    },
+    {
+      "id": "A1_K6_023",
+      "word": "das Datum, Daten",
+      "plural": "die Daten",
+      "meaning": "date"
+    },
+    {
+      "id": "A1_K6_024",
+      "word": "die Ordinalzahl, -en",
+      "plural": "die Ordinalzahlen",
+      "meaning": "ordinal number"
+    },
+    {
+      "id": "A1_K6_025",
+      "word": "auf|stellen",
+      "meaning": "to arrange"
+    },
+    {
+      "id": "A1_K6_026",
+      "word": "ab|holen",
+      "meaning": "to pick up"
+    },
+    {
+      "id": "A1_K6_027",
+      "word": "Achtung (Sg. ohne Artikel)",
+      "meaning": "careful",
+      "example": "Achtung: Sofia weiß nichts!"
+    },
+    {
+      "id": "A1_K6_028",
+      "word": "an|fangen, er fängt an, hat angefangen",
+      "meaning": "to start"
+    },
+    {
+      "id": "A1_K6_029",
+      "word": "an|rufen",
+      "meaning": "to call"
+    },
+    {
+      "id": "A1_K6_030",
+      "word": "der Ausflug, \"-e",
+      "plural": "die Ausflüge",
+      "meaning": "excursion"
+    },
+    {
+      "id": "A1_K6_031",
+      "word": "der Betreff, -e",
+      "plural": "die Betreffe",
+      "meaning": "subject"
+    },
+    {
+      "id": "A1_K6_032",
+      "word": "ein|sammeln",
+      "meaning": "to collect"
+    },
+    {
+      "id": "A1_K6_033",
+      "word": "das Geschenk, -e",
+      "plural": "die Geschenke",
+      "meaning": "present"
+    },
+    {
+      "id": "A1_K6_034",
+      "word": "hoffentlich",
+      "meaning": "hopefully"
+    },
+    {
+      "id": "A1_K6_035",
+      "word": "mit|bringen, er bringt mit, hat mitgebracht",
+      "meaning": "to bring"
+    },
+    {
+      "id": "A1_K6_036",
+      "word": "mit|kommen, er kommt mit, ist mitgekommen",
+      "meaning": "to come"
+    },
+    {
+      "id": "A1_K6_037",
+      "word": "mit|machen",
+      "meaning": "to join in, to participate"
+    },
+    {
+      "id": "A1_K6_038",
+      "word": "der Regen, -",
+      "plural": "die Regen",
+      "meaning": "rain"
+    },
+    {
+      "id": "A1_K6_039",
+      "word": "schicken",
+      "meaning": "to send"
+    },
+    {
+      "id": "A1_K6_040",
+      "word": "der Treffpunkt, -e",
+      "plural": "die Treffpunkte",
+      "meaning": "meeting point"
+    },
+    {
+      "id": "A1_K6_041",
+      "word": "der Überraschungstag, -e",
+      "plural": "die Überraschungstage",
+      "meaning": "surprise day"
+    },
+    {
+      "id": "A1_K6_042",
+      "word": "wissen, er weiß, hat gewusst",
+      "meaning": "to know",
+      "example": "Achtung: Sofia weiß nichts!"
+    },
+    {
+      "id": "A1_K6_043",
+      "word": "trennbar",
+      "meaning": "separable",
+      "example": "trennbare Verben"
+    },
+    {
+      "id": "A1_K6_044",
+      "word": "auf|hören",
+      "meaning": "to stop"
+    },
+    {
+      "id": "A1_K6_045",
+      "word": "das Fest, -e",
+      "plural": "die Feste",
+      "meaning": "festival"
+    },
+    {
+      "id": "A1_K6_046",
+      "word": "die Anrede, -n",
+      "plural": "die Anreden",
+      "meaning": "salutation"
+    },
+    {
+      "id": "A1_K6_047",
+      "word": "die Einladungs-Mail, -s",
+      "plural": "die Einladungs-Mails",
+      "meaning": "invitation mail"
+    },
+    {
+      "id": "A1_K6_048",
+      "word": "herzlich",
+      "meaning": "warm",
+      "example": "Herzliche Grüße"
+    },
+    {
+      "id": "A1_K6_049",
+      "word": "die Mail, -s",
+      "plural": "die Mails",
+      "meaning": "mail"
+    },
+    {
+      "id": "A1_K6_050",
+      "word": "die Apfelsaftschorle, -n",
+      "plural": "die Apfelsaftschorlen",
+      "meaning": "apple juice spritzer"
+    },
+    {
+      "id": "A1_K6_051",
+      "word": "bestellen",
+      "meaning": "to order"
+    },
+    {
+      "id": "A1_K6_052",
+      "word": "die Bestellung, -en",
+      "plural": "die Bestellungen",
+      "meaning": "order"
+    },
+    {
+      "id": "A1_K6_053",
+      "word": "bringen, er bringt, hat gebracht",
+      "meaning": "to bring"
+    },
+    {
+      "id": "A1_K6_054",
+      "word": "dich",
+      "meaning": "you"
+    },
+    {
+      "id": "A1_K6_055",
+      "word": "euch",
+      "meaning": "you"
+    },
+    {
+      "id": "A1_K6_056",
+      "word": "ihn",
+      "meaning": "him"
+    },
+    {
+      "id": "A1_K6_057",
+      "word": "mich",
+      "meaning": "me"
+    },
+    {
+      "id": "A1_K6_058",
+      "word": "natürlich",
+      "meaning": "of course",
+      "example": "Ein Wasser, bitte. - Natürlich. Ich bringe es gleich."
+    },
+    {
+      "id": "A1_K6_059",
+      "word": "sie",
+      "meaning": "her",
+      "example": "Wo ist Hanna? Das Schnitzel ist für sie."
+    },
+    {
+      "id": "A1_K6_060",
+      "word": "der Teil, -e",
+      "plural": "die Teile",
+      "meaning": "part"
+    },
+    {
+      "id": "A1_K6_061",
+      "word": "passieren",
+      "meaning": "to happen"
+    },
+    {
+      "id": "A1_K6_062",
+      "word": "verboten",
+      "meaning": "forbidden"
+    },
+    {
+      "id": "A1_K6_063",
+      "word": "das Eis (Sg.)",
+      "meaning": "ice cream"
+    },
+    {
+      "id": "A1_K6_064",
+      "word": "die Pommes (Pl.)",
+      "meaning": "chips"
+    },
+    {
+      "id": "A1_K6_065",
+      "word": "die Salami, -s",
+      "plural": "die Salamis",
+      "meaning": "salami"
+    },
+    {
+      "id": "A1_K6_066",
+      "word": "das Schnitzel, -",
+      "plural": "die Schnitzel",
+      "meaning": "schnitzel"
+    },
+    {
+      "id": "A1_K6_067",
+      "word": "die Speisekarte, -n",
+      "plural": "die Speisekarten",
+      "meaning": "menu"
+    },
+    {
+      "id": "A1_K6_068",
+      "word": "die Tomatensuppe, -n",
+      "plural": "die Tomatensuppen",
+      "meaning": "tomato soup"
+    },
+    {
+      "id": "A1_K6_069",
+      "word": "die Gabel, -n",
+      "plural": "die Gabeln",
+      "meaning": "fork"
+    },
+    {
+      "id": "A1_K6_070",
+      "word": "der Löffel, -",
+      "plural": "die Löffel",
+      "meaning": "spoon"
+    },
+    {
+      "id": "A1_K6_071",
+      "word": "das Messer, -",
+      "plural": "die Messer",
+      "meaning": "knife"
+    },
+    {
+      "id": "A1_K6_072",
+      "word": "die Serviette, -n",
+      "plural": "die Servietten",
+      "meaning": "napkin"
+    },
+    {
+      "id": "A1_K6_073",
+      "word": "die Tasse, -n",
+      "plural": "die Tassen",
+      "meaning": "cup"
+    },
+    {
+      "id": "A1_K6_074",
+      "word": "der Teller, -",
+      "plural": "die Teller",
+      "meaning": "plate"
+    },
+    {
+      "id": "A1_K6_075",
+      "word": "bezahlen",
+      "meaning": "to pay"
+    },
+    {
+      "id": "A1_K6_076",
+      "word": "getrennt",
+      "meaning": "separate"
+    },
+    {
+      "id": "A1_K6_077",
+      "word": "ordnen",
+      "meaning": "to arrange",
+      "example": "Ordnen Sie den Dialog."
+    },
+    {
+      "id": "A1_K6_078",
+      "word": "stimmen",
+      "meaning": "to be correct",
+      "example": "Das macht 13,80 €. - Hier sind 15 €. Stimmt so."
+    },
+    {
+      "id": "A1_K6_079",
+      "word": "zahlen",
+      "meaning": "to pay"
+    },
+    {
+      "id": "A1_K6_080",
+      "word": "geben, er gibt, hat gegeben",
+      "meaning": "to give",
+      "example": "Sie gibt dem Kellner Trinkgeld."
+    },
+    {
+      "id": "A1_K6_081",
+      "word": "das Trinkgeld, -er",
+      "plural": "die Trinkgelder",
+      "meaning": "tip"
+    },
+    {
+      "id": "A1_K6_082",
+      "word": "danke schön",
+      "meaning": "thank you"
+    },
+    {
+      "id": "A1_K6_083",
+      "word": "gehen, er geht, ist gegangen",
+      "meaning": "–",
+      "example": "Zahlen, bitte. - Gern. Geht das zusammen?"
+    },
+    {
+      "id": "A1_K6_084",
+      "word": "der Durst (Sg.)",
+      "meaning": "thirst"
+    },
+    {
+      "id": "A1_K6_085",
+      "word": "der Hunger (Sg.)",
+      "meaning": "hunger"
+    },
+    {
+      "id": "A1_K6_086",
+      "word": "wieder",
+      "meaning": "again"
+    },
+    {
+      "id": "A1_K6_087",
+      "word": "der Besuch, -e",
+      "plural": "die Besuche",
+      "meaning": "visit"
+    },
+    {
+      "id": "A1_K6_088",
+      "word": "kalt",
+      "meaning": "cold"
+    },
+    {
+      "id": "A1_K6_089",
+      "word": "das Präteritum, Präterita",
+      "plural": "die Präterita",
+      "meaning": "simple past"
+    },
+    {
+      "id": "A1_K6_090",
+      "word": "warm",
+      "meaning": "warm"
+    },
+    {
+      "id": "A1_K6_091",
+      "word": "an (+ D.)",
+      "meaning": "at",
+      "example": "Wir sitzen draußen an Tischen und Bänken."
+    },
+    {
+      "id": "A1_K6_092",
+      "word": "die Bank, \"-e",
+      "plural": "die Bänke",
+      "meaning": "bench",
+      "example": "Die Leute sitzen auf der Bank."
+    },
+    {
+      "id": "A1_K6_093",
+      "word": "das Beisl, -/-n",
+      "plural": "die Beisln",
+      "meaning": "pub"
+    },
+    {
+      "id": "A1_K6_094",
+      "word": "die Beiz, -en",
+      "plural": "die Beizen",
+      "meaning": "pub"
+    },
+    {
+      "id": "A1_K6_095",
+      "word": "der Biergarten, \"-",
+      "plural": "die Biergärten",
+      "meaning": "beer garden"
+    },
+    {
+      "id": "A1_K6_096",
+      "word": "Co",
+      "meaning": "co",
+      "example": "Kneipen & Co"
+    },
+    {
+      "id": "A1_K6_097",
+      "word": "draußen",
+      "meaning": "outside"
+    },
+    {
+      "id": "A1_K6_098",
+      "word": "geöffnet",
+      "meaning": "opened"
+    },
+    {
+      "id": "A1_K6_099",
+      "word": "das Kaffeehaus, \"-er",
+      "plural": "die Kaffeehäuser",
+      "meaning": "coffee shop"
+    },
+    {
+      "id": "A1_K6_100",
+      "word": "die Kneipe, -n",
+      "plural": "die Kneipen",
+      "meaning": "bar"
+    },
+    {
+      "id": "A1_K6_101",
+      "word": "das Lokal, -e",
+      "plural": "die Lokale",
+      "meaning": "restaurant"
+    },
+    {
+      "id": "A1_K6_102",
+      "word": "der/das Sandwich, -s",
+      "plural": "die Sandwiches",
+      "meaning": "sandwich"
+    },
+    {
+      "id": "A1_K6_103",
+      "word": "selbst",
+      "meaning": "oneself"
+    },
+    {
+      "id": "A1_K6_104",
+      "word": "die Selbstbedienung (Sg.)",
+      "meaning": "self-service"
+    },
+    {
+      "id": "A1_K6_105",
+      "word": "die Sonne (Sg.)",
+      "meaning": "sun"
+    },
+    {
+      "id": "A1_K6_106",
+      "word": "der Spielplatz, \"-e",
+      "plural": "die Spielplätze",
+      "meaning": "playground"
+    },
+    {
+      "id": "A1_K6_107",
+      "word": "die Strandbar, -s",
+      "plural": "die Strandbars",
+      "meaning": "beach bar"
+    },
+    {
+      "id": "A1_K6_108",
+      "word": "typisch",
+      "meaning": "typical"
+    },
+    {
+      "id": "A1_K6_109",
+      "word": "überall",
+      "meaning": "everywhere"
+    },
+    {
+      "id": "A1_K6_110",
+      "word": "voll",
+      "meaning": "full",
+      "example": "Die Kneipe ist am Abend voll."
+    },
+    {
+      "id": "A1_K6_111",
+      "word": "das Wetter, -",
+      "plural": "die Wetter",
+      "meaning": "weather"
+    },
+    {
+      "id": "A1_K6_112",
+      "word": "die Anmeldung, -en",
+      "plural": "die Anmeldungen",
+      "meaning": "application",
+      "example": "die Anmeldung zum Marathon"
+    },
+    {
+      "id": "A1_K6_113",
+      "word": "die Anzeige, -n",
+      "plural": "die Anzeigen",
+      "meaning": "advertisement"
+    },
+    {
+      "id": "A1_K6_114",
+      "word": "die Atmosphäre (Sg.)",
+      "meaning": "atmosphere"
+    },
+    {
+      "id": "A1_K6_115",
+      "word": "auf|passen",
+      "meaning": "to pay attention"
+    },
+    {
+      "id": "A1_K6_116",
+      "word": "der Beginn (Sg.)",
+      "meaning": "beginning"
+    },
+    {
+      "id": "A1_K6_117",
+      "word": "beginnen",
+      "meaning": "to begin"
+    },
+    {
+      "id": "A1_K6_118",
+      "word": "besondere, besonderer",
+      "meaning": "special"
+    },
+    {
+      "id": "A1_K6_119",
+      "word": "das Double Feature, -s",
+      "plural": "die Double Features",
+      "meaning": "double feature"
+    },
+    {
+      "id": "A1_K6_120",
+      "word": "der Eintritt, -e",
+      "plural": "die Eintritte",
+      "meaning": "entrance"
+    },
+    {
+      "id": "A1_K6_121",
+      "word": "enden",
+      "meaning": "to end"
+    },
+    {
+      "id": "A1_K6_122",
+      "word": "Extra-",
+      "meaning": "extra",
+      "example": "Morgen ist in Wien ein Extra-Konzert von Mark Forster."
+    },
+    {
+      "id": "A1_K6_123",
+      "word": "fehlen",
+      "meaning": "to miss"
+    },
+    {
+      "id": "A1_K6_124",
+      "word": "der Franken, -",
+      "plural": "die Franken",
+      "meaning": "Swiss franc"
+    },
+    {
+      "id": "A1_K6_125",
+      "word": "früh",
+      "meaning": "morning"
+    },
+    {
+      "id": "A1_K6_126",
+      "word": "genießen, er genießt, hat genossen",
+      "meaning": "to savor"
+    },
+    {
+      "id": "A1_K6_127",
+      "word": "der Halbmarathon, -s",
+      "plural": "die Halbmarathons",
+      "meaning": "half-marathon"
+    },
+    {
+      "id": "A1_K6_128",
+      "word": "die Karte, -n",
+      "plural": "die Karten",
+      "meaning": "ticket",
+      "example": "Die Karten für das Konzert kosten 49 €."
+    },
+    {
+      "id": "A1_K6_129",
+      "word": "der Konzertbeginn (Sg.)",
+      "meaning": "beginning of the concert"
+    },
+    {
+      "id": "A1_K6_130",
+      "word": "die Kultur-Nacht, \"-e",
+      "plural": "die Kultur-Nächte",
+      "meaning": "cultural night"
+    },
+    {
+      "id": "A1_K6_131",
+      "word": "laufen, er läuft, ist gelaufen",
+      "meaning": "to run"
+    },
+    {
+      "id": "A1_K6_132",
+      "word": "los sein, er ist los, ist los gewesen",
+      "meaning": "to be up",
+      "example": "Was ist los?"
+    },
+    {
+      "id": "A1_K6_133",
+      "word": "der Marathon, -s",
+      "plural": "die Marathons",
+      "meaning": "marathon"
+    },
+    {
+      "id": "A1_K6_134",
+      "word": "die Museumsnacht, \"-e",
+      "plural": "die Museumsnächte",
+      "meaning": "museum night"
+    },
+    {
+      "id": "A1_K6_135",
+      "word": "die Nacht, \"-e",
+      "plural": "die Nächte",
+      "meaning": "night"
+    },
+    {
+      "id": "A1_K6_136",
+      "word": "die Natur (Sg.)",
+      "meaning": "nature"
+    },
+    {
+      "id": "A1_K6_137",
+      "word": "das Open-Air-Kino, -s",
+      "plural": "die Open-Air-Kinos",
+      "meaning": "open-air concert"
+    },
+    {
+      "id": "A1_K6_138",
+      "word": "das Programm, -e",
+      "plural": "die Programme",
+      "meaning": "program"
+    },
+    {
+      "id": "A1_K6_139",
+      "word": "die Aktivität, -en",
+      "plural": "die Aktivitäten",
+      "meaning": "activity"
+    },
+    {
+      "id": "A1_K6_140",
+      "word": "das Fußballspiel, -e",
+      "plural": "die Fußballspiele",
+      "meaning": "football game"
+    },
+    {
+      "id": "A1_K6_141",
+      "word": "die Lust (Sg.)",
+      "meaning": "to want, to feel like",
+      "example": "Kommst du mit? - Nein, ich habe keine Lust."
+    },
+    {
+      "id": "A1_K6_142",
+      "word": "warum",
+      "meaning": "why"
+    },
+    {
+      "id": "A1_K6_143",
+      "word": "das Ereignis, -se",
+      "plural": "die Ereignisse",
+      "meaning": "result"
+    },
+    {
+      "id": "A1_K6_144",
+      "word": "die Präposition, -en",
+      "plural": "die Präpositionen",
+      "meaning": "preposition"
     }
   ]
 }

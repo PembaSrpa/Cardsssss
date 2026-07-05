@@ -1,6 +1,6 @@
 # Cardsssss
 
-Learn vocabulary in short, tappable bursts. IELTS words, German der/die/das, and German course glossaries - three modules, same habit, ten minutes a day.
+Learn vocabulary in short, tappable bursts. IELTS words, German der/die/das, and German course glossaries.
 
 ![App screenshot](docs/home.png)
 
@@ -8,7 +8,7 @@ Learn vocabulary in short, tappable bursts. IELTS words, German der/die/das, and
 
 ## The Idea
 
-Vocabulary lists are easy to open once and never again. Cards keeps the loop small: pick a topic, flip or swipe through a stack of words, close the app.
+Vocabulary lists are easy to open once and never again. Cardsssss keeps the loop small: pick a topic, flip or swipe through a stack of words, close the app.
 
 Three modules live side by side because they train different muscles - IELTS is recognition and recall, German articles are pattern instinct, and Glossaries turn a textbook's word list into something you actually review. All three use the same swipeable, thumb-friendly card format.
 
@@ -27,14 +27,6 @@ Three modules live side by side because they train different muscles - IELTS is 
 **Deutsch Artikel** - a German noun appears with its English meaning underneath; swipe to guess the article and get instant right/wrong feedback. The three swipe directions are colour-coded - _der_ in blue, _die_ in red, _das_ in green - so the colour association builds up before you've even guessed right. Levels run A1 → B1, with an accuracy percentage shown once you've started a level.
 
 **Deutsch Glossar** - browse by course level (A1, A2, B1, B2) and then by Kapitel. B2 splits each Kapitel into four smaller modules first. Every card shows a word, its plural where relevant, the meaning, and an example sentence when the source material has one.
-
----
-
-## Getting to a Word
-
-Every module funnels down to the same kind of screen before the cards start: a word list for whatever you picked, with a big **Start Flashcards** button up top.
-
-If you've already been through that list, the button becomes **Continue**, dropping you back exactly where you left off. You can also tap any word directly - the cards open right there, but the full stack is still underneath, so prev/next keep moving through the real list rather than isolating that one word.
 
 ---
 

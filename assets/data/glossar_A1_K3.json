@@ -4,10 +4,897 @@
   "words": [
     {
       "id": "A1_K3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Stadttour, -en",
+      "plural": "die Stadttouren",
+      "meaning": "city tour"
+    },
+    {
+      "id": "A1_K3_002",
+      "word": "die Station, -en",
+      "plural": "die Stationen",
+      "meaning": "station"
+    },
+    {
+      "id": "A1_K3_003",
+      "word": "der Bahnhof, \"-e",
+      "plural": "die Bahnhöfe",
+      "meaning": "train station"
+    },
+    {
+      "id": "A1_K3_004",
+      "word": "die Bauzeit (Sg.)",
+      "meaning": "construction period"
+    },
+    {
+      "id": "A1_K3_005",
+      "word": "der Besucher, -",
+      "plural": "die Besucher",
+      "meaning": "visitor (m)"
+    },
+    {
+      "id": "A1_K3_006",
+      "word": "die Besucherin, -nen",
+      "plural": "die Besucherinnen",
+      "meaning": "visitor (f)"
+    },
+    {
+      "id": "A1_K3_007",
+      "word": "bis (+ D.)",
+      "meaning": "until",
+      "example": "Bauzeit: bis 2016"
+    },
+    {
+      "id": "A1_K3_008",
+      "word": "breit",
+      "meaning": "wide"
+    },
+    {
+      "id": "A1_K3_009",
+      "word": "erste, erster",
+      "meaning": "first"
+    },
+    {
+      "id": "A1_K3_010",
+      "word": "der Euro, -s",
+      "plural": "die Euros",
+      "meaning": "euro"
+    },
+    {
+      "id": "A1_K3_011",
+      "word": "hoch",
+      "meaning": "high"
+    },
+    {
+      "id": "A1_K3_012",
+      "word": "die Kirche, -n",
+      "plural": "die Kirchen",
+      "meaning": "church"
+    },
+    {
+      "id": "A1_K3_013",
+      "word": "das Konzert, -e",
+      "plural": "die Konzerte",
+      "meaning": "concert"
+    },
+    {
+      "id": "A1_K3_014",
+      "word": "das Konzerthaus, \"-er",
+      "plural": "die Konzerthäuser",
+      "meaning": "concert hall"
+    },
+    {
+      "id": "A1_K3_015",
+      "word": "die Kosten (Pl.)",
+      "meaning": "to cost"
+    },
+    {
+      "id": "A1_K3_016",
+      "word": "der Meter, -",
+      "plural": "die Meter",
+      "meaning": "metre"
+    },
+    {
+      "id": "A1_K3_017",
+      "word": "die Mitte (Sg.)",
+      "meaning": "middle"
+    },
+    {
+      "id": "A1_K3_018",
+      "word": "das Rathaus, \"-er",
+      "plural": "die Rathäuser",
+      "meaning": "town hall"
+    },
+    {
+      "id": "A1_K3_019",
+      "word": "der Star, -s",
+      "plural": "die Stars",
+      "meaning": "star"
+    },
+    {
+      "id": "A1_K3_020",
+      "word": "der Turm, \"-e",
+      "plural": "die Türme",
+      "meaning": "tower"
+    },
+    {
+      "id": "A1_K3_021",
+      "word": "über",
+      "meaning": "over",
+      "example": "Der Turm ist über 120 Jahre alt."
+    },
+    {
+      "id": "A1_K3_022",
+      "word": "auf (+ D.)",
+      "meaning": "on",
+      "example": "Die Schiffe fahren auf dem Fluss."
+    },
+    {
+      "id": "A1_K3_023",
+      "word": "bis zu",
+      "meaning": "up to"
+    },
+    {
+      "id": "A1_K3_024",
+      "word": "circa (= ca.)",
+      "meaning": "approximately (= approx.)"
+    },
+    {
+      "id": "A1_K3_025",
+      "word": "da",
+      "meaning": "there"
+    },
+    {
+      "id": "A1_K3_026",
+      "word": "dem",
+      "meaning": "the",
+      "example": "Die Schiffe fahren auf dem Fluss."
+    },
+    {
+      "id": "A1_K3_027",
+      "word": "der Fluss, \"-e",
+      "plural": "die Flüsse",
+      "meaning": "river"
+    },
+    {
+      "id": "A1_K3_028",
+      "word": "der Hafen, \"-",
+      "plural": "die Häfen",
+      "meaning": "harbour"
+    },
+    {
+      "id": "A1_K3_029",
+      "word": "in (+ D.)",
+      "meaning": "in",
+      "example": "Der Zug fährt in 8 Stunden nach Warschau."
+    },
+    {
+      "id": "A1_K3_030",
+      "word": "das Meer, -e",
+      "plural": "die Meere",
+      "meaning": "sea"
+    },
+    {
+      "id": "A1_K3_031",
+      "word": "der Mensch, -en",
+      "plural": "die Menschen",
+      "meaning": "person"
+    },
+    {
+      "id": "A1_K3_032",
+      "word": "nach (+ D.)",
+      "meaning": "to",
+      "example": "Der Zug fährt nach Warschau."
+    },
+    {
+      "id": "A1_K3_033",
+      "word": "das Schiff, -e",
+      "plural": "die Schiffe",
+      "meaning": "ship"
+    },
+    {
+      "id": "A1_K3_034",
+      "word": "sehen, er sieht, hat gesehen",
+      "meaning": "to see"
+    },
+    {
+      "id": "A1_K3_035",
+      "word": "das Symbol, -e",
+      "plural": "die Symbole",
+      "meaning": "symbol"
+    },
+    {
+      "id": "A1_K3_036",
+      "word": "der Zug, \"-e",
+      "plural": "die Züge",
+      "meaning": "train"
+    },
+    {
+      "id": "A1_K3_037",
+      "word": "die Ausstellung, -en",
+      "plural": "die Ausstellungen",
+      "meaning": "exhibition"
+    },
+    {
+      "id": "A1_K3_038",
+      "word": "die Brücke, -n",
+      "plural": "die Brücken",
+      "meaning": "bridge"
+    },
+    {
+      "id": "A1_K3_039",
+      "word": "lang",
+      "meaning": "long"
+    },
+    {
+      "id": "A1_K3_040",
+      "word": "der Ort, -e",
+      "plural": "die Orte",
+      "meaning": "here: village"
+    },
+    {
+      "id": "A1_K3_041",
+      "word": "über (+ A.)",
+      "meaning": "about",
+      "example": "Sammeln Sie Informationen über Ihre Stadt."
+    },
+    {
+      "id": "A1_K3_042",
+      "word": "grüezi",
+      "meaning": "Swiss word for: hello"
+    },
+    {
+      "id": "A1_K3_043",
+      "word": "grüß Gott",
+      "meaning": "good day"
+    },
+    {
+      "id": "A1_K3_044",
+      "word": "das Hotel, -s",
+      "plural": "die Hotels",
+      "meaning": "hotel"
+    },
+    {
+      "id": "A1_K3_045",
+      "word": "moin",
+      "meaning": "good morning"
+    },
+    {
+      "id": "A1_K3_046",
+      "word": "so",
+      "meaning": "here: this",
+      "example": "So sagt man auf Deutsch: …"
+    },
+    {
+      "id": "A1_K3_047",
+      "word": "die Taxifahrt, -en",
+      "plural": "die Taxifahrten",
+      "meaning": "taxi ride"
+    },
+    {
+      "id": "A1_K3_048",
+      "word": "der Weg, -e",
+      "plural": "die Wege",
+      "meaning": "way"
+    },
+    {
+      "id": "A1_K3_049",
+      "word": "interessant",
+      "meaning": "interesting"
+    },
+    {
+      "id": "A1_K3_050",
+      "word": "die Kunsthalle, -n",
+      "plural": "die Kunsthallen",
+      "meaning": "art gallery"
+    },
+    {
+      "id": "A1_K3_051",
+      "word": "die Lösung, -en",
+      "plural": "die Lösungen",
+      "meaning": "solution"
+    },
+    {
+      "id": "A1_K3_052",
+      "word": "okay",
+      "meaning": "okay"
+    },
+    {
+      "id": "A1_K3_053",
+      "word": "der Plan, \"-e",
+      "plural": "die Pläne",
+      "meaning": "plan"
+    },
+    {
+      "id": "A1_K3_054",
+      "word": "rechts",
+      "meaning": "right"
+    },
+    {
+      "id": "A1_K3_055",
+      "word": "richtig",
+      "meaning": "true",
+      "example": "Ist der Satz richtig oder falsch?"
+    },
+    {
+      "id": "A1_K3_056",
+      "word": "schon",
+      "meaning": "already",
+      "example": "Da ist auch schon das Hotel."
+    },
+    {
+      "id": "A1_K3_057",
+      "word": "schön",
+      "meaning": "pretty"
+    },
+    {
+      "id": "A1_K3_058",
+      "word": "der See, -n",
+      "plural": "die Seen",
+      "meaning": "lake"
+    },
+    {
+      "id": "A1_K3_059",
+      "word": "zeichnen",
+      "meaning": "to draw"
+    },
+    {
+      "id": "A1_K3_060",
+      "word": "auf|stehen, er steht auf, ist aufgestanden",
+      "meaning": "to stand up"
+    },
+    {
+      "id": "A1_K3_061",
+      "word": "bilden",
+      "meaning": "to form",
+      "example": "Bilden Sie drei Gruppen."
+    },
+    {
+      "id": "A1_K3_062",
+      "word": "die Gruppe, -n",
+      "plural": "die Gruppen",
+      "meaning": "group"
+    },
+    {
+      "id": "A1_K3_063",
+      "word": "passend",
+      "meaning": "matching"
+    },
+    {
+      "id": "A1_K3_064",
+      "word": "unbestimmt",
+      "meaning": "indeterminate",
+      "example": "der unbestimmte Artikel"
+    },
+    {
+      "id": "A1_K3_065",
+      "word": "das Haus, \"-er",
+      "plural": "die Häuser",
+      "meaning": "house"
+    },
+    {
+      "id": "A1_K3_066",
+      "word": "der Satz, \"-e",
+      "plural": "die Sätze",
+      "meaning": "sentence"
+    },
+    {
+      "id": "A1_K3_067",
+      "word": "doppelt",
+      "meaning": "double"
+    },
+    {
+      "id": "A1_K3_068",
+      "word": "der Konsonant, -en",
+      "plural": "die Konsonanten",
+      "meaning": "consonant"
+    },
+    {
+      "id": "A1_K3_069",
+      "word": "der Vokal, -e",
+      "plural": "die Vokale",
+      "meaning": "vowel"
+    },
+    {
+      "id": "A1_K3_070",
+      "word": "vor (+ D.)",
+      "meaning": "before",
+      "example": "Vor dem Nomen steht der Artikel."
+    },
+    {
+      "id": "A1_K3_071",
+      "word": "der Arm, -e",
+      "plural": "die Arme",
+      "meaning": "arm"
+    },
+    {
+      "id": "A1_K3_072",
+      "word": "klopfen",
+      "meaning": "to knock"
+    },
+    {
+      "id": "A1_K3_073",
+      "word": "kreisen",
+      "meaning": "to circle"
+    },
+    {
+      "id": "A1_K3_074",
+      "word": "der Tisch, -e",
+      "plural": "die Tische",
+      "meaning": "table"
+    },
+    {
+      "id": "A1_K3_075",
+      "word": "die Bildgeschichte, -n",
+      "plural": "die Bildgeschichten",
+      "meaning": "comic strip"
+    },
+    {
+      "id": "A1_K3_076",
+      "word": "der Bus, -se",
+      "plural": "die Busse",
+      "meaning": "bus"
+    },
+    {
+      "id": "A1_K3_077",
+      "word": "das Fahrrad, \"-er",
+      "plural": "die Fahrräder",
+      "meaning": "bicycle"
+    },
+    {
+      "id": "A1_K3_078",
+      "word": "die U-Bahn, -en",
+      "plural": "die U-Bahnen",
+      "meaning": "subway"
+    },
+    {
+      "id": "A1_K3_079",
+      "word": "zeigen",
+      "meaning": "to point",
+      "example": "Zeigen Sie auf das Bild."
+    },
+    {
+      "id": "A1_K3_080",
+      "word": "zu Fuß",
+      "meaning": "on foot",
+      "example": "Pia geht zu Fuß."
+    },
+    {
+      "id": "A1_K3_081",
+      "word": "das Flugzeug, -e",
+      "plural": "die Flugzeuge",
+      "meaning": "airplane"
+    },
+    {
+      "id": "A1_K3_082",
+      "word": "die S-Bahn, -en",
+      "plural": "die S-Bahnen",
+      "meaning": "suburban train"
+    },
+    {
+      "id": "A1_K3_083",
+      "word": "die Straßenbahn, -en",
+      "plural": "die Straßenbahnen",
+      "meaning": "tram"
+    },
+    {
+      "id": "A1_K3_084",
+      "word": "aber",
+      "meaning": "but",
+      "example": "Jetzt aber schnell!"
+    },
+    {
+      "id": "A1_K3_085",
+      "word": "also",
+      "meaning": "so",
+      "example": "Kein Bus, also schnell!"
+    },
+    {
+      "id": "A1_K3_086",
+      "word": "das Bild, -er",
+      "plural": "die Bilder",
+      "meaning": "picture"
+    },
+    {
+      "id": "A1_K3_087",
+      "word": "die Fahrkarte, -n",
+      "plural": "die Fahrkarten",
+      "meaning": "ticket"
+    },
+    {
+      "id": "A1_K3_088",
+      "word": "das Glück (Sg.)",
+      "meaning": "luck",
+      "example": "So ein Glück!"
+    },
+    {
+      "id": "A1_K3_089",
+      "word": "heute",
+      "meaning": "today"
+    },
+    {
+      "id": "A1_K3_090",
+      "word": "jetzt",
+      "meaning": "now"
+    },
+    {
+      "id": "A1_K3_091",
+      "word": "schnell",
+      "meaning": "quick"
+    },
+    {
+      "id": "A1_K3_092",
+      "word": "der Test, -s",
+      "plural": "die Tests",
+      "meaning": "test"
+    },
+    {
+      "id": "A1_K3_093",
+      "word": "die Konzertkarte, -n",
+      "plural": "die Konzertkarten",
+      "meaning": "concert ticket"
+    },
+    {
+      "id": "A1_K3_094",
+      "word": "der Negationsartikel, -",
+      "plural": "die Negationsartikel",
+      "meaning": "negative article"
+    },
+    {
+      "id": "A1_K3_095",
+      "word": "links",
+      "meaning": "left"
+    },
+    {
+      "id": "A1_K3_096",
+      "word": "die Wegbeschreibung, -en",
+      "plural": "die Wegbeschreibungen",
+      "meaning": "directions"
+    },
+    {
+      "id": "A1_K3_097",
+      "word": "geradeaus",
+      "meaning": "straight ahead"
+    },
+    {
+      "id": "A1_K3_098",
+      "word": "der Dank (Sg.)",
+      "meaning": "thanks",
+      "example": "Vielen Dank."
+    },
+    {
+      "id": "A1_K3_099",
+      "word": "einfach",
+      "meaning": "easy",
+      "example": "Das ist ganz einfach."
+    },
+    {
+      "id": "A1_K3_100",
+      "word": "genau",
+      "meaning": "exactly",
+      "example": "Ja, genau."
+    },
+    {
+      "id": "A1_K3_101",
+      "word": "der Imperativ, -e",
+      "plural": "die Imperative",
+      "meaning": "imperative"
+    },
+    {
+      "id": "A1_K3_102",
+      "word": "das Mal, -e",
+      "plural": "die Male",
+      "meaning": "time",
+      "example": "Würfeln Sie drei Mal."
+    },
+    {
+      "id": "A1_K3_103",
+      "word": "der Markt, \"-e",
+      "plural": "die Märkte",
+      "meaning": "market"
+    },
+    {
+      "id": "A1_K3_104",
+      "word": "der Park, -s",
+      "plural": "die Parks",
+      "meaning": "park"
+    },
+    {
+      "id": "A1_K3_105",
+      "word": "der Start, -s",
+      "plural": "die Starts",
+      "meaning": "starting line"
+    },
+    {
+      "id": "A1_K3_106",
+      "word": "würfeln",
+      "meaning": "to roll (the dice)"
+    },
+    {
+      "id": "A1_K3_107",
+      "word": "das Ziel, -e",
+      "plural": "die Ziele",
+      "meaning": "goal"
+    },
+    {
+      "id": "A1_K3_108",
+      "word": "an (+ D.)",
+      "meaning": "here: over the course of",
+      "example": "40.000 Filmfans sehen an 10 Tagen über 100 Filme."
+    },
+    {
+      "id": "A1_K3_109",
+      "word": "der Chor, \"-e",
+      "plural": "die Chöre",
+      "meaning": "choir"
+    },
+    {
+      "id": "A1_K3_110",
+      "word": "deutschsprachig",
+      "meaning": "German-speaking"
+    },
+    {
+      "id": "A1_K3_111",
+      "word": "diese, dieser",
+      "meaning": "this"
+    },
+    {
+      "id": "A1_K3_112",
+      "word": "dirigieren",
+      "meaning": "to conduct"
+    },
+    {
+      "id": "A1_K3_113",
+      "word": "das Event, -s",
+      "plural": "die Events",
+      "meaning": "event"
+    },
+    {
+      "id": "A1_K3_114",
+      "word": "das Festival, -s",
+      "plural": "die Festivals",
+      "meaning": "festival"
+    },
+    {
+      "id": "A1_K3_115",
+      "word": "der Film, -e",
+      "plural": "die Filme",
+      "meaning": "film"
+    },
+    {
+      "id": "A1_K3_116",
+      "word": "der Filmfan, -s",
+      "plural": "die Filmfans",
+      "meaning": "film fan"
+    },
+    {
+      "id": "A1_K3_117",
+      "word": "der Gast, \"-e",
+      "plural": "die Gäste",
+      "meaning": "guest"
+    },
+    {
+      "id": "A1_K3_118",
+      "word": "ihr, ihre",
+      "meaning": "its",
+      "example": "Die Stadthalle zeigt ihre Produktionen."
+    },
+    {
+      "id": "A1_K3_119",
+      "word": "das Orchester, -",
+      "plural": "die Orchester",
+      "meaning": "orchestra"
+    },
+    {
+      "id": "A1_K3_120",
+      "word": "die Produktion, -en",
+      "plural": "die Produktionen",
+      "meaning": "production"
+    },
+    {
+      "id": "A1_K3_121",
+      "word": "das Publikum (Sg.)",
+      "meaning": "audience"
+    },
+    {
+      "id": "A1_K3_122",
+      "word": "der Regisseur, -e",
+      "plural": "die Regisseure",
+      "meaning": "director (m)"
+    },
+    {
+      "id": "A1_K3_123",
+      "word": "die Regisseurin, -nen",
+      "plural": "die Regisseurinnen",
+      "meaning": "director (f)"
+    },
+    {
+      "id": "A1_K3_124",
+      "word": "das Requiem, -s",
+      "plural": "die Requiems",
+      "meaning": "requiem"
+    },
+    {
+      "id": "A1_K3_125",
+      "word": "der Schauspieler, -",
+      "plural": "die Schauspieler",
+      "meaning": "actor"
+    },
+    {
+      "id": "A1_K3_126",
+      "word": "die Schauspielerin, -nen",
+      "plural": "die Schauspielerinnen",
+      "meaning": "actress"
+    },
+    {
+      "id": "A1_K3_127",
+      "word": "sein, seine",
+      "meaning": "his",
+      "example": "Der Regisseur präsentiert seinen Film."
+    },
+    {
+      "id": "A1_K3_128",
+      "word": "der Solist, -en",
+      "plural": "die Solisten",
+      "meaning": "soloist (m)"
+    },
+    {
+      "id": "A1_K3_129",
+      "word": "die Solistin, -nen",
+      "plural": "die Solistinnen",
+      "meaning": "soloist (f)"
+    },
+    {
+      "id": "A1_K3_130",
+      "word": "das Theater-Festival, -s",
+      "plural": "die Theater-Festivals",
+      "meaning": "theatre festival"
+    },
+    {
+      "id": "A1_K3_131",
+      "word": "das Ticket, -s",
+      "plural": "die Tickets",
+      "meaning": "ticket"
+    },
+    {
+      "id": "A1_K3_132",
+      "word": "die Welt, -en",
+      "plural": "die Welten",
+      "meaning": "world"
+    },
+    {
+      "id": "A1_K3_133",
+      "word": "ähnlich",
+      "meaning": "similar"
+    },
+    {
+      "id": "A1_K3_134",
+      "word": "finden, er findet, hat gefunden",
+      "meaning": "to find",
+      "example": "Finden Sie Sport interessant?"
+    },
+    {
+      "id": "A1_K3_135",
+      "word": "der April (Sg.)",
+      "meaning": "April"
+    },
+    {
+      "id": "A1_K3_136",
+      "word": "der August (Sg.)",
+      "meaning": "August"
+    },
+    {
+      "id": "A1_K3_137",
+      "word": "der Dezember (Sg.)",
+      "meaning": "December"
+    },
+    {
+      "id": "A1_K3_138",
+      "word": "der Februar (Sg.)",
+      "meaning": "February"
+    },
+    {
+      "id": "A1_K3_139",
+      "word": "der Frühling (Sg.)",
+      "meaning": "spring"
+    },
+    {
+      "id": "A1_K3_140",
+      "word": "der Herbst (Sg.)",
+      "meaning": "autumn"
+    },
+    {
+      "id": "A1_K3_141",
+      "word": "der Januar (Sg.)",
+      "meaning": "January"
+    },
+    {
+      "id": "A1_K3_142",
+      "word": "der Juli (Sg.)",
+      "meaning": "July"
+    },
+    {
+      "id": "A1_K3_143",
+      "word": "der Juni (Sg.)",
+      "meaning": "June"
+    },
+    {
+      "id": "A1_K3_144",
+      "word": "der Mai (Sg.)",
+      "meaning": "May"
+    },
+    {
+      "id": "A1_K3_145",
+      "word": "der März (Sg.)",
+      "meaning": "March"
+    },
+    {
+      "id": "A1_K3_146",
+      "word": "der Monat, -e",
+      "plural": "die Monate",
+      "meaning": "month"
+    },
+    {
+      "id": "A1_K3_147",
+      "word": "der November (Sg.)",
+      "meaning": "November"
+    },
+    {
+      "id": "A1_K3_148",
+      "word": "der Oktober (Sg.)",
+      "meaning": "October"
+    },
+    {
+      "id": "A1_K3_149",
+      "word": "der September (Sg.)",
+      "meaning": "September"
+    },
+    {
+      "id": "A1_K3_150",
+      "word": "der Sommer, -",
+      "plural": "die Sommer",
+      "meaning": "summer"
+    },
+    {
+      "id": "A1_K3_151",
+      "word": "der Winter, -",
+      "plural": "die Winter",
+      "meaning": "winter"
+    },
+    {
+      "id": "A1_K3_152",
+      "word": "die Jahreszeit, -en",
+      "plural": "die Jahreszeiten",
+      "meaning": "season"
+    },
+    {
+      "id": "A1_K3_153",
+      "word": "das Plakat, -e",
+      "plural": "die Plakate",
+      "meaning": "poster"
+    },
+    {
+      "id": "A1_K3_154",
+      "word": "das Adjektiv, -e",
+      "plural": "die Adjektive",
+      "meaning": "adjective"
+    },
+    {
+      "id": "A1_K3_155",
+      "word": "das Ding, -e",
+      "plural": "die Dinge",
+      "meaning": "thing"
+    },
+    {
+      "id": "A1_K3_156",
+      "word": "die Position, -en",
+      "plural": "die Positionen",
+      "meaning": "position"
+    },
+    {
+      "id": "A1_K3_157",
+      "word": "stellen",
+      "meaning": "here: to ask",
+      "example": "eine Frage stellen"
     }
   ]
 }

@@ -4,10 +4,860 @@
   "words": [
     {
       "id": "A1_K5_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Alltag (Sg.)",
+      "meaning": "everyday life"
+    },
+    {
+      "id": "A1_K5_002",
+      "word": "besuchen",
+      "meaning": "to visit"
+    },
+    {
+      "id": "A1_K5_003",
+      "word": "die Bibliothek, -en",
+      "plural": "die Bibliotheken",
+      "meaning": "library"
+    },
+    {
+      "id": "A1_K5_004",
+      "word": "duschen",
+      "meaning": "to shower"
+    },
+    {
+      "id": "A1_K5_005",
+      "word": "die Familie, -n",
+      "plural": "die Familien",
+      "meaning": "family"
+    },
+    {
+      "id": "A1_K5_006",
+      "word": "die Mensa, Mensen",
+      "plural": "die Mensen",
+      "meaning": "canteen"
+    },
+    {
+      "id": "A1_K5_007",
+      "word": "die Oma, -s",
+      "plural": "die Omas",
+      "meaning": "grandma"
+    },
+    {
+      "id": "A1_K5_008",
+      "word": "treffen, er trifft, hat getroffen",
+      "meaning": "to meet"
+    },
+    {
+      "id": "A1_K5_009",
+      "word": "die Uni, -s",
+      "plural": "die Unis",
+      "meaning": "university"
+    },
+    {
+      "id": "A1_K5_010",
+      "word": "nummerieren",
+      "meaning": "to number"
+    },
+    {
+      "id": "A1_K5_011",
+      "word": "lange",
+      "meaning": "long"
+    },
+    {
+      "id": "A1_K5_012",
+      "word": "die Zeitung, -en",
+      "plural": "die Zeitungen",
+      "meaning": "newspaper"
+    },
+    {
+      "id": "A1_K5_013",
+      "word": "zu Mittag essen",
+      "meaning": "to have lunch"
+    },
+    {
+      "id": "A1_K5_014",
+      "word": "abwechselnd",
+      "meaning": "alternating"
+    },
+    {
+      "id": "A1_K5_015",
+      "word": "das Büro, -s",
+      "plural": "die Büros",
+      "meaning": "office"
+    },
+    {
+      "id": "A1_K5_016",
+      "word": "die Uhrzeit, -en",
+      "plural": "die Uhrzeiten",
+      "meaning": "time of day"
+    },
+    {
+      "id": "A1_K5_017",
+      "word": "vor (+ D.)",
+      "meaning": "here: to",
+      "example": "Es ist fünf vor zwei."
+    },
+    {
+      "id": "A1_K5_018",
+      "word": "inoffiziell",
+      "meaning": "inofficial"
+    },
+    {
+      "id": "A1_K5_019",
+      "word": "kurz",
+      "meaning": "here: just",
+      "example": "Es ist kurz nach acht."
+    },
+    {
+      "id": "A1_K5_020",
+      "word": "nach (+ D.)",
+      "meaning": "past",
+      "example": "Es ist zwanzig nach sieben."
+    },
+    {
+      "id": "A1_K5_021",
+      "word": "offiziell",
+      "meaning": "official"
+    },
+    {
+      "id": "A1_K5_022",
+      "word": "spät",
+      "meaning": "late"
+    },
+    {
+      "id": "A1_K5_023",
+      "word": "Uhr",
+      "meaning": "o'clock",
+      "example": "Wie viel Uhr ist es?"
+    },
+    {
+      "id": "A1_K5_024",
+      "word": "das Viertel, -",
+      "plural": "die Viertel",
+      "meaning": "quarter",
+      "example": "Es ist Viertel nach sechs."
+    },
+    {
+      "id": "A1_K5_025",
+      "word": "der Englisch-Test, -s",
+      "plural": "die Englisch-Tests",
+      "meaning": "English test"
+    },
+    {
+      "id": "A1_K5_026",
+      "word": "der Geburtstag, -e",
+      "plural": "die Geburtstage",
+      "meaning": "birthday"
+    },
+    {
+      "id": "A1_K5_027",
+      "word": "die Geige, -n",
+      "plural": "die Geigen",
+      "meaning": "violin"
+    },
+    {
+      "id": "A1_K5_028",
+      "word": "der Geigenunterricht (Sg.)",
+      "meaning": "violin lessons"
+    },
+    {
+      "id": "A1_K5_029",
+      "word": "der Kalender, -",
+      "plural": "die Kalender",
+      "meaning": "calendar"
+    },
+    {
+      "id": "A1_K5_030",
+      "word": "der Mathe-Test, -s",
+      "plural": "die Mathe-Tests",
+      "meaning": "math test"
+    },
+    {
+      "id": "A1_K5_031",
+      "word": "die Mutter, \"-",
+      "plural": "die Mütter",
+      "meaning": "mother"
+    },
+    {
+      "id": "A1_K5_032",
+      "word": "der Onkel, -",
+      "plural": "die Onkel",
+      "meaning": "uncle"
+    },
+    {
+      "id": "A1_K5_033",
+      "word": "das Spiel, -e",
+      "plural": "die Spiele",
+      "meaning": "game",
+      "example": "Florian hat am Sonntag ein Spiel."
+    },
+    {
+      "id": "A1_K5_034",
+      "word": "das Training, -s",
+      "plural": "die Trainings",
+      "meaning": "practice"
+    },
+    {
+      "id": "A1_K5_035",
+      "word": "die Trompete, -n",
+      "plural": "die Trompeten",
+      "meaning": "trumpet"
+    },
+    {
+      "id": "A1_K5_036",
+      "word": "wie lange",
+      "meaning": "how long"
+    },
+    {
+      "id": "A1_K5_037",
+      "word": "bleiben, er bleibt, ist geblieben",
+      "meaning": "to stay"
+    },
+    {
+      "id": "A1_K5_038",
+      "word": "die Eltern (Pl.)",
+      "meaning": "parents"
+    },
+    {
+      "id": "A1_K5_039",
+      "word": "falsch",
+      "meaning": "wrong"
+    },
+    {
+      "id": "A1_K5_040",
+      "word": "das Kind, -er",
+      "plural": "die Kinder",
+      "meaning": "child"
+    },
+    {
+      "id": "A1_K5_041",
+      "word": "krank",
+      "meaning": "sick"
+    },
+    {
+      "id": "A1_K5_042",
+      "word": "die Musikschule, -n",
+      "plural": "die Musikschulen",
+      "meaning": "music school, conservatory"
+    },
+    {
+      "id": "A1_K5_043",
+      "word": "der Sohn, \"-e",
+      "plural": "die Söhne",
+      "meaning": "son"
+    },
+    {
+      "id": "A1_K5_044",
+      "word": "telefonieren",
+      "meaning": "to telephone"
+    },
+    {
+      "id": "A1_K5_045",
+      "word": "die Tochter, \"-",
+      "plural": "die Töchter",
+      "meaning": "daughter"
+    },
+    {
+      "id": "A1_K5_046",
+      "word": "der Trompetenunterricht (Sg.)",
+      "meaning": "trumpet lessons"
+    },
+    {
+      "id": "A1_K5_047",
+      "word": "der Vater, \"-",
+      "plural": "die Väter",
+      "meaning": "father"
+    },
+    {
+      "id": "A1_K5_048",
+      "word": "zu Hause",
+      "meaning": "at home"
+    },
+    {
+      "id": "A1_K5_049",
+      "word": "beschreiben, er beschreibt, hat beschrieben",
+      "meaning": "to describe"
+    },
+    {
+      "id": "A1_K5_050",
+      "word": "der Bruder, \"-",
+      "plural": "die Brüder",
+      "meaning": "brother"
+    },
+    {
+      "id": "A1_K5_051",
+      "word": "gehen, er geht, ist gegangen",
+      "meaning": "to go",
+      "example": "Meine Kinder gehen in Frankfurt in die Schule."
+    },
+    {
+      "id": "A1_K5_052",
+      "word": "ledig",
+      "meaning": "single"
+    },
+    {
+      "id": "A1_K5_053",
+      "word": "der Possessivartikel, -",
+      "plural": "die Possessivartikel",
+      "meaning": "possessive article"
+    },
+    {
+      "id": "A1_K5_054",
+      "word": "die Schwester, -n",
+      "plural": "die Schwestern",
+      "meaning": "sister"
+    },
+    {
+      "id": "A1_K5_055",
+      "word": "der Techniker, -",
+      "plural": "die Techniker",
+      "meaning": "technician (m)"
+    },
+    {
+      "id": "A1_K5_056",
+      "word": "die Technikerin, -nen",
+      "plural": "die Technikerinnen",
+      "meaning": "technician (f)"
+    },
+    {
+      "id": "A1_K5_057",
+      "word": "verheiratet",
+      "meaning": "married"
+    },
+    {
+      "id": "A1_K5_058",
+      "word": "die Geschwister (Pl.)",
+      "meaning": "siblings"
+    },
+    {
+      "id": "A1_K5_059",
+      "word": "die Großeltern (Pl.)",
+      "meaning": "grandparents"
+    },
+    {
+      "id": "A1_K5_060",
+      "word": "die Großmutter, \"-",
+      "plural": "die Großmütter",
+      "meaning": "grandmother"
+    },
+    {
+      "id": "A1_K5_061",
+      "word": "der Großvater, \"-",
+      "plural": "die Großväter",
+      "meaning": "grandfather"
+    },
+    {
+      "id": "A1_K5_062",
+      "word": "der Opa, -s",
+      "plural": "die Opas",
+      "meaning": "grandpa"
+    },
+    {
+      "id": "A1_K5_063",
+      "word": "der/die Verwandte, -n",
+      "plural": "die Verwandten",
+      "meaning": "relative"
+    },
+    {
+      "id": "A1_K5_064",
+      "word": "die Fantasie (Sg.)",
+      "meaning": "fantasy, imagination"
+    },
+    {
+      "id": "A1_K5_065",
+      "word": "das Baby, -s",
+      "plural": "die Babys",
+      "meaning": "baby"
+    },
+    {
+      "id": "A1_K5_066",
+      "word": "der Junge, -n",
+      "plural": "die Jungen",
+      "meaning": "boy"
+    },
+    {
+      "id": "A1_K5_067",
+      "word": "das Mädchen, -",
+      "plural": "die Mädchen",
+      "meaning": "girl"
+    },
+    {
+      "id": "A1_K5_068",
+      "word": "die Regel, -n",
+      "plural": "die Regeln",
+      "meaning": "rule"
+    },
+    {
+      "id": "A1_K5_069",
+      "word": "das Wortende, -n",
+      "plural": "die Wortenden",
+      "meaning": "ending of the word"
+    },
+    {
+      "id": "A1_K5_070",
+      "word": "der Ball, \"-e",
+      "plural": "die Bälle",
+      "meaning": "ball"
+    },
+    {
+      "id": "A1_K5_071",
+      "word": "das Gästebuch, \"-er",
+      "plural": "die Gästebücher",
+      "meaning": "guestbook"
+    },
+    {
+      "id": "A1_K5_072",
+      "word": "die Homepage, -s",
+      "plural": "die Homepages",
+      "meaning": "homepage"
+    },
+    {
+      "id": "A1_K5_073",
+      "word": "der Hund, -e",
+      "plural": "die Hunde",
+      "meaning": "dog"
+    },
+    {
+      "id": "A1_K5_074",
+      "word": "das Motorrad, \"-er",
+      "plural": "die Motorräder",
+      "meaning": "motorcycle"
+    },
+    {
+      "id": "A1_K5_075",
+      "word": "der Sport (Sg.)",
+      "meaning": "sport"
+    },
+    {
+      "id": "A1_K5_076",
+      "word": "unser, unsere",
+      "meaning": "our"
+    },
+    {
+      "id": "A1_K5_077",
+      "word": "willkommen",
+      "meaning": "welcome"
+    },
+    {
+      "id": "A1_K5_078",
+      "word": "cool",
+      "meaning": "cool"
+    },
+    {
+      "id": "A1_K5_079",
+      "word": "der Eintrag, \"-e",
+      "plural": "die Einträge",
+      "meaning": "entry"
+    },
+    {
+      "id": "A1_K5_080",
+      "word": "euer, eure",
+      "meaning": "your"
+    },
+    {
+      "id": "A1_K5_081",
+      "word": "das Familienfoto, -s",
+      "plural": "die Familienfotos",
+      "meaning": "family photograph"
+    },
+    {
+      "id": "A1_K5_082",
+      "word": "der Hamster, -",
+      "plural": "die Hamster",
+      "meaning": "hamster"
+    },
+    {
+      "id": "A1_K5_083",
+      "word": "hey",
+      "meaning": "hey"
+    },
+    {
+      "id": "A1_K5_084",
+      "word": "die Maus, \"-e",
+      "plural": "die Mäuse",
+      "meaning": "mouse"
+    },
+    {
+      "id": "A1_K5_085",
+      "word": "das Saxofon, -e",
+      "plural": "die Saxofone",
+      "meaning": "saxophone"
+    },
+    {
+      "id": "A1_K5_086",
+      "word": "süß",
+      "meaning": "cute",
+      "example": "Euer Hund ist so süß."
+    },
+    {
+      "id": "A1_K5_087",
+      "word": "die Tour, -en",
+      "plural": "die Touren",
+      "meaning": "tour"
+    },
+    {
+      "id": "A1_K5_088",
+      "word": "die Karte, -n",
+      "plural": "die Karten",
+      "meaning": "card",
+      "example": "Schreiben Sie fünf Karten mit Nomen."
+    },
+    {
+      "id": "A1_K5_089",
+      "word": "plus",
+      "meaning": "plus"
+    },
+    {
+      "id": "A1_K5_090",
+      "word": "das Pronomen, -",
+      "plural": "die Pronomen",
+      "meaning": "pronoun"
+    },
+    {
+      "id": "A1_K5_091",
+      "word": "der Stapel, -",
+      "plural": "die Stapel",
+      "meaning": "deck of cards"
+    },
+    {
+      "id": "A1_K5_092",
+      "word": "ziehen, er zieht, hat gezogen",
+      "meaning": "here: to draw",
+      "example": "Ziehen Sie eine Karte."
+    },
+    {
+      "id": "A1_K5_093",
+      "word": "der Gruß, \"-e",
+      "plural": "die Grüße",
+      "meaning": "greeting",
+      "example": "Liebe Grüße"
+    },
+    {
+      "id": "A1_K5_094",
+      "word": "die Hausaufgabe, -n",
+      "plural": "die Hausaufgaben",
+      "meaning": "homework"
+    },
+    {
+      "id": "A1_K5_095",
+      "word": "können, er kann, hat gekonnt",
+      "meaning": "to be able to"
+    },
+    {
+      "id": "A1_K5_096",
+      "word": "lieb",
+      "meaning": "kind",
+      "example": "Liebe Grüße"
+    },
+    {
+      "id": "A1_K5_097",
+      "word": "das Modalverb, -en",
+      "plural": "die Modalverben",
+      "meaning": "modal verb"
+    },
+    {
+      "id": "A1_K5_098",
+      "word": "müssen, er muss, hat gemusst",
+      "meaning": "to have to (do something)"
+    },
+    {
+      "id": "A1_K5_099",
+      "word": "nächste, nächster",
+      "meaning": "next"
+    },
+    {
+      "id": "A1_K5_100",
+      "word": "das Problem, -e",
+      "plural": "die Probleme",
+      "meaning": "problem"
+    },
+    {
+      "id": "A1_K5_101",
+      "word": "der Sonntagnachmittag, -e",
+      "plural": "die Sonntagnachmittage",
+      "meaning": "Sunday afternoon"
+    },
+    {
+      "id": "A1_K5_102",
+      "word": "der Stress (Sg.)",
+      "meaning": "stress"
+    },
+    {
+      "id": "A1_K5_103",
+      "word": "wollen, er will, hat gewollt",
+      "meaning": "to want (something)"
+    },
+    {
+      "id": "A1_K5_104",
+      "word": "ja",
+      "meaning": "here: modal particle (cannot be translated to English)",
+      "example": "Wir können ja morgen telefonieren, okay?"
+    },
+    {
+      "id": "A1_K5_105",
+      "word": "die Party, -s",
+      "plural": "die Partys",
+      "meaning": "party"
+    },
+    {
+      "id": "A1_K5_106",
+      "word": "dreimal",
+      "meaning": "three times"
+    },
+    {
+      "id": "A1_K5_107",
+      "word": "die Idee, -n",
+      "plural": "die Ideen",
+      "meaning": "idea"
+    },
+    {
+      "id": "A1_K5_108",
+      "word": "leid|tun, er tut leid, hat leidgetan",
+      "meaning": "to be sorry",
+      "example": "Tut mir leid."
+    },
+    {
+      "id": "A1_K5_109",
+      "word": "schade",
+      "meaning": "pity"
+    },
+    {
+      "id": "A1_K5_110",
+      "word": "der Sprachkurs, -e",
+      "plural": "die Sprachkurse",
+      "meaning": "language class"
+    },
+    {
+      "id": "A1_K5_111",
+      "word": "verschieden",
+      "meaning": "different"
+    },
+    {
+      "id": "A1_K5_112",
+      "word": "auf Wiederhören",
+      "meaning": "talk to you later"
+    },
+    {
+      "id": "A1_K5_113",
+      "word": "die Aussage, -n",
+      "plural": "die Aussagen",
+      "meaning": "statement"
+    },
+    {
+      "id": "A1_K5_114",
+      "word": "frei",
+      "meaning": "here: available",
+      "example": "Leider ist am Montag kein Termin frei."
+    },
+    {
+      "id": "A1_K5_115",
+      "word": "haben, er hat, hat gehabt",
+      "meaning": "here: to make",
+      "example": "Ich hätte gern einen Termin."
+    },
+    {
+      "id": "A1_K5_116",
+      "word": "noch mal",
+      "meaning": "again",
+      "example": "Wie war noch mal Ihr Name, bitte?"
+    },
+    {
+      "id": "A1_K5_117",
+      "word": "die Praxis, Praxen",
+      "plural": "die Praxen",
+      "meaning": "surgery",
+      "example": "Mara ruft in der Praxis von Dr. Steinig an."
+    },
+    {
+      "id": "A1_K5_118",
+      "word": "tun, er tut, hat getan",
+      "meaning": "to do",
+      "example": "Was kann ich für Sie tun?"
+    },
+    {
+      "id": "A1_K5_119",
+      "word": "ab (+ D.)",
+      "meaning": "from",
+      "example": "Heute ab 16 Uhr bin ich beim Friseur."
+    },
+    {
+      "id": "A1_K5_120",
+      "word": "höflich",
+      "meaning": "polite"
+    },
+    {
+      "id": "A1_K5_121",
+      "word": "die Höflichkeit (Sg.)",
+      "meaning": "politeness, courtesy"
+    },
+    {
+      "id": "A1_K5_122",
+      "word": "der Kunde, -n",
+      "plural": "die Kunden",
+      "meaning": "customer (m)"
+    },
+    {
+      "id": "A1_K5_123",
+      "word": "die Kundin, -nen",
+      "plural": "die Kundinnen",
+      "meaning": "customer (f)"
+    },
+    {
+      "id": "A1_K5_124",
+      "word": "offen",
+      "meaning": "open"
+    },
+    {
+      "id": "A1_K5_125",
+      "word": "die Rollenkarte, -n",
+      "plural": "die Rollenkarten",
+      "meaning": "role card"
+    },
+    {
+      "id": "A1_K5_126",
+      "word": "die Sprachschule, -n",
+      "plural": "die Sprachschulen",
+      "meaning": "language school"
+    },
+    {
+      "id": "A1_K5_127",
+      "word": "das Telefongespräch, -e",
+      "plural": "die Telefongespräche",
+      "meaning": "telephone call"
+    },
+    {
+      "id": "A1_K5_128",
+      "word": "überlegen",
+      "meaning": "to think about"
+    },
+    {
+      "id": "A1_K5_129",
+      "word": "unhöflich",
+      "meaning": "impolite"
+    },
+    {
+      "id": "A1_K5_130",
+      "word": "vereinbaren",
+      "meaning": "to make"
+    },
+    {
+      "id": "A1_K5_131",
+      "word": "vor|bereiten",
+      "meaning": "to prepare"
+    },
+    {
+      "id": "A1_K5_132",
+      "word": "vorher",
+      "meaning": "before"
+    },
+    {
+      "id": "A1_K5_133",
+      "word": "die Bar, -s",
+      "plural": "die Bars",
+      "meaning": "bar"
+    },
+    {
+      "id": "A1_K5_134",
+      "word": "die Besprechung, -en",
+      "plural": "die Besprechungen",
+      "meaning": "meeting"
+    },
+    {
+      "id": "A1_K5_135",
+      "word": "da sein",
+      "meaning": "to be there"
+    },
+    {
+      "id": "A1_K5_136",
+      "word": "die Minute, -n",
+      "plural": "die Minuten",
+      "meaning": "minute"
+    },
+    {
+      "id": "A1_K5_137",
+      "word": "die Pünktlichkeit (Sg.)",
+      "meaning": "punctuality"
+    },
+    {
+      "id": "A1_K5_138",
+      "word": "sitzen, er sitzt, hat gesessen",
+      "meaning": "to sit"
+    },
+    {
+      "id": "A1_K5_139",
+      "word": "zu",
+      "meaning": "too",
+      "example": "Er kommt zu spät."
+    },
+    {
+      "id": "A1_K5_140",
+      "word": "die halbe Stunde, -n",
+      "plural": "die halben Stunden",
+      "meaning": "half an hour"
+    },
+    {
+      "id": "A1_K5_141",
+      "word": "die Sekunde, -n",
+      "plural": "die Sekunden",
+      "meaning": "second"
+    },
+    {
+      "id": "A1_K5_142",
+      "word": "die Verspätung, -en",
+      "plural": "die Verspätungen",
+      "meaning": "delay"
+    },
+    {
+      "id": "A1_K5_143",
+      "word": "die Zeitangabe, -n",
+      "plural": "die Zeitangaben",
+      "meaning": "time designation"
+    },
+    {
+      "id": "A1_K5_144",
+      "word": "entschuldigen",
+      "meaning": "to excuse",
+      "example": "Bitte entschuldigen Sie."
+    },
+    {
+      "id": "A1_K5_145",
+      "word": "gut",
+      "meaning": "alright",
+      "example": "Entschuldigung! - Schon gut."
+    },
+    {
+      "id": "A1_K5_146",
+      "word": "machen",
+      "meaning": "here: to matter",
+      "example": "Entschuldigung! - Macht nichts."
+    },
+    {
+      "id": "A1_K5_147",
+      "word": "pünktlich",
+      "meaning": "on time, punctual"
+    },
+    {
+      "id": "A1_K5_148",
+      "word": "um (+ A.)",
+      "meaning": "for",
+      "example": "Ich bitte um Entschuldigung."
+    },
+    {
+      "id": "A1_K5_149",
+      "word": "das Satzende, -n",
+      "plural": "die Satzenden",
+      "meaning": "ending of the sentence"
+    },
+    {
+      "id": "A1_K5_150",
+      "word": "die Satzklammer, -n",
+      "plural": "die Satzklammern",
+      "meaning": "sentence bracket"
+    },
+    {
+      "id": "A1_K5_151",
+      "word": "die Tageszeit, -en",
+      "plural": "die Tageszeiten",
+      "meaning": "time of day"
     }
   ]
 }

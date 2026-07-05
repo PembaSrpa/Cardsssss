@@ -4,10 +4,938 @@
   "words": [
     {
       "id": "A1_K8_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "leben",
+      "meaning": "live"
+    },
+    {
+      "id": "A1_K8_002",
+      "word": "die Chips (Pl.)",
+      "meaning": "crisps"
+    },
+    {
+      "id": "A1_K8_003",
+      "word": "das Experiment, -e",
+      "plural": "die Experimente",
+      "meaning": "experiment"
+    },
+    {
+      "id": "A1_K8_004",
+      "word": "weg|räumen",
+      "meaning": "to put away"
+    },
+    {
+      "id": "A1_K8_005",
+      "word": "das Bett, -en",
+      "plural": "die Betten",
+      "meaning": "bed"
+    },
+    {
+      "id": "A1_K8_006",
+      "word": "egal",
+      "meaning": "whatever"
+    },
+    {
+      "id": "A1_K8_007",
+      "word": "der/die Erste, -n",
+      "plural": "die Ersten",
+      "meaning": "first"
+    },
+    {
+      "id": "A1_K8_008",
+      "word": "faul",
+      "meaning": "lazy"
+    },
+    {
+      "id": "A1_K8_009",
+      "word": "fit",
+      "meaning": "fit"
+    },
+    {
+      "id": "A1_K8_010",
+      "word": "die Freizeit (Sg.)",
+      "meaning": "free time"
+    },
+    {
+      "id": "A1_K8_011",
+      "word": "hungrig",
+      "meaning": "hungry"
+    },
+    {
+      "id": "A1_K8_012",
+      "word": "hurra",
+      "meaning": "hooray"
+    },
+    {
+      "id": "A1_K8_013",
+      "word": "los|gehen, er geht los, ist losgegangen",
+      "meaning": "to start"
+    },
+    {
+      "id": "A1_K8_014",
+      "word": "müde",
+      "meaning": "tired"
+    },
+    {
+      "id": "A1_K8_015",
+      "word": "regelmäßig",
+      "meaning": "regularly"
+    },
+    {
+      "id": "A1_K8_016",
+      "word": "richtig",
+      "meaning": "really",
+      "example": "Morgens bin ich richtig hungrig."
+    },
+    {
+      "id": "A1_K8_017",
+      "word": "schaffen",
+      "meaning": "to manage"
+    },
+    {
+      "id": "A1_K8_018",
+      "word": "sicher",
+      "meaning": "sure",
+      "example": "Heute bin ich sicher die Erste im Büro."
+    },
+    {
+      "id": "A1_K8_019",
+      "word": "die Süßigkeit, -en",
+      "plural": "die Süßigkeiten",
+      "meaning": "sweet"
+    },
+    {
+      "id": "A1_K8_020",
+      "word": "täglich",
+      "meaning": "daily"
+    },
+    {
+      "id": "A1_K8_021",
+      "word": "gefährlich",
+      "meaning": "dangerous"
+    },
+    {
+      "id": "A1_K8_022",
+      "word": "gerade",
+      "meaning": "at the moment"
+    },
+    {
+      "id": "A1_K8_023",
+      "word": "die Sprachnachricht, -en",
+      "plural": "die Sprachnachrichten",
+      "meaning": "voice message"
+    },
+    {
+      "id": "A1_K8_024",
+      "word": "vergessen, er vergisst, hat vergessen",
+      "meaning": "to forget"
+    },
+    {
+      "id": "A1_K8_025",
+      "word": "vermissen",
+      "meaning": "to miss"
+    },
+    {
+      "id": "A1_K8_026",
+      "word": "aktiv",
+      "meaning": "active"
+    },
+    {
+      "id": "A1_K8_027",
+      "word": "an|ziehen, er zieht an, hat angezogen",
+      "meaning": "to get dressed"
+    },
+    {
+      "id": "A1_K8_028",
+      "word": "der Comic, -s",
+      "plural": "die Comics",
+      "meaning": "comic book"
+    },
+    {
+      "id": "A1_K8_029",
+      "word": "die Fitness-App, -s",
+      "plural": "die Fitness-Apps",
+      "meaning": "fitness app"
+    },
+    {
+      "id": "A1_K8_030",
+      "word": "geben, er gibt, hat gegeben",
+      "meaning": "to give",
+      "example": "Gib alles!"
+    },
+    {
+      "id": "A1_K8_031",
+      "word": "holen",
+      "meaning": "to get",
+      "example": "Hol ein Glas Wasser."
+    },
+    {
+      "id": "A1_K8_032",
+      "word": "mindestens",
+      "meaning": "at least"
+    },
+    {
+      "id": "A1_K8_033",
+      "word": "raus|gehen, er geht raus, ist rausgegangen",
+      "meaning": "to go outside"
+    },
+    {
+      "id": "A1_K8_034",
+      "word": "sportlich",
+      "meaning": "athletic"
+    },
+    {
+      "id": "A1_K8_035",
+      "word": "der Sportschuh, -e",
+      "plural": "die Sportschuhe",
+      "meaning": "trainer"
+    },
+    {
+      "id": "A1_K8_036",
+      "word": "weiter|machen",
+      "meaning": "to continue"
+    },
+    {
+      "id": "A1_K8_037",
+      "word": "die Aufforderung, -en",
+      "plural": "die Aufforderungen",
+      "meaning": "request"
+    },
+    {
+      "id": "A1_K8_038",
+      "word": "die App, -s",
+      "plural": "die Apps",
+      "meaning": "application"
+    },
+    {
+      "id": "A1_K8_039",
+      "word": "ruhig",
+      "meaning": "quiet",
+      "example": "Seid bitte ruhig!"
+    },
+    {
+      "id": "A1_K8_040",
+      "word": "auf|machen",
+      "meaning": "to open"
+    },
+    {
+      "id": "A1_K8_041",
+      "word": "auf|schreiben, er schreibt auf, hat aufgeschrieben",
+      "meaning": "to write down"
+    },
+    {
+      "id": "A1_K8_042",
+      "word": "das Fenster, -",
+      "plural": "die Fenster",
+      "meaning": "window"
+    },
+    {
+      "id": "A1_K8_043",
+      "word": "leise",
+      "meaning": "quiet"
+    },
+    {
+      "id": "A1_K8_044",
+      "word": "die Tafel, -n",
+      "plural": "die Tafeln",
+      "meaning": "blackboard",
+      "example": "Schreiben Sie den Satz an die Tafel."
+    },
+    {
+      "id": "A1_K8_045",
+      "word": "vor|lesen, er liest vor, hat vorgelesen",
+      "meaning": "to read aloud"
+    },
+    {
+      "id": "A1_K8_046",
+      "word": "wiederholen",
+      "meaning": "to repeat"
+    },
+    {
+      "id": "A1_K8_047",
+      "word": "wiegen, er wiegt, hat gewogen",
+      "meaning": "to weigh"
+    },
+    {
+      "id": "A1_K8_048",
+      "word": "das Alter (Sg.)",
+      "meaning": "age"
+    },
+    {
+      "id": "A1_K8_049",
+      "word": "das Gewicht (Sg.)",
+      "meaning": "weight"
+    },
+    {
+      "id": "A1_K8_050",
+      "word": "die Größe, -n",
+      "plural": "die Größen",
+      "meaning": "size"
+    },
+    {
+      "id": "A1_K8_051",
+      "word": "schwer",
+      "meaning": "heavy",
+      "example": "Wie groß und wie schwer ist die Person?"
+    },
+    {
+      "id": "A1_K8_052",
+      "word": "der Bauch, \"-e",
+      "plural": "die Bäuche",
+      "meaning": "stomach"
+    },
+    {
+      "id": "A1_K8_053",
+      "word": "das Bein, -e",
+      "plural": "die Beine",
+      "meaning": "leg"
+    },
+    {
+      "id": "A1_K8_054",
+      "word": "der Finger, -",
+      "plural": "die Finger",
+      "meaning": "finger"
+    },
+    {
+      "id": "A1_K8_055",
+      "word": "der Fuß, \"-e",
+      "plural": "die Füße",
+      "meaning": "foot"
+    },
+    {
+      "id": "A1_K8_056",
+      "word": "der Hals, \"-e",
+      "plural": "die Hälse",
+      "meaning": "neck"
+    },
+    {
+      "id": "A1_K8_057",
+      "word": "die Hand, \"-e",
+      "plural": "die Hände",
+      "meaning": "hand"
+    },
+    {
+      "id": "A1_K8_058",
+      "word": "das Knie, -",
+      "plural": "die Knie",
+      "meaning": "knee"
+    },
+    {
+      "id": "A1_K8_059",
+      "word": "der Kopf, \"-e",
+      "plural": "die Köpfe",
+      "meaning": "head"
+    },
+    {
+      "id": "A1_K8_060",
+      "word": "der Körper, -",
+      "plural": "die Körper",
+      "meaning": "body"
+    },
+    {
+      "id": "A1_K8_061",
+      "word": "der Rücken, -",
+      "plural": "die Rücken",
+      "meaning": "back"
+    },
+    {
+      "id": "A1_K8_062",
+      "word": "der Körperteil, -e",
+      "plural": "die Körperteile",
+      "meaning": "body part"
+    },
+    {
+      "id": "A1_K8_063",
+      "word": "ab|wechseln",
+      "meaning": "to take turns"
+    },
+    {
+      "id": "A1_K8_064",
+      "word": "das Auge, -n",
+      "plural": "die Augen",
+      "meaning": "eye"
+    },
+    {
+      "id": "A1_K8_065",
+      "word": "das Gesicht, -er",
+      "plural": "die Gesichter",
+      "meaning": "face"
+    },
+    {
+      "id": "A1_K8_066",
+      "word": "das Haar, -e",
+      "plural": "die Haare",
+      "meaning": "hair"
+    },
+    {
+      "id": "A1_K8_067",
+      "word": "der Mund, \"-er",
+      "plural": "die Münder",
+      "meaning": "mouth"
+    },
+    {
+      "id": "A1_K8_068",
+      "word": "die Nase, -n",
+      "plural": "die Nasen",
+      "meaning": "nose"
+    },
+    {
+      "id": "A1_K8_069",
+      "word": "das Ohr, -en",
+      "plural": "die Ohren",
+      "meaning": "ear"
+    },
+    {
+      "id": "A1_K8_070",
+      "word": "der Zahn, \"-e",
+      "plural": "die Zähne",
+      "meaning": "tooth"
+    },
+    {
+      "id": "A1_K8_071",
+      "word": "riechen, er riecht, hat gerochen",
+      "meaning": "to smell"
+    },
+    {
+      "id": "A1_K8_072",
+      "word": "bekommen, er bekommt, hat bekommen",
+      "meaning": "to  get"
+    },
+    {
+      "id": "A1_K8_073",
+      "word": "der Doktor, Doktoren",
+      "plural": "die Doktoren",
+      "meaning": "doctor (m)"
+    },
+    {
+      "id": "A1_K8_074",
+      "word": "die Doktorin, -nen",
+      "plural": "die Doktorinnen",
+      "meaning": "doctor (f)"
+    },
+    {
+      "id": "A1_K8_075",
+      "word": "das Rezept, -e",
+      "plural": "die Rezepte",
+      "meaning": "here: prescription"
+    },
+    {
+      "id": "A1_K8_076",
+      "word": "die Salbe, -n",
+      "plural": "die Salben",
+      "meaning": "salve"
+    },
+    {
+      "id": "A1_K8_077",
+      "word": "der Unfall, \"-e",
+      "plural": "die Unfälle",
+      "meaning": "accident"
+    },
+    {
+      "id": "A1_K8_078",
+      "word": "der Verband, \"-e",
+      "plural": "die Verbände",
+      "meaning": "bandage"
+    },
+    {
+      "id": "A1_K8_079",
+      "word": "verletzt",
+      "meaning": "injured"
+    },
+    {
+      "id": "A1_K8_080",
+      "word": "die Apotheke, -n",
+      "plural": "die Apotheken",
+      "meaning": "pharmacy"
+    },
+    {
+      "id": "A1_K8_081",
+      "word": "bewegen",
+      "meaning": "to move"
+    },
+    {
+      "id": "A1_K8_082",
+      "word": "gute Besserung",
+      "meaning": "get well soon"
+    },
+    {
+      "id": "A1_K8_083",
+      "word": "hin|legen (sich)",
+      "meaning": "to lie down"
+    },
+    {
+      "id": "A1_K8_084",
+      "word": "die Kontrolle, -n",
+      "plural": "die Kontrollen",
+      "meaning": "check"
+    },
+    {
+      "id": "A1_K8_085",
+      "word": "kontrollieren",
+      "meaning": "to check"
+    },
+    {
+      "id": "A1_K8_086",
+      "word": "sauber machen",
+      "meaning": "to clean sth"
+    },
+    {
+      "id": "A1_K8_087",
+      "word": "sich",
+      "meaning": "oneself"
+    },
+    {
+      "id": "A1_K8_088",
+      "word": "weh|tun, er tut weh, hat wehgetan",
+      "meaning": "to hurt"
+    },
+    {
+      "id": "A1_K8_089",
+      "word": "die Wunde, -n",
+      "plural": "die Wunden",
+      "meaning": "wound"
+    },
+    {
+      "id": "A1_K8_090",
+      "word": "der Arztbesuch, -e",
+      "plural": "die Arztbesuche",
+      "meaning": "visit to the doctor"
+    },
+    {
+      "id": "A1_K8_091",
+      "word": "sofort",
+      "meaning": "immediately"
+    },
+    {
+      "id": "A1_K8_092",
+      "word": "sollen, er soll, hat gesollt",
+      "meaning": "be supposed to"
+    },
+    {
+      "id": "A1_K8_093",
+      "word": "die Bauchschmerzen (Pl.)",
+      "meaning": "stomach pain"
+    },
+    {
+      "id": "A1_K8_094",
+      "word": "erkältet",
+      "meaning": "to have a cold"
+    },
+    {
+      "id": "A1_K8_095",
+      "word": "das Fieber (Sg.)",
+      "meaning": "fever"
+    },
+    {
+      "id": "A1_K8_096",
+      "word": "husten",
+      "meaning": "cough"
+    },
+    {
+      "id": "A1_K8_097",
+      "word": "schlecht",
+      "meaning": "here: sick",
+      "example": "Mir ist so schlecht."
+    },
+    {
+      "id": "A1_K8_098",
+      "word": "total",
+      "meaning": "totally"
+    },
+    {
+      "id": "A1_K8_099",
+      "word": "baden",
+      "meaning": "to bath"
+    },
+    {
+      "id": "A1_K8_100",
+      "word": "dürfen, er darf, hat gedurft",
+      "meaning": "to be allowed to"
+    },
+    {
+      "id": "A1_K8_101",
+      "word": "erlaubt sein",
+      "meaning": "to be allowed"
+    },
+    {
+      "id": "A1_K8_102",
+      "word": "gegen (+ A.)",
+      "meaning": "here: for"
+    },
+    {
+      "id": "A1_K8_103",
+      "word": "der Hustensaft, \"-e",
+      "plural": "die Hustensäfte",
+      "meaning": "cough syrup"
+    },
+    {
+      "id": "A1_K8_104",
+      "word": "nehmen, er nimmt, hat genommen",
+      "meaning": "to take",
+      "example": "Den Hustensaft müssen Sie abends nehmen."
+    },
+    {
+      "id": "A1_K8_105",
+      "word": "rauchen",
+      "meaning": "to smoke"
+    },
+    {
+      "id": "A1_K8_106",
+      "word": "der Schmerz, -en",
+      "plural": "die Schmerzen",
+      "meaning": "pain"
+    },
+    {
+      "id": "A1_K8_107",
+      "word": "zweimal",
+      "meaning": "twice"
+    },
+    {
+      "id": "A1_K8_108",
+      "word": "die Anweisung, -en",
+      "plural": "die Anweisungen",
+      "meaning": "instruction"
+    },
+    {
+      "id": "A1_K8_109",
+      "word": "geben, er gibt, hat gegeben",
+      "meaning": "to give",
+      "example": "Der Arzt gibt Anweisungen."
+    },
+    {
+      "id": "A1_K8_110",
+      "word": "die Halsschmerzen (Pl.)",
+      "meaning": "sore throat"
+    },
+    {
+      "id": "A1_K8_111",
+      "word": "die Kopfschmerzen (Pl.)",
+      "meaning": "headache"
+    },
+    {
+      "id": "A1_K8_112",
+      "word": "die Rückenschmerzen (Pl.)",
+      "meaning": "back pain"
+    },
+    {
+      "id": "A1_K8_113",
+      "word": "die Rolle, -n",
+      "plural": "die Rollen",
+      "meaning": "role",
+      "example": "Tauschen Sie die Rollen."
+    },
+    {
+      "id": "A1_K8_114",
+      "word": "das Pflaster, -",
+      "plural": "die Pflaster",
+      "meaning": "band-aid"
+    },
+    {
+      "id": "A1_K8_115",
+      "word": "der Saft, \"-e",
+      "plural": "die Säfte",
+      "meaning": "here: syrup",
+      "example": "Nehmen Sie einen Saft gegen den Husten."
+    },
+    {
+      "id": "A1_K8_116",
+      "word": "der Tropfen, -",
+      "plural": "die Tropfen",
+      "meaning": "drop"
+    },
+    {
+      "id": "A1_K8_117",
+      "word": "der Honig (Sg.)",
+      "meaning": "honey"
+    },
+    {
+      "id": "A1_K8_118",
+      "word": "die Hühnersuppe, -n",
+      "plural": "die Hühnersuppen",
+      "meaning": "chicken soup"
+    },
+    {
+      "id": "A1_K8_119",
+      "word": "die Nelke, -n",
+      "plural": "die Nelken",
+      "meaning": "clove"
+    },
+    {
+      "id": "A1_K8_120",
+      "word": "der Schnupfen, -",
+      "plural": "die Schnupfen",
+      "meaning": "common cold"
+    },
+    {
+      "id": "A1_K8_121",
+      "word": "vermuten",
+      "meaning": "to suspect"
+    },
+    {
+      "id": "A1_K8_122",
+      "word": "die Zahnschmerzen (Pl.)",
+      "meaning": "toothache"
+    },
+    {
+      "id": "A1_K8_123",
+      "word": "die Bitte, -n",
+      "plural": "die Bitten",
+      "meaning": "request",
+      "example": "Ich habe eine Bitte: …"
+    },
+    {
+      "id": "A1_K8_124",
+      "word": "ein|schlafen, er schläft ein, ist eingeschlafen",
+      "meaning": "to fall asleep"
+    },
+    {
+      "id": "A1_K8_125",
+      "word": "der Forumsbeitrag, \"-e",
+      "plural": "die Forumsbeiträge",
+      "meaning": "forum post"
+    },
+    {
+      "id": "A1_K8_126",
+      "word": "das Hausmittel, -",
+      "plural": "die Hausmittel",
+      "meaning": "home remedy"
+    },
+    {
+      "id": "A1_K8_127",
+      "word": "inhalieren",
+      "meaning": "to inhale"
+    },
+    {
+      "id": "A1_K8_128",
+      "word": "jemand",
+      "meaning": "someone"
+    },
+    {
+      "id": "A1_K8_129",
+      "word": "perfekt",
+      "meaning": "perfect"
+    },
+    {
+      "id": "A1_K8_130",
+      "word": "die Schlaftablette, -n",
+      "plural": "die Schlaftabletten",
+      "meaning": "sleeping pill"
+    },
+    {
+      "id": "A1_K8_131",
+      "word": "das Suppenhuhn, \"-er",
+      "plural": "die Suppenhühner",
+      "meaning": "chicken for soup"
+    },
+    {
+      "id": "A1_K8_132",
+      "word": "der Tipp, -s",
+      "plural": "die Tipps",
+      "meaning": "tip"
+    },
+    {
+      "id": "A1_K8_133",
+      "word": "versuchen",
+      "meaning": "to attempt"
+    },
+    {
+      "id": "A1_K8_134",
+      "word": "auf|hängen",
+      "meaning": "to hang up"
+    },
+    {
+      "id": "A1_K8_135",
+      "word": "der Zettel, -",
+      "plural": "die Zettel",
+      "meaning": "note"
+    },
+    {
+      "id": "A1_K8_136",
+      "word": "anstrengend",
+      "meaning": "exhausting"
+    },
+    {
+      "id": "A1_K8_137",
+      "word": "das Blut (Sg.)",
+      "meaning": "blood"
+    },
+    {
+      "id": "A1_K8_138",
+      "word": "das Ergebnis, -se",
+      "plural": "die Ergebnisse",
+      "meaning": "result"
+    },
+    {
+      "id": "A1_K8_139",
+      "word": "glücklich",
+      "meaning": "happy"
+    },
+    {
+      "id": "A1_K8_140",
+      "word": "das Labor, -e",
+      "plural": "die Labore",
+      "meaning": "lab(oratory)"
+    },
+    {
+      "id": "A1_K8_141",
+      "word": "der Laborant, -en",
+      "plural": "die Laboranten",
+      "meaning": "lab assistant (m)"
+    },
+    {
+      "id": "A1_K8_142",
+      "word": "die Laborantin, -nen",
+      "plural": "die Laborantinnen",
+      "meaning": "lab assistant (f)"
+    },
+    {
+      "id": "A1_K8_143",
+      "word": "der Notarzt, \"-e",
+      "plural": "die Notärzte",
+      "meaning": "emergency doctor (m)"
+    },
+    {
+      "id": "A1_K8_144",
+      "word": "die Notärztin, -nen",
+      "plural": "die Notärztinnen",
+      "meaning": "emergency doctor (f)"
+    },
+    {
+      "id": "A1_K8_145",
+      "word": "der Physiotherapeut, -en",
+      "plural": "die Physiotherapeuten",
+      "meaning": "physical therapist (m)"
+    },
+    {
+      "id": "A1_K8_146",
+      "word": "die Physiotherapeutin, -nen",
+      "plural": "die Physiotherapeutinnen",
+      "meaning": "physical therapist (f)"
+    },
+    {
+      "id": "A1_K8_147",
+      "word": "die Physiotherapie, -n",
+      "plural": "die Physiotherapien",
+      "meaning": "physical therapy"
+    },
+    {
+      "id": "A1_K8_148",
+      "word": "der Sportler, -",
+      "plural": "die Sportler",
+      "meaning": "athlete (m)"
+    },
+    {
+      "id": "A1_K8_149",
+      "word": "die Sportlerin, -nen",
+      "plural": "die Sportlerinnen",
+      "meaning": "athlete (f)"
+    },
+    {
+      "id": "A1_K8_150",
+      "word": "die Strategie, -n",
+      "plural": "die Strategien",
+      "meaning": "strategy"
+    },
+    {
+      "id": "A1_K8_151",
+      "word": "die Übung, -en",
+      "plural": "die Übungen",
+      "meaning": "exercise"
+    },
+    {
+      "id": "A1_K8_152",
+      "word": "untersuchen",
+      "meaning": "to examine"
+    },
+    {
+      "id": "A1_K8_153",
+      "word": "dazu|gehören",
+      "meaning": "to include"
+    },
+    {
+      "id": "A1_K8_154",
+      "word": "das Deutsche (Sg.)",
+      "meaning": "German"
+    },
+    {
+      "id": "A1_K8_155",
+      "word": "erschließen, er erschließt, hat erschlossen",
+      "meaning": "to infer"
+    },
+    {
+      "id": "A1_K8_156",
+      "word": "die Hilfe, -n",
+      "plural": "die Hilfen",
+      "meaning": "help",
+      "example": "Danke für Ihre Hilfe."
+    },
+    {
+      "id": "A1_K8_157",
+      "word": "das Kompositum, Komposita",
+      "plural": "die Komposita",
+      "meaning": "compound"
+    },
+    {
+      "id": "A1_K8_158",
+      "word": "der Kontext, -e",
+      "plural": "die Kontexte",
+      "meaning": "context"
+    },
+    {
+      "id": "A1_K8_159",
+      "word": "der Therapeut, -en",
+      "plural": "die Therapeuten",
+      "meaning": "therapist (m)"
+    },
+    {
+      "id": "A1_K8_160",
+      "word": "die Therapeutin, -nen",
+      "plural": "die Therapeutinnen",
+      "meaning": "therapist (f)"
+    },
+    {
+      "id": "A1_K8_161",
+      "word": "der/die Verletzte, -n",
+      "plural": "die Verletzten",
+      "meaning": "casualty"
+    },
+    {
+      "id": "A1_K8_162",
+      "word": "zerlegen",
+      "meaning": "to disassemble"
+    },
+    {
+      "id": "A1_K8_163",
+      "word": "der Ausdruck, \"-e",
+      "plural": "die Ausdrücke",
+      "meaning": "expression"
+    },
+    {
+      "id": "A1_K8_164",
+      "word": "aus|drücken",
+      "meaning": "to express"
+    },
+    {
+      "id": "A1_K8_165",
+      "word": "die Erlaubnis, -se",
+      "plural": "die Erlaubnisse",
+      "meaning": "permission"
+    },
+    {
+      "id": "A1_K8_166",
+      "word": "das Gebot, -e",
+      "plural": "die Gebote",
+      "meaning": "commandment"
+    },
+    {
+      "id": "A1_K8_167",
+      "word": "das Verbot, -e",
+      "plural": "die Verbote",
+      "meaning": "prohibition"
+    },
+    {
+      "id": "A1_K8_168",
+      "word": "wieder|geben, er gibt wieder, hat wiedergegeben",
+      "meaning": "to recite"
     }
   ]
 }

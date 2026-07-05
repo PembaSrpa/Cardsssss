@@ -4,10 +4,787 @@
   "words": [
     {
       "id": "A1_K7_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Arbeitsalltag (Sg.)",
+      "meaning": "workday"
+    },
+    {
+      "id": "A1_K7_002",
+      "word": "an|nehmen, er nimmt an, hat angenommen",
+      "meaning": "to accept"
+    },
+    {
+      "id": "A1_K7_003",
+      "word": "mit|nehmen, er nimmt mit, hat mitgenommen",
+      "meaning": "to take along"
+    },
+    {
+      "id": "A1_K7_004",
+      "word": "das Paket, -e",
+      "plural": "die Pakete",
+      "meaning": "package"
+    },
+    {
+      "id": "A1_K7_005",
+      "word": "der Ticketkauf, \"-e",
+      "plural": "die Ticketkäufe",
+      "meaning": "ticket purchase"
+    },
+    {
+      "id": "A1_K7_006",
+      "word": "bis dann",
+      "meaning": "until then"
+    },
+    {
+      "id": "A1_K7_007",
+      "word": "doch",
+      "meaning": "here: on the contrary",
+      "example": "Kommst du heute nicht? - Doch."
+    },
+    {
+      "id": "A1_K7_008",
+      "word": "klar",
+      "meaning": "here: good",
+      "example": "Und, wie geht's? - Alles klar."
+    },
+    {
+      "id": "A1_K7_009",
+      "word": "die Reihenfolge, -n",
+      "plural": "die Reihenfolgen",
+      "meaning": "sequence"
+    },
+    {
+      "id": "A1_K7_010",
+      "word": "später",
+      "meaning": "later"
+    },
+    {
+      "id": "A1_K7_011",
+      "word": "einkaufen gehen, er geht einkaufen, ist einkaufen gegangen",
+      "meaning": "to go shopping"
+    },
+    {
+      "id": "A1_K7_012",
+      "word": "der Nachbar, -n",
+      "plural": "die Nachbarn",
+      "meaning": "neighbour (m)"
+    },
+    {
+      "id": "A1_K7_013",
+      "word": "die Nachbarin, -nen",
+      "plural": "die Nachbarinnen",
+      "meaning": "neighbour (f)"
+    },
+    {
+      "id": "A1_K7_014",
+      "word": "als",
+      "meaning": "than",
+      "example": "Das Leben hier ist ganz anders als zu Hause."
+    },
+    {
+      "id": "A1_K7_015",
+      "word": "anders",
+      "meaning": "different"
+    },
+    {
+      "id": "A1_K7_016",
+      "word": "bedeuten",
+      "meaning": "to mean",
+      "example": "Was bedeutet das?"
+    },
+    {
+      "id": "A1_K7_017",
+      "word": "der Blog, -s",
+      "plural": "die Blogs",
+      "meaning": "blog"
+    },
+    {
+      "id": "A1_K7_018",
+      "word": "die Computerarbeit (Sg.)",
+      "meaning": "computer work"
+    },
+    {
+      "id": "A1_K7_019",
+      "word": "endlich",
+      "meaning": "finally"
+    },
+    {
+      "id": "A1_K7_020",
+      "word": "erklären",
+      "meaning": "to explain"
+    },
+    {
+      "id": "A1_K7_021",
+      "word": "der Fehler, -",
+      "plural": "die Fehler",
+      "meaning": "mistake"
+    },
+    {
+      "id": "A1_K7_022",
+      "word": "das Leben, -",
+      "plural": "die Leben",
+      "meaning": "life"
+    },
+    {
+      "id": "A1_K7_023",
+      "word": "leicht",
+      "meaning": "easy"
+    },
+    {
+      "id": "A1_K7_024",
+      "word": "das Lied, -er",
+      "plural": "die Lieder",
+      "meaning": "song"
+    },
+    {
+      "id": "A1_K7_025",
+      "word": "die Pause, -n",
+      "plural": "die Pausen",
+      "meaning": "break"
+    },
+    {
+      "id": "A1_K7_026",
+      "word": "das Praktikum, Praktika",
+      "plural": "die Praktika",
+      "meaning": "internship"
+    },
+    {
+      "id": "A1_K7_027",
+      "word": "supernett",
+      "meaning": "super nice"
+    },
+    {
+      "id": "A1_K7_028",
+      "word": "zu (+ D.)",
+      "meaning": "to",
+      "example": "Meine Chefin nimmt mich zu Kunden mit."
+    },
+    {
+      "id": "A1_K7_029",
+      "word": "die Apfelschorle, -n",
+      "plural": "die Apfelschorlen",
+      "meaning": "apple juice spritzer"
+    },
+    {
+      "id": "A1_K7_030",
+      "word": "verwenden",
+      "meaning": "to use"
+    },
+    {
+      "id": "A1_K7_031",
+      "word": "der Kundenbesuch, -e",
+      "plural": "die Kundenbesuche",
+      "meaning": "call on customers"
+    },
+    {
+      "id": "A1_K7_032",
+      "word": "der Mitarbeiter, -",
+      "plural": "die Mitarbeiter",
+      "meaning": "colleague (m)"
+    },
+    {
+      "id": "A1_K7_033",
+      "word": "die Mitarbeiterin, -nen",
+      "plural": "die Mitarbeiterinnen",
+      "meaning": "colleague (f)"
+    },
+    {
+      "id": "A1_K7_034",
+      "word": "das Sommerfest, -e",
+      "plural": "die Sommerfeste",
+      "meaning": "summer festival"
+    },
+    {
+      "id": "A1_K7_035",
+      "word": "der Urlaub, -e",
+      "plural": "die Urlaube",
+      "meaning": "holiday"
+    },
+    {
+      "id": "A1_K7_036",
+      "word": "der Dativ, -e",
+      "plural": "die Dative",
+      "meaning": "dative"
+    },
+    {
+      "id": "A1_K7_037",
+      "word": "wem",
+      "meaning": "whom, who"
+    },
+    {
+      "id": "A1_K7_038",
+      "word": "die Aussprache (Sg.)",
+      "meaning": "pronunciation"
+    },
+    {
+      "id": "A1_K7_039",
+      "word": "der Silbenanfang, \"-e",
+      "plural": "die Silbenanfänge",
+      "meaning": "beginning of the syllable"
+    },
+    {
+      "id": "A1_K7_040",
+      "word": "der Wortanfang, \"-e",
+      "plural": "die Wortanfänge",
+      "meaning": "beginning of the word"
+    },
+    {
+      "id": "A1_K7_041",
+      "word": "das Wortinnere (Sg.)",
+      "meaning": "inside of the word"
+    },
+    {
+      "id": "A1_K7_042",
+      "word": "nach Hause",
+      "meaning": "(toward) home"
+    },
+    {
+      "id": "A1_K7_043",
+      "word": "wohin",
+      "meaning": "whereto"
+    },
+    {
+      "id": "A1_K7_044",
+      "word": "der Automat, -en",
+      "plural": "die Automaten",
+      "meaning": "vending machine"
+    },
+    {
+      "id": "A1_K7_045",
+      "word": "bar",
+      "meaning": "in cash",
+      "example": "Zahlen Sie bar oder mit Karte?"
+    },
+    {
+      "id": "A1_K7_046",
+      "word": "genug",
+      "meaning": "enough"
+    },
+    {
+      "id": "A1_K7_047",
+      "word": "holen",
+      "meaning": "to get",
+      "example": "Ich muss noch Geld holen."
+    },
+    {
+      "id": "A1_K7_048",
+      "word": "das Konto, Konten",
+      "plural": "die Konten",
+      "meaning": "account"
+    },
+    {
+      "id": "A1_K7_049",
+      "word": "die Kontonummer, -n",
+      "plural": "die Kontonummern",
+      "meaning": "account number"
+    },
+    {
+      "id": "A1_K7_050",
+      "word": "die Kreditkarte, -n",
+      "plural": "die Kreditkarten",
+      "meaning": "credit card"
+    },
+    {
+      "id": "A1_K7_051",
+      "word": "überweisen, er überweist, hat überwiesen",
+      "meaning": "to transfer"
+    },
+    {
+      "id": "A1_K7_052",
+      "word": "die Bank, -en",
+      "plural": "die Banken",
+      "meaning": "bank",
+      "example": "Tom muss heute Nachmittag zur Bank gehen."
+    },
+    {
+      "id": "A1_K7_053",
+      "word": "der Bericht, -e",
+      "plural": "die Berichte",
+      "meaning": "report"
+    },
+    {
+      "id": "A1_K7_054",
+      "word": "dauern",
+      "meaning": "to last"
+    },
+    {
+      "id": "A1_K7_055",
+      "word": "korrigieren",
+      "meaning": "to correct"
+    },
+    {
+      "id": "A1_K7_056",
+      "word": "die Post (Sg.)",
+      "meaning": "post office"
+    },
+    {
+      "id": "A1_K7_057",
+      "word": "so",
+      "meaning": "such",
+      "example": "So ein Zufall!"
+    },
+    {
+      "id": "A1_K7_058",
+      "word": "der Zufall, \"-e",
+      "plural": "die Zufälle",
+      "meaning": "coincidence"
+    },
+    {
+      "id": "A1_K7_059",
+      "word": "die Kurzform, -en",
+      "plural": "die Kurzformen",
+      "meaning": "shortened form"
+    },
+    {
+      "id": "A1_K7_060",
+      "word": "die Ortsangabe, -n",
+      "plural": "die Ortsangaben",
+      "meaning": "location"
+    },
+    {
+      "id": "A1_K7_061",
+      "word": "der Zahnarzt, \"-e",
+      "plural": "die Zahnärzte",
+      "meaning": "dentist (m)"
+    },
+    {
+      "id": "A1_K7_062",
+      "word": "die Zahnärztin, -nen",
+      "plural": "die Zahnärztinnen",
+      "meaning": "dentist (f)"
+    },
+    {
+      "id": "A1_K7_063",
+      "word": "der Bäcker, -",
+      "plural": "die Bäcker",
+      "meaning": "bakery",
+      "example": "Ich gehe zum Bäcker und kaufe Brot."
+    },
+    {
+      "id": "A1_K7_064",
+      "word": "der Hausmeister, -",
+      "plural": "die Hausmeister",
+      "meaning": "caretaker (m)"
+    },
+    {
+      "id": "A1_K7_065",
+      "word": "die Hausmeisterin, -nen",
+      "plural": "die Hausmeisterinnen",
+      "meaning": "caretaker (f)"
+    },
+    {
+      "id": "A1_K7_066",
+      "word": "der Akku, -s",
+      "plural": "die Akkus",
+      "meaning": "battery"
+    },
+    {
+      "id": "A1_K7_067",
+      "word": "an|machen",
+      "meaning": "to turn on"
+    },
+    {
+      "id": "A1_K7_068",
+      "word": "aus|machen",
+      "meaning": "to turn off"
+    },
+    {
+      "id": "A1_K7_069",
+      "word": "die Datei, -en",
+      "plural": "die Dateien",
+      "meaning": "file"
+    },
+    {
+      "id": "A1_K7_070",
+      "word": "drucken",
+      "meaning": "to print"
+    },
+    {
+      "id": "A1_K7_071",
+      "word": "der Drucker, -",
+      "plural": "die Drucker",
+      "meaning": "printer"
+    },
+    {
+      "id": "A1_K7_072",
+      "word": "ein|geben, er gibt ein, hat eingegeben",
+      "meaning": "to enter",
+      "example": "das Passwort eingeben"
+    },
+    {
+      "id": "A1_K7_073",
+      "word": "hoch|fahren, er fährt hoch, hat hochgefahren",
+      "meaning": "to start up",
+      "example": "Er fährt den Computer hoch."
+    },
+    {
+      "id": "A1_K7_074",
+      "word": "leer",
+      "meaning": "empty",
+      "example": "Mein Akku ist gleich leer."
+    },
+    {
+      "id": "A1_K7_075",
+      "word": "die Medien (Pl.)",
+      "meaning": "media"
+    },
+    {
+      "id": "A1_K7_076",
+      "word": "der Mist (Sg.)",
+      "meaning": "bother",
+      "example": "Mist, mein Akku ist gleich leer."
+    },
+    {
+      "id": "A1_K7_077",
+      "word": "das Netz (Sg.)",
+      "meaning": "reception",
+      "example": "Ich habe kein Netz."
+    },
+    {
+      "id": "A1_K7_078",
+      "word": "offline",
+      "meaning": "offline"
+    },
+    {
+      "id": "A1_K7_079",
+      "word": "öffnen",
+      "meaning": "to open",
+      "example": "eine Datei öffnen"
+    },
+    {
+      "id": "A1_K7_080",
+      "word": "das Passwort, \"-er",
+      "plural": "die Passwörter",
+      "meaning": "password"
+    },
+    {
+      "id": "A1_K7_081",
+      "word": "speichern",
+      "meaning": "to save"
+    },
+    {
+      "id": "A1_K7_082",
+      "word": "das WLAN (Sg.)",
+      "meaning": "Wi-Fi"
+    },
+    {
+      "id": "A1_K7_083",
+      "word": "aktuell",
+      "meaning": "current"
+    },
+    {
+      "id": "A1_K7_084",
+      "word": "argentinisch",
+      "meaning": "Argentinian"
+    },
+    {
+      "id": "A1_K7_085",
+      "word": "der Brief, -e",
+      "plural": "die Briefe",
+      "meaning": "letter"
+    },
+    {
+      "id": "A1_K7_086",
+      "word": "diskutieren",
+      "meaning": "to discuss"
+    },
+    {
+      "id": "A1_K7_087",
+      "word": "der/die Erwachsene, -n",
+      "plural": "die Erwachsenen",
+      "meaning": "adult"
+    },
+    {
+      "id": "A1_K7_088",
+      "word": "ganz",
+      "meaning": "whole",
+      "example": "Ich möchte Leute aus der ganzen Welt kennenlernen."
+    },
+    {
+      "id": "A1_K7_089",
+      "word": "das Jahrestreffen, -",
+      "plural": "die Jahrestreffen",
+      "meaning": "yearly meeting"
+    },
+    {
+      "id": "A1_K7_090",
+      "word": "kennen|lernen",
+      "meaning": "to get to know"
+    },
+    {
+      "id": "A1_K7_091",
+      "word": "das Mitglied, -er",
+      "plural": "die Mitglieder",
+      "meaning": "member"
+    },
+    {
+      "id": "A1_K7_092",
+      "word": "die Musikgruppe, -n",
+      "plural": "die Musikgruppen",
+      "meaning": "music group"
+    },
+    {
+      "id": "A1_K7_093",
+      "word": "die Präsentation, -en",
+      "plural": "die Präsentationen",
+      "meaning": "presentation"
+    },
+    {
+      "id": "A1_K7_094",
+      "word": "samstags",
+      "meaning": "on Saturday"
+    },
+    {
+      "id": "A1_K7_095",
+      "word": "die Spezialität, -en",
+      "plural": "die Spezialitäten",
+      "meaning": "specialty"
+    },
+    {
+      "id": "A1_K7_096",
+      "word": "der Stadtpark, -s",
+      "plural": "die Stadtparks",
+      "meaning": "city park"
+    },
+    {
+      "id": "A1_K7_097",
+      "word": "Südamerika",
+      "meaning": "South America"
+    },
+    {
+      "id": "A1_K7_098",
+      "word": "zeigen",
+      "meaning": "to show",
+      "example": "Das Kino zeigt einen Film aus Spanien."
+    },
+    {
+      "id": "A1_K7_099",
+      "word": "der Kontakt, -e",
+      "plural": "die Kontakte",
+      "meaning": "contact"
+    },
+    {
+      "id": "A1_K7_100",
+      "word": "das Sprachinstitut, -e",
+      "plural": "die Sprachinstitute",
+      "meaning": "language department"
+    },
+    {
+      "id": "A1_K7_101",
+      "word": "der Absender, -",
+      "plural": "die Absender",
+      "meaning": "sender"
+    },
+    {
+      "id": "A1_K7_102",
+      "word": "der Briefstandard, -s",
+      "plural": "die Briefstandards",
+      "meaning": "letter standard"
+    },
+    {
+      "id": "A1_K7_103",
+      "word": "der Empfänger, -",
+      "plural": "die Empfänger",
+      "meaning": "recipient (m)"
+    },
+    {
+      "id": "A1_K7_104",
+      "word": "die Empfängerin, -nen",
+      "plural": "die Empfängerinnen",
+      "meaning": "recipient (f)"
+    },
+    {
+      "id": "A1_K7_105",
+      "word": "die Unterschrift, -en",
+      "plural": "die Unterschriften",
+      "meaning": "signature"
+    },
+    {
+      "id": "A1_K7_106",
+      "word": "die Anredeformel, -n",
+      "plural": "die Anredeformeln",
+      "meaning": "salutation"
+    },
+    {
+      "id": "A1_K7_107",
+      "word": "auswendig",
+      "meaning": "here: to memorise",
+      "example": "Lernen Sie die Wörter auswendig."
+    },
+    {
+      "id": "A1_K7_108",
+      "word": "die Dame, -n",
+      "plural": "die Damen",
+      "meaning": "madam",
+      "example": "Sehr geehrte Damen und Herren, …"
+    },
+    {
+      "id": "A1_K7_109",
+      "word": "freundlich",
+      "meaning": "here: sincerely",
+      "example": "Mit freundlichen Grüßen"
+    },
+    {
+      "id": "A1_K7_110",
+      "word": "geehrt",
+      "meaning": "honoured",
+      "example": "Sehr geehrte Damen und Herren, …"
+    },
+    {
+      "id": "A1_K7_111",
+      "word": "die Grußformel, -n",
+      "plural": "die Grußformeln",
+      "meaning": "salutation"
+    },
+    {
+      "id": "A1_K7_112",
+      "word": "an (+ A.)",
+      "meaning": "to",
+      "example": "Schreiben Sie an Herrn Müller."
+    },
+    {
+      "id": "A1_K7_113",
+      "word": "denken, er denkt, hat gedacht",
+      "meaning": "to think"
+    },
+    {
+      "id": "A1_K7_114",
+      "word": "die Krankheit, -en",
+      "plural": "die Krankheiten",
+      "meaning": "illness"
+    },
+    {
+      "id": "A1_K7_115",
+      "word": "die Mittagspause, -n",
+      "plural": "die Mittagspausen",
+      "meaning": "lunch break"
+    },
+    {
+      "id": "A1_K7_116",
+      "word": "die Politik (Sg.)",
+      "meaning": "politics"
+    },
+    {
+      "id": "A1_K7_117",
+      "word": "die Religion, -en",
+      "plural": "die Religionen",
+      "meaning": "religion"
+    },
+    {
+      "id": "A1_K7_118",
+      "word": "die Serie, -n",
+      "plural": "die Serien",
+      "meaning": "series"
+    },
+    {
+      "id": "A1_K7_119",
+      "word": "der Aufzug, \"-e",
+      "plural": "die Aufzüge",
+      "meaning": "elevator"
+    },
+    {
+      "id": "A1_K7_120",
+      "word": "beliebt",
+      "meaning": "popular"
+    },
+    {
+      "id": "A1_K7_121",
+      "word": "dazu",
+      "meaning": "to that"
+    },
+    {
+      "id": "A1_K7_122",
+      "word": "die meisten",
+      "meaning": "most"
+    },
+    {
+      "id": "A1_K7_123",
+      "word": "das Fernsehen (Sg.)",
+      "meaning": "television",
+      "example": "Gestern war ein Fußballspiel im Fernsehen."
+    },
+    {
+      "id": "A1_K7_124",
+      "word": "formulieren",
+      "meaning": "to phrase"
+    },
+    {
+      "id": "A1_K7_125",
+      "word": "gar",
+      "meaning": "really"
+    },
+    {
+      "id": "A1_K7_126",
+      "word": "das Gesprächsthema, -themen",
+      "plural": "die Gesprächsthemen",
+      "meaning": "conversational topic"
+    },
+    {
+      "id": "A1_K7_127",
+      "word": "gestern",
+      "meaning": "yesterday"
+    },
+    {
+      "id": "A1_K7_128",
+      "word": "interessieren",
+      "meaning": "to interest"
+    },
+    {
+      "id": "A1_K7_129",
+      "word": "langweilig",
+      "meaning": "boring"
+    },
+    {
+      "id": "A1_K7_130",
+      "word": "neutral",
+      "meaning": "neutral"
+    },
+    {
+      "id": "A1_K7_131",
+      "word": "reden",
+      "meaning": "to talk"
+    },
+    {
+      "id": "A1_K7_132",
+      "word": "schwer",
+      "meaning": "difficult",
+      "example": "Die Aufgabe ist gar nicht so schwer."
+    },
+    {
+      "id": "A1_K7_133",
+      "word": "der Small Talk, -s",
+      "plural": "die Small Talks",
+      "meaning": "small talk"
+    },
+    {
+      "id": "A1_K7_134",
+      "word": "eigentlich",
+      "meaning": "actually"
+    },
+    {
+      "id": "A1_K7_135",
+      "word": "heiß",
+      "meaning": "hot"
+    },
+    {
+      "id": "A1_K7_136",
+      "word": "oder",
+      "meaning": "here: right",
+      "example": "Das ist schrecklich, oder?"
+    },
+    {
+      "id": "A1_K7_137",
+      "word": "regnen",
+      "meaning": "to rain"
+    },
+    {
+      "id": "A1_K7_138",
+      "word": "schon wieder",
+      "meaning": "again"
+    },
+    {
+      "id": "A1_K7_139",
+      "word": "schrecklich",
+      "meaning": "terrible"
     }
   ]
 }
