@@ -4,32 +4,44 @@ import { useLocalSearchParams } from "expo-router";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Gesture, GestureDetector } from "react-native-gesture-handler";
 import Animated, { useSharedValue, useAnimatedStyle, withSpring, runOnJS } from "react-native-reanimated";
-import { useTheme } from "../../theme/ThemeContext";
-import { FONTS, FONT_SIZES } from "../../theme/typography";
-import { FlashCard } from "../../components/FlashCard";
-import { AppButton } from "../../components/AppButton";
-import { NavBar } from "../../components/NavBar";
-import { ThemeToggle } from "../../components/ThemeToggle";
-import { Scales } from "../../components/Scales";
-import { useIELTSData } from "../../hooks/useIELTSData";
-import { UI_STORAGE_KEYS } from "../../store/uiStore";
+import { useTheme } from "../../../../../theme/ThemeContext";
+import { FONTS, FONT_SIZES } from "../../../../../theme/typography";
+import { GlossarCard } from "../../../../../components/GlossarCard";
+import { AppButton } from "../../../../../components/AppButton";
+import { NavBar } from "../../../../../components/NavBar";
+import { ThemeToggle } from "../../../../../components/ThemeToggle";
+import { Scales } from "../../../../../components/Scales";
+import { useGlossarB2Meta, useGlossarB2Module } from "../../../../../hooks/useGlossarData";
+import { UI_STORAGE_KEYS, glossarListIndexKey } from "../../../../../store/uiStore";
 
-export default function IELTSFlashcardScreen(): React.JSX.Element {
+export default function GlossarB2FlashcardsScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const params = useLocalSearchParams<{ section: string; resumeIndex?: string }>();
-  const sectionCode = params.section ?? "";
-  const resumeIndex = params.resumeIndex ? parseInt(params.resumeIndex, 10) : 0;
+  const params = useLocalSearchParams<{ kapitel: string; module: string; start?: string }>();
+  const kapitel = params.kapitel ? parseInt(params.kapitel, 10) : 1;
+  const moduleId = params.module ?? "m1";
+  const startParam = params.start ? parseInt(params.start, 10) : 0;
 
-  const { words, title, isLoading } = useIELTSData(sectionCode);
+  const { modules } = useGlossarB2Meta(kapitel);
+  const title = modules.find((m) => m.id === moduleId)?.title ?? moduleId;
 
-  const [index, setIndex] = useState<number>(resumeIndex);
+  const { words, isLoading } = useGlossarB2Module(kapitel, moduleId);
+
+  const [index, setIndex] = useState<number>(startParam);
   const [flipped, setFlipped] = useState<boolean>(false);
 
   useEffect(() => {
-    if (!sectionCode) return;
-    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION, sectionCode);
-    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX, String(index));
-  }, [sectionCode, index]);
+    if (words.length > 0 && index > words.length - 1) {
+      setIndex(words.length - 1);
+    }
+  }, [words.length, index]);
+
+  useEffect(() => {
+    AsyncStorage.setItem(glossarListIndexKey("B2", kapitel, moduleId), String(index));
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_LEVEL, "B2");
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_KAPITEL, String(kapitel));
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_MODULE, moduleId);
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_INDEX, String(index));
+  }, [kapitel, moduleId, index]);
 
   const currentWord = words[index];
 
@@ -37,15 +49,11 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
     setFlipped(false);
     setIndex((prev) => Math.min(prev + 1, words.length - 1));
   };
-
   const goPrev = (): void => {
     setFlipped(false);
     setIndex((prev) => Math.max(prev - 1, 0));
   };
 
-  // Swipe left/right to move between cards, alongside the prev/next buttons.
-  // activeOffsetX keeps this from stealing the flip tap on FlashCard —
-  // the pan only takes over once the finger has actually moved sideways.
   const translateX = useSharedValue<number>(0);
   const SWIPE_THRESHOLD = 60;
 
@@ -81,7 +89,7 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <View style={styles.inner}>
-        <NavBar title={title || sectionCode} right={<ThemeToggle />} />
+        <NavBar title={title} right={<ThemeToggle />} />
 
         {currentWord ? (
           <>
@@ -93,17 +101,12 @@ export default function IELTSFlashcardScreen(): React.JSX.Element {
 
             <GestureDetector gesture={swipeGesture}>
               <Animated.View style={[styles.cardArea, swipeCardStyle]}>
-                <FlashCard word={currentWord} flipped={flipped} onPress={() => setFlipped((f) => !f)} />
+                <GlossarCard word={currentWord} flipped={flipped} onPress={() => setFlipped((f) => !f)} />
               </Animated.View>
             </GestureDetector>
 
             <View style={styles.actionRow}>
-              <AppButton
-                label="← prev"
-                onPress={goPrev}
-                disabled={index === 0}
-                style={styles.actionButton}
-              />
+              <AppButton label="← prev" onPress={goPrev} disabled={index === 0} style={styles.actionButton} />
               <AppButton
                 label="next →"
                 onPress={goNext}

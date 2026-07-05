@@ -52,6 +52,52 @@ const IELTS_DATA_MAP: { [key: string]: () => IELTSSectionData } = {
 
 export const AVAILABLE_IELTS_SECTIONS: string[] = Object.keys(IELTS_DATA_MAP);
 
+// The 4 top-level "Sections" shown on the IELTS section-picker screen.
+// Each groups several lettered category codes (e.g. "2A") that already
+// exist in the data files — the letter-prefix numbering was designed to
+// line up with these 4 groups already, so no data changes were needed.
+export interface IELTSSectionGroup {
+  id: string; // "1" | "2" | "3" | "4"
+  title: string;
+  subtitle: string;
+  categories: string[]; // lettered codes belonging to this group
+}
+
+export const IELTS_SECTION_GROUPS: IELTSSectionGroup[] = [
+  {
+    id: "1",
+    title: "Core Academic Vocabulary",
+    subtitle: "General Logic & Argumentation",
+    categories: ["1A", "1B", "1C", "1D"],
+  },
+  {
+    id: "2",
+    title: "Trend, Data & Diagram Language",
+    subtitle: "Writing Task 1",
+    categories: ["2A", "2B", "2C", "2D", "2E", "2F"],
+  },
+  {
+    id: "3",
+    title: "Topic-Specific Modules",
+    subtitle: "Thematic Vocabulary",
+    categories: ["3A", "3B", "3C", "3D", "3E", "3F", "3G"],
+  },
+  {
+    id: "4",
+    title: "Structural, Functional & Idiomatic Language",
+    subtitle: "",
+    categories: ["4A", "4B", "4C", "4D", "4E", "4F"],
+  },
+];
+
+// Derives which of the 4 groups a lettered section code belongs to,
+// e.g. "2C" -> "2". Used to build links back up to the group from a
+// section deep-linked directly (home screen "Continue", etc).
+export function getSectionGroupId(section: string): string {
+  const match = section.match(/^\d+/);
+  return match ? match[0] : "1";
+}
+
 const sectionCache: { [key: string]: IELTSSectionData } = {};
 
 function loadSection(section: string): IELTSSectionData | null {

@@ -1,41 +1,62 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { View, Text, StyleSheet } from "react-native";
 import { useLocalSearchParams } from "expo-router";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Gesture, GestureDetector } from "react-native-gesture-handler";
 import Animated, { useSharedValue, useAnimatedStyle, withSpring, runOnJS } from "react-native-reanimated";
 import { useTheme } from "../../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../../theme/typography";
-import { GlossarCard } from "../../../../components/GlossarCard";
+import { FlashCard } from "../../../../components/FlashCard";
 import { AppButton } from "../../../../components/AppButton";
 import { NavBar } from "../../../../components/NavBar";
 import { ThemeToggle } from "../../../../components/ThemeToggle";
 import { Scales } from "../../../../components/Scales";
-import { useGlossarB2Meta, useGlossarB2Module } from "../../../../hooks/useGlossarData";
+import { useIELTSData } from "../../../../hooks/useIELTSData";
+import { UI_STORAGE_KEYS, ieltsListIndexKey } from "../../../../store/uiStore";
 
-export default function GlossarB2ModuleScreen(): React.JSX.Element {
+export default function IELTSFlashcardsScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const params = useLocalSearchParams<{ kapitel: string; module: string }>();
-  const kapitel = params.kapitel ? parseInt(params.kapitel, 10) : 1;
-  const moduleId = params.module ?? "m1";
+  const params = useLocalSearchParams<{ group: string; section: string; start?: string }>();
+  const section = params.section ?? "";
+  const startParam = params.start ? parseInt(params.start, 10) : 0;
 
-  const { modules } = useGlossarB2Meta(kapitel);
-  const title = modules.find((m) => m.id === moduleId)?.title ?? moduleId;
+  const { words, title, isLoading } = useIELTSData(section);
 
-  const { words, isLoading } = useGlossarB2Module(kapitel, moduleId);
-
-  const [index, setIndex] = useState<number>(0);
+  const [index, setIndex] = useState<number>(startParam);
   const [flipped, setFlipped] = useState<boolean>(false);
+
+  // Clamp once word count is known, in case a stale resume index points
+  // past the end of a list that's since shrunk.
+  useEffect(() => {
+    if (words.length > 0 && index > words.length - 1) {
+      setIndex(words.length - 1);
+    }
+  }, [words.length, index]);
+
+  // Persist both the per-list resume position (used by this list's own
+  // "Continue" button) and the global "last visited" position (used by
+  // the home screen's Continue card) on every move.
+  useEffect(() => {
+    AsyncStorage.setItem(ieltsListIndexKey(section), String(index));
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION, section);
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX, String(index));
+  }, [section, index]);
+
   const currentWord = words[index];
 
   const goNext = (): void => {
     setFlipped(false);
     setIndex((prev) => Math.min(prev + 1, words.length - 1));
   };
+
   const goPrev = (): void => {
     setFlipped(false);
     setIndex((prev) => Math.max(prev - 1, 0));
   };
 
+  // Swipe left/right to move between cards, alongside the prev/next buttons.
+  // activeOffsetX keeps this from stealing the flip tap on FlashCard —
+  // the pan only takes over once the finger has actually moved sideways.
   const translateX = useSharedValue<number>(0);
   const SWIPE_THRESHOLD = 60;
 
@@ -71,7 +92,7 @@ export default function GlossarB2ModuleScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <View style={styles.inner}>
-        <NavBar title={title} right={<ThemeToggle />} />
+        <NavBar title={title || section} right={<ThemeToggle />} />
 
         {currentWord ? (
           <>
@@ -83,7 +104,7 @@ export default function GlossarB2ModuleScreen(): React.JSX.Element {
 
             <GestureDetector gesture={swipeGesture}>
               <Animated.View style={[styles.cardArea, swipeCardStyle]}>
-                <GlossarCard word={currentWord} flipped={flipped} onPress={() => setFlipped((f) => !f)} />
+                <FlashCard word={currentWord} flipped={flipped} onPress={() => setFlipped((f) => !f)} />
               </Animated.View>
             </GestureDetector>
 

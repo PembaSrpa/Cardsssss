@@ -1,27 +1,44 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { View, Text, StyleSheet } from "react-native";
 import { useLocalSearchParams } from "expo-router";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Gesture, GestureDetector } from "react-native-gesture-handler";
 import Animated, { useSharedValue, useAnimatedStyle, withSpring, runOnJS } from "react-native-reanimated";
-import { useTheme } from "../../../theme/ThemeContext";
-import { FONTS, FONT_SIZES } from "../../../theme/typography";
-import { GlossarCard } from "../../../components/GlossarCard";
-import { AppButton } from "../../../components/AppButton";
-import { NavBar } from "../../../components/NavBar";
-import { ThemeToggle } from "../../../components/ThemeToggle";
-import { Scales } from "../../../components/Scales";
-import { useGlossarKapitel } from "../../../hooks/useGlossarData";
+import { useTheme } from "../../../../theme/ThemeContext";
+import { FONTS, FONT_SIZES } from "../../../../theme/typography";
+import { GlossarCard } from "../../../../components/GlossarCard";
+import { AppButton } from "../../../../components/AppButton";
+import { NavBar } from "../../../../components/NavBar";
+import { ThemeToggle } from "../../../../components/ThemeToggle";
+import { Scales } from "../../../../components/Scales";
+import { useGlossarKapitel } from "../../../../hooks/useGlossarData";
+import { UI_STORAGE_KEYS, glossarListIndexKey } from "../../../../store/uiStore";
 
 export default function GlossarFlashcardScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const params = useLocalSearchParams<{ level: string; kapitel: string }>();
+  const params = useLocalSearchParams<{ level: string; kapitel: string; start?: string }>();
   const level = params.level ?? "";
   const kapitel = params.kapitel ? parseInt(params.kapitel, 10) : 1;
+  const startParam = params.start ? parseInt(params.start, 10) : 0;
 
   const { words, isLoading } = useGlossarKapitel(level, kapitel);
 
-  const [index, setIndex] = useState<number>(0);
+  const [index, setIndex] = useState<number>(startParam);
   const [flipped, setFlipped] = useState<boolean>(false);
+
+  useEffect(() => {
+    if (words.length > 0 && index > words.length - 1) {
+      setIndex(words.length - 1);
+    }
+  }, [words.length, index]);
+
+  useEffect(() => {
+    AsyncStorage.setItem(glossarListIndexKey(level, kapitel), String(index));
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_LEVEL, level);
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_KAPITEL, String(kapitel));
+    AsyncStorage.removeItem(UI_STORAGE_KEYS.LAST_GLOSSAR_MODULE);
+    AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GLOSSAR_INDEX, String(index));
+  }, [level, kapitel, index]);
 
   const currentWord = words[index];
 

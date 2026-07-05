@@ -10,6 +10,7 @@ import { ThemeToggle } from "../components/ThemeToggle";
 import { Scales } from "../components/Scales";
 import { useNotifications } from "../hooks/useNotifications";
 import { UI_STORAGE_KEYS } from "../store/uiStore";
+import { getSectionGroupId } from "../hooks/useIELTSData";
 
 interface LastPosition {
   ieltsSection: string | null;
@@ -18,6 +19,10 @@ interface LastPosition {
   germanIndex: number;
   germanScore: number;
   germanStreak: number;
+  glossarLevel: string | null;
+  glossarKapitel: string | null;
+  glossarModule: string | null;
+  glossarIndex: number;
 }
 
 export default function HomeScreen(): React.JSX.Element {
@@ -32,6 +37,10 @@ export default function HomeScreen(): React.JSX.Element {
     germanIndex: 0,
     germanScore: 0,
     germanStreak: 0,
+    glossarLevel: null,
+    glossarKapitel: null,
+    glossarModule: null,
+    glossarIndex: 0,
   });
 
   // Reload every time this screen comes into focus (not just on first mount) —
@@ -42,15 +51,29 @@ export default function HomeScreen(): React.JSX.Element {
     useCallback(() => {
       let isMounted = true;
       async function loadLastPos(): Promise<void> {
-        const [ieltsSection, ieltsIndexRaw, germanLevel, germanIndexRaw, germanScoreRaw, germanStreakRaw] =
-          await Promise.all([
-            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION),
-            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX),
-            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL),
-            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX),
-            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE),
-            AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_STREAK),
-          ]);
+        const [
+          ieltsSection,
+          ieltsIndexRaw,
+          germanLevel,
+          germanIndexRaw,
+          germanScoreRaw,
+          germanStreakRaw,
+          glossarLevel,
+          glossarKapitel,
+          glossarModule,
+          glossarIndexRaw,
+        ] = await Promise.all([
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_STREAK),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GLOSSAR_LEVEL),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GLOSSAR_KAPITEL),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GLOSSAR_MODULE),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GLOSSAR_INDEX),
+        ]);
         if (isMounted) {
           setLastPos({
             ieltsSection,
@@ -59,6 +82,10 @@ export default function HomeScreen(): React.JSX.Element {
             germanIndex: germanIndexRaw ? parseInt(germanIndexRaw, 10) : 0,
             germanScore: germanScoreRaw ? parseInt(germanScoreRaw, 10) : 0,
             germanStreak: germanStreakRaw ? parseInt(germanStreakRaw, 10) : 0,
+            glossarLevel,
+            glossarKapitel,
+            glossarModule,
+            glossarIndex: glossarIndexRaw ? parseInt(glossarIndexRaw, 10) : 0,
           });
         }
       }
@@ -134,10 +161,9 @@ export default function HomeScreen(): React.JSX.Element {
             {lastPos.ieltsSection && (
               <Pressable
                 onPress={() =>
-                  router.push({
-                    pathname: "/ielts/[section]",
-                    params: { section: lastPos.ieltsSection!, resumeIndex: String(lastPos.ieltsIndex) },
-                  })
+                  router.push(
+                    `/ielts/${getSectionGroupId(lastPos.ieltsSection!)}/${lastPos.ieltsSection}/flashcards?start=${lastPos.ieltsIndex}`
+                  )
                 }
                 style={({ pressed }) => [
                   styles.footerBtn,
@@ -216,6 +242,27 @@ export default function HomeScreen(): React.JSX.Element {
             >
               <Text style={[styles.footerBtnLabel, { color: colors.text }]}>Browse</Text>
             </Pressable>
+            {lastPos.glossarLevel && lastPos.glossarKapitel && (
+              <Pressable
+                onPress={() =>
+                  router.push(
+                    lastPos.glossarModule
+                      ? `/glossar/b2/${lastPos.glossarKapitel}/${lastPos.glossarModule}/flashcards?start=${lastPos.glossarIndex}`
+                      : `/glossar/${lastPos.glossarLevel}/${lastPos.glossarKapitel}/flashcards?start=${lastPos.glossarIndex}`
+                  )
+                }
+                style={({ pressed }) => [
+                  styles.footerBtn,
+                  styles.footerBtnAccent,
+                  { borderColor: colors.accent, opacity: pressed ? 0.7 : 1 },
+                ]}
+              >
+                <Ionicons name="play-skip-forward-outline" size={13} color={colors.accent} style={styles.footerBtnIcon} />
+                <Text style={[styles.footerBtnLabel, { color: colors.accent }]}>
+                  Continue {lastPos.glossarLevel} K{lastPos.glossarKapitel}
+                </Text>
+              </Pressable>
+            )}
           </View>
         </Pressable>
       </ScrollView>
