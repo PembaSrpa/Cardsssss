@@ -1,6 +1,6 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { AppState, AppStateStatus } from "react-native";
+import { AppState, AppStateStatus, Platform } from "react-native";
 import { STORAGE_KEYS } from "../store/progressStore";
 import { getAllIELTSWordsFlat, IELTSWord } from "./useIELTSData";
 
@@ -51,6 +51,15 @@ function getNotificationsModule(): NotificationsModule | null {
         shouldSetBadge: false,
       }),
     });
+    // Android 8+ silently drops any notification that isn't assigned to a
+    // channel — no error is thrown, it just never appears. This must exist
+    // before anything is scheduled.
+    if (Platform.OS === "android") {
+      mod.setNotificationChannelAsync("vocab-reminders", {
+        name: "Vocabulary reminders",
+        importance: mod.AndroidImportance.HIGH,
+      }).catch(() => undefined);
+    }
     cachedModule = mod;
     return mod;
   } catch {
@@ -121,9 +130,16 @@ async function scheduleVocabBatch(): Promise<void> {
       const { title, body } = formatWordNotification(word);
       await Notifications.scheduleNotificationAsync({
         identifier: `${SLOT_PREFIX}${slot}`,
-        content: { title, body },
+        content: {
+          title,
+          body,
+          ...(Platform.OS === "android" ? { channelId: "vocab-reminders" } : {}),
+        },
         trigger: {
-          seconds: INTERVAL_SECONDS * (slot + 1),
+          // Slot 0 fires almost immediately so enabling notifications gives
+          // instant feedback that it's working, instead of a silent 30-min
+          // wait. Every slot after that follows the normal 30-min cadence.
+          seconds: slot === 0 ? 5 : INTERVAL_SECONDS * slot,
           repeats: false,
         },
       });
