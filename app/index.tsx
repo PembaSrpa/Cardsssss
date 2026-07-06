@@ -137,7 +137,7 @@ export default function HomeScreen(): React.JSX.Element {
 
         {!notificationsSupported && (
           <Text style={[styles.notifHint, { color: colors.textMuted }]}>
-            reminders require a dev build
+            vocab notifications require a dev build
           </Text>
         )}
 

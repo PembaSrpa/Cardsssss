@@ -100,6 +100,26 @@ export function getSectionGroupId(section: string): string {
 
 const sectionCache: { [key: string]: IELTSSectionData } = {};
 
+// Flattened view of every word across every section, in a fixed order
+// (1A, 1B, ... 4F). Used by the vocab-notification scheduler, which needs
+// a stable global index it can persist and resume from.
+let flatWordsCache: IELTSWord[] | null = null;
+
+export function getAllIELTSWordsFlat(): IELTSWord[] {
+  if (flatWordsCache) {
+    return flatWordsCache;
+  }
+  const all: IELTSWord[] = [];
+  for (const section of AVAILABLE_IELTS_SECTIONS) {
+    const data = loadSection(section);
+    if (data) {
+      all.push(...data.words);
+    }
+  }
+  flatWordsCache = all;
+  return all;
+}
+
 function loadSection(section: string): IELTSSectionData | null {
   if (sectionCache[section]) {
     return sectionCache[section];
