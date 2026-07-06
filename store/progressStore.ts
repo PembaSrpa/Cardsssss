@@ -18,4 +18,5 @@ export const STORAGE_KEYS = {
   GERMAN_PROGRESS: "cards_german_progress",
   NOTIFICATIONS_ENABLED: "cards_notifications_enabled",
   VOCAB_NOTIF_INDEX: "cards_vocab_notif_index",
+  VOCAB_NOTIF_INTERVAL_MINUTES: "cards_vocab_notif_interval_minutes",
 } as const;

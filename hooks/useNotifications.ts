@@ -5,20 +5,39 @@ import { STORAGE_KEYS } from "../store/progressStore";
 import { getAllIELTSWordsFlat, IELTSWord } from "./useIELTSData";
 
 // Every scheduled vocab notification uses this identifier prefix, followed
-// by its slot number (0..BATCH_SIZE-1). Reusing a fixed set of identifiers
-// means re-scheduling is just "overwrite slot N" instead of having to track
-// an ever-growing list of one-off ids.
+// by its slot number. Reusing a fixed set of identifiers means re-scheduling
+// is just "overwrite slot N" instead of having to track an ever-growing list
+// of one-off ids.
 const SLOT_PREFIX = "cards_vocab_slot_";
-const INTERVAL_SECONDS = 30 * 60;
-// How many words to queue up at once (48 * 30min = 24h of coverage).
-const BATCH_SIZE = 48;
-// Once fewer than this many slots are still pending, top the queue back up.
-const REFILL_THRESHOLD = 6;
+
+// Presets the user can pick from for how often a new word arrives.
+export const INTERVAL_PRESET_MINUTES = [5, 10, 15, 30, 60] as const;
+export const DEFAULT_INTERVAL_MINUTES = 10;
+
+// iOS caps an app at 64 pending local notifications at once, so no matter
+// how short the interval is, we never schedule more than this many slots in
+// a single batch. Shorter intervals simply cover less real time per batch —
+// the AppState-triggered refill (see below) keeps the queue topped up.
+const MAX_SLOTS = 60;
+const MIN_SLOTS = 10;
+
+function computeBatchSize(intervalMinutes: number): number {
+  const slotsForOneDay = Math.ceil((24 * 60) / intervalMinutes);
+  return Math.min(MAX_SLOTS, Math.max(MIN_SLOTS, slotsForOneDay));
+}
+
+// Refill once the queue drains to roughly a fifth of a batch, so there's
+// always a decent buffer left before it could run dry.
+function computeRefillThreshold(batchSize: number): number {
+  return Math.max(3, Math.ceil(batchSize / 5));
+}
 
 export interface UseNotificationsResult {
   isLoading: boolean;
   notificationsEnabled: boolean;
   notificationsSupported: boolean;
+  intervalMinutes: number;
+  setIntervalMinutes: (minutes: number) => Promise<void>;
   enableNotifications: () => Promise<boolean>;
   disableNotifications: () => Promise<void>;
 }
@@ -109,10 +128,37 @@ async function setNextWordIndex(index: number): Promise<void> {
   await AsyncStorage.setItem(STORAGE_KEYS.VOCAB_NOTIF_INDEX, String(index));
 }
 
-// Schedules BATCH_SIZE upcoming notifications, one every 30 minutes,
+async function getStoredIntervalMinutes(): Promise<number> {
+  const stored = await AsyncStorage.getItem(STORAGE_KEYS.VOCAB_NOTIF_INTERVAL_MINUTES);
+  const parsed = stored ? parseInt(stored, 10) : DEFAULT_INTERVAL_MINUTES;
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : DEFAULT_INTERVAL_MINUTES;
+}
+
+// Cancels every currently-scheduled vocab slot. Called before scheduling a
+// fresh batch so leftover slots from a previous (possibly larger) batch size
+// or a previous interval never linger.
+async function cancelVocabQueue(): Promise<void> {
+  const Notifications = getNotificationsModule();
+  if (!Notifications) {
+    return;
+  }
+  try {
+    const scheduled = await Notifications.getAllScheduledNotificationsAsync();
+    const ours = scheduled.filter((n: any) => n.identifier?.startsWith(SLOT_PREFIX));
+    await Promise.all(
+      ours.map((n: any) => Notifications.cancelScheduledNotificationAsync(n.identifier).catch(() => undefined))
+    );
+  } catch {
+    // no-op
+  }
+}
+
+// Schedules a fresh batch of upcoming notifications at the given interval,
 // continuing from wherever the persisted word pointer left off, and
-// advances the pointer past the words it just used.
-async function scheduleVocabBatch(): Promise<void> {
+// advances the pointer past the words it just used. Always starts from a
+// clean slate (cancels anything previously queued) so switching intervals
+// can't leave stale slots at the old cadence.
+async function scheduleVocabBatch(intervalMinutes: number): Promise<void> {
   const Notifications = getNotificationsModule();
   if (!Notifications) {
     return;
@@ -122,10 +168,14 @@ async function scheduleVocabBatch(): Promise<void> {
     return;
   }
 
+  await cancelVocabQueue();
+
+  const intervalSeconds = intervalMinutes * 60;
+  const batchSize = computeBatchSize(intervalMinutes);
   const startIndex = await getNextWordIndex();
 
   try {
-    for (let slot = 0; slot < BATCH_SIZE; slot++) {
+    for (let slot = 0; slot < batchSize; slot++) {
       const word = words[(startIndex + slot) % words.length];
       const { title, body } = formatWordNotification(word);
       await Notifications.scheduleNotificationAsync({
@@ -136,15 +186,16 @@ async function scheduleVocabBatch(): Promise<void> {
           ...(Platform.OS === "android" ? { channelId: "vocab-reminders" } : {}),
         },
         trigger: {
-          // Slot 0 fires almost immediately so enabling notifications gives
-          // instant feedback that it's working, instead of a silent 30-min
-          // wait. Every slot after that follows the normal 30-min cadence.
-          seconds: slot === 0 ? 5 : INTERVAL_SECONDS * slot,
+          // Slot 0 fires almost immediately so enabling notifications (or
+          // changing the interval) gives instant feedback that it's
+          // working, instead of a silent wait. Every slot after that
+          // follows the chosen cadence.
+          seconds: slot === 0 ? 5 : intervalSeconds * slot,
           repeats: false,
         },
       });
     }
-    await setNextWordIndex((startIndex + BATCH_SIZE) % words.length);
+    await setNextWordIndex((startIndex + batchSize) % words.length);
   } catch {
     // Scheduling isn't supported on this platform/runtime — no-op.
   }
@@ -154,7 +205,7 @@ async function scheduleVocabBatch(): Promise<void> {
 // long enough, or was reopened after enough time passed, that most of the
 // batch already fired), top it back up with a fresh batch continuing from
 // the persisted pointer.
-async function refillVocabQueueIfNeeded(): Promise<void> {
+async function refillVocabQueueIfNeeded(intervalMinutes: number): Promise<void> {
   const Notifications = getNotificationsModule();
   if (!Notifications) {
     return;
@@ -162,21 +213,12 @@ async function refillVocabQueueIfNeeded(): Promise<void> {
   try {
     const scheduled = await Notifications.getAllScheduledNotificationsAsync();
     const pending = scheduled.filter((n: any) => n.identifier?.startsWith(SLOT_PREFIX));
-    if (pending.length < REFILL_THRESHOLD) {
-      await scheduleVocabBatch();
+    const batchSize = computeBatchSize(intervalMinutes);
+    if (pending.length < computeRefillThreshold(batchSize)) {
+      await scheduleVocabBatch(intervalMinutes);
     }
   } catch {
     // no-op
-  }
-}
-
-async function cancelVocabQueue(): Promise<void> {
-  const Notifications = getNotificationsModule();
-  if (!Notifications) {
-    return;
-  }
-  for (let slot = 0; slot < BATCH_SIZE; slot++) {
-    await Notifications.cancelScheduledNotificationAsync(`${SLOT_PREFIX}${slot}`).catch(() => undefined);
   }
 }
 
@@ -184,24 +226,31 @@ export function useNotifications(): UseNotificationsResult {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [notificationsEnabled, setNotificationsEnabled] = useState<boolean>(false);
   const [notificationsSupported, setNotificationsSupported] = useState<boolean>(true);
+  const [intervalMinutes, setIntervalMinutesState] = useState<number>(DEFAULT_INTERVAL_MINUTES);
   const enabledRef = useRef<boolean>(false);
+  const intervalRef = useRef<number>(DEFAULT_INTERVAL_MINUTES);
 
   useEffect(() => {
     let isMounted = true;
 
     async function init(): Promise<void> {
-      const stored = await AsyncStorage.getItem(STORAGE_KEYS.NOTIFICATIONS_ENABLED);
+      const [stored, storedInterval] = await Promise.all([
+        AsyncStorage.getItem(STORAGE_KEYS.NOTIFICATIONS_ENABLED),
+        getStoredIntervalMinutes(),
+      ]);
       const wasEnabled = stored === "true";
 
       const supported = getNotificationsModule() !== null;
       if (isMounted) {
         setNotificationsSupported(supported);
+        setIntervalMinutesState(storedInterval);
       }
+      intervalRef.current = storedInterval;
 
       if (wasEnabled && supported) {
         const granted = await requestPermissions();
         if (granted) {
-          await refillVocabQueueIfNeeded();
+          await refillVocabQueueIfNeeded(storedInterval);
         }
         if (isMounted) {
           setNotificationsEnabled(granted);
@@ -226,7 +275,7 @@ export function useNotifications(): UseNotificationsResult {
   useEffect(() => {
     const handleAppStateChange = (state: AppStateStatus): void => {
       if (state === "active" && enabledRef.current) {
-        refillVocabQueueIfNeeded();
+        refillVocabQueueIfNeeded(intervalRef.current);
       }
     };
     const subscription = AppState.addEventListener("change", handleAppStateChange);
@@ -238,7 +287,7 @@ export function useNotifications(): UseNotificationsResult {
   const enableNotifications = useCallback(async (): Promise<boolean> => {
     const granted = await requestPermissions();
     if (granted) {
-      await scheduleVocabBatch();
+      await scheduleVocabBatch(intervalRef.current);
       await AsyncStorage.setItem(STORAGE_KEYS.NOTIFICATIONS_ENABLED, "true");
       setNotificationsEnabled(true);
       enabledRef.current = true;
@@ -253,10 +302,24 @@ export function useNotifications(): UseNotificationsResult {
     enabledRef.current = false;
   }, []);
 
+  // Persists the new interval and, if notifications are currently on,
+  // immediately reschedules the queue at the new cadence (starting with a
+  // quick confirmation notification, same as first enabling).
+  const setIntervalMinutes = useCallback(async (minutes: number): Promise<void> => {
+    intervalRef.current = minutes;
+    setIntervalMinutesState(minutes);
+    await AsyncStorage.setItem(STORAGE_KEYS.VOCAB_NOTIF_INTERVAL_MINUTES, String(minutes));
+    if (enabledRef.current) {
+      await scheduleVocabBatch(minutes);
+    }
+  }, []);
+
   return {
     isLoading,
     notificationsEnabled,
     notificationsSupported,
+    intervalMinutes,
+    setIntervalMinutes,
     enableNotifications,
     disableNotifications,
   };

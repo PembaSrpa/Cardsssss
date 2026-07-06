@@ -8,7 +8,7 @@ import { useTheme } from "../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../theme/typography";
 import { ThemeToggle } from "../components/ThemeToggle";
 import { Scales } from "../components/Scales";
-import { useNotifications } from "../hooks/useNotifications";
+import { INTERVAL_PRESET_MINUTES, useNotifications } from "../hooks/useNotifications";
 import { UI_STORAGE_KEYS } from "../store/uiStore";
 import { getSectionGroupId } from "../hooks/useIELTSData";
 
@@ -27,8 +27,15 @@ interface LastPosition {
 
 export default function HomeScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const { notificationsEnabled, notificationsSupported, enableNotifications, disableNotifications, isLoading } =
-    useNotifications();
+  const {
+    notificationsEnabled,
+    notificationsSupported,
+    enableNotifications,
+    disableNotifications,
+    isLoading,
+    intervalMinutes,
+    setIntervalMinutes,
+  } = useNotifications();
 
   const [lastPos, setLastPos] = useState<LastPosition>({
     ieltsSection: null,
@@ -139,6 +146,37 @@ export default function HomeScreen(): React.JSX.Element {
           <Text style={[styles.notifHint, { color: colors.textMuted }]}>
             vocab notifications require a dev build
           </Text>
+        )}
+
+        {notificationsSupported && (
+          <View style={styles.intervalRow}>
+            {INTERVAL_PRESET_MINUTES.map((minutes) => {
+              const selected = minutes === intervalMinutes;
+              return (
+                <Pressable
+                  key={minutes}
+                  onPress={() => setIntervalMinutes(minutes)}
+                  disabled={isLoading}
+                  style={[
+                    styles.intervalPill,
+                    {
+                      borderColor: selected ? colors.accent : colors.border,
+                      backgroundColor: selected ? colors.accent : colors.backgroundAlt,
+                    },
+                  ]}
+                >
+                  <Text
+                    style={[
+                      styles.intervalPillText,
+                      { color: selected ? colors.background : colors.textMuted },
+                    ]}
+                  >
+                    {minutes}m
+                  </Text>
+                </Pressable>
+              );
+            })}
+          </View>
         )}
 
         <Text style={[styles.sectionLabel, { color: colors.textMuted }]}>MODULE 01</Text>
@@ -306,6 +344,21 @@ const styles = StyleSheet.create({
     fontFamily: FONTS.regular,
     fontSize: FONT_SIZES.xs,
     marginBottom: 8,
+  },
+  intervalRow: {
+    flexDirection: "row",
+    gap: 6,
+    marginBottom: 12,
+  },
+  intervalPill: {
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  intervalPillText: {
+    fontFamily: FONTS.medium,
+    fontSize: FONT_SIZES.xs,
   },
   sectionLabel: {
     fontFamily: FONTS.medium,
