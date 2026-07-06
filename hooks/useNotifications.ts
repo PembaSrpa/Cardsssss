@@ -1,5 +1,4 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import Constants from "expo-constants";
 import { useCallback, useEffect, useState } from "react";
 import { STORAGE_KEYS } from "../store/progressStore";
 
@@ -15,22 +14,20 @@ export interface UseNotificationsResult {
   disableNotifications: () => Promise<void>;
 }
 
-// Expo Go (SDK 53+) removed remote/push registration entirely, and
-// `expo-notifications` runs push-token auto-registration as a side effect of
-// being imported — which throws immediately inside Expo Go, before any of
-// our code even runs. We only `require` the module lazily, and only when we
-// know we're not in Expo Go, so that side effect never fires there. Local
-// scheduled reminders (the only thing this hook actually uses) would work
-// fine in a dev/standalone build; in Expo Go this hook simply no-ops.
-const isExpoGo = Constants.appOwnership === "expo";
-
- 
+// This app only ever schedules a LOCAL repeating reminder — it never
+// registers for a push token. Local notifications work fine in Expo Go
+// (only *remote push* was removed from Expo Go starting SDK 53), so there
+// is no need to disable this feature there. We still lazily require the
+// module and wrap every call in try/catch so an unsupported platform
+// (e.g. web, or a bare simulator without notification support) degrades
+// to a no-op instead of crashing.
 type NotificationsModule = any;
 
 let cachedModule: NotificationsModule | null = null;
+let moduleLoadFailed = false;
 
 function getNotificationsModule(): NotificationsModule | null {
-  if (isExpoGo) {
+  if (moduleLoadFailed) {
     return null;
   }
   if (cachedModule) {
@@ -49,6 +46,7 @@ function getNotificationsModule(): NotificationsModule | null {
     cachedModule = mod;
     return mod;
   } catch {
+    moduleLoadFailed = true;
     return null;
   }
 }
@@ -58,12 +56,16 @@ async function requestPermissions(): Promise<boolean> {
   if (!Notifications) {
     return false;
   }
-  const current = await Notifications.getPermissionsAsync();
-  if (current.granted) {
-    return true;
+  try {
+    const current = await Notifications.getPermissionsAsync();
+    if (current.granted) {
+      return true;
+    }
+    const requested = await Notifications.requestPermissionsAsync();
+    return requested.granted;
+  } catch {
+    return false;
   }
-  const requested = await Notifications.requestPermissionsAsync();
-  return requested.granted;
 }
 
 async function scheduleRecurringReminder(): Promise<void> {
@@ -71,20 +73,22 @@ async function scheduleRecurringReminder(): Promise<void> {
   if (!Notifications) {
     return;
   }
-  await Notifications.cancelScheduledNotificationAsync(
-    REMINDER_IDENTIFIER,
-  ).catch(() => undefined);
-  await Notifications.scheduleNotificationAsync({
-    identifier: REMINDER_IDENTIFIER,
-    content: {
-      title: "Cards",
-      body: REMINDER_MESSAGE,
-    },
-    trigger: {
-      seconds: REMINDER_INTERVAL_SECONDS,
-      repeats: true,
-    },
-  });
+  try {
+    await Notifications.cancelScheduledNotificationAsync(REMINDER_IDENTIFIER).catch(() => undefined);
+    await Notifications.scheduleNotificationAsync({
+      identifier: REMINDER_IDENTIFIER,
+      content: {
+        title: "Cards",
+        body: REMINDER_MESSAGE,
+      },
+      trigger: {
+        seconds: REMINDER_INTERVAL_SECONDS,
+        repeats: true,
+      },
+    });
+  } catch {
+    // Scheduling isn't supported on this platform/runtime — no-op.
+  }
 }
 
 async function cancelRecurringReminder(): Promise<void> {
@@ -92,33 +96,27 @@ async function cancelRecurringReminder(): Promise<void> {
   if (!Notifications) {
     return;
   }
-  await Notifications.cancelScheduledNotificationAsync(
-    REMINDER_IDENTIFIER,
-  ).catch(() => undefined);
+  await Notifications.cancelScheduledNotificationAsync(REMINDER_IDENTIFIER).catch(() => undefined);
 }
 
 export function useNotifications(): UseNotificationsResult {
   const [isLoading, setIsLoading] = useState<boolean>(true);
-  const [notificationsEnabled, setNotificationsEnabled] =
-    useState<boolean>(false);
+  const [notificationsEnabled, setNotificationsEnabled] = useState<boolean>(false);
+  const [notificationsSupported, setNotificationsSupported] = useState<boolean>(true);
 
   useEffect(() => {
     let isMounted = true;
 
     async function init(): Promise<void> {
-      if (isExpoGo) {
-        if (isMounted) {
-          setIsLoading(false);
-        }
-        return;
-      }
-
-      const stored = await AsyncStorage.getItem(
-        STORAGE_KEYS.NOTIFICATIONS_ENABLED,
-      );
+      const stored = await AsyncStorage.getItem(STORAGE_KEYS.NOTIFICATIONS_ENABLED);
       const wasEnabled = stored === "true";
 
-      if (wasEnabled) {
+      const supported = getNotificationsModule() !== null;
+      if (isMounted) {
+        setNotificationsSupported(supported);
+      }
+
+      if (wasEnabled && supported) {
         const granted = await requestPermissions();
         if (granted) {
           await scheduleRecurringReminder();
@@ -141,9 +139,6 @@ export function useNotifications(): UseNotificationsResult {
   }, []);
 
   const enableNotifications = useCallback(async (): Promise<boolean> => {
-    if (isExpoGo) {
-      return false;
-    }
     const granted = await requestPermissions();
     if (granted) {
       await scheduleRecurringReminder();
@@ -154,9 +149,6 @@ export function useNotifications(): UseNotificationsResult {
   }, []);
 
   const disableNotifications = useCallback(async (): Promise<void> => {
-    if (isExpoGo) {
-      return;
-    }
     await cancelRecurringReminder();
     await AsyncStorage.setItem(STORAGE_KEYS.NOTIFICATIONS_ENABLED, "false");
     setNotificationsEnabled(false);
@@ -165,7 +157,7 @@ export function useNotifications(): UseNotificationsResult {
   return {
     isLoading,
     notificationsEnabled,
-    notificationsSupported: !isExpoGo,
+    notificationsSupported,
     enableNotifications,
     disableNotifications,
   };
