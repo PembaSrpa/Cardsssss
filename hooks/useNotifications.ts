@@ -65,7 +65,13 @@ function getNotificationsModule(): NotificationsModule | null {
     const mod = require("expo-notifications") as NotificationsModule;
     mod.setNotificationHandler({
       handleNotification: async () => ({
-        shouldShowAlert: true,
+        // `shouldShowAlert` is deprecated as of expo-notifications ~0.27+ and
+        // is a no-op on current SDKs (iOS split "alert" into banner + list
+        // surfaces). Without shouldShowBanner/shouldShowList set, foreground
+        // notifications are silently suppressed — they fire, but nothing is
+        // ever displayed. Both must be set explicitly.
+        shouldShowBanner: true,
+        shouldShowList: true,
         shouldPlaySound: true,
         shouldSetBadge: false,
       }),

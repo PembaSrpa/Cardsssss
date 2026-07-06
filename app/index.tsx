@@ -148,7 +148,7 @@ export default function HomeScreen(): React.JSX.Element {
           </Text>
         )}
 
-        {notificationsSupported && (
+        {notificationsSupported && notificationsEnabled && (
           <View style={styles.intervalRow}>
             {INTERVAL_PRESET_MINUTES.map((minutes) => {
               const selected = minutes === intervalMinutes;
