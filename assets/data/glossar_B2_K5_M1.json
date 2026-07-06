@@ -5,10 +5,370 @@
   "words": [
     {
       "id": "B2_K5_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Benzinmotor",
+      "plural": "die Benzinmotoren",
+      "meaning": "petrol engine"
+    },
+    {
+      "id": "B2_K5_M1_002",
+      "word": "die Längeneinheit",
+      "plural": "die Längeneinheiten",
+      "meaning": "unit of length"
+    },
+    {
+      "id": "B2_K5_M1_003",
+      "word": "das Mittelalter (Sg.)",
+      "meaning": "Middle Ages"
+    },
+    {
+      "id": "B2_K5_M1_004",
+      "word": "der Flügel (die Flügel eines Vogels)",
+      "plural": "die Flügel",
+      "meaning": "wing ( the wing of a bird)"
+    },
+    {
+      "id": "B2_K5_M1_005",
+      "word": "die Hieroglyphe",
+      "plural": "die Hieroglyphen",
+      "meaning": "hieroglyph"
+    },
+    {
+      "id": "B2_K5_M1_006",
+      "word": "die Kalorie",
+      "plural": "die Kalorien",
+      "meaning": "calorie"
+    },
+    {
+      "id": "B2_K5_M1_007",
+      "word": "die Keilschrift",
+      "plural": "die Keilschriften",
+      "meaning": "cuneiform"
+    },
+    {
+      "id": "B2_K5_M1_008",
+      "word": "die Lebenserwartung",
+      "plural": "die Lebenserwartungen",
+      "meaning": "life expectancy"
+    },
+    {
+      "id": "B2_K5_M1_009",
+      "word": "die Mücke",
+      "plural": "die Mücken",
+      "meaning": "mosquitoes"
+    },
+    {
+      "id": "B2_K5_M1_010",
+      "word": "das Olivenöl",
+      "plural": "die Olivenöle",
+      "meaning": "olive oil"
+    },
+    {
+      "id": "B2_K5_M1_011",
+      "word": "schlagen, schlug, hat geschlagen",
+      "meaning": "hit, hit, hit",
+      "example": "Die Fliege schlägt mit ihren Flügeln."
+    },
+    {
+      "id": "B2_K5_M1_012",
+      "word": "der Speck (Sg.)",
+      "meaning": "bacon"
+    },
+    {
+      "id": "B2_K5_M1_013",
+      "word": "das Quiz",
+      "plural": "die Quiz",
+      "meaning": "the quiz,"
+    },
+    {
+      "id": "B2_K5_M1_014",
+      "word": "Seite 12",
+      "meaning": "page 12"
+    },
+    {
+      "id": "B2_K5_M1_015",
+      "word": "ausgewechselt (sich wie ausgewechselt verhalten)",
+      "meaning": "replaced (as if replaced behavior)"
+    },
+    {
+      "id": "B2_K5_M1_016",
+      "word": "bestmöglich",
+      "meaning": "at best"
+    },
+    {
+      "id": "B2_K5_M1_017",
+      "word": "entfalten (sich)",
+      "meaning": "unfold"
+    },
+    {
+      "id": "B2_K5_M1_018",
+      "word": "hängen, hing, hat gehangen",
+      "meaning": "hang, hung, hung",
+      "example": "an den Lippen hängen"
+    },
+    {
+      "id": "B2_K5_M1_019",
+      "word": "lenken (etw./jmd. in eine Richtung lenken)",
+      "meaning": "steer (steer sth. / so. in one direction)"
+    },
+    {
+      "id": "B2_K5_M1_020",
+      "word": "die Lippe (an den Lippen hängen)",
+      "plural": "die Lippen",
+      "meaning": "the lip, hanging on the lips"
+    },
+    {
+      "id": "B2_K5_M1_021",
+      "word": "die Weiche (die Weichen für etw. stellen)",
+      "plural": "die Weichen",
+      "meaning": "the turnout ( the turnout for sth. put)"
+    },
+    {
+      "id": "B2_K5_M1_022",
+      "word": "abbauen (Scheu abbauen)",
+      "meaning": "dismantle (reduce shyness)"
+    },
+    {
+      "id": "B2_K5_M1_023",
+      "word": "absolvieren",
+      "meaning": "complete"
+    },
+    {
+      "id": "B2_K5_M1_024",
+      "word": "analytisch (eine analytische Fähigkeit)",
+      "meaning": "analytical (an analytical ability)"
+    },
+    {
+      "id": "B2_K5_M1_025",
+      "word": "außergewöhnlich",
+      "meaning": "out of the ordinary"
+    },
+    {
+      "id": "B2_K5_M1_026",
+      "word": "der Becher",
+      "plural": "die Becher",
+      "meaning": "cup"
+    },
+    {
+      "id": "B2_K5_M1_027",
+      "word": "Bedarf (an + D.)",
+      "meaning": "Requirements (for + D.)"
+    },
+    {
+      "id": "B2_K5_M1_028",
+      "word": "die Berufsentscheidung",
+      "plural": "die Berufsentscheidungen",
+      "meaning": "professional decision"
+    },
+    {
+      "id": "B2_K5_M1_029",
+      "word": "einstellen (sich)",
+      "meaning": "adjust (yourself)",
+      "example": "Erfolg stellt sich nicht über Nacht ein."
+    },
+    {
+      "id": "B2_K5_M1_030",
+      "word": "das Experiment",
+      "plural": "die Experimente",
+      "meaning": "experiment"
+    },
+    {
+      "id": "B2_K5_M1_031",
+      "word": "experimentieren",
+      "meaning": "experiment"
+    },
+    {
+      "id": "B2_K5_M1_032",
+      "word": "die Forschungseinrichtung",
+      "plural": "die Forschungseinrichtungen",
+      "meaning": "research facility"
+    },
+    {
+      "id": "B2_K5_M1_033",
+      "word": "geben, gab, hat gegeben",
+      "meaning": "give, gave, gave",
+      "example": "eine Antwort geben"
+    },
+    {
+      "id": "B2_K5_M1_034",
+      "word": "die Gießkanne",
+      "plural": "die Gießkannen",
+      "meaning": "watering can"
+    },
+    {
+      "id": "B2_K5_M1_035",
+      "word": "heranführen (an + A.)",
+      "meaning": "introduce (to + A.)"
+    },
+    {
+      "id": "B2_K5_M1_036",
+      "word": "die Ingenieurwissenschaft",
+      "plural": "die Ingenieurwissenschaften",
+      "meaning": "engineering science"
+    },
+    {
+      "id": "B2_K5_M1_037",
+      "word": "die Initiative",
+      "plural": "die Initiativen",
+      "meaning": "initiative"
+    },
+    {
+      "id": "B2_K5_M1_038",
+      "word": "das Kindergartenalter (Sg.)",
+      "meaning": "kindergarten age"
+    },
+    {
+      "id": "B2_K5_M1_039",
+      "word": "die Kinderzahl",
+      "plural": "die Kinderzahlen",
+      "meaning": "number of children"
+    },
+    {
+      "id": "B2_K5_M1_040",
+      "word": "klagen (über + A.)",
+      "meaning": "complain (about + A.)"
+    },
+    {
+      "id": "B2_K5_M1_041",
+      "word": "die Konzentration (Sg.)",
+      "meaning": "concentration"
+    },
+    {
+      "id": "B2_K5_M1_042",
+      "word": "konzentriert (auf + A.)",
+      "meaning": "concentrated (on + A.)"
+    },
+    {
+      "id": "B2_K5_M1_043",
+      "word": "konzipieren",
+      "meaning": "design"
+    },
+    {
+      "id": "B2_K5_M1_044",
+      "word": "der Laborkittel",
+      "plural": "die Laborkittel",
+      "meaning": "the lab coat,"
+    },
+    {
+      "id": "B2_K5_M1_045",
+      "word": "mathematisch",
+      "meaning": "mathematically"
+    },
+    {
+      "id": "B2_K5_M1_046",
+      "word": "die Nachwuchskraft",
+      "plural": "die Nachwuchskräfte",
+      "meaning": "young talent"
+    },
+    {
+      "id": "B2_K5_M1_047",
+      "word": "die Naturwissenschaft",
+      "plural": "die Naturwissenschaften",
+      "meaning": "natural Sciences"
+    },
+    {
+      "id": "B2_K5_M1_048",
+      "word": "naturwissenschaftlich",
+      "meaning": "scientific"
+    },
+    {
+      "id": "B2_K5_M1_049",
+      "word": "der/die Pädagoge/Pädagogin",
+      "meaning": "pedagogue"
+    },
+    {
+      "id": "B2_K5_M1_050",
+      "word": "das Phänomen",
+      "plural": "die Phänomen",
+      "meaning": "phenomenon"
+    },
+    {
+      "id": "B2_K5_M1_051",
+      "word": "die Pipette",
+      "plural": "die Pipetten",
+      "meaning": "pipette"
+    },
+    {
+      "id": "B2_K5_M1_052",
+      "word": "qualifizieren",
+      "meaning": "to qualify"
+    },
+    {
+      "id": "B2_K5_M1_053",
+      "word": "der Rand",
+      "plural": "die Ränder",
+      "meaning": "edge"
+    },
+    {
+      "id": "B2_K5_M1_054",
+      "word": "die Sache (bei der Sache sein)",
+      "plural": "die Sachen",
+      "meaning": "thing (to be on the thing)"
+    },
+    {
+      "id": "B2_K5_M1_055",
+      "word": "sanft",
+      "meaning": "gently"
+    },
+    {
+      "id": "B2_K5_M1_056",
+      "word": "die Scheu (Sg.)",
+      "meaning": "shyness"
+    },
+    {
+      "id": "B2_K5_M1_057",
+      "word": "schrumpfen",
+      "meaning": "shrink"
+    },
+    {
+      "id": "B2_K5_M1_058",
+      "word": "spritzen",
+      "meaning": "splash"
+    },
+    {
+      "id": "B2_K5_M1_059",
+      "word": "stellen (die Weichen für etw. stellen)",
+      "meaning": "to set the course for sth."
+    },
+    {
+      "id": "B2_K5_M1_060",
+      "word": "überlebenswichtig (für + A.)",
+      "meaning": "essential for survival (for + A.)"
+    },
+    {
+      "id": "B2_K5_M1_061",
+      "word": "umfallen, fiel um, ist umgefallen",
+      "meaning": "fell over, fell over, fell over"
+    },
+    {
+      "id": "B2_K5_M1_062",
+      "word": "das Umfeld",
+      "plural": "die Umfelder",
+      "meaning": "environment"
+    },
+    {
+      "id": "B2_K5_M1_063",
+      "word": "verschärfen",
+      "meaning": "toughen"
+    },
+    {
+      "id": "B2_K5_M1_064",
+      "word": "wackeln",
+      "meaning": "wiggle"
+    },
+    {
+      "id": "B2_K5_M1_065",
+      "word": "wacklig",
+      "meaning": "wobbly"
+    },
+    {
+      "id": "B2_K5_M1_066",
+      "word": "zurückfallen, fällt zurück, ist zurückgefallen",
+      "meaning": "falling back"
+    },
+    {
+      "id": "B2_K5_M1_067",
+      "word": "durchführbar",
+      "meaning": "feasible"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Cardsssss
 
-Learn vocabulary in short, tappable bursts. IELTS words, German der/die/das, and German course glossaries.
+Learn vocabulary in short, tappable bursts. IELTS words, German der/die/das, and German course glossaries - three modules, same habit, ten minutes a day.
 
 ![App screenshot](docs/home.png)
 
@@ -8,7 +8,7 @@ Learn vocabulary in short, tappable bursts. IELTS words, German der/die/das, and
 
 ## The Idea
 
-Vocabulary lists are easy to open once and never again. Cardsssss keeps the loop small: pick a topic, flip or swipe through a stack of words, close the app.
+Vocabulary lists are easy to open once and never again. Cards keeps the loop small: pick a topic, flip or swipe through a stack of words, close the app.
 
 Three modules live side by side because they train different muscles - IELTS is recognition and recall, German articles are pattern instinct, and Glossaries turn a textbook's word list into something you actually review. All three use the same swipeable, thumb-friendly card format.
 

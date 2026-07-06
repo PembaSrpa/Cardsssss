@@ -5,10 +5,234 @@
   "words": [
     {
       "id": "B2_K1_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Vorstellung",
+      "plural": "die Vorstellungen",
+      "meaning": "idea"
+    },
+    {
+      "id": "B2_K1_M1_002",
+      "word": "das Zitat",
+      "plural": "die Zitate",
+      "meaning": "quote"
+    },
+    {
+      "id": "B2_K1_M1_003",
+      "word": "das Fernweh (Sg.)",
+      "meaning": "wanderlust"
+    },
+    {
+      "id": "B2_K1_M1_004",
+      "word": "der Arbeitsvertrag",
+      "plural": "die Arbeitsverträge",
+      "meaning": "employment contract"
+    },
+    {
+      "id": "B2_K1_M1_005",
+      "word": "auflösen (eine Wohnung auflösen)",
+      "meaning": "dissolve (dissolve an apartment)"
+    },
+    {
+      "id": "B2_K1_M1_006",
+      "word": "beantragen",
+      "meaning": "apply for"
+    },
+    {
+      "id": "B2_K1_M1_007",
+      "word": "eröffnen (ein Konto eröffnen)",
+      "meaning": "open (open an account)"
+    },
+    {
+      "id": "B2_K1_M1_008",
+      "word": "der Handyvertrag",
+      "plural": "die Handyverträge",
+      "meaning": "cell phone contract"
+    },
+    {
+      "id": "B2_K1_M1_009",
+      "word": "knüpfen (Kontakte knüpfen)",
+      "meaning": "socialize (socialize)"
+    },
+    {
+      "id": "B2_K1_M1_010",
+      "word": "der Kontakt (Kontakte knüpfen)",
+      "plural": "die Kontakte",
+      "meaning": "contact (make contacts)"
+    },
+    {
+      "id": "B2_K1_M1_011",
+      "word": "der Mietvertrag",
+      "plural": "die Mietverträge",
+      "meaning": "lease"
+    },
+    {
+      "id": "B2_K1_M1_012",
+      "word": "der/die Nachmieter/in",
+      "meaning": "subsequent tenant"
+    },
+    {
+      "id": "B2_K1_M1_013",
+      "word": "abenteuerlich",
+      "meaning": "adventurous"
+    },
+    {
+      "id": "B2_K1_M1_014",
+      "word": "die Arbeitserlaubnis",
+      "plural": "die Arbeitserlaubnisse",
+      "meaning": "the work permit"
+    },
+    {
+      "id": "B2_K1_M1_015",
+      "word": "aufgeregt",
+      "meaning": "excited"
+    },
+    {
+      "id": "B2_K1_M1_016",
+      "word": "die Auslandserfahrung",
+      "plural": "die Auslandserfahrungen",
+      "meaning": "the experience abroad"
+    },
+    {
+      "id": "B2_K1_M1_017",
+      "word": "auswandern (nach + D.)",
+      "meaning": "emigrate"
+    },
+    {
+      "id": "B2_K1_M1_018",
+      "word": "bereuen",
+      "meaning": "to regret"
+    },
+    {
+      "id": "B2_K1_M1_019",
+      "word": "der Blog",
+      "plural": "die Blogs",
+      "meaning": "blog"
+    },
+    {
+      "id": "B2_K1_M1_020",
+      "word": "einleben (sich)",
+      "meaning": "settle in"
+    },
+    {
+      "id": "B2_K1_M1_021",
+      "word": "die Erfahrung",
+      "plural": "die Erfahrungen",
+      "meaning": "experience"
+    },
+    {
+      "id": "B2_K1_M1_022",
+      "word": "erweitern (den Horizont erweitern)",
+      "meaning": "broaden (broaden the horizon)"
+    },
+    {
+      "id": "B2_K1_M1_023",
+      "word": "gestresst (von + D.)",
+      "meaning": "stressed"
+    },
+    {
+      "id": "B2_K1_M1_024",
+      "word": "der/die Grafiker/in",
+      "meaning": "graphic artist"
+    },
+    {
+      "id": "B2_K1_M1_025",
+      "word": "der Horizont (den Horizont erweitern)",
+      "plural": "die Horizonte",
+      "meaning": "horizon (broaden the horizon)"
+    },
+    {
+      "id": "B2_K1_M1_026",
+      "word": "leichtfallen, fiel leicht, ist leichtgefallen",
+      "meaning": "easy falling"
+    },
+    {
+      "id": "B2_K1_M1_027",
+      "word": "machen (die Erfahrung machen)",
+      "meaning": "make (experience)"
+    },
+    {
+      "id": "B2_K1_M1_028",
+      "word": "mittlerweile",
+      "meaning": "meanwhile"
+    },
+    {
+      "id": "B2_K1_M1_029",
+      "word": "netterweise",
+      "meaning": "kindly"
+    },
+    {
+      "id": "B2_K1_M1_030",
+      "word": "riskieren",
+      "meaning": "take risk"
+    },
+    {
+      "id": "B2_K1_M1_031",
+      "word": "schaffen",
+      "meaning": "create",
+      "example": "Peer hat gestern die Führerscheinprüfung geschafft."
+    },
+    {
+      "id": "B2_K1_M1_032",
+      "word": "sehnsüchtig (nach + D.)",
+      "meaning": "longing"
+    },
+    {
+      "id": "B2_K1_M1_033",
+      "word": "spontan",
+      "meaning": "spontaneous"
+    },
+    {
+      "id": "B2_K1_M1_034",
+      "word": "wagen",
+      "meaning": "dare"
+    },
+    {
+      "id": "B2_K1_M1_035",
+      "word": "die Wohnungssuche",
+      "plural": "die Wohnungssuchen",
+      "meaning": "looking for an apartment, -n"
+    },
+    {
+      "id": "B2_K1_M1_036",
+      "word": "zwischendurch",
+      "meaning": "between"
+    },
+    {
+      "id": "B2_K1_M1_037",
+      "word": "empfinden, empfand, hat empfunden",
+      "meaning": "feel, felt, felt"
+    },
+    {
+      "id": "B2_K1_M1_038",
+      "word": "die Faustregel",
+      "plural": "die Faustregeln",
+      "meaning": "the rule of thumb"
+    },
+    {
+      "id": "B2_K1_M1_039",
+      "word": "die Merkformel",
+      "plural": "die Merkformeln",
+      "meaning": "memo"
+    },
+    {
+      "id": "B2_K1_M1_040",
+      "word": "die Position",
+      "plural": "die Positionen",
+      "meaning": "position"
+    },
+    {
+      "id": "B2_K1_M1_041",
+      "word": "ständig",
+      "meaning": "all the time"
+    },
+    {
+      "id": "B2_K1_M1_042",
+      "word": "zerschneiden, zerschnitt, hat",
+      "meaning": "cut, cut, has"
+    },
+    {
+      "id": "B2_K1_M1_043",
+      "word": "zerschnitten",
+      "meaning": "cut"
     }
   ]
 }

@@ -5,10 +5,105 @@
   "words": [
     {
       "id": "B2_K2_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Basis",
+      "meaning": "base"
+    },
+    {
+      "id": "B2_K2_M3_002",
+      "word": "entspannt",
+      "meaning": "relaxed"
+    },
+    {
+      "id": "B2_K2_M3_003",
+      "word": "das Teilthema",
+      "plural": "die Teilthemathemen",
+      "meaning": "subtopic"
+    },
+    {
+      "id": "B2_K2_M3_004",
+      "word": "gehen, ging, ist gegangen (auf Nummer sicher gehen)",
+      "meaning": "go (on the numberplay it safe)"
+    },
+    {
+      "id": "B2_K2_M3_005",
+      "word": "gründlich",
+      "meaning": "thoroughly"
+    },
+    {
+      "id": "B2_K2_M3_006",
+      "word": "die Lage (in der Lage sein)",
+      "plural": "die Lagen",
+      "meaning": "location(to be able)"
+    },
+    {
+      "id": "B2_K2_M3_007",
+      "word": "die Nummer",
+      "plural": "die Nummern",
+      "meaning": "number",
+      "example": "auf Nummer sicher gehen"
+    },
+    {
+      "id": "B2_K2_M3_008",
+      "word": "das Talent",
+      "plural": "die Talente",
+      "meaning": "talent"
+    },
+    {
+      "id": "B2_K2_M3_009",
+      "word": "eilig (es eilig haben)",
+      "meaning": "in a hurry (in a hurry)"
+    },
+    {
+      "id": "B2_K2_M3_010",
+      "word": "donnern",
+      "meaning": "thunder"
+    },
+    {
+      "id": "B2_K2_M3_011",
+      "word": "ernst meinen",
+      "meaning": "to be serious"
+    },
+    {
+      "id": "B2_K2_M3_012",
+      "word": "lexikalisch",
+      "meaning": "lexical"
+    },
+    {
+      "id": "B2_K2_M3_013",
+      "word": "die Naturerscheinung",
+      "plural": "die Naturerscheinungen",
+      "meaning": "natural phenomenon"
+    },
+    {
+      "id": "B2_K2_M3_014",
+      "word": "die Zeiterscheinung",
+      "plural": "die Zeiterscheinungen",
+      "meaning": "time phenomenon"
+    },
+    {
+      "id": "B2_K2_M3_015",
+      "word": "nichtssagend",
+      "meaning": "meaningless"
+    },
+    {
+      "id": "B2_K2_M3_016",
+      "word": "der/die Stellvertreter/in",
+      "meaning": "the deputy"
+    },
+    {
+      "id": "B2_K2_M3_017",
+      "word": "verwunderlich",
+      "meaning": "surprising"
+    },
+    {
+      "id": "B2_K2_M3_018",
+      "word": "ratsam",
+      "meaning": "advisable"
+    },
+    {
+      "id": "B2_K2_M3_019",
+      "word": "witzig",
+      "meaning": "funny"
     }
   ]
 }

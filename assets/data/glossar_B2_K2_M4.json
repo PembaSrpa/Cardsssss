@@ -5,10 +5,578 @@
   "words": [
     {
       "id": "B2_K2_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "austeilen (Kritik austeilen)",
+      "meaning": "Hand out (hand out criticism)"
+    },
+    {
+      "id": "B2_K2_M4_002",
+      "word": "die Berufsschule",
+      "plural": "die Berufsschulen",
+      "meaning": "vocational school"
+    },
+    {
+      "id": "B2_K2_M4_003",
+      "word": "draufhauen",
+      "meaning": "slap on"
+    },
+    {
+      "id": "B2_K2_M4_004",
+      "word": "einstecken (Kritik einstecken)",
+      "meaning": "insert (insert criticism)"
+    },
+    {
+      "id": "B2_K2_M4_005",
+      "word": "der/die Gepäckermittler/in",
+      "meaning": "baggage investigator"
+    },
+    {
+      "id": "B2_K2_M4_006",
+      "word": "der/die Kabarettist/in",
+      "meaning": "cabaret artist"
+    },
+    {
+      "id": "B2_K2_M4_007",
+      "word": "die Kritik (Kritik austeilen/einstecken)",
+      "plural": "die Kritiken",
+      "meaning": "criticism (handing out / receiving criticism)"
+    },
+    {
+      "id": "B2_K2_M4_008",
+      "word": "nehmen, nahm, hat genommen (etw. persönlich nehmen)",
+      "meaning": "take(sth.take personal)"
+    },
+    {
+      "id": "B2_K2_M4_009",
+      "word": "der Respekt (Sg.)",
+      "meaning": "respect"
+    },
+    {
+      "id": "B2_K2_M4_010",
+      "word": "ruhig",
+      "meaning": "calm",
+      "example": "Bleiben Sie ruhig und regen Sie sich nicht auf."
+    },
+    {
+      "id": "B2_K2_M4_011",
+      "word": "touren",
+      "meaning": "tour"
+    },
+    {
+      "id": "B2_K2_M4_012",
+      "word": "zusammengehören",
+      "meaning": "go together"
+    },
+    {
+      "id": "B2_K2_M4_013",
+      "word": "üben (Kritik üben)",
+      "meaning": "practice (criticize)"
+    },
+    {
+      "id": "B2_K2_M4_014",
+      "word": "aggressiv",
+      "meaning": "aggressive"
+    },
+    {
+      "id": "B2_K2_M4_015",
+      "word": "auffordern (zu + D.)",
+      "meaning": "prompt"
+    },
+    {
+      "id": "B2_K2_M4_016",
+      "word": "blamieren (sich) (vor + D.)",
+      "meaning": "disgrace"
+    },
+    {
+      "id": "B2_K2_M4_017",
+      "word": "das Mitleid (Sg.)",
+      "meaning": "pity"
+    },
+    {
+      "id": "B2_K2_M4_018",
+      "word": "die Verbesserung",
+      "plural": "die Verbesserungen",
+      "meaning": "improvement"
+    },
+    {
+      "id": "B2_K2_M4_019",
+      "word": "verschuldet",
+      "meaning": "indebted"
+    },
+    {
+      "id": "B2_K2_M4_020",
+      "word": "hinhören",
+      "meaning": "listen"
+    },
+    {
+      "id": "B2_K2_M4_021",
+      "word": "der Konsens (Sg.)",
+      "meaning": "consensus"
+    },
+    {
+      "id": "B2_K2_M4_022",
+      "word": "die Sache (bei der Sache bleiben)",
+      "plural": "die Sachen",
+      "meaning": "thing (stick with the thing)"
+    },
+    {
+      "id": "B2_K2_M4_023",
+      "word": "die Schwäche",
+      "plural": "die Schwächen",
+      "meaning": "weaknesses"
+    },
+    {
+      "id": "B2_K2_M4_024",
+      "word": "die Aufgabenteilung",
+      "plural": "die Aufgabenteilungen",
+      "meaning": "division of tasks"
+    },
+    {
+      "id": "B2_K2_M4_025",
+      "word": "auslösen (einen Streit auslösen)",
+      "meaning": "trigger (trigger a dispute)"
+    },
+    {
+      "id": "B2_K2_M4_026",
+      "word": "die Aussicht (die Aussicht auf Erfolg)",
+      "plural": "die Aussichten",
+      "meaning": "the prospect( the prospect of success)"
+    },
+    {
+      "id": "B2_K2_M4_027",
+      "word": "der Austausch (Sg.)",
+      "meaning": "exchange"
+    },
+    {
+      "id": "B2_K2_M4_028",
+      "word": "die Bank",
+      "plural": "die Bänke",
+      "meaning": "bank",
+      "example": "auf die lange Bank schieben"
+    },
+    {
+      "id": "B2_K2_M4_029",
+      "word": "destruktiv",
+      "meaning": "destructive"
+    },
+    {
+      "id": "B2_K2_M4_030",
+      "word": "dreckig",
+      "meaning": "dirty"
+    },
+    {
+      "id": "B2_K2_M4_031",
+      "word": "der Druck (Sg.) (unter Druck stehen)",
+      "meaning": "pressure (to be under pressure)"
+    },
+    {
+      "id": "B2_K2_M4_032",
+      "word": "die Erledigung",
+      "plural": "die Erledigungen",
+      "meaning": "completion"
+    },
+    {
+      "id": "B2_K2_M4_033",
+      "word": "erzeugen",
+      "meaning": "produce"
+    },
+    {
+      "id": "B2_K2_M4_034",
+      "word": "die Erziehungsfragen (Pl.)",
+      "meaning": "educational questions (pl.)"
+    },
+    {
+      "id": "B2_K2_M4_035",
+      "word": "hinnehmen, nahm hin, hat hingenommen",
+      "meaning": "to accept"
+    },
+    {
+      "id": "B2_K2_M4_036",
+      "word": "hitzig",
+      "meaning": "heatedly"
+    },
+    {
+      "id": "B2_K2_M4_037",
+      "word": "die Konfliktlösung",
+      "plural": "die Konfliktlösungen",
+      "meaning": "conflict resolution"
+    },
+    {
+      "id": "B2_K2_M4_038",
+      "word": "konkret",
+      "meaning": "concrete"
+    },
+    {
+      "id": "B2_K2_M4_039",
+      "word": "konstruktiv",
+      "meaning": "constructive"
+    },
+    {
+      "id": "B2_K2_M4_040",
+      "word": "die Linie (in erster Linie)",
+      "plural": "die Linien",
+      "meaning": "line (primarily)"
+    },
+    {
+      "id": "B2_K2_M4_041",
+      "word": "die Problemlösung",
+      "plural": "die Problemlösungen",
+      "meaning": "problem solving"
+    },
+    {
+      "id": "B2_K2_M4_042",
+      "word": "das Resümee (ein Resümee ziehen)",
+      "plural": "die Resümees",
+      "meaning": "resume(draw a resume)"
+    },
+    {
+      "id": "B2_K2_M4_043",
+      "word": "sicherlich",
+      "meaning": "definitely"
+    },
+    {
+      "id": "B2_K2_M4_044",
+      "word": "der Spielraum",
+      "plural": "die Spielraüme",
+      "meaning": "scope"
+    },
+    {
+      "id": "B2_K2_M4_045",
+      "word": "tatsächlich",
+      "meaning": "indeed"
+    },
+    {
+      "id": "B2_K2_M4_046",
+      "word": "der/die Therapeut/in",
+      "meaning": "therapist"
+    },
+    {
+      "id": "B2_K2_M4_047",
+      "word": "das Türenknallen (Sg.)",
+      "meaning": "door slamming"
+    },
+    {
+      "id": "B2_K2_M4_048",
+      "word": "die Unstimmigkeit",
+      "plural": "die Unstimmigkeiten",
+      "meaning": "inconsistency"
+    },
+    {
+      "id": "B2_K2_M4_049",
+      "word": "die Verteilung",
+      "plural": "die Verteilungen",
+      "meaning": "distribution"
+    },
+    {
+      "id": "B2_K2_M4_050",
+      "word": "vorkommen, kam vor, ist vorgekommen",
+      "meaning": "occur",
+      "example": "Streit kommt in den besten Familien vor."
+    },
+    {
+      "id": "B2_K2_M4_051",
+      "word": "der Vorwurf",
+      "plural": "die Vorwürfe",
+      "meaning": "accusation"
+    },
+    {
+      "id": "B2_K2_M4_052",
+      "word": "ziehen, zog, hat gezogen",
+      "meaning": "to pull",
+      "example": "ein Resümee ziehen"
+    },
+    {
+      "id": "B2_K2_M4_053",
+      "word": "der Ausgang (Sg.)",
+      "meaning": "the exit",
+      "example": "Welchen Ausgang hat die Geschichte?"
+    },
+    {
+      "id": "B2_K2_M4_054",
+      "word": "nerven",
+      "meaning": "annoy"
+    },
+    {
+      "id": "B2_K2_M4_055",
+      "word": "das Tagebuch",
+      "plural": "die Tagebücher",
+      "meaning": "diary"
+    },
+    {
+      "id": "B2_K2_M4_056",
+      "word": "berücksichtigen",
+      "meaning": "Take into account"
+    },
+    {
+      "id": "B2_K2_M4_057",
+      "word": "der/die Bibliothekar/in",
+      "meaning": "librarian"
+    },
+    {
+      "id": "B2_K2_M4_058",
+      "word": "das Cello",
+      "meaning": "the cello, celli"
+    },
+    {
+      "id": "B2_K2_M4_059",
+      "word": "hektisch",
+      "meaning": "hectic"
+    },
+    {
+      "id": "B2_K2_M4_060",
+      "word": "die Ich-Botschaft",
+      "plural": "die Ich-Botschaften",
+      "meaning": "ego message"
+    },
+    {
+      "id": "B2_K2_M4_061",
+      "word": "die Mitschrift",
+      "plural": "die Mitschriften",
+      "meaning": "transcript"
+    },
+    {
+      "id": "B2_K2_M4_062",
+      "word": "nehmen, nahm, hat genommen",
+      "meaning": "take (consider)",
+      "example": "Rücksicht nehmen"
+    },
+    {
+      "id": "B2_K2_M4_063",
+      "word": "die Probe",
+      "plural": "die Proben",
+      "meaning": "Samples"
+    },
+    {
+      "id": "B2_K2_M4_064",
+      "word": "der Probenraum",
+      "plural": "die Probenraüme",
+      "meaning": "rehearsal room"
+    },
+    {
+      "id": "B2_K2_M4_065",
+      "word": "die Rücksicht (Sg.) (auf etw./jmd. Rücksicht nehmen)",
+      "meaning": "consideration (on sth. / so. Take care)"
+    },
+    {
+      "id": "B2_K2_M4_066",
+      "word": "das Seminar",
+      "plural": "die Seminare",
+      "meaning": "seminar"
+    },
+    {
+      "id": "B2_K2_M4_067",
+      "word": "der Strandurlaub",
+      "plural": "die Strandurlaube",
+      "meaning": "beach vacation"
+    },
+    {
+      "id": "B2_K2_M4_068",
+      "word": "der/die Telefonist/in",
+      "meaning": "operator"
+    },
+    {
+      "id": "B2_K2_M4_069",
+      "word": "die Umschulung",
+      "plural": "die Umschulungen",
+      "meaning": "retraining"
+    },
+    {
+      "id": "B2_K2_M4_070",
+      "word": "verlangen",
+      "meaning": "desire"
+    },
+    {
+      "id": "B2_K2_M4_071",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K2_M4_072",
+      "word": "abgesehen (von + D.)",
+      "meaning": "apart from"
+    },
+    {
+      "id": "B2_K2_M4_073",
+      "word": "bewusst (sich einer Sache bewusst sein)",
+      "meaning": "aware (to be aware of one thing)"
+    },
+    {
+      "id": "B2_K2_M4_074",
+      "word": "brillieren (mit + D.)",
+      "meaning": "shine"
+    },
+    {
+      "id": "B2_K2_M4_075",
+      "word": "daherkommen, kam daher, ist dahergekommen",
+      "meaning": "come along"
+    },
+    {
+      "id": "B2_K2_M4_076",
+      "word": "die Dringlichkeit",
+      "plural": "die Dringlichkeiten",
+      "meaning": "urgency"
+    },
+    {
+      "id": "B2_K2_M4_077",
+      "word": "gezeichnet sein",
+      "meaning": "be drawn"
+    },
+    {
+      "id": "B2_K2_M4_078",
+      "word": "die Gunst",
+      "plural": "die Günste",
+      "meaning": "favor"
+    },
+    {
+      "id": "B2_K2_M4_079",
+      "word": "hervorragend",
+      "meaning": "outstanding"
+    },
+    {
+      "id": "B2_K2_M4_080",
+      "word": "der Indie-Pop (Sg.)",
+      "meaning": "indie pop"
+    },
+    {
+      "id": "B2_K2_M4_081",
+      "word": "klatschen",
+      "meaning": "clap"
+    },
+    {
+      "id": "B2_K2_M4_082",
+      "word": "der/die Komponist/in",
+      "meaning": "composer"
+    },
+    {
+      "id": "B2_K2_M4_083",
+      "word": "die Last",
+      "plural": "die Lasten",
+      "meaning": "burden"
+    },
+    {
+      "id": "B2_K2_M4_084",
+      "word": "die Macht",
+      "plural": "die Machten",
+      "meaning": "power"
+    },
+    {
+      "id": "B2_K2_M4_085",
+      "word": "phrasieren",
+      "meaning": "phrasing"
+    },
+    {
+      "id": "B2_K2_M4_086",
+      "word": "platt",
+      "meaning": "flat"
+    },
+    {
+      "id": "B2_K2_M4_087",
+      "word": "poetisch",
+      "meaning": "poetic"
+    },
+    {
+      "id": "B2_K2_M4_088",
+      "word": "das Schicksal",
+      "plural": "die Schicksale",
+      "meaning": "fate"
+    },
+    {
+      "id": "B2_K2_M4_089",
+      "word": "smart",
+      "meaning": "smart"
+    },
+    {
+      "id": "B2_K2_M4_090",
+      "word": "spüren",
+      "meaning": "feel"
+    },
+    {
+      "id": "B2_K2_M4_091",
+      "word": "systematisch",
+      "meaning": "systematic"
+    },
+    {
+      "id": "B2_K2_M4_092",
+      "word": "unbedingt",
+      "meaning": "absolutely"
+    },
+    {
+      "id": "B2_K2_M4_093",
+      "word": "ungefragt",
+      "meaning": "unasked"
+    },
+    {
+      "id": "B2_K2_M4_094",
+      "word": "der Wahrnehmungsbereich",
+      "plural": "die Wahrnehmungsbereiche",
+      "meaning": "area of perception"
+    },
+    {
+      "id": "B2_K2_M4_095",
+      "word": "der Walzer",
+      "plural": "die Walzer",
+      "meaning": "Waltz"
+    },
+    {
+      "id": "B2_K2_M4_096",
+      "word": "die Zugabe",
+      "plural": "die Zugaben",
+      "meaning": "encore"
+    },
+    {
+      "id": "B2_K2_M4_097",
+      "word": "zugleich",
+      "meaning": "at the same time"
+    },
+    {
+      "id": "B2_K2_M4_098",
+      "word": "zurückkehren",
+      "meaning": "to return"
+    },
+    {
+      "id": "B2_K2_M4_099",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K2_M4_100",
+      "word": "abgesehen (es auf jmd./etw. abgesehen haben)",
+      "meaning": "apart from (apart from so./sth to have)"
+    },
+    {
+      "id": "B2_K2_M4_101",
+      "word": "blitzen",
+      "meaning": "flash"
+    },
+    {
+      "id": "B2_K2_M4_102",
+      "word": "gewittern",
+      "meaning": "gewittern"
+    },
+    {
+      "id": "B2_K2_M4_103",
+      "word": "hageln",
+      "meaning": "hail"
+    },
+    {
+      "id": "B2_K2_M4_104",
+      "word": "nieseln",
+      "meaning": "drizzle"
+    },
+    {
+      "id": "B2_K2_M4_105",
+      "word": "obligatorisch (für + A.)",
+      "meaning": "mandatory"
+    },
+    {
+      "id": "B2_K2_M4_106",
+      "word": "stürmen",
+      "meaning": "storm"
+    },
+    {
+      "id": "B2_K2_M4_107",
+      "word": "ziehen, zog, hat gezogen",
+      "meaning": "pull",
+      "example": "Es zieht. Mach bitte das Fenster zu."
     }
   ]
 }

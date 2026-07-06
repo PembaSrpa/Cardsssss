@@ -5,10 +5,365 @@
   "words": [
     {
       "id": "B2_K5_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "ansiedeln (in + D.)",
+      "meaning": "1b"
+    },
+    {
+      "id": "B2_K5_M3_002",
+      "word": "die Atomenergie",
+      "plural": "die Atomenergien",
+      "meaning": "atomic energy"
+    },
+    {
+      "id": "B2_K5_M3_003",
+      "word": "das Atomkraftwerk",
+      "plural": "die Atomkraftwerke",
+      "meaning": "nuclear power plant"
+    },
+    {
+      "id": "B2_K5_M3_004",
+      "word": "der Atommeiler",
+      "plural": "die Atommeiler",
+      "meaning": "nuclear kiln"
+    },
+    {
+      "id": "B2_K5_M3_005",
+      "word": "der Aufbau (Sg.)",
+      "meaning": "structure"
+    },
+    {
+      "id": "B2_K5_M3_006",
+      "word": "aufhalten, hielt auf, hat aufgehalten",
+      "meaning": "stop"
+    },
+    {
+      "id": "B2_K5_M3_007",
+      "word": "auftanken",
+      "meaning": "refuel"
+    },
+    {
+      "id": "B2_K5_M3_008",
+      "word": "ausfallen, fiel aus, ist ausgefallen",
+      "meaning": "fail, fell, has failed",
+      "example": "Der Strom ist heute für eine Stunde ausgefallen."
+    },
+    {
+      "id": "B2_K5_M3_009",
+      "word": "auskommen, kam aus, ist ausgekommen",
+      "meaning": "get along, got along, got along",
+      "example": "mit/ohne jmd. gut/schlecht auskommen"
+    },
+    {
+      "id": "B2_K5_M3_010",
+      "word": "die Bahn (freie Bahn haben)",
+      "plural": "die Bahnen",
+      "meaning": "the train (s) (have free track)"
+    },
+    {
+      "id": "B2_K5_M3_011",
+      "word": "die Bakterie",
+      "plural": "die Bakterien",
+      "meaning": "bacteria"
+    },
+    {
+      "id": "B2_K5_M3_012",
+      "word": "das Bauwerk",
+      "plural": "die Bauwerke",
+      "meaning": "building"
+    },
+    {
+      "id": "B2_K5_M3_013",
+      "word": "bedroht",
+      "meaning": "threatened"
+    },
+    {
+      "id": "B2_K5_M3_014",
+      "word": "das Blei",
+      "plural": "die Bleie",
+      "meaning": "lead"
+    },
+    {
+      "id": "B2_K5_M3_015",
+      "word": "der Damm",
+      "plural": "die Dämme",
+      "meaning": "dam"
+    },
+    {
+      "id": "B2_K5_M3_016",
+      "word": "deprimierend",
+      "meaning": "depressing"
+    },
+    {
+      "id": "B2_K5_M3_017",
+      "word": "dramatisch",
+      "meaning": "dramatic"
+    },
+    {
+      "id": "B2_K5_M3_018",
+      "word": "einstürzen",
+      "meaning": "collapse"
+    },
+    {
+      "id": "B2_K5_M3_019",
+      "word": "der/die Forscher/in",
+      "meaning": "the researcher"
+    },
+    {
+      "id": "B2_K5_M3_020",
+      "word": "gesamt",
+      "meaning": "total"
+    },
+    {
+      "id": "B2_K5_M3_021",
+      "word": "geschützt",
+      "meaning": "protected"
+    },
+    {
+      "id": "B2_K5_M3_022",
+      "word": "der/die Gewinner/in",
+      "meaning": "the winner"
+    },
+    {
+      "id": "B2_K5_M3_023",
+      "word": "der Griff",
+      "plural": "die Griffe",
+      "meaning": "the handle",
+      "example": "etw./jmd. fest im Griff haben"
+    },
+    {
+      "id": "B2_K5_M3_024",
+      "word": "das Grundwasser (Sg.)",
+      "meaning": "groundwater"
+    },
+    {
+      "id": "B2_K5_M3_025",
+      "word": "hinterlassen, hinterließ, hat hinterlassen",
+      "meaning": "left behind, left behind, left behind"
+    },
+    {
+      "id": "B2_K5_M3_026",
+      "word": "intakt",
+      "meaning": "intact"
+    },
+    {
+      "id": "B2_K5_M3_027",
+      "word": "die Kakerlake",
+      "plural": "die Kakerlaken",
+      "meaning": "cockroach"
+    },
+    {
+      "id": "B2_K5_M3_028",
+      "word": "der/die Kämpfer/in",
+      "meaning": "fighter"
+    },
+    {
+      "id": "B2_K5_M3_029",
+      "word": "das Kraftwerk",
+      "plural": "die Kraftwerke",
+      "meaning": "power plant"
+    },
+    {
+      "id": "B2_K5_M3_030",
+      "word": "das Kühlsystem",
+      "plural": "die Kühlsysteme",
+      "meaning": "cooling system"
+    },
+    {
+      "id": "B2_K5_M3_031",
+      "word": "langlebig",
+      "meaning": "durable"
+    },
+    {
+      "id": "B2_K5_M3_032",
+      "word": "die Laus",
+      "plural": "die Laüse",
+      "meaning": "the louse, \"-e"
+    },
+    {
+      "id": "B2_K5_M3_033",
+      "word": "die Notversorgung",
+      "plural": "die Notversorgungen",
+      "meaning": "emergency care, -en"
+    },
+    {
+      "id": "B2_K5_M3_034",
+      "word": "der/die Ökologe/Ökologin",
+      "meaning": "the ecologist"
+    },
+    {
+      "id": "B2_K5_M3_035",
+      "word": "die Orientierung",
+      "plural": "die Orientierungen",
+      "meaning": "the orientation, -en"
+    },
+    {
+      "id": "B2_K5_M3_036",
+      "word": "der Planet",
+      "plural": "die Planeten",
+      "meaning": "the planet, -en"
+    },
+    {
+      "id": "B2_K5_M3_037",
+      "word": "die Plastiktüte",
+      "plural": "die Plastiktüten",
+      "meaning": "the plastic bag, -n"
+    },
+    {
+      "id": "B2_K5_M3_038",
+      "word": "das Plutonium (Sg.)",
+      "meaning": "plutonium"
+    },
+    {
+      "id": "B2_K5_M3_039",
+      "word": "die Prognose",
+      "plural": "die Prognosen",
+      "meaning": "forecast"
+    },
+    {
+      "id": "B2_K5_M3_040",
+      "word": "die Pumpe",
+      "plural": "die Pumpen",
+      "meaning": "pumps"
+    },
+    {
+      "id": "B2_K5_M3_041",
+      "word": "radioaktiv",
+      "meaning": "radioactive"
+    },
+    {
+      "id": "B2_K5_M3_042",
+      "word": "die Ratte",
+      "plural": "die Ratten",
+      "meaning": "rats"
+    },
+    {
+      "id": "B2_K5_M3_043",
+      "word": "romantisch",
+      "meaning": "romantic"
+    },
+    {
+      "id": "B2_K5_M3_044",
+      "word": "die Schätzung",
+      "plural": "die Schätzungen",
+      "meaning": "estimate"
+    },
+    {
+      "id": "B2_K5_M3_045",
+      "word": "sichtbar (für + A.)",
+      "meaning": "visible (for + A.)"
+    },
+    {
+      "id": "B2_K5_M3_046",
+      "word": "die Spezies",
+      "meaning": "the species, species"
+    },
+    {
+      "id": "B2_K5_M3_047",
+      "word": "stehen, stand, hat gestanden",
+      "meaning": "stand, stand, stood",
+      "example": "unter Wasser stehen"
+    },
+    {
+      "id": "B2_K5_M3_048",
+      "word": "stimmen (jmd. romantisch stimmen)",
+      "meaning": "vote (so-called romantic vote)"
+    },
+    {
+      "id": "B2_K5_M3_049",
+      "word": "die Stromleitung",
+      "plural": "die Stromleitungen",
+      "meaning": "power line"
+    },
+    {
+      "id": "B2_K5_M3_050",
+      "word": "die Struktur",
+      "plural": "die Strukturen",
+      "meaning": "structure"
+    },
+    {
+      "id": "B2_K5_M3_051",
+      "word": "der/die Techniker/in",
+      "meaning": "technician"
+    },
+    {
+      "id": "B2_K5_M3_052",
+      "word": "der Tunnel",
+      "plural": "die Tunnels",
+      "meaning": "tunnel"
+    },
+    {
+      "id": "B2_K5_M3_053",
+      "word": "der Überblick (Sg.)",
+      "meaning": "overview",
+      "example": "sich einen Überblick verschaffen"
+    },
+    {
+      "id": "B2_K5_M3_054",
+      "word": "überleben",
+      "meaning": "to survive"
+    },
+    {
+      "id": "B2_K5_M3_055",
+      "word": "der Überrest",
+      "plural": "die Überreste",
+      "meaning": "remnant"
+    },
+    {
+      "id": "B2_K5_M3_056",
+      "word": "vergehen, verging, ist vergangen",
+      "meaning": "pass, pass, has passed"
+    },
+    {
+      "id": "B2_K5_M3_057",
+      "word": "der/die Verlierer/in",
+      "meaning": "loser"
+    },
+    {
+      "id": "B2_K5_M3_058",
+      "word": "vermehren",
+      "meaning": "multiply"
+    },
+    {
+      "id": "B2_K5_M3_059",
+      "word": "versinken, versank, ist versunken",
+      "meaning": "sink, sink, is sunk"
+    },
+    {
+      "id": "B2_K5_M3_060",
+      "word": "die Vision",
+      "plural": "die Visionen",
+      "meaning": "vision"
+    },
+    {
+      "id": "B2_K5_M3_061",
+      "word": "wegwerfen, warf weg, hat weggeworfen",
+      "meaning": "throw away, threw away, threw away"
+    },
+    {
+      "id": "B2_K5_M3_062",
+      "word": "der Zerfall (Sg.)",
+      "meaning": "decay"
+    },
+    {
+      "id": "B2_K5_M3_063",
+      "word": "zerfallen, zerfiel, ist zerfallen",
+      "meaning": "crumbled, crumbled, crumbled"
+    },
+    {
+      "id": "B2_K5_M3_064",
+      "word": "zurückerobern",
+      "meaning": "recapture"
+    },
+    {
+      "id": "B2_K5_M3_065",
+      "word": "1d übereinstimmen (mit + D.)",
+      "meaning": "1d match (with + D.)"
+    },
+    {
+      "id": "B2_K5_M3_066",
+      "word": "der Charakter (Sg.)",
+      "meaning": "the character",
+      "example": "Diese Aussage hat einen sehr allgemeinen Charakter."
     }
   ]
 }

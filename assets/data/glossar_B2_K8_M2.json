@@ -5,10 +5,232 @@
   "words": [
     {
       "id": "B2_K8_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Amt",
+      "plural": "die Ämter",
+      "meaning": "the office",
+      "example": "aus einem Amt entlassen werden"
+    },
+    {
+      "id": "B2_K8_M2_002",
+      "word": "arbeitsfrei",
+      "meaning": "day off"
+    },
+    {
+      "id": "B2_K8_M2_003",
+      "word": "ausgezeichnet (für + A.)",
+      "meaning": "excellent (for + A.)"
+    },
+    {
+      "id": "B2_K8_M2_004",
+      "word": "die Beteiligung (an + D.)",
+      "plural": "die Beteiligungen",
+      "meaning": "participation(to + D.)"
+    },
+    {
+      "id": "B2_K8_M2_005",
+      "word": "der/die Bundeskanzler/in",
+      "meaning": "Federal Chancellor"
+    },
+    {
+      "id": "B2_K8_M2_006",
+      "word": "die Bundestagsfraktion",
+      "plural": "die Bundestagsfraktionen",
+      "meaning": "parliamentary group"
+    },
+    {
+      "id": "B2_K8_M2_007",
+      "word": "die Bundestagswahl",
+      "plural": "die Bundestagswahlen",
+      "meaning": "general election"
+    },
+    {
+      "id": "B2_K8_M2_008",
+      "word": "distanzieren (sich) (von + D.)",
+      "meaning": "to distance oneself (from + D.)"
+    },
+    {
+      "id": "B2_K8_M2_009",
+      "word": "der Ehrentag",
+      "plural": "die Ehrentage",
+      "meaning": "day of honor"
+    },
+    {
+      "id": "B2_K8_M2_010",
+      "word": "die Entfernung",
+      "plural": "die Entfernungen",
+      "meaning": "distance"
+    },
+    {
+      "id": "B2_K8_M2_011",
+      "word": "entlassen, entließ, hat entlassen",
+      "meaning": "fired, fired, fired"
+    },
+    {
+      "id": "B2_K8_M2_012",
+      "word": "die Fachwelt (Sg.)",
+      "meaning": "professional world"
+    },
+    {
+      "id": "B2_K8_M2_013",
+      "word": "gesetzlich",
+      "meaning": "legally"
+    },
+    {
+      "id": "B2_K8_M2_014",
+      "word": "die Gründung",
+      "plural": "die Gründungen",
+      "meaning": "foundation"
+    },
+    {
+      "id": "B2_K8_M2_015",
+      "word": "die Hilfsorganisation",
+      "plural": "die Hilfsorganisationen",
+      "meaning": "aid organization"
+    },
+    {
+      "id": "B2_K8_M2_016",
+      "word": "immerwährend",
+      "meaning": "perennial"
+    },
+    {
+      "id": "B2_K8_M2_017",
+      "word": "initiieren",
+      "meaning": "initiate"
+    },
+    {
+      "id": "B2_K8_M2_018",
+      "word": "die Koalition",
+      "plural": "die Koalitionen",
+      "meaning": "coalition"
+    },
+    {
+      "id": "B2_K8_M2_019",
+      "word": "der Machtwechsel",
+      "plural": "die Machtwechsel",
+      "meaning": "change of power"
+    },
+    {
+      "id": "B2_K8_M2_020",
+      "word": "der Nationalfeiertag",
+      "plural": "die Nationalfeiertage",
+      "meaning": "national holiday"
+    },
+    {
+      "id": "B2_K8_M2_021",
+      "word": "die Neutralität (Sg.)",
+      "meaning": "neutrality"
+    },
+    {
+      "id": "B2_K8_M2_022",
+      "word": "der Orden",
+      "plural": "die Orden",
+      "meaning": "medal"
+    },
+    {
+      "id": "B2_K8_M2_023",
+      "word": "die Protestaktion",
+      "plural": "die Protestaktionen",
+      "meaning": "protest action"
+    },
+    {
+      "id": "B2_K8_M2_024",
+      "word": "die Republik",
+      "plural": "die Republiken",
+      "meaning": "republic"
+    },
+    {
+      "id": "B2_K8_M2_025",
+      "word": "die Sensation",
+      "plural": "die Sensationen",
+      "meaning": "ensation"
+    },
+    {
+      "id": "B2_K8_M2_026",
+      "word": "der Staatsfeiertag",
+      "plural": "die Staatsfeiertage",
+      "meaning": "state holiday"
+    },
+    {
+      "id": "B2_K8_M2_027",
+      "word": "zurückgeben, gab zurück, hat",
+      "meaning": "give back, gave back, has"
+    },
+    {
+      "id": "B2_K8_M2_028",
+      "word": "zurückgegeben",
+      "meaning": "returned"
+    },
+    {
+      "id": "B2_K8_M2_029",
+      "word": "die Behinderung",
+      "plural": "die Behinderungen",
+      "meaning": "the disability"
+    },
+    {
+      "id": "B2_K8_M2_030",
+      "word": "benachrichtigen",
+      "meaning": "notify"
+    },
+    {
+      "id": "B2_K8_M2_031",
+      "word": "die Einfuhr",
+      "plural": "die Einfuhren",
+      "meaning": "import"
+    },
+    {
+      "id": "B2_K8_M2_032",
+      "word": "das Getreide",
+      "plural": "die Getreide",
+      "meaning": "grain"
+    },
+    {
+      "id": "B2_K8_M2_033",
+      "word": "die Immobilie",
+      "plural": "die Immobilien",
+      "meaning": "property"
+    },
+    {
+      "id": "B2_K8_M2_034",
+      "word": "der/die Lokführer/in",
+      "meaning": "train driver"
+    },
+    {
+      "id": "B2_K8_M2_035",
+      "word": "die Schutzmaßnahme",
+      "plural": "die Schutzmaßnahmen",
+      "meaning": "protective measure"
+    },
+    {
+      "id": "B2_K8_M2_036",
+      "word": "streiken",
+      "meaning": "strike"
+    },
+    {
+      "id": "B2_K8_M2_037",
+      "word": "der Vulkanausbruch",
+      "plural": "die Vulkanausbrüche",
+      "meaning": "volcanic eruption"
+    },
+    {
+      "id": "B2_K8_M2_038",
+      "word": "ereignen (sich)",
+      "meaning": "occur"
+    },
+    {
+      "id": "B2_K8_M2_039",
+      "word": "die Recherche",
+      "plural": "die Recherchen",
+      "meaning": "research"
+    },
+    {
+      "id": "B2_K8_M2_040",
+      "word": "3d die Lautstärke, -n",
+      "meaning": "3d volume"
+    },
+    {
+      "id": "B2_K8_M2_041",
+      "word": "die Verständlichkeit (Sg.)",
+      "meaning": "intelligibility"
     }
   ]
 }

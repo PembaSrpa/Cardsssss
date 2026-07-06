@@ -5,10 +5,347 @@
   "words": [
     {
       "id": "B2_K6_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "kurios",
+      "meaning": "curious"
+    },
+    {
+      "id": "B2_K6_M1_002",
+      "word": "der Oberbegriff",
+      "plural": "die Oberbegriffe",
+      "meaning": "generic term"
+    },
+    {
+      "id": "B2_K6_M1_003",
+      "word": "der/die Schwager/Schwägerin",
+      "meaning": "brother in law"
+    },
+    {
+      "id": "B2_K6_M1_004",
+      "word": "das Silber",
+      "plural": "die Silber",
+      "meaning": "silver"
+    },
+    {
+      "id": "B2_K6_M1_005",
+      "word": "die Analogie",
+      "plural": "die Analogien",
+      "meaning": "analogy"
+    },
+    {
+      "id": "B2_K6_M1_006",
+      "word": "der Diamant",
+      "plural": "die Diamanten",
+      "meaning": "diamond"
+    },
+    {
+      "id": "B2_K6_M1_007",
+      "word": "das Gebirge",
+      "plural": "die Gebirge",
+      "meaning": "mountains"
+    },
+    {
+      "id": "B2_K6_M1_008",
+      "word": "das Silvester",
+      "plural": "die Silvester",
+      "meaning": "New Year's Eve"
+    },
+    {
+      "id": "B2_K6_M1_009",
+      "word": "logisch",
+      "meaning": "logical"
+    },
+    {
+      "id": "B2_K6_M1_010",
+      "word": "die Denksportaufgabe",
+      "plural": "die Denksportaufgaben",
+      "meaning": "the brain teaser, -n"
+    },
+    {
+      "id": "B2_K6_M1_011",
+      "word": "der Onlineeinkauf",
+      "plural": "die Onlineeinkaüfe",
+      "meaning": "online shopping, \"-e"
+    },
+    {
+      "id": "B2_K6_M1_012",
+      "word": "das Benutzerkonto",
+      "plural": "die Benutzerkontokonten",
+      "meaning": "user account"
+    },
+    {
+      "id": "B2_K6_M1_013",
+      "word": "der Browser",
+      "plural": "die Browser",
+      "meaning": "browser"
+    },
+    {
+      "id": "B2_K6_M1_014",
+      "word": "der Datenschutz (Sg.)",
+      "meaning": "data protection"
+    },
+    {
+      "id": "B2_K6_M1_015",
+      "word": "der Doppelklick",
+      "plural": "die Doppelklicks",
+      "meaning": "double click"
+    },
+    {
+      "id": "B2_K6_M1_016",
+      "word": "die Firewall",
+      "plural": "die Firewalls",
+      "meaning": "firewall"
+    },
+    {
+      "id": "B2_K6_M1_017",
+      "word": "der/die Konsument/in",
+      "meaning": "consumer"
+    },
+    {
+      "id": "B2_K6_M1_018",
+      "word": "die Kontodaten (Pl.)",
+      "meaning": "account data"
+    },
+    {
+      "id": "B2_K6_M1_019",
+      "word": "das Onlinebanking (Sg.)",
+      "meaning": "online banking"
+    },
+    {
+      "id": "B2_K6_M1_020",
+      "word": "das Passwort",
+      "plural": "die Passwörter",
+      "meaning": "password"
+    },
+    {
+      "id": "B2_K6_M1_021",
+      "word": "der Rechnungsbetrag",
+      "plural": "die Rechnungsbeträge",
+      "meaning": "invoice amount"
+    },
+    {
+      "id": "B2_K6_M1_022",
+      "word": "die Startseite",
+      "plural": "die Startseiten",
+      "meaning": "homepage"
+    },
+    {
+      "id": "B2_K6_M1_023",
+      "word": "die Suchmaschine",
+      "plural": "die Suchmaschinen",
+      "meaning": "search engine"
+    },
+    {
+      "id": "B2_K6_M1_024",
+      "word": "die Verschlüsselung",
+      "plural": "die Verschlüsselungen",
+      "meaning": "encryption"
+    },
+    {
+      "id": "B2_K6_M1_025",
+      "word": "das Virenschutzprogramm",
+      "plural": "die Virenschutzprogramme",
+      "meaning": "virus protection program"
+    },
+    {
+      "id": "B2_K6_M1_026",
+      "word": "der Virus",
+      "meaning": "virus, viruses"
+    },
+    {
+      "id": "B2_K6_M1_027",
+      "word": "die Ratgebersendung",
+      "plural": "die Ratgebersendungen",
+      "meaning": "advice broadcast"
+    },
+    {
+      "id": "B2_K6_M1_028",
+      "word": "die Anprobe",
+      "plural": "die Anproben",
+      "meaning": "the fitting"
+    },
+    {
+      "id": "B2_K6_M1_029",
+      "word": "die Bequemlichkeit",
+      "plural": "die Bequemlichkeiten",
+      "meaning": "convenience"
+    },
+    {
+      "id": "B2_K6_M1_030",
+      "word": "der Kreditkartenbetrug (Sg.)",
+      "meaning": "credit card fraud"
+    },
+    {
+      "id": "B2_K6_M1_031",
+      "word": "die Lieferzeit",
+      "plural": "die Lieferzeiten",
+      "meaning": "delivery time"
+    },
+    {
+      "id": "B2_K6_M1_032",
+      "word": "der Mindestbestellwert (Sg.)",
+      "meaning": "minimum order value"
+    },
+    {
+      "id": "B2_K6_M1_033",
+      "word": "der Preisvergleich",
+      "plural": "die Preisvergleiche",
+      "meaning": "price comparison"
+    },
+    {
+      "id": "B2_K6_M1_034",
+      "word": "die Produktbeschreibung",
+      "plural": "die Produktbeschreibungen",
+      "meaning": "product description"
+    },
+    {
+      "id": "B2_K6_M1_035",
+      "word": "die Reklamation",
+      "plural": "die Reklamationen",
+      "meaning": "complaint"
+    },
+    {
+      "id": "B2_K6_M1_036",
+      "word": "die Schnelligkeit (Sg.)",
+      "meaning": "speed"
+    },
+    {
+      "id": "B2_K6_M1_037",
+      "word": "die Versandkosten (Pl.)",
+      "meaning": "shipping costs"
+    },
+    {
+      "id": "B2_K6_M1_038",
+      "word": "die Wartezeit",
+      "plural": "die Wartezeiten",
+      "meaning": "waiting time"
+    },
+    {
+      "id": "B2_K6_M1_039",
+      "word": "die Zahlungsmöglichkeit",
+      "plural": "die Zahlungsmöglichkeiten",
+      "meaning": "payment option"
+    },
+    {
+      "id": "B2_K6_M1_040",
+      "word": "die Datensicherheit (Sg.)",
+      "meaning": "data security"
+    },
+    {
+      "id": "B2_K6_M1_041",
+      "word": "das Resultat",
+      "plural": "die Resultate",
+      "meaning": "the result"
+    },
+    {
+      "id": "B2_K6_M1_042",
+      "word": "aufheben, hob auf, hat aufgehoben",
+      "meaning": "pick up, pick up, pick up",
+      "example": "einen Kaufvertrag aufheben"
+    },
+    {
+      "id": "B2_K6_M1_043",
+      "word": "ausfüllen (ein Formular ausfüllen)",
+      "meaning": "fill out (fill out a form)"
+    },
+    {
+      "id": "B2_K6_M1_044",
+      "word": "ausverkauft",
+      "meaning": "sold out"
+    },
+    {
+      "id": "B2_K6_M1_045",
+      "word": "beschädigen",
+      "meaning": "to damage"
+    },
+    {
+      "id": "B2_K6_M1_046",
+      "word": "der Ersatz (Sg.)",
+      "meaning": "replacement"
+    },
+    {
+      "id": "B2_K6_M1_047",
+      "word": "ersetzen (einen Schaden ersetzen)",
+      "meaning": "replace (replace a damage)"
+    },
+    {
+      "id": "B2_K6_M1_048",
+      "word": "erstatten (jmd. Geld erstatten)",
+      "meaning": "to reimburse"
+    },
+    {
+      "id": "B2_K6_M1_049",
+      "word": "der Interneteinkauf",
+      "plural": "die Interneteinkaüfe",
+      "meaning": "Internet shopping"
+    },
+    {
+      "id": "B2_K6_M1_050",
+      "word": "der Kaufvertrag",
+      "plural": "die Kaufverträge",
+      "meaning": "the sales contract"
+    },
+    {
+      "id": "B2_K6_M1_051",
+      "word": "stellen (zur Verfügung stellen)",
+      "meaning": "make available"
+    },
+    {
+      "id": "B2_K6_M1_052",
+      "word": "tragen, trug, hat getragen (ein Risiko tragen)",
+      "meaning": "carry, carried, carried (a risk wear)"
+    },
+    {
+      "id": "B2_K6_M1_053",
+      "word": "die Verfügung (Sg.) (zur Verfügung stellen)",
+      "meaning": "the disposal (to make available)"
+    },
+    {
+      "id": "B2_K6_M1_054",
+      "word": "das Versandrisiko",
+      "plural": "die Versandrisikorisiken",
+      "meaning": "shipping risk, risks"
+    },
+    {
+      "id": "B2_K6_M1_055",
+      "word": "widerrufen, widerrief, hat widerrufen",
+      "meaning": "revoke, revoked, revoked"
+    },
+    {
+      "id": "B2_K6_M1_056",
+      "word": "3d das Bestellformular, -e",
+      "meaning": "3d the order form"
+    },
+    {
+      "id": "B2_K6_M1_057",
+      "word": "der Bestellvorgang",
+      "plural": "die Bestellvorgänge",
+      "meaning": "ordering process"
+    },
+    {
+      "id": "B2_K6_M1_058",
+      "word": "eingeben, gab ein, hat eingegeben (das Passwort falsch eingeben)",
+      "meaning": "enter, entered, entered (the Wrong password)"
+    },
+    {
+      "id": "B2_K6_M1_059",
+      "word": "die Geschäftsbedingungen (Pl.)",
+      "meaning": "terms and conditions"
+    },
+    {
+      "id": "B2_K6_M1_060",
+      "word": "das Kundenkonto",
+      "plural": "die Kundenkontokonten",
+      "meaning": "customer account, accounts"
+    },
+    {
+      "id": "B2_K6_M1_061",
+      "word": "sperren (das Konto sperren)",
+      "meaning": "lock (lock the account)"
+    },
+    {
+      "id": "B2_K6_M1_062",
+      "word": "vollständig",
+      "meaning": "Completely"
     }
   ]
 }

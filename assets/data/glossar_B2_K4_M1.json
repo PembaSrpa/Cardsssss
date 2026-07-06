@@ -5,10 +5,313 @@
   "words": [
     {
       "id": "B2_K4_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Cartoon",
+      "plural": "die Cartoons",
+      "meaning": "of the cartoon, -s"
+    },
+    {
+      "id": "B2_K4_M1_002",
+      "word": "die Gewalt",
+      "plural": "die Gewalten",
+      "meaning": "violence"
+    },
+    {
+      "id": "B2_K4_M1_003",
+      "word": "der Ärger (Sg.) (Ärger machen)",
+      "meaning": "anger (Sg.) (Make trouble)"
+    },
+    {
+      "id": "B2_K4_M1_004",
+      "word": "bauen (Mist bauen)",
+      "meaning": "build (crap)"
+    },
+    {
+      "id": "B2_K4_M1_005",
+      "word": "begründen",
+      "meaning": "justify"
+    },
+    {
+      "id": "B2_K4_M1_006",
+      "word": "beibringen, brachte bei, hat beigebracht",
+      "meaning": "to teach, to teach, to teach"
+    },
+    {
+      "id": "B2_K4_M1_007",
+      "word": "das Dach (ein Dach über dem Kopf haben)",
+      "plural": "die Dächer",
+      "meaning": "roof (a roof over your head to have)"
+    },
+    {
+      "id": "B2_K4_M1_008",
+      "word": "der Diebstahl",
+      "plural": "die Diebstähle",
+      "meaning": "theft"
+    },
+    {
+      "id": "B2_K4_M1_009",
+      "word": "die Disziplin",
+      "plural": "die Disziplinen",
+      "meaning": "discipline"
+    },
+    {
+      "id": "B2_K4_M1_010",
+      "word": "die Eintragung",
+      "plural": "die Eintragungen",
+      "meaning": "entry"
+    },
+    {
+      "id": "B2_K4_M1_011",
+      "word": "erneut",
+      "meaning": "again"
+    },
+    {
+      "id": "B2_K4_M1_012",
+      "word": "erwischen",
+      "meaning": "catch"
+    },
+    {
+      "id": "B2_K4_M1_013",
+      "word": "die Faust",
+      "plural": "die Faüste",
+      "meaning": "fists"
+    },
+    {
+      "id": "B2_K4_M1_014",
+      "word": "fluchen",
+      "meaning": "curse"
+    },
+    {
+      "id": "B2_K4_M1_015",
+      "word": "das Führungszeugnis",
+      "plural": "die Führungszeugnisse",
+      "meaning": "certificate of good conduct"
+    },
+    {
+      "id": "B2_K4_M1_016",
+      "word": "gebürtig (in + D.)",
+      "meaning": "native (in + D.)"
+    },
+    {
+      "id": "B2_K4_M1_017",
+      "word": "geistig",
+      "meaning": "mentally"
+    },
+    {
+      "id": "B2_K4_M1_018",
+      "word": "das Graffiti",
+      "plural": "die Graffitis",
+      "meaning": "graffiti"
+    },
+    {
+      "id": "B2_K4_M1_019",
+      "word": "das Hausverbot",
+      "plural": "die Hausverbote",
+      "meaning": "house ban"
+    },
+    {
+      "id": "B2_K4_M1_020",
+      "word": "der Kampfsport (Sg.)",
+      "meaning": "martial arts"
+    },
+    {
+      "id": "B2_K4_M1_021",
+      "word": "das Kickboxen (Sg.)",
+      "meaning": "kickboxing"
+    },
+    {
+      "id": "B2_K4_M1_022",
+      "word": "die Kids (Pl.)",
+      "meaning": "kids"
+    },
+    {
+      "id": "B2_K4_M1_023",
+      "word": "klauen",
+      "meaning": "steal"
+    },
+    {
+      "id": "B2_K4_M1_024",
+      "word": "kriminell",
+      "meaning": "criminal"
+    },
+    {
+      "id": "B2_K4_M1_025",
+      "word": "die Langeweile (Sg.) (sich die Langeweile vertreiben)",
+      "meaning": "boredom (Sg.) (boredom to evict)"
+    },
+    {
+      "id": "B2_K4_M1_026",
+      "word": "der Liegestütz",
+      "plural": "die Liegestütze",
+      "meaning": "push-up"
+    },
+    {
+      "id": "B2_K4_M1_027",
+      "word": "der Mist (Sg.) (Mist bauen)",
+      "meaning": "crap (Sg.) (crap building)"
+    },
+    {
+      "id": "B2_K4_M1_028",
+      "word": "motiviert",
+      "meaning": "motivated"
+    },
+    {
+      "id": "B2_K4_M1_029",
+      "word": "plagen (jmd. plagen Probleme)",
+      "meaning": "to plague (so-called plague problems)"
+    },
+    {
+      "id": "B2_K4_M1_030",
+      "word": "randalieren",
+      "meaning": "riot"
+    },
+    {
+      "id": "B2_K4_M1_031",
+      "word": "regelmäßig",
+      "meaning": "regularly"
+    },
+    {
+      "id": "B2_K4_M1_032",
+      "word": "respektieren",
+      "meaning": "respect"
+    },
+    {
+      "id": "B2_K4_M1_033",
+      "word": "die Sachbeschädigung",
+      "plural": "die Sachbeschädigungen",
+      "meaning": "the property damage, -en"
+    },
+    {
+      "id": "B2_K4_M1_034",
+      "word": "schnappen",
+      "meaning": "grab"
+    },
+    {
+      "id": "B2_K4_M1_035",
+      "word": "schwach (ein sozial schwacher Stadtteil)",
+      "meaning": "weak (a socially weak district)"
+    },
+    {
+      "id": "B2_K4_M1_036",
+      "word": "die Selbstbeherrschung",
+      "plural": "die Selbstbeherrschungen",
+      "meaning": "self-control"
+    },
+    {
+      "id": "B2_K4_M1_037",
+      "word": "der/die Sicherheitsleiter/in",
+      "meaning": "the security manager"
+    },
+    {
+      "id": "B2_K4_M1_038",
+      "word": "sprühen (Graffiti sprühen)",
+      "meaning": "spray (spray graffiti)"
+    },
+    {
+      "id": "B2_K4_M1_039",
+      "word": "stärken",
+      "meaning": "strengthen"
+    },
+    {
+      "id": "B2_K4_M1_040",
+      "word": "stellen (vor die Wahl stellen)",
+      "meaning": "put (before the choice)"
+    },
+    {
+      "id": "B2_K4_M1_041",
+      "word": "das Taekwondo (Sg.)",
+      "meaning": "the taekwondo (Sg.)"
+    },
+    {
+      "id": "B2_K4_M1_042",
+      "word": "tatenlos",
+      "meaning": "passively"
+    },
+    {
+      "id": "B2_K4_M1_043",
+      "word": "treiben, trieb, hat getrieben (Sport treiben)",
+      "meaning": "to drive, to drive, to drive (to exercise)"
+    },
+    {
+      "id": "B2_K4_M1_044",
+      "word": "übergeben, übergab, hat übergeben",
+      "meaning": "hand over, handed over, handed over",
+      "example": "Er übergibt die Jugendlichen der Polizei."
+    },
+    {
+      "id": "B2_K4_M1_045",
+      "word": "verbauen (sich die Zukunft verbauen)",
+      "meaning": "block (block the future)"
+    },
+    {
+      "id": "B2_K4_M1_046",
+      "word": "vertreiben, vertrieb, hat vertrieben (sich die Langeweile vertreiben)",
+      "meaning": "chase away, chase away (chase away the boredom)"
+    },
+    {
+      "id": "B2_K4_M1_047",
+      "word": "die Waffe",
+      "plural": "die Waffen",
+      "meaning": "the weapons"
+    },
+    {
+      "id": "B2_K4_M1_048",
+      "word": "die Wahl (jmd. vor die Wahl stellen)",
+      "plural": "die Wahlen",
+      "meaning": "choice (to put so. before the choice)"
+    },
+    {
+      "id": "B2_K4_M1_049",
+      "word": "machtlos",
+      "meaning": "powerless"
+    },
+    {
+      "id": "B2_K4_M1_050",
+      "word": "die Seite (jmd. zur Seite stehen)",
+      "plural": "die Seiten",
+      "meaning": "side (to stand by the side)"
+    },
+    {
+      "id": "B2_K4_M1_051",
+      "word": "die Straftat",
+      "plural": "die Straftaten",
+      "meaning": "offense"
+    },
+    {
+      "id": "B2_K4_M1_052",
+      "word": "jeweilig",
+      "meaning": "each"
+    },
+    {
+      "id": "B2_K4_M1_053",
+      "word": "richten (sich) (nach + D.)",
+      "meaning": "judge (I judge according to the wishes of mine Customers.)",
+      "example": "Ich richte mich ganz nach den Wünschen meiner Kunden."
+    },
+    {
+      "id": "B2_K4_M1_054",
+      "word": "anschließen (sich), schloss sich an, hat",
+      "meaning": "connect (joined), joined, has"
+    },
+    {
+      "id": "B2_K4_M1_055",
+      "word": "sich angeschlossen",
+      "meaning": "joined"
+    },
+    {
+      "id": "B2_K4_M1_056",
+      "word": "bringen, brachte, hat gebracht (jmd. auf den richtigen Weg bringen)",
+      "meaning": "bring, brought, brought (so bring the right way)"
+    },
+    {
+      "id": "B2_K4_M1_057",
+      "word": "erschreckend",
+      "meaning": "frightening"
+    },
+    {
+      "id": "B2_K4_M1_058",
+      "word": "der Weg (jmd. auf den richtigen Weg bringen)",
+      "plural": "die Wege",
+      "meaning": "the way, -e (so. on the right way bring)"
     }
   ]
 }

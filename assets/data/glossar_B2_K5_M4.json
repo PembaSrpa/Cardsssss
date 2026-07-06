@@ -5,10 +5,844 @@
   "words": [
     {
       "id": "B2_K5_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "ausschlafen, schlief aus, hat",
+      "meaning": "sleep in, slept in, has"
+    },
+    {
+      "id": "B2_K5_M4_002",
+      "word": "ausgeschlafen",
+      "meaning": "rested"
+    },
+    {
+      "id": "B2_K5_M4_003",
+      "word": "dösen",
+      "meaning": "doze"
+    },
+    {
+      "id": "B2_K5_M4_004",
+      "word": "das Murmeltier",
+      "plural": "die Murmeltiere",
+      "meaning": "marmot"
+    },
+    {
+      "id": "B2_K5_M4_005",
+      "word": "das Nickerchen",
+      "plural": "die Nickerchen",
+      "meaning": "nap"
+    },
+    {
+      "id": "B2_K5_M4_006",
+      "word": "der/die Allesfresser/in",
+      "meaning": "the omnivorous"
+    },
+    {
+      "id": "B2_K5_M4_007",
+      "word": "arg",
+      "meaning": "bad"
+    },
+    {
+      "id": "B2_K5_M4_008",
+      "word": "ausreichend",
+      "meaning": "sufficient"
+    },
+    {
+      "id": "B2_K5_M4_009",
+      "word": "der Ausweis",
+      "plural": "die Ausweise",
+      "meaning": "the ID card",
+      "example": "Eine Nacht durchzuarbeiten gilt als Ausweis besonderer Leistungsfähigkeit."
+    },
+    {
+      "id": "B2_K5_M4_010",
+      "word": "der Beleg",
+      "plural": "die Belege",
+      "meaning": "the document"
+    },
+    {
+      "id": "B2_K5_M4_011",
+      "word": "der Bettflüchter",
+      "plural": "die Bettflüchter",
+      "meaning": "bed-hitter"
+    },
+    {
+      "id": "B2_K5_M4_012",
+      "word": "der Bluthochdruck (Sg.)",
+      "meaning": "high blood pressure"
+    },
+    {
+      "id": "B2_K5_M4_013",
+      "word": "dauerhaft",
+      "meaning": "permanent"
+    },
+    {
+      "id": "B2_K5_M4_014",
+      "word": "durcharbeiten",
+      "meaning": "Working through"
+    },
+    {
+      "id": "B2_K5_M4_015",
+      "word": "der Durchschnitt (Sg.)",
+      "meaning": "average"
+    },
+    {
+      "id": "B2_K5_M4_016",
+      "word": "der Eifer (Sg.)",
+      "meaning": "zeal"
+    },
+    {
+      "id": "B2_K5_M4_017",
+      "word": "eingerechnet",
+      "meaning": "included"
+    },
+    {
+      "id": "B2_K5_M4_018",
+      "word": "eintauchen (in + A.)",
+      "meaning": "immerse (in + A.)"
+    },
+    {
+      "id": "B2_K5_M4_019",
+      "word": "der/die Feind/in",
+      "meaning": "enemy"
+    },
+    {
+      "id": "B2_K5_M4_020",
+      "word": "der/die Feuilletonist/in",
+      "meaning": "feature writer"
+    },
+    {
+      "id": "B2_K5_M4_021",
+      "word": "der/die Gealterte",
+      "plural": "die Gealterten",
+      "meaning": "aged"
+    },
+    {
+      "id": "B2_K5_M4_022",
+      "word": "gehoben",
+      "meaning": "raised",
+      "example": "Bis nach Mitternacht auszugehen gilt als Teil gehobener Lebenskunst."
+    },
+    {
+      "id": "B2_K5_M4_023",
+      "word": "gleichermaßen",
+      "meaning": "equally"
+    },
+    {
+      "id": "B2_K5_M4_024",
+      "word": "global",
+      "meaning": "global"
+    },
+    {
+      "id": "B2_K5_M4_025",
+      "word": "hemmen",
+      "meaning": "inhibit"
+    },
+    {
+      "id": "B2_K5_M4_026",
+      "word": "der Herzinfarkt",
+      "plural": "die Herzinfarkte",
+      "meaning": "heart attack"
+    },
+    {
+      "id": "B2_K5_M4_027",
+      "word": "das Hirn",
+      "plural": "die Hirne",
+      "meaning": "brain"
+    },
+    {
+      "id": "B2_K5_M4_028",
+      "word": "kahl",
+      "meaning": "bald"
+    },
+    {
+      "id": "B2_K5_M4_029",
+      "word": "die Konkurrenz (Sg.)",
+      "meaning": "competition"
+    },
+    {
+      "id": "B2_K5_M4_030",
+      "word": "die Lebenskunst",
+      "plural": "die Lebenskünste",
+      "meaning": "art of living"
+    },
+    {
+      "id": "B2_K5_M4_031",
+      "word": "die Leistungsfähigkeit (Sg.)",
+      "meaning": "performance"
+    },
+    {
+      "id": "B2_K5_M4_032",
+      "word": "der Markt",
+      "plural": "die Märkte",
+      "meaning": "the market",
+      "example": "einen Markt haben"
+    },
+    {
+      "id": "B2_K5_M4_033",
+      "word": "die Matratze",
+      "plural": "die Matratzen",
+      "meaning": "mattress"
+    },
+    {
+      "id": "B2_K5_M4_034",
+      "word": "der/die Mediziner/in",
+      "meaning": "medic"
+    },
+    {
+      "id": "B2_K5_M4_035",
+      "word": "der/die Ministerpräsident/in",
+      "meaning": "prime minister"
+    },
+    {
+      "id": "B2_K5_M4_036",
+      "word": "das Mittagsschläfchen",
+      "plural": "die Mittagsschläfchen",
+      "meaning": "afternoon nap"
+    },
+    {
+      "id": "B2_K5_M4_037",
+      "word": "mittelalterlich",
+      "meaning": "medieval"
+    },
+    {
+      "id": "B2_K5_M4_038",
+      "word": "die Mitternacht (Sg.)",
+      "meaning": "midnight"
+    },
+    {
+      "id": "B2_K5_M4_039",
+      "word": "müdegearbeitet",
+      "meaning": "tired working"
+    },
+    {
+      "id": "B2_K5_M4_040",
+      "word": "die Nachteule",
+      "plural": "die Nachteulen",
+      "meaning": "night owl"
+    },
+    {
+      "id": "B2_K5_M4_041",
+      "word": "ohnehin",
+      "meaning": "anyway"
+    },
+    {
+      "id": "B2_K5_M4_042",
+      "word": "das Organ",
+      "plural": "die Organe",
+      "meaning": "organ"
+    },
+    {
+      "id": "B2_K5_M4_043",
+      "word": "der Partylöwe",
+      "plural": "die Partylöwen",
+      "meaning": "party animal"
+    },
+    {
+      "id": "B2_K5_M4_044",
+      "word": "preisen, pries, hat gepriesen",
+      "meaning": "praise, praised, praised",
+      "example": "Geschäfte preisen ihre Produkte."
+    },
+    {
+      "id": "B2_K5_M4_045",
+      "word": "der/die Pubertierende",
+      "plural": "die Pubertierenden",
+      "meaning": "adolescent"
+    },
+    {
+      "id": "B2_K5_M4_046",
+      "word": "rastlos",
+      "meaning": "restless"
+    },
+    {
+      "id": "B2_K5_M4_047",
+      "word": "ruhen",
+      "meaning": "rest"
+    },
+    {
+      "id": "B2_K5_M4_048",
+      "word": "das Schläfchen",
+      "plural": "die Schläfchen",
+      "meaning": "nap"
+    },
+    {
+      "id": "B2_K5_M4_049",
+      "word": "das Schlaflabor",
+      "plural": "die Schlaflabore",
+      "meaning": "sleep laboratory"
+    },
+    {
+      "id": "B2_K5_M4_050",
+      "word": "schlaflos",
+      "meaning": "sleepless"
+    },
+    {
+      "id": "B2_K5_M4_051",
+      "word": "der Schlafmangel (Sg.)",
+      "meaning": "lack of sleep"
+    },
+    {
+      "id": "B2_K5_M4_052",
+      "word": "die Schlafstörung",
+      "plural": "die Schlafstörungen",
+      "meaning": "sleep disorder"
+    },
+    {
+      "id": "B2_K5_M4_053",
+      "word": "der Schnitt",
+      "plural": "die Schnitte",
+      "meaning": "cut",
+      "example": "Im Schnitt schlafen die Menschen sieben Stunden pro Nacht."
+    },
+    {
+      "id": "B2_K5_M4_054",
+      "word": "die Schreibtischplatte",
+      "plural": "die Schreibtischplatten",
+      "meaning": "desk top"
+    },
+    {
+      "id": "B2_K5_M4_055",
+      "word": "die Seele",
+      "plural": "die Seelen",
+      "meaning": "souls"
+    },
+    {
+      "id": "B2_K5_M4_056",
+      "word": "solide",
+      "meaning": "solid"
+    },
+    {
+      "id": "B2_K5_M4_057",
+      "word": "tagsüber",
+      "meaning": "during the day"
+    },
+    {
+      "id": "B2_K5_M4_058",
+      "word": "verpennen",
+      "meaning": "sleep through"
+    },
+    {
+      "id": "B2_K5_M4_059",
+      "word": "die Verschwendung",
+      "plural": "die Verschwendungen",
+      "meaning": "waste"
+    },
+    {
+      "id": "B2_K5_M4_060",
+      "word": "vorbildlich",
+      "meaning": "exemplary"
+    },
+    {
+      "id": "B2_K5_M4_061",
+      "word": "das Zeitalter",
+      "plural": "die Zeitalter",
+      "meaning": "era"
+    },
+    {
+      "id": "B2_K5_M4_062",
+      "word": "zufolge",
+      "meaning": "according to"
+    },
+    {
+      "id": "B2_K5_M4_063",
+      "word": "die Gymnastik (Sg.)",
+      "meaning": "the gymnastics"
+    },
+    {
+      "id": "B2_K5_M4_064",
+      "word": "das Herzproblem",
+      "plural": "die Herzprobleme",
+      "meaning": "heart problem"
+    },
+    {
+      "id": "B2_K5_M4_065",
+      "word": "der Mittagsschlaf (Sg.)",
+      "meaning": "midday nap"
+    },
+    {
+      "id": "B2_K5_M4_066",
+      "word": "der/die Schlafexperte/Schlafexpertin",
+      "meaning": "sleep expert"
+    },
+    {
+      "id": "B2_K5_M4_067",
+      "word": "das Fazit",
+      "plural": "die Fazits",
+      "meaning": "the conclusion"
+    },
+    {
+      "id": "B2_K5_M4_068",
+      "word": "halten, hielt, hat gehalten (Mittagsschlaf halten)",
+      "meaning": "hold, hold, hold (nap hold)"
+    },
+    {
+      "id": "B2_K5_M4_069",
+      "word": "die Mittagspause",
+      "plural": "die Mittagspausen",
+      "meaning": "lunch break"
+    },
+    {
+      "id": "B2_K5_M4_070",
+      "word": "abwägen (Argumente abwägen)",
+      "meaning": "Weigh (weigh arguments)"
+    },
+    {
+      "id": "B2_K5_M4_071",
+      "word": "ansprechen, sprach an, hat angesprochen",
+      "meaning": "address, addressed, has responded",
+      "example": "Der Artikel spricht ein interessantes Thema an."
+    },
+    {
+      "id": "B2_K5_M4_072",
+      "word": "der/die Beschäftigte",
+      "plural": "die Beschäftigten",
+      "meaning": "employee"
+    },
+    {
+      "id": "B2_K5_M4_073",
+      "word": "betonen",
+      "meaning": "emphasize"
+    },
+    {
+      "id": "B2_K5_M4_074",
+      "word": "bewusst (der bewusste Umgang mit etw.)",
+      "meaning": "consciously (consciously dealing with sth.)"
+    },
+    {
+      "id": "B2_K5_M4_075",
+      "word": "derzeit",
+      "meaning": "currently"
+    },
+    {
+      "id": "B2_K5_M4_076",
+      "word": "das Faulenzertum (Sg.)",
+      "meaning": "idleness"
+    },
+    {
+      "id": "B2_K5_M4_077",
+      "word": "der Kulturwandel",
+      "plural": "die Kulturwandel",
+      "meaning": "cultural change"
+    },
+    {
+      "id": "B2_K5_M4_078",
+      "word": "der/die Leiter/in",
+      "meaning": "leader",
+      "example": "Maja Fischer ist Leiterin der allgemeinmedizinischen Abteilung."
+    },
+    {
+      "id": "B2_K5_M4_079",
+      "word": "der Leserbrief",
+      "plural": "die Leserbriefe",
+      "meaning": "letter to the editor"
+    },
+    {
+      "id": "B2_K5_M4_080",
+      "word": "die Ruhezeit",
+      "plural": "die Ruhezeiten",
+      "meaning": "rest period"
+    },
+    {
+      "id": "B2_K5_M4_081",
+      "word": "der Schlafraum",
+      "plural": "die Schlafraüme",
+      "meaning": "bedroom"
+    },
+    {
+      "id": "B2_K5_M4_082",
+      "word": "das Service-Unternehmen",
+      "plural": "die Service-Unternehmen",
+      "meaning": "service company"
+    },
+    {
+      "id": "B2_K5_M4_083",
+      "word": "der Standpunkt (einen Standpunkt vertreten)",
+      "plural": "die Standpunkte",
+      "meaning": "point of view (take a stance)"
+    },
+    {
+      "id": "B2_K5_M4_084",
+      "word": "die Tatsache",
+      "plural": "die Tatsachen",
+      "meaning": "the facts"
+    },
+    {
+      "id": "B2_K5_M4_085",
+      "word": "vertreten, vertrat, hat vertreten (eine Meinung vertreten)",
+      "meaning": "represent (represent an opinion)"
+    },
+    {
+      "id": "B2_K5_M4_086",
+      "word": "die Rubrik",
+      "plural": "die Rubriken",
+      "meaning": "the heading"
+    },
+    {
+      "id": "B2_K5_M4_087",
+      "word": "die Internetredaktion",
+      "plural": "die Internetredaktionen",
+      "meaning": "the Internet editorial team"
+    },
+    {
+      "id": "B2_K5_M4_088",
+      "word": "5d der Inhaltspunkt, -e",
+      "meaning": "5d the content point"
+    },
+    {
+      "id": "B2_K5_M4_089",
+      "word": "die Arbeitsbedingungen (Pl.)",
+      "meaning": "the working conditions"
+    },
+    {
+      "id": "B2_K5_M4_090",
+      "word": "der Ruheraum",
+      "plural": "die Ruheraüme",
+      "meaning": "the relaxation room"
+    },
+    {
+      "id": "B2_K5_M4_091",
+      "word": "einverstanden sein (mit + D.)",
+      "meaning": "agree (with + D.)"
+    },
+    {
+      "id": "B2_K5_M4_092",
+      "word": "kommen, kam, ist gekommen (zu einer Lösung kommen)",
+      "meaning": "come, came, has come (to a Solution come)"
+    },
+    {
+      "id": "B2_K5_M4_093",
+      "word": "realisieren",
+      "meaning": "realize"
+    },
+    {
+      "id": "B2_K5_M4_094",
+      "word": "umsetzen",
+      "meaning": "implement"
+    },
+    {
+      "id": "B2_K5_M4_095",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K5_M4_096",
+      "word": "ankündigen",
+      "meaning": "to announce"
+    },
+    {
+      "id": "B2_K5_M4_097",
+      "word": "die Atombombe",
+      "plural": "die Atombomben",
+      "meaning": "atomic bomb"
+    },
+    {
+      "id": "B2_K5_M4_098",
+      "word": "aufgeben, gab auf, hat aufgegeben",
+      "meaning": "give up, gave up, gave up",
+      "example": "Er gibt seine deutsche Nationalität auf und wird Bürger der Schweiz."
+    },
+    {
+      "id": "B2_K5_M4_099",
+      "word": "aufrufen (zu + D.), rief auf, hat aufgerufen",
+      "meaning": "call (to + D.), called, called"
+    },
+    {
+      "id": "B2_K5_M4_100",
+      "word": "der Beitrag (einen Beitrag leisten)",
+      "plural": "die Beiträge",
+      "meaning": "contribution (to make a contribution)"
+    },
+    {
+      "id": "B2_K5_M4_101",
+      "word": "beleuchten",
+      "meaning": "illuminate",
+      "example": "eine Frage von allen Seiten beleuchten"
+    },
+    {
+      "id": "B2_K5_M4_102",
+      "word": "bemühen (sich) (um + A.)",
+      "meaning": "strive (for + A.)"
+    },
+    {
+      "id": "B2_K5_M4_103",
+      "word": "der Effekt",
+      "plural": "die Effekte",
+      "meaning": "effect"
+    },
+    {
+      "id": "B2_K5_M4_104",
+      "word": "eigensinnig",
+      "meaning": "willful"
+    },
+    {
+      "id": "B2_K5_M4_105",
+      "word": "der Einsatz",
+      "plural": "die Einsätze",
+      "meaning": "stake"
+    },
+    {
+      "id": "B2_K5_M4_106",
+      "word": "die Elektrizität (Sg.)",
+      "meaning": "electricity"
+    },
+    {
+      "id": "B2_K5_M4_107",
+      "word": "erfolglos",
+      "meaning": "unsuccessful"
+    },
+    {
+      "id": "B2_K5_M4_108",
+      "word": "erhalten, erhielt, hat erhalten",
+      "meaning": "received, received, received",
+      "example": "einen Ruf an die Universität erhalten"
+    },
+    {
+      "id": "B2_K5_M4_109",
+      "word": "die Expedition",
+      "plural": "die Expeditionen",
+      "meaning": "the expedition",
+      "example": "sich auf eine Expedition begeben"
+    },
+    {
+      "id": "B2_K5_M4_110",
+      "word": "die Feldtheorie",
+      "plural": "die Feldtheorien",
+      "meaning": "field theory"
+    },
+    {
+      "id": "B2_K5_M4_111",
+      "word": "das Genie",
+      "plural": "die Genies",
+      "meaning": "the genius, -s"
+    },
+    {
+      "id": "B2_K5_M4_112",
+      "word": "die Gravitation (Sg.)",
+      "meaning": "gravitation"
+    },
+    {
+      "id": "B2_K5_M4_113",
+      "word": "grübeln (über + D.)",
+      "meaning": "brood (over + D.)"
+    },
+    {
+      "id": "B2_K5_M4_114",
+      "word": "das Hauptwerk",
+      "plural": "die Hauptwerke",
+      "meaning": "main work"
+    },
+    {
+      "id": "B2_K5_M4_115",
+      "word": "der Inbegriff (als Inbegriff von etw. gelten)",
+      "plural": "die Inbegriffe",
+      "meaning": "epitome (as the epitome of sth.be valid)"
+    },
+    {
+      "id": "B2_K5_M4_116",
+      "word": "inhaltlich",
+      "meaning": "content"
+    },
+    {
+      "id": "B2_K5_M4_117",
+      "word": "der/die Intellektuelle",
+      "plural": "die Intellektuellen",
+      "meaning": "intellectual"
+    },
+    {
+      "id": "B2_K5_M4_118",
+      "word": "konfiszieren",
+      "meaning": "confiscate"
+    },
+    {
+      "id": "B2_K5_M4_119",
+      "word": "langwierig",
+      "meaning": "lengthy"
+    },
+    {
+      "id": "B2_K5_M4_120",
+      "word": "maßgeblich",
+      "meaning": "essential"
+    },
+    {
+      "id": "B2_K5_M4_121",
+      "word": "die Meinungsfreiheit (Sg.)",
+      "meaning": "freedom of expression"
+    },
+    {
+      "id": "B2_K5_M4_122",
+      "word": "die Militarisierung",
+      "plural": "die Militarisierungen",
+      "meaning": "militarization"
+    },
+    {
+      "id": "B2_K5_M4_123",
+      "word": "der Nationalsozialismus (Sg.)",
+      "meaning": "National Socialism"
+    },
+    {
+      "id": "B2_K5_M4_124",
+      "word": "der/die Nationalsozialist/in",
+      "meaning": "National Socialist"
+    },
+    {
+      "id": "B2_K5_M4_125",
+      "word": "der Nobelpreis",
+      "plural": "die Nobelpreise",
+      "meaning": "Nobel Prize"
+    },
+    {
+      "id": "B2_K5_M4_126",
+      "word": "der/die Nobelpreisträger/in",
+      "meaning": "Nobel laureates"
+    },
+    {
+      "id": "B2_K5_M4_127",
+      "word": "der Pazifismus (Sg.)",
+      "meaning": "pacifism"
+    },
+    {
+      "id": "B2_K5_M4_128",
+      "word": "die Pflichtveranstaltung",
+      "plural": "die Pflichtveranstaltungen",
+      "meaning": "compulsory event"
+    },
+    {
+      "id": "B2_K5_M4_129",
+      "word": "physikalisch",
+      "meaning": "physically"
+    },
+    {
+      "id": "B2_K5_M4_130",
+      "word": "der/die Physiker/in",
+      "meaning": "physicist"
+    },
+    {
+      "id": "B2_K5_M4_131",
+      "word": "der/die Präsident/in",
+      "meaning": "president"
+    },
+    {
+      "id": "B2_K5_M4_132",
+      "word": "der Preis (jmd. einen Preis verleihen)",
+      "plural": "die Preise",
+      "meaning": "prize (award a prize to so.)"
+    },
+    {
+      "id": "B2_K5_M4_133",
+      "word": "publizieren",
+      "meaning": "publish"
+    },
+    {
+      "id": "B2_K5_M4_134",
+      "word": "der Rahmen",
+      "plural": "die Rahmen",
+      "meaning": "frame",
+      "example": "Im Rahmen einer Untersuchung wurden viele Vermutungen bestätigt."
+    },
+    {
+      "id": "B2_K5_M4_135",
+      "word": "revolutionieren",
+      "meaning": "revolutionize"
+    },
+    {
+      "id": "B2_K5_M4_136",
+      "word": "die Richtigkeit (Sg.)",
+      "meaning": "correctness"
+    },
+    {
+      "id": "B2_K5_M4_137",
+      "word": "der Ruf",
+      "plural": "die Rufe",
+      "meaning": "call",
+      "example": "einen Ruf an eine Universität erhalten"
+    },
+    {
+      "id": "B2_K5_M4_138",
+      "word": "der Schlag (auf einen Schlag)",
+      "plural": "die Schläge",
+      "meaning": "blow(in one blow)"
+    },
+    {
+      "id": "B2_K5_M4_139",
+      "word": "die Sonnenfinsternis (Sg.)",
+      "meaning": "solar eclipse"
+    },
+    {
+      "id": "B2_K5_M4_140",
+      "word": "die Theorie",
+      "plural": "die Theorien",
+      "meaning": "theory"
+    },
+    {
+      "id": "B2_K5_M4_141",
+      "word": "die Unterdrückung",
+      "plural": "die Unterdrückungen",
+      "meaning": "oppression"
+    },
+    {
+      "id": "B2_K5_M4_142",
+      "word": "vehement",
+      "meaning": "vehement"
+    },
+    {
+      "id": "B2_K5_M4_143",
+      "word": "vereinen (mit + D.)",
+      "meaning": "unite (with + D.)"
+    },
+    {
+      "id": "B2_K5_M4_144",
+      "word": "verleihen, verlieh, hat verliehen (jmd. einen Preis verleihen)",
+      "meaning": "bestow, bestowed, bestowed (award a prize to so.)"
+    },
+    {
+      "id": "B2_K5_M4_145",
+      "word": "das Vermögen",
+      "plural": "die Vermögen",
+      "meaning": "Fortune"
+    },
+    {
+      "id": "B2_K5_M4_146",
+      "word": "verstärkt",
+      "meaning": "reinforced"
+    },
+    {
+      "id": "B2_K5_M4_147",
+      "word": "die Vortragsreihe",
+      "plural": "die Vortragsreihen",
+      "meaning": "lecture series"
+    },
+    {
+      "id": "B2_K5_M4_148",
+      "word": "das Weltbild",
+      "plural": "die Weltbilder",
+      "meaning": "world view"
+    },
+    {
+      "id": "B2_K5_M4_149",
+      "word": "die Weltformel",
+      "plural": "die Weltformeln",
+      "meaning": "world formula"
+    },
+    {
+      "id": "B2_K5_M4_150",
+      "word": "wenden (sich) (gegen + A.)",
+      "meaning": "turn (against + A.)"
+    },
+    {
+      "id": "B2_K5_M4_151",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K5_M4_152",
+      "word": "der Vordergrund (im Vordergrund stehen)",
+      "plural": "die Vordergründe",
+      "meaning": "foreground (stand in the foreground)"
+    },
+    {
+      "id": "B2_K5_M4_153",
+      "word": "der Vorgang",
+      "plural": "die Vorgänge",
+      "meaning": "process"
     }
   ]
 }

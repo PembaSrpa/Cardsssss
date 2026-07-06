@@ -5,10 +5,777 @@
   "words": [
     {
       "id": "B2_K3_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Absprache",
+      "plural": "die Absprachen",
+      "meaning": "the agreement"
+    },
+    {
+      "id": "B2_K3_M4_002",
+      "word": "die Ausarbeitung",
+      "plural": "die Ausarbeitungen",
+      "meaning": "elaboration"
+    },
+    {
+      "id": "B2_K3_M4_003",
+      "word": "das Auslandssemester",
+      "plural": "die Auslandssemester",
+      "meaning": "semester abroad"
+    },
+    {
+      "id": "B2_K3_M4_004",
+      "word": "der Bachelor (Sg.)",
+      "meaning": "Bachelor"
+    },
+    {
+      "id": "B2_K3_M4_005",
+      "word": "die Bachelorarbeit",
+      "plural": "die Bachelorarbeiten",
+      "meaning": "bachelor thesis"
+    },
+    {
+      "id": "B2_K3_M4_006",
+      "word": "die Betreuung",
+      "plural": "die Betreuungen",
+      "meaning": "care"
+    },
+    {
+      "id": "B2_K3_M4_007",
+      "word": "der/die Bewerbungstrainer/in",
+      "meaning": "application trainer"
+    },
+    {
+      "id": "B2_K3_M4_008",
+      "word": "das Catering",
+      "plural": "die Caterings",
+      "meaning": "catering"
+    },
+    {
+      "id": "B2_K3_M4_009",
+      "word": "die Datumsangabe",
+      "plural": "die Datumsangaben",
+      "meaning": "date"
+    },
+    {
+      "id": "B2_K3_M4_010",
+      "word": "das Dokument",
+      "plural": "die Dokumente",
+      "meaning": "document"
+    },
+    {
+      "id": "B2_K3_M4_011",
+      "word": "die Durchführung",
+      "plural": "die Durchführungen",
+      "meaning": "implementation"
+    },
+    {
+      "id": "B2_K3_M4_012",
+      "word": "die EDV-Kenntnisse (Sg.)",
+      "meaning": "IT skills"
+    },
+    {
+      "id": "B2_K3_M4_013",
+      "word": "das Eventmanagement (Sg.)",
+      "meaning": "event management"
+    },
+    {
+      "id": "B2_K3_M4_014",
+      "word": "das Highlight",
+      "plural": "die Highlights",
+      "meaning": "highlight"
+    },
+    {
+      "id": "B2_K3_M4_015",
+      "word": "die Kalkulation",
+      "plural": "die Kalkulationen",
+      "meaning": "calculation"
+    },
+    {
+      "id": "B2_K3_M4_016",
+      "word": "die Kenntnis",
+      "plural": "die Kenntnisse",
+      "meaning": "knowledge"
+    },
+    {
+      "id": "B2_K3_M4_017",
+      "word": "die Konzeption",
+      "plural": "die Konzeptionen",
+      "meaning": "conception"
+    },
+    {
+      "id": "B2_K3_M4_018",
+      "word": "die Koordination (Sg.)",
+      "meaning": "coordination"
+    },
+    {
+      "id": "B2_K3_M4_019",
+      "word": "das Management",
+      "plural": "die Managements",
+      "meaning": "management"
+    },
+    {
+      "id": "B2_K3_M4_020",
+      "word": "das Messecatering",
+      "plural": "die Messecaterings",
+      "meaning": "fair catering"
+    },
+    {
+      "id": "B2_K3_M4_021",
+      "word": "die Mitarbeit (Sg.)",
+      "meaning": "cooperation"
+    },
+    {
+      "id": "B2_K3_M4_022",
+      "word": "die Nationalität",
+      "plural": "die Nationalitäten",
+      "meaning": "nationality"
+    },
+    {
+      "id": "B2_K3_M4_023",
+      "word": "die Neukundengewinnung (Sg.)",
+      "meaning": "acquisition of new customers"
+    },
+    {
+      "id": "B2_K3_M4_024",
+      "word": "die Organisation",
+      "plural": "die Organisationen",
+      "meaning": "organization",
+      "example": "Zu meinen Aufgaben gehört die Organisation von Veranstaltungen."
+    },
+    {
+      "id": "B2_K3_M4_025",
+      "word": "das Persönlichkeitstraining (Sg.)",
+      "meaning": "personality training"
+    },
+    {
+      "id": "B2_K3_M4_026",
+      "word": "die Präsentationssoftware",
+      "plural": "die Präsentationssoftwares",
+      "meaning": "presentation software"
+    },
+    {
+      "id": "B2_K3_M4_027",
+      "word": "die Projektleitung",
+      "plural": "die Projektleitungen",
+      "meaning": "project management"
+    },
+    {
+      "id": "B2_K3_M4_028",
+      "word": "der Rechtschreibfehler",
+      "plural": "die Rechtschreibfehler",
+      "meaning": "spelling mistake"
+    },
+    {
+      "id": "B2_K3_M4_029",
+      "word": "seriös",
+      "meaning": "serious"
+    },
+    {
+      "id": "B2_K3_M4_030",
+      "word": "die Spalte",
+      "plural": "die Spalten",
+      "meaning": "column",
+      "example": "Setzen Sie die Überschrift in die zweite Spalte der Tabelle."
+    },
+    {
+      "id": "B2_K3_M4_031",
+      "word": "die Sprachkenntnisse (Pl.)",
+      "meaning": "language skills"
+    },
+    {
+      "id": "B2_K3_M4_032",
+      "word": "das Start-up",
+      "plural": "die Start-ups",
+      "meaning": "start-up"
+    },
+    {
+      "id": "B2_K3_M4_033",
+      "word": "übersichtlich",
+      "meaning": "clear"
+    },
+    {
+      "id": "B2_K3_M4_034",
+      "word": "das Veranstaltungskonzept",
+      "plural": "die Veranstaltungskonzepte",
+      "meaning": "event concept"
+    },
+    {
+      "id": "B2_K3_M4_035",
+      "word": "verhandlungssicher",
+      "meaning": "business fluent",
+      "example": "Ihre Englischkenntnisse sind verhandlungssicher."
+    },
+    {
+      "id": "B2_K3_M4_036",
+      "word": "der/die Verkaufsassistent/in",
+      "meaning": "the sales assistant"
+    },
+    {
+      "id": "B2_K3_M4_037",
+      "word": "wirkungsvoll",
+      "meaning": "effectively"
+    },
+    {
+      "id": "B2_K3_M4_038",
+      "word": "der Zusammenhang (mit etw. im Zusammenhang stehen)",
+      "plural": "die Zusammenhänge",
+      "meaning": "context (with sth Related)"
+    },
+    {
+      "id": "B2_K3_M4_039",
+      "word": "die EDV (Sg.)",
+      "meaning": "the EDP"
+    },
+    {
+      "id": "B2_K3_M4_040",
+      "word": "gliedern (in + D.)",
+      "meaning": "structure"
+    },
+    {
+      "id": "B2_K3_M4_041",
+      "word": "das Muster",
+      "plural": "die Muster",
+      "meaning": "pattern"
+    },
+    {
+      "id": "B2_K3_M4_042",
+      "word": "relevant",
+      "meaning": "relevant"
+    },
+    {
+      "id": "B2_K3_M4_043",
+      "word": "teamfähig",
+      "meaning": "team player"
+    },
+    {
+      "id": "B2_K3_M4_044",
+      "word": "abgeschlossen (ein abgeschlossenes Studium)",
+      "meaning": "completed (one completed Education)"
+    },
+    {
+      "id": "B2_K3_M4_045",
+      "word": "die Anforderung",
+      "plural": "die Anforderungen",
+      "meaning": "requirements"
+    },
+    {
+      "id": "B2_K3_M4_046",
+      "word": "die Arbeitsweise",
+      "plural": "die Arbeitsweisen",
+      "meaning": "way of working"
+    },
+    {
+      "id": "B2_K3_M4_047",
+      "word": "die Atmosphäre",
+      "plural": "die Atmosphären",
+      "meaning": "atmosphere"
+    },
+    {
+      "id": "B2_K3_M4_048",
+      "word": "das Aufgabengebiet",
+      "plural": "die Aufgabengebiete",
+      "meaning": "area of responsibility"
+    },
+    {
+      "id": "B2_K3_M4_049",
+      "word": "aussagekräftig",
+      "meaning": "meaningful"
+    },
+    {
+      "id": "B2_K3_M4_050",
+      "word": "betreuen",
+      "meaning": "look after"
+    },
+    {
+      "id": "B2_K3_M4_051",
+      "word": "der/die Bewerber/in",
+      "meaning": "applicant"
+    },
+    {
+      "id": "B2_K3_M4_052",
+      "word": "das Budget",
+      "plural": "die Budgets",
+      "meaning": "budget"
+    },
+    {
+      "id": "B2_K3_M4_053",
+      "word": "die Entwicklungsperspektive",
+      "plural": "die Entwicklungsperspektiven",
+      "meaning": "development perspective"
+    },
+    {
+      "id": "B2_K3_M4_054",
+      "word": "das Eventmarketing (Sg.)",
+      "meaning": "event marketing"
+    },
+    {
+      "id": "B2_K3_M4_055",
+      "word": "die Kampagne",
+      "plural": "die Kampagnen",
+      "meaning": "campaign"
+    },
+    {
+      "id": "B2_K3_M4_056",
+      "word": "die Kommunikationsstärke",
+      "plural": "die Kommunikationsstärken",
+      "meaning": "communication strength"
+    },
+    {
+      "id": "B2_K3_M4_057",
+      "word": "das Markenunternehmen",
+      "plural": "die Markenunternehmen",
+      "meaning": "brand company,"
+    },
+    {
+      "id": "B2_K3_M4_058",
+      "word": "das Profil",
+      "plural": "die Profile",
+      "meaning": "profile"
+    },
+    {
+      "id": "B2_K3_M4_059",
+      "word": "das Projektmanagement",
+      "plural": "die Projektmanagements",
+      "meaning": "project management"
+    },
+    {
+      "id": "B2_K3_M4_060",
+      "word": "die Stellenausschreibung",
+      "plural": "die Stellenausschreibungen",
+      "meaning": "job advertisement"
+    },
+    {
+      "id": "B2_K3_M4_061",
+      "word": "die Veranstaltungsagentur",
+      "plural": "die Veranstaltungsagenturen",
+      "meaning": "event agency"
+    },
+    {
+      "id": "B2_K3_M4_062",
+      "word": "verantworten",
+      "meaning": "answer for"
+    },
+    {
+      "id": "B2_K3_M4_063",
+      "word": "die Angebotserstellung",
+      "plural": "die Angebotserstellungen",
+      "meaning": "preparation of the offer"
+    },
+    {
+      "id": "B2_K3_M4_064",
+      "word": "der Auslandsaufenthalt",
+      "plural": "die Auslandsaufenthalte",
+      "meaning": "stay abroad"
+    },
+    {
+      "id": "B2_K3_M4_065",
+      "word": "bisherig",
+      "meaning": "bisherig"
+    },
+    {
+      "id": "B2_K3_M4_066",
+      "word": "budgetverantwortlich",
+      "meaning": "budget responsibility"
+    },
+    {
+      "id": "B2_K3_M4_067",
+      "word": "darüber hinaus",
+      "meaning": "Furthermore"
+    },
+    {
+      "id": "B2_K3_M4_068",
+      "word": "einbringen, brachte ein, hat eingebracht",
+      "meaning": "bring in, brought in, brought in",
+      "example": "Erfahrungen einbringen"
+    },
+    {
+      "id": "B2_K3_M4_069",
+      "word": "die Erfahrung (Erfahrungen sammeln)",
+      "plural": "die Erfahrungen",
+      "meaning": "experience"
+    },
+    {
+      "id": "B2_K3_M4_070",
+      "word": "die Erfahrung (Erfahrungen einbringen)",
+      "plural": "die Erfahrungen",
+      "meaning": "bring"
+    },
+    {
+      "id": "B2_K3_M4_071",
+      "word": "der/die Eventmanager/in",
+      "meaning": "event manager"
+    },
+    {
+      "id": "B2_K3_M4_072",
+      "word": "liegen, lag, hat gelegen",
+      "meaning": "to lie, lay, lie",
+      "example": "Die Leitung von anspruchsvollen Events liegt mir."
+    },
+    {
+      "id": "B2_K3_M4_073",
+      "word": "der Umfang (in vollem Umfang)",
+      "plural": "die Umfänge",
+      "meaning": "scope"
+    },
+    {
+      "id": "B2_K3_M4_074",
+      "word": "umfangreich",
+      "meaning": "extensive"
+    },
+    {
+      "id": "B2_K3_M4_075",
+      "word": "das Unternehmen",
+      "plural": "die Unternehmen",
+      "meaning": "enterprise, -"
+    },
+    {
+      "id": "B2_K3_M4_076",
+      "word": "vertiefen",
+      "meaning": "deepen"
+    },
+    {
+      "id": "B2_K3_M4_077",
+      "word": "das Vorstellungsgespräch",
+      "plural": "die Vorstellungsgespräche",
+      "meaning": "interview"
+    },
+    {
+      "id": "B2_K3_M4_078",
+      "word": "zielorientiert",
+      "meaning": "goal-oriented"
+    },
+    {
+      "id": "B2_K3_M4_079",
+      "word": "das Anschreiben",
+      "plural": "die Anschreiben",
+      "meaning": "the cover letter,"
+    },
+    {
+      "id": "B2_K3_M4_080",
+      "word": "erhoffen (sich) (von + D.)",
+      "meaning": "hope (from + D.)"
+    },
+    {
+      "id": "B2_K3_M4_081",
+      "word": "informativ",
+      "meaning": "informative"
+    },
+    {
+      "id": "B2_K3_M4_082",
+      "word": "jetzig",
+      "meaning": "jetzig"
+    },
+    {
+      "id": "B2_K3_M4_083",
+      "word": "der Wechsel",
+      "plural": "die Wechsel",
+      "meaning": "change, -"
+    },
+    {
+      "id": "B2_K3_M4_084",
+      "word": "die Anschrift",
+      "plural": "die Anschriften",
+      "meaning": "the address"
+    },
+    {
+      "id": "B2_K3_M4_085",
+      "word": "die Betreffzeile",
+      "plural": "die Betreffzeilen",
+      "meaning": "subject line"
+    },
+    {
+      "id": "B2_K3_M4_086",
+      "word": "der Bewerbungsbrief",
+      "plural": "die Bewerbungsbriefe",
+      "meaning": "application letter"
+    },
+    {
+      "id": "B2_K3_M4_087",
+      "word": "die Schlussformel",
+      "plural": "die Schlussformeln",
+      "meaning": "final formula"
+    },
+    {
+      "id": "B2_K3_M4_088",
+      "word": "die Vorliebe (für + A.)",
+      "meaning": "preference (for + A.)"
+    },
+    {
+      "id": "B2_K3_M4_089",
+      "word": "arrogant",
+      "meaning": "arrogant"
+    },
+    {
+      "id": "B2_K3_M4_090",
+      "word": "die Checkliste",
+      "plural": "die Checklisten",
+      "meaning": "checklist"
+    },
+    {
+      "id": "B2_K3_M4_091",
+      "word": "selbstbewusst",
+      "meaning": "confident"
+    },
+    {
+      "id": "B2_K3_M4_092",
+      "word": "die Selbstdarstellung",
+      "plural": "die Selbstdarstellungen",
+      "meaning": "self-presentation"
+    },
+    {
+      "id": "B2_K3_M4_093",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K3_M4_094",
+      "word": "der Anbau (Sg.) (der Anbau von Baumwolle)",
+      "meaning": "cultivation (Sg.) (the cultivation of Cotton)"
+    },
+    {
+      "id": "B2_K3_M4_095",
+      "word": "der Arbeitsmarkt",
+      "plural": "die Arbeitsmärkte",
+      "meaning": "tlabor market"
+    },
+    {
+      "id": "B2_K3_M4_096",
+      "word": "das Aufsehen (Sg.) (Aufsehen erregen)",
+      "meaning": "sensation (Sg.) (cause a sensation)"
+    },
+    {
+      "id": "B2_K3_M4_097",
+      "word": "ausgesprochen",
+      "meaning": "pronounced",
+      "example": "Ihr Sinn für Gerechtigkeit ist ausgesprochen groß."
+    },
+    {
+      "id": "B2_K3_M4_098",
+      "word": "avancieren (zu + D.)",
+      "meaning": "advance (to + D.)"
+    },
+    {
+      "id": "B2_K3_M4_099",
+      "word": "die Baumwolle (Sg.)",
+      "meaning": "cotton"
+    },
+    {
+      "id": "B2_K3_M4_100",
+      "word": "die Bekleidung",
+      "plural": "die Bekleidungen",
+      "meaning": "clothing"
+    },
+    {
+      "id": "B2_K3_M4_101",
+      "word": "beschäftigen",
+      "meaning": "employ",
+      "example": "Sie beschäftigt 100 Angestellte."
+    },
+    {
+      "id": "B2_K3_M4_102",
+      "word": "das Billiglohnland",
+      "plural": "die Billiglohnländer",
+      "meaning": "low-wage country"
+    },
+    {
+      "id": "B2_K3_M4_103",
+      "word": "die Biobaumwolltasche",
+      "plural": "die Biobaumwolltasche",
+      "meaning": "organic cotton bag,"
+    },
+    {
+      "id": "B2_K3_M4_104",
+      "word": "erregen (Aufsehen erregen)",
+      "meaning": "excite (cause a stir)"
+    },
+    {
+      "id": "B2_K3_M4_105",
+      "word": "das Garn",
+      "plural": "die Garne",
+      "meaning": "yarn"
+    },
+    {
+      "id": "B2_K3_M4_106",
+      "word": "gefragt sein",
+      "meaning": "be in demand"
+    },
+    {
+      "id": "B2_K3_M4_107",
+      "word": "der Gerechtigkeitssinn (Sg.)",
+      "meaning": "sense of justice"
+    },
+    {
+      "id": "B2_K3_M4_108",
+      "word": "der/die Geschäftsführer/in",
+      "meaning": "managing director"
+    },
+    {
+      "id": "B2_K3_M4_109",
+      "word": "die Gewerkschaft",
+      "plural": "die Gewerkschaften",
+      "meaning": "unions"
+    },
+    {
+      "id": "B2_K3_M4_110",
+      "word": "die Grundvoraussetzung",
+      "plural": "die Grundvoraussetzungen",
+      "meaning": "basic requirement"
+    },
+    {
+      "id": "B2_K3_M4_111",
+      "word": "herstellen",
+      "meaning": "produce"
+    },
+    {
+      "id": "B2_K3_M4_112",
+      "word": "hierzulande",
+      "meaning": "this country"
+    },
+    {
+      "id": "B2_K3_M4_113",
+      "word": "hofieren",
+      "meaning": "court"
+    },
+    {
+      "id": "B2_K3_M4_114",
+      "word": "importieren",
+      "meaning": "import"
+    },
+    {
+      "id": "B2_K3_M4_115",
+      "word": "das Kindesbein (von Kindesbeinen an)",
+      "plural": "die Kindesbeine",
+      "meaning": "child's leg, -e (from childhood)"
+    },
+    {
+      "id": "B2_K3_M4_116",
+      "word": "konkurrenzfähig",
+      "meaning": "competitive"
+    },
+    {
+      "id": "B2_K3_M4_117",
+      "word": "der/die Langzeitarbeitslose",
+      "plural": "die Langzeitarbeitslosen",
+      "meaning": "long-term unemployed"
+    },
+    {
+      "id": "B2_K3_M4_118",
+      "word": "der Liebling",
+      "plural": "die Lieblinge",
+      "meaning": "darling"
+    },
+    {
+      "id": "B2_K3_M4_119",
+      "word": "das Lob (Sg.)",
+      "meaning": "praise"
+    },
+    {
+      "id": "B2_K3_M4_120",
+      "word": "die Manufaktur",
+      "plural": "die Manufakturen",
+      "meaning": "manufactory"
+    },
+    {
+      "id": "B2_K3_M4_121",
+      "word": "der/die Näher/in",
+      "meaning": "seamstress"
+    },
+    {
+      "id": "B2_K3_M4_122",
+      "word": "die Naht",
+      "plural": "die Nähte",
+      "meaning": "seam"
+    },
+    {
+      "id": "B2_K3_M4_123",
+      "word": "respektvoll",
+      "meaning": "respectful"
+    },
+    {
+      "id": "B2_K3_M4_124",
+      "word": "das Rohwarenlager",
+      "plural": "die Rohwarenlager",
+      "meaning": "raw material warehouse,"
+    },
+    {
+      "id": "B2_K3_M4_125",
+      "word": "der Textilbereich",
+      "plural": "die Textilbereiche",
+      "meaning": "textile sector"
+    },
+    {
+      "id": "B2_K3_M4_126",
+      "word": "der Textilhersteller",
+      "plural": "die Textilhersteller",
+      "meaning": "textile manufacturer,"
+    },
+    {
+      "id": "B2_K3_M4_127",
+      "word": "die Textilie",
+      "plural": "die Textilien",
+      "meaning": "textile"
+    },
+    {
+      "id": "B2_K3_M4_128",
+      "word": "der/die Textilunternehmer/in",
+      "meaning": "textile entrepreneur"
+    },
+    {
+      "id": "B2_K3_M4_129",
+      "word": "die Transparenz (Sg.)",
+      "meaning": "transparency"
+    },
+    {
+      "id": "B2_K3_M4_130",
+      "word": "der Umkreis (im Umkreis von)",
+      "plural": "die Umkreise",
+      "meaning": "radius ( within )"
+    },
+    {
+      "id": "B2_K3_M4_131",
+      "word": "der/die Unternehmer/in",
+      "meaning": "entrepreneur"
+    },
+    {
+      "id": "B2_K3_M4_132",
+      "word": "verankern",
+      "meaning": "anchor"
+    },
+    {
+      "id": "B2_K3_M4_133",
+      "word": "verlagern",
+      "meaning": "shift"
+    },
+    {
+      "id": "B2_K3_M4_134",
+      "word": "verzweifelt",
+      "meaning": "desperate"
+    },
+    {
+      "id": "B2_K3_M4_135",
+      "word": "die Werbeagentur",
+      "plural": "die Werbeagenturen",
+      "meaning": "advertising agency"
+    },
+    {
+      "id": "B2_K3_M4_136",
+      "word": "zutrauen",
+      "meaning": "confidence"
+    },
+    {
+      "id": "B2_K3_M4_137",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K3_M4_138",
+      "word": "final",
+      "meaning": "final"
+    },
+    {
+      "id": "B2_K3_M4_139",
+      "word": "das Komma",
+      "plural": "die Kommas",
+      "meaning": "comma"
     }
   ]
 }

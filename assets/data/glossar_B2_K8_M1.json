@@ -5,10 +5,205 @@
   "words": [
     {
       "id": "B2_K8_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Weltgeschichte (Sg.)",
+      "meaning": "world history"
+    },
+    {
+      "id": "B2_K8_M1_002",
+      "word": "die Antike (Sg.)",
+      "meaning": "antiquity"
+    },
+    {
+      "id": "B2_K8_M1_003",
+      "word": "die Zeitreise",
+      "plural": "die Zeitreisen",
+      "meaning": "time travel"
+    },
+    {
+      "id": "B2_K8_M1_004",
+      "word": "die Burgdame",
+      "plural": "die Burgdamen",
+      "meaning": "castle lady"
+    },
+    {
+      "id": "B2_K8_M1_005",
+      "word": "der Knecht",
+      "plural": "die Knechte",
+      "meaning": "servant"
+    },
+    {
+      "id": "B2_K8_M1_006",
+      "word": "der/die Krieger/in",
+      "meaning": "warrior"
+    },
+    {
+      "id": "B2_K8_M1_007",
+      "word": "die Magd",
+      "plural": "die Mägde",
+      "meaning": "maid"
+    },
+    {
+      "id": "B2_K8_M1_008",
+      "word": "der/die Musikant/in",
+      "meaning": "musician"
+    },
+    {
+      "id": "B2_K8_M1_009",
+      "word": "der Ritter",
+      "plural": "die Ritter",
+      "meaning": "Knight"
+    },
+    {
+      "id": "B2_K8_M1_010",
+      "word": "das Turnier",
+      "plural": "die Turniere",
+      "meaning": "tournament"
+    },
+    {
+      "id": "B2_K8_M1_011",
+      "word": "ausmachen (den Reiz ausmachen)",
+      "meaning": "make out (make out the charm)"
+    },
+    {
+      "id": "B2_K8_M1_012",
+      "word": "die Bestseller-Liste",
+      "plural": "die Bestseller-Listen",
+      "meaning": "bestseller list"
+    },
+    {
+      "id": "B2_K8_M1_013",
+      "word": "das Camp",
+      "plural": "die Camps",
+      "meaning": "camp"
+    },
+    {
+      "id": "B2_K8_M1_014",
+      "word": "die Faszination (Sg.)",
+      "meaning": "fascination"
+    },
+    {
+      "id": "B2_K8_M1_015",
+      "word": "die Gemeinschaft",
+      "plural": "die Gemeinschaften",
+      "meaning": "community"
+    },
+    {
+      "id": "B2_K8_M1_016",
+      "word": "die Isolation",
+      "plural": "die Isolationen",
+      "meaning": "isolation"
+    },
+    {
+      "id": "B2_K8_M1_017",
+      "word": "kennzeichnen (durch + A. / mit D.)",
+      "meaning": "mark (by + A. / with D.)"
+    },
+    {
+      "id": "B2_K8_M1_018",
+      "word": "das Maß",
+      "plural": "die Maße",
+      "meaning": "measure"
+    },
+    {
+      "id": "B2_K8_M1_019",
+      "word": "der Reiz (den Reiz ausmachen)",
+      "meaning": "attraction (make up the attraction)"
+    },
+    {
+      "id": "B2_K8_M1_020",
+      "word": "der Rollentausch",
+      "plural": "die Rollentausche",
+      "meaning": "role reversal"
+    },
+    {
+      "id": "B2_K8_M1_021",
+      "word": "der Schauplatz",
+      "plural": "die Schauplätze",
+      "meaning": "scene"
+    },
+    {
+      "id": "B2_K8_M1_022",
+      "word": "schlüpfen (in + A.) (in eine Rolle schlüpfen)",
+      "meaning": "hatch (in + A.) (slip into a role)"
+    },
+    {
+      "id": "B2_K8_M1_023",
+      "word": "der/die Schmied/in",
+      "meaning": "blacksmith"
+    },
+    {
+      "id": "B2_K8_M1_024",
+      "word": "die Themen-Tour",
+      "plural": "die Themen-Touren",
+      "meaning": "themed tour"
+    },
+    {
+      "id": "B2_K8_M1_025",
+      "word": "die Unfreiheit (Sg.)",
+      "meaning": "lack of freedom"
+    },
+    {
+      "id": "B2_K8_M1_026",
+      "word": "unzählig",
+      "meaning": "countless"
+    },
+    {
+      "id": "B2_K8_M1_027",
+      "word": "vergießen, vergoss, hat vergossen",
+      "meaning": "shed, shed, shed",
+      "example": "Blut vergießen"
+    },
+    {
+      "id": "B2_K8_M1_028",
+      "word": "die Versorgung",
+      "plural": "die Versorgungen",
+      "meaning": "supply",
+      "example": "medizinische Versorgung"
+    },
+    {
+      "id": "B2_K8_M1_029",
+      "word": "wach halten, hielt wach, hat",
+      "meaning": "keep awake, keep awake, has"
+    },
+    {
+      "id": "B2_K8_M1_030",
+      "word": "wachgehalten",
+      "meaning": "kept alive"
+    },
+    {
+      "id": "B2_K8_M1_031",
+      "word": "wild",
+      "meaning": "wild"
+    },
+    {
+      "id": "B2_K8_M1_032",
+      "word": "die E-Gitarre",
+      "plural": "die E-Gitarren",
+      "meaning": "the electric guitar"
+    },
+    {
+      "id": "B2_K8_M1_033",
+      "word": "die Kampfkunst",
+      "plural": "die Kampfkünste",
+      "meaning": "martial art"
+    },
+    {
+      "id": "B2_K8_M1_034",
+      "word": "die Laute",
+      "plural": "die Lauten",
+      "meaning": "sounds",
+      "example": "Im Mittelalter machte man Musik mit der Laute."
+    },
+    {
+      "id": "B2_K8_M1_035",
+      "word": "die Rüstung",
+      "plural": "die Rüstungen",
+      "meaning": "armor"
+    },
+    {
+      "id": "B2_K8_M1_036",
+      "word": "staunen (über + A.)",
+      "meaning": "marvel (over + A.)"
     }
   ]
 }

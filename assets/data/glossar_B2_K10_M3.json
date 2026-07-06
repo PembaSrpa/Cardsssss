@@ -5,10 +5,127 @@
   "words": [
     {
       "id": "B2_K10_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der/die Berater/in",
+      "meaning": "the advisor"
+    },
+    {
+      "id": "B2_K10_M3_002",
+      "word": "der Berufswunsch",
+      "plural": "die Berufswünsche",
+      "meaning": "career choice"
+    },
+    {
+      "id": "B2_K10_M3_003",
+      "word": "der IT-Bereich",
+      "plural": "die IT-Bereich",
+      "meaning": "IT area"
+    },
+    {
+      "id": "B2_K10_M3_004",
+      "word": "der/die Moderator/in",
+      "meaning": "moderator"
+    },
+    {
+      "id": "B2_K10_M3_005",
+      "word": "die Programmankündigung",
+      "plural": "die Programmankündigungen",
+      "meaning": "program announcement"
+    },
+    {
+      "id": "B2_K10_M3_006",
+      "word": "weiterhin",
+      "meaning": "Farther"
+    },
+    {
+      "id": "B2_K10_M3_007",
+      "word": "der/die Wissensmanager/in",
+      "meaning": "knowledge manager"
+    },
+    {
+      "id": "B2_K10_M3_008",
+      "word": "das Arbeitsgebiet",
+      "plural": "die Arbeitsgebiete",
+      "meaning": "work area"
+    },
+    {
+      "id": "B2_K10_M3_009",
+      "word": "die Berufsausbildung",
+      "plural": "die Berufsausbildungen",
+      "meaning": "vocational training"
+    },
+    {
+      "id": "B2_K10_M3_010",
+      "word": "der Berufsbereich",
+      "plural": "die Berufsbereiche",
+      "meaning": "professional field"
+    },
+    {
+      "id": "B2_K10_M3_011",
+      "word": "geben, gab, hat gegeben (Auskunft geben)",
+      "meaning": "give, gave, gave (give information)"
+    },
+    {
+      "id": "B2_K10_M3_012",
+      "word": "die Informationsbeschaffung (Sg.)",
+      "meaning": "gathering of information (Sg.)"
+    },
+    {
+      "id": "B2_K10_M3_013",
+      "word": "das Internetmanagement (Sg.)",
+      "meaning": "Internet management (Sg.)"
+    },
+    {
+      "id": "B2_K10_M3_014",
+      "word": "die Kommunikationsmöglichkeit",
+      "plural": "die Kommunikationsmöglichkeiten",
+      "meaning": "possibility of communication"
+    },
+    {
+      "id": "B2_K10_M3_015",
+      "word": "das Ausbildungsangebot",
+      "plural": "die Ausbildungsangebote",
+      "meaning": "the training offer, -e"
+    },
+    {
+      "id": "B2_K10_M3_016",
+      "word": "der/die Berufsanfänger/in",
+      "meaning": "young professional"
+    },
+    {
+      "id": "B2_K10_M3_017",
+      "word": "die Berufswelt (Sg.)",
+      "meaning": "professional world (Sg.)"
+    },
+    {
+      "id": "B2_K10_M3_018",
+      "word": "infolge",
+      "meaning": "as a result"
+    },
+    {
+      "id": "B2_K10_M3_019",
+      "word": "die Nachfrage (Sg.)",
+      "meaning": "demand (Sg.)"
+    },
+    {
+      "id": "B2_K10_M3_020",
+      "word": "die Wissensbeschaffung (Sg.)",
+      "meaning": "knowledge acquisition (Sg.)"
+    },
+    {
+      "id": "B2_K10_M3_021",
+      "word": "zugänglich (für + A.)",
+      "meaning": "accessible (for + A.)"
+    },
+    {
+      "id": "B2_K10_M3_022",
+      "word": "die Belastung",
+      "plural": "die Belastungen",
+      "meaning": "the load, -en"
+    },
+    {
+      "id": "B2_K10_M3_023",
+      "word": "zukunftssicher",
+      "meaning": "future-proof"
     }
   ]
 }

@@ -4,19 +4,19 @@
   "modules": [
     {
       "id": "m1",
-      "title": "Modul 1"
+      "title": "Wortschatz"
     },
     {
       "id": "m2",
-      "title": "Modul 2"
+      "title": "Grammatik"
     },
     {
       "id": "m3",
-      "title": "Modul 3"
+      "title": "Kommunikation"
     },
     {
       "id": "m4",
-      "title": "Modul 4"
+      "title": "Portraits"
     }
   ]
 }

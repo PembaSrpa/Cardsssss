@@ -5,10 +5,762 @@
   "words": [
     {
       "id": "B2_K8_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Teilung",
+      "plural": "die Teilungen",
+      "meaning": "division"
+    },
+    {
+      "id": "B2_K8_M4_002",
+      "word": "abgrenzen",
+      "meaning": "Delimit"
+    },
+    {
+      "id": "B2_K8_M4_003",
+      "word": "abriegeln",
+      "meaning": "seal off"
+    },
+    {
+      "id": "B2_K8_M4_004",
+      "word": "die Absperrung",
+      "plural": "die Absperrungen",
+      "meaning": "barrier"
+    },
+    {
+      "id": "B2_K8_M4_005",
+      "word": "die Aufteilung",
+      "plural": "die Aufteilungen",
+      "meaning": "division"
+    },
+    {
+      "id": "B2_K8_M4_006",
+      "word": "der Ausbau",
+      "plural": "die Ausbauten",
+      "meaning": "expansion"
+    },
+    {
+      "id": "B2_K8_M4_007",
+      "word": "ausbauen",
+      "meaning": "Remove"
+    },
+    {
+      "id": "B2_K8_M4_008",
+      "word": "die Ausreisekontrolle",
+      "plural": "die Ausreisekontrollen",
+      "meaning": "the exit control, -n"
+    },
+    {
+      "id": "B2_K8_M4_009",
+      "word": "der/die Bauarbeiter/in",
+      "meaning": "the construction worker"
+    },
+    {
+      "id": "B2_K8_M4_010",
+      "word": "die Besatzungszone",
+      "plural": "die Besatzungszonen",
+      "meaning": "the zone of occupation, -n"
+    },
+    {
+      "id": "B2_K8_M4_011",
+      "word": "die Bewachung (unter strenger Bewachung stehen)",
+      "plural": "die Bewachungen",
+      "meaning": "guarding, -en (under strict Stand guard)"
+    },
+    {
+      "id": "B2_K8_M4_012",
+      "word": "endgültig",
+      "meaning": "finally"
+    },
+    {
+      "id": "B2_K8_M4_013",
+      "word": "errichten (ein Gebäude errichten)",
+      "meaning": "erect (erect a building)"
+    },
+    {
+      "id": "B2_K8_M4_014",
+      "word": "festlegen",
+      "meaning": "establish"
+    },
+    {
+      "id": "B2_K8_M4_015",
+      "word": "der Gehweg",
+      "plural": "die Gehwege",
+      "meaning": "sidewalk"
+    },
+    {
+      "id": "B2_K8_M4_016",
+      "word": "die Genehmigung",
+      "plural": "die Genehmigungen",
+      "meaning": "approval"
+    },
+    {
+      "id": "B2_K8_M4_017",
+      "word": "das Grenzgebiet",
+      "plural": "die Grenzgebiete",
+      "meaning": "border area"
+    },
+    {
+      "id": "B2_K8_M4_018",
+      "word": "die Grenzkontrolle",
+      "plural": "die Grenzkontrollen",
+      "meaning": "border control"
+    },
+    {
+      "id": "B2_K8_M4_019",
+      "word": "der/die Grenzsoldat/in",
+      "meaning": "border soldier"
+    },
+    {
+      "id": "B2_K8_M4_020",
+      "word": "großteils",
+      "meaning": "mostly"
+    },
+    {
+      "id": "B2_K8_M4_021",
+      "word": "der Hinterhof",
+      "plural": "die Hinterhöfe",
+      "meaning": "back yard"
+    },
+    {
+      "id": "B2_K8_M4_022",
+      "word": "komfortabel",
+      "meaning": "comfortable"
+    },
+    {
+      "id": "B2_K8_M4_023",
+      "word": "das Kontrollsystem",
+      "plural": "die Kontrollsysteme",
+      "meaning": "the control system, -e"
+    },
+    {
+      "id": "B2_K8_M4_024",
+      "word": "die Lebensbedingung",
+      "plural": "die Lebensbedingungen",
+      "meaning": "the living condition, -en"
+    },
+    {
+      "id": "B2_K8_M4_025",
+      "word": "perfektionieren",
+      "meaning": "perfect"
+    },
+    {
+      "id": "B2_K8_M4_026",
+      "word": "rücksichtslos",
+      "meaning": "ruthless"
+    },
+    {
+      "id": "B2_K8_M4_027",
+      "word": "die Schließung",
+      "plural": "die Schließungen",
+      "meaning": "the closure, -en"
+    },
+    {
+      "id": "B2_K8_M4_028",
+      "word": "sogenannt",
+      "meaning": "so-called"
+    },
+    {
+      "id": "B2_K8_M4_029",
+      "word": "überwachen",
+      "meaning": "monitor"
+    },
+    {
+      "id": "B2_K8_M4_030",
+      "word": "überwinden, überwand, hat überwunden",
+      "meaning": "overcome, overcome, has overcome"
+    },
+    {
+      "id": "B2_K8_M4_031",
+      "word": "ungehindert",
+      "meaning": "unimpeded"
+    },
+    {
+      "id": "B2_K8_M4_032",
+      "word": "die Unterteilung",
+      "plural": "die Unterteilungen",
+      "meaning": "division"
+    },
+    {
+      "id": "B2_K8_M4_033",
+      "word": "der Wachturm",
+      "plural": "die Wachtürme",
+      "meaning": "watchtower"
+    },
+    {
+      "id": "B2_K8_M4_034",
+      "word": "der Wirtschaftssektor",
+      "plural": "die Wirtschaftssektoren",
+      "meaning": "economic sector"
+    },
+    {
+      "id": "B2_K8_M4_035",
+      "word": "der Zaun",
+      "plural": "die Zaüne",
+      "meaning": "fence"
+    },
+    {
+      "id": "B2_K8_M4_036",
+      "word": "zumauern",
+      "meaning": "wall up"
+    },
+    {
+      "id": "B2_K8_M4_037",
+      "word": "der Zusammenbruch",
+      "plural": "die Zusammenbrüche",
+      "meaning": "breakdown"
+    },
+    {
+      "id": "B2_K8_M4_038",
+      "word": "das S-Bahn-Netz",
+      "plural": "die S-Bahn-Netze",
+      "meaning": "S-Bahn network"
+    },
+    {
+      "id": "B2_K8_M4_039",
+      "word": "der Verlauf",
+      "plural": "die Verlaüfe",
+      "meaning": "course"
+    },
+    {
+      "id": "B2_K8_M4_040",
+      "word": "die Abschiedsszene",
+      "plural": "die Abschiedsszenen",
+      "meaning": "the farewell scene, -n"
+    },
+    {
+      "id": "B2_K8_M4_041",
+      "word": "auseinanderreißen, riss auseinander, hat",
+      "meaning": "tear apart, tear apart, has"
+    },
+    {
+      "id": "B2_K8_M4_042",
+      "word": "auseinandergerissen",
+      "meaning": "torn apart",
+      "example": "Viele Familien wurden durch den Bau der Mauer auseinandergerissen."
+    },
+    {
+      "id": "B2_K8_M4_043",
+      "word": "der Ausgang",
+      "plural": "die Ausgänge",
+      "meaning": "exit",
+      "example": "Der Ausgang befindet sich neben der Rezeption rechts."
+    },
+    {
+      "id": "B2_K8_M4_044",
+      "word": "der Ausgangspunkt",
+      "plural": "die Ausgangspunkte",
+      "meaning": "starting point"
+    },
+    {
+      "id": "B2_K8_M4_045",
+      "word": "bewachen",
+      "meaning": "guard"
+    },
+    {
+      "id": "B2_K8_M4_046",
+      "word": "die Einreise (Sg.)",
+      "meaning": "entry"
+    },
+    {
+      "id": "B2_K8_M4_047",
+      "word": "ergehen, erging, ist ergangen (etw. über sich ergehen lassen)",
+      "meaning": "to come, to go, to go (sth endure)"
+    },
+    {
+      "id": "B2_K8_M4_048",
+      "word": "der Familienbesuch",
+      "plural": "die Familienbesuche",
+      "meaning": "family visit"
+    },
+    {
+      "id": "B2_K8_M4_049",
+      "word": "die S-Bahn-Linie",
+      "plural": "die S-Bahn-Linien",
+      "meaning": "S-Bahn line"
+    },
+    {
+      "id": "B2_K8_M4_050",
+      "word": "strikt",
+      "meaning": "strict"
+    },
+    {
+      "id": "B2_K8_M4_051",
+      "word": "der Tagesausflug",
+      "plural": "die Tagesausflüge",
+      "meaning": "day trip"
+    },
+    {
+      "id": "B2_K8_M4_052",
+      "word": "der Umsteigebahnhof",
+      "plural": "die Umsteigebahnhöfe",
+      "meaning": "transfer station"
+    },
+    {
+      "id": "B2_K8_M4_053",
+      "word": "der Umsteigeweg",
+      "plural": "die Umsteigewege",
+      "meaning": "transfer route"
+    },
+    {
+      "id": "B2_K8_M4_054",
+      "word": "ungewiss",
+      "meaning": "uncertain"
+    },
+    {
+      "id": "B2_K8_M4_055",
+      "word": "die Verabschiedung",
+      "plural": "die Verabschiedungen",
+      "meaning": "farewell"
+    },
+    {
+      "id": "B2_K8_M4_056",
+      "word": "die Verabschiedungshalle",
+      "plural": "die Verabschiedungshallen",
+      "meaning": "farewell hall"
+    },
+    {
+      "id": "B2_K8_M4_057",
+      "word": "die Verhaltensregel",
+      "plural": "die Verhaltensregeln",
+      "meaning": "code of conduct"
+    },
+    {
+      "id": "B2_K8_M4_058",
+      "word": "die Öffnung",
+      "plural": "die Öffnungen",
+      "meaning": "the opening"
+    },
+    {
+      "id": "B2_K8_M4_059",
+      "word": "die Ausreise",
+      "plural": "die Ausreisen",
+      "meaning": "exit"
+    },
+    {
+      "id": "B2_K8_M4_060",
+      "word": "ausreisen",
+      "meaning": "leave"
+    },
+    {
+      "id": "B2_K8_M4_061",
+      "word": "beitragen (zu + D.), trug bei, hat",
+      "meaning": "contribute (to + D.), contributed, has"
+    },
+    {
+      "id": "B2_K8_M4_062",
+      "word": "beigetragen",
+      "meaning": "contributed"
+    },
+    {
+      "id": "B2_K8_M4_063",
+      "word": "besetzen (ein Haus besetzen)",
+      "meaning": "occupy (occupy a house)"
+    },
+    {
+      "id": "B2_K8_M4_064",
+      "word": "einlenken",
+      "meaning": "give in"
+    },
+    {
+      "id": "B2_K8_M4_065",
+      "word": "erzwingen, erzwang, hat erzwungen",
+      "meaning": "enforce, enforce, enforce"
+    },
+    {
+      "id": "B2_K8_M4_066",
+      "word": "friedlich",
+      "meaning": "peaceful"
+    },
+    {
+      "id": "B2_K8_M4_067",
+      "word": "die Führung (die politische Führung eines Landes)",
+      "plural": "die Führungen",
+      "meaning": "leadership (the political leadership of a country)"
+    },
+    {
+      "id": "B2_K8_M4_068",
+      "word": "der Lexikonartikel",
+      "plural": "die Lexikonartikel",
+      "meaning": "lexicon article"
+    },
+    {
+      "id": "B2_K8_M4_069",
+      "word": "die Massenflucht",
+      "plural": "die Massenfluchten",
+      "meaning": "mass exodus"
+    },
+    {
+      "id": "B2_K8_M4_070",
+      "word": "der Massenprotest",
+      "plural": "die Massenproteste",
+      "meaning": "mass protest"
+    },
+    {
+      "id": "B2_K8_M4_071",
+      "word": "die Revolution",
+      "plural": "die Revolutionen",
+      "meaning": "revolution"
+    },
+    {
+      "id": "B2_K8_M4_072",
+      "word": "der/die Staatsführer/in",
+      "meaning": "leader of the state"
+    },
+    {
+      "id": "B2_K8_M4_073",
+      "word": "die Wiedervereinigung",
+      "plural": "die Wiedervereinigungen",
+      "meaning": "reunification"
+    },
+    {
+      "id": "B2_K8_M4_074",
+      "word": "der Mauerfall (Sg.)",
+      "meaning": "fall of the wall"
+    },
+    {
+      "id": "B2_K8_M4_075",
+      "word": "die Pressekonferenz",
+      "plural": "die Pressekonferenzen",
+      "meaning": "press conference"
+    },
+    {
+      "id": "B2_K8_M4_076",
+      "word": "der/die Pressesprecher/in",
+      "meaning": "press spokesman"
+    },
+    {
+      "id": "B2_K8_M4_077",
+      "word": "die Regelung",
+      "plural": "die Regelungen",
+      "meaning": "regulation"
+    },
+    {
+      "id": "B2_K8_M4_078",
+      "word": "der/die Staatschef/in",
+      "meaning": "head of state"
+    },
+    {
+      "id": "B2_K8_M4_079",
+      "word": "die Voraussetzung",
+      "plural": "die Voraussetzungen",
+      "meaning": "conditions"
+    },
+    {
+      "id": "B2_K8_M4_080",
+      "word": "3d die Chronik, -en",
+      "meaning": "3d chronicle"
+    },
+    {
+      "id": "B2_K8_M4_081",
+      "word": "der/die Zeitzeuge/Zeitzeugin",
+      "meaning": "contemporary witness"
+    },
+    {
+      "id": "B2_K8_M4_082",
+      "word": "fallen, fiel, ist gefallen",
+      "meaning": "falling, falling, falling",
+      "example": "Als die Mauer fiel,war ich noch gar nicht auf der Welt."
+    },
+    {
+      "id": "B2_K8_M4_083",
+      "word": "grafisch",
+      "meaning": "graphically"
+    },
+    {
+      "id": "B2_K8_M4_084",
+      "word": "der Zeitstrahl",
+      "plural": "die Zeitstrahlen",
+      "meaning": "timeline"
+    },
+    {
+      "id": "B2_K8_M4_085",
+      "word": "zusammentragen, trug zusammen, hat",
+      "meaning": "collate, collated, has"
+    },
+    {
+      "id": "B2_K8_M4_086",
+      "word": "zusammengetragen",
+      "meaning": "collected"
+    },
+    {
+      "id": "B2_K8_M4_087",
+      "word": "die Grenzöffnung (Sg.)",
+      "meaning": "border opening"
+    },
+    {
+      "id": "B2_K8_M4_088",
+      "word": "verwalten",
+      "meaning": "manage"
+    },
+    {
+      "id": "B2_K8_M4_089",
+      "word": "das Erachten (Sg.)",
+      "meaning": "contemplation",
+      "example": "Meines Erachtens …"
+    },
+    {
+      "id": "B2_K8_M4_090",
+      "word": "kommentieren",
+      "meaning": "leave a comment"
+    },
+    {
+      "id": "B2_K8_M4_091",
+      "word": "vergangen",
+      "meaning": "past"
+    },
+    {
+      "id": "B2_K8_M4_092",
+      "word": "ablegen (das Abitur ablegen)",
+      "meaning": "take (take the Abitur)"
+    },
+    {
+      "id": "B2_K8_M4_093",
+      "word": "der/die Amtsinhaber/in",
+      "meaning": "incumbent"
+    },
+    {
+      "id": "B2_K8_M4_094",
+      "word": "ausgerechnet",
+      "meaning": "of all places",
+      "example": "Ausgerechnet heute komme ich zu spät."
+    },
+    {
+      "id": "B2_K8_M4_095",
+      "word": "beitreten, trat bei, ist beigetreten (einer Organisation beitreten)",
+      "meaning": "join (join an organization)"
+    },
+    {
+      "id": "B2_K8_M4_096",
+      "word": "der/die Bundesminister/in",
+      "meaning": "Federal Minister"
+    },
+    {
+      "id": "B2_K8_M4_097",
+      "word": "der Bundestag (Sg.)",
+      "meaning": "Bundestag"
+    },
+    {
+      "id": "B2_K8_M4_098",
+      "word": "eintreten, trat ein, ist eingetreten (in eine Partei eintreten)",
+      "meaning": "join (join a party)"
+    },
+    {
+      "id": "B2_K8_M4_099",
+      "word": "die Entscheidung (eine Entscheidung treffen)",
+      "plural": "die Entscheidungen",
+      "meaning": "decision (make a decision)"
+    },
+    {
+      "id": "B2_K8_M4_100",
+      "word": "ernennen (zu + D.), ernannte, hat ernannt",
+      "meaning": "appoint (to + D.), appointed, appointed"
+    },
+    {
+      "id": "B2_K8_M4_101",
+      "word": "das Festspiel",
+      "plural": "die Festspiele",
+      "meaning": "festival"
+    },
+    {
+      "id": "B2_K8_M4_102",
+      "word": "die Forelle",
+      "plural": "die Forellen",
+      "meaning": "trout"
+    },
+    {
+      "id": "B2_K8_M4_103",
+      "word": "freihalten, hielt frei, hat freigehalten",
+      "meaning": "keep clear, kept clear, has kept clear"
+    },
+    {
+      "id": "B2_K8_M4_104",
+      "word": "fusionieren",
+      "meaning": "merge"
+    },
+    {
+      "id": "B2_K8_M4_105",
+      "word": "das Gemüsebeet",
+      "plural": "die Gemüsebeete",
+      "meaning": "vegetable patch"
+    },
+    {
+      "id": "B2_K8_M4_106",
+      "word": "der Höhepunkt",
+      "plural": "die Höhepunkte",
+      "meaning": "climax"
+    },
+    {
+      "id": "B2_K8_M4_107",
+      "word": "die Jugendzeit",
+      "plural": "die Jugendzeiten",
+      "meaning": "youth"
+    },
+    {
+      "id": "B2_K8_M4_108",
+      "word": "der/die Kanzler/in",
+      "meaning": "Chancellor"
+    },
+    {
+      "id": "B2_K8_M4_109",
+      "word": "der/die Kanzlerkandidat/in",
+      "meaning": "candidate for chancellor"
+    },
+    {
+      "id": "B2_K8_M4_110",
+      "word": "die Kartoffelsuppe",
+      "plural": "die Kartoffelsuppen",
+      "meaning": "potato soup"
+    },
+    {
+      "id": "B2_K8_M4_111",
+      "word": "der/die Klassenbeste",
+      "plural": "die Klassenbesten",
+      "meaning": "best in class"
+    },
+    {
+      "id": "B2_K8_M4_112",
+      "word": "der Langlauf (Sg.)",
+      "meaning": "cross-country skiing"
+    },
+    {
+      "id": "B2_K8_M4_113",
+      "word": "die Laufbahn",
+      "plural": "die Laufbahnen",
+      "meaning": "career"
+    },
+    {
+      "id": "B2_K8_M4_114",
+      "word": "die Partei",
+      "plural": "die Parteien",
+      "meaning": "parties"
+    },
+    {
+      "id": "B2_K8_M4_115",
+      "word": "der Parteivorsitz",
+      "plural": "die Parteivorsitze",
+      "meaning": "party chair"
+    },
+    {
+      "id": "B2_K8_M4_116",
+      "word": "der/die Parteivorsitzende",
+      "plural": "die Parteivorsitzenden",
+      "meaning": "party chairperson"
+    },
+    {
+      "id": "B2_K8_M4_117",
+      "word": "das Privatleben (Sg.)",
+      "meaning": "private life"
+    },
+    {
+      "id": "B2_K8_M4_118",
+      "word": "promovieren",
+      "meaning": "graduate"
+    },
+    {
+      "id": "B2_K8_M4_119",
+      "word": "der/die Regierungssprecher/in",
+      "meaning": "the government spokesman"
+    },
+    {
+      "id": "B2_K8_M4_120",
+      "word": "rustikal",
+      "meaning": "rustic"
+    },
+    {
+      "id": "B2_K8_M4_121",
+      "word": "der Staatsbesuch",
+      "plural": "die Staatsbesuche",
+      "meaning": "state visit"
+    },
+    {
+      "id": "B2_K8_M4_122",
+      "word": "stellvertretend (für + A.)",
+      "meaning": "representative (for + A.)"
+    },
+    {
+      "id": "B2_K8_M4_123",
+      "word": "der Terminkalender",
+      "plural": "die Terminkalender",
+      "meaning": "appointment calendar"
+    },
+    {
+      "id": "B2_K8_M4_124",
+      "word": "die Theologie (Sg.)",
+      "meaning": "theology (Sg.)"
+    },
+    {
+      "id": "B2_K8_M4_125",
+      "word": "treffen, traf, hat getroffen",
+      "meaning": "meet, met, made (make decisions)",
+      "example": "Entscheidungen treffen"
+    },
+    {
+      "id": "B2_K8_M4_126",
+      "word": "vielbeschäftigt",
+      "meaning": "busy"
+    },
+    {
+      "id": "B2_K8_M4_127",
+      "word": "zulassen, ließ zu, hat zugelassen",
+      "meaning": "allow, allowed, allowed",
+      "example": "Ihr Terminkalender lässt viel Freizeit zu."
+    },
+    {
+      "id": "B2_K8_M4_128",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K8_M4_129",
+      "word": "die Abhängigkeit",
+      "plural": "die Abhängigkeiten",
+      "meaning": "dependency"
+    },
+    {
+      "id": "B2_K8_M4_130",
+      "word": "ängstigen (sich) (vor + D.)",
+      "meaning": "frightened (in front of + D.)"
+    },
+    {
+      "id": "B2_K8_M4_131",
+      "word": "die Eifersucht",
+      "plural": "die Eifersüchte",
+      "meaning": "jealousy"
+    },
+    {
+      "id": "B2_K8_M4_132",
+      "word": "eifersüchtig (auf + A.)",
+      "meaning": "jealous (on + A.)"
+    },
+    {
+      "id": "B2_K8_M4_133",
+      "word": "das Examen",
+      "plural": "die Examen",
+      "meaning": "exam"
+    },
+    {
+      "id": "B2_K8_M4_134",
+      "word": "der Neid (Sg.)",
+      "meaning": "envy (Sg.)"
+    },
+    {
+      "id": "B2_K8_M4_135",
+      "word": "die Neugier (Sg.)",
+      "meaning": "curiosity (Sg.)"
+    },
+    {
+      "id": "B2_K8_M4_136",
+      "word": "ungebräuchlich",
+      "meaning": "uncommon"
+    },
+    {
+      "id": "B2_K8_M4_137",
+      "word": "die Verwandtschaft (mit + D.)",
+      "meaning": "relatives (with + D.)"
+    },
+    {
+      "id": "B2_K8_M4_138",
+      "word": "Wut (auf + A.)",
+      "meaning": "Anger (on + A.)"
     }
   ]
 }

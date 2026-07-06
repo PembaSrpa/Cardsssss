@@ -5,10 +5,329 @@
   "words": [
     {
       "id": "B2_K10_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Diagnose",
+      "plural": "die Diagnosen",
+      "meaning": "diagnosis"
+    },
+    {
+      "id": "B2_K10_M2_002",
+      "word": "diagnostizieren",
+      "meaning": "diagnose"
+    },
+    {
+      "id": "B2_K10_M2_003",
+      "word": "die Körpertemperatur",
+      "plural": "die Körpertemperaturen",
+      "meaning": "body temperature"
+    },
+    {
+      "id": "B2_K10_M2_004",
+      "word": "der Puls",
+      "plural": "die Pulse",
+      "meaning": "pulse"
+    },
+    {
+      "id": "B2_K10_M2_005",
+      "word": "der Wert",
+      "plural": "die Werte",
+      "meaning": "value",
+      "example": "Das Thermometer zeigt einen hohen Wert an."
+    },
+    {
+      "id": "B2_K10_M2_006",
+      "word": "die App",
+      "plural": "die Apps",
+      "meaning": "app"
+    },
+    {
+      "id": "B2_K10_M2_007",
+      "word": "checken",
+      "meaning": "check"
+    },
+    {
+      "id": "B2_K10_M2_008",
+      "word": "die Digitalisierung (Sg.)",
+      "meaning": "digitization (Sg.)"
+    },
+    {
+      "id": "B2_K10_M2_009",
+      "word": "das Fieberthermometer",
+      "plural": "die Fieberthermometer",
+      "meaning": "clinical thermometer,"
+    },
+    {
+      "id": "B2_K10_M2_010",
+      "word": "das Geschäftsmodell",
+      "plural": "die Geschäftsmodelle",
+      "meaning": "business model"
+    },
+    {
+      "id": "B2_K10_M2_011",
+      "word": "hinterherhinken",
+      "meaning": "lag behind",
+      "example": "Viele Unternehmen hinken der Digitalisierung hinterher."
+    },
+    {
+      "id": "B2_K10_M2_012",
+      "word": "die Körpergröße",
+      "plural": "die Körpergrößen",
+      "meaning": "height"
+    },
+    {
+      "id": "B2_K10_M2_013",
+      "word": "optimieren",
+      "meaning": "optimize"
+    },
+    {
+      "id": "B2_K10_M2_014",
+      "word": "untertreiben, untertrieb, hat untertrieben",
+      "meaning": "understate, understate, understate"
+    },
+    {
+      "id": "B2_K10_M2_015",
+      "word": "vermessen, vermaß, hat vermessen",
+      "meaning": "measured, measured, measured"
+    },
+    {
+      "id": "B2_K10_M2_016",
+      "word": "der Ärztemangel",
+      "plural": "die Ärztemangel",
+      "meaning": "the lack of doctors,"
+    },
+    {
+      "id": "B2_K10_M2_017",
+      "word": "aufkommen, kam auf, ist aufgekommen",
+      "meaning": "come up, came up, came up",
+      "example": "für Kosten aufkommen"
+    },
+    {
+      "id": "B2_K10_M2_018",
+      "word": "auswerten",
+      "meaning": "evaluate"
+    },
+    {
+      "id": "B2_K10_M2_019",
+      "word": "der Branchenverband",
+      "plural": "die Branchenverbände",
+      "meaning": "industry association"
+    },
+    {
+      "id": "B2_K10_M2_020",
+      "word": "der Brustkorb",
+      "plural": "die Brustkörbe",
+      "meaning": "rib cage"
+    },
+    {
+      "id": "B2_K10_M2_021",
+      "word": "bündeln",
+      "meaning": "bundle up"
+    },
+    {
+      "id": "B2_K10_M2_022",
+      "word": "der Chip",
+      "plural": "die Chips",
+      "meaning": "chip"
+    },
+    {
+      "id": "B2_K10_M2_023",
+      "word": "der Daumen",
+      "plural": "die Daumen",
+      "meaning": "thumb"
+    },
+    {
+      "id": "B2_K10_M2_024",
+      "word": "der Durchmesser",
+      "plural": "die Durchmesser",
+      "meaning": "diameter"
+    },
+    {
+      "id": "B2_K10_M2_025",
+      "word": "einatmen",
+      "meaning": "breathe in"
+    },
+    {
+      "id": "B2_K10_M2_026",
+      "word": "einpflanzen",
+      "meaning": "implant"
+    },
+    {
+      "id": "B2_K10_M2_027",
+      "word": "einstellen (jmd. auf Medikamente einstellen)",
+      "meaning": "adjust (so. to medication to adjust)"
+    },
+    {
+      "id": "B2_K10_M2_028",
+      "word": "der Erfindungsreichtum (Sg.)",
+      "meaning": "inventiveness (Sg.)"
+    },
+    {
+      "id": "B2_K10_M2_029",
+      "word": "erreichbar (für + A.)",
+      "meaning": "reachable (for + A.)"
+    },
+    {
+      "id": "B2_K10_M2_030",
+      "word": "das Gesundheitsgerät (mobile Gesundheitsgeräte)",
+      "plural": "die Gesundheitsgeräte",
+      "meaning": "health device (mobile Health Devices)"
+    },
+    {
+      "id": "B2_K10_M2_031",
+      "word": "die Grenze (jmd. Grenzen setzen)",
+      "plural": "die Grenzen",
+      "meaning": "limit (to set boundaries)"
+    },
+    {
+      "id": "B2_K10_M2_032",
+      "word": "der Hausarzt",
+      "plural": "die Hausärzte",
+      "meaning": "family doctor"
+    },
+    {
+      "id": "B2_K10_M2_033",
+      "word": "heben, hob, hat gehoben",
+      "meaning": "lift, lifted, lifted",
+      "example": "Der Brustkorb hebt sich beim Atmen."
+    },
+    {
+      "id": "B2_K10_M2_034",
+      "word": "die Hosentasche",
+      "plural": "die Hosentaschen",
+      "meaning": "pocket"
+    },
+    {
+      "id": "B2_K10_M2_035",
+      "word": "die Kontaktlinse",
+      "plural": "die Kontaktlinsen",
+      "meaning": "contact lens"
+    },
+    {
+      "id": "B2_K10_M2_036",
+      "word": "die Körperdaten (Pl.)",
+      "meaning": "body data (Pl.)"
+    },
+    {
+      "id": "B2_K10_M2_037",
+      "word": "die Krankenakte",
+      "plural": "die Krankenakten",
+      "meaning": "medical records"
+    },
+    {
+      "id": "B2_K10_M2_038",
+      "word": "die Krankenkasse",
+      "plural": "die Krankenkassen",
+      "meaning": "health insurance company"
+    },
+    {
+      "id": "B2_K10_M2_039",
+      "word": "leeren",
+      "meaning": "to empty"
+    },
+    {
+      "id": "B2_K10_M2_040",
+      "word": "der Lichtsensor",
+      "plural": "die Lichtsensoren",
+      "meaning": "light sensor"
+    },
+    {
+      "id": "B2_K10_M2_041",
+      "word": "lindern",
+      "meaning": "alleviate"
+    },
+    {
+      "id": "B2_K10_M2_042",
+      "word": "die Marktforschungsfirma",
+      "plural": "die Marktforschungsfirmafirmen",
+      "meaning": "market research company, companies"
+    },
+    {
+      "id": "B2_K10_M2_043",
+      "word": "das Messgerät",
+      "plural": "die Messgeräte",
+      "meaning": "measuring device"
+    },
+    {
+      "id": "B2_K10_M2_044",
+      "word": "die Platte",
+      "plural": "die Platten",
+      "meaning": "plates"
+    },
+    {
+      "id": "B2_K10_M2_045",
+      "word": "die Putzgewohnheit",
+      "plural": "die Putzgewohnheiten",
+      "meaning": "cleaning habit"
+    },
+    {
+      "id": "B2_K10_M2_046",
+      "word": "rasant",
+      "meaning": "fast"
+    },
+    {
+      "id": "B2_K10_M2_047",
+      "word": "der Sauerstoff (Sg.)",
+      "meaning": "oxygen (Sg.)"
+    },
+    {
+      "id": "B2_K10_M2_048",
+      "word": "der Sauerstoffanteil",
+      "plural": "die Sauerstoffanteile",
+      "meaning": "oxygen content"
+    },
+    {
+      "id": "B2_K10_M2_049",
+      "word": "setzen (jmd. Grenzen setzen)",
+      "meaning": "to set (so-called limits)"
+    },
+    {
+      "id": "B2_K10_M2_050",
+      "word": "simpel",
+      "meaning": "simple"
+    },
+    {
+      "id": "B2_K10_M2_051",
+      "word": "sträuben (sich) (gegen + A.)",
+      "meaning": "balk (against + A.)"
+    },
+    {
+      "id": "B2_K10_M2_052",
+      "word": "die Telemedizin (Sg.)",
+      "meaning": "telemedicine (Sg.)"
+    },
+    {
+      "id": "B2_K10_M2_053",
+      "word": "die Tränenflüssigkeit",
+      "plural": "die Tränenflüssigkeiten",
+      "meaning": "tear fluid"
+    },
+    {
+      "id": "B2_K10_M2_054",
+      "word": "umstritten",
+      "meaning": "controversial"
+    },
+    {
+      "id": "B2_K10_M2_055",
+      "word": "das Verfahren",
+      "plural": "die Verfahren",
+      "meaning": "procedure"
+    },
+    {
+      "id": "B2_K10_M2_056",
+      "word": "das Wartezimmer",
+      "plural": "die Wartezimmer",
+      "meaning": "waiting room"
+    },
+    {
+      "id": "B2_K10_M2_057",
+      "word": "die Windel",
+      "plural": "die Windeln",
+      "meaning": "diaper"
+    },
+    {
+      "id": "B2_K10_M2_058",
+      "word": "die Neuerung",
+      "plural": "die Neuerungen",
+      "meaning": "innovation"
     }
   ]
 }

@@ -5,10 +5,651 @@
   "words": [
     {
       "id": "B2_K4_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Kamm (etw. über einen Kamm scheren)",
+      "plural": "die Kämme",
+      "meaning": "comb (sth. Over a comb Reeve)"
+    },
+    {
+      "id": "B2_K4_M4_002",
+      "word": "pauschalisieren",
+      "meaning": "to generalize"
+    },
+    {
+      "id": "B2_K4_M4_003",
+      "word": "prinzipiell",
+      "meaning": "in principle"
+    },
+    {
+      "id": "B2_K4_M4_004",
+      "word": "scheren (alles über einen Kamm scheren)",
+      "meaning": "shear (shear everything together)"
+    },
+    {
+      "id": "B2_K4_M4_005",
+      "word": "stellen (etw. in Frage stellen)",
+      "meaning": "to question (to question sth.)"
+    },
+    {
+      "id": "B2_K4_M4_006",
+      "word": "verallgemeinern",
+      "meaning": "generalize"
+    },
+    {
+      "id": "B2_K4_M4_007",
+      "word": "das Klischee",
+      "plural": "die Klischees",
+      "meaning": "cliché"
+    },
+    {
+      "id": "B2_K4_M4_008",
+      "word": "abweichen (von + D.)",
+      "meaning": "deviate (from + D.)"
+    },
+    {
+      "id": "B2_K4_M4_009",
+      "word": "der/die Alleinernährer/in",
+      "meaning": "sole breadwinner"
+    },
+    {
+      "id": "B2_K4_M4_010",
+      "word": "die Balance",
+      "plural": "die Balancen",
+      "meaning": "balance"
+    },
+    {
+      "id": "B2_K4_M4_011",
+      "word": "das Bein (auf eigenen Beinen stehen)",
+      "plural": "die Beine",
+      "meaning": "leg (stand on one's own legs)"
+    },
+    {
+      "id": "B2_K4_M4_012",
+      "word": "bemerkenswert",
+      "meaning": "remarkable"
+    },
+    {
+      "id": "B2_K4_M4_013",
+      "word": "bleiben, blieb, ist geblieben (auf der Strecke bleiben)",
+      "meaning": "stay, stayed, stayed (on the Stay route)"
+    },
+    {
+      "id": "B2_K4_M4_014",
+      "word": "die Erwerbsarbeit",
+      "plural": "die Erwerbsarbeiten",
+      "meaning": "gainful employment"
+    },
+    {
+      "id": "B2_K4_M4_015",
+      "word": "die Erwerbstätigkeit",
+      "plural": "die Erwerbstätigkeiten",
+      "meaning": "employment"
+    },
+    {
+      "id": "B2_K4_M4_016",
+      "word": "die Familiengründung (Sg.)",
+      "meaning": "starting a family"
+    },
+    {
+      "id": "B2_K4_M4_017",
+      "word": "die Frauensache (Sg.)",
+      "meaning": "women's affair"
+    },
+    {
+      "id": "B2_K4_M4_018",
+      "word": "die Frauenzeitschrift",
+      "plural": "die Frauenzeitschriften",
+      "meaning": "women's magazine"
+    },
+    {
+      "id": "B2_K4_M4_019",
+      "word": "der/die Gebildete",
+      "plural": "die Gebildeten",
+      "meaning": "educated,"
+    },
+    {
+      "id": "B2_K4_M4_020",
+      "word": "gefährdet",
+      "meaning": "endangered"
+    },
+    {
+      "id": "B2_K4_M4_021",
+      "word": "hinauszögern",
+      "meaning": "put off"
+    },
+    {
+      "id": "B2_K4_M4_022",
+      "word": "insbesondere",
+      "meaning": "in particular"
+    },
+    {
+      "id": "B2_K4_M4_023",
+      "word": "die Kindererziehung (Sg.)",
+      "meaning": "child rearing (Sg.)"
+    },
+    {
+      "id": "B2_K4_M4_024",
+      "word": "kinderfeindlich",
+      "meaning": "hostile to children"
+    },
+    {
+      "id": "B2_K4_M4_025",
+      "word": "der Kinderwunsch",
+      "plural": "die Kinderwünsche",
+      "meaning": "desire to have children"
+    },
+    {
+      "id": "B2_K4_M4_026",
+      "word": "der Lebensentwurf",
+      "plural": "die Lebensentwürfe",
+      "meaning": "design of life"
+    },
+    {
+      "id": "B2_K4_M4_027",
+      "word": "der Lebensverlauf",
+      "plural": "die Lebensverlaüfe",
+      "meaning": "course of life"
+    },
+    {
+      "id": "B2_K4_M4_028",
+      "word": "mehrheitlich",
+      "meaning": "majority"
+    },
+    {
+      "id": "B2_K4_M4_029",
+      "word": "der Nachwuchs (Sg.)",
+      "meaning": "offspring"
+    },
+    {
+      "id": "B2_K4_M4_030",
+      "word": "obgleich",
+      "meaning": "although"
+    },
+    {
+      "id": "B2_K4_M4_031",
+      "word": "orientiert",
+      "meaning": "oriented"
+    },
+    {
+      "id": "B2_K4_M4_032",
+      "word": "die Pflege (Sg.)",
+      "meaning": "care"
+    },
+    {
+      "id": "B2_K4_M4_033",
+      "word": "der Rückzug (Sg.)",
+      "meaning": "withdrawal"
+    },
+    {
+      "id": "B2_K4_M4_034",
+      "word": "die Sozialforschung",
+      "plural": "die Sozialforschungen",
+      "meaning": "social research"
+    },
+    {
+      "id": "B2_K4_M4_035",
+      "word": "die Sozialwissenschaft",
+      "plural": "die Sozialwissenschaften",
+      "meaning": "social science"
+    },
+    {
+      "id": "B2_K4_M4_036",
+      "word": "stehen, stand, hat gestanden (finanziell auf eigenen Beinen stehen)",
+      "meaning": "stand, stand, stand (stand financially on your own two feet)"
+    },
+    {
+      "id": "B2_K4_M4_037",
+      "word": "die Strecke (auf der Strecke bleiben)",
+      "plural": "die Strecken",
+      "meaning": "route (stay on the route)"
+    },
+    {
+      "id": "B2_K4_M4_038",
+      "word": "unbezahlt",
+      "meaning": "unpaid"
+    },
+    {
+      "id": "B2_K4_M4_039",
+      "word": "unentschlossen",
+      "meaning": "undecided"
+    },
+    {
+      "id": "B2_K4_M4_040",
+      "word": "ungebrochen",
+      "meaning": "unbroken"
+    },
+    {
+      "id": "B2_K4_M4_041",
+      "word": "der Unterhalt (Sg.)",
+      "meaning": "maintenance"
+    },
+    {
+      "id": "B2_K4_M4_042",
+      "word": "unverändert",
+      "meaning": "unchanged"
+    },
+    {
+      "id": "B2_K4_M4_043",
+      "word": "die Vereinbarkeit (Sg.)",
+      "meaning": "compatibility"
+    },
+    {
+      "id": "B2_K4_M4_044",
+      "word": "verfolgen",
+      "meaning": "follow"
+    },
+    {
+      "id": "B2_K4_M4_045",
+      "word": "der Wert",
+      "plural": "die Werte",
+      "meaning": "value",
+      "example": "Sie weicht nicht von ihren Werten und Einstellungen ab."
+    },
+    {
+      "id": "B2_K4_M4_046",
+      "word": "der Wertewandel",
+      "plural": "die Wertewandel",
+      "meaning": "change in values"
+    },
+    {
+      "id": "B2_K4_M4_047",
+      "word": "das Wissenschaftszentrum",
+      "plural": "die Wissenschaftszentrumzentren",
+      "meaning": "science center, centers"
+    },
+    {
+      "id": "B2_K4_M4_048",
+      "word": "zeitintensiv",
+      "meaning": "time-consuming"
+    },
+    {
+      "id": "B2_K4_M4_049",
+      "word": "zurückhaltend",
+      "meaning": "cautious"
+    },
+    {
+      "id": "B2_K4_M4_050",
+      "word": "zuversichtlich",
+      "meaning": "confident"
+    },
+    {
+      "id": "B2_K4_M4_051",
+      "word": "der Lauf (im Lauf der Zeit)",
+      "plural": "die Laüfe",
+      "meaning": "the run (over time)"
+    },
+    {
+      "id": "B2_K4_M4_052",
+      "word": "auffällig (in + D.)",
+      "meaning": "conspicuous (in + D.)"
+    },
+    {
+      "id": "B2_K4_M4_053",
+      "word": "holen (sich Rat holen)",
+      "meaning": "get (get advice)"
+    },
+    {
+      "id": "B2_K4_M4_054",
+      "word": "der Rat (Sg.) (sich Rat holen bei)",
+      "meaning": "council (Sg.) (get advice from)"
+    },
+    {
+      "id": "B2_K4_M4_055",
+      "word": "der Comic",
+      "plural": "die Comics",
+      "meaning": "comic"
+    },
+    {
+      "id": "B2_K4_M4_056",
+      "word": "das Kabarett",
+      "plural": "die Kabaretts",
+      "meaning": "cabaret, -s"
+    },
+    {
+      "id": "B2_K4_M4_057",
+      "word": "die Gewohnheit",
+      "plural": "die Gewohnheiten",
+      "meaning": "the habit -en"
+    },
+    {
+      "id": "B2_K4_M4_058",
+      "word": "die Schwiegermutter",
+      "plural": "die Schwiegermütter",
+      "meaning": "mother in law"
+    },
+    {
+      "id": "B2_K4_M4_059",
+      "word": "die Macke",
+      "plural": "die Macken",
+      "meaning": "the quirks, -n"
+    },
+    {
+      "id": "B2_K4_M4_060",
+      "word": "5d übertrieben, übertrieb, hat",
+      "meaning": "5d exaggerated, exaggerated, exaggerated"
+    },
+    {
+      "id": "B2_K4_M4_061",
+      "word": "übertrieben, übertrieb, hat übertrieben",
+      "meaning": "exaggerated, exaggerated, exaggerated"
+    },
+    {
+      "id": "B2_K4_M4_062",
+      "word": "ablegen (eine Gewohnheit ablegen)",
+      "meaning": "discard (discard a habit)"
+    },
+    {
+      "id": "B2_K4_M4_063",
+      "word": "die Angewohnheit",
+      "plural": "die Angewohnheiten",
+      "meaning": "habit"
+    },
+    {
+      "id": "B2_K4_M4_064",
+      "word": "ausleihen, lieh aus, hat ausgeliehen",
+      "meaning": "borrow, borrowed, borrowed"
+    },
+    {
+      "id": "B2_K4_M4_065",
+      "word": "meckern (über + A.)",
+      "meaning": "complain"
+    },
+    {
+      "id": "B2_K4_M4_066",
+      "word": "das Rätsel",
+      "plural": "die Rätsel",
+      "meaning": "riddle"
+    },
+    {
+      "id": "B2_K4_M4_067",
+      "word": "die Verärgerung",
+      "plural": "die Verärgerungen",
+      "meaning": "annoyance"
+    },
+    {
+      "id": "B2_K4_M4_068",
+      "word": "die Zahnpastatube",
+      "plural": "die Zahnpastatuben",
+      "meaning": "toothpaste tube"
+    },
+    {
+      "id": "B2_K4_M4_069",
+      "word": "verlaufen, verlief, ist verlaufen",
+      "meaning": "run, ran, went",
+      "example": "Das Gespräch mit dem Chef ist gut verlaufen."
+    },
+    {
+      "id": "B2_K4_M4_070",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K4_M4_071",
+      "word": "benachteiligt (gegenüber + D.)",
+      "meaning": "disadvantaged (compared to + D.)"
+    },
+    {
+      "id": "B2_K4_M4_072",
+      "word": "die Beratungsagentur",
+      "plural": "die Beratungsagenturen",
+      "meaning": "consulting agency"
+    },
+    {
+      "id": "B2_K4_M4_073",
+      "word": "bestechend",
+      "meaning": "impressive",
+      "example": "Die Idee ist bestechend einfach."
+    },
+    {
+      "id": "B2_K4_M4_074",
+      "word": "der/die Betreiber/in",
+      "meaning": "operator"
+    },
+    {
+      "id": "B2_K4_M4_075",
+      "word": "der Bundesverband",
+      "plural": "die Bundesverbände",
+      "meaning": "federal association"
+    },
+    {
+      "id": "B2_K4_M4_076",
+      "word": "bundesweit",
+      "meaning": "nationwide"
+    },
+    {
+      "id": "B2_K4_M4_077",
+      "word": "einwandfrei",
+      "meaning": "perfect"
+    },
+    {
+      "id": "B2_K4_M4_078",
+      "word": "der/die Geringverdiener/in",
+      "meaning": "low earner"
+    },
+    {
+      "id": "B2_K4_M4_079",
+      "word": "grundsätzlich",
+      "meaning": "in principle"
+    },
+    {
+      "id": "B2_K4_M4_080",
+      "word": "das Handelsunternehmen",
+      "plural": "die Handelsunternehmen",
+      "meaning": "trading company,"
+    },
+    {
+      "id": "B2_K4_M4_081",
+      "word": "der/die Helfer/in",
+      "meaning": "helper"
+    },
+    {
+      "id": "B2_K4_M4_082",
+      "word": "das Informationsmaterial",
+      "plural": "die Informationsmaterialien",
+      "meaning": "information material"
+    },
+    {
+      "id": "B2_K4_M4_083",
+      "word": "die Infrastruktur",
+      "plural": "die Infrastrukturen",
+      "meaning": "infrastructure"
+    },
+    {
+      "id": "B2_K4_M4_084",
+      "word": "der Kfz-Betrieb",
+      "plural": "die Kfz-Betriebe",
+      "meaning": "car operation"
+    },
+    {
+      "id": "B2_K4_M4_085",
+      "word": "kinderreich",
+      "meaning": "many children"
+    },
+    {
+      "id": "B2_K4_M4_086",
+      "word": "das Know-how",
+      "plural": "die Know-hows",
+      "meaning": "know-how"
+    },
+    {
+      "id": "B2_K4_M4_087",
+      "word": "der Kraftstoff",
+      "plural": "die Kraftstoffe",
+      "meaning": "fuel"
+    },
+    {
+      "id": "B2_K4_M4_088",
+      "word": "das Kühlfahrzeug",
+      "plural": "die Kühlfahrzeuge",
+      "meaning": "refrigerated vehicle"
+    },
+    {
+      "id": "B2_K4_M4_089",
+      "word": "der Kühlraum",
+      "plural": "die Kühlraüme",
+      "meaning": "refrigerator"
+    },
+    {
+      "id": "B2_K4_M4_090",
+      "word": "die Lagerhaltung",
+      "plural": "die Lagerhaltungen",
+      "meaning": "warehousing"
+    },
+    {
+      "id": "B2_K4_M4_091",
+      "word": "das Leben (etw. ins Leben rufen)",
+      "plural": "die Leben",
+      "meaning": "life (to bring sth. to life)"
+    },
+    {
+      "id": "B2_K4_M4_092",
+      "word": "das Milchprodukt",
+      "plural": "die Milchprodukte",
+      "meaning": "milk product"
+    },
+    {
+      "id": "B2_K4_M4_093",
+      "word": "der Mobilfunkanbieter",
+      "plural": "die Mobilfunkanbieter",
+      "meaning": "mobile operator"
+    },
+    {
+      "id": "B2_K4_M4_094",
+      "word": "die Organisation („Die Tafeln“ sind eine soziale Organisation.)",
+      "plural": "die Organisationen",
+      "meaning": "organization (\"Die Tafeln\" are a social organization.)"
+    },
+    {
+      "id": "B2_K4_M4_095",
+      "word": "qualitativ",
+      "meaning": "qualitatively"
+    },
+    {
+      "id": "B2_K4_M4_096",
+      "word": "rufen, rief, hat gerufen (etw. ins Leben rufen)",
+      "meaning": "call, called, called (sth. into life call)"
+    },
+    {
+      "id": "B2_K4_M4_097",
+      "word": "samt",
+      "meaning": "velvet"
+    },
+    {
+      "id": "B2_K4_M4_098",
+      "word": "sicherstellen",
+      "meaning": "to ensure"
+    },
+    {
+      "id": "B2_K4_M4_099",
+      "word": "der/die Sponsor/in",
+      "meaning": "the sponsor"
+    },
+    {
+      "id": "B2_K4_M4_100",
+      "word": "stecken (hinter etw. stecken)",
+      "meaning": "stuck (behind sth.)"
+    },
+    {
+      "id": "B2_K4_M4_101",
+      "word": "symbolisch",
+      "meaning": "symbolic"
+    },
+    {
+      "id": "B2_K4_M4_102",
+      "word": "überregional",
+      "meaning": "nationwide"
+    },
+    {
+      "id": "B2_K4_M4_103",
+      "word": "überschüssig",
+      "meaning": "surplus"
+    },
+    {
+      "id": "B2_K4_M4_104",
+      "word": "unentgeltlich",
+      "meaning": "free of charge"
+    },
+    {
+      "id": "B2_K4_M4_105",
+      "word": "der Verband („Die Tafeln“ sind ein Verband.)",
+      "plural": "die Verbände",
+      "meaning": "association (\" The plates \"are a Association.)"
+    },
+    {
+      "id": "B2_K4_M4_106",
+      "word": "verderblich",
+      "meaning": "perishable"
+    },
+    {
+      "id": "B2_K4_M4_107",
+      "word": "verhindern",
+      "meaning": "prevent"
+    },
+    {
+      "id": "B2_K4_M4_108",
+      "word": "die Verwaltung",
+      "plural": "die Verwaltungen",
+      "meaning": "administration"
+    },
+    {
+      "id": "B2_K4_M4_109",
+      "word": "weitergeben (an + A.), gab weiter, hat",
+      "meaning": "passed"
+    },
+    {
+      "id": "B2_K4_M4_110",
+      "word": "der Wirtschaftsprozess",
+      "plural": "die Wirtschaftsprozesse",
+      "meaning": "economic process"
+    },
+    {
+      "id": "B2_K4_M4_111",
+      "word": "zudem",
+      "meaning": "moreover"
+    },
+    {
+      "id": "B2_K4_M4_112",
+      "word": "die Acht (Sg.) (sich in Acht nehmen)",
+      "meaning": "eight (be careful)"
+    },
+    {
+      "id": "B2_K4_M4_113",
+      "word": "der Anfang (den Anfang machen)",
+      "plural": "die Anfänge",
+      "meaning": "beginning (make the beginning)"
+    },
+    {
+      "id": "B2_K4_M4_114",
+      "word": "die Beachtung (Beachtung finden)",
+      "plural": "die Beachtungen",
+      "meaning": "attention"
+    },
+    {
+      "id": "B2_K4_M4_115",
+      "word": "die Fairness (Sg.)",
+      "meaning": "fairness"
+    },
+    {
+      "id": "B2_K4_M4_116",
+      "word": "die Flucht (die Flucht ergreifen)",
+      "plural": "die Fluchten",
+      "meaning": "escape (take flight)"
+    },
+    {
+      "id": "B2_K4_M4_117",
+      "word": "kommen, kam, ist gekommen",
+      "meaning": "come, came, has come",
+      "example": "in Betracht kommen"
+    },
+    {
+      "id": "B2_K4_M4_118",
+      "word": "nehmen, nahm, hat genommen (sich in Acht nehmen)",
+      "meaning": "(Take care)"
+    },
+    {
+      "id": "B2_K4_M4_119",
+      "word": "die Wirkung (eine Wirkung haben)",
+      "plural": "die Wirkungen",
+      "meaning": "the effect (have an effect)"
     }
   ]
 }

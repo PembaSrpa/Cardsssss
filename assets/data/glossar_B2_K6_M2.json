@@ -5,10 +5,106 @@
   "words": [
     {
       "id": "B2_K6_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der/die Anrufer/in",
+      "meaning": "the caller"
+    },
+    {
+      "id": "B2_K6_M2_002",
+      "word": "der Coach",
+      "plural": "die Coachs",
+      "meaning": "the coach"
+    },
+    {
+      "id": "B2_K6_M2_003",
+      "word": "die Auskunft (Auskunft geben)",
+      "plural": "die Auskünfte",
+      "meaning": "information (provide information)"
+    },
+    {
+      "id": "B2_K6_M2_004",
+      "word": "ausrichten",
+      "meaning": "pass on a message (Could you please tell Ms. Weber something?)",
+      "example": "Könnten Sie bitte Frau Weber etwas ausrichten?"
+    },
+    {
+      "id": "B2_K6_M2_005",
+      "word": "das Diagramm",
+      "plural": "die Diagramme",
+      "meaning": "diagram"
+    },
+    {
+      "id": "B2_K6_M2_006",
+      "word": "die Durchwahl",
+      "plural": "die Durchwahlen",
+      "meaning": "extension"
+    },
+    {
+      "id": "B2_K6_M2_007",
+      "word": "festhalten, hielt fest, hat festgehalten",
+      "meaning": "hold on, hold on, held on"
+    },
+    {
+      "id": "B2_K6_M2_008",
+      "word": "die Rückversicherung",
+      "plural": "die Rückversicherungen",
+      "meaning": "reinsurance"
+    },
+    {
+      "id": "B2_K6_M2_009",
+      "word": "verbleiben, verblieb, ist verblieben",
+      "meaning": "remain, remained, remained",
+      "example": "Dann verbleiben wir also so, dass wir uns am Mittwoch treffen."
+    },
+    {
+      "id": "B2_K6_M2_010",
+      "word": "verbunden (mit + D.)",
+      "meaning": "connected (to + D.)",
+      "example": "Ich glaube, ich bin falsch verbunden."
+    },
+    {
+      "id": "B2_K6_M2_011",
+      "word": "vergewissern (sich)",
+      "meaning": "to make sure"
+    },
+    {
+      "id": "B2_K6_M2_012",
+      "word": "verwählen (sich)",
+      "meaning": "dial out"
+    },
+    {
+      "id": "B2_K6_M2_013",
+      "word": "die Zusammenfassung",
+      "plural": "die Zusammenfassungen",
+      "meaning": "summary"
+    },
+    {
+      "id": "B2_K6_M2_014",
+      "word": "die Kaution",
+      "plural": "die Kautionen",
+      "meaning": "deposit"
+    },
+    {
+      "id": "B2_K6_M2_015",
+      "word": "die Stadtbibliothek",
+      "plural": "die Stadtbibliotheken",
+      "meaning": "city library"
+    },
+    {
+      "id": "B2_K6_M2_016",
+      "word": "das Studentenwohnheim",
+      "plural": "die Studentenwohnheime",
+      "meaning": "dormitory"
+    },
+    {
+      "id": "B2_K6_M2_017",
+      "word": "die Visabestimmungen (Pl.)",
+      "meaning": "visa requirements"
+    },
+    {
+      "id": "B2_K6_M2_018",
+      "word": "der Zeitraum",
+      "plural": "die Zeitraüme",
+      "meaning": "period"
     }
   ]
 }

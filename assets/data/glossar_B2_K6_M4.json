@@ -5,10 +5,417 @@
   "words": [
     {
       "id": "B2_K6_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "einprägen (sich)",
+      "meaning": "Memorize"
+    },
+    {
+      "id": "B2_K6_M4_002",
+      "word": "einteilen (in + A.)",
+      "meaning": "divide (in + A.)"
+    },
+    {
+      "id": "B2_K6_M4_003",
+      "word": "gönnen",
+      "meaning": "grant"
+    },
+    {
+      "id": "B2_K6_M4_004",
+      "word": "die Prüfungsangst",
+      "plural": "die Prüfungsängste",
+      "meaning": "exam anxiety"
+    },
+    {
+      "id": "B2_K6_M4_005",
+      "word": "dran (spät dran sein)",
+      "meaning": "turn (be late)"
+    },
+    {
+      "id": "B2_K6_M4_006",
+      "word": "die Lernphase",
+      "plural": "die Lernphasen",
+      "meaning": "learning phase"
+    },
+    {
+      "id": "B2_K6_M4_007",
+      "word": "ausmalen (sich die schlimmsten Dinge ausmalen)",
+      "meaning": "coloring in (the worst things imagine)"
+    },
+    {
+      "id": "B2_K6_M4_008",
+      "word": "bewusst (sich etw. bewusst machen)",
+      "meaning": "aware (to become aware of sth.)"
+    },
+    {
+      "id": "B2_K6_M4_009",
+      "word": "der Blutzucker (Sg.)",
+      "meaning": "blood sugar"
+    },
+    {
+      "id": "B2_K6_M4_010",
+      "word": "der Blutzuckerspiegel",
+      "plural": "die Blutzuckerspiegel",
+      "meaning": "blood sugar level"
+    },
+    {
+      "id": "B2_K6_M4_011",
+      "word": "eingrenzen",
+      "meaning": "delimit"
+    },
+    {
+      "id": "B2_K6_M4_012",
+      "word": "einplanen",
+      "meaning": "plan on"
+    },
+    {
+      "id": "B2_K6_M4_013",
+      "word": "entgegensehen, sah entgegen, hat",
+      "meaning": "look forward, looked towards, has"
+    },
+    {
+      "id": "B2_K6_M4_014",
+      "word": "entgegengesehen",
+      "meaning": "anticipated",
+      "example": "einer Sache positiv entgegensehen"
+    },
+    {
+      "id": "B2_K6_M4_015",
+      "word": "fallen, fiel, ist gefallen",
+      "meaning": "fall, fell, fell",
+      "example": "durch die Prüfung fallen"
+    },
+    {
+      "id": "B2_K6_M4_016",
+      "word": "gehen, ging, ist gegangen (jmd. aus dem Weg gehen)",
+      "meaning": "go, went, has gone (so. from the Walk away)"
+    },
+    {
+      "id": "B2_K6_M4_017",
+      "word": "die Gesamtwiederholung",
+      "plural": "die Gesamtwiederholungen",
+      "meaning": "total repeat"
+    },
+    {
+      "id": "B2_K6_M4_018",
+      "word": "klarmachen (sich)",
+      "meaning": "make clear"
+    },
+    {
+      "id": "B2_K6_M4_019",
+      "word": "konstant (etw. konstant halten)",
+      "meaning": "constant (to keep sth. constant)"
+    },
+    {
+      "id": "B2_K6_M4_020",
+      "word": "die Korrektur",
+      "plural": "die Korrekturen",
+      "meaning": "correction"
+    },
+    {
+      "id": "B2_K6_M4_021",
+      "word": "der Lernstoff",
+      "plural": "die Lernstoffe",
+      "meaning": "learning material"
+    },
+    {
+      "id": "B2_K6_M4_022",
+      "word": "meiden, mied, hat gemieden",
+      "meaning": "avoid, avoided, avoided"
+    },
+    {
+      "id": "B2_K6_M4_023",
+      "word": "die Mühe (sich Mühe geben)",
+      "plural": "die Mühen",
+      "meaning": "trouble"
+    },
+    {
+      "id": "B2_K6_M4_024",
+      "word": "die Musterklausur",
+      "plural": "die Musterklausuren",
+      "meaning": "sample exam"
+    },
+    {
+      "id": "B2_K6_M4_025",
+      "word": "nachhaken",
+      "meaning": "nachhaken"
+    },
+    {
+      "id": "B2_K6_M4_026",
+      "word": "die Nervosität (Sg.)",
+      "meaning": "nervousness"
+    },
+    {
+      "id": "B2_K6_M4_027",
+      "word": "der/die Prüfer/in",
+      "meaning": "examiner"
+    },
+    {
+      "id": "B2_K6_M4_028",
+      "word": "der Puffertag",
+      "plural": "die Puffertage",
+      "meaning": "buffer day"
+    },
+    {
+      "id": "B2_K6_M4_029",
+      "word": "rechtzeitig",
+      "meaning": "in time"
+    },
+    {
+      "id": "B2_K6_M4_030",
+      "word": "schlimmstenfalls",
+      "meaning": "at worst"
+    },
+    {
+      "id": "B2_K6_M4_031",
+      "word": "der Traubenzucker",
+      "plural": "die Traubenzucker",
+      "meaning": "the dextrose"
+    },
+    {
+      "id": "B2_K6_M4_032",
+      "word": "unleserlich",
+      "meaning": "illegible"
+    },
+    {
+      "id": "B2_K6_M4_033",
+      "word": "untergehen, ging unter, ist untergegangen",
+      "meaning": "perish, perish, perish",
+      "example": "Die Welt geht davon nicht unter."
+    },
+    {
+      "id": "B2_K6_M4_034",
+      "word": "verbreiten",
+      "meaning": "spread"
+    },
+    {
+      "id": "B2_K6_M4_035",
+      "word": "verschaffen (sich) (sich einen Überblick verschaffen)",
+      "meaning": "get (to get an overview)"
+    },
+    {
+      "id": "B2_K6_M4_036",
+      "word": "verunsichern",
+      "meaning": "unsettle"
+    },
+    {
+      "id": "B2_K6_M4_037",
+      "word": "die Welt",
+      "plural": "die Welten",
+      "meaning": "the world",
+      "example": "Davon geht die Welt nicht unter."
+    },
+    {
+      "id": "B2_K6_M4_038",
+      "word": "widmen",
+      "meaning": "dedicate"
+    },
+    {
+      "id": "B2_K6_M4_039",
+      "word": "der Zeitplan",
+      "plural": "die Zeitpläne",
+      "meaning": "schedule"
+    },
+    {
+      "id": "B2_K6_M4_040",
+      "word": "die Denkpause",
+      "plural": "die Denkpausen",
+      "meaning": "pause for thought"
+    },
+    {
+      "id": "B2_K6_M4_041",
+      "word": "anstehen, stand an, hat angestanden",
+      "meaning": "queued, queued, queued",
+      "example": "Morgen steht bei uns eine wichtige Prüfung an."
+    },
+    {
+      "id": "B2_K6_M4_042",
+      "word": "der Bammel (Sg.) (Bammel vor etw./jmd. haben)",
+      "meaning": "jitters (jitters before sth / so. to have)"
+    },
+    {
+      "id": "B2_K6_M4_043",
+      "word": "das Lager (etw. auf Lager haben)",
+      "plural": "die Lager",
+      "meaning": "camp (have sth. in stock)"
+    },
+    {
+      "id": "B2_K6_M4_044",
+      "word": "die Panik",
+      "plural": "die Paniken",
+      "meaning": "panic"
+    },
+    {
+      "id": "B2_K6_M4_045",
+      "word": "übrigens",
+      "meaning": "by the way"
+    },
+    {
+      "id": "B2_K6_M4_046",
+      "word": "das Ohr",
+      "plural": "die Ohren",
+      "meaning": "the ear, -en",
+      "example": "viel um die Ohren haben"
+    },
+    {
+      "id": "B2_K6_M4_047",
+      "word": "umgangssprachlich",
+      "meaning": "colloquial"
+    },
+    {
+      "id": "B2_K6_M4_048",
+      "word": "der Terminvorschlag",
+      "plural": "die Terminvorschläge",
+      "meaning": "the proposed date"
+    },
+    {
+      "id": "B2_K6_M4_049",
+      "word": "Porträt",
+      "meaning": "Portrait"
+    },
+    {
+      "id": "B2_K6_M4_050",
+      "word": "angewiesen sein (auf + A.)",
+      "meaning": "be dependent (on + A.)"
+    },
+    {
+      "id": "B2_K6_M4_051",
+      "word": "die Bundespolizei (Sg.)",
+      "meaning": "the federal police"
+    },
+    {
+      "id": "B2_K6_M4_052",
+      "word": "der Jugendbereich",
+      "plural": "die Jugendbereiche",
+      "meaning": "the youth area"
+    },
+    {
+      "id": "B2_K6_M4_053",
+      "word": "der Kader",
+      "plural": "die Kader",
+      "meaning": "squad"
+    },
+    {
+      "id": "B2_K6_M4_054",
+      "word": "das Kartrennen",
+      "plural": "die Kartrennen",
+      "meaning": "kart race"
+    },
+    {
+      "id": "B2_K6_M4_055",
+      "word": "kommen, kam, ist gekommen (zur Welt kommen)",
+      "meaning": "come, came, has come (to the world come)"
+    },
+    {
+      "id": "B2_K6_M4_056",
+      "word": "das Kunstturnen (Sg.)",
+      "meaning": "artistic gymnastics"
+    },
+    {
+      "id": "B2_K6_M4_057",
+      "word": "der/die Kunstturner/in",
+      "meaning": "gymnast"
+    },
+    {
+      "id": "B2_K6_M4_058",
+      "word": "das Lebensjahr",
+      "plural": "die Lebensjahre",
+      "meaning": "year of life"
+    },
+    {
+      "id": "B2_K6_M4_059",
+      "word": "der Monoski",
+      "plural": "die Monoskis",
+      "meaning": "monoski"
+    },
+    {
+      "id": "B2_K6_M4_060",
+      "word": "der/die Monoskibobfahrer/in",
+      "meaning": "monoski biker"
+    },
+    {
+      "id": "B2_K6_M4_061",
+      "word": "die Nationalmannschaft",
+      "plural": "die Nationalmannschaften",
+      "meaning": "national team"
+    },
+    {
+      "id": "B2_K6_M4_062",
+      "word": "der Pokal",
+      "plural": "die Pokale",
+      "meaning": "cup"
+    },
+    {
+      "id": "B2_K6_M4_063",
+      "word": "die Politikwissenschaft",
+      "plural": "die Politikwissenschaften",
+      "meaning": "political science"
+    },
+    {
+      "id": "B2_K6_M4_064",
+      "word": "der/die Polizeimeister/in",
+      "meaning": "police master"
+    },
+    {
+      "id": "B2_K6_M4_065",
+      "word": "die Profimannschaft",
+      "plural": "die Profimannschaften",
+      "meaning": "professional team"
+    },
+    {
+      "id": "B2_K6_M4_066",
+      "word": "die Querschnittslähmung",
+      "plural": "die Querschnittslähmungen",
+      "meaning": "paraplegia"
+    },
+    {
+      "id": "B2_K6_M4_067",
+      "word": "das Rennen",
+      "plural": "die Rennen",
+      "meaning": "race"
+    },
+    {
+      "id": "B2_K6_M4_068",
+      "word": "der Rollstuhl",
+      "plural": "die Rollstühle",
+      "meaning": "wheelchair"
+    },
+    {
+      "id": "B2_K6_M4_069",
+      "word": "das Snowboard",
+      "plural": "die Snowboards",
+      "meaning": "snowboard"
+    },
+    {
+      "id": "B2_K6_M4_070",
+      "word": "der Tennisplatz",
+      "plural": "die Tennisplätze",
+      "meaning": "tennis court"
+    },
+    {
+      "id": "B2_K6_M4_071",
+      "word": "der Tennisprofi",
+      "plural": "die Tennisprofis",
+      "meaning": "professional tennis player"
+    },
+    {
+      "id": "B2_K6_M4_072",
+      "word": "ungeschlagen",
+      "meaning": "undefeated"
+    },
+    {
+      "id": "B2_K6_M4_073",
+      "word": "der Weltmeistertitel",
+      "plural": "die Weltmeistertitel",
+      "meaning": "world champion title"
+    },
+    {
+      "id": "B2_K6_M4_074",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K6_M4_075",
+      "word": "voranstellen",
+      "meaning": "prepend"
     }
   ]
 }

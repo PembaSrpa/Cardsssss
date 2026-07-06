@@ -5,10 +5,167 @@
   "words": [
     {
       "id": "B2_K1_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "missverständlich",
+      "meaning": "misleading"
+    },
+    {
+      "id": "B2_K1_M3_002",
+      "word": "das Abteil",
+      "plural": "die Abteile",
+      "meaning": "compartment"
+    },
+    {
+      "id": "B2_K1_M3_003",
+      "word": "missverstehen, missverstand, hat missverstanden",
+      "meaning": "misunderstand"
+    },
+    {
+      "id": "B2_K1_M3_004",
+      "word": "peinlich",
+      "meaning": "embarrassing"
+    },
+    {
+      "id": "B2_K1_M3_005",
+      "word": "der Abstand",
+      "plural": "die Abstände",
+      "meaning": "the distance"
+    },
+    {
+      "id": "B2_K1_M3_006",
+      "word": "die Art (Fragen jeglicher Art)",
+      "plural": "die Arten",
+      "meaning": "the type (s) (questions of any kind)"
+    },
+    {
+      "id": "B2_K1_M3_007",
+      "word": "äußerst",
+      "meaning": "extremely"
+    },
+    {
+      "id": "B2_K1_M3_008",
+      "word": "bedenken, bedachte, hat bedacht",
+      "meaning": "consider"
+    },
+    {
+      "id": "B2_K1_M3_009",
+      "word": "der/die Begleiter/in",
+      "meaning": "the companion"
+    },
+    {
+      "id": "B2_K1_M3_010",
+      "word": "breit (ein breites Lächeln)",
+      "meaning": "wide (a big smile)"
+    },
+    {
+      "id": "B2_K1_M3_011",
+      "word": "die Freundlichkeit",
+      "plural": "die Freundlichkeiten",
+      "meaning": "the kindness"
+    },
+    {
+      "id": "B2_K1_M3_012",
+      "word": "das Gegenüber",
+      "plural": "die Gegenüber",
+      "meaning": "the opposite, -",
+      "example": "Sprechen Sie mit Ihrem Gegenüber."
+    },
+    {
+      "id": "B2_K1_M3_013",
+      "word": "jeglich",
+      "meaning": "every several"
+    },
+    {
+      "id": "B2_K1_M3_014",
+      "word": "das Lächeln",
+      "plural": "die Lächeln",
+      "meaning": "the smile, -"
+    },
+    {
+      "id": "B2_K1_M3_015",
+      "word": "die Öffentlichkeit (Sg.)",
+      "meaning": "the public"
+    },
+    {
+      "id": "B2_K1_M3_016",
+      "word": "die Privatsphäre (Sg.)",
+      "meaning": "privacy"
+    },
+    {
+      "id": "B2_K1_M3_017",
+      "word": "stellen (eine Frage stellen)",
+      "meaning": "ask (ask a question)"
+    },
+    {
+      "id": "B2_K1_M3_018",
+      "word": "üblich",
+      "meaning": "common"
+    },
+    {
+      "id": "B2_K1_M3_019",
+      "word": "die Spielregel",
+      "plural": "die Spielregeln",
+      "meaning": "the rules of the game"
+    },
+    {
+      "id": "B2_K1_M3_020",
+      "word": "die Geste",
+      "plural": "die Gesten",
+      "meaning": "the gesture"
+    },
+    {
+      "id": "B2_K1_M3_021",
+      "word": "alkoholfrei",
+      "meaning": "non-alcoholic"
+    },
+    {
+      "id": "B2_K1_M3_022",
+      "word": "atypisch (für + A.)",
+      "meaning": "atypical"
+    },
+    {
+      "id": "B2_K1_M3_023",
+      "word": "das Desinteresse (Sg.)",
+      "meaning": "disinterest"
+    },
+    {
+      "id": "B2_K1_M3_024",
+      "word": "disqualifizieren",
+      "meaning": "disqualify"
+    },
+    {
+      "id": "B2_K1_M3_025",
+      "word": "inhaltsleer",
+      "meaning": "meaningless"
+    },
+    {
+      "id": "B2_K1_M3_026",
+      "word": "intolerant",
+      "meaning": "intolerant"
+    },
+    {
+      "id": "B2_K1_M3_027",
+      "word": "irreal",
+      "meaning": "unreal"
+    },
+    {
+      "id": "B2_K1_M3_028",
+      "word": "der/die Nichtschwimmer/in",
+      "meaning": "non-swimmer"
+    },
+    {
+      "id": "B2_K1_M3_029",
+      "word": "nonverbal",
+      "meaning": "nonverbally"
+    },
+    {
+      "id": "B2_K1_M3_030",
+      "word": "das Unverständnis (Sg.)",
+      "meaning": "lack of understanding"
+    },
+    {
+      "id": "B2_K1_M3_031",
+      "word": "trennbar",
+      "meaning": "separable"
     }
   ]
 }

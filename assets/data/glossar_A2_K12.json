@@ -4,10 +4,523 @@
   "words": [
     {
       "id": "A2_K12_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "Äthiopien",
+      "meaning": "Ethiopia"
+    },
+    {
+      "id": "A2_K12_002",
+      "word": "beeindrucken",
+      "meaning": "to impress"
+    },
+    {
+      "id": "A2_K12_003",
+      "word": "dekorieren",
+      "meaning": "to decorate"
+    },
+    {
+      "id": "A2_K12_004",
+      "word": "die Gastfreundschaft (Singular)",
+      "meaning": "hospitality"
+    },
+    {
+      "id": "A2_K12_005",
+      "word": "die Gastgeberin",
+      "plural": "Gastgeberinnen",
+      "meaning": "hostess"
+    },
+    {
+      "id": "A2_K12_006",
+      "word": "der Geselle",
+      "plural": "Gesellen",
+      "meaning": "apprentice"
+    },
+    {
+      "id": "A2_K12_007",
+      "word": "der Heimatort",
+      "plural": "Heimatorte",
+      "meaning": "hometown"
+    },
+    {
+      "id": "A2_K12_008",
+      "word": "die Kaffeebohne",
+      "plural": "Kaffeebohnen",
+      "meaning": "coffee bean"
+    },
+    {
+      "id": "A2_K12_009",
+      "word": "die Kaffeezeremonie",
+      "plural": "Kaffeezeremonien",
+      "meaning": "coffee ceremony"
+    },
+    {
+      "id": "A2_K12_010",
+      "word": "die Kulturwissenschaftlerin",
+      "plural": "Kulturwissenschaftlerinnen",
+      "meaning": "humanities researcher"
+    },
+    {
+      "id": "A2_K12_011",
+      "word": "Neujahr (ohne Artikel)",
+      "meaning": "New Year’s"
+    },
+    {
+      "id": "A2_K12_012",
+      "word": "der Ofen",
+      "plural": "Öfen",
+      "meaning": "oven"
+    },
+    {
+      "id": "A2_K12_013",
+      "word": "rösten",
+      "meaning": "to roast"
+    },
+    {
+      "id": "A2_K12_014",
+      "word": "Silvester (ohne Artikel)",
+      "meaning": "New Year’s Eve"
+    },
+    {
+      "id": "A2_K12_015",
+      "word": "die Walz (Singular)",
+      "meaning": "apprenticeship in a different local region",
+      "example": "Der Tischler geht seit drei Monaten auf die Walz. The carpenter has been studying abroad for three months now."
+    },
+    {
+      "id": "A2_K12_016",
+      "word": "der Wandergeselle",
+      "plural": "Wandergesellen",
+      "meaning": "traveling apprentice"
+    },
+    {
+      "id": "A2_K12_017",
+      "word": "die Wanderschaft",
+      "plural": "Wanderschaften",
+      "meaning": "travels"
+    },
+    {
+      "id": "A2_K12_018",
+      "word": "die Zeremonie",
+      "plural": "Zeremonien",
+      "meaning": "ceremony"
+    },
+    {
+      "id": "A2_K12_019",
+      "word": "das Neujahrsfest",
+      "plural": "Neujahrsfeste",
+      "meaning": "new year’s celebration"
+    },
+    {
+      "id": "A2_K12_020",
+      "word": "das Erntedankfest",
+      "plural": "Erntedankfeste",
+      "meaning": "harvest celebration"
+    },
+    {
+      "id": "A2_K12_021",
+      "word": "der Maibaum",
+      "plural": "Maibäume",
+      "meaning": "maypole"
+    },
+    {
+      "id": "A2_K12_022",
+      "word": "anlassen (lässt an, hat angelassen)",
+      "meaning": "to leave on"
+    },
+    {
+      "id": "A2_K12_023",
+      "word": "der Arbeitskollege",
+      "plural": "Arbeitskollegen",
+      "meaning": "colleague"
+    },
+    {
+      "id": "A2_K12_024",
+      "word": "ausziehen (zieht aus, hat ausgezogen)",
+      "meaning": "to take off",
+      "example": "In Deutschland zieht man als Gast nicht automatisch die Schuhe aus."
+    },
+    {
+      "id": "A2_K12_025",
+      "word": "die Diplomarbeit",
+      "plural": "Diplomarbeiten",
+      "meaning": "thesis"
+    },
+    {
+      "id": "A2_K12_026",
+      "word": "einzig",
+      "meaning": "only, sole, unique"
+    },
+    {
+      "id": "A2_K12_027",
+      "word": "die Geburtstagsparty",
+      "plural": "Geburtstagspartys",
+      "meaning": "birthday party"
+    },
+    {
+      "id": "A2_K12_028",
+      "word": "der Hausschuh",
+      "plural": "Hausschuhe",
+      "meaning": "slipper"
+    },
+    {
+      "id": "A2_K12_029",
+      "word": "neulich",
+      "meaning": "recently"
+    },
+    {
+      "id": "A2_K12_030",
+      "word": "die Socke",
+      "plural": "Socken",
+      "meaning": "sock"
+    },
+    {
+      "id": "A2_K12_031",
+      "word": "stehen bleiben (bleibt stehen, ist stehen geblieben)",
+      "meaning": "to stand still"
+    },
+    {
+      "id": "A2_K12_032",
+      "word": "unhöflich",
+      "meaning": "impolite (ly)"
+    },
+    {
+      "id": "A2_K12_033",
+      "word": "unsicher",
+      "meaning": "insecure (ly)"
+    },
+    {
+      "id": "A2_K12_034",
+      "word": "unzufrieden",
+      "meaning": "dissatisfied (ly), displeased"
+    },
+    {
+      "id": "A2_K12_035",
+      "word": "auch wenn",
+      "meaning": "even when"
+    },
+    {
+      "id": "A2_K12_036",
+      "word": "auf keinen Fall",
+      "meaning": "under no circumstances"
+    },
+    {
+      "id": "A2_K12_037",
+      "word": "der Gastgeber",
+      "plural": "Gastgeber",
+      "meaning": "host"
+    },
+    {
+      "id": "A2_K12_038",
+      "word": "gierig",
+      "meaning": "greedy"
+    },
+    {
+      "id": "A2_K12_039",
+      "word": "der Kulturknigge (Singular)",
+      "meaning": "cultural etiquette"
+    },
+    {
+      "id": "A2_K12_040",
+      "word": "die Portion",
+      "plural": "Portionen",
+      "meaning": "portion"
+    },
+    {
+      "id": "A2_K12_041",
+      "word": "putzen",
+      "meaning": "to clean, wipe",
+      "example": "Ich muss mir ständig die Nase putzen."
+    },
+    {
+      "id": "A2_K12_042",
+      "word": "schlürfen",
+      "meaning": "to slurp"
+    },
+    {
+      "id": "A2_K12_043",
+      "word": "die Seite (Singular)",
+      "meaning": "side",
+      "example": "Wenn ich mir die Nase putzen muss, sehe ich zur Seite."
+    },
+    {
+      "id": "A2_K12_044",
+      "word": "das Taschentuch",
+      "plural": "Taschentücher",
+      "meaning": "handkerchief"
+    },
+    {
+      "id": "A2_K12_045",
+      "word": "umrühren",
+      "meaning": "to stir up"
+    },
+    {
+      "id": "A2_K12_046",
+      "word": "wirken",
+      "meaning": "here: to seem"
+    },
+    {
+      "id": "A2_K12_047",
+      "word": "damit",
+      "meaning": "here: so that",
+      "example": "Nimm nicht zu viel vom Kuchen, damit du nicht gierig wirkst."
+    },
+    {
+      "id": "A2_K12_048",
+      "word": "der Reiseleiter",
+      "plural": "Reiseleiter",
+      "meaning": "tour guide"
+    },
+    {
+      "id": "A2_K12_049",
+      "word": "um … zu",
+      "meaning": "in order to",
+      "example": "Ich esse die heiße Suppe vorsichtig, um nicht zu schlürfen."
+    },
+    {
+      "id": "A2_K12_050",
+      "word": "die Absicht",
+      "plural": "Absichten",
+      "meaning": "intention"
+    },
+    {
+      "id": "A2_K12_051",
+      "word": "wozu",
+      "meaning": "why, for what"
+    },
+    {
+      "id": "A2_K12_052",
+      "word": "das Benehmen (Singular)",
+      "meaning": "behavior, manners"
+    },
+    {
+      "id": "A2_K12_053",
+      "word": "die Höflichkeit",
+      "plural": "Höflichkeiten",
+      "meaning": "politeness, courtesy"
+    },
+    {
+      "id": "A2_K12_054",
+      "word": "Acht (ohne Artikel, Singular)",
+      "meaning": "awareness, heed",
+      "example": "Gib Acht: Die Ampel ist rot."
+    },
+    {
+      "id": "A2_K12_055",
+      "word": "die Ausnahme",
+      "plural": "Ausnahmen",
+      "meaning": "exception"
+    },
+    {
+      "id": "A2_K12_056",
+      "word": "automatisch",
+      "meaning": "automatic (ally)"
+    },
+    {
+      "id": "A2_K12_057",
+      "word": "der Beamte",
+      "plural": "Beamten",
+      "meaning": "officer, civil servant"
+    },
+    {
+      "id": "A2_K12_058",
+      "word": "befreundet",
+      "meaning": "befriended"
+    },
+    {
+      "id": "A2_K12_059",
+      "word": "die Distanz",
+      "plural": "Distanzen",
+      "meaning": "distance"
+    },
+    {
+      "id": "A2_K12_060",
+      "word": "duzen",
+      "meaning": "to call someone by „du“"
+    },
+    {
+      "id": "A2_K12_061",
+      "word": "der/die Erwachsene",
+      "plural": "Erwachsenen",
+      "meaning": "adult"
+    },
+    {
+      "id": "A2_K12_062",
+      "word": "gelten (gilt, hat gegolten)",
+      "meaning": "to apply, count"
+    },
+    {
+      "id": "A2_K12_063",
+      "word": "generell",
+      "meaning": "general (ly)"
+    },
+    {
+      "id": "A2_K12_064",
+      "word": "korrekt",
+      "meaning": "correct"
+    },
+    {
+      "id": "A2_K12_065",
+      "word": "näher",
+      "meaning": "closer",
+      "example": "Ich kenne meine Kollegen leider nicht näher."
+    },
+    {
+      "id": "A2_K12_066",
+      "word": "das Schulalter (Singular)",
+      "meaning": "school-age"
+    },
+    {
+      "id": "A2_K12_067",
+      "word": "siezen",
+      "meaning": "to call someone by „Sie“"
+    },
+    {
+      "id": "A2_K12_068",
+      "word": "das Schulkind",
+      "plural": "Schulkinder",
+      "meaning": "schoolchild"
+    },
+    {
+      "id": "A2_K12_069",
+      "word": "die Wanderung",
+      "plural": "Wanderungen",
+      "meaning": "hike"
+    },
+    {
+      "id": "A2_K12_070",
+      "word": "der/die Bekannte",
+      "plural": "Bekannten",
+      "meaning": "acquaintance"
+    },
+    {
+      "id": "A2_K12_071",
+      "word": "steigen (steigt, ist gestiegen)",
+      "meaning": "to climb, rise"
+    },
+    {
+      "id": "A2_K12_072",
+      "word": "die Stimme",
+      "plural": "Stimmen",
+      "meaning": "voice"
+    },
+    {
+      "id": "A2_K12_073",
+      "word": "nun",
+      "meaning": "now"
+    },
+    {
+      "id": "A2_K12_074",
+      "word": "eingehen (geht ein, ist eingegangen)",
+      "meaning": "to focus on, concentrate",
+      "example": "Auf welchen Punkt sollen wir in der Diskussion eingehen?"
+    },
+    {
+      "id": "A2_K12_075",
+      "word": "die Industrie",
+      "plural": "Industrieen",
+      "meaning": "industry"
+    },
+    {
+      "id": "A2_K12_076",
+      "word": "die Ordnung (Singular)",
+      "meaning": "order"
+    },
+    {
+      "id": "A2_K12_077",
+      "word": "die Qualität (Singular)",
+      "meaning": "quality"
+    },
+    {
+      "id": "A2_K12_078",
+      "word": "die Wirtschaft (Singular)",
+      "meaning": "economy"
+    },
+    {
+      "id": "A2_K12_079",
+      "word": "abschließend",
+      "meaning": "in closing"
+    },
+    {
+      "id": "A2_K12_080",
+      "word": "altmodisch",
+      "meaning": "old-fashioned"
+    },
+    {
+      "id": "A2_K12_081",
+      "word": "das Ballkleid",
+      "plural": "Ballkleider",
+      "meaning": "formal dress for balls"
+    },
+    {
+      "id": "A2_K12_082",
+      "word": "beleidigt",
+      "meaning": "offended"
+    },
+    {
+      "id": "A2_K12_083",
+      "word": "der Handkuss",
+      "plural": "Handküsse",
+      "meaning": "kiss on the hand"
+    },
+    {
+      "id": "A2_K12_084",
+      "word": "die Kaiserzeit (Singular)",
+      "meaning": "imperial era"
+    },
+    {
+      "id": "A2_K12_085",
+      "word": "kriegen",
+      "meaning": "to get, obtain"
+    },
+    {
+      "id": "A2_K12_086",
+      "word": "der Opernball",
+      "plural": "Opernbälle",
+      "meaning": "opera ball"
+    },
+    {
+      "id": "A2_K12_087",
+      "word": "die Prinzessin",
+      "plural": "Prinzessinnen",
+      "meaning": "princess"
+    },
+    {
+      "id": "A2_K12_088",
+      "word": "der Quatsch (Singular)",
+      "meaning": "nonsense"
+    },
+    {
+      "id": "A2_K12_089",
+      "word": "schließlich",
+      "meaning": "finally"
+    },
+    {
+      "id": "A2_K12_090",
+      "word": "der Ski",
+      "plural": "Skier",
+      "meaning": "ski"
+    },
+    {
+      "id": "A2_K12_091",
+      "word": "das Skifahren (Singular)",
+      "meaning": "to ski"
+    },
+    {
+      "id": "A2_K12_092",
+      "word": "die Zusammenfassung",
+      "plural": "Zusammenfassungen",
+      "meaning": "summary, synopsis"
+    },
+    {
+      "id": "A2_K12_093",
+      "word": "der Blogger",
+      "plural": "Blogger",
+      "meaning": "blogger"
+    },
+    {
+      "id": "A2_K12_094",
+      "word": "die Eigenschaft",
+      "plural": "Eigenschaften",
+      "meaning": "attribute, characteristic"
     }
   ]
 }

@@ -4,10 +4,544 @@
   "words": [
     {
       "id": "A2_K7_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Disziplin (Singular)",
+      "meaning": "discipline"
+    },
+    {
+      "id": "A2_K7_002",
+      "word": "die Gitarre",
+      "plural": "Gitarren",
+      "meaning": "guitar"
+    },
+    {
+      "id": "A2_K7_003",
+      "word": "die Lieblingsband",
+      "plural": "Lieblingsbands",
+      "meaning": "favorite band"
+    },
+    {
+      "id": "A2_K7_004",
+      "word": "der Online-Kurs",
+      "plural": "Online-Kurse",
+      "meaning": "online course"
+    },
+    {
+      "id": "A2_K7_005",
+      "word": "verfassen (einen Forumseintrag verfassen)",
+      "meaning": "to write up (write up a forum post)"
+    },
+    {
+      "id": "A2_K7_006",
+      "word": "blicken",
+      "meaning": "to see, glimpse",
+      "example": "Ich blick‘s nicht."
+    },
+    {
+      "id": "A2_K7_007",
+      "word": "die Checkliste",
+      "plural": "Checklisten",
+      "meaning": "checklist"
+    },
+    {
+      "id": "A2_K7_008",
+      "word": "durcheinandergehen (geht durcheinander, ist durcheinandergegangen)",
+      "meaning": "to get mixed up"
+    },
+    {
+      "id": "A2_K7_009",
+      "word": "einfallen (fällt ein, ist eingefallen)",
+      "meaning": "to think of"
+    },
+    {
+      "id": "A2_K7_010",
+      "word": "einhalten (hält ein, hat eingehalten)",
+      "meaning": "to follow, observe"
+    },
+    {
+      "id": "A2_K7_011",
+      "word": "kapieren",
+      "meaning": "to understand"
+    },
+    {
+      "id": "A2_K7_012",
+      "word": "knapp",
+      "meaning": "scarce (ly)"
+    },
+    {
+      "id": "A2_K7_013",
+      "word": "die Meisterprüfung",
+      "plural": "Meisterprüfungen",
+      "meaning": "master’s certification"
+    },
+    {
+      "id": "A2_K7_014",
+      "word": "mündlich",
+      "meaning": "oral"
+    },
+    {
+      "id": "A2_K7_015",
+      "word": "der Prüfer",
+      "plural": "Prüfer",
+      "meaning": "examiner, person ministering an exam"
+    },
+    {
+      "id": "A2_K7_016",
+      "word": "der Schlaf (Singular)",
+      "meaning": "sleep"
+    },
+    {
+      "id": "A2_K7_017",
+      "word": "das Semester",
+      "plural": "Semester",
+      "meaning": "semester"
+    },
+    {
+      "id": "A2_K7_018",
+      "word": "der Stoff (Singular)",
+      "meaning": "material",
+      "example": "Für die Prüfung muss ich noch so viel Stoff lernen."
+    },
+    {
+      "id": "A2_K7_019",
+      "word": "trotzdem",
+      "meaning": "nevertheless"
+    },
+    {
+      "id": "A2_K7_020",
+      "word": "der Zeitplan",
+      "plural": "Zeitpläne",
+      "meaning": "schedule"
+    },
+    {
+      "id": "A2_K7_021",
+      "word": "entspannen (sich)",
+      "meaning": "to relax"
+    },
+    {
+      "id": "A2_K7_022",
+      "word": "konsequent",
+      "meaning": "consistent (ly)"
+    },
+    {
+      "id": "A2_K7_023",
+      "word": "verschieben (verschiebt, hat verschoben)",
+      "meaning": "to delay, put off"
+    },
+    {
+      "id": "A2_K7_024",
+      "word": "das Lernproblem",
+      "plural": "Lernprobleme",
+      "meaning": "learning problem"
+    },
+    {
+      "id": "A2_K7_025",
+      "word": "weiterarbeiten",
+      "meaning": "to continue work"
+    },
+    {
+      "id": "A2_K7_026",
+      "word": "die Arbeit",
+      "plural": "Arbeiten",
+      "meaning": "here: exam",
+      "example": "Maria schreibt heute eine Arbeit in Geograﬁe."
+    },
+    {
+      "id": "A2_K7_027",
+      "word": "der Arbeitsplan",
+      "plural": "Arbeitspläne",
+      "meaning": "work plan, work schedule"
+    },
+    {
+      "id": "A2_K7_028",
+      "word": "denn",
+      "meaning": "because",
+      "example": "Auch Prüfer sind oft nervös, denn sie müssen sich sehr konzentrieren."
+    },
+    {
+      "id": "A2_K7_029",
+      "word": "dringend",
+      "meaning": "urgently"
+    },
+    {
+      "id": "A2_K7_030",
+      "word": "durchatmen",
+      "meaning": "to breathe, respire"
+    },
+    {
+      "id": "A2_K7_031",
+      "word": "die Erholung (Singular)",
+      "meaning": "recovery"
+    },
+    {
+      "id": "A2_K7_032",
+      "word": "gerecht",
+      "meaning": "fair, just"
+    },
+    {
+      "id": "A2_K7_033",
+      "word": "die Grippe",
+      "plural": "Grippen",
+      "meaning": "flu"
+    },
+    {
+      "id": "A2_K7_034",
+      "word": "lassen (lässt, hat gelassen)",
+      "meaning": "to leave",
+      "example": "Lassen Sie auch Lücken für Pausen in Ihrem Arbeitsplan."
+    },
+    {
+      "id": "A2_K7_035",
+      "word": "der Lernhelfer",
+      "plural": "Lernhelfer",
+      "meaning": "learning assistant"
+    },
+    {
+      "id": "A2_K7_036",
+      "word": "lösen",
+      "meaning": "to solve"
+    },
+    {
+      "id": "A2_K7_037",
+      "word": "nachfragen",
+      "meaning": "to ask again"
+    },
+    {
+      "id": "A2_K7_038",
+      "word": "ruhig",
+      "meaning": "here: without worry",
+      "example": "Machen Sie beim Lernen ruhig einen freien Tag pro Woche."
+    },
+    {
+      "id": "A2_K7_039",
+      "word": "tief",
+      "meaning": "deep (ly)",
+      "example": "Atme tief durch!"
+    },
+    {
+      "id": "A2_K7_040",
+      "word": "der Trick",
+      "plural": "Tricks",
+      "meaning": "trick"
+    },
+    {
+      "id": "A2_K7_041",
+      "word": "übrigens",
+      "meaning": "by the way"
+    },
+    {
+      "id": "A2_K7_042",
+      "word": "verplanen",
+      "meaning": "here: to overschedule"
+    },
+    {
+      "id": "A2_K7_043",
+      "word": "einplanen",
+      "meaning": "to schedule in"
+    },
+    {
+      "id": "A2_K7_044",
+      "word": "belohnen",
+      "meaning": "to reward"
+    },
+    {
+      "id": "A2_K7_045",
+      "word": "motivieren",
+      "meaning": "to motivate"
+    },
+    {
+      "id": "A2_K7_046",
+      "word": "der Ratschlag",
+      "plural": "Ratschläge",
+      "meaning": "advice, counsel"
+    },
+    {
+      "id": "A2_K7_047",
+      "word": "der Forumstext",
+      "plural": "Forumstexte",
+      "meaning": "forum post"
+    },
+    {
+      "id": "A2_K7_048",
+      "word": "abwechslungsreich",
+      "meaning": "varied"
+    },
+    {
+      "id": "A2_K7_049",
+      "word": "der Auftrag",
+      "plural": "Aufträge",
+      "meaning": "job, order, task"
+    },
+    {
+      "id": "A2_K7_050",
+      "word": "begleiten",
+      "meaning": "to accompany"
+    },
+    {
+      "id": "A2_K7_051",
+      "word": "der Doktor",
+      "plural": "Doktoren",
+      "meaning": "doctor"
+    },
+    {
+      "id": "A2_K7_052",
+      "word": "dolmetschen",
+      "meaning": "to translate simultaneously"
+    },
+    {
+      "id": "A2_K7_053",
+      "word": "das Drehbuch",
+      "plural": "Drehbücher",
+      "meaning": "screenplay"
+    },
+    {
+      "id": "A2_K7_054",
+      "word": "einsam",
+      "meaning": "lonely"
+    },
+    {
+      "id": "A2_K7_055",
+      "word": "faszinieren",
+      "meaning": "to fascinate"
+    },
+    {
+      "id": "A2_K7_056",
+      "word": "freiberuflich",
+      "meaning": "self-employed, freelance"
+    },
+    {
+      "id": "A2_K7_057",
+      "word": "der Gebärdendolmetscher",
+      "plural": "Gebärdendolmetscher",
+      "meaning": "sign language interpreter"
+    },
+    {
+      "id": "A2_K7_058",
+      "word": "gehörlos",
+      "meaning": "deaf, hearing-impaired"
+    },
+    {
+      "id": "A2_K7_059",
+      "word": "der/die Gehörlose",
+      "plural": "Gehörlosen",
+      "meaning": "deaf person, hearing-impaired person"
+    },
+    {
+      "id": "A2_K7_060",
+      "word": "das Gericht",
+      "plural": "Gerichte",
+      "meaning": "court",
+      "example": "Tom dolmetscht oft im Gericht oder auf dem Standesamt."
+    },
+    {
+      "id": "A2_K7_061",
+      "word": "die Kommunikation (Singular)",
+      "meaning": "communication"
+    },
+    {
+      "id": "A2_K7_062",
+      "word": "komplett",
+      "meaning": "complete (ly)"
+    },
+    {
+      "id": "A2_K7_063",
+      "word": "die Konferenz",
+      "plural": "Konferenzen",
+      "meaning": "conference"
+    },
+    {
+      "id": "A2_K7_064",
+      "word": "die Logopädin",
+      "plural": "Logopädinnen",
+      "meaning": "speech therapist"
+    },
+    {
+      "id": "A2_K7_065",
+      "word": "Mitternacht (ohne Artikel, Singular)",
+      "meaning": "midnight"
+    },
+    {
+      "id": "A2_K7_066",
+      "word": "die Phase",
+      "plural": "Phasen",
+      "meaning": "phase"
+    },
+    {
+      "id": "A2_K7_067",
+      "word": "sorgen",
+      "meaning": "to ensure, provide"
+    },
+    {
+      "id": "A2_K7_068",
+      "word": "die Sprachtherapie",
+      "plural": "Sprachtherapien",
+      "meaning": "speech therapy"
+    },
+    {
+      "id": "A2_K7_069",
+      "word": "das Standesamt",
+      "plural": "Standesämter",
+      "meaning": "civil magistrate’s office"
+    },
+    {
+      "id": "A2_K7_070",
+      "word": "der Tagesablauf",
+      "plural": "Tagesabläufe",
+      "meaning": "daily schedule"
+    },
+    {
+      "id": "A2_K7_071",
+      "word": "der Übersetzer",
+      "plural": "Übersetzer",
+      "meaning": "translator"
+    },
+    {
+      "id": "A2_K7_072",
+      "word": "die Untersuchung",
+      "plural": "Untersuchungen",
+      "meaning": "examination"
+    },
+    {
+      "id": "A2_K7_073",
+      "word": "der Zeitschriftenartikel",
+      "plural": "Zeitschriftenartikel",
+      "meaning": "newspaper article"
+    },
+    {
+      "id": "A2_K7_074",
+      "word": "die Angabe",
+      "plural": "Angaben",
+      "meaning": "statement"
+    },
+    {
+      "id": "A2_K7_075",
+      "word": "die Tänzerin",
+      "plural": "Tänzerinnen",
+      "meaning": "dancer"
+    },
+    {
+      "id": "A2_K7_076",
+      "word": "die Aushilfe",
+      "plural": "Aushilfen",
+      "meaning": "temporary help"
+    },
+    {
+      "id": "A2_K7_077",
+      "word": "einkochen",
+      "meaning": "to boil down"
+    },
+    {
+      "id": "A2_K7_078",
+      "word": "die Frucht",
+      "plural": "Früchte",
+      "meaning": "fruit"
+    },
+    {
+      "id": "A2_K7_079",
+      "word": "das Generationenprojekt",
+      "plural": "Generationenprojekte",
+      "meaning": "generational project"
+    },
+    {
+      "id": "A2_K7_080",
+      "word": "der Preis",
+      "plural": "Preise",
+      "meaning": "prize",
+      "example": "Unser Projekt hat dieses Jahr einen Preis gewonnen."
+    },
+    {
+      "id": "A2_K7_081",
+      "word": "die Servicekraft",
+      "plural": "Servicekräfte",
+      "meaning": "service staff"
+    },
+    {
+      "id": "A2_K7_082",
+      "word": "der Wert",
+      "plural": "Werte",
+      "meaning": "value"
+    },
+    {
+      "id": "A2_K7_083",
+      "word": "die Erwartung",
+      "plural": "Erwartungen",
+      "meaning": "expectation"
+    },
+    {
+      "id": "A2_K7_084",
+      "word": "die Reportage",
+      "plural": "Reportagen",
+      "meaning": "report"
+    },
+    {
+      "id": "A2_K7_085",
+      "word": "das Stichwort",
+      "plural": "Stichwörter",
+      "meaning": "keyword"
+    },
+    {
+      "id": "A2_K7_086",
+      "word": "die Seniorin",
+      "plural": "Seniorinnen",
+      "meaning": "senior citizen"
+    },
+    {
+      "id": "A2_K7_087",
+      "word": "das Lieblingsbuch",
+      "plural": "Lieblingsbücher",
+      "meaning": "favorite book"
+    },
+    {
+      "id": "A2_K7_088",
+      "word": "der Vorleser",
+      "plural": "Vorleser",
+      "meaning": "reader"
+    },
+    {
+      "id": "A2_K7_089",
+      "word": "die Einleitung",
+      "plural": "Einleitungen",
+      "meaning": "introduction"
+    },
+    {
+      "id": "A2_K7_090",
+      "word": "erstens",
+      "meaning": "firstly"
+    },
+    {
+      "id": "A2_K7_091",
+      "word": "die Gliederung",
+      "plural": "Gliederungen",
+      "meaning": "structure, organization"
+    },
+    {
+      "id": "A2_K7_092",
+      "word": "der Hauptteil",
+      "plural": "Hauptteile",
+      "meaning": "main section"
+    },
+    {
+      "id": "A2_K7_093",
+      "word": "der Punkt",
+      "plural": "Punkte",
+      "meaning": "point",
+      "example": "Zu diesem Punkt möchte ich noch etwas sagen: …"
+    },
+    {
+      "id": "A2_K7_094",
+      "word": "der Zuhörer",
+      "plural": "Zuhörer",
+      "meaning": "listener"
+    },
+    {
+      "id": "A2_K7_095",
+      "word": "der Spiegel",
+      "plural": "Spiegel",
+      "meaning": "mirror"
+    },
+    {
+      "id": "A2_K7_096",
+      "word": "vortragen (trägt vor, hat vorgetragen)",
+      "meaning": "to recite, deliver"
     }
   ]
 }

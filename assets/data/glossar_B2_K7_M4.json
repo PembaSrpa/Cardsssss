@@ -5,10 +5,982 @@
   "words": [
     {
       "id": "B2_K7_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Abenteuerlust (Sg.)",
+      "meaning": "the lust for adventure"
+    },
+    {
+      "id": "B2_K7_M4_002",
+      "word": "an sich",
+      "meaning": "in itself",
+      "example": "Die Handlung an sich ist übertrieben."
+    },
+    {
+      "id": "B2_K7_M4_003",
+      "word": "ausgewogen",
+      "meaning": "balanced"
+    },
+    {
+      "id": "B2_K7_M4_004",
+      "word": "der Bauwagen",
+      "plural": "die Bauwagen",
+      "meaning": "construction car"
+    },
+    {
+      "id": "B2_K7_M4_005",
+      "word": "begegnen (einem Konflikt begegnen)",
+      "meaning": "encounter (encounter a conflict)"
+    },
+    {
+      "id": "B2_K7_M4_006",
+      "word": "bereiten",
+      "meaning": "prepare",
+      "example": "Das Buch hat mir viel Freude bereitet."
+    },
+    {
+      "id": "B2_K7_M4_007",
+      "word": "die Besprechung",
+      "plural": "die Besprechungen",
+      "meaning": "the meeting",
+      "example": "die Besprechung eines Buchs"
+    },
+    {
+      "id": "B2_K7_M4_008",
+      "word": "der Charakter",
+      "plural": "die Charaktere",
+      "meaning": "character",
+      "example": "Die Charaktere im Buch sind gut geschildert."
+    },
+    {
+      "id": "B2_K7_M4_009",
+      "word": "einlassen (sich) (auf + A.), ließ sich ein,",
+      "meaning": "get involved (on + A.), got involved,"
+    },
+    {
+      "id": "B2_K7_M4_010",
+      "word": "hat sich eingelassen",
+      "meaning": "got involved"
+    },
+    {
+      "id": "B2_K7_M4_011",
+      "word": "erben",
+      "meaning": "inherit"
+    },
+    {
+      "id": "B2_K7_M4_012",
+      "word": "fraglich",
+      "meaning": "questionable"
+    },
+    {
+      "id": "B2_K7_M4_013",
+      "word": "gelungen",
+      "meaning": "successful"
+    },
+    {
+      "id": "B2_K7_M4_014",
+      "word": "der Genuss",
+      "plural": "die Genüsse",
+      "meaning": "the pleasure"
+    },
+    {
+      "id": "B2_K7_M4_015",
+      "word": "das Herz (jmd. ins Herz schließen)",
+      "plural": "die Herzen",
+      "meaning": "heart"
+    },
+    {
+      "id": "B2_K7_M4_016",
+      "word": "die Hundehütte",
+      "plural": "die Hundehütten",
+      "meaning": "doghouse"
+    },
+    {
+      "id": "B2_K7_M4_017",
+      "word": "klischeehaft",
+      "meaning": "cliched"
+    },
+    {
+      "id": "B2_K7_M4_018",
+      "word": "die Lektüre",
+      "plural": "die Lektüren",
+      "meaning": "reading"
+    },
+    {
+      "id": "B2_K7_M4_019",
+      "word": "die Melancholie (Sg.)",
+      "meaning": "melancholy"
+    },
+    {
+      "id": "B2_K7_M4_020",
+      "word": "die Mischung",
+      "plural": "die Mischungen",
+      "meaning": "the mixture"
+    },
+    {
+      "id": "B2_K7_M4_021",
+      "word": "philosophisch",
+      "meaning": "philosophical"
+    },
+    {
+      "id": "B2_K7_M4_022",
+      "word": "reifen",
+      "meaning": "tires"
+    },
+    {
+      "id": "B2_K7_M4_023",
+      "word": "die Resignation (Sg.)",
+      "meaning": "resignation"
+    },
+    {
+      "id": "B2_K7_M4_024",
+      "word": "der Road Movie",
+      "meaning": "road movie"
+    },
+    {
+      "id": "B2_K7_M4_025",
+      "word": "der Schicksalsschlag",
+      "plural": "die Schicksalsschläge",
+      "meaning": "stroke of fate"
+    },
+    {
+      "id": "B2_K7_M4_026",
+      "word": "schließen, schloss, hat geschlossen",
+      "meaning": "close, closed, closed",
+      "example": "etw./jmd. ins Herz schließen"
+    },
+    {
+      "id": "B2_K7_M4_027",
+      "word": "die Skepsis (Sg.)",
+      "meaning": "skepticism"
+    },
+    {
+      "id": "B2_K7_M4_028",
+      "word": "skeptisch (gegenüber + D.)",
+      "meaning": "skeptical (towards + D.)"
+    },
+    {
+      "id": "B2_K7_M4_029",
+      "word": "die Textstelle",
+      "plural": "die Textstellen",
+      "meaning": "the passage"
+    },
+    {
+      "id": "B2_K7_M4_030",
+      "word": "die Überlegung",
+      "plural": "die Überlegungen",
+      "meaning": "The considerations"
+    },
+    {
+      "id": "B2_K7_M4_031",
+      "word": "unglaubwürdig (für + A.)",
+      "meaning": "untrustworthy (for + A.)"
+    },
+    {
+      "id": "B2_K7_M4_032",
+      "word": "versterben, verstarb, ist verstorben",
+      "meaning": "to die, to die, to die"
+    },
+    {
+      "id": "B2_K7_M4_033",
+      "word": "vorausgehen, ging voraus, ist",
+      "meaning": "go ahead, went ahead, is"
+    },
+    {
+      "id": "B2_K7_M4_034",
+      "word": "vorausgegangen",
+      "meaning": "preceded"
+    },
+    {
+      "id": "B2_K7_M4_035",
+      "word": "wundervoll",
+      "meaning": "wonderful"
+    },
+    {
+      "id": "B2_K7_M4_036",
+      "word": "die Buchbesprechung",
+      "plural": "die Buchbesprechungen",
+      "meaning": "the book review"
+    },
+    {
+      "id": "B2_K7_M4_037",
+      "word": "der Unterhaltungswert (Sg.)",
+      "meaning": "entertainment value"
+    },
+    {
+      "id": "B2_K7_M4_038",
+      "word": "die Angel",
+      "plural": "die Angeln",
+      "meaning": "hinge",
+      "example": "Die Tür quietscht in den Angeln."
+    },
+    {
+      "id": "B2_K7_M4_039",
+      "word": "angelehnt (an + A.)",
+      "meaning": "based on (+ A.)"
+    },
+    {
+      "id": "B2_K7_M4_040",
+      "word": "aufdrücken",
+      "meaning": "push open",
+      "example": "Er drückt die Tür auf."
+    },
+    {
+      "id": "B2_K7_M4_041",
+      "word": "aufschwingen, schwang auf, ist",
+      "meaning": "swing up, swing up, is"
+    },
+    {
+      "id": "B2_K7_M4_042",
+      "word": "aufgeschwungen",
+      "meaning": "swung open",
+      "example": "Die Tür schwingt auf."
+    },
+    {
+      "id": "B2_K7_M4_043",
+      "word": "äußere",
+      "meaning": "outer"
+    },
+    {
+      "id": "B2_K7_M4_044",
+      "word": "baumbeschattet",
+      "meaning": "shaded tree"
+    },
+    {
+      "id": "B2_K7_M4_045",
+      "word": "bedecken",
+      "meaning": "cover"
+    },
+    {
+      "id": "B2_K7_M4_046",
+      "word": "beseelt (von + D.)",
+      "meaning": "inspired (by + D.)"
+    },
+    {
+      "id": "B2_K7_M4_047",
+      "word": "besehen (sich), besah sich, hat sich",
+      "meaning": "look at"
+    },
+    {
+      "id": "B2_K7_M4_048",
+      "word": "besehen (sich), besah sich, hat sich besehen",
+      "meaning": "look at"
+    },
+    {
+      "id": "B2_K7_M4_049",
+      "word": "betreten, betrat, hat betreten",
+      "meaning": "to enter, to enter, to enter"
+    },
+    {
+      "id": "B2_K7_M4_050",
+      "word": "drehen",
+      "meaning": "rotate"
+    },
+    {
+      "id": "B2_K7_M4_051",
+      "word": "die Eidechse",
+      "plural": "die Eidechsen",
+      "meaning": "lizard"
+    },
+    {
+      "id": "B2_K7_M4_052",
+      "word": "die Eingangstür",
+      "plural": "die Eingangstüren",
+      "meaning": "front door"
+    },
+    {
+      "id": "B2_K7_M4_053",
+      "word": "die Empfindung",
+      "plural": "die Empfindungen",
+      "meaning": "sensation"
+    },
+    {
+      "id": "B2_K7_M4_054",
+      "word": "fein",
+      "meaning": "fine"
+    },
+    {
+      "id": "B2_K7_M4_055",
+      "word": "der Flügel (die Flügel einer Tür)",
+      "plural": "die Flügel",
+      "meaning": "wing (the wing of a door)"
+    },
+    {
+      "id": "B2_K7_M4_056",
+      "word": "der Geist",
+      "plural": "die Geister",
+      "meaning": "spirit"
+    },
+    {
+      "id": "B2_K7_M4_057",
+      "word": "glänzen",
+      "meaning": "shine"
+    },
+    {
+      "id": "B2_K7_M4_058",
+      "word": "der Glaseinsatz",
+      "plural": "die Glaseinsätze",
+      "meaning": "glass insert"
+    },
+    {
+      "id": "B2_K7_M4_059",
+      "word": "die Handfläche",
+      "plural": "die Handflächen",
+      "meaning": "palm"
+    },
+    {
+      "id": "B2_K7_M4_060",
+      "word": "die Holztür",
+      "plural": "die Holztüren",
+      "meaning": "wooden door"
+    },
+    {
+      "id": "B2_K7_M4_061",
+      "word": "die Mauerritze",
+      "plural": "die Mauerritzen",
+      "meaning": "crack in the wall"
+    },
+    {
+      "id": "B2_K7_M4_062",
+      "word": "quietschen",
+      "meaning": "squeak"
+    },
+    {
+      "id": "B2_K7_M4_063",
+      "word": "schleichen, schlich, ist geschlichen",
+      "meaning": "sneak, sneak, sneaked"
+    },
+    {
+      "id": "B2_K7_M4_064",
+      "word": "der Schließzylinder",
+      "plural": "die Schließzylinder",
+      "meaning": "lock cylinder"
+    },
+    {
+      "id": "B2_K7_M4_065",
+      "word": "der Schuhabdruck",
+      "plural": "die Schuhabdrücke",
+      "meaning": "shoe print"
+    },
+    {
+      "id": "B2_K7_M4_066",
+      "word": "schwerelos",
+      "meaning": "weightless"
+    },
+    {
+      "id": "B2_K7_M4_067",
+      "word": "seltsam",
+      "meaning": "strange"
+    },
+    {
+      "id": "B2_K7_M4_068",
+      "word": "das Sonnenlicht",
+      "plural": "die Sonnenlichter",
+      "meaning": "sunlight"
+    },
+    {
+      "id": "B2_K7_M4_069",
+      "word": "die Staubschicht",
+      "plural": "die Staubschichten",
+      "meaning": "dust layer"
+    },
+    {
+      "id": "B2_K7_M4_070",
+      "word": "die Terrakottafliese",
+      "plural": "die Terrakottafliesen",
+      "meaning": "terracotta tile"
+    },
+    {
+      "id": "B2_K7_M4_071",
+      "word": "der Türflügel",
+      "plural": "die Türflügel",
+      "meaning": "door wing"
+    },
+    {
+      "id": "B2_K7_M4_072",
+      "word": "umgehen, ging um, ist umgegangen",
+      "meaning": "circumvent, circumvented, circumvented",
+      "example": "In diesem Haus geht ein Geist um."
+    },
+    {
+      "id": "B2_K7_M4_073",
+      "word": "unverschlossen",
+      "meaning": "unsealed"
+    },
+    {
+      "id": "B2_K7_M4_074",
+      "word": "wechseln (einen Blick mit jmd. wechseln)",
+      "meaning": "change (change a look with so.)"
+    },
+    {
+      "id": "B2_K7_M4_075",
+      "word": "weisen, wies, hat gewiesen (in eine Richtung weisen)",
+      "meaning": "point (point in a direction)"
+    },
+    {
+      "id": "B2_K7_M4_076",
+      "word": "der Zeigefinger",
+      "plural": "die Zeigefinger",
+      "meaning": "index finger"
+    },
+    {
+      "id": "B2_K7_M4_077",
+      "word": "aufreißen, riss auf, hat aufgerissen",
+      "meaning": "tearing open",
+      "example": "Er reißt die Tür zur Wohnung auf."
+    },
+    {
+      "id": "B2_K7_M4_078",
+      "word": "begreifen, begriff, hat begriffen",
+      "meaning": "grasp, grasp, grasp"
+    },
+    {
+      "id": "B2_K7_M4_079",
+      "word": "die Bombe",
+      "plural": "die Bomben",
+      "meaning": "bomb"
+    },
+    {
+      "id": "B2_K7_M4_080",
+      "word": "der Geruch",
+      "plural": "die Gerüche",
+      "meaning": "smell"
+    },
+    {
+      "id": "B2_K7_M4_081",
+      "word": "katapultieren",
+      "meaning": "catapult"
+    },
+    {
+      "id": "B2_K7_M4_082",
+      "word": "die Pfeife",
+      "plural": "die Pfeifen",
+      "meaning": "pipe"
+    },
+    {
+      "id": "B2_K7_M4_083",
+      "word": "das Rauschen (Sg.)",
+      "meaning": "noise",
+      "example": "Ich höre das Rauschen von Wasser."
+    },
+    {
+      "id": "B2_K7_M4_084",
+      "word": "der Sinn (etw. einen Sinn verleihen)",
+      "plural": "die Sinne",
+      "meaning": "sense (to make sense of sth.)"
+    },
+    {
+      "id": "B2_K7_M4_085",
+      "word": "ticken",
+      "meaning": "tick"
+    },
+    {
+      "id": "B2_K7_M4_086",
+      "word": "die Toilettenspülung",
+      "plural": "die Toilettenspülungen",
+      "meaning": "toilet flush"
+    },
+    {
+      "id": "B2_K7_M4_087",
+      "word": "verleihen, verlieh, hat verliehen",
+      "meaning": "lend, lent, lent (to make sense of sth.)",
+      "example": "etw. einen Sinn verleihen"
+    },
+    {
+      "id": "B2_K7_M4_088",
+      "word": "wegkommen, kam weg, ist weggekommen",
+      "meaning": "get away, got away, got away",
+      "example": "Mach, dass du wegkommst."
+    },
+    {
+      "id": "B2_K7_M4_089",
+      "word": "die Zuordnung",
+      "plural": "die Zuordnungen",
+      "meaning": "assignment"
+    },
+    {
+      "id": "B2_K7_M4_090",
+      "word": "ablegen (jmd. Rechenschaft ablegen)",
+      "meaning": "(to give an account)"
+    },
+    {
+      "id": "B2_K7_M4_091",
+      "word": "aufliegen (auf + D.), lag auf, hat",
+      "meaning": "lie on (on + D.), lay on, has laid on"
+    },
+    {
+      "id": "B2_K7_M4_092",
+      "word": "aufgelegen",
+      "meaning": "(His eye bags are lying on the cheeks.)",
+      "example": "Seine Tränensäcke liegen auf den Wangen auf."
+    },
+    {
+      "id": "B2_K7_M4_093",
+      "word": "das Auftreten (Sg.)",
+      "meaning": "occurrence"
+    },
+    {
+      "id": "B2_K7_M4_094",
+      "word": "besorgt (um + A.)",
+      "meaning": "concerned (for + A.)"
+    },
+    {
+      "id": "B2_K7_M4_095",
+      "word": "bringen, brachte, hat gebracht",
+      "meaning": "bring, brought, brought",
+      "example": "jmd. aus dem Konzept bringen"
+    },
+    {
+      "id": "B2_K7_M4_096",
+      "word": "durchsichtig",
+      "meaning": "transparent"
+    },
+    {
+      "id": "B2_K7_M4_097",
+      "word": "der Fakt",
+      "plural": "die Fakten",
+      "meaning": "the fact"
+    },
+    {
+      "id": "B2_K7_M4_098",
+      "word": "die Feststellung",
+      "plural": "die Feststellungen",
+      "meaning": "finding"
+    },
+    {
+      "id": "B2_K7_M4_099",
+      "word": "füllig",
+      "meaning": "corpulent"
+    },
+    {
+      "id": "B2_K7_M4_100",
+      "word": "fürsorglich",
+      "meaning": "solicitous"
+    },
+    {
+      "id": "B2_K7_M4_101",
+      "word": "gepflegt",
+      "meaning": "groomed"
+    },
+    {
+      "id": "B2_K7_M4_102",
+      "word": "gewohnt sein",
+      "meaning": "be used to"
+    },
+    {
+      "id": "B2_K7_M4_103",
+      "word": "der Groll",
+      "plural": "die Grolle",
+      "meaning": "grudge"
+    },
+    {
+      "id": "B2_K7_M4_104",
+      "word": "gütig",
+      "meaning": "kind"
+    },
+    {
+      "id": "B2_K7_M4_105",
+      "word": "die Haltung",
+      "plural": "die Haltungen",
+      "meaning": "attitude"
+    },
+    {
+      "id": "B2_K7_M4_106",
+      "word": "der Kiefer",
+      "plural": "die Kiefer",
+      "meaning": "jaw"
+    },
+    {
+      "id": "B2_K7_M4_107",
+      "word": "knirschen (mit den Zähnen knirschen)",
+      "meaning": "grind (grind your teeth)"
+    },
+    {
+      "id": "B2_K7_M4_108",
+      "word": "das Konzept (jmd. aus dem Konzept bringen)",
+      "plural": "die Konzepte",
+      "meaning": "the concept, -e (so-called from the concept bring)"
+    },
+    {
+      "id": "B2_K7_M4_109",
+      "word": "liebevoll",
+      "meaning": "lovingly"
+    },
+    {
+      "id": "B2_K7_M4_110",
+      "word": "mahlen",
+      "meaning": "grind"
+    },
+    {
+      "id": "B2_K7_M4_111",
+      "word": "manikürt",
+      "meaning": "manicured"
+    },
+    {
+      "id": "B2_K7_M4_112",
+      "word": "nagen",
+      "meaning": "gnaw",
+      "example": "Das Alter nagt an ihm."
+    },
+    {
+      "id": "B2_K7_M4_113",
+      "word": "die Rechenschaft (Sg.)",
+      "meaning": "accountability",
+      "example": "jmd. Rechenschaft ablegen"
+    },
+    {
+      "id": "B2_K7_M4_114",
+      "word": "rücksichtsvoll",
+      "meaning": "considerate"
+    },
+    {
+      "id": "B2_K7_M4_115",
+      "word": "siegessicher",
+      "meaning": "confident of victory"
+    },
+    {
+      "id": "B2_K7_M4_116",
+      "word": "stapfen",
+      "meaning": "trudge"
+    },
+    {
+      "id": "B2_K7_M4_117",
+      "word": "der Tränensack",
+      "plural": "die Tränensäcke",
+      "meaning": "eye bag"
+    },
+    {
+      "id": "B2_K7_M4_118",
+      "word": "verwahrlost",
+      "meaning": "neglected"
+    },
+    {
+      "id": "B2_K7_M4_119",
+      "word": "die Wange",
+      "plural": "die Wangen",
+      "meaning": "cheeks"
+    },
+    {
+      "id": "B2_K7_M4_120",
+      "word": "die Partie",
+      "plural": "die Partien",
+      "meaning": "the game"
+    },
+    {
+      "id": "B2_K7_M4_121",
+      "word": "das Musikkonzert",
+      "plural": "die Musikkonzerte",
+      "meaning": "music concert"
+    },
+    {
+      "id": "B2_K7_M4_122",
+      "word": "die Musikrichtung",
+      "plural": "die Musikrichtungen",
+      "meaning": "music style"
+    },
+    {
+      "id": "B2_K7_M4_123",
+      "word": "die Musikveranstaltung",
+      "plural": "die Musikveranstaltungen",
+      "meaning": "musical event"
+    },
+    {
+      "id": "B2_K7_M4_124",
+      "word": "das Sportereignis",
+      "plural": "die Sportereignisse",
+      "meaning": "sporting event"
+    },
+    {
+      "id": "B2_K7_M4_125",
+      "word": "die Sportveranstaltung",
+      "plural": "die Sportveranstaltungen",
+      "meaning": "sporting event"
+    },
+    {
+      "id": "B2_K7_M4_126",
+      "word": "die Klammer",
+      "plural": "die Klammern",
+      "meaning": "the brackets, -n",
+      "example": "Setz diesen Satz lieber in Klammern."
+    },
+    {
+      "id": "B2_K7_M4_127",
+      "word": "die Präsentation",
+      "plural": "die Präsentationen",
+      "meaning": "presentation"
+    },
+    {
+      "id": "B2_K7_M4_128",
+      "word": "Porträt",
+      "meaning": "Portrait"
+    },
+    {
+      "id": "B2_K7_M4_129",
+      "word": "die Alltagsszene",
+      "plural": "die Alltagsszenen",
+      "meaning": "everyday scene"
+    },
+    {
+      "id": "B2_K7_M4_130",
+      "word": "ankaufen",
+      "meaning": "buy",
+      "example": "Das Museum hat einige neue Kunstwerke angekauft."
+    },
+    {
+      "id": "B2_K7_M4_131",
+      "word": "antreten, trat an, hat angetreten (ein Amt antreten / zur Wahl antreten)",
+      "meaning": "to take up, took up, took office (an office line up / run for election)"
+    },
+    {
+      "id": "B2_K7_M4_132",
+      "word": "berühren",
+      "meaning": "touch"
+    },
+    {
+      "id": "B2_K7_M4_133",
+      "word": "der/die Betrachter/in",
+      "meaning": "viewer"
+    },
+    {
+      "id": "B2_K7_M4_134",
+      "word": "charakteristisch",
+      "meaning": "characteristic"
+    },
+    {
+      "id": "B2_K7_M4_135",
+      "word": "der/die Entdecker/in",
+      "meaning": "discoverer"
+    },
+    {
+      "id": "B2_K7_M4_136",
+      "word": "erstarren (zu + D.)",
+      "meaning": "freeze (to + D.)"
+    },
+    {
+      "id": "B2_K7_M4_137",
+      "word": "die Fertigstellung (Sg.)",
+      "meaning": "completion"
+    },
+    {
+      "id": "B2_K7_M4_138",
+      "word": "der/die Galerist/in",
+      "meaning": "gallery owner"
+    },
+    {
+      "id": "B2_K7_M4_139",
+      "word": "gegenständlich",
+      "meaning": "representational"
+    },
+    {
+      "id": "B2_K7_M4_140",
+      "word": "die Generation",
+      "plural": "die Generationen",
+      "meaning": "the generation"
+    },
+    {
+      "id": "B2_K7_M4_141",
+      "word": "großformatig",
+      "meaning": "large format"
+    },
+    {
+      "id": "B2_K7_M4_142",
+      "word": "hinaustragen, trug hinaus, hat",
+      "meaning": "carry out, carried out, has"
+    },
+    {
+      "id": "B2_K7_M4_143",
+      "word": "hinausgetragen",
+      "meaning": "carried out",
+      "example": "einen Namen in die Welt hinaustragen"
+    },
+    {
+      "id": "B2_K7_M4_144",
+      "word": "die Honorarprofessur",
+      "plural": "die Honorarprofessuren",
+      "meaning": "honorary professorship"
+    },
+    {
+      "id": "B2_K7_M4_145",
+      "word": "die Inspiration",
+      "plural": "die Inspirationen",
+      "meaning": "inspiration"
+    },
+    {
+      "id": "B2_K7_M4_146",
+      "word": "die Kunstikone",
+      "plural": "die Kunstikonen",
+      "meaning": "art icon"
+    },
+    {
+      "id": "B2_K7_M4_147",
+      "word": "das Label",
+      "plural": "die Labels",
+      "meaning": "label"
+    },
+    {
+      "id": "B2_K7_M4_148",
+      "word": "die Leinwand",
+      "plural": "die Leinwände",
+      "meaning": "canvas"
+    },
+    {
+      "id": "B2_K7_M4_149",
+      "word": "die Malerei",
+      "plural": "die Malereien",
+      "meaning": "painting"
+    },
+    {
+      "id": "B2_K7_M4_150",
+      "word": "der/die Malereiprofessor/in",
+      "meaning": "painting professor"
+    },
+    {
+      "id": "B2_K7_M4_151",
+      "word": "der/die Meisterschüler/in",
+      "meaning": "master student"
+    },
+    {
+      "id": "B2_K7_M4_152",
+      "word": "das Motiv",
+      "plural": "die Motive",
+      "meaning": "motive"
+    },
+    {
+      "id": "B2_K7_M4_153",
+      "word": "der Mythos",
+      "meaning": "myth"
+    },
+    {
+      "id": "B2_K7_M4_154",
+      "word": "sozialistisch",
+      "meaning": "socialist"
+    },
+    {
+      "id": "B2_K7_M4_155",
+      "word": "die Strömung",
+      "plural": "die Strömungen",
+      "meaning": "current",
+      "example": "Die „Neue Leipziger Schule“ ist eine Strömung der modernen Malerei."
+    },
+    {
+      "id": "B2_K7_M4_156",
+      "word": "die Summe",
+      "plural": "die Summen",
+      "meaning": "sum"
+    },
+    {
+      "id": "B2_K7_M4_157",
+      "word": "surreal",
+      "meaning": "surreal"
+    },
+    {
+      "id": "B2_K7_M4_158",
+      "word": "die Verkaufsausstellung",
+      "plural": "die Verkaufsausstellungen",
+      "meaning": "sales exhibition"
+    },
+    {
+      "id": "B2_K7_M4_159",
+      "word": "der/die Vertreter/in",
+      "meaning": "representative"
+    },
+    {
+      "id": "B2_K7_M4_160",
+      "word": "vorangegangen",
+      "meaning": "preceding"
+    },
+    {
+      "id": "B2_K7_M4_161",
+      "word": "vordergründig",
+      "meaning": "superficial"
+    },
+    {
+      "id": "B2_K7_M4_162",
+      "word": "die Wende (Sg.)",
+      "meaning": "the turning point",
+      "example": "Die Wende in Deutschland fand 1989 statt."
+    },
+    {
+      "id": "B2_K7_M4_163",
+      "word": "die Werbegrafik",
+      "plural": "die Werbegrafiken",
+      "meaning": "advertising graphics"
+    },
+    {
+      "id": "B2_K7_M4_164",
+      "word": "das Zugunglück",
+      "plural": "die Zugunglücke",
+      "meaning": "train accident"
+    },
+    {
+      "id": "B2_K7_M4_165",
+      "word": "zumeist",
+      "meaning": "mostly"
+    },
+    {
+      "id": "B2_K7_M4_166",
+      "word": "zumindest",
+      "meaning": "at least"
+    },
+    {
+      "id": "B2_K7_M4_167",
+      "word": "zurückgehen (auf + A.), ging zurück, ist",
+      "meaning": "go back (to + A.), went back, is"
+    },
+    {
+      "id": "B2_K7_M4_168",
+      "word": "zurückgegangen",
+      "meaning": "declined"
+    },
+    {
+      "id": "B2_K7_M4_169",
+      "word": "zuschlagen, schlug zu, hat zugeschlagen",
+      "meaning": "to strike, to strike, to strike"
+    },
+    {
+      "id": "B2_K7_M4_170",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K7_M4_171",
+      "word": "auflisten",
+      "meaning": "list"
+    },
+    {
+      "id": "B2_K7_M4_172",
+      "word": "die Hauptattraktion",
+      "plural": "die Hauptattraktionen",
+      "meaning": "main attraction"
+    },
+    {
+      "id": "B2_K7_M4_173",
+      "word": "die Monotonie (Sg.)",
+      "meaning": "monotony"
+    },
+    {
+      "id": "B2_K7_M4_174",
+      "word": "der Palast",
+      "plural": "die Paläste",
+      "meaning": "palace"
+    },
+    {
+      "id": "B2_K7_M4_175",
+      "word": "verwechseln (mit + D.)",
+      "meaning": "confuse (with + D.)"
+    },
+    {
+      "id": "B2_K7_M4_176",
+      "word": "verweisen (auf + A.), verwies, hat",
+      "meaning": "refer (to + A.), referred, has"
+    },
+    {
+      "id": "B2_K7_M4_177",
+      "word": "verwiesen",
+      "meaning": "directed"
+    },
+    {
+      "id": "B2_K7_M4_178",
+      "word": "zusammenschreiben, schrieb zusammen,",
+      "meaning": "write together"
     }
   ]
 }

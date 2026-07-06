@@ -4,10 +4,838 @@
   "words": [
     {
       "id": "A2_K9_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Bauernhof",
+      "plural": "Bauernhöfe",
+      "meaning": "farm"
+    },
+    {
+      "id": "A2_K9_002",
+      "word": "bewohnt",
+      "meaning": "inhabited"
+    },
+    {
+      "id": "A2_K9_003",
+      "word": "die Breite",
+      "plural": "Breiten",
+      "meaning": "width, breadth"
+    },
+    {
+      "id": "A2_K9_004",
+      "word": "das Dach",
+      "plural": "Dächer",
+      "meaning": "roof"
+    },
+    {
+      "id": "A2_K9_005",
+      "word": "das Dorf",
+      "plural": "Dörfer",
+      "meaning": "small town, village"
+    },
+    {
+      "id": "A2_K9_006",
+      "word": "der Einwohner",
+      "plural": "Einwohner",
+      "meaning": "inhabitant"
+    },
+    {
+      "id": "A2_K9_007",
+      "word": "entfernt",
+      "meaning": "distant (ly)"
+    },
+    {
+      "id": "A2_K9_008",
+      "word": "die Ferienwohnung",
+      "plural": "Ferienwohnungen",
+      "meaning": "vacation home"
+    },
+    {
+      "id": "A2_K9_009",
+      "word": "die Fläche",
+      "plural": "Flächen",
+      "meaning": "area"
+    },
+    {
+      "id": "A2_K9_010",
+      "word": "das Gebäude",
+      "plural": "Gebäude",
+      "meaning": "building"
+    },
+    {
+      "id": "A2_K9_011",
+      "word": "genial",
+      "meaning": "ingenious (ly); here: impressive"
+    },
+    {
+      "id": "A2_K9_012",
+      "word": "das Hausboot",
+      "plural": "Hausboote",
+      "meaning": "houseboat"
+    },
+    {
+      "id": "A2_K9_013",
+      "word": "die Insel",
+      "plural": "Inseln",
+      "meaning": "island"
+    },
+    {
+      "id": "A2_K9_014",
+      "word": "intensiv",
+      "meaning": "intense (ly), intensive (ly)"
+    },
+    {
+      "id": "A2_K9_015",
+      "word": "die Kauffrau",
+      "plural": "Kauffrauen",
+      "meaning": "businesswoman"
+    },
+    {
+      "id": "A2_K9_016",
+      "word": "der Keller",
+      "plural": "Keller",
+      "meaning": "basement"
+    },
+    {
+      "id": "A2_K9_017",
+      "word": "die Länge",
+      "plural": "Längen",
+      "meaning": "length"
+    },
+    {
+      "id": "A2_K9_018",
+      "word": "die Luft (meist Singular)",
+      "meaning": "air",
+      "example": "Die Luft ist frisch und sauber."
+    },
+    {
+      "id": "A2_K9_019",
+      "word": "der Quadratmeter",
+      "plural": "Quadratmeter",
+      "meaning": "square meter"
+    },
+    {
+      "id": "A2_K9_020",
+      "word": "schaukeln",
+      "meaning": "to rock, sway"
+    },
+    {
+      "id": "A2_K9_021",
+      "word": "die Seehöhe (Singular)",
+      "meaning": "above sea level"
+    },
+    {
+      "id": "A2_K9_022",
+      "word": "spiegeln",
+      "meaning": "to mirror, reflect"
+    },
+    {
+      "id": "A2_K9_023",
+      "word": "das Ufer",
+      "plural": "Ufer",
+      "meaning": "shore"
+    },
+    {
+      "id": "A2_K9_024",
+      "word": "die Wolke",
+      "plural": "Wolken",
+      "meaning": "cloud"
+    },
+    {
+      "id": "A2_K9_025",
+      "word": "die Wohnform",
+      "plural": "Wohnformen",
+      "meaning": "form of housing"
+    },
+    {
+      "id": "A2_K9_026",
+      "word": "der Stadtrand",
+      "plural": "Stadtränder",
+      "meaning": "city limit"
+    },
+    {
+      "id": "A2_K9_027",
+      "word": "der Strand",
+      "plural": "Strände",
+      "meaning": "beach"
+    },
+    {
+      "id": "A2_K9_028",
+      "word": "bisher",
+      "meaning": "until now"
+    },
+    {
+      "id": "A2_K9_029",
+      "word": "leise",
+      "meaning": "quiet"
+    },
+    {
+      "id": "A2_K9_030",
+      "word": "abstellen",
+      "meaning": "to park",
+      "example": "Ich stelle mein Fahrrad im Hof ab."
+    },
+    {
+      "id": "A2_K9_031",
+      "word": "bellen",
+      "meaning": "to bark"
+    },
+    {
+      "id": "A2_K9_032",
+      "word": "die Haustür",
+      "plural": "Haustüren",
+      "meaning": "front door"
+    },
+    {
+      "id": "A2_K9_033",
+      "word": "der Eingang",
+      "plural": "Eingänge",
+      "meaning": "entrance"
+    },
+    {
+      "id": "A2_K9_034",
+      "word": "das Rad",
+      "plural": "Räder",
+      "meaning": "bike"
+    },
+    {
+      "id": "A2_K9_035",
+      "word": "der Rauch (Singular)",
+      "meaning": "smoke"
+    },
+    {
+      "id": "A2_K9_036",
+      "word": "stinken (stinkt, hat gestunken)",
+      "meaning": "to stink"
+    },
+    {
+      "id": "A2_K9_037",
+      "word": "das Treppenhaus",
+      "plural": "Treppenhäuser",
+      "meaning": "stairwell, stairway"
+    },
+    {
+      "id": "A2_K9_038",
+      "word": "der Wortschatz (Singular)",
+      "meaning": "vocabulary"
+    },
+    {
+      "id": "A2_K9_039",
+      "word": "eng",
+      "meaning": "narrow"
+    },
+    {
+      "id": "A2_K9_040",
+      "word": "das Feuer",
+      "plural": "Feuer",
+      "meaning": "fire"
+    },
+    {
+      "id": "A2_K9_041",
+      "word": "die Feuerwehr",
+      "plural": "Feuerwehren",
+      "meaning": "fire department"
+    },
+    {
+      "id": "A2_K9_042",
+      "word": "der Kinderwagen",
+      "plural": "Kinderwagen/Kinderwägen",
+      "meaning": "baby carriage, pram"
+    },
+    {
+      "id": "A2_K9_043",
+      "word": "der Müll (Singular)",
+      "meaning": "trash"
+    },
+    {
+      "id": "A2_K9_044",
+      "word": "die Mülltonne",
+      "plural": "Mülltonnen",
+      "meaning": "trash can"
+    },
+    {
+      "id": "A2_K9_045",
+      "word": "trocken",
+      "meaning": "dry"
+    },
+    {
+      "id": "A2_K9_046",
+      "word": "einlenken",
+      "meaning": "to give in, back down"
+    },
+    {
+      "id": "A2_K9_047",
+      "word": "na gut",
+      "meaning": "all right",
+      "example": "Na gut, ist nicht so schlimm."
+    },
+    {
+      "id": "A2_K9_048",
+      "word": "na ja",
+      "meaning": "oh well",
+      "example": "Na ja, wenn das so ist, dann akzeptiere ich das."
+    },
+    {
+      "id": "A2_K9_049",
+      "word": "die Ordnung (Singular)",
+      "meaning": "here: all right",
+      "example": "Das ist schon in Ordnung."
+    },
+    {
+      "id": "A2_K9_050",
+      "word": "vorkommen (kommt vor, ist vorgekommen)",
+      "meaning": "to occur, happen"
+    },
+    {
+      "id": "A2_K9_051",
+      "word": "die Konfliktsituation",
+      "plural": "Konfliktsituationen",
+      "meaning": "conflict situation"
+    },
+    {
+      "id": "A2_K9_052",
+      "word": "annehmen (nimmt an, hat angenommen)",
+      "meaning": "to accept"
+    },
+    {
+      "id": "A2_K9_053",
+      "word": "ausräumen",
+      "meaning": "to empty out"
+    },
+    {
+      "id": "A2_K9_054",
+      "word": "der/die Kleine",
+      "plural": "Kleinen",
+      "meaning": "little one"
+    },
+    {
+      "id": "A2_K9_055",
+      "word": "die Nachbarschaft",
+      "plural": "Nachbarschaften",
+      "meaning": "neighborhood, neighbors"
+    },
+    {
+      "id": "A2_K9_056",
+      "word": "die Bitte",
+      "plural": "Bitten",
+      "meaning": "request, plea"
+    },
+    {
+      "id": "A2_K9_057",
+      "word": "der Briefkasten",
+      "plural": "Briefkästen",
+      "meaning": "mailbox"
+    },
+    {
+      "id": "A2_K9_058",
+      "word": "füttern",
+      "meaning": "to feed"
+    },
+    {
+      "id": "A2_K9_059",
+      "word": "der Gefallen",
+      "plural": "Gefallen",
+      "meaning": "favor",
+      "example": "Kannst du mir einen Gefallen tun und heute Abend meine Katze füttern?"
+    },
+    {
+      "id": "A2_K9_060",
+      "word": "gießen (gießt, hat gegossen)",
+      "meaning": "to pour, water"
+    },
+    {
+      "id": "A2_K9_061",
+      "word": "die Katze",
+      "plural": "Katzen",
+      "meaning": "cat"
+    },
+    {
+      "id": "A2_K9_062",
+      "word": "leeren",
+      "meaning": "to empty"
+    },
+    {
+      "id": "A2_K9_063",
+      "word": "das Päckchen",
+      "plural": "Päckchen",
+      "meaning": "package"
+    },
+    {
+      "id": "A2_K9_064",
+      "word": "der Kursteilnehmer",
+      "plural": "Kursteilnehmer",
+      "meaning": "course participant"
+    },
+    {
+      "id": "A2_K9_065",
+      "word": "aufschlagen (schlägt auf, hat aufgeschlagen)",
+      "meaning": "here: to open (a book)",
+      "example": "Schlagen Sie bitte das Buch auf."
+    },
+    {
+      "id": "A2_K9_066",
+      "word": "der Bleistift",
+      "plural": "Bleistifte",
+      "meaning": "pencil"
+    },
+    {
+      "id": "A2_K9_067",
+      "word": "abmelden",
+      "meaning": "to log off, sign off, check out"
+    },
+    {
+      "id": "A2_K9_068",
+      "word": "einziehen (zieht ein, ist eingezogen)",
+      "meaning": "to move in"
+    },
+    {
+      "id": "A2_K9_069",
+      "word": "der Umzugswagen",
+      "plural": "Umzugswagen/Umzugswägen",
+      "meaning": "moving truck"
+    },
+    {
+      "id": "A2_K9_070",
+      "word": "das Apartment",
+      "plural": "Apartments",
+      "meaning": "apartment"
+    },
+    {
+      "id": "A2_K9_071",
+      "word": "elektrisch",
+      "meaning": "electric (ally)"
+    },
+    {
+      "id": "A2_K9_072",
+      "word": "erlauben",
+      "meaning": "to allow"
+    },
+    {
+      "id": "A2_K9_073",
+      "word": "gehören",
+      "meaning": "to belong"
+    },
+    {
+      "id": "A2_K9_074",
+      "word": "möbliert",
+      "meaning": "furnished"
+    },
+    {
+      "id": "A2_K9_075",
+      "word": "der Strom (Singular)",
+      "meaning": "electricity"
+    },
+    {
+      "id": "A2_K9_076",
+      "word": "vermieten",
+      "meaning": "to rent out"
+    },
+    {
+      "id": "A2_K9_077",
+      "word": "die Wand",
+      "plural": "Wände",
+      "meaning": "wall"
+    },
+    {
+      "id": "A2_K9_078",
+      "word": "als",
+      "meaning": "as, when",
+      "example": "Als ich noch in Fribourg war, habe ich meinen Umzug gut vorbereitet."
+    },
+    {
+      "id": "A2_K9_079",
+      "word": "auskennen (sich) (mit + Dat.) (kennt sich aus, hat sich ausgekannt)",
+      "meaning": "to know about, be familiar with"
+    },
+    {
+      "id": "A2_K9_080",
+      "word": "etwas",
+      "meaning": "somewhat, something",
+      "example": "Auf dem Dorf ist alles etwas kleiner als in der Stadt."
+    },
+    {
+      "id": "A2_K9_081",
+      "word": "faxen",
+      "meaning": "to fax"
+    },
+    {
+      "id": "A2_K9_082",
+      "word": "immer wenn",
+      "meaning": "whenever"
+    },
+    {
+      "id": "A2_K9_083",
+      "word": "kaum",
+      "meaning": "barely"
+    },
+    {
+      "id": "A2_K9_084",
+      "word": "kündigen",
+      "meaning": "to resign, quit"
+    },
+    {
+      "id": "A2_K9_085",
+      "word": "der Umzug",
+      "plural": "Umzüge",
+      "meaning": "move"
+    },
+    {
+      "id": "A2_K9_086",
+      "word": "unterhalten (sich) (unterhält sich, hat sich unterhalten)",
+      "meaning": "to converse"
+    },
+    {
+      "id": "A2_K9_087",
+      "word": "verirren (sich)",
+      "meaning": "to become lost"
+    },
+    {
+      "id": "A2_K9_088",
+      "word": "versprechen (verspricht, hat versprochen)",
+      "meaning": "to promise"
+    },
+    {
+      "id": "A2_K9_089",
+      "word": "das WG-Essen",
+      "plural": "WG-Essen",
+      "meaning": "housing cooperative meal"
+    },
+    {
+      "id": "A2_K9_090",
+      "word": "wohlfühlen (sich)",
+      "meaning": "to feel well"
+    },
+    {
+      "id": "A2_K9_091",
+      "word": "der Mitstudent",
+      "plural": "Mitstudenten",
+      "meaning": "fellow student"
+    },
+    {
+      "id": "A2_K9_092",
+      "word": "der Rückweg",
+      "plural": "Rückwege",
+      "meaning": "return trip"
+    },
+    {
+      "id": "A2_K9_093",
+      "word": "einmalig",
+      "meaning": "unique, singular"
+    },
+    {
+      "id": "A2_K9_094",
+      "word": "die Spracherfahrung",
+      "plural": "Spracherfahrungen",
+      "meaning": "foreign language experience"
+    },
+    {
+      "id": "A2_K9_095",
+      "word": "die Cousine",
+      "plural": "Cousinen",
+      "meaning": "cousin"
+    },
+    {
+      "id": "A2_K9_096",
+      "word": "ebenfalls",
+      "meaning": "also, likewise"
+    },
+    {
+      "id": "A2_K9_097",
+      "word": "die Abreise (Singular)",
+      "meaning": "departure"
+    },
+    {
+      "id": "A2_K9_098",
+      "word": "das Kätzchen",
+      "plural": "Kätzchen",
+      "meaning": "kitten"
+    },
+    {
+      "id": "A2_K9_099",
+      "word": "die Besitzerin",
+      "plural": "Besitzerinnen",
+      "meaning": "owner"
+    },
+    {
+      "id": "A2_K9_100",
+      "word": "das Meerschweinchen",
+      "plural": "Meerschweinchen",
+      "meaning": "guinea pig"
+    },
+    {
+      "id": "A2_K9_101",
+      "word": "der Nymphensittich",
+      "plural": "Nymphensittiche",
+      "meaning": "cockatiel"
+    },
+    {
+      "id": "A2_K9_102",
+      "word": "pflegeleicht",
+      "meaning": "easy to care for"
+    },
+    {
+      "id": "A2_K9_103",
+      "word": "die Schildkröte",
+      "plural": "Schildkröten",
+      "meaning": "turtle"
+    },
+    {
+      "id": "A2_K9_104",
+      "word": "das Tierheim",
+      "plural": "Tierheime",
+      "meaning": "animal shelter"
+    },
+    {
+      "id": "A2_K9_105",
+      "word": "das Zuhause",
+      "plural": "Zuhause",
+      "meaning": "home"
+    },
+    {
+      "id": "A2_K9_106",
+      "word": "ausgeben (gibt aus, hat ausgegeben)",
+      "meaning": "to spend, give away"
+    },
+    {
+      "id": "A2_K9_107",
+      "word": "der Bär",
+      "plural": "Bären",
+      "meaning": "bear"
+    },
+    {
+      "id": "A2_K9_108",
+      "word": "das Bärchen",
+      "plural": "Bärchen",
+      "meaning": "bear cub"
+    },
+    {
+      "id": "A2_K9_109",
+      "word": "der Hase",
+      "plural": "Hasen",
+      "meaning": "rabbit"
+    },
+    {
+      "id": "A2_K9_110",
+      "word": "das Haustier",
+      "plural": "Haustiere",
+      "meaning": "pet"
+    },
+    {
+      "id": "A2_K9_111",
+      "word": "der Kosename",
+      "plural": "Kosenamen",
+      "meaning": "pet name"
+    },
+    {
+      "id": "A2_K9_112",
+      "word": "das Mäuschen",
+      "plural": "Mäuschen",
+      "meaning": "here: sweetie"
+    },
+    {
+      "id": "A2_K9_113",
+      "word": "Mausi (ohne Artikel)",
+      "meaning": "here: sweetie"
+    },
+    {
+      "id": "A2_K9_114",
+      "word": "das Schwein",
+      "plural": "Schweine",
+      "meaning": "pig"
+    },
+    {
+      "id": "A2_K9_115",
+      "word": "der Tiername",
+      "plural": "Tiernamen",
+      "meaning": "animal name"
+    },
+    {
+      "id": "A2_K9_116",
+      "word": "das Futter",
+      "plural": "Futter",
+      "meaning": "feed"
+    },
+    {
+      "id": "A2_K9_117",
+      "word": "der Haushalt",
+      "plural": "Haushalte",
+      "meaning": "household"
+    },
+    {
+      "id": "A2_K9_118",
+      "word": "die Lebenssituation",
+      "plural": "Lebenssituationen",
+      "meaning": "living situation"
+    },
+    {
+      "id": "A2_K9_119",
+      "word": "modisch",
+      "meaning": "fashionable"
+    },
+    {
+      "id": "A2_K9_120",
+      "word": "die Ratte",
+      "plural": "Ratten",
+      "meaning": "rat"
+    },
+    {
+      "id": "A2_K9_121",
+      "word": "der Tierarzt",
+      "plural": "Tierärzte",
+      "meaning": "veterinarian"
+    },
+    {
+      "id": "A2_K9_122",
+      "word": "der Vogel",
+      "plural": "Vögel",
+      "meaning": "bird"
+    },
+    {
+      "id": "A2_K9_123",
+      "word": "das Lieblingstier",
+      "plural": "Lieblingstiere",
+      "meaning": "favorite animal"
+    },
+    {
+      "id": "A2_K9_124",
+      "word": "das Erdhörnchen",
+      "plural": "Erdhörnchen",
+      "meaning": "gopher"
+    },
+    {
+      "id": "A2_K9_125",
+      "word": "die Fotomontage",
+      "plural": "Fotomontagen",
+      "meaning": "photomontage, composite photograph"
+    },
+    {
+      "id": "A2_K9_126",
+      "word": "hineinschauen",
+      "meaning": "to look into"
+    },
+    {
+      "id": "A2_K9_127",
+      "word": "die Kamera",
+      "plural": "Kameras",
+      "meaning": "camera"
+    },
+    {
+      "id": "A2_K9_128",
+      "word": "der Selbstauslöser",
+      "plural": "Selbstauslöser",
+      "meaning": "self-timer"
+    },
+    {
+      "id": "A2_K9_129",
+      "word": "springen (springt, ist gesprungen)",
+      "meaning": "to jump",
+      "example": "Das Erdhörnchen ist einfach vor die Kamera gesprungen."
+    },
+    {
+      "id": "A2_K9_130",
+      "word": "der Stein",
+      "plural": "Steine",
+      "meaning": "rock"
+    },
+    {
+      "id": "A2_K9_131",
+      "word": "zufällig",
+      "meaning": "coincidentally"
+    },
+    {
+      "id": "A2_K9_132",
+      "word": "der Stil",
+      "plural": "Stile",
+      "meaning": "style"
+    },
+    {
+      "id": "A2_K9_133",
+      "word": "unterschiedlich",
+      "meaning": "different (ly)"
+    },
+    {
+      "id": "A2_K9_134",
+      "word": "aufziehen (zieht auf, hat aufgezogen)",
+      "meaning": "to raise"
+    },
+    {
+      "id": "A2_K9_135",
+      "word": "die Ente",
+      "plural": "Enten",
+      "meaning": "duck"
+    },
+    {
+      "id": "A2_K9_136",
+      "word": "das Küken",
+      "plural": "Küken",
+      "meaning": "chick"
+    },
+    {
+      "id": "A2_K9_137",
+      "word": "der Polizist",
+      "plural": "Polizisten",
+      "meaning": "police officer"
+    },
+    {
+      "id": "A2_K9_138",
+      "word": "der Schwan",
+      "plural": "Schwäne",
+      "meaning": "swan"
+    },
+    {
+      "id": "A2_K9_139",
+      "word": "das Schweinchen",
+      "plural": "Schweinchen",
+      "meaning": "piglet"
+    },
+    {
+      "id": "A2_K9_140",
+      "word": "die Tiergeschichte",
+      "plural": "Tiergeschichten",
+      "meaning": "animal story"
+    },
+    {
+      "id": "A2_K9_141",
+      "word": "der Tiger",
+      "plural": "Tiger",
+      "meaning": "tiger"
+    },
+    {
+      "id": "A2_K9_142",
+      "word": "überqueren",
+      "meaning": "to cross"
+    },
+    {
+      "id": "A2_K9_143",
+      "word": "verliebt",
+      "meaning": "in love"
+    },
+    {
+      "id": "A2_K9_144",
+      "word": "verbessern",
+      "meaning": "to improve"
+    },
+    {
+      "id": "A2_K9_145",
+      "word": "die Kuh",
+      "plural": "Kühe",
+      "meaning": "cow"
+    },
+    {
+      "id": "A2_K9_146",
+      "word": "das Spiegelbild",
+      "plural": "Spiegelbilder",
+      "meaning": "reflection, mirror image"
+    },
+    {
+      "id": "A2_K9_147",
+      "word": "die Terrassentür",
+      "plural": "Terrassentüren",
+      "meaning": "patio door, terrace door"
+    },
+    {
+      "id": "A2_K9_148",
+      "word": "der Zaun",
+      "plural": "Zäune",
+      "meaning": "fence"
     }
   ]
 }

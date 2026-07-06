@@ -5,10 +5,604 @@
   "words": [
     {
       "id": "B2_K1_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Chancengleichheit (Sg.)",
+      "meaning": "equal opportunities"
+    },
+    {
+      "id": "B2_K1_M4_002",
+      "word": "der Migrationshintergrund (Sg.)",
+      "meaning": "migration background"
+    },
+    {
+      "id": "B2_K1_M4_003",
+      "word": "das Schlüsselwort",
+      "plural": "die Schlüsselwörter",
+      "meaning": "key word"
+    },
+    {
+      "id": "B2_K1_M4_004",
+      "word": "völlig",
+      "meaning": "completely"
+    },
+    {
+      "id": "B2_K1_M4_005",
+      "word": "die Kindergartenpflicht (Sg.)",
+      "meaning": "compulsory kindergarten"
+    },
+    {
+      "id": "B2_K1_M4_006",
+      "word": "die Schuluniform",
+      "plural": "die Schuluniformen",
+      "meaning": "school uniform"
+    },
+    {
+      "id": "B2_K1_M4_007",
+      "word": "eingehen (auf + A.), ging ein, ist",
+      "meaning": "enter"
+    },
+    {
+      "id": "B2_K1_M4_008",
+      "word": "eingegangen",
+      "meaning": "received"
+    },
+    {
+      "id": "B2_K1_M4_009",
+      "word": "die Einrichtung",
+      "plural": "die Einrichtungen",
+      "meaning": "facility"
+    },
+    {
+      "id": "B2_K1_M4_010",
+      "word": "ermöglichen",
+      "meaning": "enable"
+    },
+    {
+      "id": "B2_K1_M4_011",
+      "word": "die Lehrkraft",
+      "plural": "die Lehrkräfte",
+      "meaning": "teacher"
+    },
+    {
+      "id": "B2_K1_M4_012",
+      "word": "die Migrantenfamilie",
+      "plural": "die Migrantenfamilien",
+      "meaning": "migrant family"
+    },
+    {
+      "id": "B2_K1_M4_013",
+      "word": "das Migrantenkind",
+      "plural": "die Migrantenkinder",
+      "meaning": "migrant child"
+    },
+    {
+      "id": "B2_K1_M4_014",
+      "word": "der/die Pate/Patin",
+      "meaning": "godfather"
+    },
+    {
+      "id": "B2_K1_M4_015",
+      "word": "der/die Senior/in",
+      "meaning": "senior"
+    },
+    {
+      "id": "B2_K1_M4_016",
+      "word": "sinnvoll",
+      "meaning": "meaningful"
+    },
+    {
+      "id": "B2_K1_M4_017",
+      "word": "der/die Zugewanderte",
+      "plural": "die Zugewanderten",
+      "meaning": "immigrant"
+    },
+    {
+      "id": "B2_K1_M4_018",
+      "word": "anfügen",
+      "meaning": "to add"
+    },
+    {
+      "id": "B2_K1_M4_019",
+      "word": "ausbremsen",
+      "meaning": "slow down"
+    },
+    {
+      "id": "B2_K1_M4_020",
+      "word": "die Ausländerquote",
+      "plural": "die Ausländerquoten",
+      "meaning": "foreigners quota"
+    },
+    {
+      "id": "B2_K1_M4_021",
+      "word": "der Automobilhersteller",
+      "plural": "die Automobilhersteller",
+      "meaning": "automobile manufacturer"
+    },
+    {
+      "id": "B2_K1_M4_022",
+      "word": "die Betriebswirtschaft",
+      "plural": "die Betriebswirtschaften",
+      "meaning": "business management"
+    },
+    {
+      "id": "B2_K1_M4_023",
+      "word": "die Diskriminierung",
+      "plural": "die Diskriminierungen",
+      "meaning": "discrimination"
+    },
+    {
+      "id": "B2_K1_M4_024",
+      "word": "farbenfroh",
+      "meaning": "colorful"
+    },
+    {
+      "id": "B2_K1_M4_025",
+      "word": "fernliegen, lag fern, hat ferngelegen",
+      "meaning": "lying far away"
+    },
+    {
+      "id": "B2_K1_M4_026",
+      "word": "das Feuerholz (Sg.)",
+      "meaning": "firewood"
+    },
+    {
+      "id": "B2_K1_M4_027",
+      "word": "flechten, flocht, hat geflochten (ein geflochtener Zopf)",
+      "meaning": "braid"
+    },
+    {
+      "id": "B2_K1_M4_028",
+      "word": "führen (ein Geschäft führen)",
+      "meaning": "to run (to run a business)"
+    },
+    {
+      "id": "B2_K1_M4_029",
+      "word": "gelegentlich",
+      "meaning": "occasionally"
+    },
+    {
+      "id": "B2_K1_M4_030",
+      "word": "das Gemüsegeschäft",
+      "plural": "die Gemüsegeschäfte",
+      "meaning": "vegetable shop"
+    },
+    {
+      "id": "B2_K1_M4_031",
+      "word": "der/die Gründer/in",
+      "meaning": "founder"
+    },
+    {
+      "id": "B2_K1_M4_032",
+      "word": "die Hausverwaltung",
+      "plural": "die Hausverwaltungen",
+      "meaning": "property management"
+    },
+    {
+      "id": "B2_K1_M4_033",
+      "word": "die Hochschulreife (Sg.)",
+      "meaning": "university entrance qualification"
+    },
+    {
+      "id": "B2_K1_M4_034",
+      "word": "die Informatik (Sg.)",
+      "meaning": "computer science"
+    },
+    {
+      "id": "B2_K1_M4_035",
+      "word": "infrage kommen, kam infrage, ist infrage",
+      "meaning": "come into question"
+    },
+    {
+      "id": "B2_K1_M4_036",
+      "word": "gekommen",
+      "meaning": "come"
+    },
+    {
+      "id": "B2_K1_M4_037",
+      "word": "inmitten",
+      "meaning": "midst"
+    },
+    {
+      "id": "B2_K1_M4_038",
+      "word": "der Keks",
+      "plural": "die Kekse",
+      "meaning": "biscuit"
+    },
+    {
+      "id": "B2_K1_M4_039",
+      "word": "der/die Kommilitone/Kommilitonin",
+      "meaning": "fellow student"
+    },
+    {
+      "id": "B2_K1_M4_040",
+      "word": "leuchten",
+      "meaning": "to shine"
+    },
+    {
+      "id": "B2_K1_M4_041",
+      "word": "nachdenklich",
+      "meaning": "thoughtful"
+    },
+    {
+      "id": "B2_K1_M4_042",
+      "word": "die Odyssee",
+      "plural": "die Odysseen",
+      "meaning": "Odyssey"
+    },
+    {
+      "id": "B2_K1_M4_043",
+      "word": "die Option",
+      "plural": "die Optionen",
+      "meaning": "option"
+    },
+    {
+      "id": "B2_K1_M4_044",
+      "word": "der Preis (um jeden Preis)",
+      "plural": "die Preise",
+      "meaning": "price (at any cost)"
+    },
+    {
+      "id": "B2_K1_M4_045",
+      "word": "scheitern",
+      "meaning": "fail"
+    },
+    {
+      "id": "B2_K1_M4_046",
+      "word": "der Schulabschluss",
+      "plural": "die Schulabschlüsse",
+      "meaning": "school graduation"
+    },
+    {
+      "id": "B2_K1_M4_047",
+      "word": "verbergen, verbarg, hat verborgen",
+      "meaning": "hide"
+    },
+    {
+      "id": "B2_K1_M4_048",
+      "word": "vollkommen",
+      "meaning": "completely"
+    },
+    {
+      "id": "B2_K1_M4_049",
+      "word": "der/die Wanderarbeiter/in",
+      "meaning": "migrant worker"
+    },
+    {
+      "id": "B2_K1_M4_050",
+      "word": "weitergehen",
+      "meaning": "go on"
+    },
+    {
+      "id": "B2_K1_M4_051",
+      "word": "die Windeseile (Sg.) (in Windeseile)",
+      "meaning": "lightning rope (in lightning speed)"
+    },
+    {
+      "id": "B2_K1_M4_052",
+      "word": "die Wüste",
+      "plural": "die Wüsten",
+      "meaning": "desert"
+    },
+    {
+      "id": "B2_K1_M4_053",
+      "word": "zerrissen",
+      "meaning": "torn"
+    },
+    {
+      "id": "B2_K1_M4_054",
+      "word": "das Zöpfchen",
+      "plural": "die Zöpfchen",
+      "meaning": "braid"
+    },
+    {
+      "id": "B2_K1_M4_055",
+      "word": "zusammenbinden, band zusammen, hat zusammengebunden",
+      "meaning": "tie together"
+    },
+    {
+      "id": "B2_K1_M4_056",
+      "word": "der Anschluss (im Anschluss)",
+      "plural": "die Anschlüsse",
+      "meaning": "the connection (aft erwards)"
+    },
+    {
+      "id": "B2_K1_M4_057",
+      "word": "entsprechend",
+      "meaning": "accordingly"
+    },
+    {
+      "id": "B2_K1_M4_058",
+      "word": "anhören (sich gut/schlecht anhören)",
+      "meaning": "listen (sound good / bad)"
+    },
+    {
+      "id": "B2_K1_M4_059",
+      "word": "annehmen, nahm an, hat angenommen",
+      "meaning": "accept",
+      "example": "einen Vorschlag annehmen"
+    },
+    {
+      "id": "B2_K1_M4_060",
+      "word": "einig (in + D.) (sich einig sein in etw.)",
+      "meaning": "agree (agree on sth.)"
+    },
+    {
+      "id": "B2_K1_M4_061",
+      "word": "entwickeln",
+      "meaning": "develop"
+    },
+    {
+      "id": "B2_K1_M4_062",
+      "word": "meinetwegen",
+      "meaning": "because of me"
+    },
+    {
+      "id": "B2_K1_M4_063",
+      "word": "veranstalten",
+      "meaning": "organize"
+    },
+    {
+      "id": "B2_K1_M4_064",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K1_M4_065",
+      "word": "die Abstammung",
+      "plural": "die Abstammungen",
+      "meaning": "lineage"
+    },
+    {
+      "id": "B2_K1_M4_066",
+      "word": "der/die Amateur-Boxer/in",
+      "meaning": "amateur boxer"
+    },
+    {
+      "id": "B2_K1_M4_067",
+      "word": "auszeichnen",
+      "meaning": "award",
+      "example": "Fatih Akın wurde mit vielen Preisen ausgezeichnet."
+    },
+    {
+      "id": "B2_K1_M4_068",
+      "word": "begehrt (bei + D.)",
+      "meaning": "coveted"
+    },
+    {
+      "id": "B2_K1_M4_069",
+      "word": "bürgerlich",
+      "meaning": "civil"
+    },
+    {
+      "id": "B2_K1_M4_070",
+      "word": "das Diplom",
+      "plural": "die Diplome",
+      "meaning": "diploma"
+    },
+    {
+      "id": "B2_K1_M4_071",
+      "word": "der/die Drehbuchautor/in",
+      "meaning": "screenwriter"
+    },
+    {
+      "id": "B2_K1_M4_072",
+      "word": "der Drehbuchpreis",
+      "plural": "die Drehbuchpreise",
+      "meaning": "screenplay price"
+    },
+    {
+      "id": "B2_K1_M4_073",
+      "word": "der Durchbruch",
+      "plural": "die Durchbrüche",
+      "meaning": "breakthrough"
+    },
+    {
+      "id": "B2_K1_M4_074",
+      "word": "der/die Einwanderer/Einwanderin",
+      "meaning": "immigrant"
+    },
+    {
+      "id": "B2_K1_M4_075",
+      "word": "entstammen",
+      "meaning": "come from"
+    },
+    {
+      "id": "B2_K1_M4_076",
+      "word": "der/die Filmregisseur/in",
+      "meaning": "film director"
+    },
+    {
+      "id": "B2_K1_M4_077",
+      "word": "das Gangsterkino (Sg.)",
+      "meaning": "gangster cinema"
+    },
+    {
+      "id": "B2_K1_M4_078",
+      "word": "geprägt (von + D.)",
+      "meaning": "shaped"
+    },
+    {
+      "id": "B2_K1_M4_079",
+      "word": "gläubig",
+      "meaning": "religious"
+    },
+    {
+      "id": "B2_K1_M4_080",
+      "word": "die Härte (Sg.)",
+      "meaning": "hardness"
+    },
+    {
+      "id": "B2_K1_M4_081",
+      "word": "die Hauptrolle",
+      "plural": "die Hauptrollen",
+      "meaning": "the main roles"
+    },
+    {
+      "id": "B2_K1_M4_082",
+      "word": "heimisch",
+      "meaning": "home"
+    },
+    {
+      "id": "B2_K1_M4_083",
+      "word": "die Hommage (an + A.)",
+      "meaning": "tribute"
+    },
+    {
+      "id": "B2_K1_M4_084",
+      "word": "der Juryvorsitz (Sg.)",
+      "meaning": "jury chair"
+    },
+    {
+      "id": "B2_K1_M4_085",
+      "word": "katholisch",
+      "meaning": "Catholic"
+    },
+    {
+      "id": "B2_K1_M4_086",
+      "word": "der Kiez",
+      "plural": "die Kieze",
+      "meaning": "neighborhood"
+    },
+    {
+      "id": "B2_K1_M4_087",
+      "word": "der Kinofilm",
+      "plural": "die Kinofilme",
+      "meaning": "movie"
+    },
+    {
+      "id": "B2_K1_M4_088",
+      "word": "die Kinokasse",
+      "plural": "die Kinokassen",
+      "meaning": "box office"
+    },
+    {
+      "id": "B2_K1_M4_089",
+      "word": "die Kleinkriminellenstudie",
+      "plural": "die Kleinkriminellenstudien",
+      "meaning": "petty crime study"
+    },
+    {
+      "id": "B2_K1_M4_090",
+      "word": "der/die Kneipenbesitzer/in",
+      "meaning": "bar owner"
+    },
+    {
+      "id": "B2_K1_M4_091",
+      "word": "kommerziell",
+      "meaning": "commercially"
+    },
+    {
+      "id": "B2_K1_M4_092",
+      "word": "der Langspielfilm",
+      "plural": "die Langspielfilme",
+      "meaning": "feature film"
+    },
+    {
+      "id": "B2_K1_M4_093",
+      "word": "der Lebensweg",
+      "plural": "die Lebenswege",
+      "meaning": "way of life"
+    },
+    {
+      "id": "B2_K1_M4_094",
+      "word": "das Melodram",
+      "plural": "die Melodramen",
+      "meaning": "melodrama"
+    },
+    {
+      "id": "B2_K1_M4_095",
+      "word": "das Migrationsdrama",
+      "plural": "die Migrationsdramadramen",
+      "meaning": "migration drama"
+    },
+    {
+      "id": "B2_K1_M4_096",
+      "word": "das Milieu",
+      "plural": "die Milieus",
+      "meaning": "milieu"
+    },
+    {
+      "id": "B2_K1_M4_097",
+      "word": "der/die Muslim/in",
+      "meaning": "Muslim"
+    },
+    {
+      "id": "B2_K1_M4_098",
+      "word": "passioniert",
+      "meaning": "passionate"
+    },
+    {
+      "id": "B2_K1_M4_099",
+      "word": "der/die Produzent/in",
+      "meaning": "the producer"
+    },
+    {
+      "id": "B2_K1_M4_100",
+      "word": "der/die Regisseur/in",
+      "meaning": "director"
+    },
+    {
+      "id": "B2_K1_M4_101",
+      "word": "die Scheinehe",
+      "plural": "die Scheinehen",
+      "meaning": "fictitious marriage"
+    },
+    {
+      "id": "B2_K1_M4_102",
+      "word": "schmerzlos",
+      "meaning": "painless"
+    },
+    {
+      "id": "B2_K1_M4_103",
+      "word": "der Spielfilm",
+      "plural": "die Spielfilme",
+      "meaning": "feature film"
+    },
+    {
+      "id": "B2_K1_M4_104",
+      "word": "stets",
+      "meaning": "always"
+    },
+    {
+      "id": "B2_K1_M4_105",
+      "word": "treu (etw./jmd. treu bleiben)",
+      "meaning": "to be faithful (to remain faithful to sth./so.)"
+    },
+    {
+      "id": "B2_K1_M4_106",
+      "word": "die Trophäe",
+      "plural": "die Trophäen",
+      "meaning": "trophy"
+    },
+    {
+      "id": "B2_K1_M4_107",
+      "word": "visuell",
+      "meaning": "visually"
+    },
+    {
+      "id": "B2_K1_M4_108",
+      "word": "voller",
+      "meaning": "full of"
+    },
+    {
+      "id": "B2_K1_M4_109",
+      "word": "das Vorbild",
+      "plural": "die Vorbilder",
+      "meaning": "role model"
+    },
+    {
+      "id": "B2_K1_M4_110",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K1_M4_111",
+      "word": "der Nonsens (Sg.)",
+      "meaning": "nonsense"
+    },
+    {
+      "id": "B2_K1_M4_112",
+      "word": "unerwartet",
+      "meaning": "unexpectedly"
     }
   ]
 }

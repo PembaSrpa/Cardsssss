@@ -4,10 +4,906 @@
   "words": [
     {
       "id": "A2_K5_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Anwalt",
+      "plural": "Anwälte",
+      "meaning": "lawyer"
+    },
+    {
+      "id": "A2_K5_002",
+      "word": "föhnen",
+      "meaning": "to blow-dry"
+    },
+    {
+      "id": "A2_K5_003",
+      "word": "der Grafiker",
+      "plural": "Grafiker",
+      "meaning": "graphic designer"
+    },
+    {
+      "id": "A2_K5_004",
+      "word": "der Hammer",
+      "plural": "Hammer",
+      "meaning": "hammer"
+    },
+    {
+      "id": "A2_K5_005",
+      "word": "der Tischler",
+      "plural": "Tischler",
+      "meaning": "carpenter"
+    },
+    {
+      "id": "A2_K5_006",
+      "word": "die Tönung",
+      "plural": "Tönungen",
+      "meaning": "tint, tone"
+    },
+    {
+      "id": "A2_K5_007",
+      "word": "die Schere",
+      "plural": "Scheren",
+      "meaning": "scissors"
+    },
+    {
+      "id": "A2_K5_008",
+      "word": "die Handbewegung",
+      "plural": "Handbewegungen",
+      "meaning": "hand gesture"
+    },
+    {
+      "id": "A2_K5_009",
+      "word": "die Geschäftsreise",
+      "plural": "Geschäftsreisen",
+      "meaning": "business trip"
+    },
+    {
+      "id": "A2_K5_010",
+      "word": "das Abteil",
+      "plural": "Abteile",
+      "meaning": "compartment"
+    },
+    {
+      "id": "A2_K5_011",
+      "word": "die Bahncard",
+      "plural": "Bahncards",
+      "meaning": "train discount card"
+    },
+    {
+      "id": "A2_K5_012",
+      "word": "besitzen (besitzt, hat besessen)",
+      "meaning": "to own"
+    },
+    {
+      "id": "A2_K5_013",
+      "word": "die Hinfahrt",
+      "plural": "Hinfahrten",
+      "meaning": "outbound trip"
+    },
+    {
+      "id": "A2_K5_014",
+      "word": "kurz",
+      "meaning": "short (ly)",
+      "example": "Wir kommen um kurz nach zwölf an."
+    },
+    {
+      "id": "A2_K5_015",
+      "word": "die Rückfahrt",
+      "plural": "Rückfahrten",
+      "meaning": "return trip"
+    },
+    {
+      "id": "A2_K5_016",
+      "word": "die Abfahrt",
+      "plural": "Abfahrten",
+      "meaning": "departure"
+    },
+    {
+      "id": "A2_K5_017",
+      "word": "die Bahn",
+      "plural": "Bahnen",
+      "meaning": "train"
+    },
+    {
+      "id": "A2_K5_018",
+      "word": "der Bahnsteig",
+      "plural": "Bahnsteige",
+      "meaning": "train platform"
+    },
+    {
+      "id": "A2_K5_019",
+      "word": "die Durchsage",
+      "plural": "Durchsagen",
+      "meaning": "announcement"
+    },
+    {
+      "id": "A2_K5_020",
+      "word": "der Fahrplan",
+      "plural": "Fahrpläne",
+      "meaning": "timetable, schedule"
+    },
+    {
+      "id": "A2_K5_021",
+      "word": "das Gepäck (Singular)",
+      "meaning": "baggage, luggage"
+    },
+    {
+      "id": "A2_K5_022",
+      "word": "das Gleis",
+      "plural": "Gleise",
+      "meaning": "track"
+    },
+    {
+      "id": "A2_K5_023",
+      "word": "die Information",
+      "plural": "Informationen",
+      "meaning": "here: information desk",
+      "example": "Ich gehe zur Information am Bahnhof."
+    },
+    {
+      "id": "A2_K5_024",
+      "word": "der Schalter",
+      "plural": "Schalter",
+      "meaning": "counter"
+    },
+    {
+      "id": "A2_K5_025",
+      "word": "der Waggon",
+      "plural": "Waggons/Waggone",
+      "meaning": "train car"
+    },
+    {
+      "id": "A2_K5_026",
+      "word": "die Zugverbindung",
+      "plural": "Zugverbindungen",
+      "meaning": "train connection"
+    },
+    {
+      "id": "A2_K5_027",
+      "word": "die Auskunft",
+      "plural": "Auskünfte",
+      "meaning": "here: information desk"
+    },
+    {
+      "id": "A2_K5_028",
+      "word": "der Bahn-Mitarbeiter",
+      "plural": "Bahn-Mitarbeiter",
+      "meaning": "train employee"
+    },
+    {
+      "id": "A2_K5_029",
+      "word": "einfach",
+      "meaning": "here: one-way",
+      "example": "Einfach oder hin und zurück?"
+    },
+    {
+      "id": "A2_K5_030",
+      "word": "der Fahrgast",
+      "plural": "Fahrgäste",
+      "meaning": "passenger"
+    },
+    {
+      "id": "A2_K5_031",
+      "word": "der Fahrkartenschalter",
+      "plural": "Fahrkartenschalter",
+      "meaning": "ticket booth"
+    },
+    {
+      "id": "A2_K5_032",
+      "word": "der Gang",
+      "plural": "Gänge",
+      "meaning": "aisle",
+      "example": "Gang oder Fenster?"
+    },
+    {
+      "id": "A2_K5_033",
+      "word": "der Großraumwagen",
+      "plural": "Großraumwagen/Großraumwägen",
+      "meaning": "open coach"
+    },
+    {
+      "id": "A2_K5_034",
+      "word": "hin",
+      "meaning": "to",
+      "example": "Ich möchte ein Ticket hin und zurück."
+    },
+    {
+      "id": "A2_K5_035",
+      "word": "die Klasse (Singular)",
+      "meaning": "class",
+      "example": "Möchten Sie in der ersten Klasse fahren?"
+    },
+    {
+      "id": "A2_K5_036",
+      "word": "das Abend-Programm",
+      "plural": "Abend-Programme",
+      "meaning": "evening program"
+    },
+    {
+      "id": "A2_K5_037",
+      "word": "die Dame",
+      "plural": "Damen",
+      "meaning": "lady"
+    },
+    {
+      "id": "A2_K5_038",
+      "word": "entspannt",
+      "meaning": "relaxed"
+    },
+    {
+      "id": "A2_K5_039",
+      "word": "die Ermäßigung",
+      "plural": "Ermäßigungen",
+      "meaning": "discount"
+    },
+    {
+      "id": "A2_K5_040",
+      "word": "erwarten",
+      "meaning": "to await, expect"
+    },
+    {
+      "id": "A2_K5_041",
+      "word": "fantastisch",
+      "meaning": "fantastic (ally)"
+    },
+    {
+      "id": "A2_K5_042",
+      "word": "fit (ﬁtter, am ﬁttesten)",
+      "meaning": "fit, in shape"
+    },
+    {
+      "id": "A2_K5_043",
+      "word": "früher",
+      "meaning": "formerly, in the past"
+    },
+    {
+      "id": "A2_K5_044",
+      "word": "die Geschichte (Singular)",
+      "meaning": "history, story",
+      "example": "Die Geschichte von Wiesbaden ist sehr spannend."
+    },
+    {
+      "id": "A2_K5_045",
+      "word": "großartig",
+      "meaning": "great, grand, terrific"
+    },
+    {
+      "id": "A2_K5_046",
+      "word": "die Kultur",
+      "plural": "Kulturen",
+      "meaning": "culture"
+    },
+    {
+      "id": "A2_K5_047",
+      "word": "live",
+      "meaning": "live"
+    },
+    {
+      "id": "A2_K5_048",
+      "word": "das Musikereignis",
+      "plural": "Musikereignisse",
+      "meaning": "musical event"
+    },
+    {
+      "id": "A2_K5_049",
+      "word": "die Reservierung",
+      "plural": "Reservierungen",
+      "meaning": "reservation"
+    },
+    {
+      "id": "A2_K5_050",
+      "word": "der Sänger",
+      "plural": "Sänger",
+      "meaning": "singer"
+    },
+    {
+      "id": "A2_K5_051",
+      "word": "der Senior",
+      "plural": "Senioren",
+      "meaning": "senior"
+    },
+    {
+      "id": "A2_K5_052",
+      "word": "die Show",
+      "plural": "Shows",
+      "meaning": "show"
+    },
+    {
+      "id": "A2_K5_053",
+      "word": "hübsch",
+      "meaning": "pretty"
+    },
+    {
+      "id": "A2_K5_054",
+      "word": "verrückt",
+      "meaning": "crazy"
+    },
+    {
+      "id": "A2_K5_055",
+      "word": "antik",
+      "meaning": "antique"
+    },
+    {
+      "id": "A2_K5_056",
+      "word": "arbeitslos",
+      "meaning": "unemployed"
+    },
+    {
+      "id": "A2_K5_057",
+      "word": "der Arztkittel",
+      "plural": "Arztkittel",
+      "meaning": "lab coat"
+    },
+    {
+      "id": "A2_K5_058",
+      "word": "bereuen",
+      "meaning": "to regret"
+    },
+    {
+      "id": "A2_K5_059",
+      "word": "der Berufswechsel",
+      "plural": "Berufswechsel",
+      "meaning": "career change"
+    },
+    {
+      "id": "A2_K5_060",
+      "word": "der Elektrokonzern",
+      "plural": "Elektrokonzerne",
+      "meaning": "electronics company"
+    },
+    {
+      "id": "A2_K5_061",
+      "word": "erfolgreich",
+      "meaning": "successful"
+    },
+    {
+      "id": "A2_K5_062",
+      "word": "erfüllen (sich)",
+      "meaning": "to fulfill"
+    },
+    {
+      "id": "A2_K5_063",
+      "word": "der Fernfahrer",
+      "plural": "Fernfahrer",
+      "meaning": "trucker"
+    },
+    {
+      "id": "A2_K5_064",
+      "word": "die Freiheit",
+      "plural": "Freiheiten",
+      "meaning": "freedom"
+    },
+    {
+      "id": "A2_K5_065",
+      "word": "gegen (+ Akk.)",
+      "meaning": "here: for",
+      "example": "Markus tauscht seinen Kittel gegen einen Overall."
+    },
+    {
+      "id": "A2_K5_066",
+      "word": "gestalten",
+      "meaning": "to shape, fashion"
+    },
+    {
+      "id": "A2_K5_067",
+      "word": "gründen",
+      "meaning": "to found"
+    },
+    {
+      "id": "A2_K5_068",
+      "word": "der Herzchirurg",
+      "plural": "Herzchirurgen",
+      "meaning": "heart surgeon"
+    },
+    {
+      "id": "A2_K5_069",
+      "word": "die Herzchirurgie",
+      "plural": "Herzchirurgien",
+      "meaning": "cardiac surgery"
+    },
+    {
+      "id": "A2_K5_070",
+      "word": "das Herzzentrum",
+      "plural": "Herzzentren",
+      "meaning": "cardiac center"
+    },
+    {
+      "id": "A2_K5_071",
+      "word": "die Industriekauffrau",
+      "plural": "Industriekauffrauen",
+      "meaning": "industrial businesswoman"
+    },
+    {
+      "id": "A2_K5_072",
+      "word": "der Lastwagen",
+      "plural": "Lastwagen/Lastwägen",
+      "meaning": "truck"
+    },
+    {
+      "id": "A2_K5_073",
+      "word": "der Leiter",
+      "plural": "Leiter",
+      "meaning": "leader, director"
+    },
+    {
+      "id": "A2_K5_074",
+      "word": "die Medizin (Singular)",
+      "meaning": "medicine"
+    },
+    {
+      "id": "A2_K5_075",
+      "word": "die Möbelwerkstatt",
+      "plural": "Möbelwerkstätten",
+      "meaning": "furniture workshop"
+    },
+    {
+      "id": "A2_K5_076",
+      "word": "der Oberarzt",
+      "plural": "Oberärzte",
+      "meaning": "senior physician"
+    },
+    {
+      "id": "A2_K5_077",
+      "word": "der Operationssaal",
+      "plural": "Operationssäle",
+      "meaning": "operating room"
+    },
+    {
+      "id": "A2_K5_078",
+      "word": "der Overall",
+      "plural": "Overalls",
+      "meaning": "overalls"
+    },
+    {
+      "id": "A2_K5_079",
+      "word": "plötzlich",
+      "meaning": "suddenly"
+    },
+    {
+      "id": "A2_K5_080",
+      "word": "das Schmuckstück",
+      "plural": "Schmuckstücke",
+      "meaning": "piece of jewelry"
+    },
+    {
+      "id": "A2_K5_081",
+      "word": "die Tischlerei",
+      "plural": "Tischlereien",
+      "meaning": "carpenter’s woodshop"
+    },
+    {
+      "id": "A2_K5_082",
+      "word": "das Universitätsspital",
+      "plural": "Universitätsspitale",
+      "meaning": "university hospital"
+    },
+    {
+      "id": "A2_K5_083",
+      "word": "werden (wird, wurde, ist geworden)",
+      "meaning": "to become",
+      "example": "Dann wurde sie plötzlich arbeitslos."
+    },
+    {
+      "id": "A2_K5_084",
+      "word": "die Parallele",
+      "plural": "Parallelen",
+      "meaning": "parallel"
+    },
+    {
+      "id": "A2_K5_085",
+      "word": "die Altersangabe",
+      "plural": "Altersangaben",
+      "meaning": "age indication"
+    },
+    {
+      "id": "A2_K5_086",
+      "word": "der Berufswunsch",
+      "plural": "Berufswünsche",
+      "meaning": "career goal"
+    },
+    {
+      "id": "A2_K5_087",
+      "word": "der Arbeitsort",
+      "plural": "Arbeitsorte",
+      "meaning": "work location"
+    },
+    {
+      "id": "A2_K5_088",
+      "word": "der Aspekt",
+      "plural": "Aspekte",
+      "meaning": "aspect"
+    },
+    {
+      "id": "A2_K5_089",
+      "word": "folgend",
+      "meaning": "following"
+    },
+    {
+      "id": "A2_K5_090",
+      "word": "der Tiertrainer",
+      "plural": "Tiertrainer",
+      "meaning": "animal trainer"
+    },
+    {
+      "id": "A2_K5_091",
+      "word": "der Autor",
+      "plural": "Autoren",
+      "meaning": "author"
+    },
+    {
+      "id": "A2_K5_092",
+      "word": "aufstellen (sich)",
+      "meaning": "to set up, establish"
+    },
+    {
+      "id": "A2_K5_093",
+      "word": "hinten",
+      "meaning": "behind"
+    },
+    {
+      "id": "A2_K5_094",
+      "word": "hintereinander",
+      "meaning": "successively"
+    },
+    {
+      "id": "A2_K5_095",
+      "word": "der Schritt",
+      "plural": "Schritte",
+      "meaning": "step"
+    },
+    {
+      "id": "A2_K5_096",
+      "word": "vorn",
+      "meaning": "forward"
+    },
+    {
+      "id": "A2_K5_097",
+      "word": "der Lkw",
+      "plural": "Lkws",
+      "meaning": "truck"
+    },
+    {
+      "id": "A2_K5_098",
+      "word": "führen",
+      "meaning": "to conduct, lead",
+      "example": "Sina führt ein Gespräch mit ihrem Chef."
+    },
+    {
+      "id": "A2_K5_099",
+      "word": "das Telefongespräch",
+      "plural": "Telefongespräche",
+      "meaning": "telephone conversation"
+    },
+    {
+      "id": "A2_K5_100",
+      "word": "vorstellen (sich)",
+      "meaning": "here: to imagine",
+      "example": "Stell dir vor, ich habe heute zweimal den Bus verpasst."
+    },
+    {
+      "id": "A2_K5_101",
+      "word": "ausschalten",
+      "meaning": "to turn off"
+    },
+    {
+      "id": "A2_K5_102",
+      "word": "bereitlegen",
+      "meaning": "to lay ready"
+    },
+    {
+      "id": "A2_K5_103",
+      "word": "deutlich",
+      "meaning": "distinct (ly)"
+    },
+    {
+      "id": "A2_K5_104",
+      "word": "hektisch",
+      "meaning": "hectic"
+    },
+    {
+      "id": "A2_K5_105",
+      "word": "konzentrieren (sich) (auf + Akk.)",
+      "meaning": "to concentrate"
+    },
+    {
+      "id": "A2_K5_106",
+      "word": "lächeln",
+      "meaning": "to smile"
+    },
+    {
+      "id": "A2_K5_107",
+      "word": "das Lächeln (Singular)",
+      "meaning": "smile"
+    },
+    {
+      "id": "A2_K5_108",
+      "word": "die Ruhe (Singular)",
+      "meaning": "quiet, calm"
+    },
+    {
+      "id": "A2_K5_109",
+      "word": "der Stift",
+      "plural": "Stifte",
+      "meaning": "pencil"
+    },
+    {
+      "id": "A2_K5_110",
+      "word": "verlaufen (verläuft, ist verlaufen)",
+      "meaning": "to proceed, run, go",
+      "example": "Das Gespräch verläuft gut."
+    },
+    {
+      "id": "A2_K5_111",
+      "word": "vorbereiten (sich) (auf + Akk.)",
+      "meaning": "to prepare",
+      "example": "Bereiten Sie sich auf das Gespräch vor."
+    },
+    {
+      "id": "A2_K5_112",
+      "word": "ausrichten",
+      "meaning": "to leave a message"
+    },
+    {
+      "id": "A2_K5_113",
+      "word": "außer",
+      "meaning": "out, outside",
+      "example": "Frau Sommer ist heute außer Haus."
+    },
+    {
+      "id": "A2_K5_114",
+      "word": "die Durchwahl",
+      "plural": "Durchwahlen",
+      "meaning": "phone extension"
+    },
+    {
+      "id": "A2_K5_115",
+      "word": "hinterlassen (hinterlässt, hat hinterlassen)",
+      "meaning": "to leave behind",
+      "example": "Können Sie mich bitte mit Herrn Winter Mr. Winter?"
+    },
+    {
+      "id": "A2_K5_116",
+      "word": "zurückrufen (ruft zurück, hat zurückgerufen)",
+      "meaning": "to call back"
+    },
+    {
+      "id": "A2_K5_117",
+      "word": "informiert",
+      "meaning": "informed"
+    },
+    {
+      "id": "A2_K5_118",
+      "word": "der Arbeitsalltag (Singular)",
+      "meaning": "workday"
+    },
+    {
+      "id": "A2_K5_119",
+      "word": "das Arbeitsleben (Singular)",
+      "meaning": "professional life"
+    },
+    {
+      "id": "A2_K5_120",
+      "word": "die Arbeitsteilung (Singular)",
+      "meaning": "division of labor"
+    },
+    {
+      "id": "A2_K5_121",
+      "word": "das Arbeitsverhältnis",
+      "plural": "Arbeitsverhältnisse",
+      "meaning": "working relationship"
+    },
+    {
+      "id": "A2_K5_122",
+      "word": "der Austausch (Singular)",
+      "meaning": "exchange"
+    },
+    {
+      "id": "A2_K5_123",
+      "word": "die Balance (Singular)",
+      "meaning": "balance"
+    },
+    {
+      "id": "A2_K5_124",
+      "word": "bestimmen",
+      "meaning": "to determine"
+    },
+    {
+      "id": "A2_K5_125",
+      "word": "betreuen",
+      "meaning": "here: to lead"
+    },
+    {
+      "id": "A2_K5_126",
+      "word": "der Betreuungsplatz",
+      "plural": "Betreuungsplätze",
+      "meaning": "child care facility"
+    },
+    {
+      "id": "A2_K5_127",
+      "word": "dabei",
+      "meaning": "here: with this"
+    },
+    {
+      "id": "A2_K5_128",
+      "word": "dadurch",
+      "meaning": "here: because of this"
+    },
+    {
+      "id": "A2_K5_129",
+      "word": "damit",
+      "meaning": "here: despite this"
+    },
+    {
+      "id": "A2_K5_130",
+      "word": "erreichbar",
+      "meaning": "reachable"
+    },
+    {
+      "id": "A2_K5_131",
+      "word": "existieren",
+      "meaning": "to exist"
+    },
+    {
+      "id": "A2_K5_132",
+      "word": "die Fähigkeit",
+      "plural": "Fähigkeiten",
+      "meaning": "capability, skill"
+    },
+    {
+      "id": "A2_K5_133",
+      "word": "familienfreundlich",
+      "meaning": "family-friendly"
+    },
+    {
+      "id": "A2_K5_134",
+      "word": "die Flexibilität (Singular)",
+      "meaning": "flexibility"
+    },
+    {
+      "id": "A2_K5_135",
+      "word": "freiwillig",
+      "meaning": "voluntarily"
+    },
+    {
+      "id": "A2_K5_136",
+      "word": "die Hierarchie",
+      "plural": "Hierarchien",
+      "meaning": "hierarchy"
+    },
+    {
+      "id": "A2_K5_137",
+      "word": "die Internetverbindung",
+      "plural": "Internetverbindungen",
+      "meaning": "internet connection"
+    },
+    {
+      "id": "A2_K5_138",
+      "word": "die Kooperation",
+      "plural": "Kooperationen",
+      "meaning": "cooperation"
+    },
+    {
+      "id": "A2_K5_139",
+      "word": "kümmern (sich) (um + Akk.)",
+      "meaning": "to take care of"
+    },
+    {
+      "id": "A2_K5_140",
+      "word": "lebenslang",
+      "meaning": "lifelong"
+    },
+    {
+      "id": "A2_K5_141",
+      "word": "mehrere",
+      "meaning": "several"
+    },
+    {
+      "id": "A2_K5_142",
+      "word": "möglichst",
+      "meaning": "preferably"
+    },
+    {
+      "id": "A2_K5_143",
+      "word": "nutzen",
+      "meaning": "to make use of"
+    },
+    {
+      "id": "A2_K5_144",
+      "word": "die Position",
+      "plural": "Positionen",
+      "meaning": "position, role"
+    },
+    {
+      "id": "A2_K5_145",
+      "word": "die Projektarbeit",
+      "plural": "Projektarbeiten",
+      "meaning": "project work"
+    },
+    {
+      "id": "A2_K5_146",
+      "word": "qualifizieren",
+      "meaning": "here: to be qualified"
+    },
+    {
+      "id": "A2_K5_147",
+      "word": "selbstständig",
+      "meaning": "self-sufficient"
+    },
+    {
+      "id": "A2_K5_148",
+      "word": "die Sicherheit",
+      "plural": "Sicherheiten",
+      "meaning": "security"
+    },
+    {
+      "id": "A2_K5_149",
+      "word": "starr",
+      "meaning": "rigid"
+    },
+    {
+      "id": "A2_K5_150",
+      "word": "die Teamarbeit",
+      "plural": "Teamarbeiten",
+      "meaning": "teamwork"
+    },
+    {
+      "id": "A2_K5_151",
+      "word": "die Telefonkonferenz",
+      "plural": "Telefonkonferenzen",
+      "meaning": "conference call"
+    },
+    {
+      "id": "A2_K5_152",
+      "word": "unmodern",
+      "meaning": "old-fashioned"
+    },
+    {
+      "id": "A2_K5_153",
+      "word": "die Verbindung",
+      "plural": "Verbindungen",
+      "meaning": "connection"
+    },
+    {
+      "id": "A2_K5_154",
+      "word": "die Vernetzung",
+      "plural": "Vernetzungen",
+      "meaning": "network"
+    },
+    {
+      "id": "A2_K5_155",
+      "word": "verschwinden (verschwindet, ist verschwunden)",
+      "meaning": "to disappear"
+    },
+    {
+      "id": "A2_K5_156",
+      "word": "die Videokonferenz",
+      "plural": "Videokonferenzen",
+      "meaning": "video conference"
+    },
+    {
+      "id": "A2_K5_157",
+      "word": "das Wissen (Singular)",
+      "meaning": "knowledge"
+    },
+    {
+      "id": "A2_K5_158",
+      "word": "zunehmen (nimmt zu, hat zugenommen)",
+      "meaning": "to increase",
+      "example": "Teamarbeit nimmt überall zu."
+    },
+    {
+      "id": "A2_K5_159",
+      "word": "zurechtkommen (kommt zurecht, ist zurechgekommen)",
+      "meaning": "to cope"
+    },
+    {
+      "id": "A2_K5_160",
+      "word": "austauschen (sich) (über + Akk.)",
+      "meaning": "to trade"
+    },
+    {
+      "id": "A2_K5_161",
+      "word": "das Schlüsselwort",
+      "plural": "Schlüsselwörter",
+      "meaning": "keyword"
     }
   ]
 }

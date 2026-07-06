@@ -5,10 +5,285 @@
   "words": [
     {
       "id": "B2_K1_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Landessprache",
+      "plural": "die Landessprachen",
+      "meaning": "national language"
+    },
+    {
+      "id": "B2_K1_M2_002",
+      "word": "die Amtssprache",
+      "plural": "die Amtssprachen",
+      "meaning": "official language"
+    },
+    {
+      "id": "B2_K1_M2_003",
+      "word": "anerkennen, erkannte an, hat anerkannt",
+      "meaning": "acknowledge, recognized, recognized"
+    },
+    {
+      "id": "B2_K1_M2_004",
+      "word": "die Elite",
+      "plural": "die Eliten",
+      "meaning": "elite"
+    },
+    {
+      "id": "B2_K1_M2_005",
+      "word": "die Identität",
+      "plural": "die Identitäten",
+      "meaning": "identity"
+    },
+    {
+      "id": "B2_K1_M2_006",
+      "word": "komplex",
+      "meaning": "complex"
+    },
+    {
+      "id": "B2_K1_M2_007",
+      "word": "konfrontieren (mit + D.)",
+      "meaning": "confront"
+    },
+    {
+      "id": "B2_K1_M2_008",
+      "word": "multikulturell",
+      "meaning": "multicultural"
+    },
+    {
+      "id": "B2_K1_M2_009",
+      "word": "das Parlament",
+      "plural": "die Parlamente",
+      "meaning": "parliament"
+    },
+    {
+      "id": "B2_K1_M2_010",
+      "word": "der Sachverhalt",
+      "plural": "die Sachverhalte",
+      "meaning": "facts"
+    },
+    {
+      "id": "B2_K1_M2_011",
+      "word": "trösten",
+      "meaning": "to comfort"
+    },
+    {
+      "id": "B2_K1_M2_012",
+      "word": "die Vertrautheit (Sg.)",
+      "meaning": "familiarity (Sg.)"
+    },
+    {
+      "id": "B2_K1_M2_013",
+      "word": "die Verwaltungssprache",
+      "plural": "die Verwaltungssprachen",
+      "meaning": "administrative language"
+    },
+    {
+      "id": "B2_K1_M2_014",
+      "word": "die Vielfalt (Sg.)",
+      "meaning": "diversity"
+    },
+    {
+      "id": "B2_K1_M2_015",
+      "word": "vielsprachig",
+      "meaning": "multilingual"
+    },
+    {
+      "id": "B2_K1_M2_016",
+      "word": "das Landesgesetz",
+      "plural": "die Landesgesetze",
+      "meaning": "state law"
+    },
+    {
+      "id": "B2_K1_M2_017",
+      "word": "die Vielsprachigkeit (Sg.)",
+      "meaning": "multilingualism"
+    },
+    {
+      "id": "B2_K1_M2_018",
+      "word": "das Alltagsprodukt",
+      "plural": "die Alltagsprodukte",
+      "meaning": "everyday product"
+    },
+    {
+      "id": "B2_K1_M2_019",
+      "word": "amtlich",
+      "meaning": "official"
+    },
+    {
+      "id": "B2_K1_M2_020",
+      "word": "beherrschen (eine Sprache fließend beherrschen)",
+      "meaning": "master (fluent in a language dominate)"
+    },
+    {
+      "id": "B2_K1_M2_021",
+      "word": "die Bekanntmachung",
+      "plural": "die Bekanntmachungen",
+      "meaning": "notice"
+    },
+    {
+      "id": "B2_K1_M2_022",
+      "word": "beschriften",
+      "meaning": "label"
+    },
+    {
+      "id": "B2_K1_M2_023",
+      "word": "betreffen, betraf, hat betroffen",
+      "meaning": "concern, concerned, affected"
+    },
+    {
+      "id": "B2_K1_M2_024",
+      "word": "einheitlich",
+      "meaning": "uniform"
+    },
+    {
+      "id": "B2_K1_M2_025",
+      "word": "fälschlicherweise",
+      "meaning": "falsely"
+    },
+    {
+      "id": "B2_K1_M2_026",
+      "word": "der Flyer",
+      "plural": "die Flyer",
+      "meaning": "flyer"
+    },
+    {
+      "id": "B2_K1_M2_027",
+      "word": "die Geschäftsbeziehung",
+      "plural": "die Geschäftsbeziehungen",
+      "meaning": "business relationship"
+    },
+    {
+      "id": "B2_K1_M2_028",
+      "word": "die Geschäftsverhandlung",
+      "plural": "die Geschäftsverhandlungen",
+      "meaning": "business negotiation"
+    },
+    {
+      "id": "B2_K1_M2_029",
+      "word": "jedoch",
+      "meaning": "however"
+    },
+    {
+      "id": "B2_K1_M2_030",
+      "word": "die Konferenz",
+      "plural": "die Konferenzen",
+      "meaning": "conference"
+    },
+    {
+      "id": "B2_K1_M2_031",
+      "word": "das Platzproblem",
+      "plural": "die Platzprobleme",
+      "meaning": "space problem"
+    },
+    {
+      "id": "B2_K1_M2_032",
+      "word": "sämtlich",
+      "meaning": "all"
+    },
+    {
+      "id": "B2_K1_M2_033",
+      "word": "die Sitzung",
+      "plural": "die Sitzungen",
+      "meaning": "meeting"
+    },
+    {
+      "id": "B2_K1_M2_034",
+      "word": "die Sprachenvielfalt (Sg.)",
+      "meaning": "variety of languages"
+    },
+    {
+      "id": "B2_K1_M2_035",
+      "word": "das Sprachgebiet",
+      "plural": "die Sprachgebiete",
+      "meaning": "language area"
+    },
+    {
+      "id": "B2_K1_M2_036",
+      "word": "die Sprachregion",
+      "plural": "die Sprachregionen",
+      "meaning": "language region"
+    },
+    {
+      "id": "B2_K1_M2_037",
+      "word": "das Verkehrsschild",
+      "plural": "die Verkehrsschilder",
+      "meaning": "traffic sign"
+    },
+    {
+      "id": "B2_K1_M2_038",
+      "word": "veröffentlichen",
+      "meaning": "publish"
+    },
+    {
+      "id": "B2_K1_M2_039",
+      "word": "die Verpackung",
+      "plural": "die Verpackungen",
+      "meaning": "packing"
+    },
+    {
+      "id": "B2_K1_M2_040",
+      "word": "voraussetzen",
+      "meaning": "presuppose"
+    },
+    {
+      "id": "B2_K1_M2_041",
+      "word": "der Wandel",
+      "plural": "die Wandel",
+      "meaning": "change"
+    },
+    {
+      "id": "B2_K1_M2_042",
+      "word": "die Webseite",
+      "plural": "die Webseiten",
+      "meaning": "website"
+    },
+    {
+      "id": "B2_K1_M2_043",
+      "word": "die Auffassung",
+      "plural": "die Auffassungen",
+      "meaning": "view"
+    },
+    {
+      "id": "B2_K1_M2_044",
+      "word": "entscheidend",
+      "meaning": "critical"
+    },
+    {
+      "id": "B2_K1_M2_045",
+      "word": "erstaunlich",
+      "meaning": "amazing"
+    },
+    {
+      "id": "B2_K1_M2_046",
+      "word": "geteilt (in + D.) (geteilter Meinung sein)",
+      "meaning": "divided (to be divided)"
+    },
+    {
+      "id": "B2_K1_M2_047",
+      "word": "hilfreich (bei + D.)",
+      "meaning": "helpful"
+    },
+    {
+      "id": "B2_K1_M2_048",
+      "word": "die Mehrsprachigkeit (Sg.)",
+      "meaning": "multilingualism"
+    },
+    {
+      "id": "B2_K1_M2_049",
+      "word": "nützlich (für + A.)",
+      "meaning": "useful"
+    },
+    {
+      "id": "B2_K1_M2_050",
+      "word": "die Seite",
+      "plural": "die Seiten",
+      "meaning": "the side",
+      "example": "Auf der einen Seite …, auf der anderen Seite …"
+    },
+    {
+      "id": "B2_K1_M2_051",
+      "word": "die Sicht",
+      "plural": "die Sichten",
+      "meaning": "view",
+      "example": "Aus meiner Sicht …"
     }
   ]
 }

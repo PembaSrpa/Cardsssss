@@ -5,10 +5,321 @@
   "words": [
     {
       "id": "B2_K5_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der/die Erfinder/in",
+      "meaning": "the inventor"
+    },
+    {
+      "id": "B2_K5_M2_002",
+      "word": "die Notlüge",
+      "plural": "die Notlügen",
+      "meaning": "white lie"
+    },
+    {
+      "id": "B2_K5_M2_003",
+      "word": "der Schneeball",
+      "plural": "die Schneebälle",
+      "meaning": "snowball"
+    },
+    {
+      "id": "B2_K5_M2_004",
+      "word": "wälzen",
+      "meaning": "roll"
+    },
+    {
+      "id": "B2_K5_M2_005",
+      "word": "das Sprichwort",
+      "plural": "die Sprichwörter",
+      "meaning": "saying"
+    },
+    {
+      "id": "B2_K5_M2_006",
+      "word": "abstrakt",
+      "meaning": "abstract"
+    },
+    {
+      "id": "B2_K5_M2_007",
+      "word": "akustisch",
+      "meaning": "acoustically"
+    },
+    {
+      "id": "B2_K5_M2_008",
+      "word": "der/die Artgenosse/Artgenossin",
+      "meaning": "the comrade-in-arms"
+    },
+    {
+      "id": "B2_K5_M2_009",
+      "word": "die Bekanntschaft",
+      "plural": "die Bekanntschaften",
+      "meaning": "acquaintance"
+    },
+    {
+      "id": "B2_K5_M2_010",
+      "word": "die Bewertung",
+      "plural": "die Bewertungen",
+      "meaning": "evaluation"
+    },
+    {
+      "id": "B2_K5_M2_011",
+      "word": "dermaßen",
+      "meaning": "so much",
+      "example": "Er hat dermaßen übertrieben, dass niemand ihm glaubt."
+    },
+    {
+      "id": "B2_K5_M2_012",
+      "word": "ertragen, ertrug, hat ertragen",
+      "meaning": "endured"
+    },
+    {
+      "id": "B2_K5_M2_013",
+      "word": "erwecken",
+      "meaning": "arouse"
+    },
+    {
+      "id": "B2_K5_M2_014",
+      "word": "glaubwürdig (für + A.)",
+      "meaning": "credible"
+    },
+    {
+      "id": "B2_K5_M2_015",
+      "word": "greifen, griff, hat gegriffen",
+      "meaning": "grab",
+      "example": "nach einer Lüge greifen"
+    },
+    {
+      "id": "B2_K5_M2_016",
+      "word": "ignorieren",
+      "meaning": "to ignore"
+    },
+    {
+      "id": "B2_K5_M2_017",
+      "word": "intellektuell",
+      "meaning": "intellectually"
+    },
+    {
+      "id": "B2_K5_M2_018",
+      "word": "der/die Kandidat/in",
+      "meaning": "candidate"
+    },
+    {
+      "id": "B2_K5_M2_019",
+      "word": "das Kommunikationsmittel",
+      "plural": "die Kommunikationsmittel",
+      "meaning": "means of communication"
+    },
+    {
+      "id": "B2_K5_M2_020",
+      "word": "das Kompliment",
+      "plural": "die Komplimente",
+      "meaning": "compliment"
+    },
+    {
+      "id": "B2_K5_M2_021",
+      "word": "kontinuierlich",
+      "meaning": "continuous"
+    },
+    {
+      "id": "B2_K5_M2_022",
+      "word": "kurzfristig",
+      "meaning": "short term"
+    },
+    {
+      "id": "B2_K5_M2_023",
+      "word": "längerfristig",
+      "meaning": "long-term"
+    },
+    {
+      "id": "B2_K5_M2_024",
+      "word": "die Lügengeschichte",
+      "plural": "die Lügengeschichten",
+      "meaning": "lie story"
+    },
+    {
+      "id": "B2_K5_M2_025",
+      "word": "die Nervenzelle",
+      "plural": "die Nervenzellen",
+      "meaning": "nerve cell"
+    },
+    {
+      "id": "B2_K5_M2_026",
+      "word": "oftmals",
+      "meaning": "often"
+    },
+    {
+      "id": "B2_K5_M2_027",
+      "word": "der/die Proband/in",
+      "meaning": "subject"
+    },
+    {
+      "id": "B2_K5_M2_028",
+      "word": "die Psyche",
+      "plural": "die Psychen",
+      "meaning": "psyche"
+    },
+    {
+      "id": "B2_K5_M2_029",
+      "word": "das Radiofeature",
+      "plural": "die Radiofeatures",
+      "meaning": "radio feature"
+    },
+    {
+      "id": "B2_K5_M2_030",
+      "word": "regulieren",
+      "meaning": "regulate"
+    },
+    {
+      "id": "B2_K5_M2_031",
+      "word": "schwindeln",
+      "meaning": "cheat"
+    },
+    {
+      "id": "B2_K5_M2_032",
+      "word": "die Sympathie",
+      "plural": "die Sympathien",
+      "meaning": "sympathy"
+    },
+    {
+      "id": "B2_K5_M2_033",
+      "word": "die Täuschung",
+      "plural": "die Täuschungen",
+      "meaning": "deception"
+    },
+    {
+      "id": "B2_K5_M2_034",
+      "word": "die Tendenz",
+      "plural": "die Tendenzen",
+      "meaning": "tendency"
+    },
+    {
+      "id": "B2_K5_M2_035",
+      "word": "übersehen, übersah, hat übersehen",
+      "meaning": "overlooked"
+    },
+    {
+      "id": "B2_K5_M2_036",
+      "word": "verarbeiten",
+      "meaning": "to process"
+    },
+    {
+      "id": "B2_K5_M2_037",
+      "word": "verbreitet (weit verbreitet)",
+      "meaning": "widespread"
+    },
+    {
+      "id": "B2_K5_M2_038",
+      "word": "verfügen (über + A.)",
+      "meaning": "have (over + A.)"
+    },
+    {
+      "id": "B2_K5_M2_039",
+      "word": "verschaffen (einen Vorteil verschaffen)",
+      "meaning": "procure (gain an advantage)"
+    },
+    {
+      "id": "B2_K5_M2_040",
+      "word": "die Versuchsgruppe",
+      "plural": "die Versuchsgruppen",
+      "meaning": "experimental group"
+    },
+    {
+      "id": "B2_K5_M2_041",
+      "word": "die Versuchsperson",
+      "plural": "die Versuchspersonen",
+      "meaning": "test subject"
+    },
+    {
+      "id": "B2_K5_M2_042",
+      "word": "die Versuchsreihe",
+      "plural": "die Versuchsreihen",
+      "meaning": "test series"
+    },
+    {
+      "id": "B2_K5_M2_043",
+      "word": "das Warnsignal",
+      "plural": "die Warnsignale",
+      "meaning": "warning signal"
+    },
+    {
+      "id": "B2_K5_M2_044",
+      "word": "der Weg (etw./jmd. aus dem Weg gehen)",
+      "plural": "die Wege",
+      "meaning": "the way (sth / so. out of the way go)"
+    },
+    {
+      "id": "B2_K5_M2_045",
+      "word": "wünschenswert",
+      "meaning": "desirable"
+    },
+    {
+      "id": "B2_K5_M2_046",
+      "word": "3",
+      "meaning": "3"
+    },
+    {
+      "id": "B2_K5_M2_047",
+      "word": "der Bescheid (Bescheid sagen)",
+      "plural": "die Bescheide",
+      "meaning": "decision (say decision)"
+    },
+    {
+      "id": "B2_K5_M2_048",
+      "word": "die Besprechung (die Besprechung mit dem Chef)",
+      "plural": "die Besprechungen",
+      "meaning": "meeting (the meeting with the boss)"
+    },
+    {
+      "id": "B2_K5_M2_049",
+      "word": "der Besprechungstermin",
+      "plural": "die Besprechungstermine",
+      "meaning": "meeting date"
+    },
+    {
+      "id": "B2_K5_M2_050",
+      "word": "das Kundengespräch",
+      "plural": "die Kundengespräche",
+      "meaning": "customer conversation"
+    },
+    {
+      "id": "B2_K5_M2_051",
+      "word": "der/die Mitbewohner/in",
+      "meaning": "roommate"
+    },
+    {
+      "id": "B2_K5_M2_052",
+      "word": "die Schulden (Pl.)",
+      "meaning": "debts"
+    },
+    {
+      "id": "B2_K5_M2_053",
+      "word": "der Strauß (ein Strauß Blumen)",
+      "plural": "die Straüße",
+      "meaning": "bouquet (a bouquet of flowers)"
+    },
+    {
+      "id": "B2_K5_M2_054",
+      "word": "unpassend",
+      "meaning": "inappropriate"
+    },
+    {
+      "id": "B2_K5_M2_055",
+      "word": "der/die Vermieter/in",
+      "meaning": "landlord"
+    },
+    {
+      "id": "B2_K5_M2_056",
+      "word": "der/die Besitzer/in",
+      "meaning": "4"
+    },
+    {
+      "id": "B2_K5_M2_057",
+      "word": "die Geldbörse",
+      "plural": "die Geldbörsen",
+      "meaning": "purse"
+    },
+    {
+      "id": "B2_K5_M2_058",
+      "word": "die Kreditkarte",
+      "plural": "die Kreditkarten",
+      "meaning": "credit card"
     }
   ]
 }

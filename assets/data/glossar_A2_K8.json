@@ -4,10 +4,706 @@
   "words": [
     {
       "id": "A2_K8_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "Paragliding (ohne Artikel)",
+      "meaning": "paragliding"
+    },
+    {
+      "id": "A2_K8_002",
+      "word": "Parkour",
+      "meaning": "parkour"
+    },
+    {
+      "id": "A2_K8_003",
+      "word": "reiten (reitet, ist geritten)",
+      "meaning": "horseback riding"
+    },
+    {
+      "id": "A2_K8_004",
+      "word": "das Schneeschuhwandern (Singular)",
+      "meaning": "snowshoe hiking"
+    },
+    {
+      "id": "A2_K8_005",
+      "word": "sportlich",
+      "meaning": "sporty"
+    },
+    {
+      "id": "A2_K8_006",
+      "word": "tauchen (taucht, ist getaucht)",
+      "meaning": "to dive"
+    },
+    {
+      "id": "A2_K8_007",
+      "word": "das Yoga (Singular)",
+      "meaning": "yoga"
+    },
+    {
+      "id": "A2_K8_008",
+      "word": "der Gleitschirm",
+      "plural": "Gleitschirme",
+      "meaning": "paraglider"
+    },
+    {
+      "id": "A2_K8_009",
+      "word": "der Reithelm",
+      "plural": "Reithelme",
+      "meaning": "riding helmet"
+    },
+    {
+      "id": "A2_K8_010",
+      "word": "der Schneeschuh",
+      "plural": "Schneeschuhe",
+      "meaning": "snowshoe"
+    },
+    {
+      "id": "A2_K8_011",
+      "word": "die Taucherbrille",
+      "plural": "Taucherbrillen",
+      "meaning": "diving mask"
+    },
+    {
+      "id": "A2_K8_012",
+      "word": "die Yogamatte",
+      "plural": "Yogamatten",
+      "meaning": "yoga mat"
+    },
+    {
+      "id": "A2_K8_013",
+      "word": "die Luft (meist Singular)",
+      "meaning": "air",
+      "example": "Ich bin in der Luft, ich fliege!"
+    },
+    {
+      "id": "A2_K8_014",
+      "word": "die Mauer",
+      "plural": "Mauern",
+      "meaning": "wall"
+    },
+    {
+      "id": "A2_K8_015",
+      "word": "der Muskel",
+      "plural": "Muskeln",
+      "meaning": "muscle"
+    },
+    {
+      "id": "A2_K8_016",
+      "word": "das Pferd",
+      "plural": "Pferde",
+      "meaning": "horse"
+    },
+    {
+      "id": "A2_K8_017",
+      "word": "der Schirm",
+      "plural": "Schirme",
+      "meaning": "parachute",
+      "example": "Ich springe aus dem Flugzeug, hoffentlich öffnet sich der Schirm."
+    },
+    {
+      "id": "A2_K8_018",
+      "word": "das Tier",
+      "plural": "Tiere",
+      "meaning": "animal"
+    },
+    {
+      "id": "A2_K8_019",
+      "word": "der Wald",
+      "plural": "Wälder",
+      "meaning": "forest"
+    },
+    {
+      "id": "A2_K8_020",
+      "word": "der Yogakurs",
+      "plural": "Yogakurse",
+      "meaning": "yoga class"
+    },
+    {
+      "id": "A2_K8_021",
+      "word": "die Sportart",
+      "plural": "Sportarten",
+      "meaning": "sport type"
+    },
+    {
+      "id": "A2_K8_022",
+      "word": "der Fallschirm",
+      "plural": "Fallschirme",
+      "meaning": "parachute"
+    },
+    {
+      "id": "A2_K8_023",
+      "word": "springen (springt, ist gesprungen)",
+      "meaning": "to jump",
+      "example": "Ich bin schon mal Fallschirm gesprungen."
+    },
+    {
+      "id": "A2_K8_024",
+      "word": "der Sportgegenstand",
+      "plural": "Sportgegenstände",
+      "meaning": "sports equipment"
+    },
+    {
+      "id": "A2_K8_025",
+      "word": "der Fan",
+      "plural": "Fans",
+      "meaning": "fan"
+    },
+    {
+      "id": "A2_K8_026",
+      "word": "der Fanartikel",
+      "plural": "Fanartikel",
+      "meaning": "team merchandise"
+    },
+    {
+      "id": "A2_K8_027",
+      "word": "der Fußballschal",
+      "plural": "Fußballschals",
+      "meaning": "soccer club scarf"
+    },
+    {
+      "id": "A2_K8_028",
+      "word": "der Fußballfan",
+      "plural": "Fußballfans",
+      "meaning": "soccer fan"
+    },
+    {
+      "id": "A2_K8_029",
+      "word": "die Begeisterung (Singular)",
+      "meaning": "enthusiasm"
+    },
+    {
+      "id": "A2_K8_030",
+      "word": "die Enttäuschung",
+      "plural": "Enttäuschungen",
+      "meaning": "disappointment"
+    },
+    {
+      "id": "A2_K8_031",
+      "word": "hoffen",
+      "meaning": "to hope"
+    },
+    {
+      "id": "A2_K8_032",
+      "word": "die Hoffnung",
+      "plural": "Hoffnungen",
+      "meaning": "hope"
+    },
+    {
+      "id": "A2_K8_033",
+      "word": "die Topform (Singular)",
+      "meaning": "top form, peak condition"
+    },
+    {
+      "id": "A2_K8_034",
+      "word": "der Wahnsinn (Singular)",
+      "meaning": "madness, insanity"
+    },
+    {
+      "id": "A2_K8_035",
+      "word": "die Niederlage",
+      "plural": "Niederlagen",
+      "meaning": "defeat"
+    },
+    {
+      "id": "A2_K8_036",
+      "word": "der Sieg",
+      "plural": "Siege",
+      "meaning": "victory"
+    },
+    {
+      "id": "A2_K8_037",
+      "word": "die Lieblingsmannschaft",
+      "plural": "Lieblingsmannschaften",
+      "meaning": "favorite team"
+    },
+    {
+      "id": "A2_K8_038",
+      "word": "der Lieblingssportler",
+      "plural": "Lieblingssportler",
+      "meaning": "favorite athlete"
+    },
+    {
+      "id": "A2_K8_039",
+      "word": "verlieren (verliert, hat verloren)",
+      "meaning": "to lose"
+    },
+    {
+      "id": "A2_K8_040",
+      "word": "das Bällchen",
+      "plural": "Bällchen",
+      "meaning": "ball"
+    },
+    {
+      "id": "A2_K8_041",
+      "word": "begeistert",
+      "meaning": "enthusiastic"
+    },
+    {
+      "id": "A2_K8_042",
+      "word": "benehmen (sich) (benimmt sich, hat sich benommen)",
+      "meaning": "to behave"
+    },
+    {
+      "id": "A2_K8_043",
+      "word": "die Chance",
+      "plural": "Chancen",
+      "meaning": "chance, opportunity"
+    },
+    {
+      "id": "A2_K8_044",
+      "word": "die Folge",
+      "plural": "Folgen",
+      "meaning": "result"
+    },
+    {
+      "id": "A2_K8_045",
+      "word": "die Konsequenz",
+      "plural": "Konsequenzen",
+      "meaning": "consequence"
+    },
+    {
+      "id": "A2_K8_046",
+      "word": "kritisch",
+      "meaning": "critical (ly)"
+    },
+    {
+      "id": "A2_K8_047",
+      "word": "die Mannschaft",
+      "plural": "Mannschaften",
+      "meaning": "team"
+    },
+    {
+      "id": "A2_K8_048",
+      "word": "das Tor",
+      "plural": "Tore",
+      "meaning": "goal",
+      "example": "Beim Fußballspiel sind super Tore gefallen."
+    },
+    {
+      "id": "A2_K8_049",
+      "word": "treu",
+      "meaning": "loyal (ly)",
+      "example": "Bleiben Sie uns treu."
+    },
+    {
+      "id": "A2_K8_050",
+      "word": "das Vorbild",
+      "plural": "Vorbilder",
+      "meaning": "role model"
+    },
+    {
+      "id": "A2_K8_051",
+      "word": "der Widerspruch",
+      "plural": "Widersprüche",
+      "meaning": "contradiction, opposition"
+    },
+    {
+      "id": "A2_K8_052",
+      "word": "schießen (schießt, hat geschossen)",
+      "meaning": "to shoot"
+    },
+    {
+      "id": "A2_K8_053",
+      "word": "der Musiker",
+      "plural": "Musiker",
+      "meaning": "musician"
+    },
+    {
+      "id": "A2_K8_054",
+      "word": "der Sportler",
+      "plural": "Sportler",
+      "meaning": "athlete"
+    },
+    {
+      "id": "A2_K8_055",
+      "word": "die Unterscheidung",
+      "plural": "Unterscheidungen",
+      "meaning": "distinction, difference"
+    },
+    {
+      "id": "A2_K8_056",
+      "word": "auf",
+      "meaning": "on",
+      "example": "Auf zum Sport!"
+    },
+    {
+      "id": "A2_K8_057",
+      "word": "lassen (lässt, hat gelassen)",
+      "meaning": "to let, allow",
+      "example": "Lass mich mal überlegen!"
+    },
+    {
+      "id": "A2_K8_058",
+      "word": "die Kondition (Singular)",
+      "meaning": "conditioning"
+    },
+    {
+      "id": "A2_K8_059",
+      "word": "vorschlagen (schlägt vor, hat vorgeschlagen)",
+      "meaning": "to suggest"
+    },
+    {
+      "id": "A2_K8_060",
+      "word": "ablehnen",
+      "meaning": "to decline"
+    },
+    {
+      "id": "A2_K8_061",
+      "word": "da",
+      "meaning": "here",
+      "example": "Ich habe da einen Vorschlag: …"
+    },
+    {
+      "id": "A2_K8_062",
+      "word": "halten (hält, hat gehalten)",
+      "meaning": "to hold, think about",
+      "example": "Was hältst du von meiner Idee?"
+    },
+    {
+      "id": "A2_K8_063",
+      "word": "reagieren (auf + Akk.)",
+      "meaning": "to react"
+    },
+    {
+      "id": "A2_K8_064",
+      "word": "die Reaktion",
+      "plural": "Reaktionen",
+      "meaning": "reaction"
+    },
+    {
+      "id": "A2_K8_065",
+      "word": "der Vorschlag",
+      "plural": "Vorschläge",
+      "meaning": "suggestion, recommendation"
+    },
+    {
+      "id": "A2_K8_066",
+      "word": "zustimmen",
+      "meaning": "to agree"
+    },
+    {
+      "id": "A2_K8_067",
+      "word": "ausleihen (leiht aus, hat ausgeliehen)",
+      "meaning": "to borrow"
+    },
+    {
+      "id": "A2_K8_068",
+      "word": "balancieren",
+      "meaning": "to balance"
+    },
+    {
+      "id": "A2_K8_069",
+      "word": "der Hochseilgarten",
+      "plural": "Hochseilgärten",
+      "meaning": "high ropes course"
+    },
+    {
+      "id": "A2_K8_070",
+      "word": "die Info",
+      "plural": "Infos",
+      "meaning": "information"
+    },
+    {
+      "id": "A2_K8_071",
+      "word": "der Profi",
+      "plural": "Profis",
+      "meaning": "professional"
+    },
+    {
+      "id": "A2_K8_072",
+      "word": "die Übersicht",
+      "plural": "Übersichten",
+      "meaning": "overview"
+    },
+    {
+      "id": "A2_K8_073",
+      "word": "das Kärtchen",
+      "plural": "Kärtchen",
+      "meaning": "card"
+    },
+    {
+      "id": "A2_K8_074",
+      "word": "der Stapel",
+      "plural": "Stapel",
+      "meaning": "deck of cards"
+    },
+    {
+      "id": "A2_K8_075",
+      "word": "das Geocaching (Singular)",
+      "meaning": "geocaching"
+    },
+    {
+      "id": "A2_K8_076",
+      "word": "der Schatz",
+      "plural": "Schätze",
+      "meaning": "treasure"
+    },
+    {
+      "id": "A2_K8_077",
+      "word": "die Art",
+      "plural": "Arten",
+      "meaning": "type"
+    },
+    {
+      "id": "A2_K8_078",
+      "word": "die Erklärung",
+      "plural": "Erklärungen",
+      "meaning": "explanation"
+    },
+    {
+      "id": "A2_K8_079",
+      "word": "der Geocache",
+      "plural": "Geocaches",
+      "meaning": "geocache"
+    },
+    {
+      "id": "A2_K8_080",
+      "word": "geografisch",
+      "meaning": "geographic (ally)"
+    },
+    {
+      "id": "A2_K8_081",
+      "word": "das GPS-Gerät",
+      "plural": "GPS-Geräte",
+      "meaning": "GPS device"
+    },
+    {
+      "id": "A2_K8_082",
+      "word": "die Koordinate",
+      "plural": "Koordinaten",
+      "meaning": "coordinate"
+    },
+    {
+      "id": "A2_K8_083",
+      "word": "sogenannt",
+      "meaning": "so-called"
+    },
+    {
+      "id": "A2_K8_084",
+      "word": "das Versteck",
+      "plural": "Verstecke",
+      "meaning": "hiding place"
+    },
+    {
+      "id": "A2_K8_085",
+      "word": "verstecken",
+      "meaning": "to hide"
+    },
+    {
+      "id": "A2_K8_086",
+      "word": "der Baum",
+      "plural": "Bäume",
+      "meaning": "tree"
+    },
+    {
+      "id": "A2_K8_087",
+      "word": "der Behälter",
+      "plural": "Behälter",
+      "meaning": "container"
+    },
+    {
+      "id": "A2_K8_088",
+      "word": "der Cache",
+      "plural": "Caches",
+      "meaning": "cache"
+    },
+    {
+      "id": "A2_K8_089",
+      "word": "die Dose",
+      "plural": "Dosen",
+      "meaning": "jar, can, canister"
+    },
+    {
+      "id": "A2_K8_090",
+      "word": "die Erde (Singular)",
+      "meaning": "earth"
+    },
+    {
+      "id": "A2_K8_091",
+      "word": "das Gelände",
+      "plural": "Gelände",
+      "meaning": "landscape"
+    },
+    {
+      "id": "A2_K8_092",
+      "word": "der Geocache-Behälter",
+      "plural": "Geocache-Behältere",
+      "meaning": "geocache container"
+    },
+    {
+      "id": "A2_K8_093",
+      "word": "der Geocache-Inhalt",
+      "plural": "Geocache-Inhalte",
+      "meaning": "geocache contents"
+    },
+    {
+      "id": "A2_K8_094",
+      "word": "der Geocacher",
+      "plural": "Geocacher",
+      "meaning": "geocacher"
+    },
+    {
+      "id": "A2_K8_095",
+      "word": "gleichzeitig",
+      "meaning": "simultaneous (ly)"
+    },
+    {
+      "id": "A2_K8_096",
+      "word": "das Grad",
+      "plural": "Grade",
+      "meaning": "degree"
+    },
+    {
+      "id": "A2_K8_097",
+      "word": "hineinlegen",
+      "meaning": "to insert"
+    },
+    {
+      "id": "A2_K8_098",
+      "word": "die Höhle",
+      "plural": "Höhlen",
+      "meaning": "cave"
+    },
+    {
+      "id": "A2_K8_099",
+      "word": "die Internetadresse",
+      "plural": "Internetadressen",
+      "meaning": "internet address, URL"
+    },
+    {
+      "id": "A2_K8_100",
+      "word": "jeweilig",
+      "meaning": "respective"
+    },
+    {
+      "id": "A2_K8_101",
+      "word": "kaputtgehen (geht kaputt, ist kaputtgegangen)",
+      "meaning": "to break, to fall apart"
+    },
+    {
+      "id": "A2_K8_102",
+      "word": "das Loch",
+      "plural": "Löcher",
+      "meaning": "hole"
+    },
+    {
+      "id": "A2_K8_103",
+      "word": "das Logbuch",
+      "plural": "Logbücher",
+      "meaning": "log book"
+    },
+    {
+      "id": "A2_K8_104",
+      "word": "die Minustemperaturen (Plural)",
+      "meaning": "temperatures below freezing"
+    },
+    {
+      "id": "A2_K8_105",
+      "word": "der Multicache",
+      "plural": "Multicaches",
+      "meaning": "multicache"
+    },
+    {
+      "id": "A2_K8_106",
+      "word": "die Natur (Singular)",
+      "meaning": "nature"
+    },
+    {
+      "id": "A2_K8_107",
+      "word": "die Naturwanderung",
+      "plural": "Naturwanderungen",
+      "meaning": "nature hike"
+    },
+    {
+      "id": "A2_K8_108",
+      "word": "die Pflanze",
+      "plural": "Pflanzen",
+      "meaning": "plant"
+    },
+    {
+      "id": "A2_K8_109",
+      "word": "das Plastik (Singular)",
+      "meaning": "plastic"
+    },
+    {
+      "id": "A2_K8_110",
+      "word": "die Plastikdose",
+      "plural": "Plastikdosen",
+      "meaning": "plastic canister"
+    },
+    {
+      "id": "A2_K8_111",
+      "word": "schützen",
+      "meaning": "to protect"
+    },
+    {
+      "id": "A2_K8_112",
+      "word": "stabil",
+      "meaning": "sturdy, stable"
+    },
+    {
+      "id": "A2_K8_113",
+      "word": "die Temperatur",
+      "plural": "Temperaturen",
+      "meaning": "temperature"
+    },
+    {
+      "id": "A2_K8_114",
+      "word": "der Tresor",
+      "plural": "Tresore",
+      "meaning": "vault, safe"
+    },
+    {
+      "id": "A2_K8_115",
+      "word": "und so weiter",
+      "meaning": "and so on",
+      "example": "usw."
+    },
+    {
+      "id": "A2_K8_116",
+      "word": "versteckt",
+      "meaning": "hidden"
+    },
+    {
+      "id": "A2_K8_117",
+      "word": "versuchen",
+      "meaning": "to attempt"
+    },
+    {
+      "id": "A2_K8_118",
+      "word": "wasserdicht",
+      "meaning": "waterproof"
+    },
+    {
+      "id": "A2_K8_119",
+      "word": "weiterlesen (liest weiter, hat weitergelesen)",
+      "meaning": "to read on"
+    },
+    {
+      "id": "A2_K8_120",
+      "word": "zu sein",
+      "meaning": "to be closed"
+    },
+    {
+      "id": "A2_K8_121",
+      "word": "das Kongresszentrum",
+      "plural": "Kongresszentren",
+      "meaning": "convention center"
+    },
+    {
+      "id": "A2_K8_122",
+      "word": "das Kulturzentrum",
+      "plural": "Kulturzentren",
+      "meaning": "cultural center"
+    },
+    {
+      "id": "A2_K8_123",
+      "word": "bauen",
+      "meaning": "to build"
+    },
+    {
+      "id": "A2_K8_124",
+      "word": "die Besonderheit",
+      "plural": "Besonderheiten",
+      "meaning": "special feature"
     }
   ]
 }

@@ -5,10 +5,106 @@
   "words": [
     {
       "id": "B2_K3_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Teamgeist (Sg.)",
+      "meaning": "the team spirit"
+    },
+    {
+      "id": "B2_K3_M3_002",
+      "word": "doof",
+      "meaning": "stupid"
+    },
+    {
+      "id": "B2_K3_M3_003",
+      "word": "das Event",
+      "plural": "die Events",
+      "meaning": "the event"
+    },
+    {
+      "id": "B2_K3_M3_004",
+      "word": "die Abfahrt",
+      "plural": "die Abfahrten",
+      "meaning": "departure"
+    },
+    {
+      "id": "B2_K3_M3_005",
+      "word": "die Freizeitkleidung (Sg.)",
+      "meaning": "casual clothing"
+    },
+    {
+      "id": "B2_K3_M3_006",
+      "word": "die Geschäftsleitung",
+      "plural": "die Geschäftsleitungen",
+      "meaning": "management"
+    },
+    {
+      "id": "B2_K3_M3_007",
+      "word": "der/die Grillmeister/in",
+      "meaning": "grill master"
+    },
+    {
+      "id": "B2_K3_M3_008",
+      "word": "machen (sich an die Arbeit machen)",
+      "meaning": "do (get to work)"
+    },
+    {
+      "id": "B2_K3_M3_009",
+      "word": "nahegelegen",
+      "meaning": "nearby"
+    },
+    {
+      "id": "B2_K3_M3_010",
+      "word": "rudern",
+      "meaning": "row"
+    },
+    {
+      "id": "B2_K3_M3_011",
+      "word": "die Säge",
+      "plural": "die Sägen",
+      "meaning": "saw"
+    },
+    {
+      "id": "B2_K3_M3_012",
+      "word": "umrunden",
+      "meaning": "circumnavigate"
+    },
+    {
+      "id": "B2_K3_M3_013",
+      "word": "verwöhnen",
+      "meaning": "spoil"
+    },
+    {
+      "id": "B2_K3_M3_014",
+      "word": "voraussichtlich",
+      "meaning": "expected"
+    },
+    {
+      "id": "B2_K3_M3_015",
+      "word": "die Wette (um die Wette laufen)",
+      "plural": "die Wetten",
+      "meaning": "bet (to compete)"
+    },
+    {
+      "id": "B2_K3_M3_016",
+      "word": "das Teamevent",
+      "plural": "die Teamevents",
+      "meaning": "team event"
+    },
+    {
+      "id": "B2_K3_M3_017",
+      "word": "zusammenarbeiten (mit + D.)",
+      "meaning": "cooperate"
+    },
+    {
+      "id": "B2_K3_M3_018",
+      "word": "die Teambildung",
+      "plural": "die Teambildungen",
+      "meaning": "team building"
+    },
+    {
+      "id": "B2_K3_M3_019",
+      "word": "die Teambildungsaktivität",
+      "plural": "die Teambildungsaktivitäten",
+      "meaning": "the team building activity"
     }
   ]
 }

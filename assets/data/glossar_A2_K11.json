@@ -4,10 +4,457 @@
   "words": [
     {
       "id": "A2_K11_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "engagieren (sich) (für/gegen + Akk.)",
+      "meaning": "to get involved"
+    },
+    {
+      "id": "A2_K11_002",
+      "word": "vergehen (vergeht, ist vergangen)",
+      "meaning": "to pass by"
+    },
+    {
+      "id": "A2_K11_003",
+      "word": "der Alkohol (Singular)",
+      "meaning": "alcohol"
+    },
+    {
+      "id": "A2_K11_004",
+      "word": "die Arztpraxis",
+      "plural": "Arztpraxen",
+      "meaning": "medical practice"
+    },
+    {
+      "id": "A2_K11_005",
+      "word": "betrunken",
+      "meaning": "drunk (enly)"
+    },
+    {
+      "id": "A2_K11_006",
+      "word": "das Blut (Singular)",
+      "meaning": "blood"
+    },
+    {
+      "id": "A2_K11_007",
+      "word": "bluten",
+      "meaning": "to bleed"
+    },
+    {
+      "id": "A2_K11_008",
+      "word": "der Krankenwagen",
+      "plural": "Krankenwagen/Krankenwägen",
+      "meaning": "ambulance"
+    },
+    {
+      "id": "A2_K11_009",
+      "word": "lügen (lügt, hat gelogen)",
+      "meaning": "to lie"
+    },
+    {
+      "id": "A2_K11_010",
+      "word": "die Rose",
+      "plural": "Rosen",
+      "meaning": "rose"
+    },
+    {
+      "id": "A2_K11_011",
+      "word": "schwanger",
+      "meaning": "pregnant"
+    },
+    {
+      "id": "A2_K11_012",
+      "word": "sterben (stirbt, ist gestorben)",
+      "meaning": "to die"
+    },
+    {
+      "id": "A2_K11_013",
+      "word": "tot",
+      "meaning": "dead"
+    },
+    {
+      "id": "A2_K11_014",
+      "word": "die Abschlussprüfung",
+      "plural": "Abschlussprüfungen",
+      "meaning": "final exam"
+    },
+    {
+      "id": "A2_K11_015",
+      "word": "die Fete",
+      "plural": "Feten",
+      "meaning": "party"
+    },
+    {
+      "id": "A2_K11_016",
+      "word": "das Heimweh (Singular)",
+      "meaning": "homesickness"
+    },
+    {
+      "id": "A2_K11_017",
+      "word": "der Kiosk",
+      "plural": "Kioske",
+      "meaning": "kiosk"
+    },
+    {
+      "id": "A2_K11_018",
+      "word": "pensioniert",
+      "meaning": "retired"
+    },
+    {
+      "id": "A2_K11_019",
+      "word": "sparen",
+      "meaning": "to save"
+    },
+    {
+      "id": "A2_K11_020",
+      "word": "die Bibliothek",
+      "plural": "Bibliotheken",
+      "meaning": "library"
+    },
+    {
+      "id": "A2_K11_021",
+      "word": "der Rentner",
+      "plural": "Rentner",
+      "meaning": "retiree, pensioner"
+    },
+    {
+      "id": "A2_K11_022",
+      "word": "die Rentnerin",
+      "plural": "Rentnerinnen",
+      "meaning": "retiree, pensioner"
+    },
+    {
+      "id": "A2_K11_023",
+      "word": "die Lebensphase",
+      "plural": "Lebensphasen",
+      "meaning": "phase of life"
+    },
+    {
+      "id": "A2_K11_024",
+      "word": "unter",
+      "meaning": "here: during",
+      "example": "Unter der Woche habe ich oft keine Zeit für meine Hobbys."
+    },
+    {
+      "id": "A2_K11_025",
+      "word": "womit",
+      "meaning": "with what"
+    },
+    {
+      "id": "A2_K11_026",
+      "word": "öfter",
+      "meaning": "more often"
+    },
+    {
+      "id": "A2_K11_027",
+      "word": "unternehmen (unternimmt, hat unternommen)",
+      "meaning": "to undertake"
+    },
+    {
+      "id": "A2_K11_028",
+      "word": "austeilen",
+      "meaning": "to distribute"
+    },
+    {
+      "id": "A2_K11_029",
+      "word": "erledigen",
+      "meaning": "to settle, handle, take care of"
+    },
+    {
+      "id": "A2_K11_030",
+      "word": "klingeln",
+      "meaning": "to ring"
+    },
+    {
+      "id": "A2_K11_031",
+      "word": "ständig",
+      "meaning": "constantly"
+    },
+    {
+      "id": "A2_K11_032",
+      "word": "streiten (sich) (streitet, hat gestritten)",
+      "meaning": "to argue"
+    },
+    {
+      "id": "A2_K11_033",
+      "word": "die Mittagspause",
+      "plural": "Mittagspausen",
+      "meaning": "lunch break"
+    },
+    {
+      "id": "A2_K11_034",
+      "word": "das Kajak",
+      "plural": "Kajaks",
+      "meaning": "kayak"
+    },
+    {
+      "id": "A2_K11_035",
+      "word": "der Kajak-Ausflug",
+      "plural": "Kajak-Ausflüge",
+      "meaning": "kayak excursion"
+    },
+    {
+      "id": "A2_K11_036",
+      "word": "zusammengehören",
+      "meaning": "to fit together"
+    },
+    {
+      "id": "A2_K11_037",
+      "word": "aus",
+      "meaning": "here: according to",
+      "example": "Von mir aus gern."
+    },
+    {
+      "id": "A2_K11_038",
+      "word": "der Gegenvorschlag",
+      "plural": "Gegenvorschläge",
+      "meaning": "counterproposal"
+    },
+    {
+      "id": "A2_K11_039",
+      "word": "die Kategorie",
+      "plural": "Kategorien",
+      "meaning": "category"
+    },
+    {
+      "id": "A2_K11_040",
+      "word": "recht haben",
+      "meaning": "to be correct"
+    },
+    {
+      "id": "A2_K11_041",
+      "word": "bestens",
+      "meaning": "very well",
+      "example": "Wie geht‘s dir? – Alles bestens."
+    },
+    {
+      "id": "A2_K11_042",
+      "word": "die Stimmung",
+      "plural": "Stimmungen",
+      "meaning": "mood"
+    },
+    {
+      "id": "A2_K11_043",
+      "word": "worauf",
+      "meaning": "what + prep."
+    },
+    {
+      "id": "A2_K11_044",
+      "word": "diskutieren (über + Akk.)",
+      "meaning": "to discuss"
+    },
+    {
+      "id": "A2_K11_045",
+      "word": "interessieren (sich) (für + Akk.)",
+      "meaning": "to be interested in"
+    },
+    {
+      "id": "A2_K11_046",
+      "word": "unterhalten (sich) (über + Akk.)",
+      "meaning": "to converse"
+    },
+    {
+      "id": "A2_K11_047",
+      "word": "statt",
+      "meaning": "instead"
+    },
+    {
+      "id": "A2_K11_048",
+      "word": "betonen",
+      "meaning": "to emphasize"
+    },
+    {
+      "id": "A2_K11_049",
+      "word": "der Sprecher",
+      "plural": "Sprecher",
+      "meaning": "speaker"
+    },
+    {
+      "id": "A2_K11_050",
+      "word": "der Apfelkuchen",
+      "plural": "Apfelkuchen",
+      "meaning": "apple pie"
+    },
+    {
+      "id": "A2_K11_051",
+      "word": "die Kajaktour",
+      "plural": "Kajaktouren",
+      "meaning": "kayak tour"
+    },
+    {
+      "id": "A2_K11_052",
+      "word": "das Abenteuer",
+      "plural": "Abenteuer",
+      "meaning": "adventure"
+    },
+    {
+      "id": "A2_K11_053",
+      "word": "aussuchen",
+      "meaning": "to select"
+    },
+    {
+      "id": "A2_K11_054",
+      "word": "erschließen (erschließt, hat erschlossen)",
+      "meaning": "to infer"
+    },
+    {
+      "id": "A2_K11_055",
+      "word": "der Fernsehsender",
+      "plural": "Fernsehsender",
+      "meaning": "TV station"
+    },
+    {
+      "id": "A2_K11_056",
+      "word": "das Filmteam",
+      "plural": "Filmteams",
+      "meaning": "film crew"
+    },
+    {
+      "id": "A2_K11_057",
+      "word": "fließend",
+      "meaning": "running",
+      "example": "Auf dem Bauernhof gibt es kein fließendes Wasser."
+    },
+    {
+      "id": "A2_K11_058",
+      "word": "füllen",
+      "meaning": "to fill"
+    },
+    {
+      "id": "A2_K11_059",
+      "word": "das Kerzenlicht",
+      "plural": "Kerzenlichter",
+      "meaning": "candlelight"
+    },
+    {
+      "id": "A2_K11_060",
+      "word": "der Kontext",
+      "plural": "Kontexte",
+      "meaning": "context"
+    },
+    {
+      "id": "A2_K11_061",
+      "word": "die Lücke",
+      "plural": "Lücken",
+      "meaning": "gap"
+    },
+    {
+      "id": "A2_K11_062",
+      "word": "der/das Maracuja-Joghurt",
+      "plural": "Maracuja-Joghurts",
+      "meaning": "passion fruit yogurt"
+    },
+    {
+      "id": "A2_K11_063",
+      "word": "sinnvoll",
+      "meaning": "meaningful"
+    },
+    {
+      "id": "A2_K11_064",
+      "word": "sondern auch",
+      "meaning": "but also"
+    },
+    {
+      "id": "A2_K11_065",
+      "word": "die Zeitreise",
+      "plural": "Zeitreisen",
+      "meaning": "time travel"
+    },
+    {
+      "id": "A2_K11_066",
+      "word": "zurückreisen (reist zurück, ist zurückgereist)",
+      "meaning": "to travel back"
+    },
+    {
+      "id": "A2_K11_067",
+      "word": "entwerfen (entwirft, hat entworfen)",
+      "meaning": "to design, plan"
+    },
+    {
+      "id": "A2_K11_068",
+      "word": "das Werbeplakat",
+      "plural": "Werbeplakate",
+      "meaning": "advertising poster"
+    },
+    {
+      "id": "A2_K11_069",
+      "word": "der Zeitpunkt",
+      "plural": "Zeitpunkte",
+      "meaning": "moment in time"
+    },
+    {
+      "id": "A2_K11_070",
+      "word": "afrikanisch",
+      "meaning": "African"
+    },
+    {
+      "id": "A2_K11_071",
+      "word": "das Gold (Singular)",
+      "meaning": "gold"
+    },
+    {
+      "id": "A2_K11_072",
+      "word": "das Gras",
+      "plural": "Gräser",
+      "meaning": "grass"
+    },
+    {
+      "id": "A2_K11_073",
+      "word": "heilen",
+      "meaning": "to heal"
+    },
+    {
+      "id": "A2_K11_074",
+      "word": "die Morgenstunde",
+      "plural": "Morgenstunden",
+      "meaning": "morningtime"
+    },
+    {
+      "id": "A2_K11_075",
+      "word": "scheinen (scheint, hat geschienen)",
+      "meaning": "to seem, appear",
+      "example": "Dem Wartenden scheinen Minuten Jahre zu sein."
+    },
+    {
+      "id": "A2_K11_076",
+      "word": "das Sprichwort",
+      "plural": "Sprichwörter",
+      "meaning": "proverb"
+    },
+    {
+      "id": "A2_K11_077",
+      "word": "wachsen (wächst, ist gewachsen)",
+      "meaning": "to grow"
+    },
+    {
+      "id": "A2_K11_078",
+      "word": "der/die Wartende",
+      "plural": "Wartenden",
+      "meaning": "someone who waits"
+    },
+    {
+      "id": "A2_K11_079",
+      "word": "die Wunde",
+      "plural": "Wunden",
+      "meaning": "wound"
+    },
+    {
+      "id": "A2_K11_080",
+      "word": "abhängen (hängt ab, hat abgehangen)",
+      "meaning": "to depend"
+    },
+    {
+      "id": "A2_K11_081",
+      "word": "effektiv",
+      "meaning": "effective (ly)"
+    },
+    {
+      "id": "A2_K11_082",
+      "word": "die Geduld (Singular)",
+      "meaning": "patience"
+    },
+    {
+      "id": "A2_K11_083",
+      "word": "einbauen",
+      "meaning": "to incorporate"
     }
   ]
 }

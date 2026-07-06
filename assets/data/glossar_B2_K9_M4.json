@@ -5,10 +5,632 @@
   "words": [
     {
       "id": "B2_K9_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "melancholisch",
+      "meaning": "melancholic"
+    },
+    {
+      "id": "B2_K9_M4_002",
+      "word": "einfrieren, fror ein, hat eingefroren",
+      "meaning": "freeze, froze, has frozen"
+    },
+    {
+      "id": "B2_K9_M4_003",
+      "word": "das Endorphin",
+      "plural": "die Endorphine",
+      "meaning": "endorphin"
+    },
+    {
+      "id": "B2_K9_M4_004",
+      "word": "das Feuerwerk",
+      "plural": "die Feuerwerke",
+      "meaning": "the fireworks, -e"
+    },
+    {
+      "id": "B2_K9_M4_005",
+      "word": "das Grab",
+      "plural": "die Gräber",
+      "meaning": "grave"
+    },
+    {
+      "id": "B2_K9_M4_006",
+      "word": "das Hoch",
+      "plural": "die Hochs",
+      "meaning": "high",
+      "example": "Ein Hoch auf uns!"
+    },
+    {
+      "id": "B2_K9_M4_007",
+      "word": "die Reue (Sg.)",
+      "meaning": "repentance (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_008",
+      "word": "schwören, schwor, hat geschworen",
+      "meaning": "swear, swear, swore"
+    },
+    {
+      "id": "B2_K9_M4_009",
+      "word": "die Träne",
+      "plural": "die Tränen",
+      "meaning": "the tears"
+    },
+    {
+      "id": "B2_K9_M4_010",
+      "word": "die Treue (Sg.)",
+      "meaning": "loyalty (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_011",
+      "word": "die Unendlichkeit (Sg.)",
+      "meaning": "infinity (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_012",
+      "word": "unsterblich",
+      "meaning": "immortal"
+    },
+    {
+      "id": "B2_K9_M4_013",
+      "word": "vergolden",
+      "meaning": "gild"
+    },
+    {
+      "id": "B2_K9_M4_014",
+      "word": "ziehen, zog, ist gezogen (von Ort zu Ort ziehen)",
+      "meaning": "drag, drag, is dragged (from place to place pull)"
+    },
+    {
+      "id": "B2_K9_M4_015",
+      "word": "1d der Refrain, -s",
+      "meaning": "1d chorus"
+    },
+    {
+      "id": "B2_K9_M4_016",
+      "word": "pessimistisch (gegenüber + D.)",
+      "meaning": "pessimistic (opposite + D.)"
+    },
+    {
+      "id": "B2_K9_M4_017",
+      "word": "die Angstreaktion",
+      "plural": "die Angstreaktionen",
+      "meaning": "fear reaction"
+    },
+    {
+      "id": "B2_K9_M4_018",
+      "word": "der Badesee",
+      "plural": "die Badeseen",
+      "meaning": "bathing lake"
+    },
+    {
+      "id": "B2_K9_M4_019",
+      "word": "die Notwendigkeit",
+      "plural": "die Notwendigkeiten",
+      "meaning": "need"
+    },
+    {
+      "id": "B2_K9_M4_020",
+      "word": "vorausdenken, dachte voraus, hat",
+      "meaning": "thinking ahead, thinking ahead, has"
+    },
+    {
+      "id": "B2_K9_M4_021",
+      "word": "vorausgedacht",
+      "meaning": "thought ahead"
+    },
+    {
+      "id": "B2_K9_M4_022",
+      "word": "der Gedankenschritt",
+      "plural": "die Gedankenschritte",
+      "meaning": "thought step"
+    },
+    {
+      "id": "B2_K9_M4_023",
+      "word": "der Lesetext",
+      "plural": "die Lesetexte",
+      "meaning": "reading text"
+    },
+    {
+      "id": "B2_K9_M4_024",
+      "word": "der Pfeil",
+      "plural": "die Pfeile",
+      "meaning": "arrow"
+    },
+    {
+      "id": "B2_K9_M4_025",
+      "word": "strukturiert",
+      "meaning": "structured"
+    },
+    {
+      "id": "B2_K9_M4_026",
+      "word": "der Verstand (Sg.)",
+      "meaning": "the mind (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_027",
+      "word": "ausfallen, fiel aus, ist ausgefallen",
+      "meaning": "fail, failed, has failed",
+      "example": "Seine Entscheidung fällt positiv aus."
+    },
+    {
+      "id": "B2_K9_M4_028",
+      "word": "der Bauch (Schmetterlinge im Bauch haben)",
+      "plural": "die Baüche",
+      "meaning": "belly (butterflies in the belly to have)"
+    },
+    {
+      "id": "B2_K9_M4_029",
+      "word": "das Dilemma",
+      "plural": "die Dilemmas",
+      "meaning": "dilemma"
+    },
+    {
+      "id": "B2_K9_M4_030",
+      "word": "einholen",
+      "meaning": "catch up"
+    },
+    {
+      "id": "B2_K9_M4_031",
+      "word": "fällen (eine Entscheidung fällen)",
+      "meaning": "make a decision"
+    },
+    {
+      "id": "B2_K9_M4_032",
+      "word": "die Fehlentscheidung",
+      "plural": "die Fehlentscheidungen",
+      "meaning": "wrong decision"
+    },
+    {
+      "id": "B2_K9_M4_033",
+      "word": "die Gefahr (Gefahr laufen)",
+      "plural": "die Gefahren",
+      "meaning": "danger"
+    },
+    {
+      "id": "B2_K9_M4_034",
+      "word": "das Gewissen (Sg.) (nach bestem Wissen und Gewissen)",
+      "meaning": "conscience (Sg.) (to the best of our knowledge and conscience)"
+    },
+    {
+      "id": "B2_K9_M4_035",
+      "word": "investieren (in + A.)",
+      "meaning": "invest (in + A.)"
+    },
+    {
+      "id": "B2_K9_M4_036",
+      "word": "die Investition",
+      "plural": "die Investitionen",
+      "meaning": "investment"
+    },
+    {
+      "id": "B2_K9_M4_037",
+      "word": "laufen, lief, ist gelaufen (Gefahr laufen)",
+      "meaning": "run, ran, ran (danger)"
+    },
+    {
+      "id": "B2_K9_M4_038",
+      "word": "limitiert",
+      "meaning": "limited"
+    },
+    {
+      "id": "B2_K9_M4_039",
+      "word": "der Magen (einen Stein im Magen haben)",
+      "plural": "die Mägen",
+      "meaning": "stomach, \"- (a stone in the stomach to have)"
+    },
+    {
+      "id": "B2_K9_M4_040",
+      "word": "der Schmetterling (Schmetterlinge im Bauch haben)",
+      "plural": "die Schmetterlinge",
+      "meaning": "butterfly (butterflies in the Have a stomach)"
+    },
+    {
+      "id": "B2_K9_M4_041",
+      "word": "das Schnäppchen",
+      "plural": "die Schnäppchen",
+      "meaning": "bargain, -"
+    },
+    {
+      "id": "B2_K9_M4_042",
+      "word": "das Selbstbewusstsein (Sg.)",
+      "meaning": "self-confidence (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_043",
+      "word": "selbstsicher",
+      "meaning": "self confident"
+    },
+    {
+      "id": "B2_K9_M4_044",
+      "word": "das Shopping (Sg.)",
+      "meaning": "shopping (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_045",
+      "word": "der Stein (einen Stein im Magen haben)",
+      "plural": "die Steine",
+      "meaning": "stone (to have a stone in the stomach)"
+    },
+    {
+      "id": "B2_K9_M4_046",
+      "word": "das Urteilsvermögen (Sg.)",
+      "meaning": "judgment (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_047",
+      "word": "die Eigeninitiative (Sg.)",
+      "meaning": "initiative (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_048",
+      "word": "der Jobwechsel",
+      "plural": "die Jobwechsel",
+      "meaning": "job change"
+    },
+    {
+      "id": "B2_K9_M4_049",
+      "word": "neulich",
+      "meaning": "recently"
+    },
+    {
+      "id": "B2_K9_M4_050",
+      "word": "die Routine",
+      "plural": "die Routinen",
+      "meaning": "routine"
+    },
+    {
+      "id": "B2_K9_M4_051",
+      "word": "die Wochenendbeziehung",
+      "plural": "die Wochenendbeziehungen",
+      "meaning": "weekend relationship"
+    },
+    {
+      "id": "B2_K9_M4_052",
+      "word": "die Entscheidung (zu einer Entscheidung kommen)",
+      "plural": "die Entscheidungen",
+      "meaning": "the decision to (to a Decision come)"
+    },
+    {
+      "id": "B2_K9_M4_053",
+      "word": "der Kleiderschrank",
+      "plural": "die Kleiderschränke",
+      "meaning": "wardrobe"
+    },
+    {
+      "id": "B2_K9_M4_054",
+      "word": "zugreifen, griff zu, hat zugegriffen",
+      "meaning": "access, access, has accessed"
+    },
+    {
+      "id": "B2_K9_M4_055",
+      "word": "der Blaumann",
+      "plural": "die Blaumänner",
+      "meaning": "overalls"
+    },
+    {
+      "id": "B2_K9_M4_056",
+      "word": "das Business-Outfit",
+      "plural": "die Business-Outfits",
+      "meaning": "business outfit"
+    },
+    {
+      "id": "B2_K9_M4_057",
+      "word": "das Date",
+      "plural": "die Daten",
+      "meaning": "date",
+      "example": "Ich habe heute ein Date mit dem Typ von Marinas Party."
+    },
+    {
+      "id": "B2_K9_M4_058",
+      "word": "der Kundenkontakt",
+      "plural": "die Kundenkontakte",
+      "meaning": "customer contact"
+    },
+    {
+      "id": "B2_K9_M4_059",
+      "word": "der Oldtimer",
+      "plural": "die Oldtimer",
+      "meaning": "oldtimer"
+    },
+    {
+      "id": "B2_K9_M4_060",
+      "word": "die Schale (sich in Schale schmeißen)",
+      "plural": "die Schalen",
+      "meaning": "bowl (to throw oneself in a bowl)"
+    },
+    {
+      "id": "B2_K9_M4_061",
+      "word": "schmeißen (sich), schmiss, hat",
+      "meaning": "throw, throw, has"
+    },
+    {
+      "id": "B2_K9_M4_062",
+      "word": "geschmissen (sich in Schale schmeißen)",
+      "meaning": "thrown (to throw oneself in a bowl)"
+    },
+    {
+      "id": "B2_K9_M4_063",
+      "word": "shoppen",
+      "meaning": "shopping"
+    },
+    {
+      "id": "B2_K9_M4_064",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K9_M4_065",
+      "word": "ähneln",
+      "meaning": "resemble"
+    },
+    {
+      "id": "B2_K9_M4_066",
+      "word": "die Alltagssprache (Sg.)",
+      "meaning": "everyday language (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_067",
+      "word": "die Arbeitschance",
+      "plural": "die Arbeitschancen",
+      "meaning": "job opportunity"
+    },
+    {
+      "id": "B2_K9_M4_068",
+      "word": "der/die Außenseiter/in",
+      "meaning": "outsider"
+    },
+    {
+      "id": "B2_K9_M4_069",
+      "word": "bankrott",
+      "meaning": "bankrupt"
+    },
+    {
+      "id": "B2_K9_M4_070",
+      "word": "bedeutend",
+      "meaning": "significantly"
+    },
+    {
+      "id": "B2_K9_M4_071",
+      "word": "beerdigen",
+      "meaning": "bury"
+    },
+    {
+      "id": "B2_K9_M4_072",
+      "word": "befassen (sich) (mit + D.)",
+      "meaning": "deal (with + D.)"
+    },
+    {
+      "id": "B2_K9_M4_073",
+      "word": "der/die Bewunderer/Bewunderin",
+      "meaning": "admirer"
+    },
+    {
+      "id": "B2_K9_M4_074",
+      "word": "der Bezug (einen Bezug haben zu)",
+      "plural": "die Bezüge",
+      "meaning": "reference (have a reference to)"
+    },
+    {
+      "id": "B2_K9_M4_075",
+      "word": "daraufhin",
+      "meaning": "thereupon"
+    },
+    {
+      "id": "B2_K9_M4_076",
+      "word": "der/die Dichter/in",
+      "meaning": "poet"
+    },
+    {
+      "id": "B2_K9_M4_077",
+      "word": "die Einnahme (Sg.) (die Einnahme von Medikamenten)",
+      "meaning": "ingestion (Sg.) (ingestion of drugs)"
+    },
+    {
+      "id": "B2_K9_M4_078",
+      "word": "entlaufen, entlief, ist entlaufen",
+      "meaning": "run away, ran away, ran away"
+    },
+    {
+      "id": "B2_K9_M4_079",
+      "word": "der/die Essayist/in",
+      "meaning": "essayist"
+    },
+    {
+      "id": "B2_K9_M4_080",
+      "word": "der Feuilleton",
+      "plural": "die Feuilletons",
+      "meaning": "feuilleton"
+    },
+    {
+      "id": "B2_K9_M4_081",
+      "word": "der Friedhof",
+      "plural": "die Friedhöfe",
+      "meaning": "cemetery"
+    },
+    {
+      "id": "B2_K9_M4_082",
+      "word": "die Gesellschaftskritik (Sg.)",
+      "meaning": "social criticism (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_083",
+      "word": "die Gesetzesreform",
+      "plural": "die Gesetzesreformen",
+      "meaning": "law reform"
+    },
+    {
+      "id": "B2_K9_M4_084",
+      "word": "die Grenze (eine Grenze ziehen)",
+      "plural": "die Grenzen",
+      "meaning": "border (draw a border)"
+    },
+    {
+      "id": "B2_K9_M4_085",
+      "word": "die Handelsschule",
+      "plural": "die Handelsschulen",
+      "meaning": "business school"
+    },
+    {
+      "id": "B2_K9_M4_086",
+      "word": "die Kunstform",
+      "plural": "die Kunstformen",
+      "meaning": "art form"
+    },
+    {
+      "id": "B2_K9_M4_087",
+      "word": "die Liberalität (Sg.)",
+      "meaning": "liberality (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_088",
+      "word": "die Lyrik (Sg.)",
+      "meaning": "poetry (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_089",
+      "word": "mythologisch",
+      "meaning": "mythological"
+    },
+    {
+      "id": "B2_K9_M4_090",
+      "word": "die Niederlage",
+      "plural": "die Niederlagen",
+      "meaning": "defeat"
+    },
+    {
+      "id": "B2_K9_M4_091",
+      "word": "parodieren",
+      "meaning": "parody"
+    },
+    {
+      "id": "B2_K9_M4_092",
+      "word": "der/die Philosoph/in",
+      "meaning": "philosopher"
+    },
+    {
+      "id": "B2_K9_M4_093",
+      "word": "prägen",
+      "meaning": "shape"
+    },
+    {
+      "id": "B2_K9_M4_094",
+      "word": "die Rechtswissenschaft",
+      "plural": "die Rechtswissenschaften",
+      "meaning": "law"
+    },
+    {
+      "id": "B2_K9_M4_095",
+      "word": "die Romantik (Sg.)",
+      "meaning": "romance (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_096",
+      "word": "der/die Romantiker/in",
+      "meaning": "romantic"
+    },
+    {
+      "id": "B2_K9_M4_097",
+      "word": "der/die Satiriker/in",
+      "meaning": "satirist"
+    },
+    {
+      "id": "B2_K9_M4_098",
+      "word": "satirisch",
+      "meaning": "satirical"
+    },
+    {
+      "id": "B2_K9_M4_099",
+      "word": "die Schaffensperiode",
+      "plural": "die Schaffensperioden",
+      "meaning": "creative period"
+    },
+    {
+      "id": "B2_K9_M4_100",
+      "word": "der/die Schriftsteller/in",
+      "meaning": "writer"
+    },
+    {
+      "id": "B2_K9_M4_101",
+      "word": "der Spott (Sg.)",
+      "meaning": "derision (Sg.)"
+    },
+    {
+      "id": "B2_K9_M4_102",
+      "word": "stetig",
+      "meaning": "steady"
+    },
+    {
+      "id": "B2_K9_M4_103",
+      "word": "überschatten",
+      "meaning": "overshadow"
+    },
+    {
+      "id": "B2_K9_M4_104",
+      "word": "die Übertreibung",
+      "plural": "die Übertreibungen",
+      "meaning": "exaggeration"
+    },
+    {
+      "id": "B2_K9_M4_105",
+      "word": "unerfüllt",
+      "meaning": "unfulfilled"
+    },
+    {
+      "id": "B2_K9_M4_106",
+      "word": "ungehört",
+      "meaning": "unheard"
+    },
+    {
+      "id": "B2_K9_M4_107",
+      "word": "verärgern",
+      "meaning": "annoy"
+    },
+    {
+      "id": "B2_K9_M4_108",
+      "word": "verdeckt",
+      "meaning": "concealed"
+    },
+    {
+      "id": "B2_K9_M4_109",
+      "word": "vertonen",
+      "meaning": "set to music"
+    },
+    {
+      "id": "B2_K9_M4_110",
+      "word": "die Vielzahl (Sg.)",
+      "meaning": "multitude"
+    },
+    {
+      "id": "B2_K9_M4_111",
+      "word": "das Volkslied",
+      "plural": "die Volkslieder",
+      "meaning": "folk song"
+    },
+    {
+      "id": "B2_K9_M4_112",
+      "word": "das Volontariat",
+      "plural": "die Volontariate",
+      "meaning": "traineeship"
+    },
+    {
+      "id": "B2_K9_M4_113",
+      "word": "die Vorlesung",
+      "plural": "die Vorlesungen",
+      "meaning": "lecture"
+    },
+    {
+      "id": "B2_K9_M4_114",
+      "word": "der/die Witwer/Witwe",
+      "meaning": "widower / widow"
+    },
+    {
+      "id": "B2_K9_M4_115",
+      "word": "die Zensur (Sg.)",
+      "meaning": "censorship"
+    },
+    {
+      "id": "B2_K9_M4_116",
+      "word": "ziehen, zog, hat gezogen (eine Grenze ziehen)",
+      "meaning": "to pull, to pull, to pull (a boundary pull)"
     }
   ]
 }

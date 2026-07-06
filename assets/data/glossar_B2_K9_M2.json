@@ -5,10 +5,78 @@
   "words": [
     {
       "id": "B2_K9_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Pessimismus (Sg.)",
+      "meaning": "pessimism (Sg.)"
+    },
+    {
+      "id": "B2_K9_M2_002",
+      "word": "die Reinheit (Sg.)",
+      "meaning": "purity (Sg.)"
+    },
+    {
+      "id": "B2_K9_M2_003",
+      "word": "die Trauer (Sg.)",
+      "meaning": "grief (Sg.)"
+    },
+    {
+      "id": "B2_K9_M2_004",
+      "word": "die Verzweiflung (Sg.)",
+      "meaning": "despair (Sg.)"
+    },
+    {
+      "id": "B2_K9_M2_005",
+      "word": "ärgern (sich) (über + A.) (sich schwarz ärgern)",
+      "meaning": "annoy (themselves) (about + A.) (themselves black to annoy)"
+    },
+    {
+      "id": "B2_K9_M2_006",
+      "word": "der Himmel (das Blaue vom Himmel versprechen)",
+      "plural": "die Himmel",
+      "meaning": "sky, - (the blue of the sky promise)"
+    },
+    {
+      "id": "B2_K9_M2_007",
+      "word": "schwarz (sich schwarz ärgern)",
+      "meaning": "black (annoyed black)"
+    },
+    {
+      "id": "B2_K9_M2_008",
+      "word": "verstärken",
+      "meaning": "strengthen"
+    },
+    {
+      "id": "B2_K9_M2_009",
+      "word": "die Weste (eine weiße Weste haben)",
+      "plural": "die Westen",
+      "meaning": "vest (have a white vest)"
+    },
+    {
+      "id": "B2_K9_M2_010",
+      "word": "das Ampelprinzip (Sg.)",
+      "meaning": "the traffic light principle",
+      "example": "Essen Sie nach dem Ampelprinzip täglich eine Mischung aus rotem, gelbem, grünem Gemüse und Obst."
+    },
+    {
+      "id": "B2_K9_M2_011",
+      "word": "depressiv",
+      "meaning": "depressive"
+    },
+    {
+      "id": "B2_K9_M2_012",
+      "word": "der Kurzvortrag",
+      "plural": "die Kurzvorträge",
+      "meaning": "short lecture"
+    },
+    {
+      "id": "B2_K9_M2_013",
+      "word": "die Stellung (zu etw. Stellung nehmen)",
+      "plural": "die Stellungen",
+      "meaning": "position (to sth to take)"
+    },
+    {
+      "id": "B2_K9_M2_014",
+      "word": "behaupten",
+      "meaning": "claim"
     }
   ]
 }

@@ -5,10 +5,505 @@
   "words": [
     {
       "id": "B2_K4_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "abgeben, gab ab, hat abgegeben (etw. gegen eine niedrige Gebühr abgeben)",
+      "meaning": "surrendered, surrendered, surrendered (sth. for a small fee)"
+    },
+    {
+      "id": "B2_K4_M2_002",
+      "word": "akut",
+      "meaning": "acute"
+    },
+    {
+      "id": "B2_K4_M2_003",
+      "word": "anbringen, brachte an, hat angebracht",
+      "meaning": "attach, attached, attached",
+      "example": "Der Kasten ist neben der Tür angebracht."
+    },
+    {
+      "id": "B2_K4_M2_004",
+      "word": "anerkannt (bei + D. / in + D.)",
+      "meaning": "recognized (at + D. / in + D.)"
+    },
+    {
+      "id": "B2_K4_M2_005",
+      "word": "der Arbeitslohn",
+      "plural": "die Arbeitslöhne",
+      "meaning": "wages"
+    },
+    {
+      "id": "B2_K4_M2_006",
+      "word": "der/die Asylberechtigte",
+      "plural": "die Asylberechtigten",
+      "meaning": "the person entitled to asylum"
+    },
+    {
+      "id": "B2_K4_M2_007",
+      "word": "aufbereiten",
+      "meaning": "reprocess",
+      "example": "Die Kleidungsstücke werden gereinigt und wieder aufbereitet."
+    },
+    {
+      "id": "B2_K4_M2_008",
+      "word": "der Aufruf",
+      "plural": "die Aufrufe",
+      "meaning": "call"
+    },
+    {
+      "id": "B2_K4_M2_009",
+      "word": "der Auftakt",
+      "plural": "die Auftakte",
+      "meaning": "prelude"
+    },
+    {
+      "id": "B2_K4_M2_010",
+      "word": "ausgeliefert sein",
+      "meaning": "be delivered"
+    },
+    {
+      "id": "B2_K4_M2_011",
+      "word": "die Ausgrenzung (soziale Ausgrenzung)",
+      "plural": "die Ausgrenzungen",
+      "meaning": "exclusion (social exclusion)"
+    },
+    {
+      "id": "B2_K4_M2_012",
+      "word": "ausmachen",
+      "meaning": "make up",
+      "example": "Reichen Leuten machen hohe Kosten wenig aus."
+    },
+    {
+      "id": "B2_K4_M2_013",
+      "word": "ausreichen",
+      "meaning": "suffice"
+    },
+    {
+      "id": "B2_K4_M2_014",
+      "word": "die Auswirkung",
+      "plural": "die Auswirkungen",
+      "meaning": "effects"
+    },
+    {
+      "id": "B2_K4_M2_015",
+      "word": "bedürftig (nach + D.)",
+      "meaning": "in need (after + D.)"
+    },
+    {
+      "id": "B2_K4_M2_016",
+      "word": "der/die Bedürftige",
+      "plural": "die Bedürftigen",
+      "meaning": "needy"
+    },
+    {
+      "id": "B2_K4_M2_017",
+      "word": "die Bestellung",
+      "plural": "die Bestellungen",
+      "meaning": "orders"
+    },
+    {
+      "id": "B2_K4_M2_018",
+      "word": "das Bettzeug",
+      "plural": "die Bettzeuge",
+      "meaning": "bedding"
+    },
+    {
+      "id": "B2_K4_M2_019",
+      "word": "das Bevölkerungswachstum (Sg.)",
+      "meaning": "population growth"
+    },
+    {
+      "id": "B2_K4_M2_020",
+      "word": "der Bildungsabschluss",
+      "plural": "die Bildungsabschlüsse",
+      "meaning": "degree"
+    },
+    {
+      "id": "B2_K4_M2_021",
+      "word": "die Bildungschance",
+      "plural": "die Bildungschancen",
+      "meaning": "educational opportunity"
+    },
+    {
+      "id": "B2_K4_M2_022",
+      "word": "der Bildungserfolg",
+      "plural": "die Bildungserfolge",
+      "meaning": "educational success"
+    },
+    {
+      "id": "B2_K4_M2_023",
+      "word": "die Bildungserwartung",
+      "plural": "die Bildungserwartungen",
+      "meaning": "educational expectations"
+    },
+    {
+      "id": "B2_K4_M2_024",
+      "word": "definieren",
+      "meaning": "define"
+    },
+    {
+      "id": "B2_K4_M2_025",
+      "word": "die Dürreperiode",
+      "plural": "die Dürreperioden",
+      "meaning": "drought period"
+    },
+    {
+      "id": "B2_K4_M2_026",
+      "word": "einwerfen, warf ein, hat eingeworfen",
+      "meaning": "to throw in, to throw in, to threw in",
+      "example": "Wirf die Post im Briefkasten ein."
+    },
+    {
+      "id": "B2_K4_M2_027",
+      "word": "die Entstehung",
+      "plural": "die Entstehungen",
+      "meaning": "creation"
+    },
+    {
+      "id": "B2_K4_M2_028",
+      "word": "die Epidemie",
+      "plural": "die Epidemien",
+      "meaning": "epidemic"
+    },
+    {
+      "id": "B2_K4_M2_029",
+      "word": "erachten (als)",
+      "meaning": "consider (as)"
+    },
+    {
+      "id": "B2_K4_M2_030",
+      "word": "erfassen",
+      "meaning": "to capture"
+    },
+    {
+      "id": "B2_K4_M2_031",
+      "word": "erhalten, erhielt, hat erhalten (gut erhaltene Kleidungsstücke)",
+      "meaning": "received, received, received (good garments received)"
+    },
+    {
+      "id": "B2_K4_M2_032",
+      "word": "die Ernte",
+      "plural": "die Ernten",
+      "meaning": "harvest"
+    },
+    {
+      "id": "B2_K4_M2_033",
+      "word": "erstrebenswert",
+      "meaning": "desirable"
+    },
+    {
+      "id": "B2_K4_M2_034",
+      "word": "erwerben, erwarb, hat erworben",
+      "meaning": "acquire, acquired, acquired"
+    },
+    {
+      "id": "B2_K4_M2_035",
+      "word": "existieren",
+      "meaning": "exist"
+    },
+    {
+      "id": "B2_K4_M2_036",
+      "word": "der Flüchtling",
+      "plural": "die Flüchtlinge",
+      "meaning": "refugee"
+    },
+    {
+      "id": "B2_K4_M2_037",
+      "word": "folglich",
+      "meaning": "consequently"
+    },
+    {
+      "id": "B2_K4_M2_038",
+      "word": "die Fördermaßnahme",
+      "plural": "die Fördermaßnahmen",
+      "meaning": "funding measure"
+    },
+    {
+      "id": "B2_K4_M2_039",
+      "word": "der Frühbucherrabatt",
+      "plural": "die Frühbucherrabatte",
+      "meaning": "early bird discount"
+    },
+    {
+      "id": "B2_K4_M2_040",
+      "word": "gebraucht",
+      "meaning": "second hand"
+    },
+    {
+      "id": "B2_K4_M2_041",
+      "word": "die Gebühr",
+      "plural": "die Gebühren",
+      "meaning": "fees"
+    },
+    {
+      "id": "B2_K4_M2_042",
+      "word": "gedacht (für + A.)",
+      "meaning": "thought (The project is for People without permanent residence thought.)",
+      "example": "Das Projekt ist für Menschen ohne festen Wohnsitz gedacht."
+    },
+    {
+      "id": "B2_K4_M2_043",
+      "word": "das Gelände",
+      "plural": "die Gelände",
+      "meaning": "site, -"
+    },
+    {
+      "id": "B2_K4_M2_044",
+      "word": "gesundheitlich",
+      "meaning": "sanitary"
+    },
+    {
+      "id": "B2_K4_M2_045",
+      "word": "der Gewaltübergriff",
+      "plural": "die Gewaltübergriffe",
+      "meaning": "violence"
+    },
+    {
+      "id": "B2_K4_M2_046",
+      "word": "die Grundlage",
+      "plural": "die Grundlagen",
+      "meaning": "basics"
+    },
+    {
+      "id": "B2_K4_M2_047",
+      "word": "haben, hatte, hat gehabt (zur Verfügung haben)",
+      "meaning": "have, had, had (available to have)"
+    },
+    {
+      "id": "B2_K4_M2_048",
+      "word": "der Hausrat (Sg.)",
+      "meaning": "household goods"
+    },
+    {
+      "id": "B2_K4_M2_049",
+      "word": "die Kleiderausgabe",
+      "plural": "die Kleiderausgaben",
+      "meaning": "clothing issue"
+    },
+    {
+      "id": "B2_K4_M2_050",
+      "word": "die Kleiderklappe",
+      "plural": "die Kleiderklappen",
+      "meaning": "clothes flap"
+    },
+    {
+      "id": "B2_K4_M2_051",
+      "word": "der Kleiderladen",
+      "plural": "die Kleiderläden",
+      "meaning": "clothes shop"
+    },
+    {
+      "id": "B2_K4_M2_052",
+      "word": "das Kleidungsstück",
+      "plural": "die Kleidungsstücke",
+      "meaning": "garment"
+    },
+    {
+      "id": "B2_K4_M2_053",
+      "word": "der Kongress",
+      "plural": "die Kongresse",
+      "meaning": "congress"
+    },
+    {
+      "id": "B2_K4_M2_054",
+      "word": "die Kongresskarte",
+      "plural": "die Kongresskarten",
+      "meaning": "congress card"
+    },
+    {
+      "id": "B2_K4_M2_055",
+      "word": "die Korruption (Sg.)",
+      "meaning": "corruption (Sg.)"
+    },
+    {
+      "id": "B2_K4_M2_056",
+      "word": "das Kriterium",
+      "meaning": "criterion, criteria"
+    },
+    {
+      "id": "B2_K4_M2_057",
+      "word": "langfristig",
+      "meaning": "long-term"
+    },
+    {
+      "id": "B2_K4_M2_058",
+      "word": "die Lebenslage",
+      "plural": "die Lebenslagen",
+      "meaning": "life situation"
+    },
+    {
+      "id": "B2_K4_M2_059",
+      "word": "die Leistungsbereitschaft (Sg.)",
+      "meaning": "willingness to perform"
+    },
+    {
+      "id": "B2_K4_M2_060",
+      "word": "der Lernerfolg",
+      "plural": "die Lernerfolge",
+      "meaning": "learning success"
+    },
+    {
+      "id": "B2_K4_M2_061",
+      "word": "das Lernmaterial",
+      "plural": "die Lernmaterialien",
+      "meaning": "learning material"
+    },
+    {
+      "id": "B2_K4_M2_062",
+      "word": "das Motto",
+      "plural": "die Mottos",
+      "meaning": "motto"
+    },
+    {
+      "id": "B2_K4_M2_063",
+      "word": "der Musikunterricht (Sg.)",
+      "meaning": "music lesson"
+    },
+    {
+      "id": "B2_K4_M2_064",
+      "word": "die Nachhilfestunde",
+      "plural": "die Nachhilfestunden",
+      "meaning": "tutoring lesson"
+    },
+    {
+      "id": "B2_K4_M2_065",
+      "word": "die Naturkatastrophe",
+      "plural": "die Naturkatastrophen",
+      "meaning": "natural disaster"
+    },
+    {
+      "id": "B2_K4_M2_066",
+      "word": "die Notlage",
+      "plural": "die Notlagen",
+      "meaning": "plight"
+    },
+    {
+      "id": "B2_K4_M2_067",
+      "word": "das Portemonnaie",
+      "plural": "die Portemonnaies",
+      "meaning": "wallet"
+    },
+    {
+      "id": "B2_K4_M2_068",
+      "word": "problemlos",
+      "meaning": "problem-free"
+    },
+    {
+      "id": "B2_K4_M2_069",
+      "word": "richten (an + A.)",
+      "meaning": "address (address your Please order to the following address: ...)",
+      "example": "Richten Sie Ihre Bestellung bitte an die folgende Adresse: …"
+    },
+    {
+      "id": "B2_K4_M2_070",
+      "word": "schätzen",
+      "meaning": "appreciate",
+      "example": "Herr Moser schätzt gebildete Leute sehr."
+    },
+    {
+      "id": "B2_K4_M2_071",
+      "word": "die Schulzeit (Sg.)",
+      "meaning": "school time"
+    },
+    {
+      "id": "B2_K4_M2_072",
+      "word": "schutzlos",
+      "meaning": "unprotected"
+    },
+    {
+      "id": "B2_K4_M2_073",
+      "word": "der/die Sozialhilfeempfänger/in",
+      "meaning": "social welfare recipient"
+    },
+    {
+      "id": "B2_K4_M2_074",
+      "word": "die Spende",
+      "plural": "die Spenden",
+      "meaning": "contributions"
+    },
+    {
+      "id": "B2_K4_M2_075",
+      "word": "spenden",
+      "meaning": "donate"
+    },
+    {
+      "id": "B2_K4_M2_076",
+      "word": "die Spendenbereitschaft (Sg.)",
+      "meaning": "willingness to donate"
+    },
+    {
+      "id": "B2_K4_M2_077",
+      "word": "der Stand",
+      "plural": "die Stände",
+      "meaning": "state",
+      "example": "Der soziale Status hängt oft mit dem Stand der Familie zusammen."
+    },
+    {
+      "id": "B2_K4_M2_078",
+      "word": "steigern",
+      "meaning": "increase"
+    },
+    {
+      "id": "B2_K4_M2_079",
+      "word": "die Strategie",
+      "plural": "die Strategien",
+      "meaning": "strategy"
+    },
+    {
+      "id": "B2_K4_M2_080",
+      "word": "thematisieren",
+      "meaning": "thematise"
+    },
+    {
+      "id": "B2_K4_M2_081",
+      "word": "überlassen, überließ, hat überlassen",
+      "meaning": "surrendered, surrendered, surrendered"
+    },
+    {
+      "id": "B2_K4_M2_082",
+      "word": "die Verfügung (Sg.) (zur Verfügung haben)",
+      "meaning": "disposal (Sg.) (to have available)"
+    },
+    {
+      "id": "B2_K4_M2_083",
+      "word": "vernichten",
+      "meaning": "destroy"
+    },
+    {
+      "id": "B2_K4_M2_084",
+      "word": "vorleben",
+      "meaning": "vorleben"
+    },
+    {
+      "id": "B2_K4_M2_085",
+      "word": "der Vortrag",
+      "plural": "die Vorträge",
+      "meaning": "lecture"
+    },
+    {
+      "id": "B2_K4_M2_086",
+      "word": "die Weltbank",
+      "plural": "die Weltbanken",
+      "meaning": "World Bank"
+    },
+    {
+      "id": "B2_K4_M2_087",
+      "word": "der Wohnsitz",
+      "plural": "die Wohnsitze",
+      "meaning": "residence"
+    },
+    {
+      "id": "B2_K4_M2_088",
+      "word": "die Zuneigung (Sg.)",
+      "meaning": "affection"
+    },
+    {
+      "id": "B2_K4_M2_089",
+      "word": "zusammenhängen (mit + D.), hing",
+      "meaning": "related (with + D.), hung"
+    },
+    {
+      "id": "B2_K4_M2_090",
+      "word": "zusammen, hat zusammengehangen",
+      "meaning": "together, was connected"
     }
   ]
 }

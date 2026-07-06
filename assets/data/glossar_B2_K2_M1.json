@@ -5,10 +5,128 @@
   "words": [
     {
       "id": "B2_K2_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Piktogramm",
+      "plural": "die Piktogramme",
+      "meaning": "pictogram"
+    },
+    {
+      "id": "B2_K2_M1_002",
+      "word": "der Anlass",
+      "plural": "die Anlässe",
+      "meaning": "occasion"
+    },
+    {
+      "id": "B2_K2_M1_003",
+      "word": "kommunizieren (mit + D.)",
+      "meaning": "communicate"
+    },
+    {
+      "id": "B2_K2_M1_004",
+      "word": "ausstrecken",
+      "meaning": "Extend"
+    },
+    {
+      "id": "B2_K2_M1_005",
+      "word": "die Auszeit",
+      "plural": "die Auszeiten",
+      "meaning": "time-out"
+    },
+    {
+      "id": "B2_K2_M1_006",
+      "word": "die Gebärdensprache (Sg.)",
+      "meaning": "sign language"
+    },
+    {
+      "id": "B2_K2_M1_007",
+      "word": "die Schranke (jmd. in die Schranken weisen)",
+      "plural": "die Schranken",
+      "meaning": "barrier (jmd. in the barriers point)"
+    },
+    {
+      "id": "B2_K2_M1_008",
+      "word": "der Stopp",
+      "plural": "die Stopps",
+      "meaning": "stop"
+    },
+    {
+      "id": "B2_K2_M1_009",
+      "word": "weisen, wies, hat gewiesen (jmd. in die Schranken weisen)",
+      "meaning": "point (so. into the Have barriers)"
+    },
+    {
+      "id": "B2_K2_M1_010",
+      "word": "die Körpersprache (Sg.)",
+      "meaning": "body language (Sg.)"
+    },
+    {
+      "id": "B2_K2_M1_011",
+      "word": "die Emotion",
+      "plural": "die Emotionen",
+      "meaning": "emotion"
+    },
+    {
+      "id": "B2_K2_M1_012",
+      "word": "das Körpersignal",
+      "plural": "die Körpersignale",
+      "meaning": "body signal"
+    },
+    {
+      "id": "B2_K2_M1_013",
+      "word": "verraten, verriet, hat verraten",
+      "meaning": "betrayed"
+    },
+    {
+      "id": "B2_K2_M1_014",
+      "word": "wesentlich",
+      "meaning": "essential"
+    },
+    {
+      "id": "B2_K2_M1_015",
+      "word": "instinktiv",
+      "meaning": "instinctively"
+    },
+    {
+      "id": "B2_K2_M1_016",
+      "word": "wahrnehmen, nahm wahr, hat wahrgenommen",
+      "meaning": "perceived"
+    },
+    {
+      "id": "B2_K2_M1_017",
+      "word": "deuten",
+      "meaning": "interpret"
+    },
+    {
+      "id": "B2_K2_M1_018",
+      "word": "die Mimik",
+      "plural": "die Mimiken",
+      "meaning": "facial expressions"
+    },
+    {
+      "id": "B2_K2_M1_019",
+      "word": "vorgeben, gab vor, hat vorgegeben",
+      "meaning": "pretend"
+    },
+    {
+      "id": "B2_K2_M1_020",
+      "word": "bestimmen",
+      "meaning": "determine"
+    },
+    {
+      "id": "B2_K2_M1_021",
+      "word": "eindeutig",
+      "meaning": "clearly"
+    },
+    {
+      "id": "B2_K2_M1_022",
+      "word": "das Signal",
+      "plural": "die Signale",
+      "meaning": "signal"
+    },
+    {
+      "id": "B2_K2_M1_023",
+      "word": "angemessen",
+      "meaning": "appropriate",
+      "example": "Deine Reaktion ist der Situation nicht angemessen."
     }
   ]
 }

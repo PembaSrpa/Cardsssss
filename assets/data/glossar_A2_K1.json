@@ -4,10 +4,651 @@
   "words": [
     {
       "id": "A2_K1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "aber",
+      "meaning": "here: but",
+      "example": "Hilfst du mir? – Aber gern."
+    },
+    {
+      "id": "A2_K1_002",
+      "word": "äußern",
+      "meaning": "to express"
+    },
+    {
+      "id": "A2_K1_003",
+      "word": "die Currywurst",
+      "plural": "Currywürste",
+      "meaning": "sausage with curry sauce (German fastfood dish)"
+    },
+    {
+      "id": "A2_K1_004",
+      "word": "decken",
+      "meaning": "to set (a table)",
+      "example": "Deck doch schon mal den Tisch."
+    },
+    {
+      "id": "A2_K1_005",
+      "word": "doch",
+      "meaning": "Yes, of course",
+      "example": "Willst du nicht probieren? – Doch, gern."
+    },
+    {
+      "id": "A2_K1_006",
+      "word": "der Durst (Singular)",
+      "meaning": "thirst"
+    },
+    {
+      "id": "A2_K1_007",
+      "word": "egal",
+      "meaning": "all the same"
+    },
+    {
+      "id": "A2_K1_008",
+      "word": "einfach",
+      "meaning": "here: just, simply",
+      "example": "Das muss einfach sein!"
+    },
+    {
+      "id": "A2_K1_009",
+      "word": "fett",
+      "meaning": "fatty",
+      "example": "Currywurst ist so fett."
+    },
+    {
+      "id": "A2_K1_010",
+      "word": "geben (gibt, hat gegeben)",
+      "meaning": "to give",
+      "example": "Kannst du mir das Brot geben, bitte?"
+    },
+    {
+      "id": "A2_K1_011",
+      "word": "das Gefühl",
+      "plural": "Gefühle",
+      "meaning": "feeling"
+    },
+    {
+      "id": "A2_K1_012",
+      "word": "der Hunger (Singular)",
+      "meaning": "hunger"
+    },
+    {
+      "id": "A2_K1_013",
+      "word": "Mensch (ohne Artikel, Singular)",
+      "meaning": "Oh man! (exclamation)",
+      "example": "Mensch, habe ich einen Hunger!"
+    },
+    {
+      "id": "A2_K1_014",
+      "word": "die Mikrowelle",
+      "plural": "Mikrowellen",
+      "meaning": "microwave"
+    },
+    {
+      "id": "A2_K1_015",
+      "word": "rauf",
+      "meaning": "up"
+    },
+    {
+      "id": "A2_K1_016",
+      "word": "riechen (riecht, hat gerochen)",
+      "meaning": "to smell"
+    },
+    {
+      "id": "A2_K1_017",
+      "word": "schon mal",
+      "meaning": "already"
+    },
+    {
+      "id": "A2_K1_018",
+      "word": "was (etwas)",
+      "meaning": "something",
+      "example": "Es gibt ja gleich was."
+    },
+    {
+      "id": "A2_K1_019",
+      "word": "schlecht",
+      "meaning": "bad"
+    },
+    {
+      "id": "A2_K1_020",
+      "word": "superlecker",
+      "meaning": "very tasty"
+    },
+    {
+      "id": "A2_K1_021",
+      "word": "bitter",
+      "meaning": "bitter"
+    },
+    {
+      "id": "A2_K1_022",
+      "word": "fett",
+      "meaning": "fat",
+      "example": "Ungesundes Essen macht fett."
+    },
+    {
+      "id": "A2_K1_023",
+      "word": "salzig",
+      "meaning": "salty"
+    },
+    {
+      "id": "A2_K1_024",
+      "word": "sauer (saurer, am sauersten)",
+      "meaning": "sour",
+      "example": "Zitronen schmecken sehr sauer."
+    },
+    {
+      "id": "A2_K1_025",
+      "word": "scharf (schärfer, am schärfsten)",
+      "meaning": "spicy"
+    },
+    {
+      "id": "A2_K1_026",
+      "word": "süß",
+      "meaning": "sweet"
+    },
+    {
+      "id": "A2_K1_027",
+      "word": "die Mensa",
+      "plural": "Mensen",
+      "meaning": "cafeteria"
+    },
+    {
+      "id": "A2_K1_028",
+      "word": "der Kochkurs",
+      "plural": "Kochkurse",
+      "meaning": "cooking class"
+    },
+    {
+      "id": "A2_K1_029",
+      "word": "die Pfanne",
+      "plural": "Pfannen",
+      "meaning": "pan"
+    },
+    {
+      "id": "A2_K1_030",
+      "word": "das Sieb",
+      "plural": "Siebe",
+      "meaning": "sieve"
+    },
+    {
+      "id": "A2_K1_031",
+      "word": "der Topf",
+      "plural": "Töpfe",
+      "meaning": "pot"
+    },
+    {
+      "id": "A2_K1_032",
+      "word": "die Zeichnung",
+      "plural": "Zeichnungen",
+      "meaning": "drawing"
+    },
+    {
+      "id": "A2_K1_033",
+      "word": "backen (bäckt, hat gebacken)",
+      "meaning": "to bake"
+    },
+    {
+      "id": "A2_K1_034",
+      "word": "begrüßen",
+      "meaning": "to greet"
+    },
+    {
+      "id": "A2_K1_035",
+      "word": "das Kochbuch",
+      "plural": "Kochbücher",
+      "meaning": "cookbook"
+    },
+    {
+      "id": "A2_K1_036",
+      "word": "der Teilnehmer",
+      "plural": "Teilnehmer",
+      "meaning": "participant"
+    },
+    {
+      "id": "A2_K1_037",
+      "word": "nachher",
+      "meaning": "afterward"
+    },
+    {
+      "id": "A2_K1_038",
+      "word": "stellen",
+      "meaning": "to pose (questions)",
+      "example": "Luisa stellt viele Fragen."
+    },
+    {
+      "id": "A2_K1_039",
+      "word": "die Ausbildung",
+      "plural": "Ausbildungen",
+      "meaning": "training, education"
+    },
+    {
+      "id": "A2_K1_040",
+      "word": "je",
+      "meaning": "each, apiece"
+    },
+    {
+      "id": "A2_K1_041",
+      "word": "der Onkel",
+      "plural": "Onkel",
+      "meaning": "uncle"
+    },
+    {
+      "id": "A2_K1_042",
+      "word": "interviewen",
+      "meaning": "to interview"
+    },
+    {
+      "id": "A2_K1_043",
+      "word": "das Fernsehen (Singular)",
+      "meaning": "television"
+    },
+    {
+      "id": "A2_K1_044",
+      "word": "kommen (kommt, ist gekommen)",
+      "meaning": "here: to be on, to be shown",
+      "example": "Was kommt heute im Fernsehen?"
+    },
+    {
+      "id": "A2_K1_045",
+      "word": "nix (nichts)",
+      "meaning": "nothing"
+    },
+    {
+      "id": "A2_K1_046",
+      "word": "sehen (sieht, hat gesehen)",
+      "meaning": "to see",
+      "example": "Mal sehen, was heute im Fernsehen kommt."
+    },
+    {
+      "id": "A2_K1_047",
+      "word": "stören",
+      "meaning": "to bother, disturb"
+    },
+    {
+      "id": "A2_K1_048",
+      "word": "ausruhen (sich)",
+      "meaning": "to rest"
+    },
+    {
+      "id": "A2_K1_049",
+      "word": "das Geschirr (Singular)",
+      "meaning": "dishes"
+    },
+    {
+      "id": "A2_K1_050",
+      "word": "spülen",
+      "meaning": "to rinse"
+    },
+    {
+      "id": "A2_K1_051",
+      "word": "aber",
+      "meaning": "here: but really",
+      "example": "Da ärgert sich aber jemand!"
+    },
+    {
+      "id": "A2_K1_052",
+      "word": "ärgern (sich) (über + Akk.)",
+      "meaning": "to be angry"
+    },
+    {
+      "id": "A2_K1_053",
+      "word": "aufregen (sich) (über + Akk.)",
+      "meaning": "to be upset, angry"
+    },
+    {
+      "id": "A2_K1_054",
+      "word": "beeilen (sich)",
+      "meaning": "to hurry"
+    },
+    {
+      "id": "A2_K1_055",
+      "word": "langweilen (sich)",
+      "meaning": "to be bored"
+    },
+    {
+      "id": "A2_K1_056",
+      "word": "anmachen",
+      "meaning": "to turn on"
+    },
+    {
+      "id": "A2_K1_057",
+      "word": "die Bohne",
+      "plural": "Bohnen",
+      "meaning": "bean"
+    },
+    {
+      "id": "A2_K1_058",
+      "word": "extra",
+      "meaning": "specially"
+    },
+    {
+      "id": "A2_K1_059",
+      "word": "das Gute (Singular)",
+      "meaning": "good",
+      "example": "Kommt heute was Gutes im Fernsehen?"
+    },
+    {
+      "id": "A2_K1_060",
+      "word": "das Rindfleisch (Singular)",
+      "meaning": "beef"
+    },
+    {
+      "id": "A2_K1_061",
+      "word": "formulieren",
+      "meaning": "to formulate"
+    },
+    {
+      "id": "A2_K1_062",
+      "word": "freuen (sich)",
+      "meaning": "to be happy"
+    },
+    {
+      "id": "A2_K1_063",
+      "word": "traurig",
+      "meaning": "sad"
+    },
+    {
+      "id": "A2_K1_064",
+      "word": "folgen (folgt, ist gefolgt)",
+      "meaning": "to follow"
+    },
+    {
+      "id": "A2_K1_065",
+      "word": "begründen",
+      "meaning": "to justify"
+    },
+    {
+      "id": "A2_K1_066",
+      "word": "vermuten",
+      "meaning": "to suspect, surmise"
+    },
+    {
+      "id": "A2_K1_067",
+      "word": "weil",
+      "meaning": "because"
+    },
+    {
+      "id": "A2_K1_068",
+      "word": "wirklich",
+      "meaning": "really",
+      "example": "Wie war es wirklich?"
+    },
+    {
+      "id": "A2_K1_069",
+      "word": "weitergehen (geht weiter, ist weitergegangen)",
+      "meaning": "to continue"
+    },
+    {
+      "id": "A2_K1_070",
+      "word": "vorspielen",
+      "meaning": "to act out"
+    },
+    {
+      "id": "A2_K1_071",
+      "word": "das Dunkeldinner",
+      "plural": "Dunkeldinner",
+      "meaning": "dining in the dark"
+    },
+    {
+      "id": "A2_K1_072",
+      "word": "benutzen",
+      "meaning": "to use"
+    },
+    {
+      "id": "A2_K1_073",
+      "word": "blind",
+      "meaning": "blind"
+    },
+    {
+      "id": "A2_K1_074",
+      "word": "die Dunkelheit (Singular)",
+      "meaning": "darkness"
+    },
+    {
+      "id": "A2_K1_075",
+      "word": "das Dunkle (Singular)",
+      "meaning": "dark",
+      "example": "Was ist beim Essen im Dunkeln schwierig?"
+    },
+    {
+      "id": "A2_K1_076",
+      "word": "der Eindruck",
+      "plural": "Eindrücke",
+      "meaning": "impression"
+    },
+    {
+      "id": "A2_K1_077",
+      "word": "erkennen (erkennt, hat erkannt)",
+      "meaning": "to recognize"
+    },
+    {
+      "id": "A2_K1_078",
+      "word": "das Erlebnis",
+      "plural": "Erlebnisse",
+      "meaning": "experience"
+    },
+    {
+      "id": "A2_K1_079",
+      "word": "führen",
+      "meaning": "to guide",
+      "example": "Ich führe dich an der Hand."
+    },
+    {
+      "id": "A2_K1_080",
+      "word": "gar",
+      "meaning": "here: at all"
+    },
+    {
+      "id": "A2_K1_081",
+      "word": "der Gastraum",
+      "plural": "Gasträume",
+      "meaning": "dining room (in a restaurant)"
+    },
+    {
+      "id": "A2_K1_082",
+      "word": "der Gedanke",
+      "plural": "Gedanken",
+      "meaning": "thought"
+    },
+    {
+      "id": "A2_K1_083",
+      "word": "genau",
+      "meaning": "exactly",
+      "example": "Ich weiß nicht so genau."
+    },
+    {
+      "id": "A2_K1_084",
+      "word": "der Geruch",
+      "plural": "Gerüche",
+      "meaning": "smell"
+    },
+    {
+      "id": "A2_K1_085",
+      "word": "gewöhnen (sich) (an + Akk.)",
+      "meaning": "to accustom, get used to"
+    },
+    {
+      "id": "A2_K1_086",
+      "word": "das Licht",
+      "plural": "Lichter",
+      "meaning": "light"
+    },
+    {
+      "id": "A2_K1_087",
+      "word": "das Menü",
+      "plural": "Menüs",
+      "meaning": "three-course meal (in a restaurant)"
+    },
+    {
+      "id": "A2_K1_088",
+      "word": "nur noch",
+      "meaning": "only"
+    },
+    {
+      "id": "A2_K1_089",
+      "word": "rauchen",
+      "meaning": "to smoke"
+    },
+    {
+      "id": "A2_K1_090",
+      "word": "schwierig",
+      "meaning": "difficult, hard"
+    },
+    {
+      "id": "A2_K1_091",
+      "word": "sehbehindert",
+      "meaning": "vision-impaired"
+    },
+    {
+      "id": "A2_K1_092",
+      "word": "die Sorge",
+      "plural": "Sorgen",
+      "meaning": "worry"
+    },
+    {
+      "id": "A2_K1_093",
+      "word": "verboten",
+      "meaning": "forbidden"
+    },
+    {
+      "id": "A2_K1_094",
+      "word": "völlig",
+      "meaning": "completely, totally"
+    },
+    {
+      "id": "A2_K1_095",
+      "word": "der Vorraum",
+      "plural": "Vorräume",
+      "meaning": "lobby, anteroom"
+    },
+    {
+      "id": "A2_K1_096",
+      "word": "zählen",
+      "meaning": "to count"
+    },
+    {
+      "id": "A2_K1_097",
+      "word": "abwechselnd",
+      "meaning": "alternating (ly)"
+    },
+    {
+      "id": "A2_K1_098",
+      "word": "das Dunkelrestaurant",
+      "plural": "Dunkelrestaurants",
+      "meaning": "restaurant without lights, blind restaurant"
+    },
+    {
+      "id": "A2_K1_099",
+      "word": "das Ergebnis",
+      "plural": "Ergebnisse",
+      "meaning": "outcome, result"
+    },
+    {
+      "id": "A2_K1_100",
+      "word": "gemeinsam",
+      "meaning": "together"
+    },
+    {
+      "id": "A2_K1_101",
+      "word": "der Sinn",
+      "plural": "Sinne",
+      "meaning": "sense",
+      "example": "Lernen Sie mit allen Sinnen."
+    },
+    {
+      "id": "A2_K1_102",
+      "word": "die Station",
+      "plural": "Stationen",
+      "meaning": "station"
+    },
+    {
+      "id": "A2_K1_103",
+      "word": "vorbereiten",
+      "meaning": "to prepare",
+      "example": "Tobi bereitet einen Salat vor."
+    },
+    {
+      "id": "A2_K1_104",
+      "word": "aufmachen",
+      "meaning": "to open"
+    },
+    {
+      "id": "A2_K1_105",
+      "word": "das Auge",
+      "plural": "Augen",
+      "meaning": "eye"
+    },
+    {
+      "id": "A2_K1_106",
+      "word": "der Beutel",
+      "plural": "Beutel",
+      "meaning": "bag"
+    },
+    {
+      "id": "A2_K1_107",
+      "word": "die Blume",
+      "plural": "Blumen",
+      "meaning": "flower"
+    },
+    {
+      "id": "A2_K1_108",
+      "word": "das Bonbon",
+      "plural": "Bonbons",
+      "meaning": "piece of candy"
+    },
+    {
+      "id": "A2_K1_109",
+      "word": "der Gegenstand",
+      "plural": "Gegenstände",
+      "meaning": "item, article, subject"
+    },
+    {
+      "id": "A2_K1_110",
+      "word": "herausnehmen (nimmt heraus, hat herausgenommen)",
+      "meaning": "to take out"
+    },
+    {
+      "id": "A2_K1_111",
+      "word": "das Parfüm",
+      "plural": "Parfüme/Parfüms",
+      "meaning": "perfume"
+    },
+    {
+      "id": "A2_K1_112",
+      "word": "der Stoffbeutel",
+      "plural": "Stoffbeutel",
+      "meaning": "cloth bag"
+    },
+    {
+      "id": "A2_K1_113",
+      "word": "weitermachen",
+      "meaning": "to continue"
+    },
+    {
+      "id": "A2_K1_114",
+      "word": "der Zitronensaft",
+      "plural": "Zitronensäfte",
+      "meaning": "lemon juice"
+    },
+    {
+      "id": "A2_K1_115",
+      "word": "zu",
+      "meaning": "closed",
+      "example": "Augen zu!"
+    },
+    {
+      "id": "A2_K1_116",
+      "word": "zuhaben (hat zu, hat zugehabt)",
+      "meaning": "to be closed"
+    },
+    {
+      "id": "A2_K1_117",
+      "word": "zumachen",
+      "meaning": "to close"
+    },
+    {
+      "id": "A2_K1_118",
+      "word": "erinnern (sich) (an + Akk.)",
+      "meaning": "to remember"
     }
   ]
 }

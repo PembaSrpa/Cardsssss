@@ -5,10 +5,320 @@
   "words": [
     {
       "id": "B2_K7_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Kunstraub",
+      "plural": "die Kunstraube",
+      "meaning": "robbery of art"
+    },
+    {
+      "id": "B2_K7_M2_002",
+      "word": "annehmen, nahm an, hat",
+      "meaning": "assume, assumed, has"
+    },
+    {
+      "id": "B2_K7_M2_003",
+      "word": "angenommen",
+      "meaning": "accepted",
+      "example": "eine Herausforderung annehmen"
+    },
+    {
+      "id": "B2_K7_M2_004",
+      "word": "aufsehenerregend",
+      "meaning": "sensational"
+    },
+    {
+      "id": "B2_K7_M2_005",
+      "word": "die Bande",
+      "plural": "die Banden",
+      "meaning": "gang"
+    },
+    {
+      "id": "B2_K7_M2_006",
+      "word": "basieren (auf + D.)",
+      "meaning": "based (on + D.)"
+    },
+    {
+      "id": "B2_K7_M2_007",
+      "word": "die Besucherzelle",
+      "plural": "die Besucherzellen",
+      "meaning": "visitor cell"
+    },
+    {
+      "id": "B2_K7_M2_008",
+      "word": "der Einbruch",
+      "plural": "die Einbrüche",
+      "meaning": "slump"
+    },
+    {
+      "id": "B2_K7_M2_009",
+      "word": "expressionistisch",
+      "meaning": "expressionistic"
+    },
+    {
+      "id": "B2_K7_M2_010",
+      "word": "fassen",
+      "meaning": "arrest",
+      "example": "Die Polizei fasst den Täter."
+    },
+    {
+      "id": "B2_K7_M2_011",
+      "word": "filmreif",
+      "meaning": "filmreif"
+    },
+    {
+      "id": "B2_K7_M2_012",
+      "word": "das Gemälde",
+      "plural": "die Gemälde",
+      "meaning": "paintings"
+    },
+    {
+      "id": "B2_K7_M2_013",
+      "word": "gestehen, gestand, hat gestanden (eine Tat gestehen)",
+      "meaning": "confess, confessed, has confessed (one Confess)"
+    },
+    {
+      "id": "B2_K7_M2_014",
+      "word": "der/die Ich-Erzähler/in",
+      "meaning": "the first-person narrator"
+    },
+    {
+      "id": "B2_K7_M2_015",
+      "word": "der/die Idiot/in",
+      "meaning": "the idiot"
+    },
+    {
+      "id": "B2_K7_M2_016",
+      "word": "knurren",
+      "meaning": "growl"
+    },
+    {
+      "id": "B2_K7_M2_017",
+      "word": "der Nerv",
+      "plural": "die Nerven",
+      "meaning": "the nerve",
+      "example": "Meine Nerven machen das nicht mehr mit."
+    },
+    {
+      "id": "B2_K7_M2_018",
+      "word": "der Notizblock",
+      "plural": "die Notizblöcke",
+      "meaning": "notepad"
+    },
+    {
+      "id": "B2_K7_M2_019",
+      "word": "rechnen (mit + D.)",
+      "meaning": "reckon (with + D.)",
+      "example": "Damit hatte ich nicht im Traum gerechnet."
+    },
+    {
+      "id": "B2_K7_M2_020",
+      "word": "runterfallen, fiel runter, ist runtergefallen",
+      "meaning": "falling down, falling down, falling down"
+    },
+    {
+      "id": "B2_K7_M2_021",
+      "word": "schlagartig",
+      "meaning": "abruptly"
+    },
+    {
+      "id": "B2_K7_M2_022",
+      "word": "schwitzen",
+      "meaning": "sweat"
+    },
+    {
+      "id": "B2_K7_M2_023",
+      "word": "der/die Verdächtige",
+      "plural": "die Verdächtigen",
+      "meaning": "suspect"
+    },
+    {
+      "id": "B2_K7_M2_024",
+      "word": "erpressen",
+      "meaning": "Blackmail"
+    },
+    {
+      "id": "B2_K7_M2_025",
+      "word": "die Erpressung",
+      "plural": "die Erpressungen",
+      "meaning": "extortion"
+    },
+    {
+      "id": "B2_K7_M2_026",
+      "word": "der/die Gehilfe/Gehilfin",
+      "meaning": "helper (s)"
+    },
+    {
+      "id": "B2_K7_M2_027",
+      "word": "der Gemälderaub",
+      "plural": "die Gemälderaube",
+      "meaning": "painting robbery"
+    },
+    {
+      "id": "B2_K7_M2_028",
+      "word": "das Gericht",
+      "plural": "die Gerichte",
+      "meaning": "the court",
+      "example": "Der Verbrecher landet vor Gericht."
+    },
+    {
+      "id": "B2_K7_M2_029",
+      "word": "glaubhaft",
+      "meaning": "credible"
+    },
+    {
+      "id": "B2_K7_M2_030",
+      "word": "der/die Informant/in",
+      "meaning": "the informant"
+    },
+    {
+      "id": "B2_K7_M2_031",
+      "word": "der/die Komplize/Komplizin",
+      "meaning": "the accomplice / accomplice"
+    },
+    {
+      "id": "B2_K7_M2_032",
+      "word": "das Lösegeld",
+      "plural": "die Lösegelder",
+      "meaning": "ransom"
+    },
+    {
+      "id": "B2_K7_M2_033",
+      "word": "der/die Mandant/in",
+      "meaning": "client"
+    },
+    {
+      "id": "B2_K7_M2_034",
+      "word": "andeuten",
+      "meaning": "Hint"
+    },
+    {
+      "id": "B2_K7_M2_035",
+      "word": "erwähnen",
+      "meaning": "mention"
+    },
+    {
+      "id": "B2_K7_M2_036",
+      "word": "vermitteln",
+      "meaning": "convey"
+    },
+    {
+      "id": "B2_K7_M2_037",
+      "word": "ausrauben",
+      "meaning": "Rob"
+    },
+    {
+      "id": "B2_K7_M2_038",
+      "word": "der Banktresor",
+      "plural": "die Banktresore",
+      "meaning": "bank vault"
+    },
+    {
+      "id": "B2_K7_M2_039",
+      "word": "entführen",
+      "meaning": "kidnap"
+    },
+    {
+      "id": "B2_K7_M2_040",
+      "word": "der Goldbarren",
+      "plural": "die Goldbarren",
+      "meaning": "gold bar"
+    },
+    {
+      "id": "B2_K7_M2_041",
+      "word": "das Juweliergeschäft",
+      "plural": "die Juweliergeschäfte",
+      "meaning": "jewelry store"
+    },
+    {
+      "id": "B2_K7_M2_042",
+      "word": "das Rennpferd",
+      "plural": "die Rennpferde",
+      "meaning": "racehorse"
+    },
+    {
+      "id": "B2_K7_M2_043",
+      "word": "der/die Detektiv/in",
+      "meaning": "detective"
+    },
+    {
+      "id": "B2_K7_M2_044",
+      "word": "die Hauptfigur",
+      "plural": "die Hauptfiguren",
+      "meaning": "the main characters"
+    },
+    {
+      "id": "B2_K7_M2_045",
+      "word": "der/die Kommissar/in",
+      "meaning": "Commissioner"
+    },
+    {
+      "id": "B2_K7_M2_046",
+      "word": "der/die Reporter/in",
+      "meaning": "reporter"
+    },
+    {
+      "id": "B2_K7_M2_047",
+      "word": "die Aufklärung (Sg.)",
+      "meaning": "enlightenment"
+    },
+    {
+      "id": "B2_K7_M2_048",
+      "word": "der Hinweis",
+      "plural": "die Hinweise",
+      "meaning": "hint"
+    },
+    {
+      "id": "B2_K7_M2_049",
+      "word": "verdächtigen (für + A.)",
+      "meaning": "suspect (for + A.)"
+    },
+    {
+      "id": "B2_K7_M2_050",
+      "word": "3d heiter (aus heiterem Himmel)",
+      "meaning": "3d serene (out of the blue)"
+    },
+    {
+      "id": "B2_K7_M2_051",
+      "word": "der Himmel (aus heiterem Himmel)",
+      "plural": "die Himmel",
+      "meaning": "sky(out of the blue)"
+    },
+    {
+      "id": "B2_K7_M2_052",
+      "word": "schlagen, schlug, hat geschlagen",
+      "meaning": "hit, hit, hit",
+      "example": "Mein Herz schlägt ganz schnell"
+    },
+    {
+      "id": "B2_K7_M2_053",
+      "word": "die Vorwarnung",
+      "plural": "die Vorwarnungen",
+      "meaning": "warning"
+    },
+    {
+      "id": "B2_K7_M2_054",
+      "word": "wegbleiben, blieb weg, ist weggeblieben",
+      "meaning": "stay away, stayed away, stayed away",
+      "example": "Ihm blieb vor Schreck der Atem weg."
+    },
+    {
+      "id": "B2_K7_M2_055",
+      "word": "3e aushalten, hielt aus, hat ausgehalten",
+      "meaning": "3e endure, endured, endured"
+    },
+    {
+      "id": "B2_K7_M2_056",
+      "word": "die Gänsehaut (Sg.)",
+      "meaning": "goosebumps"
+    },
+    {
+      "id": "B2_K7_M2_057",
+      "word": "hinsehen, sah hin, hat hingesehen",
+      "meaning": "look, looked, looked"
+    },
+    {
+      "id": "B2_K7_M2_058",
+      "word": "zittern",
+      "meaning": "tremble"
     }
   ]
 }

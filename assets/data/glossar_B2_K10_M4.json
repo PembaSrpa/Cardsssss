@@ -5,10 +5,572 @@
   "words": [
     {
       "id": "B2_K10_M4_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "abbrechen, brach ab, hat abgebrochen",
+      "meaning": "abort, broke off, has aborted",
+      "example": "die Schule abbrechen"
+    },
+    {
+      "id": "B2_K10_M4_002",
+      "word": "rosig",
+      "meaning": "rosy"
+    },
+    {
+      "id": "B2_K10_M4_003",
+      "word": "vorhersagen",
+      "meaning": "predict"
+    },
+    {
+      "id": "B2_K10_M4_004",
+      "word": "werfen, warf, hat geworfen (einen Blick in die Zukunft werfen)",
+      "meaning": "throw, threw, threw (take a look at throw the future)"
+    },
+    {
+      "id": "B2_K10_M4_005",
+      "word": "kursiv",
+      "meaning": "italics"
+    },
+    {
+      "id": "B2_K10_M4_006",
+      "word": "zukommen (auf + A.), kam ist, ist",
+      "meaning": "to come (on + A.), came is, is"
+    },
+    {
+      "id": "B2_K10_M4_007",
+      "word": "zugekommen (etw. auf sich zukommen lassen)",
+      "meaning": "approached (coming towards sth to let)"
+    },
+    {
+      "id": "B2_K10_M4_008",
+      "word": "die Zukunftsvision",
+      "plural": "die Zukunftsvisionen",
+      "meaning": "vision of the future"
+    },
+    {
+      "id": "B2_K10_M4_009",
+      "word": "die Anonymität (Sg.)",
+      "meaning": "anonymity (Sg.)"
+    },
+    {
+      "id": "B2_K10_M4_010",
+      "word": "beschränken (zeitlich beschränkt)",
+      "meaning": "restrict (limited in time)"
+    },
+    {
+      "id": "B2_K10_M4_011",
+      "word": "energiesparend",
+      "meaning": "energy saving"
+    },
+    {
+      "id": "B2_K10_M4_012",
+      "word": "entfliehen, entfloh, ist entflohen",
+      "meaning": "escape, escape, has escaped",
+      "example": "Sie ist vor der Anonymität der Großstadt geflohen."
+    },
+    {
+      "id": "B2_K10_M4_013",
+      "word": "der Forumsbeitrag",
+      "plural": "die Forumsbeiträge",
+      "meaning": "forum post"
+    },
+    {
+      "id": "B2_K10_M4_014",
+      "word": "das Generationenwohnprojekt",
+      "plural": "die Generationenwohnprojekte",
+      "meaning": "intergenerational housing project"
+    },
+    {
+      "id": "B2_K10_M4_015",
+      "word": "der Klick",
+      "plural": "die Klicks",
+      "meaning": "click"
+    },
+    {
+      "id": "B2_K10_M4_016",
+      "word": "kostengünstig",
+      "meaning": "economical"
+    },
+    {
+      "id": "B2_K10_M4_017",
+      "word": "das Privatauto",
+      "plural": "die Privatautos",
+      "meaning": "private car"
+    },
+    {
+      "id": "B2_K10_M4_018",
+      "word": "die Raumtemperatur",
+      "plural": "die Raumtemperaturen",
+      "meaning": "room temperature"
+    },
+    {
+      "id": "B2_K10_M4_019",
+      "word": "die Sonnencreme",
+      "plural": "die Sonnencremes",
+      "meaning": "sunscreen"
+    },
+    {
+      "id": "B2_K10_M4_020",
+      "word": "sperren",
+      "meaning": "block",
+      "example": "Die gesamte Innenstadt wurde für Autos gesperrt."
+    },
+    {
+      "id": "B2_K10_M4_021",
+      "word": "die Wohnform",
+      "plural": "die Wohnformen",
+      "meaning": "form of living"
+    },
+    {
+      "id": "B2_K10_M4_022",
+      "word": "der Ankunftsabend",
+      "plural": "die Ankunftsabende",
+      "meaning": "evening of arrival"
+    },
+    {
+      "id": "B2_K10_M4_023",
+      "word": "der/die Aussteller/in",
+      "meaning": "exhibitor"
+    },
+    {
+      "id": "B2_K10_M4_024",
+      "word": "die Dienstleistung",
+      "plural": "die Dienstleistungen",
+      "meaning": "Services"
+    },
+    {
+      "id": "B2_K10_M4_025",
+      "word": "das Messegelände",
+      "plural": "die Messegelände",
+      "meaning": "fairground"
+    },
+    {
+      "id": "B2_K10_M4_026",
+      "word": "die Messehalle",
+      "plural": "die Messehallen",
+      "meaning": "exhibition hall"
+    },
+    {
+      "id": "B2_K10_M4_027",
+      "word": "sagenhaft",
+      "meaning": "fabulous"
+    },
+    {
+      "id": "B2_K10_M4_028",
+      "word": "der Snack",
+      "plural": "die Snacks",
+      "meaning": "snack"
+    },
+    {
+      "id": "B2_K10_M4_029",
+      "word": "die Werbeanzeige",
+      "plural": "die Werbeanzeigen",
+      "meaning": "advertisement"
+    },
+    {
+      "id": "B2_K10_M4_030",
+      "word": "der Zugang (zu + D.) (einen Zugang zu etw./jmd. haben)",
+      "plural": "die Zugänge",
+      "meaning": "access, \"-e (to + D.) (access to etw./jmd. to have)"
+    },
+    {
+      "id": "B2_K10_M4_031",
+      "word": "andernfalls",
+      "meaning": "otherwise"
+    },
+    {
+      "id": "B2_K10_M4_032",
+      "word": "der Beschwerdebrief",
+      "plural": "die Beschwerdebriefe",
+      "meaning": "letter of complaint"
+    },
+    {
+      "id": "B2_K10_M4_033",
+      "word": "der Eindruck (den Eindruck wecken)",
+      "plural": "die Eindrücke",
+      "meaning": "impression (give the impression)"
+    },
+    {
+      "id": "B2_K10_M4_034",
+      "word": "schildern",
+      "meaning": "describe"
+    },
+    {
+      "id": "B2_K10_M4_035",
+      "word": "unangebracht",
+      "meaning": "inappropriate"
+    },
+    {
+      "id": "B2_K10_M4_036",
+      "word": "der/die Veranstalter/in",
+      "meaning": "organizer"
+    },
+    {
+      "id": "B2_K10_M4_037",
+      "word": "das Theaterstück",
+      "plural": "die Theaterstücke",
+      "meaning": "play"
+    },
+    {
+      "id": "B2_K10_M4_038",
+      "word": "der Angriff",
+      "plural": "die Angriffe",
+      "meaning": "attack"
+    },
+    {
+      "id": "B2_K10_M4_039",
+      "word": "anormal",
+      "meaning": "abnormal"
+    },
+    {
+      "id": "B2_K10_M4_040",
+      "word": "attackieren",
+      "meaning": "attack"
+    },
+    {
+      "id": "B2_K10_M4_041",
+      "word": "auslöschen",
+      "meaning": "efface"
+    },
+    {
+      "id": "B2_K10_M4_042",
+      "word": "befürworten",
+      "meaning": "advocate"
+    },
+    {
+      "id": "B2_K10_M4_043",
+      "word": "begeben (sich) (auf + A.), begab sich, hat",
+      "meaning": "embark (on + A.), embarked, has"
+    },
+    {
+      "id": "B2_K10_M4_044",
+      "word": "sich begeben (sich auf eine Expedition begeben)",
+      "meaning": "embark on an expedition (go)"
+    },
+    {
+      "id": "B2_K10_M4_045",
+      "word": "beschäftigen",
+      "meaning": "employ",
+      "example": "Der Prozess beschäftigt die ganze Nation."
+    },
+    {
+      "id": "B2_K10_M4_046",
+      "word": "der Blutwert",
+      "plural": "die Blutwerte",
+      "meaning": "blood value"
+    },
+    {
+      "id": "B2_K10_M4_047",
+      "word": "erkennbar",
+      "meaning": "recognizable"
+    },
+    {
+      "id": "B2_K10_M4_048",
+      "word": "der/die Fischer/in",
+      "meaning": "fisherman"
+    },
+    {
+      "id": "B2_K10_M4_049",
+      "word": "das Forschungsteam",
+      "plural": "die Forschungsteams",
+      "meaning": "research team"
+    },
+    {
+      "id": "B2_K10_M4_050",
+      "word": "geraten, geriet, ist geraten (außer Kontrolle geraten)",
+      "meaning": "got, got, got (out of control)"
+    },
+    {
+      "id": "B2_K10_M4_051",
+      "word": "der Hai",
+      "plural": "die Haie",
+      "meaning": "shark"
+    },
+    {
+      "id": "B2_K10_M4_052",
+      "word": "das Hauptthema",
+      "plural": "die Hauptthemathemen",
+      "meaning": "main theme, themes"
+    },
+    {
+      "id": "B2_K10_M4_053",
+      "word": "das Immunsystem",
+      "plural": "die Immunsysteme",
+      "meaning": "immune system"
+    },
+    {
+      "id": "B2_K10_M4_054",
+      "word": "kentern",
+      "meaning": "capsize"
+    },
+    {
+      "id": "B2_K10_M4_055",
+      "word": "kommen, kam, ist gekommen (ums Leben kommen)",
+      "meaning": "come, came, has come (to die)"
+    },
+    {
+      "id": "B2_K10_M4_056",
+      "word": "das Leben (ums Leben kommen)",
+      "plural": "die Leben",
+      "meaning": "life, - (to die)"
+    },
+    {
+      "id": "B2_K10_M4_057",
+      "word": "manipulieren",
+      "meaning": "manipulate"
+    },
+    {
+      "id": "B2_K10_M4_058",
+      "word": "die Meerestiefe",
+      "plural": "die Meerestiefen",
+      "meaning": "sea depth"
+    },
+    {
+      "id": "B2_K10_M4_059",
+      "word": "das Meerestier",
+      "plural": "die Meerestiere",
+      "meaning": "sea animal"
+    },
+    {
+      "id": "B2_K10_M4_060",
+      "word": "die Nation",
+      "plural": "die Nationen",
+      "meaning": "nation"
+    },
+    {
+      "id": "B2_K10_M4_061",
+      "word": "der Oberarm",
+      "plural": "die Oberarme",
+      "meaning": "upper arm"
+    },
+    {
+      "id": "B2_K10_M4_062",
+      "word": "die Qualle",
+      "plural": "die Quallen",
+      "meaning": "jellyfish"
+    },
+    {
+      "id": "B2_K10_M4_063",
+      "word": "das Rauchen (Sg.)",
+      "meaning": "smoking (Sg.)"
+    },
+    {
+      "id": "B2_K10_M4_064",
+      "word": "der Schwarm",
+      "plural": "die Schwärme",
+      "meaning": "swarm"
+    },
+    {
+      "id": "B2_K10_M4_065",
+      "word": "der/die Schwimmer/in",
+      "meaning": "swimmer"
+    },
+    {
+      "id": "B2_K10_M4_066",
+      "word": "sowieso",
+      "meaning": "anyway"
+    },
+    {
+      "id": "B2_K10_M4_067",
+      "word": "das Sportpensum",
+      "plural": "die Sportpensumpensen",
+      "meaning": "sports workload, workload"
+    },
+    {
+      "id": "B2_K10_M4_068",
+      "word": "umbringen, brachte um, hat umgebracht",
+      "meaning": "to kill, to kill, to kill"
+    },
+    {
+      "id": "B2_K10_M4_069",
+      "word": "das Verbrechen",
+      "plural": "die Verbrechen",
+      "meaning": "crime"
+    },
+    {
+      "id": "B2_K10_M4_070",
+      "word": "vorsprechen, sprach vor, hat",
+      "meaning": "audition, audition, has"
+    },
+    {
+      "id": "B2_K10_M4_071",
+      "word": "vorgesprochen (vor Gericht vorsprechen)",
+      "meaning": "auditioned"
+    },
+    {
+      "id": "B2_K10_M4_072",
+      "word": "wiedertreffen, traf wieder, hat",
+      "meaning": "meet again, met again, has"
+    },
+    {
+      "id": "B2_K10_M4_073",
+      "word": "wiedergetroffen",
+      "meaning": "met again"
+    },
+    {
+      "id": "B2_K10_M4_074",
+      "word": "zustande kommen, kam zustande, ist",
+      "meaning": "come about, came about, is"
+    },
+    {
+      "id": "B2_K10_M4_075",
+      "word": "zustande gekommen",
+      "meaning": "come about"
+    },
+    {
+      "id": "B2_K10_M4_076",
+      "word": "der Zwischenfall",
+      "plural": "die Zwischenfälle",
+      "meaning": "incident"
+    },
+    {
+      "id": "B2_K10_M4_077",
+      "word": "Porträt",
+      "meaning": "portrait"
+    },
+    {
+      "id": "B2_K10_M4_078",
+      "word": "die Akademie",
+      "plural": "die Akademien",
+      "meaning": "academy"
+    },
+    {
+      "id": "B2_K10_M4_079",
+      "word": "anmelden (zum Patent anmelden)",
+      "meaning": "register (register for a patent)"
+    },
+    {
+      "id": "B2_K10_M4_080",
+      "word": "der/die Astronom/in",
+      "meaning": "astronomer"
+    },
+    {
+      "id": "B2_K10_M4_081",
+      "word": "das Bedürfnis (nach + D.)",
+      "meaning": "the need (after + D.)"
+    },
+    {
+      "id": "B2_K10_M4_082",
+      "word": "die Begabung",
+      "plural": "die Begabungen",
+      "meaning": "talent"
+    },
+    {
+      "id": "B2_K10_M4_083",
+      "word": "benennen, benannte, hat benannt",
+      "meaning": "to name, named, named"
+    },
+    {
+      "id": "B2_K10_M4_084",
+      "word": "eingehen, ging ein, ist eingegangen (in die Geschichte eingehen)",
+      "meaning": "to enter, to enter, to enter (into the Enter history)"
+    },
+    {
+      "id": "B2_K10_M4_085",
+      "word": "die Glaserlehre",
+      "plural": "die Glaserlehren",
+      "meaning": "glass apprenticeship"
+    },
+    {
+      "id": "B2_K10_M4_086",
+      "word": "die Innovation",
+      "plural": "die Innovationen",
+      "meaning": "innovation"
+    },
+    {
+      "id": "B2_K10_M4_087",
+      "word": "die Lungenkrankheit",
+      "plural": "die Lungenkrankheiten",
+      "meaning": "lung disease"
+    },
+    {
+      "id": "B2_K10_M4_088",
+      "word": "mechanisch",
+      "meaning": "mechanically"
+    },
+    {
+      "id": "B2_K10_M4_089",
+      "word": "der/die Mitinhaber/in",
+      "meaning": "co-owner"
+    },
+    {
+      "id": "B2_K10_M4_090",
+      "word": "die Mobilität (Sg.)",
+      "meaning": "mobility (Sg.)"
+    },
+    {
+      "id": "B2_K10_M4_091",
+      "word": "der/die Optiker/in",
+      "meaning": "optician"
+    },
+    {
+      "id": "B2_K10_M4_092",
+      "word": "das Patent (zum Patent anmelden)",
+      "plural": "die Patente",
+      "meaning": "patent (apply for a patent)"
+    },
+    {
+      "id": "B2_K10_M4_093",
+      "word": "die Professur",
+      "plural": "die Professuren",
+      "meaning": "professorship"
+    },
+    {
+      "id": "B2_K10_M4_094",
+      "word": "überaus",
+      "meaning": "exceedingly"
+    },
+    {
+      "id": "B2_K10_M4_095",
+      "word": "umweltverträglich",
+      "meaning": "environmentally friendly"
+    },
+    {
+      "id": "B2_K10_M4_096",
+      "word": "das Verhältnis (aus einfachen Verhältnissen stammen)",
+      "plural": "die Verhältnisse",
+      "meaning": "ratio (from simple Relationships)"
+    },
+    {
+      "id": "B2_K10_M4_097",
+      "word": "der Vormund",
+      "plural": "die Vormunde",
+      "meaning": "guardian"
+    },
+    {
+      "id": "B2_K10_M4_098",
+      "word": "der/die Waise",
+      "plural": "die Waisen",
+      "meaning": "orphan"
+    },
+    {
+      "id": "B2_K10_M4_099",
+      "word": "zukunftsweisend",
+      "meaning": "trendsetting"
+    },
+    {
+      "id": "B2_K10_M4_100",
+      "word": "Grammatik",
+      "meaning": "grammar"
+    },
+    {
+      "id": "B2_K10_M4_101",
+      "word": "angesichts (+ G.)",
+      "meaning": "given (+ G.)"
+    },
+    {
+      "id": "B2_K10_M4_102",
+      "word": "anlässlich",
+      "meaning": "on the occasion of"
+    },
+    {
+      "id": "B2_K10_M4_103",
+      "word": "die Ausbildungsmöglichkeit",
+      "plural": "die Ausbildungsmöglichkeiten",
+      "meaning": "the training opportunity"
+    },
+    {
+      "id": "B2_K10_M4_104",
+      "word": "ausprobieren",
+      "meaning": "try out"
     }
   ]
 }

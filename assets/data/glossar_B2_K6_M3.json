@@ -5,10 +5,264 @@
   "words": [
     {
       "id": "B2_K6_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "das Benehmen (Sg.)",
+      "meaning": "behavior"
+    },
+    {
+      "id": "B2_K6_M3_002",
+      "word": "die Hilfsbereitschaft (Sg.)",
+      "meaning": "willingness to help"
+    },
+    {
+      "id": "B2_K6_M3_003",
+      "word": "die Höflichkeit",
+      "plural": "die Höflichkeiten",
+      "meaning": "the courtesy"
+    },
+    {
+      "id": "B2_K6_M3_004",
+      "word": "die Kommunikationsfähigkeit",
+      "plural": "die Kommunikationsfähigkeiten",
+      "meaning": "ability to communicate"
+    },
+    {
+      "id": "B2_K6_M3_005",
+      "word": "die Kritikfähigkeit",
+      "plural": "die Kritikfähigkeiten",
+      "meaning": "ability to criticize"
+    },
+    {
+      "id": "B2_K6_M3_006",
+      "word": "die Offenheit (Sg.)",
+      "meaning": "openness"
+    },
+    {
+      "id": "B2_K6_M3_007",
+      "word": "die Teamfähigkeit (Sg.)",
+      "meaning": "ability to work in a team"
+    },
+    {
+      "id": "B2_K6_M3_008",
+      "word": "die Wertschätzung (Sg.)",
+      "meaning": "appreciation"
+    },
+    {
+      "id": "B2_K6_M3_009",
+      "word": "anerkennend",
+      "meaning": "appreciative"
+    },
+    {
+      "id": "B2_K6_M3_010",
+      "word": "die Arbeitsatmosphäre",
+      "plural": "die Arbeitsatmosphären",
+      "meaning": "working atmosphere"
+    },
+    {
+      "id": "B2_K6_M3_011",
+      "word": "das Arbeitsklima (Sg.)",
+      "meaning": "working atmosphere"
+    },
+    {
+      "id": "B2_K6_M3_012",
+      "word": "ausmachen",
+      "meaning": "make up",
+      "example": "Ein persönliches Gespräch kann viel ausmachen."
+    },
+    {
+      "id": "B2_K6_M3_013",
+      "word": "befehlen, befahl, hat befohlen",
+      "meaning": "command, commanded, commanded"
+    },
+    {
+      "id": "B2_K6_M3_014",
+      "word": "die Bereitschaft (zu + D.)",
+      "meaning": "willingness (to + D.)"
+    },
+    {
+      "id": "B2_K6_M3_015",
+      "word": "bewirken",
+      "meaning": "cause"
+    },
+    {
+      "id": "B2_K6_M3_016",
+      "word": "der Diskussionsbedarf",
+      "plural": "die Diskussionsbedarfe",
+      "meaning": "need for discussion"
+    },
+    {
+      "id": "B2_K6_M3_017",
+      "word": "entgegenbringen, brachte entgegen, hat",
+      "meaning": "bring towards, brought towards, has"
+    },
+    {
+      "id": "B2_K6_M3_018",
+      "word": "entgegengebracht",
+      "meaning": "brought towards",
+      "example": "jmd. Respekt entgegenbringen"
+    },
+    {
+      "id": "B2_K6_M3_019",
+      "word": "das Feedback",
+      "plural": "die Feedbacks",
+      "meaning": "feedback"
+    },
+    {
+      "id": "B2_K6_M3_020",
+      "word": "freundschaftlich",
+      "meaning": "friendly"
+    },
+    {
+      "id": "B2_K6_M3_021",
+      "word": "geben, gab, hat gegeben",
+      "meaning": "give, gave, gave",
+      "example": "eine Erklärung geben"
+    },
+    {
+      "id": "B2_K6_M3_022",
+      "word": "gestalten",
+      "meaning": "shape"
+    },
+    {
+      "id": "B2_K6_M3_023",
+      "word": "klären (Probleme klären)",
+      "meaning": "clarify (clarify problems)"
+    },
+    {
+      "id": "B2_K6_M3_024",
+      "word": "das Konfliktpotential",
+      "plural": "die Konfliktpotentiale",
+      "meaning": "conflict potential"
+    },
+    {
+      "id": "B2_K6_M3_025",
+      "word": "das Konzept",
+      "plural": "die Konzepte",
+      "meaning": "concept"
+    },
+    {
+      "id": "B2_K6_M3_026",
+      "word": "der/die Kritisierte",
+      "plural": "die Kritisierten",
+      "meaning": "the criticized"
+    },
+    {
+      "id": "B2_K6_M3_027",
+      "word": "mitbestimmen",
+      "meaning": "a say"
+    },
+    {
+      "id": "B2_K6_M3_028",
+      "word": "recht",
+      "meaning": "right",
+      "example": "Ein Lob zur rechten Zeit kann Wunder wirken."
+    },
+    {
+      "id": "B2_K6_M3_029",
+      "word": "reden (über + A.) (schlecht über jmd. reden)",
+      "meaning": "to talk (about + A.) (bad about so. talk)"
+    },
+    {
+      "id": "B2_K6_M3_030",
+      "word": "die Teambesprechung",
+      "plural": "die Teambesprechungen",
+      "meaning": "the team meeting"
+    },
+    {
+      "id": "B2_K6_M3_031",
+      "word": "übereinander (schlecht übereinander reden)",
+      "meaning": "on top of each other (badly on top of each other talk)"
+    },
+    {
+      "id": "B2_K6_M3_032",
+      "word": "der Umgangston",
+      "plural": "die Umgangstöne",
+      "meaning": "the tone of conversation"
+    },
+    {
+      "id": "B2_K6_M3_033",
+      "word": "unangemessen",
+      "meaning": "unreasonable"
+    },
+    {
+      "id": "B2_K6_M3_034",
+      "word": "undenkbar",
+      "meaning": "unthinkable"
+    },
+    {
+      "id": "B2_K6_M3_035",
+      "word": "die Veränderung",
+      "plural": "die Veränderungen",
+      "meaning": "the changes"
+    },
+    {
+      "id": "B2_K6_M3_036",
+      "word": "vielmehr",
+      "meaning": "much more"
+    },
+    {
+      "id": "B2_K6_M3_037",
+      "word": "vortragen, trug vor, hat vorgetragen",
+      "meaning": "to speak, to speak, to speak"
+    },
+    {
+      "id": "B2_K6_M3_038",
+      "word": "der Vorzug",
+      "plural": "die Vorzüge",
+      "meaning": "the preference",
+      "example": "etw./jmd. den Vorzug geben"
+    },
+    {
+      "id": "B2_K6_M3_039",
+      "word": "wohlwollend",
+      "meaning": "benevolently"
+    },
+    {
+      "id": "B2_K6_M3_040",
+      "word": "würdigen",
+      "meaning": "appreciate"
+    },
+    {
+      "id": "B2_K6_M3_041",
+      "word": "die Stellungnahme",
+      "plural": "die Stellungnahmen",
+      "meaning": "the opinion"
+    },
+    {
+      "id": "B2_K6_M3_042",
+      "word": "gleichberechtigt",
+      "meaning": "on an equal footing"
+    },
+    {
+      "id": "B2_K6_M3_043",
+      "word": "vorkommen, kam vor, ist vorgekommen",
+      "meaning": "occur, occurred, has occurred",
+      "example": "Es kommt mir so vor, als würde ich nicht in dieses Team passen."
+    },
+    {
+      "id": "B2_K6_M3_044",
+      "word": "2e anfühlen (sich)",
+      "meaning": "2e feel"
+    },
+    {
+      "id": "B2_K6_M3_045",
+      "word": "benehmen (sich), benahm sich, hat sich",
+      "meaning": "to behave, to behave, to behave"
+    },
+    {
+      "id": "B2_K6_M3_046",
+      "word": "benommen",
+      "meaning": "dazed"
+    },
+    {
+      "id": "B2_K6_M3_047",
+      "word": "kritikfähig",
+      "meaning": "capable of criticism"
+    },
+    {
+      "id": "B2_K6_M3_048",
+      "word": "die Arbeitssituation",
+      "plural": "die Arbeitssituationen",
+      "meaning": "the work situation"
     }
   ]
 }

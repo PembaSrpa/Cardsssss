@@ -5,10 +5,333 @@
   "words": [
     {
       "id": "B2_K3_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "aufreiben (sich), rieb auf, hat",
+      "meaning": "rub, rub, rub"
+    },
+    {
+      "id": "B2_K3_M2_002",
+      "word": "aufgerieben",
+      "meaning": "(rub up on sth.)",
+      "example": "sich an etw. aufreiben"
+    },
+    {
+      "id": "B2_K3_M2_003",
+      "word": "erfüllen (Erwartungen erfüllen)",
+      "meaning": "meet (meet expectations)"
+    },
+    {
+      "id": "B2_K3_M2_004",
+      "word": "die Erwartung",
+      "plural": "die Erwartungen",
+      "meaning": "the expectations"
+    },
+    {
+      "id": "B2_K3_M2_005",
+      "word": "rein, -e",
+      "meaning": "pure",
+      "example": "eine reine Last sein"
+    },
+    {
+      "id": "B2_K3_M2_006",
+      "word": "überlastet",
+      "meaning": "overloaded"
+    },
+    {
+      "id": "B2_K3_M2_007",
+      "word": "das Vergnügen",
+      "plural": "die Vergnügen",
+      "meaning": "the pleasure, -"
+    },
+    {
+      "id": "B2_K3_M2_008",
+      "word": "angestellt (bei + D. / in + D.)",
+      "meaning": "employed",
+      "example": "Ich bin seit drei Monaten bei der Firma fest angestellt."
+    },
+    {
+      "id": "B2_K3_M2_009",
+      "word": "das Ansehen (Sg.)",
+      "meaning": "reputation"
+    },
+    {
+      "id": "B2_K3_M2_010",
+      "word": "anspruchsvoll",
+      "meaning": "sophisticated"
+    },
+    {
+      "id": "B2_K3_M2_011",
+      "word": "der/die Arbeitslose",
+      "plural": "die Arbeitslosen",
+      "meaning": "unemployed"
+    },
+    {
+      "id": "B2_K3_M2_012",
+      "word": "das Arbeitsumfeld",
+      "plural": "die Arbeitsumfelder",
+      "meaning": "work environment"
+    },
+    {
+      "id": "B2_K3_M2_013",
+      "word": "ausgehen (von + D.), ging aus, ist",
+      "meaning": "go out, went out, is"
+    },
+    {
+      "id": "B2_K3_M2_014",
+      "word": "ausgegangen",
+      "meaning": "assumed",
+      "example": "Man geht davon aus, dass der richtige Job glücklich machen kann."
+    },
+    {
+      "id": "B2_K3_M2_015",
+      "word": "ausüben (Druck ausüben)",
+      "meaning": "exert pressure"
+    },
+    {
+      "id": "B2_K3_M2_016",
+      "word": "der Ausweg (keinen Ausweg sehen)",
+      "plural": "die Auswege",
+      "meaning": "way out (see no way out)"
+    },
+    {
+      "id": "B2_K3_M2_017",
+      "word": "die Banklehre",
+      "plural": "die Banklehren",
+      "meaning": "bank apprenticeship"
+    },
+    {
+      "id": "B2_K3_M2_018",
+      "word": "der/die Befragte",
+      "plural": "die Befragten",
+      "meaning": "interviewee"
+    },
+    {
+      "id": "B2_K3_M2_019",
+      "word": "besagen",
+      "meaning": "say",
+      "example": "Eine Studie besagt, dass …"
+    },
+    {
+      "id": "B2_K3_M2_020",
+      "word": "beschäftigen (sich) (mit + D.)",
+      "meaning": "deal",
+      "example": "Die meisten Menschen beschäftigen sich gern mit anspruchsvollen Aufgaben."
+    },
+    {
+      "id": "B2_K3_M2_021",
+      "word": "bewältigen",
+      "meaning": "deal with"
+    },
+    {
+      "id": "B2_K3_M2_022",
+      "word": "die Dauer (Sg.)",
+      "meaning": "the duration (Sg.)",
+      "example": "Auf Dauer sind die Angestellten nicht mehr motiviert."
+    },
+    {
+      "id": "B2_K3_M2_023",
+      "word": "demotivieren",
+      "meaning": "demotivate"
+    },
+    {
+      "id": "B2_K3_M2_024",
+      "word": "der Druck (Sg.) (Druck ausüben)",
+      "meaning": "the pressure (Sg.) (to exert pressure)"
+    },
+    {
+      "id": "B2_K3_M2_025",
+      "word": "eingestehen (sich), gestand sich ein, hat",
+      "meaning": "admit, admit, has"
+    },
+    {
+      "id": "B2_K3_M2_026",
+      "word": "sich eingestanden (sich einen Fehler eingestehen)",
+      "meaning": "admitted (making a mistake admit)"
+    },
+    {
+      "id": "B2_K3_M2_027",
+      "word": "erhöhen",
+      "meaning": "increase"
+    },
+    {
+      "id": "B2_K3_M2_028",
+      "word": "fachlich",
+      "meaning": "professional"
+    },
+    {
+      "id": "B2_K3_M2_029",
+      "word": "die Finanzkrise",
+      "plural": "die Finanzkrisen",
+      "meaning": "financial crisis"
+    },
+    {
+      "id": "B2_K3_M2_030",
+      "word": "die Firmenkultur (Sg.)",
+      "meaning": "corporate culture"
+    },
+    {
+      "id": "B2_K3_M2_031",
+      "word": "hauptsächlich",
+      "meaning": "mainly"
+    },
+    {
+      "id": "B2_K3_M2_032",
+      "word": "der Herzenswunsch",
+      "plural": "die Herzenswünsche",
+      "meaning": "heart's desire"
+    },
+    {
+      "id": "B2_K3_M2_033",
+      "word": "Jura (Sg., ohne Artikel)",
+      "meaning": "Law"
+    },
+    {
+      "id": "B2_K3_M2_034",
+      "word": "die Karriereplanung",
+      "plural": "die Karriereplanungen",
+      "meaning": "career planning"
+    },
+    {
+      "id": "B2_K3_M2_035",
+      "word": "kooperativ",
+      "meaning": "cooperative"
+    },
+    {
+      "id": "B2_K3_M2_036",
+      "word": "lästig (für + A.)",
+      "meaning": "annoying"
+    },
+    {
+      "id": "B2_K3_M2_037",
+      "word": "das Lebensglück (Sg.)",
+      "meaning": "happiness in life"
+    },
+    {
+      "id": "B2_K3_M2_038",
+      "word": "locken",
+      "meaning": "Curls"
+    },
+    {
+      "id": "B2_K3_M2_039",
+      "word": "lösen (Konflikte lösen)",
+      "meaning": "solve (resolve conflicts)"
+    },
+    {
+      "id": "B2_K3_M2_040",
+      "word": "lukrativ",
+      "meaning": "lucrative"
+    },
+    {
+      "id": "B2_K3_M2_041",
+      "word": "der/die Manager/in",
+      "meaning": "manager"
+    },
+    {
+      "id": "B2_K3_M2_042",
+      "word": "mangelnd",
+      "meaning": "lacking"
+    },
+    {
+      "id": "B2_K3_M2_043",
+      "word": "der Misserfolg",
+      "plural": "die Misserfolge",
+      "meaning": "failure"
+    },
+    {
+      "id": "B2_K3_M2_044",
+      "word": "mitverantwortlich",
+      "meaning": "partly responsible"
+    },
+    {
+      "id": "B2_K3_M2_045",
+      "word": "nachgehen, ging nach, ist nachgegangen",
+      "meaning": "to follow",
+      "example": "einem Wunsch nachgehen"
+    },
+    {
+      "id": "B2_K3_M2_046",
+      "word": "restlich",
+      "meaning": "remaining"
+    },
+    {
+      "id": "B2_K3_M2_047",
+      "word": "die Rolle (eine Rolle spielen)",
+      "plural": "die Rollen",
+      "meaning": "the role (play a role)"
+    },
+    {
+      "id": "B2_K3_M2_048",
+      "word": "schaffen",
+      "meaning": "create, manage, accomplish, achieve,",
+      "example": "Arbeitgeber sollten den Angestellten ein angenehmes Arbeitsumfeld schaffen."
+    },
+    {
+      "id": "B2_K3_M2_049",
+      "word": "die Schauspielschule",
+      "plural": "die Schauspielschulen",
+      "meaning": "drama school"
+    },
+    {
+      "id": "B2_K3_M2_050",
+      "word": "sozial",
+      "meaning": "social"
+    },
+    {
+      "id": "B2_K3_M2_051",
+      "word": "stattdessen",
+      "meaning": "instead"
+    },
+    {
+      "id": "B2_K3_M2_052",
+      "word": "der Stellenwechsel",
+      "plural": "die Stellenwechsel",
+      "meaning": "the job change,"
+    },
+    {
+      "id": "B2_K3_M2_053",
+      "word": "die Strukturierung",
+      "plural": "die Strukturierungen",
+      "meaning": "structuring"
+    },
+    {
+      "id": "B2_K3_M2_054",
+      "word": "ungeliebt",
+      "meaning": "unloved"
+    },
+    {
+      "id": "B2_K3_M2_055",
+      "word": "unverzichtbar (für + A.)",
+      "meaning": "indispensable"
+    },
+    {
+      "id": "B2_K3_M2_056",
+      "word": "verlässlich",
+      "meaning": "reliable"
+    },
+    {
+      "id": "B2_K3_M2_057",
+      "word": "vernünftig",
+      "meaning": "reasonable"
+    },
+    {
+      "id": "B2_K3_M2_058",
+      "word": "der/die Vorgesetzte",
+      "plural": "die Vorgesetzten",
+      "meaning": "the supervisor"
+    },
+    {
+      "id": "B2_K3_M2_059",
+      "word": "wirtschaftlich",
+      "meaning": "economically"
+    },
+    {
+      "id": "B2_K3_M2_060",
+      "word": "die Zufriedenheit (Sg.)",
+      "meaning": "satisfaction"
+    },
+    {
+      "id": "B2_K3_M2_061",
+      "word": "die Wichtigkeit (Sg.)",
+      "meaning": "the importance"
     }
   ]
 }

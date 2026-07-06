@@ -5,10 +5,203 @@
   "words": [
     {
       "id": "B2_K7_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "annehmen, nahm an, hat",
+      "meaning": "Accept , accepted, accepted"
+    },
+    {
+      "id": "B2_K7_M3_002",
+      "word": "angenommen",
+      "meaning": "assumed",
+      "example": "Man nimmt an, dass alle zwei Wochen eine Sprache stirbt."
+    },
+    {
+      "id": "B2_K7_M3_003",
+      "word": "anpassen (sich) (an + A.)",
+      "meaning": "to adapt (to + A.)"
+    },
+    {
+      "id": "B2_K7_M3_004",
+      "word": "aussterben, starb aus, ist ausgestorben",
+      "meaning": "die out, died out, died out"
+    },
+    {
+      "id": "B2_K7_M3_005",
+      "word": "die Bedeutungsnuance",
+      "plural": "die Bedeutungsnuancen",
+      "meaning": "nuance of meaning"
+    },
+    {
+      "id": "B2_K7_M3_006",
+      "word": "der Bedeutungsverlust",
+      "plural": "die Bedeutungsverluste",
+      "meaning": "loss of meaning"
+    },
+    {
+      "id": "B2_K7_M3_007",
+      "word": "der Einfluss (an Einfluss gewinnen)",
+      "plural": "die Einflüsse",
+      "meaning": "influence (gain influence)"
+    },
+    {
+      "id": "B2_K7_M3_008",
+      "word": "der Einzelfall",
+      "plural": "die Einzelfälle",
+      "meaning": "individual case"
+    },
+    {
+      "id": "B2_K7_M3_009",
+      "word": "erfolgen",
+      "meaning": "respectively"
+    },
+    {
+      "id": "B2_K7_M3_010",
+      "word": "die Evolution (Sg.)",
+      "meaning": "evolution"
+    },
+    {
+      "id": "B2_K7_M3_011",
+      "word": "die Fantasiewelt",
+      "plural": "die Fantasiewelten",
+      "meaning": "fantasy world"
+    },
+    {
+      "id": "B2_K7_M3_012",
+      "word": "die Hochtechnologie",
+      "plural": "die Hochtechnologien",
+      "meaning": "high technology"
+    },
+    {
+      "id": "B2_K7_M3_013",
+      "word": "der Klang",
+      "plural": "die Klänge",
+      "meaning": "sound"
+    },
+    {
+      "id": "B2_K7_M3_014",
+      "word": "lebendig",
+      "meaning": "lively"
+    },
+    {
+      "id": "B2_K7_M3_015",
+      "word": "der Lebensraum",
+      "plural": "die Lebensraüme",
+      "meaning": "habitat"
+    },
+    {
+      "id": "B2_K7_M3_016",
+      "word": "die Menschheit (Sg.)",
+      "meaning": "humanity"
+    },
+    {
+      "id": "B2_K7_M3_017",
+      "word": "der/die Muttersprachler/in",
+      "meaning": "native speaker"
+    },
+    {
+      "id": "B2_K7_M3_018",
+      "word": "der Organismus",
+      "meaning": "the organism, organisms"
+    },
+    {
+      "id": "B2_K7_M3_019",
+      "word": "der Roboter",
+      "plural": "die Roboter",
+      "meaning": "robot"
+    },
+    {
+      "id": "B2_K7_M3_020",
+      "word": "das Sprachensterben (Sg.)",
+      "meaning": "language extinction"
+    },
+    {
+      "id": "B2_K7_M3_021",
+      "word": "der/die Sprachforscher/in",
+      "meaning": "linguist"
+    },
+    {
+      "id": "B2_K7_M3_022",
+      "word": "der Stamm",
+      "plural": "die Stämme",
+      "meaning": "tribe"
+    },
+    {
+      "id": "B2_K7_M3_023",
+      "word": "die Tierspur",
+      "plural": "die Tierspuren",
+      "meaning": "animal trail"
+    },
+    {
+      "id": "B2_K7_M3_024",
+      "word": "das Todesurteil",
+      "plural": "die Todesurteile",
+      "meaning": "death sentence"
+    },
+    {
+      "id": "B2_K7_M3_025",
+      "word": "übersetzbar",
+      "meaning": "translatable"
+    },
+    {
+      "id": "B2_K7_M3_026",
+      "word": "die Übertragung",
+      "plural": "die Übertragungen",
+      "meaning": "the transfer"
+    },
+    {
+      "id": "B2_K7_M3_027",
+      "word": "überwiegend",
+      "meaning": "mostly"
+    },
+    {
+      "id": "B2_K7_M3_028",
+      "word": "die Verbreitung",
+      "plural": "die Verbreitungen",
+      "meaning": "spread"
+    },
+    {
+      "id": "B2_K7_M3_029",
+      "word": "verdrängen",
+      "meaning": "repress"
+    },
+    {
+      "id": "B2_K7_M3_030",
+      "word": "vererben",
+      "meaning": "to inherit"
+    },
+    {
+      "id": "B2_K7_M3_031",
+      "word": "das Volk",
+      "plural": "die Völker",
+      "meaning": "the people"
+    },
+    {
+      "id": "B2_K7_M3_032",
+      "word": "der Vormarsch",
+      "plural": "die Vormärsche",
+      "meaning": "the advance",
+      "example": "auf dem Vormarsch sein"
+    },
+    {
+      "id": "B2_K7_M3_033",
+      "word": "wiedererkennen, erkannte wieder, hat",
+      "meaning": "recognize, recognized again, has"
+    },
+    {
+      "id": "B2_K7_M3_034",
+      "word": "wiedererkannt",
+      "meaning": "recognized"
+    },
+    {
+      "id": "B2_K7_M3_035",
+      "word": "bestehen, bestand, hat bestanden",
+      "meaning": "exist, exist, passed",
+      "example": "eine Prüfung bestehen"
+    },
+    {
+      "id": "B2_K7_M3_036",
+      "word": "der Dialekt",
+      "plural": "die Dialekte",
+      "meaning": "the dialect, -e"
     }
   ]
 }

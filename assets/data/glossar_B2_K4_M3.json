@@ -5,10 +5,119 @@
   "words": [
     {
       "id": "B2_K4_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Behandlungsmöglichkeit",
+      "plural": "die Behandlungsmöglichkeiten",
+      "meaning": "treatment option"
+    },
+    {
+      "id": "B2_K4_M3_002",
+      "word": "das Merkmal",
+      "plural": "die Merkmale",
+      "meaning": "characteristic"
+    },
+    {
+      "id": "B2_K4_M3_003",
+      "word": "die Onlinesucht (Sg.)",
+      "meaning": "online addiction"
+    },
+    {
+      "id": "B2_K4_M3_004",
+      "word": "die Sucht",
+      "plural": "die Süchte",
+      "meaning": "addiction"
+    },
+    {
+      "id": "B2_K4_M3_005",
+      "word": "die Suchtkrankheit",
+      "plural": "die Suchtkrankheiten",
+      "meaning": "addiction"
+    },
+    {
+      "id": "B2_K4_M3_006",
+      "word": "anstellen (Untersuchungen anstellen)",
+      "meaning": "start (start investigations)"
+    },
+    {
+      "id": "B2_K4_M3_007",
+      "word": "die Computerspielsucht (Sg.)",
+      "meaning": "computer game addiction (Sg.)"
+    },
+    {
+      "id": "B2_K4_M3_008",
+      "word": "ergreifen, ergriff, hat ergriffen (die Flucht ergreifen)",
+      "meaning": "seize, seize, seize (the escape take)"
+    },
+    {
+      "id": "B2_K4_M3_009",
+      "word": "die Parallelwelt",
+      "plural": "die Parallelwelten",
+      "meaning": "parallel world"
+    },
+    {
+      "id": "B2_K4_M3_010",
+      "word": "versetzen (jmd. in Aufregung versetzen)",
+      "meaning": "put up with excitement"
+    },
+    {
+      "id": "B2_K4_M3_011",
+      "word": "virtuell",
+      "meaning": "virtual"
+    },
+    {
+      "id": "B2_K4_M3_012",
+      "word": "Betracht (Sg.) (ohne Artikel) (in Betracht kommen)",
+      "meaning": "consideration (Sg.) (Without article) (to be considered)"
+    },
+    {
+      "id": "B2_K4_M3_013",
+      "word": "enorm",
+      "meaning": "enormously"
+    },
+    {
+      "id": "B2_K4_M3_014",
+      "word": "schließen (auf + A.)",
+      "meaning": "close (on + A.)"
+    },
+    {
+      "id": "B2_K4_M3_015",
+      "word": "stehen, stand, hat gestanden (unter Druck stehen)",
+      "meaning": "standing, standing, standing (being under pressure)"
+    },
+    {
+      "id": "B2_K4_M3_016",
+      "word": "2d ableiten (von + D.)",
+      "meaning": "Derive 2d (from + D.)"
+    },
+    {
+      "id": "B2_K4_M3_017",
+      "word": "aufregen (sich) (über + A.)",
+      "meaning": "upset (about + A.)"
+    },
+    {
+      "id": "B2_K4_M3_018",
+      "word": "die Aufregung (Sg.) (jmd. in Aufregung versetzen)",
+      "meaning": "excitement (Sg.) (so. in excitement offset)"
+    },
+    {
+      "id": "B2_K4_M3_019",
+      "word": "zugrunde liegen, lag zugrunde, ist",
+      "meaning": "underlying, underlying, is"
+    },
+    {
+      "id": "B2_K4_M3_020",
+      "word": "zugrunde gelegen",
+      "meaning": "underlying"
+    },
+    {
+      "id": "B2_K4_M3_021",
+      "word": "kommen, kam, ist gekommen (in Mode kommen)",
+      "meaning": "3come, came, has come (in fashion come)"
+    },
+    {
+      "id": "B2_K4_M3_022",
+      "word": "der Turnschuh",
+      "plural": "die Turnschuhe",
+      "meaning": "the sneaker, -e"
     }
   ]
 }

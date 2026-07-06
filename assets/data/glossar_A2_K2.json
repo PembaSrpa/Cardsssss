@@ -4,10 +4,677 @@
   "words": [
     {
       "id": "A2_K2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Schulzeit (Singular)",
+      "meaning": "school time, time at school"
+    },
+    {
+      "id": "A2_K2_002",
+      "word": "worüber?",
+      "meaning": "about what"
+    },
+    {
+      "id": "A2_K2_003",
+      "word": "abschließen (schließt ab, hat abgeschlossen)",
+      "meaning": "to close up, lock up"
+    },
+    {
+      "id": "A2_K2_004",
+      "word": "der Altenpfleger",
+      "plural": "Altenpfleger",
+      "meaning": "elderly care nurse"
+    },
+    {
+      "id": "A2_K2_005",
+      "word": "die Berufsschule",
+      "plural": "Berufsschulen",
+      "meaning": "trade school"
+    },
+    {
+      "id": "A2_K2_006",
+      "word": "die Elektrotechnik (Singular)",
+      "meaning": "electrical engineering"
+    },
+    {
+      "id": "A2_K2_007",
+      "word": "der Hotelkaufmann",
+      "plural": "Hotelkaufmänner",
+      "meaning": "hotel manager"
+    },
+    {
+      "id": "A2_K2_008",
+      "word": "das Klassentreffen",
+      "plural": "Klassentreffen",
+      "meaning": "class reunion"
+    },
+    {
+      "id": "A2_K2_009",
+      "word": "die Lehre",
+      "plural": "Lehren",
+      "meaning": "apprenticeship"
+    },
+    {
+      "id": "A2_K2_010",
+      "word": "das Lieblingsfach",
+      "plural": "Lieblingsfächer",
+      "meaning": "favorite subject"
+    },
+    {
+      "id": "A2_K2_011",
+      "word": "die Note",
+      "plural": "Noten",
+      "meaning": "grade"
+    },
+    {
+      "id": "A2_K2_012",
+      "word": "das Praktikum",
+      "plural": "Praktika",
+      "meaning": "practicum, internship"
+    },
+    {
+      "id": "A2_K2_013",
+      "word": "die Vorlesung",
+      "plural": "Vorlesungen",
+      "meaning": "lecture"
+    },
+    {
+      "id": "A2_K2_014",
+      "word": "das Zeugnis",
+      "plural": "Zeugnisse",
+      "meaning": "report card"
+    },
+    {
+      "id": "A2_K2_015",
+      "word": "das Au-pair",
+      "plural": "Au-pairs",
+      "meaning": "au pair"
+    },
+    {
+      "id": "A2_K2_016",
+      "word": "die Informatik (Singular)",
+      "meaning": "computer science"
+    },
+    {
+      "id": "A2_K2_017",
+      "word": "das Sportgeschäft",
+      "plural": "Sportgeschäfte",
+      "meaning": "sports goods store"
+    },
+    {
+      "id": "A2_K2_018",
+      "word": "der Steckbrief",
+      "plural": "Steckbriefe",
+      "meaning": "personal description"
+    },
+    {
+      "id": "A2_K2_019",
+      "word": "die Zukunft (Singular)",
+      "meaning": "future"
+    },
+    {
+      "id": "A2_K2_020",
+      "word": "das Abitur (Singular)",
+      "meaning": "high school graduation"
+    },
+    {
+      "id": "A2_K2_021",
+      "word": "alle",
+      "meaning": "every",
+      "example": "Alle paar Wochen waren Ferien, da konnte ich ausschlafen."
+    },
+    {
+      "id": "A2_K2_022",
+      "word": "der/die Arme",
+      "plural": "Armen",
+      "meaning": "unfortunate person"
+    },
+    {
+      "id": "A2_K2_023",
+      "word": "ausschlafen (schläft aus, hat ausgeschlafen)",
+      "meaning": "to sleep in"
+    },
+    {
+      "id": "A2_K2_024",
+      "word": "einreiben (reibt ein, hat eingerieben)",
+      "meaning": "to rub in"
+    },
+    {
+      "id": "A2_K2_025",
+      "word": "der Eintrag",
+      "plural": "Einträge",
+      "meaning": "entry"
+    },
+    {
+      "id": "A2_K2_026",
+      "word": "die Englischlehrerin",
+      "plural": "Englischlehrerinnen",
+      "meaning": "English teacher"
+    },
+    {
+      "id": "A2_K2_027",
+      "word": "die Erinnerung",
+      "plural": "Erinnerungen",
+      "meaning": "memory"
+    },
+    {
+      "id": "A2_K2_028",
+      "word": "erwachsen",
+      "meaning": "mature, grown-up"
+    },
+    {
+      "id": "A2_K2_029",
+      "word": "der Fehler",
+      "plural": "Fehler",
+      "meaning": "mistake"
+    },
+    {
+      "id": "A2_K2_030",
+      "word": "die Ferien (Plural)",
+      "meaning": "vacation"
+    },
+    {
+      "id": "A2_K2_031",
+      "word": "die Hauptsache",
+      "plural": "Hauptsachen",
+      "meaning": "main thing"
+    },
+    {
+      "id": "A2_K2_032",
+      "word": "die Kunst",
+      "plural": "Künste",
+      "meaning": "art"
+    },
+    {
+      "id": "A2_K2_033",
+      "word": "die Kunststunde",
+      "plural": "Kunststunden",
+      "meaning": "art class"
+    },
+    {
+      "id": "A2_K2_034",
+      "word": "das Land (Singular)",
+      "meaning": "countryside",
+      "example": "Elsa hat früher auf dem Land gewohnt."
+    },
+    {
+      "id": "A2_K2_035",
+      "word": "die Lieblingsstunde",
+      "plural": "Lieblingsstunden",
+      "meaning": "favorite class"
+    },
+    {
+      "id": "A2_K2_036",
+      "word": "Mathe (ohne Artikel, Singular)",
+      "meaning": "math"
+    },
+    {
+      "id": "A2_K2_037",
+      "word": "der Mathelehrer",
+      "plural": "Mathelehrer",
+      "meaning": "math teacher"
+    },
+    {
+      "id": "A2_K2_038",
+      "word": "paar",
+      "meaning": "few, pair",
+      "example": "Alle paar Wochen kann ich aussschlafen."
+    },
+    {
+      "id": "A2_K2_039",
+      "word": "der Riesenspaß (Singular)",
+      "meaning": "lots of fun"
+    },
+    {
+      "id": "A2_K2_040",
+      "word": "schrecklich",
+      "meaning": "terrible"
+    },
+    {
+      "id": "A2_K2_041",
+      "word": "der Schulfreund",
+      "plural": "Schulfreunde",
+      "meaning": "friend from school"
+    },
+    {
+      "id": "A2_K2_042",
+      "word": "sehen (sieht, hat gesehen)",
+      "meaning": "to see",
+      "example": "Ich sehe das ganz anders als du."
+    },
+    {
+      "id": "A2_K2_043",
+      "word": "die Sommerferien (Plural)",
+      "meaning": "summer vacation"
+    },
+    {
+      "id": "A2_K2_044",
+      "word": "die Tür",
+      "plural": "Türen",
+      "meaning": "door"
+    },
+    {
+      "id": "A2_K2_045",
+      "word": "der Unterricht (Singular)",
+      "meaning": "lessons, instruction"
+    },
+    {
+      "id": "A2_K2_046",
+      "word": "der Vokabeltest",
+      "plural": "Vokabeltests",
+      "meaning": "vocabulary test"
+    },
+    {
+      "id": "A2_K2_047",
+      "word": "zukleben",
+      "meaning": "to seal"
+    },
+    {
+      "id": "A2_K2_048",
+      "word": "die Hausaufgabe",
+      "plural": "Hausaufgaben",
+      "meaning": "homework"
+    },
+    {
+      "id": "A2_K2_049",
+      "word": "kommen (kommt, ist gekommen)",
+      "meaning": "to come",
+      "example": "Ach, komm!"
+    },
+    {
+      "id": "A2_K2_050",
+      "word": "die Schuluniform",
+      "plural": "Schuluniformen",
+      "meaning": "school uniform"
+    },
+    {
+      "id": "A2_K2_051",
+      "word": "überrascht",
+      "meaning": "surprised"
+    },
+    {
+      "id": "A2_K2_052",
+      "word": "der Beitrag",
+      "plural": "Beiträge",
+      "meaning": "contribution"
+    },
+    {
+      "id": "A2_K2_053",
+      "word": "die Theatergruppe",
+      "plural": "Theatergruppen",
+      "meaning": "theater troupe"
+    },
+    {
+      "id": "A2_K2_054",
+      "word": "der Kommentar",
+      "plural": "Kommentare",
+      "meaning": "commentary"
+    },
+    {
+      "id": "A2_K2_055",
+      "word": "mischen",
+      "meaning": "to mix"
+    },
+    {
+      "id": "A2_K2_056",
+      "word": "wie",
+      "meaning": "how",
+      "example": "Wie komisch!"
+    },
+    {
+      "id": "A2_K2_057",
+      "word": "wundern (sich) (über + Akk.)",
+      "meaning": "to be surprised about"
+    },
+    {
+      "id": "A2_K2_058",
+      "word": "zu",
+      "meaning": "to",
+      "example": "Nicht zu glauben!"
+    },
+    {
+      "id": "A2_K2_059",
+      "word": "sortieren",
+      "meaning": "to sort"
+    },
+    {
+      "id": "A2_K2_060",
+      "word": "das Trainingsprogramm",
+      "plural": "Trainingsprogramme",
+      "meaning": "training program"
+    },
+    {
+      "id": "A2_K2_061",
+      "word": "der Transport",
+      "plural": "Transporte",
+      "meaning": "transport"
+    },
+    {
+      "id": "A2_K2_062",
+      "word": "korrigieren",
+      "meaning": "to correct"
+    },
+    {
+      "id": "A2_K2_063",
+      "word": "schon lange",
+      "meaning": "long, for a long time"
+    },
+    {
+      "id": "A2_K2_064",
+      "word": "die WG",
+      "plural": "WGs",
+      "meaning": "apartment share, housing cooperative"
+    },
+    {
+      "id": "A2_K2_065",
+      "word": "zurückkommen (kommt zurück, ist zurückgekommen)",
+      "meaning": "to return, come back"
+    },
+    {
+      "id": "A2_K2_066",
+      "word": "zusammenwohnen",
+      "meaning": "to live together"
+    },
+    {
+      "id": "A2_K2_067",
+      "word": "hängen (hängt, hat/ist gehangen)",
+      "meaning": "to hang",
+      "example": "Die Uhr hängt an der Wand."
+    },
+    {
+      "id": "A2_K2_068",
+      "word": "hängen",
+      "meaning": "to hang up",
+      "example": "Tom hängt die Uhr an die Wand."
+    },
+    {
+      "id": "A2_K2_069",
+      "word": "legen",
+      "meaning": "to lay"
+    },
+    {
+      "id": "A2_K2_070",
+      "word": "das Mehl",
+      "plural": "Mehle",
+      "meaning": "flour"
+    },
+    {
+      "id": "A2_K2_071",
+      "word": "umdrehen (sich)",
+      "meaning": "to turn around"
+    },
+    {
+      "id": "A2_K2_072",
+      "word": "verändern",
+      "meaning": "to change, alter"
+    },
+    {
+      "id": "A2_K2_073",
+      "word": "die Veränderung",
+      "plural": "Veränderungen",
+      "meaning": "changes, alterations"
+    },
+    {
+      "id": "A2_K2_074",
+      "word": "fest",
+      "meaning": "fixed, set"
+    },
+    {
+      "id": "A2_K2_075",
+      "word": "außen",
+      "meaning": "outside"
+    },
+    {
+      "id": "A2_K2_076",
+      "word": "der Ball",
+      "plural": "Bälle",
+      "meaning": "ball",
+      "example": "Kommst du heute Abend mit auf den Ball?"
+    },
+    {
+      "id": "A2_K2_077",
+      "word": "enttäuscht",
+      "meaning": "disappointed"
+    },
+    {
+      "id": "A2_K2_078",
+      "word": "irgendwas",
+      "meaning": "something"
+    },
+    {
+      "id": "A2_K2_079",
+      "word": "die Oper",
+      "plural": "Opern",
+      "meaning": "opera"
+    },
+    {
+      "id": "A2_K2_080",
+      "word": "Servus!",
+      "meaning": "Greetings!"
+    },
+    {
+      "id": "A2_K2_081",
+      "word": "traditionell",
+      "meaning": "traditional"
+    },
+    {
+      "id": "A2_K2_082",
+      "word": "unbedingt",
+      "meaning": "absolutely, necessarily"
+    },
+    {
+      "id": "A2_K2_083",
+      "word": "das Univiertel",
+      "plural": "Univiertel",
+      "meaning": "university district"
+    },
+    {
+      "id": "A2_K2_084",
+      "word": "zu Besuch",
+      "meaning": "for a visit"
+    },
+    {
+      "id": "A2_K2_085",
+      "word": "das Blatt",
+      "plural": "Blätter",
+      "meaning": "sheet of paper"
+    },
+    {
+      "id": "A2_K2_086",
+      "word": "die Disco",
+      "plural": "Discos",
+      "meaning": "discotheque"
+    },
+    {
+      "id": "A2_K2_087",
+      "word": "das Forum",
+      "plural": "Foren",
+      "meaning": "forum"
+    },
+    {
+      "id": "A2_K2_088",
+      "word": "usw.",
+      "meaning": "etc., and so on"
+    },
+    {
+      "id": "A2_K2_089",
+      "word": "weitergeben (gibt weiter, hat weitergegeben)",
+      "meaning": "to pass on"
+    },
+    {
+      "id": "A2_K2_090",
+      "word": "der Abschluss",
+      "plural": "Abschlüsse",
+      "meaning": "degree"
+    },
+    {
+      "id": "A2_K2_091",
+      "word": "das Bundesland",
+      "plural": "Bundesländer",
+      "meaning": "province, state"
+    },
+    {
+      "id": "A2_K2_092",
+      "word": "die Hauptschule",
+      "plural": "Hauptschulen",
+      "meaning": "school up to 9th grade"
+    },
+    {
+      "id": "A2_K2_093",
+      "word": "die Realschule",
+      "plural": "Realschulen",
+      "meaning": "school up to 10th grade"
+    },
+    {
+      "id": "A2_K2_094",
+      "word": "das Schulsystem",
+      "plural": "Schulsysteme",
+      "meaning": "school system"
+    },
+    {
+      "id": "A2_K2_095",
+      "word": "der Schultyp",
+      "plural": "Schultypen",
+      "meaning": "school type"
+    },
+    {
+      "id": "A2_K2_096",
+      "word": "der Abendkurs",
+      "plural": "Abendkurse",
+      "meaning": "night class"
+    },
+    {
+      "id": "A2_K2_097",
+      "word": "die Anglistik (Singular)",
+      "meaning": "English language and literature"
+    },
+    {
+      "id": "A2_K2_098",
+      "word": "die Arbeitsstelle",
+      "plural": "Arbeitsstellen",
+      "meaning": "job, position"
+    },
+    {
+      "id": "A2_K2_099",
+      "word": "der Bankkaufmann",
+      "plural": "Bankkaufmänner",
+      "meaning": "banker, bank clerk"
+    },
+    {
+      "id": "A2_K2_100",
+      "word": "das Berufsleben (Singular)",
+      "meaning": "professional life"
+    },
+    {
+      "id": "A2_K2_101",
+      "word": "Chemie (ohne Artikel, Singular)",
+      "meaning": "chemistry"
+    },
+    {
+      "id": "A2_K2_102",
+      "word": "die Dauer (Singular)",
+      "meaning": "duration"
+    },
+    {
+      "id": "A2_K2_103",
+      "word": "entscheiden (sich) (für/gegen + Akk.) (entscheidet sich, hat sich entschieden)",
+      "meaning": "to decide"
+    },
+    {
+      "id": "A2_K2_104",
+      "word": "das Fach",
+      "plural": "Fächer",
+      "meaning": "subject (in school)"
+    },
+    {
+      "id": "A2_K2_105",
+      "word": "der Ferienclub",
+      "plural": "Ferienclubs",
+      "meaning": "resort"
+    },
+    {
+      "id": "A2_K2_106",
+      "word": "die Grundschule",
+      "plural": "Grundschulen",
+      "meaning": "elementary school"
+    },
+    {
+      "id": "A2_K2_107",
+      "word": "der Hauptschulabschluss",
+      "plural": "Hauptschulabschlüsse",
+      "meaning": "graduation after 9th grade"
+    },
+    {
+      "id": "A2_K2_108",
+      "word": "das Internat",
+      "plural": "Internate",
+      "meaning": "boarding school"
+    },
+    {
+      "id": "A2_K2_109",
+      "word": "die Karriere",
+      "plural": "Karrieren",
+      "meaning": "career"
+    },
+    {
+      "id": "A2_K2_110",
+      "word": "nämlich",
+      "meaning": "indeed, you see"
+    },
+    {
+      "id": "A2_K2_111",
+      "word": "perfekt",
+      "meaning": "perfect"
+    },
+    {
+      "id": "A2_K2_112",
+      "word": "die Physik (Singular)",
+      "meaning": "physics"
+    },
+    {
+      "id": "A2_K2_113",
+      "word": "der Realschulabschluss",
+      "plural": "Realschulabschlüsse",
+      "meaning": "graduation after 10th grade"
+    },
+    {
+      "id": "A2_K2_114",
+      "word": "der Schulabschluss",
+      "plural": "Schulabschlüsse",
+      "meaning": "secondary school graduation"
+    },
+    {
+      "id": "A2_K2_115",
+      "word": "die Sportstunde",
+      "plural": "Sportstunden",
+      "meaning": "gym class"
+    },
+    {
+      "id": "A2_K2_116",
+      "word": "der Stundenplan",
+      "plural": "Stundenpläne",
+      "meaning": "schedule"
+    },
+    {
+      "id": "A2_K2_117",
+      "word": "die Vorbereitung",
+      "plural": "Vorbereitungen",
+      "meaning": "preparation"
+    },
+    {
+      "id": "A2_K2_118",
+      "word": "das Klassenzimmer",
+      "plural": "Klassenzimmer",
+      "meaning": "classroom"
+    },
+    {
+      "id": "A2_K2_119",
+      "word": "die Unterrichtszeit",
+      "plural": "Unterrichtszeiten",
+      "meaning": "class time"
+    },
+    {
+      "id": "A2_K2_120",
+      "word": "kommentieren",
+      "meaning": "to comment"
     }
   ]
 }

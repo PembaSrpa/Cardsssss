@@ -5,10 +5,339 @@
   "words": [
     {
       "id": "B2_K3_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Bestandteil",
+      "plural": "die Bestandteile",
+      "meaning": "component"
+    },
+    {
+      "id": "B2_K3_M1_002",
+      "word": "betreiben, betrieb, hat betrieben (einen Blog betreiben)",
+      "meaning": "operate (a Operate blog)"
+    },
+    {
+      "id": "B2_K3_M1_003",
+      "word": "der/die Blogger/in",
+      "meaning": "blogger"
+    },
+    {
+      "id": "B2_K3_M1_004",
+      "word": "durchhalten, hielt durch, hat durchgehalten",
+      "meaning": "persevere"
+    },
+    {
+      "id": "B2_K3_M1_005",
+      "word": "der Geruchssinn (Sg.)",
+      "meaning": "sense of smell"
+    },
+    {
+      "id": "B2_K3_M1_006",
+      "word": "das Handwerk (Sg.)",
+      "meaning": "craft"
+    },
+    {
+      "id": "B2_K3_M1_007",
+      "word": "hängen, hing, hat gehangen (den Job an den Nagel hängen)",
+      "meaning": "hang (the job hang the nail)"
+    },
+    {
+      "id": "B2_K3_M1_008",
+      "word": "hauptberuflich",
+      "meaning": "full time"
+    },
+    {
+      "id": "B2_K3_M1_009",
+      "word": "die Hautcreme",
+      "plural": "die Hautcremes",
+      "meaning": "skin cream"
+    },
+    {
+      "id": "B2_K3_M1_010",
+      "word": "kreieren",
+      "meaning": "create"
+    },
+    {
+      "id": "B2_K3_M1_011",
+      "word": "der Lifestyle",
+      "plural": "die Lifestyles",
+      "meaning": "lifestyle"
+    },
+    {
+      "id": "B2_K3_M1_012",
+      "word": "die Mode (in Mode kommen)",
+      "plural": "die Moden",
+      "meaning": "fashion (come into fashion)"
+    },
+    {
+      "id": "B2_K3_M1_013",
+      "word": "der Nagel (an den Nagel hängen)",
+      "plural": "die Nägel",
+      "meaning": "nail (hang on the nail)"
+    },
+    {
+      "id": "B2_K3_M1_014",
+      "word": "der Nervenkitzel",
+      "plural": "die Nervenkitzel",
+      "meaning": "thrill,"
+    },
+    {
+      "id": "B2_K3_M1_015",
+      "word": "der/die Parfümeur/in",
+      "meaning": "perfumer"
+    },
+    {
+      "id": "B2_K3_M1_016",
+      "word": "die Rezeptur",
+      "plural": "die Rezepturen",
+      "meaning": "recipe"
+    },
+    {
+      "id": "B2_K3_M1_017",
+      "word": "das Shampoo",
+      "plural": "die Shampoos",
+      "meaning": "shampoo"
+    },
+    {
+      "id": "B2_K3_M1_018",
+      "word": "der/die Stuntman/Stuntfrau",
+      "meaning": "stunt man / men"
+    },
+    {
+      "id": "B2_K3_M1_019",
+      "word": "die Stuntschule",
+      "plural": "die Stuntschulen",
+      "meaning": "stunt school"
+    },
+    {
+      "id": "B2_K3_M1_020",
+      "word": "der/die Werbepartner/in",
+      "meaning": "advertising partner"
+    },
+    {
+      "id": "B2_K3_M1_021",
+      "word": "der Zeitvertreib",
+      "plural": "die Zeitvertreibe",
+      "meaning": "pastime"
+    },
+    {
+      "id": "B2_K3_M1_022",
+      "word": "die Arztpraxis",
+      "plural": "die Arztpraxispraxen",
+      "meaning": "medical practice"
+    },
+    {
+      "id": "B2_K3_M1_023",
+      "word": "die Ausdauer (Sg.)",
+      "meaning": "endurance"
+    },
+    {
+      "id": "B2_K3_M1_024",
+      "word": "dekorieren",
+      "meaning": "decorate"
+    },
+    {
+      "id": "B2_K3_M1_025",
+      "word": "drauf (Abk. v. darauf)",
+      "meaning": "on it (abbr. of it)"
+    },
+    {
+      "id": "B2_K3_M1_026",
+      "word": "einrichten (die Wohnung einrichten)",
+      "meaning": "furnish (furnish the apartment)"
+    },
+    {
+      "id": "B2_K3_M1_027",
+      "word": "einsehen, sah ein, hat eingesehen",
+      "meaning": "see",
+      "example": "Ich habe eingesehen, dass mein Talent nicht reicht."
+    },
+    {
+      "id": "B2_K3_M1_028",
+      "word": "einstellen (sich) (auf + A.)",
+      "meaning": "adjust",
+      "example": "Als Koch muss man sich auf Arbeitszeiten am Wochenende einstellen."
+    },
+    {
+      "id": "B2_K3_M1_029",
+      "word": "das Fingerspitzengefühl (Sg.)",
+      "meaning": "instinct"
+    },
+    {
+      "id": "B2_K3_M1_030",
+      "word": "die Genauigkeit (Sg.)",
+      "meaning": "accuracy"
+    },
+    {
+      "id": "B2_K3_M1_031",
+      "word": "das Geschick (handwerkliches Geschick)",
+      "plural": "die Geschicke",
+      "meaning": "skill"
+    },
+    {
+      "id": "B2_K3_M1_032",
+      "word": "handwerklich",
+      "meaning": "crafts"
+    },
+    {
+      "id": "B2_K3_M1_033",
+      "word": "die Innenarchitektur",
+      "plural": "die Innenarchitekturen",
+      "meaning": "interior design"
+    },
+    {
+      "id": "B2_K3_M1_034",
+      "word": "der/die Klavierbauer/in",
+      "meaning": "piano maker"
+    },
+    {
+      "id": "B2_K3_M1_035",
+      "word": "der/die Konzertpianist",
+      "meaning": "concert pianist"
+    },
+    {
+      "id": "B2_K3_M1_036",
+      "word": "der/die Maskenbildner/in",
+      "meaning": "makeup artist"
+    },
+    {
+      "id": "B2_K3_M1_037",
+      "word": "die Privatwohnung",
+      "plural": "die Privatwohnungen",
+      "meaning": "private apartment"
+    },
+    {
+      "id": "B2_K3_M1_038",
+      "word": "reichen",
+      "meaning": "enough",
+      "example": "Ich habe eingesehen, dass mein Talent nicht reicht."
+    },
+    {
+      "id": "B2_K3_M1_039",
+      "word": "restaurieren",
+      "meaning": "restore"
+    },
+    {
+      "id": "B2_K3_M1_040",
+      "word": "stimmen (ein Instrument stimmen)",
+      "meaning": "tune (tune an instrument)"
+    },
+    {
+      "id": "B2_K3_M1_041",
+      "word": "umgestalten",
+      "meaning": "remodel"
+    },
+    {
+      "id": "B2_K3_M1_042",
+      "word": "die Handbewegung",
+      "plural": "die Handbewegungen",
+      "meaning": "the hand movement"
+    },
+    {
+      "id": "B2_K3_M1_043",
+      "word": "die Stellenanzeige",
+      "plural": "die Stellenanzeigen",
+      "meaning": "job advertisement"
+    },
+    {
+      "id": "B2_K3_M1_044",
+      "word": "der/die Bauzeichner/in",
+      "meaning": "draftsman"
+    },
+    {
+      "id": "B2_K3_M1_045",
+      "word": "die Bürokauffrau",
+      "plural": "die Bürokauffrauen",
+      "meaning": "office clerk"
+    },
+    {
+      "id": "B2_K3_M1_046",
+      "word": "der/die Informatiker/in",
+      "meaning": "computer scientist"
+    },
+    {
+      "id": "B2_K3_M1_047",
+      "word": "der/die Jurist/in",
+      "meaning": "lawyer"
+    },
+    {
+      "id": "B2_K3_M1_048",
+      "word": "die Praktikumsbörse",
+      "plural": "die Praktikumsbörsen",
+      "meaning": "internship exchange"
+    },
+    {
+      "id": "B2_K3_M1_049",
+      "word": "der/die Schneider/in",
+      "meaning": "tailor"
+    },
+    {
+      "id": "B2_K3_M1_050",
+      "word": "der Nebenjob",
+      "plural": "die Nebenjobs",
+      "meaning": "the side job, -s"
+    },
+    {
+      "id": "B2_K3_M1_051",
+      "word": "die Absage",
+      "plural": "die Absagen",
+      "meaning": "the cancellation, -n"
+    },
+    {
+      "id": "B2_K3_M1_052",
+      "word": "die Berufserfahrung",
+      "plural": "die Berufserfahrungen",
+      "meaning": "the professional experience"
+    },
+    {
+      "id": "B2_K3_M1_053",
+      "word": "das Design",
+      "plural": "die Designs",
+      "meaning": "the design, -s"
+    },
+    {
+      "id": "B2_K3_M1_054",
+      "word": "frustriert",
+      "meaning": "frustrated"
+    },
+    {
+      "id": "B2_K3_M1_055",
+      "word": "die Herausforderung",
+      "plural": "die Herausforderungen",
+      "meaning": "the challenges"
+    },
+    {
+      "id": "B2_K3_M1_056",
+      "word": "das Internetportal",
+      "plural": "die Internetportale",
+      "meaning": "the Internet portal, -e"
+    },
+    {
+      "id": "B2_K3_M1_057",
+      "word": "die Praktikumszeit",
+      "plural": "die Praktikumszeiten",
+      "meaning": "the internship time, -en"
+    },
+    {
+      "id": "B2_K3_M1_058",
+      "word": "die Aufzählung",
+      "plural": "die Aufzählungen",
+      "meaning": "the list, -en"
+    },
+    {
+      "id": "B2_K3_M1_059",
+      "word": "die Einschränkung",
+      "plural": "die Einschränkungen",
+      "meaning": "the limitation, -en"
+    },
+    {
+      "id": "B2_K3_M1_060",
+      "word": "das Bewerbungsschreiben",
+      "plural": "die Bewerbungsschreiben",
+      "meaning": "the application letter,"
+    },
+    {
+      "id": "B2_K3_M1_061",
+      "word": "genügend",
+      "meaning": "enough"
     }
   ]
 }

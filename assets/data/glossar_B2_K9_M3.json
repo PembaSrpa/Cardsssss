@@ -5,10 +5,53 @@
   "words": [
     {
       "id": "B2_K9_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Betonung",
+      "plural": "die Betonungen",
+      "meaning": "emphasis"
+    },
+    {
+      "id": "B2_K9_M3_002",
+      "word": "der Befehl",
+      "plural": "die Befehle",
+      "meaning": "command"
+    },
+    {
+      "id": "B2_K9_M3_003",
+      "word": "die Empörung (Sg.)",
+      "meaning": "indignation"
+    },
+    {
+      "id": "B2_K9_M3_004",
+      "word": "die Ermunterung",
+      "plural": "die Ermunterungen",
+      "meaning": "encouragement"
+    },
+    {
+      "id": "B2_K9_M3_005",
+      "word": "gemein",
+      "meaning": "common"
+    },
+    {
+      "id": "B2_K9_M3_006",
+      "word": "abschwächen",
+      "meaning": "Weaken"
+    },
+    {
+      "id": "B2_K9_M3_007",
+      "word": "der Kontext",
+      "plural": "die Kontexte",
+      "meaning": "context"
+    },
+    {
+      "id": "B2_K9_M3_008",
+      "word": "abschreiben, schreib ab, hat",
+      "meaning": "copy, copy, has"
+    },
+    {
+      "id": "B2_K9_M3_009",
+      "word": "abgeschrieben",
+      "meaning": "written off",
+      "example": "Darf ich deine Hausaufgaben abschreiben?"
     }
   ]
 }

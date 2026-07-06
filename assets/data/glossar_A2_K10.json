@@ -4,10 +4,684 @@
   "words": [
     {
       "id": "A2_K10_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "die Unterhaltung",
+      "plural": "Unterhaltungen",
+      "meaning": "entertainment, conversation"
+    },
+    {
+      "id": "A2_K10_002",
+      "word": "das Album",
+      "plural": "Alben",
+      "meaning": "album"
+    },
+    {
+      "id": "A2_K10_003",
+      "word": "bayrisch",
+      "meaning": "Bavarian"
+    },
+    {
+      "id": "A2_K10_004",
+      "word": "die Bestsellerliste",
+      "plural": "Bestsellerlisten",
+      "meaning": "bestseller list"
+    },
+    {
+      "id": "A2_K10_005",
+      "word": "das Budget",
+      "plural": "Budgets",
+      "meaning": "budget"
+    },
+    {
+      "id": "A2_K10_006",
+      "word": "erscheinen (erscheint, ist erschienen)",
+      "meaning": "to come out, appear"
+    },
+    {
+      "id": "A2_K10_007",
+      "word": "der Frauenchor",
+      "plural": "Frauenchöre",
+      "meaning": "women’s choir"
+    },
+    {
+      "id": "A2_K10_008",
+      "word": "das Hauptwerk",
+      "plural": "Hauptwerke",
+      "meaning": "masterpiece, main work"
+    },
+    {
+      "id": "A2_K10_009",
+      "word": "der Männerchor",
+      "plural": "Männerchöre",
+      "meaning": "men’s choir"
+    },
+    {
+      "id": "A2_K10_010",
+      "word": "das Märchenschloss",
+      "plural": "Märchenschlösser",
+      "meaning": "fairytale castle"
+    },
+    {
+      "id": "A2_K10_011",
+      "word": "meistverkauft",
+      "meaning": "bestselling"
+    },
+    {
+      "id": "A2_K10_012",
+      "word": "die Musikgeschichte (Singular)",
+      "meaning": "history of music"
+    },
+    {
+      "id": "A2_K10_013",
+      "word": "plus",
+      "meaning": "plus"
+    },
+    {
+      "id": "A2_K10_014",
+      "word": "die Realität",
+      "plural": "Realitäten",
+      "meaning": "reality"
+    },
+    {
+      "id": "A2_K10_015",
+      "word": "der Riesenerfolg",
+      "plural": "Riesenerfolge",
+      "meaning": "huge success"
+    },
+    {
+      "id": "A2_K10_016",
+      "word": "die Rolle",
+      "plural": "Rollen",
+      "meaning": "role"
+    },
+    {
+      "id": "A2_K10_017",
+      "word": "das Schloss",
+      "plural": "Schlösser",
+      "meaning": "castle"
+    },
+    {
+      "id": "A2_K10_018",
+      "word": "der Solist",
+      "plural": "Solisten",
+      "meaning": "soloist"
+    },
+    {
+      "id": "A2_K10_019",
+      "word": "der Tourist",
+      "plural": "Touristen",
+      "meaning": "tourist"
+    },
+    {
+      "id": "A2_K10_020",
+      "word": "die Verfilmung",
+      "plural": "Verfilmungen",
+      "meaning": "film adaptation"
+    },
+    {
+      "id": "A2_K10_021",
+      "word": "die Führung",
+      "plural": "Führungen",
+      "meaning": "guided tour"
+    },
+    {
+      "id": "A2_K10_022",
+      "word": "das Amphitheater",
+      "plural": "Amphitheater",
+      "meaning": "amphitheater"
+    },
+    {
+      "id": "A2_K10_023",
+      "word": "die Arena",
+      "plural": "Arenen",
+      "meaning": "arena"
+    },
+    {
+      "id": "A2_K10_024",
+      "word": "damals",
+      "meaning": "then, in those days"
+    },
+    {
+      "id": "A2_K10_025",
+      "word": "entstehen (entsteht, ist entstanden)",
+      "meaning": "to develop from, originate from"
+    },
+    {
+      "id": "A2_K10_026",
+      "word": "der Fernsehturm",
+      "plural": "Fernsehtürme",
+      "meaning": "TV tower"
+    },
+    {
+      "id": "A2_K10_027",
+      "word": "der Kakao",
+      "plural": "Kakaos",
+      "meaning": "cocoa"
+    },
+    {
+      "id": "A2_K10_028",
+      "word": "das Konzerthaus",
+      "plural": "Konzerthäuser",
+      "meaning": "concert hall"
+    },
+    {
+      "id": "A2_K10_029",
+      "word": "der Konzertsaal",
+      "plural": "Konzertsäle",
+      "meaning": "concert hall"
+    },
+    {
+      "id": "A2_K10_030",
+      "word": "das Lagerhaus",
+      "plural": "Lagerhäuser",
+      "meaning": "warehouse"
+    },
+    {
+      "id": "A2_K10_031",
+      "word": "die Römerspiele (Plural)",
+      "meaning": "Roman games"
+    },
+    {
+      "id": "A2_K10_032",
+      "word": "die Römerzeit (Singular)",
+      "meaning": "Roman era"
+    },
+    {
+      "id": "A2_K10_033",
+      "word": "der Umbau",
+      "plural": "Umbauten",
+      "meaning": "rebuilding, conversion"
+    },
+    {
+      "id": "A2_K10_034",
+      "word": "der Jazz (Singular)",
+      "meaning": "jazz"
+    },
+    {
+      "id": "A2_K10_035",
+      "word": "das Rockkonzert",
+      "plural": "Rockkonzerte",
+      "meaning": "rock show"
+    },
+    {
+      "id": "A2_K10_036",
+      "word": "der Trip-Hop (Singular)",
+      "meaning": "trip-hop"
+    },
+    {
+      "id": "A2_K10_037",
+      "word": "was für ein",
+      "meaning": "what kind of a …"
+    },
+    {
+      "id": "A2_K10_038",
+      "word": "der Stehplatz",
+      "plural": "Stehplätze",
+      "meaning": "standing room"
+    },
+    {
+      "id": "A2_K10_039",
+      "word": "der Ticketkauf",
+      "plural": "Ticketkäufe",
+      "meaning": "ticket purchase"
+    },
+    {
+      "id": "A2_K10_040",
+      "word": "die Überweisung",
+      "plural": "Überweisungen",
+      "meaning": "bank transfer"
+    },
+    {
+      "id": "A2_K10_041",
+      "word": "die Kasse",
+      "plural": "Kassen",
+      "meaning": "cashier"
+    },
+    {
+      "id": "A2_K10_042",
+      "word": "das Konto",
+      "plural": "Konten",
+      "meaning": "account"
+    },
+    {
+      "id": "A2_K10_043",
+      "word": "die Mehrwertsteuer",
+      "plural": "Mehrwertsteuer",
+      "meaning": "value-added tax (Note: this is technically different from sales tax)"
+    },
+    {
+      "id": "A2_K10_044",
+      "word": "netto",
+      "meaning": "net"
+    },
+    {
+      "id": "A2_K10_045",
+      "word": "die Quittung",
+      "plural": "Quittungen",
+      "meaning": "receipt"
+    },
+    {
+      "id": "A2_K10_046",
+      "word": "der Rabatt",
+      "plural": "Rabatte",
+      "meaning": "rebate, discount"
+    },
+    {
+      "id": "A2_K10_047",
+      "word": "überweisen (überweist, hat überwiesen)",
+      "meaning": "to transfer"
+    },
+    {
+      "id": "A2_K10_048",
+      "word": "der Käufer",
+      "plural": "Käufer",
+      "meaning": "buyer"
+    },
+    {
+      "id": "A2_K10_049",
+      "word": "abgeben (gibt ab, hat abgegeben)",
+      "meaning": "to leave, give up"
+    },
+    {
+      "id": "A2_K10_050",
+      "word": "hier und da",
+      "meaning": "here and there"
+    },
+    {
+      "id": "A2_K10_051",
+      "word": "der Kontrolleur",
+      "plural": "Kontrolleure",
+      "meaning": "inspector"
+    },
+    {
+      "id": "A2_K10_052",
+      "word": "der Schirm",
+      "plural": "Schirme",
+      "meaning": "umbrella",
+      "example": "Nie habe ich einen Schirm dabei, wenn es regnet!"
+    },
+    {
+      "id": "A2_K10_053",
+      "word": "deutschsprachig",
+      "meaning": "German-speaking"
+    },
+    {
+      "id": "A2_K10_054",
+      "word": "das Lieblingslied",
+      "plural": "Lieblingslieder",
+      "meaning": "favorite song"
+    },
+    {
+      "id": "A2_K10_055",
+      "word": "ablesen (liest ab, hat abgelesen)",
+      "meaning": "to read off"
+    },
+    {
+      "id": "A2_K10_056",
+      "word": "die Ansage",
+      "plural": "Ansagen",
+      "meaning": "announcement"
+    },
+    {
+      "id": "A2_K10_057",
+      "word": "der Einsatz",
+      "plural": "Einsätze",
+      "meaning": "use, mission, deployment"
+    },
+    {
+      "id": "A2_K10_058",
+      "word": "feststellen",
+      "meaning": "to determine, discover"
+    },
+    {
+      "id": "A2_K10_059",
+      "word": "der Filmregisseur",
+      "plural": "Filmregisseure",
+      "meaning": "film director"
+    },
+    {
+      "id": "A2_K10_060",
+      "word": "glattgehen (geht glatt, ist glattgegangen)",
+      "meaning": "to go smoothly"
+    },
+    {
+      "id": "A2_K10_061",
+      "word": "hinfahren (fährt hin, ist hingefahren)",
+      "meaning": "to drive to"
+    },
+    {
+      "id": "A2_K10_062",
+      "word": "der Hochzeitstag",
+      "plural": "Hochzeitstage",
+      "meaning": "wedding"
+    },
+    {
+      "id": "A2_K10_063",
+      "word": "der Hörer",
+      "plural": "Hörer",
+      "meaning": "listener"
+    },
+    {
+      "id": "A2_K10_064",
+      "word": "die Komikerin",
+      "plural": "Komikerinnen",
+      "meaning": "comedian"
+    },
+    {
+      "id": "A2_K10_065",
+      "word": "die Live-Show",
+      "plural": "Live-Shows",
+      "meaning": "live show"
+    },
+    {
+      "id": "A2_K10_066",
+      "word": "das Medium",
+      "plural": "Medien",
+      "meaning": "medium"
+    },
+    {
+      "id": "A2_K10_067",
+      "word": "die Moderatorin",
+      "plural": "Moderatorinnen",
+      "meaning": "moderator"
+    },
+    {
+      "id": "A2_K10_068",
+      "word": "die Nachrichten (Plural)",
+      "meaning": "news",
+      "example": "Hast du heute die Nachrichten schon gehört?"
+    },
+    {
+      "id": "A2_K10_069",
+      "word": "der Nachrichtensprecher",
+      "plural": "Nachrichtensprecher",
+      "meaning": "news anchor, news presenter"
+    },
+    {
+      "id": "A2_K10_070",
+      "word": "das Programm",
+      "plural": "Programme",
+      "meaning": "program (ming)",
+      "example": "Das Programm im Fernsehen ﬁnde ich immer schlechter."
+    },
+    {
+      "id": "A2_K10_071",
+      "word": "der Radiosprecher",
+      "plural": "Radiosprecher",
+      "meaning": "radio presenter"
+    },
+    {
+      "id": "A2_K10_072",
+      "word": "selbe",
+      "meaning": "same"
+    },
+    {
+      "id": "A2_K10_073",
+      "word": "die Stille (Singular)",
+      "meaning": "silence"
+    },
+    {
+      "id": "A2_K10_074",
+      "word": "das Stück",
+      "plural": "Stücke",
+      "meaning": "play",
+      "example": "Hast du schon das neue Stück von Monika Gruber gesehen?"
+    },
+    {
+      "id": "A2_K10_075",
+      "word": "der Teleprompter",
+      "plural": "Teleprompter",
+      "meaning": "teleprompter"
+    },
+    {
+      "id": "A2_K10_076",
+      "word": "die TV-Show",
+      "plural": "TV-Shows",
+      "meaning": "TV show"
+    },
+    {
+      "id": "A2_K10_077",
+      "word": "verschlafen (verschläft, hat verschlafen)",
+      "meaning": "to oversleep"
+    },
+    {
+      "id": "A2_K10_078",
+      "word": "vorgehen (geht vor, ist vorgegangen)",
+      "meaning": "to come first, have precedence",
+      "example": "Ich wollte zum Fußballspiel, aber der Hochzeitstag geht vor."
+    },
+    {
+      "id": "A2_K10_079",
+      "word": "der/die Prominente",
+      "plural": "Prominenten",
+      "meaning": "prominent person, celebrity"
+    },
+    {
+      "id": "A2_K10_080",
+      "word": "der Regisseur",
+      "plural": "Regisseure",
+      "meaning": "director"
+    },
+    {
+      "id": "A2_K10_081",
+      "word": "drehen",
+      "meaning": "here: to shoot a film",
+      "example": "Sönke Wortmann hat viele Filme gedreht."
+    },
+    {
+      "id": "A2_K10_082",
+      "word": "ausverkauft",
+      "meaning": "sold out"
+    },
+    {
+      "id": "A2_K10_083",
+      "word": "das Finale",
+      "plural": "Finales",
+      "meaning": "final match"
+    },
+    {
+      "id": "A2_K10_084",
+      "word": "der Fußballfilm",
+      "plural": "Fußballfilme",
+      "meaning": "soccer film"
+    },
+    {
+      "id": "A2_K10_085",
+      "word": "die Hauptrolle",
+      "plural": "Hauptrollen",
+      "meaning": "leading role"
+    },
+    {
+      "id": "A2_K10_086",
+      "word": "moderieren",
+      "meaning": "to moderate"
+    },
+    {
+      "id": "A2_K10_087",
+      "word": "das Prominenten-Quiz",
+      "plural": "Prominenten-Quiz",
+      "meaning": "celebrity quiz"
+    },
+    {
+      "id": "A2_K10_088",
+      "word": "die Quiz-Frage",
+      "plural": "Quiz-Fragen",
+      "meaning": "quiz question"
+    },
+    {
+      "id": "A2_K10_089",
+      "word": "der Punkt",
+      "plural": "Punkte",
+      "meaning": "point",
+      "example": "Für jede richtige Antwort gibt es drei Punkte."
+    },
+    {
+      "id": "A2_K10_090",
+      "word": "aufgeregt",
+      "meaning": "excited (ly)"
+    },
+    {
+      "id": "A2_K10_091",
+      "word": "drüben",
+      "meaning": "over there"
+    },
+    {
+      "id": "A2_K10_092",
+      "word": "mitlesen (liest mit, hat mitgelesen)",
+      "meaning": "to read along"
+    },
+    {
+      "id": "A2_K10_093",
+      "word": "die Malerei",
+      "plural": "Malereien",
+      "meaning": "painting"
+    },
+    {
+      "id": "A2_K10_094",
+      "word": "abmalen",
+      "meaning": "to paint from sight, trace"
+    },
+    {
+      "id": "A2_K10_095",
+      "word": "der Audioguide",
+      "plural": "Audioguides",
+      "meaning": "audio guide"
+    },
+    {
+      "id": "A2_K10_096",
+      "word": "die Einführung",
+      "plural": "Einführungen",
+      "meaning": "introduction"
+    },
+    {
+      "id": "A2_K10_097",
+      "word": "der Feldhase",
+      "plural": "Feldhasen",
+      "meaning": "hare"
+    },
+    {
+      "id": "A2_K10_098",
+      "word": "das Jahrhundert",
+      "plural": "Jahrhunderte",
+      "meaning": "century"
+    },
+    {
+      "id": "A2_K10_099",
+      "word": "der Maler",
+      "plural": "Maler",
+      "meaning": "painter"
+    },
+    {
+      "id": "A2_K10_100",
+      "word": "sondern",
+      "meaning": "instead"
+    },
+    {
+      "id": "A2_K10_101",
+      "word": "das Tierbild",
+      "plural": "Tierbilder",
+      "meaning": "picture of an animal"
+    },
+    {
+      "id": "A2_K10_102",
+      "word": "die Tiermalerei",
+      "plural": "Tiermalereien",
+      "meaning": "painting of animals"
+    },
+    {
+      "id": "A2_K10_103",
+      "word": "das Wildschwein",
+      "plural": "Wildschweine",
+      "meaning": "wild boar"
+    },
+    {
+      "id": "A2_K10_104",
+      "word": "abstrakt",
+      "meaning": "abstract (ly)"
+    },
+    {
+      "id": "A2_K10_105",
+      "word": "dumm",
+      "meaning": "dumb (ly)"
+    },
+    {
+      "id": "A2_K10_106",
+      "word": "exakt",
+      "meaning": "exact (ly)"
+    },
+    {
+      "id": "A2_K10_107",
+      "word": "gemacht",
+      "meaning": "made",
+      "example": "Dieser Film ist echt gut gemacht."
+    },
+    {
+      "id": "A2_K10_108",
+      "word": "das Blatt",
+      "plural": "Blätter",
+      "meaning": "leaf",
+      "example": "Im Herbst liebe ich die roten Blätter an den Bäumen."
+    },
+    {
+      "id": "A2_K10_109",
+      "word": "dahinter",
+      "meaning": "behind it"
+    },
+    {
+      "id": "A2_K10_110",
+      "word": "deuten",
+      "meaning": "to indicate"
+    },
+    {
+      "id": "A2_K10_111",
+      "word": "die Ecke",
+      "plural": "Ecken",
+      "meaning": "corner"
+    },
+    {
+      "id": "A2_K10_112",
+      "word": "oben",
+      "meaning": "above, at the top"
+    },
+    {
+      "id": "A2_K10_113",
+      "word": "der Vordergrund",
+      "plural": "Vordergründe",
+      "meaning": "foreground"
+    },
+    {
+      "id": "A2_K10_114",
+      "word": "die Abbildung",
+      "plural": "Abbildungen",
+      "meaning": "illustration"
+    },
+    {
+      "id": "A2_K10_115",
+      "word": "auffallen (fällt auf, ist aufgefallen)",
+      "meaning": "to stand out"
+    },
+    {
+      "id": "A2_K10_116",
+      "word": "dunkel-",
+      "meaning": "dark",
+      "example": "Ein Wildschwein auf dem Bild ist dunkelblau."
+    },
+    {
+      "id": "A2_K10_117",
+      "word": "der Graffito",
+      "plural": "Graffiti",
+      "meaning": "graffiti"
+    },
+    {
+      "id": "A2_K10_118",
+      "word": "hell-",
+      "meaning": "light",
+      "example": "Der Himmel ist heute hellblau."
+    },
+    {
+      "id": "A2_K10_119",
+      "word": "der Hintergrund",
+      "plural": "Hintergründe",
+      "meaning": "background"
     }
   ]
 }

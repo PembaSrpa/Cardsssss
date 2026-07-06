@@ -5,10 +5,247 @@
   "words": [
     {
       "id": "B2_K2_M2_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "allzu",
+      "meaning": "too"
+    },
+    {
+      "id": "B2_K2_M2_002",
+      "word": "anlegen",
+      "meaning": "set up (our brain is made to learn multiple languages)",
+      "example": "Unser Gehirn ist dafür angelegt, mehrere Sprachen zu lernen."
+    },
+    {
+      "id": "B2_K2_M2_003",
+      "word": "auszahlen (sich)",
+      "meaning": "pay off"
+    },
+    {
+      "id": "B2_K2_M2_004",
+      "word": "der/die Autor/in",
+      "meaning": "author"
+    },
+    {
+      "id": "B2_K2_M2_005",
+      "word": "betroffen",
+      "meaning": "affected"
+    },
+    {
+      "id": "B2_K2_M2_006",
+      "word": "bilingual",
+      "meaning": "bilingually"
+    },
+    {
+      "id": "B2_K2_M2_007",
+      "word": "einsprachig",
+      "meaning": "monolingual"
+    },
+    {
+      "id": "B2_K2_M2_008",
+      "word": "fehlerlos",
+      "meaning": "flawless"
+    },
+    {
+      "id": "B2_K2_M2_009",
+      "word": "feststellen",
+      "meaning": "determine"
+    },
+    {
+      "id": "B2_K2_M2_010",
+      "word": "führen (eine Verhandlung führen)",
+      "meaning": "to conduct (to negotiate)"
+    },
+    {
+      "id": "B2_K2_M2_011",
+      "word": "geduldig (bei + D.)",
+      "meaning": "patient"
+    },
+    {
+      "id": "B2_K2_M2_012",
+      "word": "das Gehirn",
+      "plural": "die Gehirne",
+      "meaning": "brain"
+    },
+    {
+      "id": "B2_K2_M2_013",
+      "word": "das Großraumbüro",
+      "plural": "die Großraumbüros",
+      "meaning": "open-plan office"
+    },
+    {
+      "id": "B2_K2_M2_014",
+      "word": "herumschlagen (sich) (mit + D.), schlug sich herum, hat sich herumgeschlagen",
+      "meaning": "beating around"
+    },
+    {
+      "id": "B2_K2_M2_015",
+      "word": "kinderleicht",
+      "meaning": "dead easy"
+    },
+    {
+      "id": "B2_K2_M2_016",
+      "word": "das Kleinkind",
+      "plural": "die Kleinkinder",
+      "meaning": "the toddler"
+    },
+    {
+      "id": "B2_K2_M2_017",
+      "word": "Kapitelwortschatz",
+      "meaning": "Chapter Vocabulary"
+    },
+    {
+      "id": "B2_K2_M2_018",
+      "word": "abgegolten.",
+      "meaning": "settled."
+    },
+    {
+      "id": "B2_K2_M2_019",
+      "word": "die Kompetenz",
+      "plural": "die Kompetenzen",
+      "meaning": "competence"
+    },
+    {
+      "id": "B2_K2_M2_020",
+      "word": "die Konzentrationsleistung",
+      "plural": "die Konzentrationsleistungen",
+      "meaning": "concentration performance"
+    },
+    {
+      "id": "B2_K2_M2_021",
+      "word": "monolingual",
+      "meaning": "monolingual"
+    },
+    {
+      "id": "B2_K2_M2_022",
+      "word": "nachweisen, wies nach, hat nachgewiesen",
+      "meaning": "demonstrate"
+    },
+    {
+      "id": "B2_K2_M2_023",
+      "word": "die Phase",
+      "plural": "die Phasen",
+      "meaning": "phase"
+    },
+    {
+      "id": "B2_K2_M2_024",
+      "word": "der/die Psychologe/Psychologin",
+      "meaning": "psychologist"
+    },
+    {
+      "id": "B2_K2_M2_025",
+      "word": "schwerfallen, fiel schwer, ist schwergefallen",
+      "meaning": "difficult"
+    },
+    {
+      "id": "B2_K2_M2_026",
+      "word": "die Sprachenpolitik (Sg.)",
+      "meaning": "language policy"
+    },
+    {
+      "id": "B2_K2_M2_027",
+      "word": "die Sprachentwicklung",
+      "plural": "die Sprachentwicklungen",
+      "meaning": "language development"
+    },
+    {
+      "id": "B2_K2_M2_028",
+      "word": "der Sprachschatz (Sg.)",
+      "meaning": "vocabulary"
+    },
+    {
+      "id": "B2_K2_M2_029",
+      "word": "der/die Sprachwissenschaftler/in",
+      "meaning": "linguist"
+    },
+    {
+      "id": "B2_K2_M2_030",
+      "word": "die Startchance",
+      "plural": "die Startchancen",
+      "meaning": "start chance"
+    },
+    {
+      "id": "B2_K2_M2_031",
+      "word": "der/die Trendforscher/in",
+      "meaning": "trend researcher"
+    },
+    {
+      "id": "B2_K2_M2_032",
+      "word": "überfordern",
+      "meaning": "overtax"
+    },
+    {
+      "id": "B2_K2_M2_033",
+      "word": "umgehen (mit + D.), ging um, ist",
+      "meaning": "deal"
+    },
+    {
+      "id": "B2_K2_M2_034",
+      "word": "umgegangen",
+      "meaning": "dealt with",
+      "example": "Wie gehst du mit deinen Kindern um?"
+    },
+    {
+      "id": "B2_K2_M2_035",
+      "word": "unterfordern",
+      "meaning": "undertax"
+    },
+    {
+      "id": "B2_K2_M2_036",
+      "word": "die Verhandlung (eine Verhandlung führen)",
+      "plural": "die Verhandlungen",
+      "meaning": "negotiation (a negotiation to lead)"
+    },
+    {
+      "id": "B2_K2_M2_037",
+      "word": "vertraut (jmd. mit etw. vertraut machen)",
+      "meaning": "familiar (to familiarize yourself with sth.)"
+    },
+    {
+      "id": "B2_K2_M2_038",
+      "word": "werben (für + A.), warb, hat geworben",
+      "meaning": "advertise"
+    },
+    {
+      "id": "B2_K2_M2_039",
+      "word": "der/die Wissenschaftler/in",
+      "meaning": "the scientist"
+    },
+    {
+      "id": "B2_K2_M2_040",
+      "word": "der Wunsch (einen Wunsch haben)",
+      "plural": "die Wünsche",
+      "meaning": "the wish (have a wish)"
+    },
+    {
+      "id": "B2_K2_M2_041",
+      "word": "zweisprachig",
+      "meaning": "bilingual"
+    },
+    {
+      "id": "B2_K2_M2_042",
+      "word": "vorgehen, ging vor, ist vorgegangen",
+      "meaning": "proceed"
+    },
+    {
+      "id": "B2_K2_M2_043",
+      "word": "das Defizit",
+      "plural": "die Defizite",
+      "meaning": "deficit"
+    },
+    {
+      "id": "B2_K2_M2_044",
+      "word": "der/die Gegner/in",
+      "meaning": "opponent"
+    },
+    {
+      "id": "B2_K2_M2_045",
+      "word": "das Prinzip",
+      "plural": "die Prinzipien",
+      "meaning": "the principle, -ien"
+    },
+    {
+      "id": "B2_K2_M2_046",
+      "word": "Umgang (mit + D.)",
+      "meaning": "Dealing"
     }
   ]
 }

@@ -4,10 +4,798 @@
   "words": [
     {
       "id": "A2_K6_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "Bis dann!",
+      "meaning": "Until then!"
+    },
+    {
+      "id": "A2_K6_002",
+      "word": "dabei sein",
+      "meaning": "to be involved"
+    },
+    {
+      "id": "A2_K6_003",
+      "word": "erfragen",
+      "meaning": "to ask (for s.t., to inquire)"
+    },
+    {
+      "id": "A2_K6_004",
+      "word": "das Foyer",
+      "plural": "Foyers",
+      "meaning": "foyer"
+    },
+    {
+      "id": "A2_K6_005",
+      "word": "die Karte",
+      "plural": "Karten",
+      "meaning": "ticket",
+      "example": "Kaufst du die Karten für das Konzert?"
+    },
+    {
+      "id": "A2_K6_006",
+      "word": "locker",
+      "meaning": "relaxed (ly)"
+    },
+    {
+      "id": "A2_K6_007",
+      "word": "die Philharmonie",
+      "plural": "Philharmonien",
+      "meaning": "philharmonic"
+    },
+    {
+      "id": "A2_K6_008",
+      "word": "schön",
+      "meaning": "pretty",
+      "example": "Mit dem Fahrrad ist Peter ganz schön mobil."
+    },
+    {
+      "id": "A2_K6_009",
+      "word": "die Unsicherheit",
+      "plural": "Unsicherheiten",
+      "meaning": "insecurity"
+    },
+    {
+      "id": "A2_K6_010",
+      "word": "vorhaben (hat vor, hat vorgehabt)",
+      "meaning": "to have s.t. planned"
+    },
+    {
+      "id": "A2_K6_011",
+      "word": "die Ampel",
+      "plural": "Ampeln",
+      "meaning": "traffic light"
+    },
+    {
+      "id": "A2_K6_012",
+      "word": "der Motor",
+      "plural": "Motoren",
+      "meaning": "motor"
+    },
+    {
+      "id": "A2_K6_013",
+      "word": "der Parkplatz",
+      "plural": "Parkplätze",
+      "meaning": "parking lot"
+    },
+    {
+      "id": "A2_K6_014",
+      "word": "die Polizei (Singular)",
+      "meaning": "police"
+    },
+    {
+      "id": "A2_K6_015",
+      "word": "der Reifen",
+      "plural": "Reifen",
+      "meaning": "tire"
+    },
+    {
+      "id": "A2_K6_016",
+      "word": "der Stau",
+      "plural": "Staus",
+      "meaning": "traffic jam"
+    },
+    {
+      "id": "A2_K6_017",
+      "word": "das Parkhaus",
+      "plural": "Parkhäuser",
+      "meaning": "parking garage"
+    },
+    {
+      "id": "A2_K6_018",
+      "word": "der Anschluss",
+      "plural": "Anschlüsse",
+      "meaning": "connection"
+    },
+    {
+      "id": "A2_K6_019",
+      "word": "die Panne",
+      "plural": "Pannen",
+      "meaning": "car break down"
+    },
+    {
+      "id": "A2_K6_020",
+      "word": "der Sitzplatz",
+      "plural": "Sitzplätze",
+      "meaning": "seat"
+    },
+    {
+      "id": "A2_K6_021",
+      "word": "die Tankstelle",
+      "plural": "Tankstellen",
+      "meaning": "gas station"
+    },
+    {
+      "id": "A2_K6_022",
+      "word": "das Verkehrsmittel",
+      "plural": "Verkehrsmittel",
+      "meaning": "mode of transportation"
+    },
+    {
+      "id": "A2_K6_023",
+      "word": "ewig",
+      "meaning": "forever"
+    },
+    {
+      "id": "A2_K6_024",
+      "word": "das Kinderabteil",
+      "plural": "Kinderabteile",
+      "meaning": "children’s section"
+    },
+    {
+      "id": "A2_K6_025",
+      "word": "die Mama",
+      "plural": "Mamas",
+      "meaning": "mama"
+    },
+    {
+      "id": "A2_K6_026",
+      "word": "nervig",
+      "meaning": "annoying"
+    },
+    {
+      "id": "A2_K6_027",
+      "word": "ungeduldig",
+      "meaning": "impatient"
+    },
+    {
+      "id": "A2_K6_028",
+      "word": "das Chaos (Singular)",
+      "meaning": "chaos"
+    },
+    {
+      "id": "A2_K6_029",
+      "word": "genervt",
+      "meaning": "annoyed, irritated"
+    },
+    {
+      "id": "A2_K6_030",
+      "word": "höflich",
+      "meaning": "polite"
+    },
+    {
+      "id": "A2_K6_031",
+      "word": "der Papa",
+      "plural": "Papas",
+      "meaning": "papa"
+    },
+    {
+      "id": "A2_K6_032",
+      "word": "vorlesen (liest vor, hat vorgelesen)",
+      "meaning": "to read aloud"
+    },
+    {
+      "id": "A2_K6_033",
+      "word": "abnehmen (nimmt ab, hat abgenommen)",
+      "meaning": "to relieve s.o. of s.t.",
+      "example": "Wir nehmen Ihnen Ihre Sorgen ab."
+    },
+    {
+      "id": "A2_K6_034",
+      "word": "die App",
+      "plural": "Apps",
+      "meaning": "application"
+    },
+    {
+      "id": "A2_K6_035",
+      "word": "die Bedienung (Singular)",
+      "meaning": "operation",
+      "example": "Das Programm hat eine einfache Bedienung."
+    },
+    {
+      "id": "A2_K6_036",
+      "word": "der Deal",
+      "plural": "Deals",
+      "meaning": "deal"
+    },
+    {
+      "id": "A2_K6_037",
+      "word": "eingeben (gibt ein, hat eingegeben)",
+      "meaning": "to enter, input"
+    },
+    {
+      "id": "A2_K6_038",
+      "word": "Hi!",
+      "meaning": "Hi!"
+    },
+    {
+      "id": "A2_K6_039",
+      "word": "das Navigationssystem",
+      "plural": "Navigationssysteme",
+      "meaning": "navigation system"
+    },
+    {
+      "id": "A2_K6_040",
+      "word": "ob",
+      "meaning": "if"
+    },
+    {
+      "id": "A2_K6_041",
+      "word": "passen",
+      "meaning": "to work out",
+      "example": "Passt schon."
+    },
+    {
+      "id": "A2_K6_042",
+      "word": "die Strecke",
+      "plural": "Strecken",
+      "meaning": "route"
+    },
+    {
+      "id": "A2_K6_043",
+      "word": "stressfrei",
+      "meaning": "stress-free"
+    },
+    {
+      "id": "A2_K6_044",
+      "word": "übermorgen",
+      "meaning": "day after tomorrow"
+    },
+    {
+      "id": "A2_K6_045",
+      "word": "die Verkehrsapp",
+      "plural": "Verkehrsapps",
+      "meaning": "traffic application"
+    },
+    {
+      "id": "A2_K6_046",
+      "word": "die Daten (Plural)",
+      "meaning": "files"
+    },
+    {
+      "id": "A2_K6_047",
+      "word": "einschalten",
+      "meaning": "to turn on"
+    },
+    {
+      "id": "A2_K6_048",
+      "word": "die Radarkamera",
+      "plural": "Radarkameras",
+      "meaning": "radar camera"
+    },
+    {
+      "id": "A2_K6_049",
+      "word": "das Benzin (Singular)",
+      "meaning": "gas"
+    },
+    {
+      "id": "A2_K6_050",
+      "word": "erreichen",
+      "meaning": "to reach"
+    },
+    {
+      "id": "A2_K6_051",
+      "word": "gespannt",
+      "meaning": "curious (ly), eager (ly)"
+    },
+    {
+      "id": "A2_K6_052",
+      "word": "rechtzeitig",
+      "meaning": "on time"
+    },
+    {
+      "id": "A2_K6_053",
+      "word": "die Überlegung",
+      "plural": "Überlegungen",
+      "meaning": "consideration"
+    },
+    {
+      "id": "A2_K6_054",
+      "word": "abfliegen (fliegt ab, ist abgeflogen)",
+      "meaning": "to fly away"
+    },
+    {
+      "id": "A2_K6_055",
+      "word": "der Abflug",
+      "plural": "Abflüge",
+      "meaning": "departing flight"
+    },
+    {
+      "id": "A2_K6_056",
+      "word": "bremsen",
+      "meaning": "to brake"
+    },
+    {
+      "id": "A2_K6_057",
+      "word": "die Garage",
+      "plural": "Garagen",
+      "meaning": "garage"
+    },
+    {
+      "id": "A2_K6_058",
+      "word": "das Kennzeichen",
+      "plural": "Kennzeichen",
+      "meaning": "license plate"
+    },
+    {
+      "id": "A2_K6_059",
+      "word": "das Kfz",
+      "plural": "Kfz",
+      "meaning": "motor vehicle"
+    },
+    {
+      "id": "A2_K6_060",
+      "word": "landen (landet, ist gelandet)",
+      "meaning": "to land"
+    },
+    {
+      "id": "A2_K6_061",
+      "word": "der Pkw",
+      "plural": "Pkws",
+      "meaning": "automobile, passenger car"
+    },
+    {
+      "id": "A2_K6_062",
+      "word": "die Reparatur",
+      "plural": "Reparaturen",
+      "meaning": "repair"
+    },
+    {
+      "id": "A2_K6_063",
+      "word": "rückwärts",
+      "meaning": "backward"
+    },
+    {
+      "id": "A2_K6_064",
+      "word": "die Versicherung",
+      "plural": "Versicherungen",
+      "meaning": "insurance"
+    },
+    {
+      "id": "A2_K6_065",
+      "word": "der Wagen",
+      "plural": "Wagen/Wägen",
+      "meaning": "car"
+    },
+    {
+      "id": "A2_K6_066",
+      "word": "an … vorbei",
+      "meaning": "past, by"
+    },
+    {
+      "id": "A2_K6_067",
+      "word": "die Brücke",
+      "plural": "Brücken",
+      "meaning": "bridge"
+    },
+    {
+      "id": "A2_K6_068",
+      "word": "einverstanden",
+      "meaning": "agreed"
+    },
+    {
+      "id": "A2_K6_069",
+      "word": "entlanggehen (geht entlang, ist entlanggegangen)",
+      "meaning": "to go along"
+    },
+    {
+      "id": "A2_K6_070",
+      "word": "gegenüber (+ Dat.)",
+      "meaning": "across from"
+    },
+    {
+      "id": "A2_K6_071",
+      "word": "der Kinderspielplatz",
+      "plural": "Kinderspielplätze",
+      "meaning": "playground"
+    },
+    {
+      "id": "A2_K6_072",
+      "word": "die Kreuzung",
+      "plural": "Kreuzungen",
+      "meaning": "intersection"
+    },
+    {
+      "id": "A2_K6_073",
+      "word": "noch mal",
+      "meaning": "again"
+    },
+    {
+      "id": "A2_K6_074",
+      "word": "um … herum",
+      "meaning": "around"
+    },
+    {
+      "id": "A2_K6_075",
+      "word": "vorbeigehen (an + Dat.) (geht vorbei, ist vorbeigegangen)",
+      "meaning": "to pass by"
+    },
+    {
+      "id": "A2_K6_076",
+      "word": "der Wohnungsschlüssel",
+      "plural": "Wohnungsschlüssel",
+      "meaning": "house key"
+    },
+    {
+      "id": "A2_K6_077",
+      "word": "einzeichnen",
+      "meaning": "to draw in"
+    },
+    {
+      "id": "A2_K6_078",
+      "word": "die Wegbeschreibung",
+      "plural": "Wegbeschreibungen",
+      "meaning": "directions"
+    },
+    {
+      "id": "A2_K6_079",
+      "word": "zeichnen",
+      "meaning": "to draw, sketch"
+    },
+    {
+      "id": "A2_K6_080",
+      "word": "das Navigationsgerät",
+      "plural": "Navigationsgeräte",
+      "meaning": "navigation device"
+    },
+    {
+      "id": "A2_K6_081",
+      "word": "der Zeitungsartikel",
+      "plural": "Zeitungsartikel",
+      "meaning": "newspaper article"
+    },
+    {
+      "id": "A2_K6_082",
+      "word": "der Anbieter",
+      "plural": "Anbieter",
+      "meaning": "vendor, provider"
+    },
+    {
+      "id": "A2_K6_083",
+      "word": "ansonsten",
+      "meaning": "otherwise, apart from that"
+    },
+    {
+      "id": "A2_K6_084",
+      "word": "außerdem",
+      "meaning": "besides"
+    },
+    {
+      "id": "A2_K6_085",
+      "word": "das Carsharing (Singular)",
+      "meaning": "car sharing"
+    },
+    {
+      "id": "A2_K6_086",
+      "word": "entweder … oder …",
+      "meaning": "either … or …"
+    },
+    {
+      "id": "A2_K6_087",
+      "word": "etc.",
+      "meaning": "etc."
+    },
+    {
+      "id": "A2_K6_088",
+      "word": "der Fall",
+      "plural": "Fälle",
+      "meaning": "case, situation",
+      "example": "In dem Fall ist das Auto billiger."
+    },
+    {
+      "id": "A2_K6_089",
+      "word": "flexibel (flexibler, am flexibelsten)",
+      "meaning": "flexible"
+    },
+    {
+      "id": "A2_K6_090",
+      "word": "die Gebühr",
+      "plural": "Gebühren",
+      "meaning": "fee"
+    },
+    {
+      "id": "A2_K6_091",
+      "word": "jederzeit",
+      "meaning": "at any time"
+    },
+    {
+      "id": "A2_K6_092",
+      "word": "das Konzept",
+      "plural": "Konzepte",
+      "meaning": "concept"
+    },
+    {
+      "id": "A2_K6_093",
+      "word": "leihen (leiht, hat geliehen)",
+      "meaning": "to borrow"
+    },
+    {
+      "id": "A2_K6_094",
+      "word": "lohnen (sich)",
+      "meaning": "to be worth"
+    },
+    {
+      "id": "A2_K6_095",
+      "word": "mieten",
+      "meaning": "to rent"
+    },
+    {
+      "id": "A2_K6_096",
+      "word": "nachdenken (über + Akk.) (denkt nach, hat nachgedacht)",
+      "meaning": "to think about, ponder"
+    },
+    {
+      "id": "A2_K6_097",
+      "word": "das Privatauto",
+      "plural": "Privatautos",
+      "meaning": "privately owned car"
+    },
+    {
+      "id": "A2_K6_098",
+      "word": "die Telefonzentrale",
+      "plural": "Telefonzentralen",
+      "meaning": "switchboard, hotline"
+    },
+    {
+      "id": "A2_K6_099",
+      "word": "unmöglich",
+      "meaning": "impossible"
+    },
+    {
+      "id": "A2_K6_100",
+      "word": "unpraktisch",
+      "meaning": "impractical"
+    },
+    {
+      "id": "A2_K6_101",
+      "word": "weiterhelfen (hilft weiter, hat weitergeholfen)",
+      "meaning": "to help along, assist"
+    },
+    {
+      "id": "A2_K6_102",
+      "word": "das Wunschauto",
+      "plural": "Wunschautos",
+      "meaning": "desired car"
+    },
+    {
+      "id": "A2_K6_103",
+      "word": "allgemein",
+      "meaning": "general (ly)"
+    },
+    {
+      "id": "A2_K6_104",
+      "word": "gegen (+ Akk.)",
+      "meaning": "against",
+      "example": "Ich bin gegen Autos, weil …"
+    },
+    {
+      "id": "A2_K6_105",
+      "word": "der Unsinn (Singular)",
+      "meaning": "nonsense"
+    },
+    {
+      "id": "A2_K6_106",
+      "word": "vertreten (vertritt, hat vertreten)",
+      "meaning": "to represent"
+    },
+    {
+      "id": "A2_K6_107",
+      "word": "das Stadtteilauto",
+      "plural": "Stadtteilautos",
+      "meaning": "car sharing car; zipcar"
+    },
+    {
+      "id": "A2_K6_108",
+      "word": "etwa",
+      "meaning": "approximately"
+    },
+    {
+      "id": "A2_K6_109",
+      "word": "nehmen (nimmt, hat genommen)",
+      "meaning": "to take",
+      "example": "Zur Arbeit nehme ich den Bus."
+    },
+    {
+      "id": "A2_K6_110",
+      "word": "pendeln (pendelt, ist gependelt)",
+      "meaning": "to commute"
+    },
+    {
+      "id": "A2_K6_111",
+      "word": "richtig",
+      "meaning": "properly",
+      "example": "Nach einem Kaffee bin ich richtig wach."
+    },
+    {
+      "id": "A2_K6_112",
+      "word": "die Richtung",
+      "plural": "Richtungen",
+      "meaning": "direction"
+    },
+    {
+      "id": "A2_K6_113",
+      "word": "wach",
+      "meaning": "awake"
+    },
+    {
+      "id": "A2_K6_114",
+      "word": "die Zugfahrt",
+      "plural": "Zugfahrten",
+      "meaning": "train ride"
+    },
+    {
+      "id": "A2_K6_115",
+      "word": "die Schlange",
+      "plural": "Schlangen",
+      "meaning": "line, queue"
+    },
+    {
+      "id": "A2_K6_116",
+      "word": "öffentlich",
+      "meaning": "public",
+      "example": "Ich nehme immer die öffentlichen Verkehrsmittel."
+    },
+    {
+      "id": "A2_K6_117",
+      "word": "das Kursergebnis",
+      "plural": "Kursergebnisse",
+      "meaning": "class result"
+    },
+    {
+      "id": "A2_K6_118",
+      "word": "die Begegnung",
+      "plural": "Begegnungen",
+      "meaning": "encounter"
+    },
+    {
+      "id": "A2_K6_119",
+      "word": "die Radiosendung",
+      "plural": "Radiosendungen",
+      "meaning": "radio program"
+    },
+    {
+      "id": "A2_K6_120",
+      "word": "der Schriftsteller",
+      "plural": "Schriftsteller",
+      "meaning": "writer"
+    },
+    {
+      "id": "A2_K6_121",
+      "word": "die Sendung",
+      "plural": "Sendungen",
+      "meaning": "program, show"
+    },
+    {
+      "id": "A2_K6_122",
+      "word": "überlegen",
+      "meaning": "to think about"
+    },
+    {
+      "id": "A2_K6_123",
+      "word": "der Stichpunkt",
+      "plural": "Stichpunkte",
+      "meaning": "bullet point, key point"
+    },
+    {
+      "id": "A2_K6_124",
+      "word": "die Fahrradreise",
+      "plural": "Fahrradreisen",
+      "meaning": "bicycle trip"
+    },
+    {
+      "id": "A2_K6_125",
+      "word": "befürchten",
+      "meaning": "to fear"
+    },
+    {
+      "id": "A2_K6_126",
+      "word": "durchsichtig",
+      "meaning": "transparent"
+    },
+    {
+      "id": "A2_K6_127",
+      "word": "der Elefant",
+      "plural": "Elefanten",
+      "meaning": "elephant"
+    },
+    {
+      "id": "A2_K6_128",
+      "word": "das Ersatzteil",
+      "plural": "Ersatzteile",
+      "meaning": "spare part"
+    },
+    {
+      "id": "A2_K6_129",
+      "word": "griffbereit",
+      "meaning": "handy, at hand"
+    },
+    {
+      "id": "A2_K6_130",
+      "word": "das Hinterrad",
+      "plural": "Hinterräder",
+      "meaning": "rear wheel"
+    },
+    {
+      "id": "A2_K6_131",
+      "word": "die Isomatte",
+      "plural": "Isomatten",
+      "meaning": "sleeping pad"
+    },
+    {
+      "id": "A2_K6_132",
+      "word": "der Kompass",
+      "plural": "Kompasse",
+      "meaning": "compass"
+    },
+    {
+      "id": "A2_K6_133",
+      "word": "kühl",
+      "meaning": "cool"
+    },
+    {
+      "id": "A2_K6_134",
+      "word": "die Lenkertasche",
+      "plural": "Lenkertaschen",
+      "meaning": "handlebar bag"
+    },
+    {
+      "id": "A2_K6_135",
+      "word": "die Not",
+      "plural": "Nöte",
+      "meaning": "emergency"
+    },
+    {
+      "id": "A2_K6_136",
+      "word": "das Notizbuch",
+      "plural": "Notizbücher",
+      "meaning": "notebook"
+    },
+    {
+      "id": "A2_K6_137",
+      "word": "die Seite",
+      "plural": "Seiten",
+      "meaning": "side",
+      "example": "In der linken Seite steckt ein Messer."
+    },
+    {
+      "id": "A2_K6_138",
+      "word": "stecken",
+      "meaning": "to be stuck, be placed"
+    },
+    {
+      "id": "A2_K6_139",
+      "word": "die Unterwäsche (Singular)",
+      "meaning": "underwear"
+    },
+    {
+      "id": "A2_K6_140",
+      "word": "verstauen",
+      "meaning": "to stow"
+    },
+    {
+      "id": "A2_K6_141",
+      "word": "die Wäsche (Singular)",
+      "meaning": "here: underwear"
+    },
+    {
+      "id": "A2_K6_142",
+      "word": "das Werkzeug",
+      "plural": "Werkzeuge",
+      "meaning": "tool"
+    },
+    {
+      "id": "A2_K6_143",
+      "word": "die Wollmütze",
+      "plural": "Wollmützen",
+      "meaning": "wool cap"
     }
   ]
 }

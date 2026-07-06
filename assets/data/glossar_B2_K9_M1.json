@@ -5,10 +5,409 @@
   "words": [
     {
       "id": "B2_K9_M1_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "bang",
+      "meaning": "fearfully"
+    },
+    {
+      "id": "B2_K9_M1_002",
+      "word": "golden",
+      "meaning": "golden"
+    },
+    {
+      "id": "B2_K9_M1_003",
+      "word": "der Käfig (der goldene Käfig)",
+      "plural": "die Käfige",
+      "meaning": "cage (the golden cage)"
+    },
+    {
+      "id": "B2_K9_M1_004",
+      "word": "rettungslos",
+      "meaning": "hopelessly"
+    },
+    {
+      "id": "B2_K9_M1_005",
+      "word": "rinnen, rann, ist geronnen",
+      "meaning": "run, run, has curdled",
+      "example": "Das Wasser rinnt die Straße hinunter."
+    },
+    {
+      "id": "B2_K9_M1_006",
+      "word": "schlummerlos",
+      "meaning": "sleepless"
+    },
+    {
+      "id": "B2_K9_M1_007",
+      "word": "unbewusst",
+      "meaning": "unconsciously"
+    },
+    {
+      "id": "B2_K9_M1_008",
+      "word": "vorüber",
+      "meaning": "past"
+    },
+    {
+      "id": "B2_K9_M1_009",
+      "word": "der Zweifel",
+      "plural": "die Zweifel",
+      "meaning": "doubt"
+    },
+    {
+      "id": "B2_K9_M1_010",
+      "word": "der Zweig",
+      "plural": "die Zweige",
+      "meaning": "branch"
+    },
+    {
+      "id": "B2_K9_M1_011",
+      "word": "aufgehen, ging auf, ist aufgegangen",
+      "meaning": "to rise, to rise, to rise",
+      "example": "Im Frühling gehen die Knospen der Pflanzen auf."
+    },
+    {
+      "id": "B2_K9_M1_012",
+      "word": "beladen, belud, hat beladen",
+      "meaning": "load, loaded, loaded"
+    },
+    {
+      "id": "B2_K9_M1_013",
+      "word": "beschweren",
+      "meaning": "complain",
+      "example": "Wenn du den Tisch zu sehr beschwerst, bricht er zusammen."
+    },
+    {
+      "id": "B2_K9_M1_014",
+      "word": "drauflos",
+      "meaning": "straight on"
+    },
+    {
+      "id": "B2_K9_M1_015",
+      "word": "die Knospe",
+      "plural": "die Knospen",
+      "meaning": "bud"
+    },
+    {
+      "id": "B2_K9_M1_016",
+      "word": "rotschämen (sich) (für + A.)",
+      "meaning": "ashamed (himself) (for + A.)"
+    },
+    {
+      "id": "B2_K9_M1_017",
+      "word": "der Salat",
+      "plural": "die Salate",
+      "meaning": "salad",
+      "example": "Du hast dich nicht bemüht und jetzt hast du den Salat!"
+    },
+    {
+      "id": "B2_K9_M1_018",
+      "word": "schrecklich (sich schrecklich um etw. bemühen)",
+      "meaning": "terrible (terrible about sth. endeavor)"
+    },
+    {
+      "id": "B2_K9_M1_019",
+      "word": "sehnen (sich) (nach + D.)",
+      "meaning": "yearn (for + D.)"
+    },
+    {
+      "id": "B2_K9_M1_020",
+      "word": "talentlos",
+      "meaning": "untalented"
+    },
+    {
+      "id": "B2_K9_M1_021",
+      "word": "talentvoll",
+      "meaning": "gifted"
+    },
+    {
+      "id": "B2_K9_M1_022",
+      "word": "üppig",
+      "meaning": "lush"
+    },
+    {
+      "id": "B2_K9_M1_023",
+      "word": "verzwickt",
+      "meaning": "tricky"
+    },
+    {
+      "id": "B2_K9_M1_024",
+      "word": "zusammenbrechen, brach zusammen, ist",
+      "meaning": "collapse, collapse, is"
+    },
+    {
+      "id": "B2_K9_M1_025",
+      "word": "zusammengebrochen",
+      "meaning": "collapsed"
+    },
+    {
+      "id": "B2_K9_M1_026",
+      "word": "der Spruch",
+      "plural": "die Sprüche",
+      "meaning": "the saying, \"-e"
+    },
+    {
+      "id": "B2_K9_M1_027",
+      "word": "ablaufen, lief ab, ist abgelaufen",
+      "meaning": "expire, expired, expired",
+      "example": "Im Gehirn laufen viele Prozesse ab."
+    },
+    {
+      "id": "B2_K9_M1_028",
+      "word": "der Alzheimer (Sg.)",
+      "meaning": "Alzheimer's disease (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_029",
+      "word": "anknüpfen (an + A.)",
+      "meaning": "to tie up (to + A.)"
+    },
+    {
+      "id": "B2_K9_M1_030",
+      "word": "die Atmung (Sg.)",
+      "meaning": "breathing (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_031",
+      "word": "auswendig lernen",
+      "meaning": "learn by heart"
+    },
+    {
+      "id": "B2_K9_M1_032",
+      "word": "das Befinden (Sg.)",
+      "meaning": "condition (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_033",
+      "word": "beruhigend",
+      "meaning": "reassuring"
+    },
+    {
+      "id": "B2_K9_M1_034",
+      "word": "der/die Betroffene",
+      "plural": "die Betroffenen",
+      "meaning": "person concerned"
+    },
+    {
+      "id": "B2_K9_M1_035",
+      "word": "die Bewegungsstörung",
+      "plural": "die Bewegungsstörungen",
+      "meaning": "movement disorder"
+    },
+    {
+      "id": "B2_K9_M1_036",
+      "word": "der Blutdruck (Sg.)",
+      "meaning": "blood pressure (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_037",
+      "word": "chronisch (chronische Schmerzen)",
+      "meaning": "chronic (chronic pain)"
+    },
+    {
+      "id": "B2_K9_M1_038",
+      "word": "die Demenz",
+      "plural": "die Demenzen",
+      "meaning": "dementia"
+    },
+    {
+      "id": "B2_K9_M1_039",
+      "word": "durchaus",
+      "meaning": "absolutely"
+    },
+    {
+      "id": "B2_K9_M1_040",
+      "word": "das Gedächtnis",
+      "plural": "die Gedächtnisse",
+      "meaning": "memory"
+    },
+    {
+      "id": "B2_K9_M1_041",
+      "word": "der Gedächtnisinhalt",
+      "plural": "die Gedächtnisinhalte",
+      "meaning": "memory content"
+    },
+    {
+      "id": "B2_K9_M1_042",
+      "word": "die Gehirnaktivität",
+      "plural": "die Gehirnaktivitäten",
+      "meaning": "brain activity"
+    },
+    {
+      "id": "B2_K9_M1_043",
+      "word": "die Gelenkschmerzen (Pl.)",
+      "meaning": "joint pain (pl.)"
+    },
+    {
+      "id": "B2_K9_M1_044",
+      "word": "gesundheitsfördernd",
+      "meaning": "healthy"
+    },
+    {
+      "id": "B2_K9_M1_045",
+      "word": "die Herzfrequenz",
+      "plural": "die Herzfrequenzen",
+      "meaning": "heart rate,"
+    },
+    {
+      "id": "B2_K9_M1_046",
+      "word": "der Hirnschaden",
+      "plural": "die Hirnschäden",
+      "meaning": "brain damage"
+    },
+    {
+      "id": "B2_K9_M1_047",
+      "word": "der Lerneffekt",
+      "plural": "die Lerneffekte",
+      "meaning": "learning effect"
+    },
+    {
+      "id": "B2_K9_M1_048",
+      "word": "der Lerninhalt",
+      "plural": "die Lerninhalte",
+      "meaning": "learning content"
+    },
+    {
+      "id": "B2_K9_M1_049",
+      "word": "der/die Musiktherapeut/in",
+      "meaning": "music therapist"
+    },
+    {
+      "id": "B2_K9_M1_050",
+      "word": "der Pulsschlag",
+      "plural": "die Pulsschläge",
+      "meaning": "pulse beat"
+    },
+    {
+      "id": "B2_K9_M1_051",
+      "word": "reaktivieren",
+      "meaning": "reactivate"
+    },
+    {
+      "id": "B2_K9_M1_052",
+      "word": "reproduzieren",
+      "meaning": "reproduce"
+    },
+    {
+      "id": "B2_K9_M1_053",
+      "word": "der Sauerstoffverbrauch (Sg.)",
+      "meaning": "oxygen consumption (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_054",
+      "word": "der Schlaganfall",
+      "plural": "die Schlaganfälle",
+      "meaning": "stroke"
+    },
+    {
+      "id": "B2_K9_M1_055",
+      "word": "das Schmerzempfinden (Sg.)",
+      "meaning": "sensation of pain (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_056",
+      "word": "schmerzlindernd",
+      "meaning": "soothing"
+    },
+    {
+      "id": "B2_K9_M1_057",
+      "word": "senken",
+      "meaning": "reduce"
+    },
+    {
+      "id": "B2_K9_M1_058",
+      "word": "sozusagen",
+      "meaning": "so to speak"
+    },
+    {
+      "id": "B2_K9_M1_059",
+      "word": "die Sprachstörung",
+      "plural": "die Sprachstörungen",
+      "meaning": "speech disorder"
+    },
+    {
+      "id": "B2_K9_M1_060",
+      "word": "steuern",
+      "meaning": "Taxes"
+    },
+    {
+      "id": "B2_K9_M1_061",
+      "word": "der Stoffwechsel",
+      "plural": "die Stoffwechsel",
+      "meaning": "metabolism,"
+    },
+    {
+      "id": "B2_K9_M1_062",
+      "word": "der Takt",
+      "plural": "die Takte",
+      "meaning": "beat"
+    },
+    {
+      "id": "B2_K9_M1_063",
+      "word": "der Ton",
+      "plural": "die Töne",
+      "meaning": "sound"
+    },
+    {
+      "id": "B2_K9_M1_064",
+      "word": "vielfach",
+      "meaning": "frequently"
+    },
+    {
+      "id": "B2_K9_M1_065",
+      "word": "vorhanden",
+      "meaning": "available"
+    },
+    {
+      "id": "B2_K9_M1_066",
+      "word": "wohltuend",
+      "meaning": "soothing"
+    },
+    {
+      "id": "B2_K9_M1_067",
+      "word": "zunehmend",
+      "meaning": "increasingly"
+    },
+    {
+      "id": "B2_K9_M1_068",
+      "word": "erträglich",
+      "meaning": "tolerable"
+    },
+    {
+      "id": "B2_K9_M1_069",
+      "word": "die Verarbeitung",
+      "plural": "die Verarbeitungen",
+      "meaning": "processing"
+    },
+    {
+      "id": "B2_K9_M1_070",
+      "word": "die Erkenntnis",
+      "plural": "die Erkenntnisse",
+      "meaning": "knowledge"
+    },
+    {
+      "id": "B2_K9_M1_071",
+      "word": "die Erzeugung (Sg.)",
+      "meaning": "generation (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_072",
+      "word": "die Gehirnregion",
+      "plural": "die Gehirnregionen",
+      "meaning": "brain region"
+    },
+    {
+      "id": "B2_K9_M1_073",
+      "word": "die Wahrnehmung",
+      "plural": "die Wahrnehmungen",
+      "meaning": "perception"
+    },
+    {
+      "id": "B2_K9_M1_074",
+      "word": "der Abbau (Sg.)",
+      "meaning": "the dismantling (Sg.)"
+    },
+    {
+      "id": "B2_K9_M1_075",
+      "word": "verwandeln",
+      "meaning": "transform"
     }
   ]
 }

@@ -12,10 +12,6 @@ import { getGermanLevelWords, shuffleGermanWords, GermanArtikel, GermanWord } fr
 import { useProgress } from "../../hooks/useProgress";
 import { UI_STORAGE_KEYS } from "../../store/uiStore";
 
-function germanOrderKey(level: string): string {
-  return `cards_ui_german_order_${level}`;
-}
-
 export default function GermanGameScreen(): React.JSX.Element {
   const { colors } = useTheme();
   const params = useLocalSearchParams<{
@@ -38,46 +34,17 @@ export default function GermanGameScreen(): React.JSX.Element {
   const [streak, setStreak] = useState<number>(resumeStreak);
   const [feedbackState, setFeedbackState] = useState<FeedbackState>("idle");
 
-  // Load (or create) a stable word order for this level. Reusing the same
-  // order across visits — rather than reshuffling every time — is what
-  // makes "word 112" actually mean the same word when resuming.
+  // Shuffle fresh every time this level is entered, so the deck order is
+  // different each session — no stable/cached order to keep it the same.
+  // Note: this means "Continue" resumes at the same position number in the
+  // new shuffled deck, not necessarily the same word as before.
   useEffect(() => {
     if (!level) return;
-    let isMounted = true;
-
-    async function loadOrder(): Promise<void> {
-      setWordsReady(false);
-      const rawWords = getGermanLevelWords(level);
-      const savedOrderRaw = await AsyncStorage.getItem(germanOrderKey(level));
-      let ordered: GermanWord[] | null = null;
-
-      if (savedOrderRaw) {
-        try {
-          const savedIds: string[] = JSON.parse(savedOrderRaw);
-          const byId = new Map(rawWords.map((w) => [w.id, w] as const));
-          if (savedIds.length === rawWords.length && savedIds.every((id) => byId.has(id))) {
-            ordered = savedIds.map((id) => byId.get(id)!);
-          }
-        } catch {
-          ordered = null;
-        }
-      }
-
-      if (!ordered) {
-        ordered = shuffleGermanWords(rawWords);
-        await AsyncStorage.setItem(germanOrderKey(level), JSON.stringify(ordered.map((w) => w.id)));
-      }
-
-      if (isMounted) {
-        setWords(ordered);
-        setWordsReady(true);
-      }
-    }
-
-    loadOrder();
-    return () => {
-      isMounted = false;
-    };
+    setWordsReady(false);
+    const rawWords = getGermanLevelWords(level);
+    const ordered = shuffleGermanWords(rawWords);
+    setWords(ordered);
+    setWordsReady(true);
   }, [level]);
 
   useEffect(() => {

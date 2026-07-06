@@ -5,10 +5,142 @@
   "words": [
     {
       "id": "B2_K8_M3_001",
-      "word": "Platzhalter",
-      "plural": "Platzhalter",
-      "meaning": "This is placeholder data. Replace this file with real vocabulary.",
-      "example": "Dieser Beispielsatz wird ersetzt, sobald echte Vokabeln hinzugefügt werden."
+      "word": "der Buchdruck",
+      "plural": "die Buchdrucke",
+      "meaning": "letterpress"
+    },
+    {
+      "id": "B2_K8_M3_002",
+      "word": "angehen, ging an, ist angegangen",
+      "meaning": "tackle, tackled, tackled",
+      "example": "Erfindungen angeht, findet sich mache Irrtümer in den Geschichtsbüchern."
+    },
+    {
+      "id": "B2_K8_M3_003",
+      "word": "die Buchseite",
+      "plural": "die Buchseiten",
+      "meaning": "book page"
+    },
+    {
+      "id": "B2_K8_M3_004",
+      "word": "der Druck (der Druck eines Buches)",
+      "plural": "die Drücke",
+      "meaning": "print (the print of a book)"
+    },
+    {
+      "id": "B2_K8_M3_005",
+      "word": "die Drucktafel",
+      "plural": "die Drucktafeln",
+      "meaning": "printing board"
+    },
+    {
+      "id": "B2_K8_M3_006",
+      "word": "durchsetzen",
+      "meaning": "push through"
+    },
+    {
+      "id": "B2_K8_M3_007",
+      "word": "ergeben (sich), ergab sich, hat sich",
+      "meaning": "surrender, surrendered, surrendered"
+    },
+    {
+      "id": "B2_K8_M3_008",
+      "word": "ergeben",
+      "meaning": "result",
+      "example": "Die Zahlen ergeben sich aus verschiedenen Untersuchungen."
+    },
+    {
+      "id": "B2_K8_M3_009",
+      "word": "fehlen (Weit gefehlt!)",
+      "meaning": "missing (far from it!)"
+    },
+    {
+      "id": "B2_K8_M3_010",
+      "word": "die Handelsbeziehung",
+      "plural": "die Handelsbeziehungen",
+      "meaning": "the trade relationship"
+    },
+    {
+      "id": "B2_K8_M3_011",
+      "word": "die Holzplatte",
+      "plural": "die Holzplatten",
+      "meaning": "wooden plate"
+    },
+    {
+      "id": "B2_K8_M3_012",
+      "word": "irren",
+      "meaning": "be wrong"
+    },
+    {
+      "id": "B2_K8_M3_013",
+      "word": "kommen, kam, ist gekommen",
+      "meaning": "come, came, has come",
+      "example": "auf eine Idee kommen"
+    },
+    {
+      "id": "B2_K8_M3_014",
+      "word": "das Musikgenie",
+      "plural": "die Musikgenies",
+      "meaning": "musical genius"
+    },
+    {
+      "id": "B2_K8_M3_015",
+      "word": "die Pest (Sg.)",
+      "meaning": "plague"
+    },
+    {
+      "id": "B2_K8_M3_016",
+      "word": "die Plattenfirma",
+      "plural": "die Plattenfirmafirmen",
+      "meaning": "record label"
+    },
+    {
+      "id": "B2_K8_M3_017",
+      "word": "die Rundfunkanstalt",
+      "plural": "die Rundfunkanstalten",
+      "meaning": "broadcaster"
+    },
+    {
+      "id": "B2_K8_M3_018",
+      "word": "die Säuglingssterblichkeit (Sg.)",
+      "meaning": "infant mortality"
+    },
+    {
+      "id": "B2_K8_M3_019",
+      "word": "schnitzen",
+      "meaning": "to carve"
+    },
+    {
+      "id": "B2_K8_M3_020",
+      "word": "das Schriftzeichen",
+      "plural": "die Schriftzeichen",
+      "meaning": "character"
+    },
+    {
+      "id": "B2_K8_M3_021",
+      "word": "statistisch",
+      "meaning": "statistical"
+    },
+    {
+      "id": "B2_K8_M3_022",
+      "word": "taufen",
+      "meaning": "to baptize"
+    },
+    {
+      "id": "B2_K8_M3_023",
+      "word": "zusammensetzen",
+      "meaning": "put together"
+    },
+    {
+      "id": "B2_K8_M3_024",
+      "word": "2d die Wissenschaftssprache, -n",
+      "meaning": "2d language of science"
+    },
+    {
+      "id": "B2_K8_M3_025",
+      "word": "das Kaffeehaus",
+      "plural": "die Kaffeehaüser",
+      "meaning": "the coffee house"
     }
   ]
 }
