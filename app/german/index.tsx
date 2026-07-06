@@ -1,7 +1,8 @@
 import { router } from "expo-router";
-import React from "react";
+import React, { useCallback, useState } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { useFocusEffect } from "@react-navigation/native";
 import { NavBar } from "../../components/NavBar";
 import { Scales } from "../../components/Scales";
 import { ThemeToggle } from "../../components/ThemeToggle";
@@ -29,6 +30,12 @@ export default function GermanLevelScreen(): React.JSX.Element {
   );
 }
 
+interface ResumeState {
+  index: number;
+  score: number;
+  streak: number;
+}
+
 function LevelCard({ level }: { level: string }): React.JSX.Element {
   const { colors } = useTheme();
   const { words } = useGermanData(level);
@@ -38,7 +45,38 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
   const total = score.correct + score.incorrect;
   const accuracy = total > 0 ? Math.round((score.correct / total) * 100) : null;
 
-  const handlePress = async (): Promise<void> => {
+  const [resume, setResume] = useState<ResumeState | null>(null);
+
+  // Only one German level's mid-session position is tracked at a time (the
+  // last one visited) — same "last visited" keys the home screen Continue
+  // card reads. Re-check on every focus so backing out of a level and
+  // returning to this picker still shows Continue for it, instead of
+  // always resetting to word 1.
+  useFocusEffect(
+    useCallback(() => {
+      let isMounted = true;
+      (async () => {
+        const [lastLevel, indexRaw, scoreRaw, streakRaw] = await Promise.all([
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE),
+          AsyncStorage.getItem(UI_STORAGE_KEYS.LAST_GERMAN_STREAK),
+        ]);
+        if (!isMounted) return;
+        const index = indexRaw ? parseInt(indexRaw, 10) : 0;
+        if (lastLevel === level && index > 0) {
+          setResume({ index, score: scoreRaw ? parseInt(scoreRaw, 10) : 0, streak: streakRaw ? parseInt(streakRaw, 10) : 0 });
+        } else {
+          setResume(null);
+        }
+      })();
+      return () => {
+        isMounted = false;
+      };
+    }, [level])
+  );
+
+  const startFresh = async (): Promise<void> => {
     // Write this immediately — don't wait for the destination screen to sync
     // it up, so "Continue" reflects the level you just picked right away.
     await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL, level);
@@ -48,28 +86,57 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
     router.push(`/german/${level}`);
   };
 
+  const continuePrevious = (): void => {
+    if (!resume) return;
+    router.push({
+      pathname: "/german/[level]",
+      params: {
+        level,
+        resumeIndex: String(resume.index),
+        resumeScore: String(resume.score),
+        resumeStreak: String(resume.streak),
+      },
+    });
+  };
+
   return (
-    <Pressable
-      onPress={handlePress}
-      style={({ pressed }) => [
+    <View
+      style={[
         styles.card,
-        {
-          borderColor: colors.border,
-          backgroundColor: colors.backgroundAlt,
-          opacity: pressed ? 0.75 : 1,
-        },
+        { borderColor: colors.border, backgroundColor: colors.backgroundAlt },
       ]}
     >
-      <View style={styles.cardTop}>
-        <Text style={[styles.levelCode, { color: colors.text }]}>{level}</Text>
-        <Text style={[styles.accuracy, { color: colors.textMuted }]}>
-          {accuracy !== null ? `${accuracy}% accuracy` : "not started"}
+      <Pressable onPress={resume ? continuePrevious : startFresh} style={({ pressed }) => [{ opacity: pressed ? 0.75 : 1 }]}>
+        <View style={styles.cardTop}>
+          <Text style={[styles.levelCode, { color: colors.text }]}>{level}</Text>
+          <Text style={[styles.accuracy, { color: colors.textMuted }]}>
+            {accuracy !== null ? `${accuracy}% accuracy` : "not started"}
+          </Text>
+        </View>
+        <Text style={[styles.count, { color: colors.textMuted }]}>
+          {words.length} words
         </Text>
-      </View>
-      <Text style={[styles.count, { color: colors.textMuted }]}>
-        {words.length} words
-      </Text>
-    </Pressable>
+      </Pressable>
+
+      {resume && (
+        <View style={[styles.resumeRow, { borderTopColor: colors.border }]}>
+          <Pressable
+            onPress={continuePrevious}
+            style={({ pressed }) => [styles.resumeBtn, { borderColor: colors.accent, opacity: pressed ? 0.7 : 1 }]}
+          >
+            <Text style={[styles.resumeBtnLabel, { color: colors.accent }]}>
+              Continue (word {resume.index + 1})
+            </Text>
+          </Pressable>
+          <Pressable
+            onPress={startFresh}
+            style={({ pressed }) => [styles.resumeBtn, { borderColor: colors.border, opacity: pressed ? 0.7 : 1 }]}
+          >
+            <Text style={[styles.resumeBtnLabel, { color: colors.textMuted }]}>Start over</Text>
+          </Pressable>
+        </View>
+      )}
+    </View>
   );
 }
 
@@ -85,4 +152,7 @@ const styles = StyleSheet.create({
   levelCode: { fontFamily: FONTS.bold, fontSize: FONT_SIZES.lg },
   accuracy: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.xs },
   count: { fontFamily: FONTS.regular, fontSize: FONT_SIZES.xs, marginTop: 8 },
+  resumeRow: { flexDirection: "row", gap: 8, marginTop: 14, paddingTop: 14, borderTopWidth: 1 },
+  resumeBtn: { flex: 1, borderWidth: 1, borderRadius: 8, paddingVertical: 8, alignItems: "center" },
+  resumeBtnLabel: { fontFamily: FONTS.medium, fontSize: FONT_SIZES.xs },
 });
