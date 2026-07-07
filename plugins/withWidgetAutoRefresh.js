@@ -144,7 +144,10 @@ function withWidgetAutoRefreshManifest(config) {
       });
     }
 
-    config.modResults = AndroidConfig.Permissions.ensurePermissions(config.modResults, [
+    // ensurePermissions mutates androidManifest in place and returns a
+    // {permissionName: boolean} results map — NOT the manifest — so it must
+    // be called for its side effect only, never assigned back.
+    AndroidConfig.Permissions.ensurePermissions(config.modResults, [
       "android.permission.RECEIVE_BOOT_COMPLETED",
       "android.permission.SCHEDULE_EXACT_ALARM",
     ]);
