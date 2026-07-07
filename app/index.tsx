@@ -8,7 +8,6 @@ import { useTheme } from "../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../theme/typography";
 import { ThemeToggle } from "../components/ThemeToggle";
 import { Scales } from "../components/Scales";
-import { INTERVAL_PRESET_MINUTES, useNotifications } from "../hooks/useNotifications";
 import { UI_STORAGE_KEYS } from "../store/uiStore";
 import { getSectionGroupId } from "../hooks/useIELTSData";
 
@@ -27,15 +26,6 @@ interface LastPosition {
 
 export default function HomeScreen(): React.JSX.Element {
   const { colors } = useTheme();
-  const {
-    notificationsEnabled,
-    notificationsSupported,
-    enableNotifications,
-    disableNotifications,
-    isLoading,
-    intervalMinutes,
-    setIntervalMinutes,
-  } = useNotifications();
 
   const [lastPos, setLastPos] = useState<LastPosition>({
     ieltsSection: null,
@@ -50,10 +40,6 @@ export default function HomeScreen(): React.JSX.Element {
     glossarIndex: 0,
   });
 
-  // Reload every time this screen comes into focus (not just on first mount) —
-  // otherwise "Continue" keeps pointing at wherever you were the first time
-  // the app opened, since AsyncStorage keeps updating but this screen's
-  // state doesn't refresh just from being navigated back to.
   useFocusEffect(
     useCallback(() => {
       let isMounted = true;
@@ -103,15 +89,6 @@ export default function HomeScreen(): React.JSX.Element {
     }, [])
   );
 
-  const handleToggleNotifications = async (): Promise<void> => {
-    if (!notificationsSupported) return;
-    if (notificationsEnabled) {
-      await disableNotifications();
-    } else {
-      await enableNotifications();
-    }
-  };
-
   return (
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
@@ -120,64 +97,9 @@ export default function HomeScreen(): React.JSX.Element {
         <View style={styles.header}>
           <Text style={[styles.title, { color: colors.text }]}>Cards</Text>
           <View style={styles.headerControls}>
-            <Pressable
-              onPress={handleToggleNotifications}
-              disabled={isLoading || !notificationsSupported}
-              style={[
-                styles.iconButton,
-                {
-                  borderColor: notificationsEnabled ? colors.accent : colors.border,
-                  backgroundColor: colors.backgroundAlt,
-                  opacity: notificationsSupported ? 1 : 0.35,
-                },
-              ]}
-            >
-              <Ionicons
-                name={notificationsEnabled ? "notifications" : "notifications-off-outline"}
-                size={18}
-                color={notificationsEnabled ? colors.accent : colors.text}
-              />
-            </Pressable>
             <ThemeToggle />
           </View>
         </View>
-
-        {!notificationsSupported && (
-          <Text style={[styles.notifHint, { color: colors.textMuted }]}>
-            vocab notifications require a dev build
-          </Text>
-        )}
-
-        {notificationsSupported && notificationsEnabled && (
-          <View style={styles.intervalRow}>
-            {INTERVAL_PRESET_MINUTES.map((minutes) => {
-              const selected = minutes === intervalMinutes;
-              return (
-                <Pressable
-                  key={minutes}
-                  onPress={() => setIntervalMinutes(minutes)}
-                  disabled={isLoading}
-                  style={[
-                    styles.intervalPill,
-                    {
-                      borderColor: selected ? colors.accent : colors.border,
-                      backgroundColor: selected ? colors.accent : colors.backgroundAlt,
-                    },
-                  ]}
-                >
-                  <Text
-                    style={[
-                      styles.intervalPillText,
-                      { color: selected ? colors.background : colors.textMuted },
-                    ]}
-                  >
-                    {minutes}m
-                  </Text>
-                </Pressable>
-              );
-            })}
-          </View>
-        )}
 
         <Text style={[styles.sectionLabel, { color: colors.textMuted }]}>MODULE 01</Text>
         <Pressable
@@ -332,34 +254,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     gap: 8,
   },
-  iconButton: {
-    width: 38,
-    height: 38,
-    borderRadius: 19,
-    borderWidth: 1,
-    alignItems: "center",
-    justifyContent: "center",
-  },
-  notifHint: {
-    fontFamily: FONTS.regular,
-    fontSize: FONT_SIZES.xs,
-    marginBottom: 8,
-  },
-  intervalRow: {
-    flexDirection: "row",
-    gap: 6,
-    marginBottom: 12,
-  },
-  intervalPill: {
-    paddingHorizontal: 10,
-    paddingVertical: 5,
-    borderRadius: 12,
-    borderWidth: 1,
-  },
-  intervalPillText: {
-    fontFamily: FONTS.medium,
-    fontSize: FONT_SIZES.xs,
-  },
   sectionLabel: {
     fontFamily: FONTS.medium,
     fontSize: FONT_SIZES.xs,
@@ -399,9 +293,7 @@ const styles = StyleSheet.create({
     paddingVertical: 7,
     paddingHorizontal: 12,
   },
-  footerBtnAccent: {
-    // accent border set inline
-  },
+  footerBtnAccent: {},
   footerBtnIcon: {
     marginRight: 5,
   },

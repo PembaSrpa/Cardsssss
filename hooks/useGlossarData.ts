@@ -102,6 +102,35 @@ export function useGlossarKapitel(level: string, kapitel: number): { words: Glos
   return { words, isLoading };
 }
 
+let flatGlossarWordsCache: GlossarWord[] | null = null;
+
+// Flattens every A1/A2/B1 kapitel plus every B2 kapitel/module word list into
+// a single pool. Used by the home-screen widget (and anything else that just
+// wants "a random word from the whole Glossar") instead of the level/kapitel
+// picker flow the screens use.
+export function getAllGlossarWordsFlat(): GlossarWord[] {
+  if (flatGlossarWordsCache) {
+    return flatGlossarWordsCache;
+  }
+  const all: GlossarWord[] = [];
+
+  for (const level of ["A1", "A2", "B1"] as const) {
+    for (let kapitel = 1; kapitel <= GLOSSAR_KAPITEL_COUNT[level]; kapitel++) {
+      all.push(...getGlossarKapitelWords(level, kapitel));
+    }
+  }
+
+  for (let kapitel = 1; kapitel <= GLOSSAR_KAPITEL_COUNT.B2; kapitel++) {
+    const meta = getGlossarB2Meta(kapitel);
+    for (const mod of meta?.modules ?? []) {
+      all.push(...getGlossarB2ModuleWords(kapitel, mod.id));
+    }
+  }
+
+  flatGlossarWordsCache = all;
+  return all;
+}
+
 // ---- B2 module structure (meta + per-module word lists) ----
 
 export interface GlossarB2Module {
