@@ -38,16 +38,6 @@ Light and dark themes are both supported, and switch instantly from the toggle i
 
 ---
 
-## Home Screen Widgets (Android)
-
-Two widgets — one for IELTS, one for Deutsch Glossar — put a random flashcard right on your home screen. Tap the card to flip between the word and its meaning, and use the arrows to move to a different word without opening the app. Left on its own, the card rotates to a fresh word roughly every five minutes.
-
-Widgets are Android-only for now (iOS home screen widgets need their own native extension and aren't built yet).
-
-**Note:** Some Android manufacturers with aggressive battery managers (Xiaomi, Huawei, etc.) may slow or pause the widget's auto-refresh in the background regardless of app settings — this is an OS/OEM-level restriction, not something the app can fully override.
-
----
-
 ## Feedback
 
 If you have any questions, comments, or suggestions, please [open an issue](https://github.com/card-io/cardssss/issues/new) or [email me](mailto:nirashanichang@gmail.com).
