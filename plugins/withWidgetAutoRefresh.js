@@ -1,37 +1,22 @@
-// Android widget hosts refuse to honor android:updatePeriodMillis below
-// ~30 minutes (Android enforces this floor), so getting the flashcard to
-// rotate every ~5 minutes needs a real alarm outside that mechanism. This
-// plugin adds:
-//
-//   1. A small Kotlin BroadcastReceiver (WidgetAutoRefreshReceiver) that,
-//      each time it fires, sends an explicit APPWIDGET_UPDATE broadcast to
-//      both flashcard widget providers (which is what react-native-android-
-//      widget listens for to re-run the JS task handler), then reschedules
-//      itself ~5 minutes out.
-//   2. A manifest entry for that receiver, plus BOOT_COMPLETED so the chain
-//      resumes after a device restart.
-//   3. One line in MainApplication.onCreate to kick off the first alarm as
-//      soon as the app is opened, so the user doesn't have to reboot their
-//      phone to see it start working.
-//
-// Requires react-native-android-widget's own plugin to run first (it
-// creates the ".widget.<Name>" provider classes this receiver targets).
-
 const {
   withAndroidManifest,
   withMainApplication,
   withDangerousMod,
+  withAppBuildGradle,
+  withGradleProperties,
   AndroidConfig,
 } = require("@expo/config-plugins");
 const fs = require("fs");
 const path = require("path");
 
-const REFRESH_INTERVAL_MS = 5 * 60 * 1000; // ~5 minutes
+const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
 const RECEIVER_CLASS = "WidgetAutoRefreshReceiver";
 const WIDGET_NAMES = ["IELTSFlashcard", "GlossarFlashcard"];
 
 function receiverKotlinSource(packageName) {
-  const widgetClassNames = WIDGET_NAMES.map((n) => `"${packageName}.widget.${n}"`).join(", ");
+  const widgetClassNames = WIDGET_NAMES.map(
+    (n) => `"${packageName}.widget.${n}"`,
+  ).join(", ");
 
   return `package ${packageName}
 
@@ -77,13 +62,12 @@ class ${RECEIVER_CLASS} : BroadcastReceiver() {
     val appWidgetManager = AppWidgetManager.getInstance(context)
 
     for (className in WIDGET_PROVIDER_CLASSES) {
-      val component = ComponentName(context.packageName, className)
-      val ids = appWidgetManager.getAppWidgetIds(component)
+      val providerComponent = ComponentName(context.packageName, className)
+      val ids = appWidgetManager.getAppWidgetIds(providerComponent)
       if (ids.isNotEmpty()) {
-        val updateIntent = Intent(AppWidgetManager.ACTION_APPWIDGET_UPDATE).apply {
-          component = ComponentName(context.packageName, className)
-          putExtra(AppWidgetManager.EXTRA_APPWIDGET_IDS, ids)
-        }
+        val updateIntent = Intent(AppWidgetManager.ACTION_APPWIDGET_UPDATE)
+        updateIntent.component = providerComponent
+        updateIntent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_IDS, ids)
         context.sendBroadcast(updateIntent)
       }
     }
@@ -108,12 +92,12 @@ function withWidgetAutoRefreshSource(config) {
       const dir = path.join(
         config.modRequest.platformProjectRoot,
         "app/src/main/java",
-        packagePath
+        packagePath,
       );
       fs.mkdirSync(dir, { recursive: true });
       fs.writeFileSync(
         path.join(dir, `${RECEIVER_CLASS}.kt`),
-        receiverKotlinSource(packageName)
+        receiverKotlinSource(packageName),
       );
       return config;
     },
@@ -128,7 +112,7 @@ function withWidgetAutoRefreshManifest(config) {
     if (!Array.isArray(app.receiver)) app.receiver = [];
 
     const alreadyPresent = app.receiver.some(
-      (r) => r.$?.["android:name"] === `.${RECEIVER_CLASS}`
+      (r) => r.$?.["android:name"] === `.${RECEIVER_CLASS}`,
     );
     if (!alreadyPresent) {
       app.receiver.push({
@@ -138,15 +122,14 @@ function withWidgetAutoRefreshManifest(config) {
         },
         "intent-filter": [
           {
-            action: [{ $: { "android:name": "android.intent.action.BOOT_COMPLETED" } }],
+            action: [
+              { $: { "android:name": "android.intent.action.BOOT_COMPLETED" } },
+            ],
           },
         ],
       });
     }
 
-    // ensurePermissions mutates androidManifest in place and returns a
-    // {permissionName: boolean} results map — NOT the manifest — so it must
-    // be called for its side effect only, never assigned back.
     AndroidConfig.Permissions.ensurePermissions(config.modResults, [
       "android.permission.RECEIVE_BOOT_COMPLETED",
       "android.permission.SCHEDULE_EXACT_ALARM",
@@ -167,18 +150,13 @@ function withWidgetAutoRefreshKickoff(config) {
     let contents = config.modResults.contents;
 
     if (!contents.includes(importLine)) {
-      contents = contents.replace(
-        /(package [^\n]+\n)/,
-        `$1\n${importLine}\n`
-      );
+      contents = contents.replace(/(package [^\n]+\n)/, `$1\n${importLine}\n`);
     }
 
     if (!contents.includes(`${RECEIVER_CLASS}.scheduleNext`)) {
-      // Drop the kickoff at the end of onCreate(), right after super.onCreate(),
-      // which every Expo-generated MainApplication.kt contains verbatim.
       contents = contents.replace(
         /(override fun onCreate\(\)\s*\{\s*\n\s*super\.onCreate\(\)\n)/,
-        `$1${kickoffLine}\n`
+        `$1${kickoffLine}\n`,
       );
     }
 
@@ -187,9 +165,42 @@ function withWidgetAutoRefreshKickoff(config) {
   });
 }
 
+// Separate, unrelated issue also seen in the EAS build log: this project's
+// generated android/app/build.gradle never sets `buildFeatures.buildConfig`,
+// which AGP defaults to false since 8.0. That leaves the BuildConfig class
+// ungenerated, so Expo's own MainActivity.kt/MainApplication.kt (which read
+// BuildConfig.DEBUG etc.) fail to compile. Not caused by anything in this
+// plugin, but it's cheap to fix here too since we're already touching
+// android/app/build.gradle territory via config plugins.
+function withBuildConfigEnabled(config) {
+  config = withAppBuildGradle(config, (config) => {
+    if (!/buildFeatures\s*{[^}]*buildConfig/.test(config.modResults.contents)) {
+      config.modResults.contents = config.modResults.contents.replace(
+        /android\s*{/,
+        `android {\n    buildFeatures {\n        buildConfig true\n    }`,
+      );
+    }
+    return config;
+  });
+
+  config = withGradleProperties(config, (config) => {
+    const key = "android.defaults.buildfeatures.buildconfig";
+    const exists = config.modResults.some(
+      (item) => item.type === "property" && item.key === key,
+    );
+    if (!exists) {
+      config.modResults.push({ type: "property", key, value: "true" });
+    }
+    return config;
+  });
+
+  return config;
+}
+
 module.exports = function withWidgetAutoRefresh(config) {
   config = withWidgetAutoRefreshSource(config);
   config = withWidgetAutoRefreshManifest(config);
   config = withWidgetAutoRefreshKickoff(config);
+  config = withBuildConfigEnabled(config);
   return config;
 };
