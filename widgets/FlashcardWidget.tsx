@@ -2,11 +2,6 @@ import React from "react";
 import { FlexWidget, TextWidget, SvgWidget } from "react-native-android-widget";
 import type { WidgetCard } from "./wordPool";
 
-// NOTE: this file renders inside the react-native-android-widget "widget
-// preview" JSX subset — FlexWidget/TextWidget/etc, not real RN components or
-// hooks. No custom fonts beyond what's registered with the widget config,
-// no Reanimated, no theme context. Keep it deliberately simple.
-
 const ACCENT = "#3D7BFF";
 const BG = "#101418";
 const CARD_BG = "#1B2129";
@@ -60,7 +55,7 @@ export function FlashcardWidget(props: FlashcardWidgetProps) {
         flexDirection: "column",
       }}
     >
-      {/* Header row: module label + open-app tap target */}
+      {}
       <FlexWidget
         style={{
           width: "match_parent",
@@ -77,7 +72,7 @@ export function FlashcardWidget(props: FlashcardWidgetProps) {
         />
       </FlexWidget>
 
-      {/* Card body — tap anywhere to flip */}
+      {}
       <FlexWidget
         style={{
           flex: 1,
@@ -131,7 +126,7 @@ export function FlashcardWidget(props: FlashcardWidgetProps) {
         )}
       </FlexWidget>
 
-      {/* Prev / next row */}
+      {}
       <FlexWidget
         style={{
           width: "match_parent",

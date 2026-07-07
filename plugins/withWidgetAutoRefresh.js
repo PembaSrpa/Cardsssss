@@ -66,7 +66,7 @@ class ${RECEIVER_CLASS} : BroadcastReceiver() {
       val ids = appWidgetManager.getAppWidgetIds(providerComponent)
       if (ids.isNotEmpty()) {
         val updateIntent = Intent(AppWidgetManager.ACTION_APPWIDGET_UPDATE)
-        updateIntent.component = providerComponent
+        updateIntent.setComponent(providerComponent)
         updateIntent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_IDS, ids)
         context.sendBroadcast(updateIntent)
       }
@@ -165,13 +165,6 @@ function withWidgetAutoRefreshKickoff(config) {
   });
 }
 
-// Separate, unrelated issue also seen in the EAS build log: this project's
-// generated android/app/build.gradle never sets `buildFeatures.buildConfig`,
-// which AGP defaults to false since 8.0. That leaves the BuildConfig class
-// ungenerated, so Expo's own MainActivity.kt/MainApplication.kt (which read
-// BuildConfig.DEBUG etc.) fail to compile. Not caused by anything in this
-// plugin, but it's cheap to fix here too since we're already touching
-// android/app/build.gradle territory via config plugins.
 function withBuildConfigEnabled(config) {
   config = withAppBuildGradle(config, (config) => {
     if (!/buildFeatures\s*{[^}]*buildConfig/.test(config.modResults.contents)) {

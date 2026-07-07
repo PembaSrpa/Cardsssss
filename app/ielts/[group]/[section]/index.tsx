@@ -21,9 +21,6 @@ export default function IELTSVocabularyListScreen(): React.JSX.Element {
   const { words, title, isLoading } = useIELTSData(section);
   const [resumeIndex, setResumeIndex] = useState<number | null>(null);
 
-  // Re-read on every focus, not just on mount — coming back from the
-  // flashcards screen via the back button re-focuses this screen without
-  // remounting it, so a mount-only effect would show stale "Start" state.
   useFocusEffect(
     useCallback(() => {
       let isMounted = true;

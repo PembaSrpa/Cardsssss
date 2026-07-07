@@ -34,10 +34,6 @@ export default function GermanGameScreen(): React.JSX.Element {
   const [streak, setStreak] = useState<number>(resumeStreak);
   const [feedbackState, setFeedbackState] = useState<FeedbackState>("idle");
 
-  // Shuffle fresh every time this level is entered, so the deck order is
-  // different each session — no stable/cached order to keep it the same.
-  // Note: this means "Continue" resumes at the same position number in the
-  // new shuffled deck, not necessarily the same word as before.
   useEffect(() => {
     if (!level) return;
     setWordsReady(false);

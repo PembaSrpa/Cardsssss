@@ -10,8 +10,6 @@ import {
   WidgetCard,
 } from "./wordPool";
 
-// Widget names as registered in app.json's react-native-android-widget plugin
-// config — used to tell the two widgets apart inside one shared handler.
 const WIDGET_NAME_IELTS = "IELTSFlashcard";
 const WIDGET_NAME_GLOSSAR = "GlossarFlashcard";
 
@@ -64,9 +62,6 @@ export async function widgetTaskHandler(props: WidgetTaskHandlerProps) {
     }
 
     case "WIDGET_UPDATE": {
-      // Fired by the ~5-minute native alarm (see plugins/withWidgetAutoRefresh)
-      // as well as the OS's own periodic update — always rotate to a fresh
-      // word and reset to the front face.
       const existing = await loadState(widgetId);
       const card = randomCardFor(module, existing?.wordId);
       const state: WidgetState = { wordId: card?.id ?? "", revealed: false };

@@ -77,7 +77,6 @@ export function useGermanData(level: string): UseGermanDataResult {
     setWords(shuffle(allWords));
     setResolvedLevel(data?.level ?? level);
     setIsLoading(false);
-    // Re-shuffle every time the level changes, producing a new session order.
   }, [level]);
 
   return {

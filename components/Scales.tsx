@@ -12,7 +12,7 @@ const WIDTH_BY_VARIANT: Record<ScalesVariant, number> = {
 
 const STRIPE_GAP = 8;
 const STRIPE_THICKNESS = 1;
-const STRIPE_LENGTH = 40; // long enough to cross the bar at 45deg for any reasonable width
+const STRIPE_LENGTH = 40;
 
 interface StripedEdgeProps {
   thickness: number;
@@ -22,9 +22,6 @@ interface StripedEdgeProps {
   borderSide: "left" | "right" | "top" | "bottom";
 }
 
-// Pure-View diagonal stripe pattern. Avoids react-native-svg's <ClipPath>,
-// which has known reliability/freeze issues on Android — this renders fine
-// (and identically) on both native and web with no native module risk.
 function StripedEdge({ thickness, color, borderColor, orientation, borderSide }: StripedEdgeProps): React.JSX.Element {
   const window = useWindowDimensions();
   const length = orientation === "vertical" ? window.height : window.width;

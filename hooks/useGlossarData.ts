@@ -1,10 +1,5 @@
 import { useEffect, useState } from "react";
 
-// Deutsch Glossaries: Level (A1/A2/B1/B2) -> Kapitel -> word list.
-// A1/A2/B1 kapitel go straight to a flashcard list. B2 kapitel are unique —
-// each one fans out into 4 modules first (see GlossarB2Module), and each
-// module has its own word list, loaded on demand.
-
 export interface GlossarWord {
   id: string;
   word: string;
@@ -23,8 +18,6 @@ export interface GlossarKapitelData {
 export const GLOSSAR_LEVELS = ["A1", "A2", "B1", "B2"] as const;
 export type GlossarLevel = (typeof GLOSSAR_LEVELS)[number];
 
-// A1/A2/B1 run Kapitel 1–12. B2 runs Kapitel 1–10 but routes through a
-// module picker instead of straight to words — see useGlossarB2Meta below.
 export const GLOSSAR_KAPITEL_COUNT: Record<GlossarLevel, number> = {
   A1: 12,
   A2: 12,
@@ -35,8 +28,6 @@ export const GLOSSAR_KAPITEL_COUNT: Record<GlossarLevel, number> = {
 export function isB2Level(level: string): boolean {
   return level === "B2";
 }
-
-// ---- A1 / A2 / B1 straight kapitel word lists ----
 
 const GLOSSAR_DATA_MAP: { [key: string]: () => GlossarKapitelData } = {
   A1_K1: () => require("../assets/data/glossar_A1_K1.json"),
@@ -104,10 +95,6 @@ export function useGlossarKapitel(level: string, kapitel: number): { words: Glos
 
 let flatGlossarWordsCache: GlossarWord[] | null = null;
 
-// Flattens every A1/A2/B1 kapitel plus every B2 kapitel/module word list into
-// a single pool. Used by the home-screen widget (and anything else that just
-// wants "a random word from the whole Glossar") instead of the level/kapitel
-// picker flow the screens use.
 export function getAllGlossarWordsFlat(): GlossarWord[] {
   if (flatGlossarWordsCache) {
     return flatGlossarWordsCache;
@@ -131,11 +118,9 @@ export function getAllGlossarWordsFlat(): GlossarWord[] {
   return all;
 }
 
-// ---- B2 module structure (meta + per-module word lists) ----
-
 export interface GlossarB2Module {
-  id: string; // e.g. "m1"
-  title: string; // editable display name — rename freely in the data file
+  id: string;
+  title: string;
 }
 
 export interface GlossarB2MetaData {

@@ -47,11 +47,6 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
 
   const [resume, setResume] = useState<ResumeState | null>(null);
 
-  // Only one German level's mid-session position is tracked at a time (the
-  // last one visited) — same "last visited" keys the home screen Continue
-  // card reads. Re-check on every focus so backing out of a level and
-  // returning to this picker still shows Continue for it, instead of
-  // always resetting to word 1.
   useFocusEffect(
     useCallback(() => {
       let isMounted = true;
@@ -77,8 +72,6 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
   );
 
   const startFresh = async (): Promise<void> => {
-    // Write this immediately — don't wait for the destination screen to sync
-    // it up, so "Continue" reflects the level you just picked right away.
     await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_LEVEL, level);
     await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_INDEX, "0");
     await AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_GERMAN_SCORE, "0");

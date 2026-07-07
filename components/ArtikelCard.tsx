@@ -14,15 +14,9 @@ import { GermanArtikel } from "../hooks/useGermanData";
 
 export type FeedbackState = "idle" | "correct" | "incorrect";
 
-// Fixed exception to the neutral/orange palette: used exclusively for the
-// swipe-feedback border below, nowhere else in the app.
 const FEEDBACK_CORRECT = "#22c55e";
 const FEEDBACK_INCORRECT = "#ef4444";
 
-// Standard gender-color convention used in German learning materials:
-// der = blue, die = red, das = green. Applied to the hint labels (always)
-// and the revealed answer after swiping — never to the noun itself before
-// swiping, since that would give the answer away.
 const GENDER_COLORS: Record<GermanArtikel, string> = {
   der: "#3b82f6",
   die: "#ef4444",

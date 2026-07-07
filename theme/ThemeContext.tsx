@@ -5,30 +5,30 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 export type ThemeMode = "light" | "dark";
 
 export interface ThemeColors {
-  background: string; // neutral-100 (light) / black (dark)
-  backgroundAlt: string; // white (light) / neutral-900 (dark)
-  text: string; // neutral-700/800 (light) / neutral-200/300 (dark)
+  background: string;
+  backgroundAlt: string;
+  text: string;
   textMuted: string;
   border: string;
-  accent: string; // orange, button borders only
+  accent: string;
 }
 
 const LIGHT: ThemeColors = {
-  background: "#FFFFFF", // white
-  backgroundAlt: "#F5F5F5", // neutral-100
-  text: "#262626", // neutral-800
-  textMuted: "#404040", // neutral-700
-  border: "#D4D4D4", // neutral-300
-  accent: "#F97316", // orange-500
+  background: "#FFFFFF",
+  backgroundAlt: "#F5F5F5",
+  text: "#262626",
+  textMuted: "#404040",
+  border: "#D4D4D4",
+  accent: "#F97316",
 };
 
 const DARK: ThemeColors = {
-  background: "#000000", // black
-  backgroundAlt: "#171717", // neutral-900
-  text: "#E5E5E5", // neutral-200
-  textMuted: "#D4D4D4", // neutral-300
-  border: "#262626", // neutral-800
-  accent: "#FB923C", // orange-400
+  background: "#000000",
+  backgroundAlt: "#171717",
+  text: "#E5E5E5",
+  textMuted: "#D4D4D4",
+  border: "#262626",
+  accent: "#FB923C",
 };
 
 const STORAGE_KEY = "cards_theme_mode";

@@ -25,17 +25,12 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
   const [index, setIndex] = useState<number>(startParam);
   const [flipped, setFlipped] = useState<boolean>(false);
 
-  // Clamp once word count is known, in case a stale resume index points
-  // past the end of a list that's since shrunk.
   useEffect(() => {
     if (words.length > 0 && index > words.length - 1) {
       setIndex(words.length - 1);
     }
   }, [words.length, index]);
 
-  // Persist both the per-list resume position (used by this list's own
-  // "Continue" button) and the global "last visited" position (used by
-  // the home screen's Continue card) on every move.
   useEffect(() => {
     AsyncStorage.setItem(ieltsListIndexKey(section), String(index));
     AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_SECTION, section);
@@ -54,9 +49,6 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
     setIndex((prev) => Math.max(prev - 1, 0));
   };
 
-  // Swipe left/right to move between cards, alongside the prev/next buttons.
-  // activeOffsetX keeps this from stealing the flip tap on FlashCard —
-  // the pan only takes over once the finger has actually moved sideways.
   const translateX = useSharedValue<number>(0);
   const SWIPE_THRESHOLD = 60;
 

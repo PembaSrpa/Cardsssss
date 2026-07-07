@@ -1,11 +1,3 @@
-// Kapitel titles for the Glossar feature, keyed by level then kapitel number.
-// These are display-only labels (from the course book's table of contents)
-// and are independent of the glossar_*.json word-list schema — add or edit
-// freely here without touching the data files or the validator.
-//
-// A level/kapitel not listed here just falls back to "Kapitel {n}" with no
-// subtitle (see getGlossarKapitelTitle below), so it's safe to fill these in
-// incrementally as each level's glossary is transcribed.
 
 export const GLOSSAR_KAPITEL_TITLES: Partial<Record<string, Partial<Record<number, string>>>> = {
   A1: {

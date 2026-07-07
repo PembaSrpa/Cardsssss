@@ -3,7 +3,7 @@ import { View, StyleSheet } from "react-native";
 import { useTheme } from "../theme/ThemeContext";
 
 interface ProgressBarProps {
-  progress: number; // 0 to 1
+  progress: number;
   height?: number;
 }
 

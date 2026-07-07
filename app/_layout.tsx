@@ -35,7 +35,6 @@ export default function RootLayout(): React.JSX.Element {
     JetBrainsMono_700Bold,
   });
 
-  // Hide splash as soon as fonts finish OR fail — never block forever
   const ready = fontsLoaded || !!fontError;
 
   useEffect(() => {

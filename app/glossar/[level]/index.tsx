@@ -20,7 +20,6 @@ export default function GlossarKapitelListScreen(): React.JSX.Element {
 
   const handlePress = (kapitel: number): void => {
     if (isB2) {
-      // B2 kapitel fan out into 4 modules first, instead of going straight to words.
       router.push(`/glossar/b2/${kapitel}`);
     } else {
       router.push(`/glossar/${level}/${kapitel}`);
