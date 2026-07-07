@@ -1,8 +1,0 @@
-<resources>
-  <string name="app_name">cardsssss</string>
-  <string name="expo_system_ui_user_interface_style" translatable="false">automatic</string>
-  <string name="widget_ieltsflashcard_description" translatable="false">A random IELTS word — tap to flip, use the arrows to move to another word.</string>
-  <string name="widget_glossarflashcard_description" translatable="false">A random Deutsch Glossar word — tap to flip, use the arrows to move to another word.</string>
-  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
-  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
-</resources>
