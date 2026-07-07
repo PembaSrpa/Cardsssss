@@ -1,5 +1,810 @@
 {
   "level": "A1_OLD",
   "kapitel": 11,
-  "words": []
+  "words": [
+    {
+      "id": "A1_OLD_K11_001",
+      "word": "ausräumen",
+      "meaning": "to clean out, to clear out",
+      "example": "Wir räumen den Schrank aus."
+    },
+    {
+      "id": "A1_OLD_K11_002",
+      "word": "allein",
+      "meaning": "alone"
+    },
+    {
+      "id": "A1_OLD_K11_003",
+      "word": "bedeuten",
+      "meaning": "to mean, to signify"
+    },
+    {
+      "id": "A1_OLD_K11_004",
+      "word": "der Blogbeitrag",
+      "plural": "die Blogbeiträge",
+      "meaning": "blog post"
+    },
+    {
+      "id": "A1_OLD_K11_005",
+      "word": "die Cafeteria",
+      "plural": "die Cafeterias",
+      "meaning": "cafeteria"
+    },
+    {
+      "id": "A1_OLD_K11_006",
+      "word": "fühlen",
+      "meaning": "to feel"
+    },
+    {
+      "id": "A1_OLD_K11_007",
+      "word": "gemein",
+      "meaning": "mean, nasty"
+    },
+    {
+      "id": "A1_OLD_K11_008",
+      "word": "glücklich",
+      "meaning": "happy, lucky"
+    },
+    {
+      "id": "A1_OLD_K11_009",
+      "word": "die Hälfte",
+      "plural": "die Hälften",
+      "meaning": "half"
+    },
+    {
+      "id": "A1_OLD_K11_010",
+      "word": "hart",
+      "meaning": "hard"
+    },
+    {
+      "id": "A1_OLD_K11_011",
+      "word": "hungrig",
+      "meaning": "hungry"
+    },
+    {
+      "id": "A1_OLD_K11_012",
+      "word": "das Kamel",
+      "plural": "die Kamele",
+      "meaning": "camel"
+    },
+    {
+      "id": "A1_OLD_K11_013",
+      "word": "der König",
+      "plural": "die Könige",
+      "meaning": "king"
+    },
+    {
+      "id": "A1_OLD_K11_014",
+      "word": "der Küchenschrank",
+      "plural": "die Küchenschränke",
+      "meaning": "kitchen cabinet"
+    },
+    {
+      "id": "A1_OLD_K11_015",
+      "word": "die Lieblingsschokolade",
+      "plural": "die Lieblingsschokoladen",
+      "meaning": "favorite chocolate"
+    },
+    {
+      "id": "A1_OLD_K11_016",
+      "word": "die Limo",
+      "plural": "die Limos",
+      "meaning": "limousine"
+    },
+    {
+      "id": "A1_OLD_K11_017",
+      "word": "mindestens",
+      "meaning": "at least"
+    },
+    {
+      "id": "A1_OLD_K11_018",
+      "word": "nervös",
+      "meaning": "nervous"
+    },
+    {
+      "id": "A1_OLD_K11_019",
+      "word": "die Sache",
+      "plural": "die Sachen",
+      "meaning": "thing, matter"
+    },
+    {
+      "id": "A1_OLD_K11_020",
+      "word": "schaffen",
+      "meaning": "to create, to manage"
+    },
+    {
+      "id": "A1_OLD_K11_021",
+      "word": "schwer",
+      "meaning": "heavy, difficult",
+      "example": "Die Aufgabe war schwer."
+    },
+    {
+      "id": "A1_OLD_K11_022",
+      "word": "die Süßigkeit",
+      "plural": "die Süßigkeiten",
+      "meaning": "sweet, candy"
+    },
+    {
+      "id": "A1_OLD_K11_023",
+      "word": "träumen",
+      "meaning": "to dream"
+    },
+    {
+      "id": "A1_OLD_K11_024",
+      "word": "ungesund",
+      "meaning": "unhealthy, unhealthily"
+    },
+    {
+      "id": "A1_OLD_K11_025",
+      "word": "der Anrufbeantworter",
+      "plural": "die Anrufbeantworter",
+      "meaning": "answering machine"
+    },
+    {
+      "id": "A1_OLD_K11_026",
+      "word": "der Anrufer",
+      "plural": "die Anrufer",
+      "meaning": "caller"
+    },
+    {
+      "id": "A1_OLD_K11_027",
+      "word": "das Experiment",
+      "plural": "die Experimente",
+      "meaning": "experiment"
+    },
+    {
+      "id": "A1_OLD_K11_028",
+      "word": "der Fitness-Test",
+      "plural": "die Fitness-Tests",
+      "meaning": "fitness test"
+    },
+    {
+      "id": "A1_OLD_K11_029",
+      "word": "das Kilo",
+      "plural": "die Kilos",
+      "meaning": "kilogram"
+    },
+    {
+      "id": "A1_OLD_K11_030",
+      "word": "wiegen",
+      "meaning": "to weigh"
+    },
+    {
+      "id": "A1_OLD_K11_031",
+      "word": "das Alter",
+      "meaning": "age"
+    },
+    {
+      "id": "A1_OLD_K11_032",
+      "word": "das Gewicht",
+      "meaning": "weight"
+    },
+    {
+      "id": "A1_OLD_K11_033",
+      "word": "schwer",
+      "meaning": "heavy",
+      "example": "Wie schwer ist die Person?"
+    },
+    {
+      "id": "A1_OLD_K11_034",
+      "word": "der Arm",
+      "plural": "die Arme",
+      "meaning": "arm"
+    },
+    {
+      "id": "A1_OLD_K11_035",
+      "word": "der Bauch",
+      "plural": "die Bäuche",
+      "meaning": "stomach"
+    },
+    {
+      "id": "A1_OLD_K11_036",
+      "word": "das Bein",
+      "plural": "die Beine",
+      "meaning": "leg"
+    },
+    {
+      "id": "A1_OLD_K11_037",
+      "word": "die Brust",
+      "plural": "die Brüste",
+      "meaning": "chest"
+    },
+    {
+      "id": "A1_OLD_K11_038",
+      "word": "der Ellbogen",
+      "plural": "die Ellbogen",
+      "meaning": "elbow"
+    },
+    {
+      "id": "A1_OLD_K11_039",
+      "word": "der Finger",
+      "plural": "die Finger",
+      "meaning": "finger"
+    },
+    {
+      "id": "A1_OLD_K11_040",
+      "word": "der Fuß",
+      "plural": "die Füße",
+      "meaning": "foot"
+    },
+    {
+      "id": "A1_OLD_K11_041",
+      "word": "der Hals",
+      "plural": "die Hälse",
+      "meaning": "neck, throat"
+    },
+    {
+      "id": "A1_OLD_K11_042",
+      "word": "die Hand",
+      "plural": "die Hände",
+      "meaning": "hand"
+    },
+    {
+      "id": "A1_OLD_K11_043",
+      "word": "das Herz",
+      "plural": "die Herzen",
+      "meaning": "heart"
+    },
+    {
+      "id": "A1_OLD_K11_044",
+      "word": "das Knie",
+      "plural": "die Knie",
+      "meaning": "knee"
+    },
+    {
+      "id": "A1_OLD_K11_045",
+      "word": "der Kopf",
+      "plural": "die Köpfe",
+      "meaning": "head"
+    },
+    {
+      "id": "A1_OLD_K11_046",
+      "word": "der Körper",
+      "plural": "die Körper",
+      "meaning": "body"
+    },
+    {
+      "id": "A1_OLD_K11_047",
+      "word": "der Rücken",
+      "plural": "die Rücken",
+      "meaning": "back"
+    },
+    {
+      "id": "A1_OLD_K11_048",
+      "word": "der Körperteil",
+      "plural": "die Körperteile",
+      "meaning": "body part"
+    },
+    {
+      "id": "A1_OLD_K11_049",
+      "word": "die Sportübung",
+      "plural": "die Sportübungen",
+      "meaning": "sports exercise"
+    },
+    {
+      "id": "A1_OLD_K11_050",
+      "word": "anspannen",
+      "meaning": "to tighten, to tense"
+    },
+    {
+      "id": "A1_OLD_K11_051",
+      "word": "ausstrecken",
+      "meaning": "to stretch out"
+    },
+    {
+      "id": "A1_OLD_K11_052",
+      "word": "gerade",
+      "meaning": "straight",
+      "example": "den Rücken gerade halten"
+    },
+    {
+      "id": "A1_OLD_K11_053",
+      "word": "halten",
+      "meaning": "to maintain, to hold"
+    },
+    {
+      "id": "A1_OLD_K11_054",
+      "word": "hochziehen",
+      "meaning": "to pull up"
+    },
+    {
+      "id": "A1_OLD_K11_055",
+      "word": "die Übung",
+      "plural": "die Übungen",
+      "meaning": "exercise, practice"
+    },
+    {
+      "id": "A1_OLD_K11_056",
+      "word": "atmen",
+      "meaning": "to breathe"
+    },
+    {
+      "id": "A1_OLD_K11_057",
+      "word": "einatmen",
+      "meaning": "to inhale",
+      "example": "Atme erst ein, dann aus."
+    },
+    {
+      "id": "A1_OLD_K11_058",
+      "word": "der Teil",
+      "plural": "die Teile",
+      "meaning": "part"
+    },
+    {
+      "id": "A1_OLD_K11_059",
+      "word": "mitmachen",
+      "meaning": "to join in, to participate"
+    },
+    {
+      "id": "A1_OLD_K11_060",
+      "word": "das Handtuch",
+      "plural": "die Handtücher",
+      "meaning": "towel"
+    },
+    {
+      "id": "A1_OLD_K11_061",
+      "word": "die Bürste",
+      "plural": "die Bürsten",
+      "meaning": "brush"
+    },
+    {
+      "id": "A1_OLD_K11_062",
+      "word": "die Creme",
+      "plural": "die Cremes",
+      "meaning": "cream"
+    },
+    {
+      "id": "A1_OLD_K11_063",
+      "word": "das Duschgel",
+      "plural": "die Duschgels",
+      "meaning": "shower gel"
+    },
+    {
+      "id": "A1_OLD_K11_064",
+      "word": "der Föhn",
+      "plural": "die Föhne",
+      "meaning": "hairdryer"
+    },
+    {
+      "id": "A1_OLD_K11_065",
+      "word": "der Kamm",
+      "plural": "die Kämme",
+      "meaning": "comb"
+    },
+    {
+      "id": "A1_OLD_K11_066",
+      "word": "die Seife",
+      "plural": "die Seifen",
+      "meaning": "soap"
+    },
+    {
+      "id": "A1_OLD_K11_067",
+      "word": "das Shampoo",
+      "plural": "die Shampoos",
+      "meaning": "shampoo"
+    },
+    {
+      "id": "A1_OLD_K11_068",
+      "word": "das Rezept",
+      "plural": "die Rezepte",
+      "meaning": "here: prescription",
+      "example": "Der Arzt gibt mir ein Rezept."
+    },
+    {
+      "id": "A1_OLD_K11_069",
+      "word": "die Salbe",
+      "plural": "die Salben",
+      "meaning": "salve"
+    },
+    {
+      "id": "A1_OLD_K11_070",
+      "word": "stürzen",
+      "meaning": "to fall, to plunge"
+    },
+    {
+      "id": "A1_OLD_K11_071",
+      "word": "der Verband",
+      "plural": "die Verbände",
+      "meaning": "bandage"
+    },
+    {
+      "id": "A1_OLD_K11_072",
+      "word": "verletzt",
+      "meaning": "injured"
+    },
+    {
+      "id": "A1_OLD_K11_073",
+      "word": "Aua!",
+      "meaning": "Ouch!"
+    },
+    {
+      "id": "A1_OLD_K11_074",
+      "word": "bewegen",
+      "meaning": "to move"
+    },
+    {
+      "id": "A1_OLD_K11_075",
+      "word": "die CD",
+      "plural": "die CDs",
+      "meaning": "CD"
+    },
+    {
+      "id": "A1_OLD_K11_076",
+      "word": "gute Besserung",
+      "meaning": "get well soon"
+    },
+    {
+      "id": "A1_OLD_K11_077",
+      "word": "hinlegen",
+      "meaning": "to lie down"
+    },
+    {
+      "id": "A1_OLD_K11_078",
+      "word": "die Kontrolle",
+      "plural": "die Kontrollen",
+      "meaning": "check"
+    },
+    {
+      "id": "A1_OLD_K11_079",
+      "word": "nächst-",
+      "meaning": "next"
+    },
+    {
+      "id": "A1_OLD_K11_080",
+      "word": "passieren",
+      "meaning": "to happen"
+    },
+    {
+      "id": "A1_OLD_K11_081",
+      "word": "der Unfall",
+      "plural": "die Unfälle",
+      "meaning": "accident"
+    },
+    {
+      "id": "A1_OLD_K11_082",
+      "word": "wehtun",
+      "meaning": "to hurt",
+      "example": "Mein Zahn tut weh."
+    },
+    {
+      "id": "A1_OLD_K11_083",
+      "word": "sollen",
+      "meaning": "be supposed to",
+      "example": "Ich soll viel schlafen."
+    },
+    {
+      "id": "A1_OLD_K11_084",
+      "word": "der Husten",
+      "meaning": "cough"
+    },
+    {
+      "id": "A1_OLD_K11_085",
+      "word": "baden",
+      "meaning": "to bath"
+    },
+    {
+      "id": "A1_OLD_K11_086",
+      "word": "der Hustensaft",
+      "plural": "die Hustensäfte",
+      "meaning": "cough syrup"
+    },
+    {
+      "id": "A1_OLD_K11_087",
+      "word": "der Kamillentee",
+      "plural": "die Kamillentees",
+      "meaning": "chamomile tea"
+    },
+    {
+      "id": "A1_OLD_K11_088",
+      "word": "rausgehen",
+      "meaning": "to go out"
+    },
+    {
+      "id": "A1_OLD_K11_089",
+      "word": "die Rückenschmerzen",
+      "meaning": "back pain"
+    },
+    {
+      "id": "A1_OLD_K11_090",
+      "word": "der Tropfen",
+      "plural": "die Tropfen",
+      "meaning": "drop",
+      "example": "Nehmen Sie zwei Tropfen täglich."
+    },
+    {
+      "id": "A1_OLD_K11_091",
+      "word": "die Bauchschmerzen",
+      "meaning": "stomach pain"
+    },
+    {
+      "id": "A1_OLD_K11_092",
+      "word": "dürfen",
+      "meaning": "to be allowed to",
+      "example": "Darf ich mit Fieber baden?"
+    },
+    {
+      "id": "A1_OLD_K11_093",
+      "word": "das Fieber",
+      "meaning": "fever"
+    },
+    {
+      "id": "A1_OLD_K11_094",
+      "word": "die Halsschmerzen",
+      "meaning": "sore throat"
+    },
+    {
+      "id": "A1_OLD_K11_095",
+      "word": "die Kopfschmerzen",
+      "meaning": "headache"
+    },
+    {
+      "id": "A1_OLD_K11_096",
+      "word": "der Schmerz",
+      "plural": "die Schmerzen",
+      "meaning": "pain"
+    },
+    {
+      "id": "A1_OLD_K11_097",
+      "word": "die Tablette",
+      "plural": "die Tabletten",
+      "meaning": "pill"
+    },
+    {
+      "id": "A1_OLD_K11_098",
+      "word": "der Honig",
+      "meaning": "honey"
+    },
+    {
+      "id": "A1_OLD_K11_099",
+      "word": "die Hühnersuppe",
+      "plural": "die Hühnersuppen",
+      "meaning": "chicken soup"
+    },
+    {
+      "id": "A1_OLD_K11_100",
+      "word": "die Nelke",
+      "plural": "die Nelken",
+      "meaning": "here: clove"
+    },
+    {
+      "id": "A1_OLD_K11_101",
+      "word": "der Schnupfen",
+      "meaning": "common cold"
+    },
+    {
+      "id": "A1_OLD_K11_102",
+      "word": "die Zahnschmerzen",
+      "meaning": "toothache"
+    },
+    {
+      "id": "A1_OLD_K11_103",
+      "word": "binden",
+      "meaning": "to bind, to tie up"
+    },
+    {
+      "id": "A1_OLD_K11_104",
+      "word": "einschlafen",
+      "meaning": "to fall asleep"
+    },
+    {
+      "id": "A1_OLD_K11_105",
+      "word": "erkältet",
+      "meaning": "sick with a cold"
+    },
+    {
+      "id": "A1_OLD_K11_106",
+      "word": "der Forumsbeitrag",
+      "plural": "die Forumsbeiträge",
+      "meaning": "forum post"
+    },
+    {
+      "id": "A1_OLD_K11_107",
+      "word": "frei",
+      "meaning": "free"
+    },
+    {
+      "id": "A1_OLD_K11_108",
+      "word": "das Halsweh",
+      "meaning": "sore throat"
+    },
+    {
+      "id": "A1_OLD_K11_109",
+      "word": "das Hausmittel",
+      "plural": "die Hausmittel",
+      "meaning": "home remedy"
+    },
+    {
+      "id": "A1_OLD_K11_110",
+      "word": "heiß",
+      "meaning": "hot"
+    },
+    {
+      "id": "A1_OLD_K11_111",
+      "word": "in Ordnung",
+      "meaning": "all right"
+    },
+    {
+      "id": "A1_OLD_K11_112",
+      "word": "inhalieren",
+      "meaning": "to inhale"
+    },
+    {
+      "id": "A1_OLD_K11_113",
+      "word": "das Mittel",
+      "plural": "die Mittel",
+      "meaning": "here: remedy"
+    },
+    {
+      "id": "A1_OLD_K11_114",
+      "word": "müde",
+      "meaning": "tired"
+    },
+    {
+      "id": "A1_OLD_K11_115",
+      "word": "der Mund",
+      "plural": "die Münder",
+      "meaning": "mouth"
+    },
+    {
+      "id": "A1_OLD_K11_116",
+      "word": "die Nase",
+      "plural": "die Nasen",
+      "meaning": "nose"
+    },
+    {
+      "id": "A1_OLD_K11_117",
+      "word": "der Pfeffer",
+      "meaning": "pepper"
+    },
+    {
+      "id": "A1_OLD_K11_118",
+      "word": "das Rezept",
+      "plural": "die Rezepte",
+      "meaning": "recipe",
+      "example": "Ein Rezept für Suppe."
+    },
+    {
+      "id": "A1_OLD_K11_119",
+      "word": "die Schlaftablette",
+      "plural": "die Schlaftabletten",
+      "meaning": "sleeping pill"
+    },
+    {
+      "id": "A1_OLD_K11_120",
+      "word": "die Schmerztablette",
+      "plural": "die Schmerztabletten",
+      "meaning": "painkiller"
+    },
+    {
+      "id": "A1_OLD_K11_121",
+      "word": "sowieso",
+      "meaning": "anyway"
+    },
+    {
+      "id": "A1_OLD_K11_122",
+      "word": "das Suppenhuhn",
+      "plural": "die Suppenhühner",
+      "meaning": "chicken for soup"
+    },
+    {
+      "id": "A1_OLD_K11_123",
+      "word": "der Tipp",
+      "plural": "die Tipps",
+      "meaning": "tip, hint"
+    },
+    {
+      "id": "A1_OLD_K11_124",
+      "word": "um",
+      "meaning": "around",
+      "example": "Das Tuch um den Hals legen."
+    },
+    {
+      "id": "A1_OLD_K11_125",
+      "word": "versuchen",
+      "meaning": "to try, to attempt"
+    },
+    {
+      "id": "A1_OLD_K11_126",
+      "word": "das Vitamin",
+      "plural": "die Vitamine",
+      "meaning": "vitamin"
+    },
+    {
+      "id": "A1_OLD_K11_127",
+      "word": "werden",
+      "meaning": "to become",
+      "example": "Die Nase wird wieder frei."
+    },
+    {
+      "id": "A1_OLD_K11_128",
+      "word": "der Witz",
+      "plural": "die Witze",
+      "meaning": "joke"
+    },
+    {
+      "id": "A1_OLD_K11_129",
+      "word": "der Zahnarzt",
+      "plural": "die Zahnärzte",
+      "meaning": "dentist"
+    },
+    {
+      "id": "A1_OLD_K11_130",
+      "word": "zerdrücken",
+      "meaning": "to crush, to mash"
+    },
+    {
+      "id": "A1_OLD_K11_131",
+      "word": "zusammenpassen",
+      "meaning": "to fit together"
+    },
+    {
+      "id": "A1_OLD_K11_132",
+      "word": "die Gesundheit",
+      "meaning": "health"
+    },
+    {
+      "id": "A1_OLD_K11_133",
+      "word": "der Apotheker",
+      "plural": "die Apotheker",
+      "meaning": "pharmacist"
+    },
+    {
+      "id": "A1_OLD_K11_134",
+      "word": "die Arzthelferin",
+      "plural": "die Arzthelferinnen",
+      "meaning": "medical assistant"
+    },
+    {
+      "id": "A1_OLD_K11_135",
+      "word": "das Krankenhaus",
+      "plural": "die Krankenhäuser",
+      "meaning": "hospital"
+    },
+    {
+      "id": "A1_OLD_K11_136",
+      "word": "die Krankenschwester",
+      "plural": "die Krankenschwestern",
+      "meaning": "nurse (f)"
+    },
+    {
+      "id": "A1_OLD_K11_137",
+      "word": "das Medikament",
+      "plural": "die Medikamente",
+      "meaning": "medicine"
+    },
+    {
+      "id": "A1_OLD_K11_138",
+      "word": "der Notarzt",
+      "plural": "die Notärzte",
+      "meaning": "emergency doctor"
+    },
+    {
+      "id": "A1_OLD_K11_139",
+      "word": "der Physiotherapeut",
+      "plural": "die Physiotherapeuten",
+      "meaning": "physical therapist"
+    },
+    {
+      "id": "A1_OLD_K11_140",
+      "word": "die Physiotherapie",
+      "meaning": "physical therapy"
+    },
+    {
+      "id": "A1_OLD_K11_141",
+      "word": "der Rat",
+      "plural": "die Ratschläge",
+      "meaning": "advice"
+    },
+    {
+      "id": "A1_OLD_K11_142",
+      "word": "die Apotheke",
+      "plural": "die Apotheken",
+      "meaning": "pharmacy"
+    },
+    {
+      "id": "A1_OLD_K11_143",
+      "word": "dazugehören",
+      "meaning": "to include"
+    }
+  ]
 }

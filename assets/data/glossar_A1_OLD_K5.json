@@ -1,5 +1,607 @@
 {
   "level": "A1_OLD",
   "kapitel": 5,
-  "words": []
+  "words": [
+    { "id": "A1_OLD_K5_001", "word": "duschen", "meaning": "to shower" },
+    {
+      "id": "A1_OLD_K5_002",
+      "word": "die Kantine",
+      "plural": "die Kantinen",
+      "meaning": "cafeteria"
+    },
+    { "id": "A1_OLD_K5_003", "word": "nach Hause", "meaning": "(toward) home" },
+    { "id": "A1_OLD_K5_004", "word": "normal", "meaning": "normal(ly)" },
+    {
+      "id": "A1_OLD_K5_005",
+      "word": "der Morgen",
+      "meaning": "morning",
+      "example": "Ben joggt am Morgen."
+    },
+    { "id": "A1_OLD_K5_006", "word": "der Computer", "meaning": "computer" },
+    {
+      "id": "A1_OLD_K5_007",
+      "word": "lang (= lange)",
+      "meaning": "long",
+      "example": "Sie schläft lang."
+    },
+    {
+      "id": "A1_OLD_K5_008",
+      "word": "spazieren gehen",
+      "meaning": "to go for a walk"
+    },
+    {
+      "id": "A1_OLD_K5_009",
+      "word": "treffen",
+      "meaning": "to meet",
+      "example": "Anna möchte heute Freunde treffen."
+    },
+    {
+      "id": "A1_OLD_K5_010",
+      "word": "die Zeitung",
+      "plural": "die Zeitungen",
+      "meaning": "newspaper"
+    },
+    {
+      "id": "A1_OLD_K5_011",
+      "word": "der Arbeitstag",
+      "plural": "die Arbeitstage",
+      "meaning": "workday"
+    },
+    {
+      "id": "A1_OLD_K5_012",
+      "word": "der Nachmittag",
+      "plural": "die Nachmittage",
+      "meaning": "afternoon"
+    },
+    {
+      "id": "A1_OLD_K5_013",
+      "word": "die Uhrzeit",
+      "plural": "die Uhrzeiten",
+      "meaning": "time of day"
+    },
+    {
+      "id": "A1_OLD_K5_014",
+      "word": "vor",
+      "meaning": "before, of",
+      "example": "Es ist zwanzig vor acht."
+    },
+    {
+      "id": "A1_OLD_K5_015",
+      "word": "halb",
+      "meaning": "here: half past, thirty",
+      "example": "Es ist halb sieben."
+    },
+    {
+      "id": "A1_OLD_K5_016",
+      "word": "nach",
+      "meaning": "after",
+      "example": "Es ist 10 nach 5."
+    },
+    {
+      "id": "A1_OLD_K5_017",
+      "word": "Wie spät …?",
+      "meaning": "What time …?",
+      "example": "Wie spät ist es?"
+    },
+    {
+      "id": "A1_OLD_K5_018",
+      "word": "Viertel nach",
+      "meaning": "quarter past",
+      "example": "Es ist Viertel nach fünf."
+    },
+    {
+      "id": "A1_OLD_K5_019",
+      "word": "Viertel vor",
+      "meaning": "quarter to, of",
+      "example": "Es ist Viertel vor vier."
+    },
+    { "id": "A1_OLD_K5_020", "word": "offiziell", "meaning": "official" },
+    {
+      "id": "A1_OLD_K5_021",
+      "word": "das Büro",
+      "plural": "die Büros",
+      "meaning": "office"
+    },
+    {
+      "id": "A1_OLD_K5_022",
+      "word": "um",
+      "meaning": "at",
+      "example": "Um Viertel nach sieben."
+    },
+    {
+      "id": "A1_OLD_K5_023",
+      "word": "der Termin",
+      "plural": "die Termine",
+      "meaning": "appointment",
+      "example": "Ich habe einen Termin beim Arzt."
+    },
+    {
+      "id": "A1_OLD_K5_024",
+      "word": "ab",
+      "meaning": "after, starting at",
+      "example": "ab 15 Uhr"
+    },
+    { "id": "A1_OLD_K5_025", "word": "die Eltern", "meaning": "parents" },
+    {
+      "id": "A1_OLD_K5_026",
+      "word": "der Friseur",
+      "plural": "die Friseure",
+      "meaning": "hairdresser"
+    },
+    {
+      "id": "A1_OLD_K5_027",
+      "word": "der Geburtstag",
+      "plural": "die Geburtstage",
+      "meaning": "birthday"
+    },
+    {
+      "id": "A1_OLD_K5_028",
+      "word": "das Kind",
+      "plural": "die Kinder",
+      "meaning": "child"
+    },
+    {
+      "id": "A1_OLD_K5_029",
+      "word": "der Mathe-Test",
+      "plural": "die Mathe-Tests",
+      "meaning": "math test"
+    },
+    {
+      "id": "A1_OLD_K5_030",
+      "word": "die Musikstunde",
+      "plural": "die Musikstunden",
+      "meaning": "music class"
+    },
+    {
+      "id": "A1_OLD_K5_031",
+      "word": "das Spiel",
+      "plural": "die Spiele",
+      "meaning": "game"
+    },
+    {
+      "id": "A1_OLD_K5_032",
+      "word": "das Training",
+      "plural": "die Trainings",
+      "meaning": "practice, training"
+    },
+    {
+      "id": "A1_OLD_K5_033",
+      "word": "die Trompete",
+      "plural": "die Trompeten",
+      "meaning": "trumpet"
+    },
+    {
+      "id": "A1_OLD_K5_034",
+      "word": "von",
+      "meaning": "from",
+      "example": "von 9 bis 13 Uhr"
+    },
+    { "id": "A1_OLD_K5_035", "word": "wie lange?", "meaning": "how long?" },
+    { "id": "A1_OLD_K5_036", "word": "krank", "meaning": "sick" },
+    {
+      "id": "A1_OLD_K5_037",
+      "word": "die Musikschule",
+      "plural": "die Musikschulen",
+      "meaning": "music school, conservatory"
+    },
+    {
+      "id": "A1_OLD_K5_038",
+      "word": "die Mutter",
+      "plural": "die Mütter",
+      "meaning": "mother"
+    },
+    {
+      "id": "A1_OLD_K5_039",
+      "word": "der Sohn",
+      "plural": "die Söhne",
+      "meaning": "son"
+    },
+    {
+      "id": "A1_OLD_K5_040",
+      "word": "die Tochter",
+      "plural": "die Töchter",
+      "meaning": "daughter"
+    },
+    {
+      "id": "A1_OLD_K5_041",
+      "word": "der Vater",
+      "plural": "die Väter",
+      "meaning": "father"
+    },
+    { "id": "A1_OLD_K5_042", "word": "beschreiben", "meaning": "to describe" },
+    {
+      "id": "A1_OLD_K5_043",
+      "word": "der Computerfreak",
+      "plural": "die Computerfreaks",
+      "meaning": "techie"
+    },
+    {
+      "id": "A1_OLD_K5_044",
+      "word": "das Baby",
+      "plural": "die Babys",
+      "meaning": "baby"
+    },
+    {
+      "id": "A1_OLD_K5_045",
+      "word": "der Bruder",
+      "plural": "die Brüder",
+      "meaning": "brother"
+    },
+    {
+      "id": "A1_OLD_K5_046",
+      "word": "die Ehefrau",
+      "plural": "die Ehefrauen",
+      "meaning": "wife"
+    },
+    {
+      "id": "A1_OLD_K5_047",
+      "word": "der Ehemann",
+      "plural": "die Ehemänner",
+      "meaning": "husband"
+    },
+    { "id": "A1_OLD_K5_048", "word": "der Ehepartner", "meaning": "spouse" },
+    { "id": "A1_OLD_K5_049", "word": "die Geschwister", "meaning": "siblings" },
+    {
+      "id": "A1_OLD_K5_050",
+      "word": "die Großeltern",
+      "meaning": "grandparents"
+    },
+    {
+      "id": "A1_OLD_K5_051",
+      "word": "die Großmutter",
+      "plural": "die Großmütter",
+      "meaning": "grandmother"
+    },
+    {
+      "id": "A1_OLD_K5_052",
+      "word": "der Großvater",
+      "plural": "die Großväter",
+      "meaning": "grandfather"
+    },
+    {
+      "id": "A1_OLD_K5_053",
+      "word": "der Junge",
+      "plural": "die Jungen",
+      "meaning": "boy"
+    },
+    { "id": "A1_OLD_K5_054", "word": "ledig", "meaning": "single, unmarried" },
+    { "id": "A1_OLD_K5_055", "word": "das Mädchen", "meaning": "girl" },
+    {
+      "id": "A1_OLD_K5_056",
+      "word": "die Oma",
+      "plural": "die Omas",
+      "meaning": "grandma"
+    },
+    {
+      "id": "A1_OLD_K5_057",
+      "word": "der Opa",
+      "plural": "die Opas",
+      "meaning": "grandpa"
+    },
+    { "id": "A1_OLD_K5_058", "word": "verheiratet", "meaning": "married" },
+    {
+      "id": "A1_OLD_K5_059",
+      "word": "der/die Verwandte",
+      "plural": "die Verwandten",
+      "meaning": "relative"
+    },
+    {
+      "id": "A1_OLD_K5_060",
+      "word": "der Ball",
+      "plural": "die Bälle",
+      "meaning": "ball"
+    },
+    {
+      "id": "A1_OLD_K5_061",
+      "word": "das Gästebuch",
+      "plural": "die Gästebücher",
+      "meaning": "guestbook"
+    },
+    {
+      "id": "A1_OLD_K5_062",
+      "word": "die Homepage",
+      "plural": "die Homepages",
+      "meaning": "homepage"
+    },
+    {
+      "id": "A1_OLD_K5_063",
+      "word": "der Hund",
+      "plural": "die Hunde",
+      "meaning": "dog"
+    },
+    {
+      "id": "A1_OLD_K5_064",
+      "word": "der Kontakt",
+      "plural": "die Kontakte",
+      "meaning": "contact"
+    },
+    { "id": "A1_OLD_K5_065", "word": "Kroatien", "meaning": "Croatia" },
+    {
+      "id": "A1_OLD_K5_066",
+      "word": "das Motorrad",
+      "plural": "die Motorräder",
+      "meaning": "motorcycle"
+    },
+    {
+      "id": "A1_OLD_K5_067",
+      "word": "das Saxophon",
+      "plural": "die Saxophone",
+      "meaning": "saxophone"
+    },
+    {
+      "id": "A1_OLD_K5_068",
+      "word": "sein, seine",
+      "meaning": "his",
+      "example": "Otto und sein Motorrad"
+    },
+    { "id": "A1_OLD_K5_069", "word": "der Sport", "meaning": "sport" },
+    { "id": "A1_OLD_K5_070", "word": "unser, unsere", "meaning": "our" },
+    { "id": "A1_OLD_K5_071", "word": "cool", "meaning": "cool" },
+    { "id": "A1_OLD_K5_072", "word": "euer, eure", "meaning": "your" },
+    {
+      "id": "A1_OLD_K5_073",
+      "word": "gefallen",
+      "meaning": "to enjoy, to please",
+      "example": "Die Fotos gefallen mir."
+    },
+    { "id": "A1_OLD_K5_074", "word": "spitze", "meaning": "great" },
+    { "id": "A1_OLD_K5_075", "word": "total", "meaning": "total(ly)" },
+    { "id": "A1_OLD_K5_076", "word": "das Walking", "meaning": "powerwalking" },
+    {
+      "id": "A1_OLD_K5_077",
+      "word": "wissen",
+      "meaning": "to know",
+      "example": "Ich weiß es nicht."
+    },
+    {
+      "id": "A1_OLD_K5_078",
+      "word": "die Verabredung",
+      "plural": "die Verabredungen",
+      "meaning": "appointment, date",
+      "example": "Ich habe eine Verabredung mit Anna."
+    },
+    {
+      "id": "A1_OLD_K5_079",
+      "word": "an",
+      "meaning": "to",
+      "example": "an Johanna Schmidt"
+    },
+    {
+      "id": "A1_OLD_K5_080",
+      "word": "der Berg",
+      "plural": "die Berge",
+      "meaning": "mountain"
+    },
+    { "id": "A1_OLD_K5_081", "word": "der Betreff", "meaning": "subject" },
+    {
+      "id": "A1_OLD_K5_082",
+      "word": "gerade",
+      "meaning": "just now, right now",
+      "example": "Ich kann nicht, ich muss gerade lernen."
+    },
+    {
+      "id": "A1_OLD_K5_083",
+      "word": "der Gruß",
+      "plural": "die Grüße",
+      "meaning": "greeting"
+    },
+    { "id": "A1_OLD_K5_084", "word": "helfen", "meaning": "to help" },
+    {
+      "id": "A1_OLD_K5_085",
+      "word": "Liebe Grüße",
+      "meaning": "friendly greetings"
+    },
+    { "id": "A1_OLD_K5_086", "word": "nächste, nächstes", "meaning": "next" },
+    {
+      "id": "A1_OLD_K5_087",
+      "word": "der Sonntagnachmittag",
+      "plural": "die Sonntagnachmittage",
+      "meaning": "Sunday afternoon"
+    },
+    { "id": "A1_OLD_K5_088", "word": "der Stress", "meaning": "stress" },
+    {
+      "id": "A1_OLD_K5_089",
+      "word": "wollen",
+      "meaning": "to want (something)",
+      "example": "Er will in die Berge fahren."
+    },
+    {
+      "id": "A1_OLD_K5_090",
+      "word": "da",
+      "meaning": "there",
+      "example": "Ich bin nächste Woche wieder da."
+    },
+    {
+      "id": "A1_OLD_K5_091",
+      "word": "klingen",
+      "meaning": "to sound, to ring"
+    },
+    {
+      "id": "A1_OLD_K5_092",
+      "word": "die Party",
+      "plural": "die Partys",
+      "meaning": "party"
+    },
+    {
+      "id": "A1_OLD_K5_093",
+      "word": "telefonieren",
+      "meaning": "to telephone"
+    },
+    {
+      "id": "A1_OLD_K5_094",
+      "word": "Viele Grüße",
+      "meaning": "many greetings"
+    },
+    {
+      "id": "A1_OLD_K5_095",
+      "word": "wieder",
+      "meaning": "again",
+      "example": "Ich bin wieder da."
+    },
+    { "id": "A1_OLD_K5_096", "word": "babysitten", "meaning": "to babysit" },
+    {
+      "id": "A1_OLD_K5_097",
+      "word": "die Idee",
+      "plural": "die Ideen",
+      "meaning": "idea"
+    },
+    {
+      "id": "A1_OLD_K5_098",
+      "word": "leidtun",
+      "meaning": "to be sorry, to feel sorry",
+      "example": "Es tut mir leid."
+    },
+    {
+      "id": "A1_OLD_K5_099",
+      "word": "müssen",
+      "meaning": "to have to",
+      "example": "Ich muss am Sonntag arbeiten."
+    },
+    {
+      "id": "A1_OLD_K5_100",
+      "word": "die Radtour",
+      "plural": "die Radtouren",
+      "meaning": "bike trip"
+    },
+    {
+      "id": "A1_OLD_K5_101",
+      "word": "schade",
+      "meaning": "shame, pity",
+      "example": "Wie schade!"
+    },
+    {
+      "id": "A1_OLD_K5_102",
+      "word": "der Sprachkurs",
+      "plural": "die Sprachkurse",
+      "meaning": "language class"
+    },
+    { "id": "A1_OLD_K5_103", "word": "das Tennis", "meaning": "tennis" },
+    {
+      "id": "A1_OLD_K5_104",
+      "word": "die Pünktlichkeit",
+      "meaning": "punctuality"
+    },
+    {
+      "id": "A1_OLD_K5_105",
+      "word": "die Besprechung",
+      "plural": "die Besprechungen",
+      "meaning": "meeting"
+    },
+    {
+      "id": "A1_OLD_K5_106",
+      "word": "die Kneipe",
+      "plural": "die Kneipen",
+      "meaning": "bar, pub"
+    },
+    {
+      "id": "A1_OLD_K5_107",
+      "word": "die Minute",
+      "plural": "die Minuten",
+      "meaning": "minute"
+    },
+    {
+      "id": "A1_OLD_K5_108",
+      "word": "noch",
+      "meaning": "still",
+      "example": "Pia ist noch nicht da."
+    },
+    {
+      "id": "A1_OLD_K5_109",
+      "word": "sich",
+      "meaning": "each other",
+      "example": "Die Kollegen treffen sich am Abend."
+    },
+    {
+      "id": "A1_OLD_K5_110",
+      "word": "das Problem",
+      "plural": "die Probleme",
+      "meaning": "problem"
+    },
+    {
+      "id": "A1_OLD_K5_111",
+      "word": "die Verspätung",
+      "plural": "die Verspätungen",
+      "meaning": "delay"
+    },
+    {
+      "id": "A1_OLD_K5_112",
+      "word": "bitten",
+      "meaning": "to plead",
+      "example": "um Entschuldigung bitten"
+    },
+    { "id": "A1_OLD_K5_113", "word": "entschuldigen", "meaning": "to excuse" },
+    {
+      "id": "A1_OLD_K5_114",
+      "word": "machen",
+      "meaning": "to make",
+      "example": "Macht nichts."
+    },
+    {
+      "id": "A1_OLD_K5_115",
+      "word": "das Mal",
+      "plural": "die Male",
+      "meaning": "time",
+      "example": "das nächste Mal"
+    },
+    {
+      "id": "A1_OLD_K5_116",
+      "word": "pünktlich",
+      "meaning": "punctual, on time"
+    },
+    {
+      "id": "A1_OLD_K5_117",
+      "word": "spät",
+      "meaning": "late",
+      "example": "Es tut mir leid, ich bin zu spät."
+    },
+    {
+      "id": "A1_OLD_K5_118",
+      "word": "zu",
+      "meaning": "too",
+      "example": "Ich bin zu spät."
+    },
+    {
+      "id": "A1_OLD_K5_119",
+      "word": "Auf Wiederhören!",
+      "meaning": "Talk to you later!"
+    },
+    {
+      "id": "A1_OLD_K5_120",
+      "word": "der Dr./Doktor",
+      "plural": "die Doktoren",
+      "meaning": "Dr./Doctor"
+    },
+    {
+      "id": "A1_OLD_K5_121",
+      "word": "die Praxis",
+      "plural": "die Praxen",
+      "meaning": "(doctor's) office"
+    },
+    {
+      "id": "A1_OLD_K5_122",
+      "word": "tun",
+      "meaning": "to do",
+      "example": "Was kann ich für Sie tun?"
+    },
+    {
+      "id": "A1_OLD_K5_123",
+      "word": "die Kundin",
+      "plural": "die Kundinnen",
+      "meaning": "customer (f)"
+    },
+    { "id": "A1_OLD_K5_124", "word": "offen", "meaning": "open" },
+    {
+      "id": "A1_OLD_K5_125",
+      "word": "die Sprachschule",
+      "plural": "die Sprachschulen",
+      "meaning": "language school"
+    },
+    {
+      "id": "A1_OLD_K5_126",
+      "word": "vormittags",
+      "meaning": "before noon, mornings",
+      "example": "Ich arbeite nur vormittags."
+    },
+    { "id": "A1_OLD_K5_127", "word": "wählen", "meaning": "to choose" }
+  ]
 }

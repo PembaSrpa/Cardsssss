@@ -1,5 +1,652 @@
 {
   "level": "A1_OLD",
   "kapitel": 8,
-  "words": []
+  "words": [
+    {
+      "id": "A1_OLD_K8_001",
+      "word": "das Arbeitszimmer",
+      "plural": "die Arbeitszimmer",
+      "meaning": "study, workroom"
+    },
+    {
+      "id": "A1_OLD_K8_002",
+      "word": "der Balkon",
+      "plural": "die Balkone",
+      "meaning": "balcony, porch"
+    },
+    {
+      "id": "A1_OLD_K8_003",
+      "word": "das Bett",
+      "plural": "die Betten",
+      "meaning": "bed"
+    },
+    {
+      "id": "A1_OLD_K8_004",
+      "word": "der Fernseher",
+      "plural": "die Fernseher",
+      "meaning": "television"
+    },
+    {
+      "id": "A1_OLD_K8_005",
+      "word": "der Flur",
+      "plural": "die Flure",
+      "meaning": "hallway, corridor"
+    },
+    {
+      "id": "A1_OLD_K8_006",
+      "word": "das Gerät",
+      "plural": "die Geräte",
+      "meaning": "device, appliance"
+    },
+    {
+      "id": "A1_OLD_K8_007",
+      "word": "der Herd",
+      "plural": "die Herde",
+      "meaning": "stove",
+      "example": "Vorsicht! Der Herd ist heiß."
+    },
+    {
+      "id": "A1_OLD_K8_008",
+      "word": "das Kinderzimmer",
+      "plural": "die Kinderzimmer",
+      "meaning": "nursery, kids' room"
+    },
+    {
+      "id": "A1_OLD_K8_009",
+      "word": "die Lampe",
+      "plural": "die Lampen",
+      "meaning": "lamp"
+    },
+    {
+      "id": "A1_OLD_K8_010",
+      "word": "die Möbel",
+      "meaning": "furniture"
+    },
+    {
+      "id": "A1_OLD_K8_011",
+      "word": "die Möglichkeit",
+      "plural": "die Möglichkeiten",
+      "meaning": "possibility"
+    },
+    {
+      "id": "A1_OLD_K8_012",
+      "word": "das Regal",
+      "plural": "die Regale",
+      "meaning": "shelf"
+    },
+    {
+      "id": "A1_OLD_K8_013",
+      "word": "das Schlafzimmer",
+      "plural": "die Schlafzimmer",
+      "meaning": "bedroom"
+    },
+    {
+      "id": "A1_OLD_K8_014",
+      "word": "der Schrank",
+      "plural": "die Schränke",
+      "meaning": "cabinet, closet"
+    },
+    {
+      "id": "A1_OLD_K8_015",
+      "word": "der Schreibtisch",
+      "plural": "die Schreibtische",
+      "meaning": "desk"
+    },
+    {
+      "id": "A1_OLD_K8_016",
+      "word": "der Sessel",
+      "plural": "die Sessel",
+      "meaning": "armchair"
+    },
+    {
+      "id": "A1_OLD_K8_017",
+      "word": "das Sofa",
+      "plural": "die Sofas",
+      "meaning": "sofa, couch"
+    },
+    {
+      "id": "A1_OLD_K8_018",
+      "word": "die Spülmaschine",
+      "plural": "die Spülmaschinen",
+      "meaning": "dishwasher"
+    },
+    {
+      "id": "A1_OLD_K8_019",
+      "word": "der Stuhl",
+      "plural": "die Stühle",
+      "meaning": "chair"
+    },
+    {
+      "id": "A1_OLD_K8_020",
+      "word": "der Teppich",
+      "plural": "die Teppiche",
+      "meaning": "carpet"
+    },
+    {
+      "id": "A1_OLD_K8_021",
+      "word": "die Waschmaschine",
+      "plural": "die Waschmaschinen",
+      "meaning": "washing machine"
+    },
+    {
+      "id": "A1_OLD_K8_022",
+      "word": "das Wohnzimmer",
+      "plural": "die Wohnzimmer",
+      "meaning": "living room"
+    },
+    {
+      "id": "A1_OLD_K8_023",
+      "word": "der Informatiker",
+      "plural": "die Informatiker",
+      "meaning": "computer scientist"
+    },
+    {
+      "id": "A1_OLD_K8_024",
+      "word": "der Lehrer",
+      "plural": "die Lehrer",
+      "meaning": "teacher"
+    },
+    {
+      "id": "A1_OLD_K8_025",
+      "word": "der Lieblingsort",
+      "plural": "die Lieblingsorte",
+      "meaning": "favorite town"
+    },
+    {
+      "id": "A1_OLD_K8_026",
+      "word": "endlich",
+      "meaning": "finally"
+    },
+    {
+      "id": "A1_OLD_K8_027",
+      "word": "hell",
+      "meaning": "light, bright"
+    },
+    {
+      "id": "A1_OLD_K8_028",
+      "word": "qm",
+      "meaning": "square meter, m² (Quadratmeter)"
+    },
+    {
+      "id": "A1_OLD_K8_029",
+      "word": "anrufen",
+      "meaning": "to call"
+    },
+    {
+      "id": "A1_OLD_K8_030",
+      "word": "ruhig",
+      "meaning": "quiet(ly)"
+    },
+    {
+      "id": "A1_OLD_K8_031",
+      "word": "die Terrasse",
+      "plural": "die Terrassen",
+      "meaning": "terrace, patio"
+    },
+    {
+      "id": "A1_OLD_K8_032",
+      "word": "ungefähr",
+      "meaning": "approximately"
+    },
+    {
+      "id": "A1_OLD_K8_033",
+      "word": "wenn",
+      "meaning": "when"
+    },
+    {
+      "id": "A1_OLD_K8_034",
+      "word": "zusammenziehen",
+      "meaning": "to pull together, to move in together"
+    },
+    {
+      "id": "A1_OLD_K8_035",
+      "word": "die Miete",
+      "plural": "die Mieten",
+      "meaning": "rent"
+    },
+    {
+      "id": "A1_OLD_K8_036",
+      "word": "der Zettel",
+      "plural": "die Zettel",
+      "meaning": "note, tag"
+    },
+    {
+      "id": "A1_OLD_K8_037",
+      "word": "direkt",
+      "meaning": "direct(ly)",
+      "example": "direkt im Zentrum"
+    },
+    {
+      "id": "A1_OLD_K8_038",
+      "word": "elegant",
+      "meaning": "elegant(ly)"
+    },
+    {
+      "id": "A1_OLD_K8_039",
+      "word": "gelegen",
+      "meaning": "located"
+    },
+    {
+      "id": "A1_OLD_K8_040",
+      "word": "die Hauptstraße",
+      "plural": "die Hauptstraßen",
+      "meaning": "major street, main street"
+    },
+    {
+      "id": "A1_OLD_K8_041",
+      "word": "ideal",
+      "meaning": "ideal(ly)"
+    },
+    {
+      "id": "A1_OLD_K8_042",
+      "word": "die Nähe",
+      "meaning": "proximity"
+    },
+    {
+      "id": "A1_OLD_K8_043",
+      "word": "renovieren",
+      "meaning": "to renovate"
+    },
+    {
+      "id": "A1_OLD_K8_044",
+      "word": "top",
+      "meaning": "top, well",
+      "example": "Die Wohnung ist top renoviert."
+    },
+    {
+      "id": "A1_OLD_K8_045",
+      "word": "die Wohnfläche",
+      "plural": "die Wohnflächen",
+      "meaning": "living space"
+    },
+    {
+      "id": "A1_OLD_K8_046",
+      "word": "die Wohnungsanzeige",
+      "plural": "die Wohnungsanzeigen",
+      "meaning": "apartment ad"
+    },
+    {
+      "id": "A1_OLD_K8_047",
+      "word": "zentral",
+      "meaning": "central(ly)"
+    },
+    {
+      "id": "A1_OLD_K8_048",
+      "word": "die Anzeige",
+      "plural": "die Anzeigen",
+      "meaning": "ad"
+    },
+    {
+      "id": "A1_OLD_K8_049",
+      "word": "weit weg",
+      "meaning": "far away"
+    },
+    {
+      "id": "A1_OLD_K8_050",
+      "word": "das Ding",
+      "plural": "die Dinge",
+      "meaning": "thing"
+    },
+    {
+      "id": "A1_OLD_K8_051",
+      "word": "fehlen",
+      "meaning": "to miss, to lack"
+    },
+    {
+      "id": "A1_OLD_K8_052",
+      "word": "sich freuen",
+      "meaning": "to please; to be happy"
+    },
+    {
+      "id": "A1_OLD_K8_053",
+      "word": "die Laune",
+      "plural": "die Launen",
+      "meaning": "mood"
+    },
+    {
+      "id": "A1_OLD_K8_054",
+      "word": "scheinen",
+      "meaning": "here: to shine",
+      "example": "Die Sonne scheint heute."
+    },
+    {
+      "id": "A1_OLD_K8_055",
+      "word": "bald",
+      "meaning": "soon"
+    },
+    {
+      "id": "A1_OLD_K8_056",
+      "word": "die Feier",
+      "plural": "die Feiern",
+      "meaning": "celebration"
+    },
+    {
+      "id": "A1_OLD_K8_057",
+      "word": "der Samstagabend",
+      "plural": "die Samstagabende",
+      "meaning": "Saturday night"
+    },
+    {
+      "id": "A1_OLD_K8_058",
+      "word": "das Fenster",
+      "plural": "die Fenster",
+      "meaning": "window"
+    },
+    {
+      "id": "A1_OLD_K8_059",
+      "word": "die Kiste",
+      "plural": "die Kisten",
+      "meaning": "box"
+    },
+    {
+      "id": "A1_OLD_K8_060",
+      "word": "putzen",
+      "meaning": "to clean"
+    },
+    {
+      "id": "A1_OLD_K8_061",
+      "word": "der Schlüssel",
+      "plural": "die Schlüssel",
+      "meaning": "key"
+    },
+    {
+      "id": "A1_OLD_K8_062",
+      "word": "tragen",
+      "meaning": "to carry",
+      "example": "Er trägt die Kisten nach unten."
+    },
+    {
+      "id": "A1_OLD_K8_063",
+      "word": "umziehen",
+      "meaning": "to move (to another city)",
+      "example": "Sie ziehen nach München um."
+    },
+    {
+      "id": "A1_OLD_K8_064",
+      "word": "unterschreiben",
+      "meaning": "to sign (a signature)"
+    },
+    {
+      "id": "A1_OLD_K8_065",
+      "word": "der Vermieter",
+      "plural": "die Vermieter",
+      "meaning": "tenant"
+    },
+    {
+      "id": "A1_OLD_K8_066",
+      "word": "der Vertrag",
+      "plural": "die Verträge",
+      "meaning": "contract"
+    },
+    {
+      "id": "A1_OLD_K8_067",
+      "word": "die Einweihungsparty",
+      "plural": "die Einweihungspartys",
+      "meaning": "housewarming party"
+    },
+    {
+      "id": "A1_OLD_K8_068",
+      "word": "der Kühlschrank",
+      "plural": "die Kühlschränke",
+      "meaning": "refrigerator"
+    },
+    {
+      "id": "A1_OLD_K8_069",
+      "word": "auf",
+      "meaning": "on",
+      "example": "auf einem Tisch"
+    },
+    {
+      "id": "A1_OLD_K8_070",
+      "word": "hinter",
+      "meaning": "behind"
+    },
+    {
+      "id": "A1_OLD_K8_071",
+      "word": "neben",
+      "meaning": "next to"
+    },
+    {
+      "id": "A1_OLD_K8_072",
+      "word": "unter",
+      "meaning": "under"
+    },
+    {
+      "id": "A1_OLD_K8_073",
+      "word": "vor",
+      "meaning": "in front of",
+      "example": "Er steht vor dem Haus."
+    },
+    {
+      "id": "A1_OLD_K8_074",
+      "word": "ausdrücken",
+      "meaning": "to express"
+    },
+    {
+      "id": "A1_OLD_K8_075",
+      "word": "doch",
+      "meaning": "indeed"
+    },
+    {
+      "id": "A1_OLD_K8_076",
+      "word": "hässlich",
+      "meaning": "ugly"
+    },
+    {
+      "id": "A1_OLD_K8_077",
+      "word": "ja",
+      "meaning": "really",
+      "example": "Das Zimmer ist ja super."
+    },
+    {
+      "id": "A1_OLD_K8_078",
+      "word": "überhaupt nicht",
+      "meaning": "not at all"
+    },
+    {
+      "id": "A1_OLD_K8_079",
+      "word": "negativ",
+      "meaning": "negative"
+    },
+    {
+      "id": "A1_OLD_K8_080",
+      "word": "positiv",
+      "meaning": "positive"
+    },
+    {
+      "id": "A1_OLD_K8_081",
+      "word": "anmalen",
+      "meaning": "to paint"
+    },
+    {
+      "id": "A1_OLD_K8_082",
+      "word": "blau",
+      "meaning": "blue"
+    },
+    {
+      "id": "A1_OLD_K8_083",
+      "word": "die Farbe",
+      "plural": "die Farben",
+      "meaning": "color"
+    },
+    {
+      "id": "A1_OLD_K8_084",
+      "word": "gelb",
+      "meaning": "yellow"
+    },
+    {
+      "id": "A1_OLD_K8_085",
+      "word": "grau",
+      "meaning": "gray"
+    },
+    {
+      "id": "A1_OLD_K8_086",
+      "word": "lila",
+      "meaning": "purple"
+    },
+    {
+      "id": "A1_OLD_K8_087",
+      "word": "orange",
+      "meaning": "orange"
+    },
+    {
+      "id": "A1_OLD_K8_088",
+      "word": "rot",
+      "meaning": "red"
+    },
+    {
+      "id": "A1_OLD_K8_089",
+      "word": "schwarz",
+      "meaning": "black"
+    },
+    {
+      "id": "A1_OLD_K8_090",
+      "word": "weiß",
+      "meaning": "white"
+    },
+    {
+      "id": "A1_OLD_K8_091",
+      "word": "die Aussprache",
+      "meaning": "pronunciation"
+    },
+    {
+      "id": "A1_OLD_K8_092",
+      "word": "der Altbau",
+      "plural": "die Altbauten",
+      "meaning": "old building"
+    },
+    {
+      "id": "A1_OLD_K8_093",
+      "word": "die Aussicht",
+      "plural": "die Aussichten",
+      "meaning": "view, outlook"
+    },
+    {
+      "id": "A1_OLD_K8_094",
+      "word": "die Decke",
+      "plural": "die Decken",
+      "meaning": "ceiling"
+    },
+    {
+      "id": "A1_OLD_K8_095",
+      "word": "gemütlich",
+      "meaning": "comfortable"
+    },
+    {
+      "id": "A1_OLD_K8_096",
+      "word": "das Hochhaus",
+      "plural": "die Hochhäuser",
+      "meaning": "high-rise"
+    },
+    {
+      "id": "A1_OLD_K8_097",
+      "word": "das Holz",
+      "plural": "die Hölzer",
+      "meaning": "wood"
+    },
+    {
+      "id": "A1_OLD_K8_098",
+      "word": "der Loft",
+      "plural": "die Lofts",
+      "meaning": "loft"
+    },
+    {
+      "id": "A1_OLD_K8_099",
+      "word": "norddeutsch",
+      "meaning": "North German"
+    },
+    {
+      "id": "A1_OLD_K8_100",
+      "word": "das Reethaus",
+      "plural": "die Reethäuser",
+      "meaning": "thatched cottage"
+    },
+    {
+      "id": "A1_OLD_K8_101",
+      "word": "das Reihenhaus",
+      "plural": "die Reihenhäuser",
+      "meaning": "rowhouse"
+    },
+    {
+      "id": "A1_OLD_K8_102",
+      "word": "die Treppe",
+      "plural": "die Treppen",
+      "meaning": "stairway"
+    },
+    {
+      "id": "A1_OLD_K8_103",
+      "word": "zu Hause",
+      "meaning": "at home",
+      "example": "Hier bin ich zu Hause."
+    },
+    {
+      "id": "A1_OLD_K8_104",
+      "word": "der Bewohner",
+      "plural": "die Bewohner",
+      "meaning": "resident"
+    },
+    {
+      "id": "A1_OLD_K8_105",
+      "word": "der Nachteil",
+      "plural": "die Nachteile",
+      "meaning": "downside; disadvantage"
+    },
+    {
+      "id": "A1_OLD_K8_106",
+      "word": "der Vorteil",
+      "plural": "die Vorteile",
+      "meaning": "advantage"
+    },
+    {
+      "id": "A1_OLD_K8_107",
+      "word": "der Favorit",
+      "plural": "die Favoriten",
+      "meaning": "favorite"
+    },
+    {
+      "id": "A1_OLD_K8_108",
+      "word": "dunkel",
+      "meaning": "dark"
+    },
+    {
+      "id": "A1_OLD_K8_109",
+      "word": "das Erdgeschoss",
+      "plural": "die Erdgeschosse",
+      "meaning": "ground level"
+    },
+    {
+      "id": "A1_OLD_K8_110",
+      "word": "die Lage",
+      "plural": "die Lagen",
+      "meaning": "location, position"
+    },
+    {
+      "id": "A1_OLD_K8_111",
+      "word": "der Nachbar",
+      "plural": "die Nachbarn",
+      "meaning": "neighbor"
+    },
+    {
+      "id": "A1_OLD_K8_112",
+      "word": "nie",
+      "meaning": "never"
+    },
+    {
+      "id": "A1_OLD_K8_113",
+      "word": "weit",
+      "meaning": "far"
+    },
+    {
+      "id": "A1_OLD_K8_114",
+      "word": "der Textbaustein",
+      "plural": "die Textbausteine",
+      "meaning": "cue words and expressions"
+    },
+    {
+      "id": "A1_OLD_K8_115",
+      "word": "die Fantasie-Wohnung",
+      "plural": "die Fantasie-Wohnungen",
+      "meaning": "imaginary apartment"
+    }
+  ]
 }

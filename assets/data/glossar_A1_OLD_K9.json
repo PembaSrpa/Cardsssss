@@ -1,5 +1,779 @@
 {
   "level": "A1_OLD",
   "kapitel": 9,
-  "words": []
+  "words": [
+    {
+      "id": "A1_OLD_K9_001",
+      "word": "die Arbeitswelt",
+      "plural": "die Arbeitswelten",
+      "meaning": "professional world"
+    },
+    {
+      "id": "A1_OLD_K9_002",
+      "word": "denken",
+      "meaning": "to think"
+    },
+    {
+      "id": "A1_OLD_K9_003",
+      "word": "der Journalist",
+      "plural": "die Journalisten",
+      "meaning": "journalist"
+    },
+    {
+      "id": "A1_OLD_K9_004",
+      "word": "mobil",
+      "meaning": "mobile, movable"
+    },
+    {
+      "id": "A1_OLD_K9_005",
+      "word": "der Wintertraum",
+      "plural": "die Winterträume",
+      "meaning": "winter wonderland"
+    },
+    {
+      "id": "A1_OLD_K9_006",
+      "word": "die Tätigkeit",
+      "plural": "die Tätigkeiten",
+      "meaning": "activity, occupation"
+    },
+    {
+      "id": "A1_OLD_K9_007",
+      "word": "die Vermutung",
+      "plural": "die Vermutungen",
+      "meaning": "assumption, presumption"
+    },
+    {
+      "id": "A1_OLD_K9_008",
+      "word": "der Garten",
+      "plural": "die Gärten",
+      "meaning": "garden"
+    },
+    {
+      "id": "A1_OLD_K9_009",
+      "word": "das Architekturbüro",
+      "plural": "die Architekturbüros",
+      "meaning": "architectural firm"
+    },
+    {
+      "id": "A1_OLD_K9_010",
+      "word": "die Baustelle",
+      "plural": "die Baustellen",
+      "meaning": "construction site"
+    },
+    {
+      "id": "A1_OLD_K9_011",
+      "word": "der Buchhändler",
+      "plural": "die Buchhändler",
+      "meaning": "bookseller"
+    },
+    {
+      "id": "A1_OLD_K9_012",
+      "word": "die Buchhandlung",
+      "plural": "die Buchhandlungen",
+      "meaning": "bookstore"
+    },
+    {
+      "id": "A1_OLD_K9_013",
+      "word": "die Erzieherin",
+      "plural": "die Erzieherinnen",
+      "meaning": "kindergarten teacher"
+    },
+    {
+      "id": "A1_OLD_K9_014",
+      "word": "der Kindergarten",
+      "plural": "die Kindergärten",
+      "meaning": "kindergarten"
+    },
+    {
+      "id": "A1_OLD_K9_015",
+      "word": "der Maurer",
+      "plural": "die Maurer",
+      "meaning": "mason"
+    },
+    {
+      "id": "A1_OLD_K9_016",
+      "word": "der Skilehrer",
+      "plural": "die Skilehrer",
+      "meaning": "ski instructor"
+    },
+    {
+      "id": "A1_OLD_K9_017",
+      "word": "die Skischule",
+      "plural": "die Skischulen",
+      "meaning": "ski school"
+    },
+    {
+      "id": "A1_OLD_K9_018",
+      "word": "der Alltag",
+      "meaning": "everyday life"
+    },
+    {
+      "id": "A1_OLD_K9_019",
+      "word": "anstrengend",
+      "meaning": "exhausting, strenuous"
+    },
+    {
+      "id": "A1_OLD_K9_020",
+      "word": "aufräumen",
+      "meaning": "to clean up"
+    },
+    {
+      "id": "A1_OLD_K9_021",
+      "word": "sauber",
+      "meaning": "clean"
+    },
+    {
+      "id": "A1_OLD_K9_022",
+      "word": "Spaß",
+      "meaning": "fun",
+      "example": "Spaß machen"
+    },
+    {
+      "id": "A1_OLD_K9_023",
+      "word": "das Studium",
+      "meaning": "studies"
+    },
+    {
+      "id": "A1_OLD_K9_024",
+      "word": "verdienen",
+      "meaning": "to earn",
+      "example": "Ich verdiene 3000 Euro im Monat."
+    },
+    {
+      "id": "A1_OLD_K9_025",
+      "word": "der Sportlehrer",
+      "plural": "die Sportlehrer",
+      "meaning": "gym teacher"
+    },
+    {
+      "id": "A1_OLD_K9_026",
+      "word": "bleiben",
+      "meaning": "to stay"
+    },
+    {
+      "id": "A1_OLD_K9_027",
+      "word": "fleißig",
+      "meaning": "hardworking"
+    },
+    {
+      "id": "A1_OLD_K9_028",
+      "word": "jemand",
+      "meaning": "someone"
+    },
+    {
+      "id": "A1_OLD_K9_029",
+      "word": "laufen",
+      "meaning": "to run",
+      "example": "Das Projekt läuft gut."
+    },
+    {
+      "id": "A1_OLD_K9_030",
+      "word": "leer",
+      "meaning": "empty"
+    },
+    {
+      "id": "A1_OLD_K9_031",
+      "word": "mal",
+      "meaning": "already",
+      "example": "Bereiten wir mal die Party vor."
+    },
+    {
+      "id": "A1_OLD_K9_032",
+      "word": "Na ja",
+      "meaning": "you know (sl)",
+      "example": "Na ja, es geht."
+    },
+    {
+      "id": "A1_OLD_K9_033",
+      "word": "die Pause",
+      "plural": "die Pausen",
+      "meaning": "break"
+    },
+    {
+      "id": "A1_OLD_K9_034",
+      "word": "das Projekt",
+      "plural": "die Projekte",
+      "meaning": "project"
+    },
+    {
+      "id": "A1_OLD_K9_035",
+      "word": "reden",
+      "meaning": "to talk, to speak"
+    },
+    {
+      "id": "A1_OLD_K9_036",
+      "word": "das Seminar",
+      "plural": "die Seminare",
+      "meaning": "seminar"
+    },
+    {
+      "id": "A1_OLD_K9_037",
+      "word": "der Typ",
+      "plural": "die Typen",
+      "meaning": "here: guy, person (sl.)",
+      "example": "Der Typ redet viel."
+    },
+    {
+      "id": "A1_OLD_K9_038",
+      "word": "das Wirtschaftsrecht",
+      "meaning": "business law"
+    },
+    {
+      "id": "A1_OLD_K9_039",
+      "word": "der Professor",
+      "plural": "die Professoren",
+      "meaning": "professor"
+    },
+    {
+      "id": "A1_OLD_K9_040",
+      "word": "die Prüfung",
+      "plural": "die Prüfungen",
+      "meaning": "test, exam"
+    },
+    {
+      "id": "A1_OLD_K9_041",
+      "word": "die Statistik",
+      "plural": "die Statistiken",
+      "meaning": "statistics"
+    },
+    {
+      "id": "A1_OLD_K9_042",
+      "word": "trainieren",
+      "meaning": "to train"
+    },
+    {
+      "id": "A1_OLD_K9_043",
+      "word": "gegenseitig",
+      "meaning": "mutual(ly)"
+    },
+    {
+      "id": "A1_OLD_K9_044",
+      "word": "Australien",
+      "meaning": "Australia"
+    },
+    {
+      "id": "A1_OLD_K9_045",
+      "word": "die Bank",
+      "plural": "die Banken",
+      "meaning": "bank",
+      "example": "Ich hole Geld bei der Bank."
+    },
+    {
+      "id": "A1_OLD_K9_046",
+      "word": "später",
+      "meaning": "later"
+    },
+    {
+      "id": "A1_OLD_K9_047",
+      "word": "hören",
+      "meaning": "to listen"
+    },
+    {
+      "id": "A1_OLD_K9_048",
+      "word": "der Job",
+      "plural": "die Jobs",
+      "meaning": "job"
+    },
+    {
+      "id": "A1_OLD_K9_049",
+      "word": "leben",
+      "meaning": "to live"
+    },
+    {
+      "id": "A1_OLD_K9_050",
+      "word": "abrechnen",
+      "meaning": "to calculate"
+    },
+    {
+      "id": "A1_OLD_K9_051",
+      "word": "als",
+      "meaning": "as",
+      "example": "Felix verkleidet sich als Nikolaus."
+    },
+    {
+      "id": "A1_OLD_K9_052",
+      "word": "am",
+      "meaning": "at, on",
+      "example": "Ich wohne am Kölner Platz."
+    },
+    {
+      "id": "A1_OLD_K9_053",
+      "word": "die Anforderung",
+      "plural": "die Anforderungen",
+      "meaning": "requirement"
+    },
+    {
+      "id": "A1_OLD_K9_054",
+      "word": "ausladen",
+      "meaning": "to unload",
+      "example": "Wir laden die Möbel aus."
+    },
+    {
+      "id": "A1_OLD_K9_055",
+      "word": "der Babysitter",
+      "plural": "die Babysitter",
+      "meaning": "babysitter",
+      "example": "Ich arbeite als Babysitter."
+    },
+    {
+      "id": "A1_OLD_K9_056",
+      "word": "bewerben",
+      "meaning": "to apply",
+      "example": "Ich bewerbe mich bei der Firma Heinz."
+    },
+    {
+      "id": "A1_OLD_K9_057",
+      "word": "die Bezahlung",
+      "plural": "die Bezahlungen",
+      "meaning": "payment"
+    },
+    {
+      "id": "A1_OLD_K9_058",
+      "word": "ehrlich",
+      "meaning": "honest(ly)"
+    },
+    {
+      "id": "A1_OLD_K9_059",
+      "word": "eigen",
+      "meaning": "own"
+    },
+    {
+      "id": "A1_OLD_K9_060",
+      "word": "die Erfahrung",
+      "plural": "die Erfahrungen",
+      "meaning": "experience"
+    },
+    {
+      "id": "A1_OLD_K9_061",
+      "word": "der Flyer",
+      "plural": "die Flyer",
+      "meaning": "flyer"
+    },
+    {
+      "id": "A1_OLD_K9_062",
+      "word": "die Französischkenntnisse",
+      "meaning": "knowledge of French"
+    },
+    {
+      "id": "A1_OLD_K9_063",
+      "word": "freundlich",
+      "meaning": "friendly"
+    },
+    {
+      "id": "A1_OLD_K9_064",
+      "word": "die Geschichte",
+      "plural": "die Geschichten",
+      "meaning": "story, history"
+    },
+    {
+      "id": "A1_OLD_K9_065",
+      "word": "gewinnen",
+      "meaning": "to win",
+      "example": "So gewinnst du neue Kunden."
+    },
+    {
+      "id": "A1_OLD_K9_066",
+      "word": "Gymnasium",
+      "meaning": "high school"
+    },
+    {
+      "id": "A1_OLD_K9_067",
+      "word": "der Helfer",
+      "plural": "die Helfer",
+      "meaning": "assistant"
+    },
+    {
+      "id": "A1_OLD_K9_068",
+      "word": "die Kinderbetreuung",
+      "meaning": "child care"
+    },
+    {
+      "id": "A1_OLD_K9_069",
+      "word": "kinderlieb",
+      "meaning": "child-friendly"
+    },
+    {
+      "id": "A1_OLD_K9_070",
+      "word": "die Klasse",
+      "plural": "die Klassen",
+      "meaning": "class"
+    },
+    {
+      "id": "A1_OLD_K9_071",
+      "word": "kommunikativ",
+      "meaning": "communicative"
+    },
+    {
+      "id": "A1_OLD_K9_072",
+      "word": "das Kostüm",
+      "plural": "die Kostüme",
+      "meaning": "costume"
+    },
+    {
+      "id": "A1_OLD_K9_073",
+      "word": "der Kunde",
+      "plural": "die Kunden",
+      "meaning": "customer"
+    },
+    {
+      "id": "A1_OLD_K9_074",
+      "word": "liebevoll",
+      "meaning": "loving(ly)"
+    },
+    {
+      "id": "A1_OLD_K9_075",
+      "word": "der LKW",
+      "plural": "die LKWs",
+      "meaning": "truck"
+    },
+    {
+      "id": "A1_OLD_K9_076",
+      "word": "der Möbelpacker",
+      "plural": "die Möbelpacker",
+      "meaning": "mover"
+    },
+    {
+      "id": "A1_OLD_K9_077",
+      "word": "der Nachhilfelehrer",
+      "plural": "die Nachhilfelehrer",
+      "meaning": "tutor"
+    },
+    {
+      "id": "A1_OLD_K9_078",
+      "word": "die Neueröffnung",
+      "plural": "die Neueröffnungen",
+      "meaning": "opening, reopening"
+    },
+    {
+      "id": "A1_OLD_K9_079",
+      "word": "der Nikolaus",
+      "meaning": "St. Nick"
+    },
+    {
+      "id": "A1_OLD_K9_080",
+      "word": "pauschal",
+      "meaning": "flat-rate, inclusive"
+    },
+    {
+      "id": "A1_OLD_K9_081",
+      "word": "der Promoter",
+      "plural": "die Promoter",
+      "meaning": "promoter"
+    },
+    {
+      "id": "A1_OLD_K9_082",
+      "word": "die Schülerin",
+      "plural": "die Schülerinnen",
+      "meaning": "student (primary or secondary school, f.)"
+    },
+    {
+      "id": "A1_OLD_K9_083",
+      "word": "servieren",
+      "meaning": "to serve"
+    },
+    {
+      "id": "A1_OLD_K9_084",
+      "word": "sofort",
+      "meaning": "immediately"
+    },
+    {
+      "id": "A1_OLD_K9_085",
+      "word": "die Speise",
+      "plural": "die Speisen",
+      "meaning": "dish, course"
+    },
+    {
+      "id": "A1_OLD_K9_086",
+      "word": "stark",
+      "meaning": "strong(ly)"
+    },
+    {
+      "id": "A1_OLD_K9_087",
+      "word": "überraschen",
+      "meaning": "to surprise"
+    },
+    {
+      "id": "A1_OLD_K9_088",
+      "word": "verkleiden",
+      "meaning": "to dress up"
+    },
+    {
+      "id": "A1_OLD_K9_089",
+      "word": "verteilen",
+      "meaning": "to distribute, to spread"
+    },
+    {
+      "id": "A1_OLD_K9_090",
+      "word": "ziehen",
+      "meaning": "to pull"
+    },
+    {
+      "id": "A1_OLD_K9_091",
+      "word": "zuverlässig",
+      "meaning": "reliable, reliably"
+    },
+    {
+      "id": "A1_OLD_K9_092",
+      "word": "deshalb",
+      "meaning": "therefore"
+    },
+    {
+      "id": "A1_OLD_K9_093",
+      "word": "der Nikolaus-Job",
+      "plural": "die Nikolaus-Jobs",
+      "meaning": "mall santa"
+    },
+    {
+      "id": "A1_OLD_K9_094",
+      "word": "ansprechen",
+      "meaning": "to speak to, to appeal to"
+    },
+    {
+      "id": "A1_OLD_K9_095",
+      "word": "anziehen",
+      "meaning": "to get dressed"
+    },
+    {
+      "id": "A1_OLD_K9_096",
+      "word": "die Bar",
+      "plural": "die Bars",
+      "meaning": "bar"
+    },
+    {
+      "id": "A1_OLD_K9_097",
+      "word": "der Blog",
+      "plural": "die Blogs",
+      "meaning": "blog"
+    },
+    {
+      "id": "A1_OLD_K9_098",
+      "word": "empfehlen",
+      "meaning": "to recommend"
+    },
+    {
+      "id": "A1_OLD_K9_099",
+      "word": "die Extra-Kleidung",
+      "meaning": "additional clothing, costume"
+    },
+    {
+      "id": "A1_OLD_K9_100",
+      "word": "das Fazit",
+      "plural": "die Fazite",
+      "meaning": "conclusion"
+    },
+    {
+      "id": "A1_OLD_K9_101",
+      "word": "freitags",
+      "meaning": "Fridays"
+    },
+    {
+      "id": "A1_OLD_K9_102",
+      "word": "der Frosch",
+      "plural": "die Frösche",
+      "meaning": "frog"
+    },
+    {
+      "id": "A1_OLD_K9_103",
+      "word": "das Frosch-Kostüm",
+      "plural": "die Frosch-Kostüme",
+      "meaning": "frog costume"
+    },
+    {
+      "id": "A1_OLD_K9_104",
+      "word": "grün",
+      "meaning": "green"
+    },
+    {
+      "id": "A1_OLD_K9_105",
+      "word": "jobben",
+      "meaning": "to work odd jobs"
+    },
+    {
+      "id": "A1_OLD_K9_106",
+      "word": "losgehen",
+      "meaning": "to start, to go off",
+      "example": "Um 17 Uhr geht es los."
+    },
+    {
+      "id": "A1_OLD_K9_107",
+      "word": "die Lust",
+      "meaning": "desire"
+    },
+    {
+      "id": "A1_OLD_K9_108",
+      "word": "rum",
+      "meaning": "around",
+      "example": "Wir laufen ein bisschen rum."
+    },
+    {
+      "id": "A1_OLD_K9_109",
+      "word": "der Schluss",
+      "meaning": "end"
+    },
+    {
+      "id": "A1_OLD_K9_110",
+      "word": "tragen",
+      "meaning": "to wear, to carry",
+      "example": "Sie trägt ein Kleid."
+    },
+    {
+      "id": "A1_OLD_K9_111",
+      "word": "der Traum-Job",
+      "plural": "die Traum-Jobs",
+      "meaning": "dream job"
+    },
+    {
+      "id": "A1_OLD_K9_112",
+      "word": "weggehen",
+      "meaning": "to go away"
+    },
+    {
+      "id": "A1_OLD_K9_113",
+      "word": "weglassen",
+      "meaning": "to omit, to leave out",
+      "example": "Man lässt den Buchstaben weg."
+    },
+    {
+      "id": "A1_OLD_K9_114",
+      "word": "zufrieden",
+      "meaning": "satisfied"
+    },
+    {
+      "id": "A1_OLD_K9_115",
+      "word": "der Anruf",
+      "plural": "die Anrufe",
+      "meaning": "call"
+    },
+    {
+      "id": "A1_OLD_K9_116",
+      "word": "der Dank",
+      "meaning": "thanks, gratitude",
+      "example": "Dank sagen"
+    },
+    {
+      "id": "A1_OLD_K9_117",
+      "word": "die Job-Börse",
+      "plural": "die Job-Börsen",
+      "meaning": "job market"
+    },
+    {
+      "id": "A1_OLD_K9_118",
+      "word": "die Reihenfolge",
+      "plural": "die Reihenfolgen",
+      "meaning": "order, sequence"
+    },
+    {
+      "id": "A1_OLD_K9_119",
+      "word": "wiederholen",
+      "meaning": "to repeat"
+    },
+    {
+      "id": "A1_OLD_K9_120",
+      "word": "verabschieden",
+      "meaning": "to say goodbye"
+    },
+    {
+      "id": "A1_OLD_K9_121",
+      "word": "vorbereiten",
+      "meaning": "to prepare"
+    },
+    {
+      "id": "A1_OLD_K9_122",
+      "word": "das Computerproblem",
+      "plural": "die Computerprobleme",
+      "meaning": "computer problem"
+    },
+    {
+      "id": "A1_OLD_K9_123",
+      "word": "der Spezialist",
+      "plural": "die Spezialisten",
+      "meaning": "specialist"
+    },
+    {
+      "id": "A1_OLD_K9_124",
+      "word": "der Sportclub",
+      "plural": "die Sportclubs",
+      "meaning": "sports club"
+    },
+    {
+      "id": "A1_OLD_K9_125",
+      "word": "Tischtennis",
+      "meaning": "table tennis"
+    },
+    {
+      "id": "A1_OLD_K9_126",
+      "word": "die Vorwahl",
+      "plural": "die Vorwahlen",
+      "meaning": "area code, country code"
+    },
+    {
+      "id": "A1_OLD_K9_127",
+      "word": "Dänemark",
+      "meaning": "Denmark"
+    },
+    {
+      "id": "A1_OLD_K9_128",
+      "word": "die Ebbe",
+      "meaning": "low tide"
+    },
+    {
+      "id": "A1_OLD_K9_129",
+      "word": "die Flut",
+      "meaning": "high tide"
+    },
+    {
+      "id": "A1_OLD_K9_130",
+      "word": "die Grenze",
+      "plural": "die Grenzen",
+      "meaning": "border"
+    },
+    {
+      "id": "A1_OLD_K9_131",
+      "word": "die Landkarte",
+      "plural": "die Landkarten",
+      "meaning": "map"
+    },
+    {
+      "id": "A1_OLD_K9_132",
+      "word": "das Oktoberfest",
+      "meaning": "Oktoberfest"
+    },
+    {
+      "id": "A1_OLD_K9_133",
+      "word": "die Spezialität",
+      "plural": "die Spezialitäten",
+      "meaning": "specialty"
+    },
+    {
+      "id": "A1_OLD_K9_134",
+      "word": "der Stollen",
+      "plural": "die Stollen",
+      "meaning": "German fruit cake"
+    },
+    {
+      "id": "A1_OLD_K9_135",
+      "word": "das Wattenmeer",
+      "plural": "die Wattenmeere",
+      "meaning": "Wadden Sea, intertidal zone of the North Sea"
+    },
+    {
+      "id": "A1_OLD_K9_136",
+      "word": "weg",
+      "meaning": "gone",
+      "example": "Wo ist mein Schlüssel? Mein Schlüssel ist weg."
+    },
+    {
+      "id": "A1_OLD_K9_137",
+      "word": "der Weihnachtsmarkt",
+      "plural": "die Weihnachtsmärkte",
+      "meaning": "Christmas market"
+    },
+    {
+      "id": "A1_OLD_K9_138",
+      "word": "das Geschäft",
+      "plural": "die Geschäfte",
+      "meaning": "business",
+      "example": "Das Geschäft geht gut."
+    }
+  ]
 }

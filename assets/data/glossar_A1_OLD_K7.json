@@ -1,5 +1,714 @@
 {
   "level": "A1_OLD",
   "kapitel": 7,
-  "words": []
+  "words": [
+    {
+      "id": "A1_OLD_K7_001",
+      "word": "der Aufzug",
+      "plural": "die Aufzüge",
+      "meaning": "elevator"
+    },
+    {
+      "id": "A1_OLD_K7_002",
+      "word": "das Bad",
+      "plural": "die Bäder",
+      "meaning": "bath"
+    },
+    { "id": "A1_OLD_K7_003", "word": "ein paar", "meaning": "a couple, a few" },
+    { "id": "A1_OLD_K7_004", "word": "erster", "meaning": "first" },
+    {
+      "id": "A1_OLD_K7_005",
+      "word": "fertig",
+      "meaning": "finished",
+      "example": "Ich bin ganz fertig."
+    },
+    {
+      "id": "A1_OLD_K7_006",
+      "word": "das Fitness-Studio",
+      "plural": "die Fitness-Studios",
+      "meaning": "fitness center, gym"
+    },
+    { "id": "A1_OLD_K7_007", "word": "geschafft", "meaning": "here: managed" },
+    {
+      "id": "A1_OLD_K7_008",
+      "word": "das Haus",
+      "plural": "die Häuser",
+      "meaning": "house"
+    },
+    { "id": "A1_OLD_K7_009", "word": "jung", "meaning": "young" },
+    { "id": "A1_OLD_K7_010", "word": "komisch", "meaning": "funny, odd" },
+    { "id": "A1_OLD_K7_011", "word": "mitten", "meaning": "in the middle of" },
+    {
+      "id": "A1_OLD_K7_012",
+      "word": "der Stock",
+      "plural": "die Stockwerke",
+      "meaning": "floor, level (in a building)"
+    },
+    { "id": "A1_OLD_K7_013", "word": "streng", "meaning": "strict(ly)" },
+    {
+      "id": "A1_OLD_K7_014",
+      "word": "das Studio",
+      "plural": "die Studios",
+      "meaning": "studio"
+    },
+    { "id": "A1_OLD_K7_015", "word": "der Trainer", "meaning": "trainer" },
+    {
+      "id": "A1_OLD_K7_016",
+      "word": "wohl",
+      "meaning": "indeed; here: I guess",
+      "example": "Das muss wohl so sein."
+    },
+    {
+      "id": "A1_OLD_K7_017",
+      "word": "die Wohnung",
+      "plural": "die Wohnungen",
+      "meaning": "apartment",
+      "example": "Ich habe eine Wohnung in Madrid."
+    },
+    { "id": "A1_OLD_K7_018", "word": "das Zimmer", "meaning": "room" },
+    {
+      "id": "A1_OLD_K7_019",
+      "word": "das Amt",
+      "plural": "die Ämter",
+      "meaning": "office, department"
+    },
+    {
+      "id": "A1_OLD_K7_020",
+      "word": "das Sportstudio",
+      "plural": "die Sportstudios",
+      "meaning": "gym"
+    },
+    {
+      "id": "A1_OLD_K7_021",
+      "word": "stattfinden",
+      "meaning": "to take place"
+    },
+    {
+      "id": "A1_OLD_K7_022",
+      "word": "das Wohnhaus",
+      "plural": "die Wohnhäuser",
+      "meaning": "apartment complex"
+    },
+    {
+      "id": "A1_OLD_K7_023",
+      "word": "anmelden",
+      "meaning": "to register, to log on"
+    },
+    { "id": "A1_OLD_K7_024", "word": "geboren", "meaning": "born" },
+    {
+      "id": "A1_OLD_K7_025",
+      "word": "dabeihaben",
+      "meaning": "to have (s.t.) with (s.o.)",
+      "example": "Er hat dabei."
+    },
+    {
+      "id": "A1_OLD_K7_026",
+      "word": "die Situation",
+      "plural": "die Situationen",
+      "meaning": "situation"
+    },
+    {
+      "id": "A1_OLD_K7_027",
+      "word": "das Paar",
+      "plural": "die Paare",
+      "meaning": "pair"
+    },
+    {
+      "id": "A1_OLD_K7_028",
+      "word": "die Agentur",
+      "plural": "die Agenturen",
+      "meaning": "agency"
+    },
+    {
+      "id": "A1_OLD_K7_029",
+      "word": "am",
+      "meaning": "in, during",
+      "example": "Am Vormittag haben wir keine Zeit."
+    },
+    {
+      "id": "A1_OLD_K7_030",
+      "word": "der Arbeitsbeginn",
+      "meaning": "beginning of the workday"
+    },
+    {
+      "id": "A1_OLD_K7_031",
+      "word": "aus",
+      "meaning": "out",
+      "example": "Sie geht aus dem Zimmer."
+    },
+    {
+      "id": "A1_OLD_K7_032",
+      "word": "bei",
+      "meaning": "at",
+      "example": "Ich habe einen Termin bei Herrn Mak."
+    },
+    {
+      "id": "A1_OLD_K7_033",
+      "word": "der Brief",
+      "plural": "die Briefe",
+      "meaning": "letter"
+    },
+    { "id": "A1_OLD_K7_034", "word": "einige", "meaning": "some" },
+    { "id": "A1_OLD_K7_035", "word": "der Empfang", "meaning": "reception" },
+    { "id": "A1_OLD_K7_036", "word": "holen", "meaning": "to get" },
+    {
+      "id": "A1_OLD_K7_037",
+      "word": "die Kaffeemaschine",
+      "plural": "die Kaffeemaschinen",
+      "meaning": "coffee machine"
+    },
+    {
+      "id": "A1_OLD_K7_038",
+      "word": "die Leiterin",
+      "plural": "die Leiterinnen",
+      "meaning": "leader, boss (f)"
+    },
+    {
+      "id": "A1_OLD_K7_039",
+      "word": "die Marketing-Abteilung",
+      "plural": "die Marketing-Abteilungen",
+      "meaning": "marketing department"
+    },
+    {
+      "id": "A1_OLD_K7_040",
+      "word": "das Meeting",
+      "plural": "die Meetings",
+      "meaning": "meeting"
+    },
+    {
+      "id": "A1_OLD_K7_041",
+      "word": "der Mitarbeiter",
+      "meaning": "co-worker, colleague"
+    },
+    {
+      "id": "A1_OLD_K7_042",
+      "word": "die Personalabteilung",
+      "plural": "die Personalabteilungen",
+      "meaning": "HR department"
+    },
+    { "id": "A1_OLD_K7_043", "word": "das Postzimmer", "meaning": "mailroom" },
+    {
+      "id": "A1_OLD_K7_044",
+      "word": "die Präsentation",
+      "plural": "die Präsentationen",
+      "meaning": "presentation"
+    },
+    {
+      "id": "A1_OLD_K7_045",
+      "word": "Viele Grüße …",
+      "meaning": "many greetings"
+    },
+    { "id": "A1_OLD_K7_046", "word": "zeigen", "meaning": "to show" },
+    {
+      "id": "A1_OLD_K7_047",
+      "word": "der Abteilungsleiter",
+      "meaning": "head of department"
+    },
+    { "id": "A1_OLD_K7_048", "word": "genau", "meaning": "exact(ly)" },
+    {
+      "id": "A1_OLD_K7_049",
+      "word": "der Kopierraum",
+      "plural": "die Kopierräume",
+      "meaning": "copy room"
+    },
+    {
+      "id": "A1_OLD_K7_050",
+      "word": "die Küche",
+      "plural": "die Küchen",
+      "meaning": "kitchen"
+    },
+    {
+      "id": "A1_OLD_K7_051",
+      "word": "die Sekretärin",
+      "plural": "die Sekretärinnen",
+      "meaning": "secretary (f)"
+    },
+    { "id": "A1_OLD_K7_052", "word": "das Treffen", "meaning": "meeting" },
+    {
+      "id": "A1_OLD_K7_053",
+      "word": "die Anleitung",
+      "plural": "die Anleitungen",
+      "meaning": "instructions"
+    },
+    {
+      "id": "A1_OLD_K7_054",
+      "word": "die Bedienungsanleitung",
+      "plural": "die Bedienungsanleitungen",
+      "meaning": "user's manual"
+    },
+    { "id": "A1_OLD_K7_055", "word": "beenden", "meaning": "to end" },
+    {
+      "id": "A1_OLD_K7_056",
+      "word": "drücken",
+      "meaning": "to press",
+      "example": "Drücken Sie die Taste R."
+    },
+    { "id": "A1_OLD_K7_057", "word": "extern", "meaning": "external" },
+    { "id": "A1_OLD_K7_058", "word": "intern", "meaning": "internal" },
+    {
+      "id": "A1_OLD_K7_059",
+      "word": "die Nummer",
+      "plural": "die Nummern",
+      "meaning": "number"
+    },
+    {
+      "id": "A1_OLD_K7_060",
+      "word": "die Taste",
+      "plural": "die Tasten",
+      "meaning": "key"
+    },
+    {
+      "id": "A1_OLD_K7_061",
+      "word": "die Telefonanlage",
+      "plural": "die Telefonanlagen",
+      "meaning": "phone system"
+    },
+    {
+      "id": "A1_OLD_K7_062",
+      "word": "der Ton",
+      "plural": "die Töne",
+      "meaning": "sound, tone"
+    },
+    {
+      "id": "A1_OLD_K7_063",
+      "word": "übernehmen",
+      "meaning": "to take over, to assume"
+    },
+    {
+      "id": "A1_OLD_K7_064",
+      "word": "verbinden",
+      "meaning": "to connect",
+      "example": "Verbinden Sie mich mit Herrn Mak."
+    },
+    { "id": "A1_OLD_K7_065", "word": "vergleichen", "meaning": "to compare" },
+    {
+      "id": "A1_OLD_K7_066",
+      "word": "die Anweisung",
+      "plural": "die Anweisungen",
+      "meaning": "instruction, direction"
+    },
+    { "id": "A1_OLD_K7_067", "word": "einfüllen", "meaning": "to fill in" },
+    { "id": "A1_OLD_K7_068", "word": "einlegen", "meaning": "to insert" },
+    {
+      "id": "A1_OLD_K7_069",
+      "word": "die Filtertüte",
+      "plural": "die Filtertüten",
+      "meaning": "filter bag"
+    },
+    { "id": "A1_OLD_K7_070", "word": "genießen", "meaning": "to savor" },
+    {
+      "id": "A1_OLD_K7_071",
+      "word": "die Kanne",
+      "plural": "die Kannen",
+      "meaning": "pot, jug",
+      "example": "Kaffeekanne"
+    },
+    {
+      "id": "A1_OLD_K7_072",
+      "word": "stellen",
+      "meaning": "to set, to provide"
+    },
+    { "id": "A1_OLD_K7_073", "word": "erklären", "meaning": "to explain" },
+    {
+      "id": "A1_OLD_K7_074",
+      "word": "die Regel",
+      "plural": "die Regeln",
+      "meaning": "rule"
+    },
+    {
+      "id": "A1_OLD_K7_075",
+      "word": "der Basketball",
+      "plural": "die Basketbälle",
+      "meaning": "basketball (obj.)",
+      "example": "Wir brauchen neue Basketbälle."
+    },
+    {
+      "id": "A1_OLD_K7_076",
+      "word": "Basketball",
+      "meaning": "basketball (sport)",
+      "example": "Ich spiele Basketball."
+    },
+    { "id": "A1_OLD_K7_077", "word": "bis zu", "meaning": "up to" },
+    { "id": "A1_OLD_K7_078", "word": "diskutieren", "meaning": "to discuss" },
+    {
+      "id": "A1_OLD_K7_079",
+      "word": "die Fremdsprache",
+      "plural": "die Fremdsprachen",
+      "meaning": "foreign language"
+    },
+    {
+      "id": "A1_OLD_K7_080",
+      "word": "Holländisch",
+      "meaning": "Dutch",
+      "example": "Sag das auf Holländisch!"
+    },
+    { "id": "A1_OLD_K7_081", "word": "individuell", "meaning": "individual" },
+    {
+      "id": "A1_OLD_K7_082",
+      "word": "kennenlernen",
+      "meaning": "to get to know (s.o.)"
+    },
+    {
+      "id": "A1_OLD_K7_083",
+      "word": "anmelden",
+      "meaning": "to register, to log on, to sign in",
+      "example": "Ich melde mich im Fitness-Studio an."
+    },
+    {
+      "id": "A1_OLD_K7_084",
+      "word": "das Mitglied",
+      "plural": "die Mitglieder",
+      "meaning": "member"
+    },
+    { "id": "A1_OLD_K7_085", "word": "monatlich", "meaning": "monthly" },
+    {
+      "id": "A1_OLD_K7_086",
+      "word": "der Museumsbesuch",
+      "plural": "die Museumsbesuche",
+      "meaning": "museum visit"
+    },
+    { "id": "A1_OLD_K7_087", "word": "organisieren", "meaning": "to organize" },
+    { "id": "A1_OLD_K7_088", "word": "per", "meaning": "per" },
+    {
+      "id": "A1_OLD_K7_089",
+      "word": "die Pizzeria",
+      "plural": "die Pizzerien",
+      "meaning": "pizzeria"
+    },
+    { "id": "A1_OLD_K7_090", "word": "regelmäßig", "meaning": "regularly" },
+    {
+      "id": "A1_OLD_K7_091",
+      "word": "das Sommerfest",
+      "plural": "die Sommerfeste",
+      "meaning": "summer festival"
+    },
+    {
+      "id": "A1_OLD_K7_092",
+      "word": "das Sportangebot",
+      "plural": "die Sportangebote",
+      "meaning": "sports activities"
+    },
+    {
+      "id": "A1_OLD_K7_093",
+      "word": "der Sprachclub",
+      "plural": "die Sprachclubs",
+      "meaning": "language club"
+    },
+    {
+      "id": "A1_OLD_K7_094",
+      "word": "der Stadtpark",
+      "plural": "die Stadtparks",
+      "meaning": "city park"
+    },
+    {
+      "id": "A1_OLD_K7_095",
+      "word": "der Tandempartner",
+      "meaning": "tandem bicycle partner"
+    },
+    { "id": "A1_OLD_K7_096", "word": "telefonisch", "meaning": "by telephone" },
+    {
+      "id": "A1_OLD_K7_097",
+      "word": "das Thema",
+      "plural": "die Themen",
+      "meaning": "theme"
+    },
+    { "id": "A1_OLD_K7_098", "word": "üben", "meaning": "to practice" },
+    {
+      "id": "A1_OLD_K7_099",
+      "word": "die Vermittlung",
+      "plural": "die Vermittlungen",
+      "meaning": "here: arrangement"
+    },
+    { "id": "A1_OLD_K7_100", "word": "verschieden", "meaning": "different" },
+    {
+      "id": "A1_OLD_K7_101",
+      "word": "Vielen Dank …",
+      "meaning": "thank you very much …"
+    },
+    {
+      "id": "A1_OLD_K7_102",
+      "word": "das Angebot",
+      "plural": "die Angebote",
+      "meaning": "offer"
+    },
+    {
+      "id": "A1_OLD_K7_103",
+      "word": "der Club",
+      "plural": "die Clubs",
+      "meaning": "club"
+    },
+    {
+      "id": "A1_OLD_K7_104",
+      "word": "zu dritt",
+      "meaning": "in a group of three"
+    },
+    {
+      "id": "A1_OLD_K7_105",
+      "word": "recherchieren",
+      "meaning": "to research"
+    },
+    { "id": "A1_OLD_K7_106", "word": "der Absender", "meaning": "sender" },
+    {
+      "id": "A1_OLD_K7_107",
+      "word": "die Anrede",
+      "plural": "die Anreden",
+      "meaning": "form of address"
+    },
+    { "id": "A1_OLD_K7_108", "word": "der Empfänger", "meaning": "receiver" },
+    {
+      "id": "A1_OLD_K7_109",
+      "word": "die Grußformel",
+      "plural": "die Grußformeln",
+      "meaning": "form of greeting, salutation"
+    },
+    {
+      "id": "A1_OLD_K7_110",
+      "word": "die Unterschrift",
+      "plural": "die Unterschriften",
+      "meaning": "signature"
+    },
+    {
+      "id": "A1_OLD_K7_111",
+      "word": "der Anfang",
+      "plural": "die Anfänge",
+      "meaning": "beginning"
+    },
+    {
+      "id": "A1_OLD_K7_112",
+      "word": "die Begrüßung",
+      "plural": "die Begrüßungen",
+      "meaning": "greeting"
+    },
+    { "id": "A1_OLD_K7_113", "word": "das Ende", "meaning": "end" },
+    { "id": "A1_OLD_K7_114", "word": "formell", "meaning": "formal(ly)" },
+    { "id": "A1_OLD_K7_115", "word": "geehrte", "meaning": "honorable" },
+    { "id": "A1_OLD_K7_116", "word": "ordnen", "meaning": "to arrange" },
+    { "id": "A1_OLD_K7_117", "word": "bieten", "meaning": "to offer" },
+    {
+      "id": "A1_OLD_K7_118",
+      "word": "der Erfolg",
+      "plural": "die Erfolge",
+      "meaning": "success"
+    },
+    {
+      "id": "A1_OLD_K7_119",
+      "word": "finden",
+      "meaning": "to find",
+      "example": "Wir finden ein Zimmer für Sie."
+    },
+    {
+      "id": "A1_OLD_K7_120",
+      "word": "der Raum",
+      "plural": "die Räume",
+      "meaning": "space, room"
+    },
+    { "id": "A1_OLD_K7_121", "word": "schicken", "meaning": "to send" },
+    { "id": "A1_OLD_K7_122", "word": "Tandem", "meaning": "tandem bicycle" },
+    {
+      "id": "A1_OLD_K7_123",
+      "word": "der Wunsch",
+      "plural": "die Wünsche",
+      "meaning": "wish"
+    },
+    { "id": "A1_OLD_K7_124", "word": "einmal", "meaning": "once" },
+    {
+      "id": "A1_OLD_K7_125",
+      "word": "interessieren",
+      "meaning": "to interest"
+    },
+    { "id": "A1_OLD_K7_126", "word": "die Literatur", "meaning": "literature" },
+    { "id": "A1_OLD_K7_127", "word": "Wie oft?", "meaning": "How often?" },
+    {
+      "id": "A1_OLD_K7_128",
+      "word": "auswendig lernen",
+      "meaning": "to memorize"
+    },
+    {
+      "id": "A1_OLD_K7_129",
+      "word": "der Podcast",
+      "plural": "die Podcasts",
+      "meaning": "podcast"
+    },
+    {
+      "id": "A1_OLD_K7_130",
+      "word": "auswählen",
+      "meaning": "to choose (from a group)"
+    },
+    { "id": "A1_OLD_K7_131", "word": "verabreden", "meaning": "to make plans" },
+    {
+      "id": "A1_OLD_K7_132",
+      "word": "das Netzwerk",
+      "plural": "die Netzwerke",
+      "meaning": "network"
+    },
+    { "id": "A1_OLD_K7_133", "word": "sozial", "meaning": "social(ly)" },
+    { "id": "A1_OLD_K7_134", "word": "außerdem", "meaning": "in addition" },
+    {
+      "id": "A1_OLD_K7_135",
+      "word": "beruflich",
+      "meaning": "professional(ly), vocational(ly)"
+    },
+    {
+      "id": "A1_OLD_K7_136",
+      "word": "besonders",
+      "meaning": "special, especially"
+    },
+    { "id": "A1_OLD_K7_137", "word": "ca. (circa)", "meaning": "approx." },
+    { "id": "A1_OLD_K7_138", "word": "Europa", "meaning": "Europe" },
+    { "id": "A1_OLD_K7_139", "word": "Facebook", "meaning": "Facebook" },
+    {
+      "id": "A1_OLD_K7_140",
+      "word": "die Facebook-Webseite",
+      "plural": "die Facebook-Webseiten",
+      "meaning": "Facebook page"
+    },
+    {
+      "id": "A1_OLD_K7_141",
+      "word": "das Frühjahr",
+      "plural": "die Frühjahre",
+      "meaning": "spring"
+    },
+    { "id": "A1_OLD_K7_142", "word": "insgesamt", "meaning": "all together" },
+    { "id": "A1_OLD_K7_143", "word": "kostenlos", "meaning": "free" },
+    {
+      "id": "A1_OLD_K7_144",
+      "word": "der Kurztext",
+      "plural": "die Kurztexte",
+      "meaning": "short text, blurb"
+    },
+    { "id": "A1_OLD_K7_145", "word": "leicht", "meaning": "easy, easily" },
+    {
+      "id": "A1_OLD_K7_146",
+      "word": "die Million",
+      "plural": "die Millionen",
+      "meaning": "million"
+    },
+    {
+      "id": "A1_OLD_K7_147",
+      "word": "der Nachrichten-Ticker",
+      "meaning": "news ticker"
+    },
+    { "id": "A1_OLD_K7_148", "word": "der Nutzer", "meaning": "user" },
+    { "id": "A1_OLD_K7_149", "word": "persönlich", "meaning": "personally" },
+    {
+      "id": "A1_OLD_K7_150",
+      "word": "die Pinnwand",
+      "plural": "die Pinnwände",
+      "meaning": "pinboard"
+    },
+    { "id": "A1_OLD_K7_151", "word": "populär", "meaning": "popular(ly)" },
+    { "id": "A1_OLD_K7_152", "word": "praktisch", "meaning": "practical(ly)" },
+    { "id": "A1_OLD_K7_153", "word": "präsentieren", "meaning": "to present" },
+    {
+      "id": "A1_OLD_K7_154",
+      "word": "das Premium-Mitglied",
+      "plural": "die Premium-Mitglieder",
+      "meaning": "premium member"
+    },
+    {
+      "id": "A1_OLD_K7_155",
+      "word": "professionell",
+      "meaning": "professional(ly)"
+    },
+    { "id": "A1_OLD_K7_156", "word": "profitieren", "meaning": "to profit" },
+    {
+      "id": "A1_OLD_K7_157",
+      "word": "der Schüler",
+      "meaning": "student (primary or secondary school)"
+    },
+    { "id": "A1_OLD_K7_158", "word": "der Service", "meaning": "service" },
+    {
+      "id": "A1_OLD_K7_159",
+      "word": "die Stelle",
+      "plural": "die Stellen",
+      "meaning": "position"
+    },
+    { "id": "A1_OLD_K7_160", "word": "suchen", "meaning": "to search" },
+    { "id": "A1_OLD_K7_161", "word": "täglich", "meaning": "daily" },
+    { "id": "A1_OLD_K7_162", "word": "Twitter", "meaning": "Twitter" },
+    {
+      "id": "A1_OLD_K7_163",
+      "word": "twittern",
+      "meaning": "to tweet",
+      "example": "Viele Leute twittern täglich."
+    },
+    {
+      "id": "A1_OLD_K7_164",
+      "word": "die Universität",
+      "plural": "die Universitäten",
+      "meaning": "university"
+    },
+    { "id": "A1_OLD_K7_165", "word": "verschicken", "meaning": "to send off" },
+    {
+      "id": "A1_OLD_K7_166",
+      "word": "die Version",
+      "plural": "die Versionen",
+      "meaning": "version"
+    },
+    {
+      "id": "A1_OLD_K7_167",
+      "word": "weiterschicken",
+      "meaning": "to forward, to send on",
+      "example": "Ich schicke die Nachricht weiter."
+    },
+    {
+      "id": "A1_OLD_K7_168",
+      "word": "wen",
+      "meaning": "whom",
+      "example": "Für wen?"
+    },
+    {
+      "id": "A1_OLD_K7_169",
+      "word": "das Zeichen",
+      "meaning": "character",
+      "example": "Ein Kurztext hat nicht mehr als 140 Zeichen."
+    },
+    { "id": "A1_OLD_K7_170", "word": "zwischen", "meaning": "between" },
+    {
+      "id": "A1_OLD_K7_171",
+      "word": "lieb haben",
+      "meaning": "to love (s.o.)",
+      "example": "Ich hab dich lieb."
+    },
+    {
+      "id": "A1_OLD_K7_172",
+      "word": "der Unterschied",
+      "plural": "die Unterschiede",
+      "meaning": "difference"
+    },
+    { "id": "A1_OLD_K7_173", "word": "hochladen", "meaning": "to upload" },
+    {
+      "id": "A1_OLD_K7_174",
+      "word": "das Geräusch",
+      "plural": "die Geräusche",
+      "meaning": "noise"
+    },
+    {
+      "id": "A1_OLD_K7_175",
+      "word": "ganz",
+      "meaning": "very; pretty much",
+      "example": "Der Chef ist ganz nett."
+    },
+    { "id": "A1_OLD_K7_176", "word": "die Kleidung", "meaning": "attire" },
+    { "id": "A1_OLD_K7_177", "word": "der Mechaniker", "meaning": "mechanic" },
+    { "id": "A1_OLD_K7_178", "word": "setzen", "meaning": "to set" },
+    {
+      "id": "A1_OLD_K7_179",
+      "word": "die Toilette",
+      "plural": "die Toiletten",
+      "meaning": "restroom, bathroom, toilet"
+    },
+    {
+      "id": "A1_OLD_K7_180",
+      "word": "die Aussage",
+      "plural": "die Aussagen",
+      "meaning": "statement"
+    },
+    {
+      "id": "A1_OLD_K7_181",
+      "word": "die Werkstatt",
+      "plural": "die Werkstätten",
+      "meaning": "workshop"
+    }
+  ]
 }

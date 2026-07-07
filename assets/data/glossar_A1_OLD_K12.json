@@ -1,5 +1,668 @@
 {
   "level": "A1_OLD",
   "kapitel": 12,
-  "words": []
+  "words": [
+    {
+      "id": "A1_OLD_K12_001",
+      "word": "der Badeurlaub",
+      "plural": "die Badeurlaube",
+      "meaning": "beach vacation"
+    },
+    {
+      "id": "A1_OLD_K12_002",
+      "word": "der Campingurlaub",
+      "plural": "die Campingurlaube",
+      "meaning": "camping vacation"
+    },
+    {
+      "id": "A1_OLD_K12_003",
+      "word": "die Nordsee",
+      "meaning": "North Sea"
+    },
+    {
+      "id": "A1_OLD_K12_004",
+      "word": "der Snowboard-Urlaub",
+      "plural": "die Snowboard-Urlaube",
+      "meaning": "snowboarding vacation"
+    },
+    {
+      "id": "A1_OLD_K12_005",
+      "word": "der Stadturlaub",
+      "plural": "die Stadturlaube",
+      "meaning": "vacation in the city"
+    },
+    {
+      "id": "A1_OLD_K12_006",
+      "word": "der Badeanzug",
+      "plural": "die Badeanzüge",
+      "meaning": "swimsuit"
+    },
+    {
+      "id": "A1_OLD_K12_007",
+      "word": "die Badehose",
+      "plural": "die Badehosen",
+      "meaning": "swim trunks"
+    },
+    {
+      "id": "A1_OLD_K12_008",
+      "word": "der Badeschuh",
+      "plural": "die Badeschuhe",
+      "meaning": "water shoe"
+    },
+    {
+      "id": "A1_OLD_K12_009",
+      "word": "der Bikini",
+      "plural": "die Bikinis",
+      "meaning": "bikini"
+    },
+    {
+      "id": "A1_OLD_K12_010",
+      "word": "die Handtasche",
+      "plural": "die Handtaschen",
+      "meaning": "handbag"
+    },
+    {
+      "id": "A1_OLD_K12_011",
+      "word": "der Helm",
+      "plural": "die Helme",
+      "meaning": "helmet"
+    },
+    {
+      "id": "A1_OLD_K12_012",
+      "word": "die Regenjacke",
+      "plural": "die Regenjacken",
+      "meaning": "rain jacket"
+    },
+    {
+      "id": "A1_OLD_K12_013",
+      "word": "der Regenschirm",
+      "plural": "die Regenschirme",
+      "meaning": "umbrella"
+    },
+    {
+      "id": "A1_OLD_K12_014",
+      "word": "die Reisetasche",
+      "plural": "die Reisetaschen",
+      "meaning": "traveling bag"
+    },
+    {
+      "id": "A1_OLD_K12_015",
+      "word": "der Schlafsack",
+      "plural": "die Schlafsäcke",
+      "meaning": "sleeping bag"
+    },
+    {
+      "id": "A1_OLD_K12_016",
+      "word": "die Skibrille",
+      "plural": "die Skibrillen",
+      "meaning": "ski goggles"
+    },
+    {
+      "id": "A1_OLD_K12_017",
+      "word": "die Sonnencreme",
+      "plural": "die Sonnencremes",
+      "meaning": "sunscreen"
+    },
+    {
+      "id": "A1_OLD_K12_018",
+      "word": "der Stadtplan",
+      "plural": "die Stadtpläne",
+      "meaning": "city map"
+    },
+    {
+      "id": "A1_OLD_K12_019",
+      "word": "die Winterjacke",
+      "plural": "die Winterjacken",
+      "meaning": "winter jacket"
+    },
+    {
+      "id": "A1_OLD_K12_020",
+      "word": "das Zelt",
+      "plural": "die Zelte",
+      "meaning": "tent"
+    },
+    {
+      "id": "A1_OLD_K12_021",
+      "word": "einpacken",
+      "meaning": "to pack"
+    },
+    {
+      "id": "A1_OLD_K12_022",
+      "word": "packen",
+      "meaning": "to pack",
+      "example": "Ich muss noch meinen Koffer packen."
+    },
+    {
+      "id": "A1_OLD_K12_023",
+      "word": "die Sonnenbrille",
+      "plural": "die Sonnenbrillen",
+      "meaning": "sunglasses"
+    },
+    {
+      "id": "A1_OLD_K12_024",
+      "word": "der Urlaub",
+      "plural": "die Urlaube",
+      "meaning": "vacation"
+    },
+    {
+      "id": "A1_OLD_K12_025",
+      "word": "die Städtereise",
+      "plural": "die Städtereisen",
+      "meaning": "city trip"
+    },
+    {
+      "id": "A1_OLD_K12_026",
+      "word": "besichtigen",
+      "meaning": "to sightsee, to view",
+      "example": "Morgen besichtigen wir die Altstadt."
+    },
+    {
+      "id": "A1_OLD_K12_027",
+      "word": "fremd",
+      "meaning": "foreign"
+    },
+    {
+      "id": "A1_OLD_K12_028",
+      "word": "shoppen",
+      "meaning": "to shop"
+    },
+    {
+      "id": "A1_OLD_K12_029",
+      "word": "die Stadtführung",
+      "plural": "die Stadtführungen",
+      "meaning": "tour of the city"
+    },
+    {
+      "id": "A1_OLD_K12_030",
+      "word": "das Kunstmuseum",
+      "plural": "die Kunstmuseen",
+      "meaning": "art museum"
+    },
+    {
+      "id": "A1_OLD_K12_031",
+      "word": "der Marktplatz",
+      "plural": "die Marktplätze",
+      "meaning": "open-air market"
+    },
+    {
+      "id": "A1_OLD_K12_032",
+      "word": "die Segway-Tour",
+      "plural": "die Segway-Touren",
+      "meaning": "Segway tour"
+    },
+    {
+      "id": "A1_OLD_K12_033",
+      "word": "der Spaziergang",
+      "plural": "die Spaziergänge",
+      "meaning": "walk, stroll"
+    },
+    {
+      "id": "A1_OLD_K12_034",
+      "word": "der Theaterbesuch",
+      "plural": "die Theaterbesuche",
+      "meaning": "theater visit"
+    },
+    {
+      "id": "A1_OLD_K12_035",
+      "word": "der Plan",
+      "plural": "die Pläne",
+      "meaning": "plan"
+    },
+    {
+      "id": "A1_OLD_K12_036",
+      "word": "der Ausweis",
+      "plural": "die Ausweise",
+      "meaning": "ID card"
+    },
+    {
+      "id": "A1_OLD_K12_037",
+      "word": "bar",
+      "meaning": "cash",
+      "example": "Kann ich bar bezahlen?"
+    },
+    {
+      "id": "A1_OLD_K12_038",
+      "word": "das Doppelzimmer",
+      "plural": "die Doppelzimmer",
+      "meaning": "double room"
+    },
+    {
+      "id": "A1_OLD_K12_039",
+      "word": "das Einzelzimmer",
+      "plural": "die Einzelzimmer",
+      "meaning": "single room"
+    },
+    {
+      "id": "A1_OLD_K12_040",
+      "word": "die Kreditkarte",
+      "plural": "die Kreditkarten",
+      "meaning": "credit card"
+    },
+    {
+      "id": "A1_OLD_K12_041",
+      "word": "der Reisepass",
+      "plural": "die Reisepässe",
+      "meaning": "passport"
+    },
+    {
+      "id": "A1_OLD_K12_042",
+      "word": "reservieren",
+      "meaning": "to reserve"
+    },
+    {
+      "id": "A1_OLD_K12_043",
+      "word": "der Zimmerschlüssel",
+      "plural": "die Zimmerschlüssel",
+      "meaning": "room key"
+    },
+    {
+      "id": "A1_OLD_K12_044",
+      "word": "aussteigen",
+      "meaning": "to get off, to deboard"
+    },
+    {
+      "id": "A1_OLD_K12_045",
+      "word": "einsteigen",
+      "meaning": "to get on, to board"
+    },
+    {
+      "id": "A1_OLD_K12_046",
+      "word": "die Haltestelle",
+      "plural": "die Haltestellen",
+      "meaning": "station, transit stop"
+    },
+    {
+      "id": "A1_OLD_K12_047",
+      "word": "die Tram",
+      "plural": "die Trams",
+      "meaning": "tram"
+    },
+    {
+      "id": "A1_OLD_K12_048",
+      "word": "umsteigen",
+      "meaning": "to transfer (public transit)"
+    },
+    {
+      "id": "A1_OLD_K12_049",
+      "word": "der Bach",
+      "plural": "die Bäche",
+      "meaning": "stream, creek"
+    },
+    {
+      "id": "A1_OLD_K12_050",
+      "word": "regnen",
+      "meaning": "to rain",
+      "example": "Es regnet."
+    },
+    {
+      "id": "A1_OLD_K12_051",
+      "word": "schneien",
+      "meaning": "to snow",
+      "example": "Es schneit."
+    },
+    {
+      "id": "A1_OLD_K12_052",
+      "word": "die Sehenswürdigkeit",
+      "plural": "die Sehenswürdigkeiten",
+      "meaning": "tourist attraction"
+    },
+    {
+      "id": "A1_OLD_K12_053",
+      "word": "die Stadtbesichtigung",
+      "plural": "die Stadtbesichtigungen",
+      "meaning": "sightseeing in the city"
+    },
+    {
+      "id": "A1_OLD_K12_054",
+      "word": "die Tante",
+      "plural": "die Tanten",
+      "meaning": "aunt"
+    },
+    {
+      "id": "A1_OLD_K12_055",
+      "word": "wahrscheinlich",
+      "meaning": "probably"
+    },
+    {
+      "id": "A1_OLD_K12_056",
+      "word": "windig",
+      "meaning": "windy"
+    },
+    {
+      "id": "A1_OLD_K12_057",
+      "word": "Herzliche Grüße",
+      "meaning": "warm greetings"
+    },
+    {
+      "id": "A1_OLD_K12_058",
+      "word": "der Urlaubsort",
+      "plural": "die Urlaubsorte",
+      "meaning": "resort"
+    },
+    {
+      "id": "A1_OLD_K12_059",
+      "word": "der Sonnenschein",
+      "meaning": "sunshine"
+    },
+    {
+      "id": "A1_OLD_K12_060",
+      "word": "aufschreiben",
+      "meaning": "to write down"
+    },
+    {
+      "id": "A1_OLD_K12_061",
+      "word": "bunt",
+      "meaning": "colorful"
+    },
+    {
+      "id": "A1_OLD_K12_062",
+      "word": "dauern",
+      "meaning": "to last"
+    },
+    {
+      "id": "A1_OLD_K12_063",
+      "word": "eigentlich",
+      "meaning": "actually"
+    },
+    {
+      "id": "A1_OLD_K12_064",
+      "word": "die Energie",
+      "plural": "die Energien",
+      "meaning": "energy"
+    },
+    {
+      "id": "A1_OLD_K12_065",
+      "word": "fernsehen",
+      "meaning": "to watch television"
+    },
+    {
+      "id": "A1_OLD_K12_066",
+      "word": "fliegen",
+      "meaning": "to fly"
+    },
+    {
+      "id": "A1_OLD_K12_067",
+      "word": "der Gepäcktransport",
+      "plural": "die Gepäcktransporte",
+      "meaning": "luggage transport"
+    },
+    {
+      "id": "A1_OLD_K12_068",
+      "word": "günstig",
+      "meaning": "low-priced"
+    },
+    {
+      "id": "A1_OLD_K12_069",
+      "word": "die Halbpension",
+      "meaning": "half board, breakfast and lunch included"
+    },
+    {
+      "id": "A1_OLD_K12_070",
+      "word": "das Handy",
+      "plural": "die Handys",
+      "meaning": "cellphone"
+    },
+    {
+      "id": "A1_OLD_K12_071",
+      "word": "die Jugendherberge",
+      "plural": "die Jugendherbergen",
+      "meaning": "youth hostel"
+    },
+    {
+      "id": "A1_OLD_K12_072",
+      "word": "der Karton",
+      "plural": "die Kartons",
+      "meaning": "box"
+    },
+    {
+      "id": "A1_OLD_K12_073",
+      "word": "klappen",
+      "meaning": "to go well",
+      "example": "Es hat alles geklappt."
+    },
+    {
+      "id": "A1_OLD_K12_074",
+      "word": "der Koffer",
+      "plural": "die Koffer",
+      "meaning": "suitcase"
+    },
+    {
+      "id": "A1_OLD_K12_075",
+      "word": "die Küste",
+      "plural": "die Küsten",
+      "meaning": "coast"
+    },
+    {
+      "id": "A1_OLD_K12_076",
+      "word": "die Landschaft",
+      "plural": "die Landschaften",
+      "meaning": "landscape"
+    },
+    {
+      "id": "A1_OLD_K12_077",
+      "word": "merken",
+      "meaning": "to notice, to remember"
+    },
+    {
+      "id": "A1_OLD_K12_078",
+      "word": "das Navi",
+      "plural": "die Navis",
+      "meaning": "GPS device"
+    },
+    {
+      "id": "A1_OLD_K12_079",
+      "word": "nicht mehr",
+      "meaning": "not anymore"
+    },
+    {
+      "id": "A1_OLD_K12_080",
+      "word": "die Ostseeküste",
+      "meaning": "Baltic Sea coast"
+    },
+    {
+      "id": "A1_OLD_K12_081",
+      "word": "das Reisebüro",
+      "plural": "die Reisebüros",
+      "meaning": "travel agency"
+    },
+    {
+      "id": "A1_OLD_K12_082",
+      "word": "die Sandale",
+      "plural": "die Sandalen",
+      "meaning": "sandal"
+    },
+    {
+      "id": "A1_OLD_K12_083",
+      "word": "sauer",
+      "meaning": "angry",
+      "example": "Ich war zuerst sauer."
+    },
+    {
+      "id": "A1_OLD_K12_084",
+      "word": "der Schaffner",
+      "plural": "die Schaffner",
+      "meaning": "conductor"
+    },
+    {
+      "id": "A1_OLD_K12_085",
+      "word": "Ski fahren",
+      "meaning": "to ski"
+    },
+    {
+      "id": "A1_OLD_K12_086",
+      "word": "der Sommerurlaub",
+      "plural": "die Sommerurlaube",
+      "meaning": "summer vacation"
+    },
+    {
+      "id": "A1_OLD_K12_087",
+      "word": "tatsächlich",
+      "meaning": "actual(ly)"
+    },
+    {
+      "id": "A1_OLD_K12_088",
+      "word": "unglaublich",
+      "meaning": "unbelievable"
+    },
+    {
+      "id": "A1_OLD_K12_089",
+      "word": "unterwegs",
+      "meaning": "on the way"
+    },
+    {
+      "id": "A1_OLD_K12_090",
+      "word": "verpassen",
+      "meaning": "to miss, to pass",
+      "example": "Wir haben den Bus verpasst!"
+    },
+    {
+      "id": "A1_OLD_K12_091",
+      "word": "wecken",
+      "meaning": "to wake up"
+    },
+    {
+      "id": "A1_OLD_K12_092",
+      "word": "die Fahrradtour",
+      "plural": "die Fahrradtouren",
+      "meaning": "bicycle tour"
+    },
+    {
+      "id": "A1_OLD_K12_093",
+      "word": "die Reise",
+      "plural": "die Reisen",
+      "meaning": "trip"
+    },
+    {
+      "id": "A1_OLD_K12_094",
+      "word": "die Tour",
+      "plural": "die Touren",
+      "meaning": "tour"
+    },
+    {
+      "id": "A1_OLD_K12_095",
+      "word": "die Fantasie",
+      "plural": "die Fantasien",
+      "meaning": "fantasy, imagination"
+    },
+    {
+      "id": "A1_OLD_K12_096",
+      "word": "real",
+      "meaning": "real"
+    },
+    {
+      "id": "A1_OLD_K12_097",
+      "word": "der Bericht",
+      "plural": "die Berichte",
+      "meaning": "report"
+    },
+    {
+      "id": "A1_OLD_K12_098",
+      "word": "der Wind",
+      "plural": "die Winde",
+      "meaning": "wind"
+    },
+    {
+      "id": "A1_OLD_K12_099",
+      "word": "wunderbar",
+      "meaning": "wonderful"
+    },
+    {
+      "id": "A1_OLD_K12_100",
+      "word": "die Seite",
+      "plural": "die Seiten",
+      "meaning": "side, page"
+    },
+    {
+      "id": "A1_OLD_K12_101",
+      "word": "der Ärger",
+      "meaning": "anger"
+    },
+    {
+      "id": "A1_OLD_K12_102",
+      "word": "aushalten",
+      "meaning": "to withstand, to bear",
+      "example": "Das ist nicht zum Aushalten!"
+    },
+    {
+      "id": "A1_OLD_K12_103",
+      "word": "die Heizung",
+      "plural": "die Heizungen",
+      "meaning": "heating"
+    },
+    {
+      "id": "A1_OLD_K12_104",
+      "word": "kaputt",
+      "meaning": "broken"
+    },
+    {
+      "id": "A1_OLD_K12_105",
+      "word": "nass",
+      "meaning": "wet"
+    },
+    {
+      "id": "A1_OLD_K12_106",
+      "word": "wahr",
+      "meaning": "true"
+    },
+    {
+      "id": "A1_OLD_K12_107",
+      "word": "weich",
+      "meaning": "soft"
+    },
+    {
+      "id": "A1_OLD_K12_108",
+      "word": "die Rezeption",
+      "plural": "die Rezeptionen",
+      "meaning": "reception"
+    },
+    {
+      "id": "A1_OLD_K12_109",
+      "word": "der Angestellte",
+      "plural": "die Angestellten",
+      "meaning": "employee"
+    },
+    {
+      "id": "A1_OLD_K12_110",
+      "word": "sich beschweren",
+      "meaning": "to complain"
+    },
+    {
+      "id": "A1_OLD_K12_111",
+      "word": "funktionieren",
+      "meaning": "to function"
+    },
+    {
+      "id": "A1_OLD_K12_112",
+      "word": "reparieren",
+      "meaning": "to repair"
+    },
+    {
+      "id": "A1_OLD_K12_113",
+      "word": "schmutzig",
+      "meaning": "dirty"
+    },
+    {
+      "id": "A1_OLD_K12_114",
+      "word": "die Grafik",
+      "plural": "die Grafiken",
+      "meaning": "graph"
+    },
+    {
+      "id": "A1_OLD_K12_115",
+      "word": "die Ostsee",
+      "meaning": "Baltic Sea"
+    },
+    {
+      "id": "A1_OLD_K12_116",
+      "word": "das Prozent",
+      "plural": "die Prozente",
+      "meaning": "percent"
+    },
+    {
+      "id": "A1_OLD_K12_117",
+      "word": "das Reiseziel",
+      "plural": "die Reiseziele",
+      "meaning": "travel destination"
+    }
+  ]
 }

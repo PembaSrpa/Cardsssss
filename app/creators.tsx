@@ -1,6 +1,13 @@
-import React from "react";
-import { View, Text, StyleSheet, Pressable, ScrollView, Linking } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
+import React from "react";
+import {
+  Linking,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from "react-native";
 import { NavBar } from "../components/NavBar";
 import { Scales } from "../components/Scales";
 import { ThemeToggle } from "../components/ThemeToggle";
@@ -15,7 +22,11 @@ interface Creator {
 
 const CREATORS: Creator[] = [
   { name: "Pemba", nickname: "sunless", url: "https://artt-folio.vercel.app" },
-  { name: "Pranay", nickname: "frankenstein", url: "https://frank.vercel.app" },
+  {
+    name: "Pranay",
+    nickname: "frankeinstein",
+    url: "https://github.com/Frankenstein489",
+  },
 ];
 
 interface OtherProject {
@@ -36,7 +47,7 @@ export default function CreatorsScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <ScrollView contentContainerStyle={styles.content}>
-        <NavBar title="See the creators" right={<ThemeToggle />} />
+        <NavBar title="View Creators" right={<ThemeToggle />} />
 
         {CREATORS.map((creator) => (
           <Pressable
@@ -44,11 +55,19 @@ export default function CreatorsScreen(): React.JSX.Element {
             onPress={() => Linking.openURL(creator.url)}
             style={({ pressed }) => [
               styles.creatorCard,
-              { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
+              {
+                borderColor: colors.border,
+                backgroundColor: colors.backgroundAlt,
+                opacity: pressed ? 0.75 : 1,
+              },
             ]}
           >
-            <Text style={[styles.creatorName, { color: colors.text }]}>{creator.name}</Text>
-            <Text style={[styles.creatorNickname, { color: colors.textMuted }]}>@{creator.nickname}</Text>
+            <Text style={[styles.creatorName, { color: colors.text }]}>
+              {creator.name}
+            </Text>
+            <Text style={[styles.creatorNickname, { color: colors.textMuted }]}>
+              @{creator.nickname}
+            </Text>
           </Pressable>
         ))}
 
@@ -62,16 +81,28 @@ export default function CreatorsScreen(): React.JSX.Element {
             onPress={() => Linking.openURL(project.url)}
             style={({ pressed }) => [
               styles.projectRow,
-              { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
+              {
+                borderColor: colors.border,
+                backgroundColor: colors.backgroundAlt,
+                opacity: pressed ? 0.75 : 1,
+              },
             ]}
           >
-            <Text style={[styles.projectTitle, { color: colors.text }]}>{project.title}</Text>
+            <Text style={[styles.projectTitle, { color: colors.text }]}>
+              {project.title}
+            </Text>
             <Ionicons name="open-outline" size={16} color={colors.textMuted} />
           </Pressable>
         ))}
 
-        <Pressable onPress={() => Linking.openURL("https://artt-folio.vercel.app")}>
-          <Text style={[styles.note, { color: colors.textMuted }]}>See more on ArttFolio →</Text>
+        <Pressable
+          onPress={() =>
+            Linking.openURL("https://artt-folio.vercel.app/projects")
+          }
+        >
+          <Text style={[styles.note, { color: colors.textMuted }]}>
+            See more on ArttFolio →
+          </Text>
         </Pressable>
       </ScrollView>
     </View>

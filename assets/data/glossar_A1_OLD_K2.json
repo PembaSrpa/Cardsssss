@@ -1,5 +1,708 @@
 {
   "level": "A1_OLD",
   "kapitel": 2,
-  "words": []
+  "words": [
+    { "id": "A1_OLD_K2_001", "word": "chatten", "meaning": "to chat" },
+    {
+      "id": "A1_OLD_K2_002",
+      "word": "fotografieren",
+      "meaning": "to photograph"
+    },
+    {
+      "id": "A1_OLD_K2_003",
+      "word": "gehen",
+      "meaning": "to go",
+      "example": "Ich gehe ins Kino."
+    },
+    { "id": "A1_OLD_K2_004", "word": "joggen", "meaning": "to jog" },
+    {
+      "id": "A1_OLD_K2_005",
+      "word": "das Kino",
+      "plural": "die Kinos",
+      "meaning": "movie theater"
+    },
+    { "id": "A1_OLD_K2_006", "word": "kochen", "meaning": "to cook" },
+    { "id": "A1_OLD_K2_007", "word": "die Leute", "meaning": "people" },
+    { "id": "A1_OLD_K2_008", "word": "die Musik", "meaning": "music" },
+    { "id": "A1_OLD_K2_009", "word": "reisen", "meaning": "to travel" },
+    { "id": "A1_OLD_K2_010", "word": "schwimmen", "meaning": "to swim" },
+    { "id": "A1_OLD_K2_011", "word": "singen", "meaning": "to sing" },
+    { "id": "A1_OLD_K2_012", "word": "tanzen", "meaning": "to dance" },
+    { "id": "A1_OLD_K2_013", "word": "was?", "meaning": "what?" },
+    { "id": "A1_OLD_K2_014", "word": "ankreuzen", "meaning": "to mark" },
+    { "id": "A1_OLD_K2_015", "word": "antworten", "meaning": "to answer" },
+    {
+      "id": "A1_OLD_K2_016",
+      "word": "gern (= gerne)",
+      "meaning": "like to",
+      "example": "Hörst du gern Musik?"
+    },
+    {
+      "id": "A1_OLD_K2_017",
+      "word": "ja",
+      "meaning": "yes",
+      "example": "Ja, sehr gern."
+    },
+    {
+      "id": "A1_OLD_K2_018",
+      "word": "nein",
+      "meaning": "no",
+      "example": "Nein, ich tanze nicht gern."
+    },
+    {
+      "id": "A1_OLD_K2_019",
+      "word": "das Buch",
+      "plural": "die Bücher",
+      "meaning": "book"
+    },
+    {
+      "id": "A1_OLD_K2_020",
+      "word": "das Fotoalbum",
+      "plural": "die Fotoalben",
+      "meaning": "photo album"
+    },
+    {
+      "id": "A1_OLD_K2_021",
+      "word": "der Fußball",
+      "plural": "die Fußbälle",
+      "meaning": "soccer ball"
+    },
+    {
+      "id": "A1_OLD_K2_022",
+      "word": "das Hobby",
+      "plural": "die Hobbys",
+      "meaning": "hobby"
+    },
+    { "id": "A1_OLD_K2_023", "word": "ihr", "meaning": "you (pl.)" },
+    {
+      "id": "A1_OLD_K2_024",
+      "word": "die Information",
+      "plural": "die Informationen",
+      "meaning": "information"
+    },
+    { "id": "A1_OLD_K2_025", "word": "lesen", "meaning": "to read" },
+    {
+      "id": "A1_OLD_K2_026",
+      "word": "lieben",
+      "meaning": "to love",
+      "example": "Ich liebe Bücher."
+    },
+    {
+      "id": "A1_OLD_K2_027",
+      "word": "die Stadt",
+      "plural": "die Städte",
+      "meaning": "city"
+    },
+    { "id": "A1_OLD_K2_028", "word": "super", "meaning": "super, awesome" },
+    {
+      "id": "A1_OLD_K2_029",
+      "word": "von",
+      "meaning": "here: of",
+      "example": "Das Hobby von Ben ist Joggen."
+    },
+    { "id": "A1_OLD_K2_030", "word": "wir", "meaning": "we" },
+    { "id": "A1_OLD_K2_031", "word": "der August", "meaning": "August" },
+    {
+      "id": "A1_OLD_K2_032",
+      "word": "das Foto",
+      "plural": "die Fotos",
+      "meaning": "photo"
+    },
+    { "id": "A1_OLD_K2_033", "word": "lustig", "meaning": "funny" },
+    {
+      "id": "A1_OLD_K2_034",
+      "word": "meinen",
+      "meaning": "to mean, to think",
+      "example": "Was meint ihr?"
+    },
+    {
+      "id": "A1_OLD_K2_035",
+      "word": "nach",
+      "meaning": "here: to",
+      "example": "Ich reise nach Paris."
+    },
+    { "id": "A1_OLD_K2_036", "word": "oder", "meaning": "or" },
+    {
+      "id": "A1_OLD_K2_037",
+      "word": "so",
+      "meaning": "here: this",
+      "example": "Reist du auch so gern?"
+    },
+    { "id": "A1_OLD_K2_038", "word": "die Spaghetti", "meaning": "spaghetti" },
+    { "id": "A1_OLD_K2_039", "word": "spielen", "meaning": "to play" },
+    {
+      "id": "A1_OLD_K2_040",
+      "word": "das Wochenende",
+      "plural": "die Wochenenden",
+      "meaning": "weekend"
+    },
+    { "id": "A1_OLD_K2_041", "word": "beliebt", "meaning": "popular" },
+    {
+      "id": "A1_OLD_K2_042",
+      "word": "der Kurs",
+      "plural": "die Kurse",
+      "meaning": "course"
+    },
+    { "id": "A1_OLD_K2_043", "word": "Bayern", "meaning": "Bavaria" },
+    {
+      "id": "A1_OLD_K2_044",
+      "word": "der/die Deutsche",
+      "plural": "die Deutschen",
+      "meaning": "German (person)",
+      "example": "Anna ist Deutsche."
+    },
+    {
+      "id": "A1_OLD_K2_045",
+      "word": "der Dienstag",
+      "plural": "die Dienstage",
+      "meaning": "Tuesday"
+    },
+    {
+      "id": "A1_OLD_K2_046",
+      "word": "der Donnerstag",
+      "plural": "die Donnerstage",
+      "meaning": "Thursday"
+    },
+    {
+      "id": "A1_OLD_K2_047",
+      "word": "der Freitag",
+      "plural": "die Freitage",
+      "meaning": "Friday"
+    },
+    {
+      "id": "A1_OLD_K2_048",
+      "word": "die Freundin",
+      "plural": "die Freundinnen",
+      "meaning": "female friend, girlfriend"
+    },
+    {
+      "id": "A1_OLD_K2_049",
+      "word": "gehen",
+      "meaning": "to go, to work",
+      "example": "Am Mittwoch geht es leider nicht."
+    },
+    { "id": "A1_OLD_K2_050", "word": "leider", "meaning": "unfortunately" },
+    { "id": "A1_OLD_K2_051", "word": "der Mittwoch", "meaning": "Wednesday" },
+    {
+      "id": "A1_OLD_K2_052",
+      "word": "der Montag",
+      "plural": "die Montage",
+      "meaning": "Monday"
+    },
+    { "id": "A1_OLD_K2_053", "word": "na", "meaning": "no (coll.)" },
+    { "id": "A1_OLD_K2_054", "word": "nee", "meaning": "no (coll.)" },
+    { "id": "A1_OLD_K2_055", "word": "nö", "meaning": "no (coll.)" },
+    {
+      "id": "A1_OLD_K2_056",
+      "word": "der Samstag",
+      "plural": "die Samstage",
+      "meaning": "Saturday"
+    },
+    {
+      "id": "A1_OLD_K2_057",
+      "word": "der Sonntag",
+      "plural": "die Sonntage",
+      "meaning": "Sunday"
+    },
+    { "id": "A1_OLD_K2_058", "word": "wann?", "meaning": "when?" },
+    {
+      "id": "A1_OLD_K2_059",
+      "word": "die Aufgabe",
+      "plural": "die Aufgaben",
+      "meaning": "assignment"
+    },
+    {
+      "id": "A1_OLD_K2_060",
+      "word": "das Café",
+      "plural": "die Cafés",
+      "meaning": "café"
+    },
+    {
+      "id": "A1_OLD_K2_061",
+      "word": "das Fußballstadion",
+      "plural": "die Fußballstadien",
+      "meaning": "soccer stadium"
+    },
+    { "id": "A1_OLD_K2_062", "word": "der Kalender", "meaning": "calendar" },
+    { "id": "A1_OLD_K2_063", "word": "mit", "meaning": "with" },
+    {
+      "id": "A1_OLD_K2_064",
+      "word": "das Museum",
+      "plural": "die Museen",
+      "meaning": "museum"
+    },
+    {
+      "id": "A1_OLD_K2_065",
+      "word": "das Restaurant",
+      "plural": "die Restaurants",
+      "meaning": "restaurant"
+    },
+    {
+      "id": "A1_OLD_K2_066",
+      "word": "das Schwimmbad",
+      "plural": "die Schwimmbäder",
+      "meaning": "swimming pool"
+    },
+    { "id": "A1_OLD_K2_067", "word": "das Theater", "meaning": "theater" },
+    {
+      "id": "A1_OLD_K2_068",
+      "word": "machen",
+      "meaning": "to do, to make",
+      "example": "Was machen wir am Montag?"
+    },
+    {
+      "id": "A1_OLD_K2_069",
+      "word": "nachsprechen",
+      "meaning": "to repeat",
+      "example": "Er spricht den Satz nach."
+    },
+    {
+      "id": "A1_OLD_K2_070",
+      "word": "die Melodie",
+      "plural": "die Melodien",
+      "meaning": "melody"
+    },
+    { "id": "A1_OLD_K2_071", "word": "aber", "meaning": "but" },
+    {
+      "id": "A1_OLD_K2_072",
+      "word": "an, am",
+      "meaning": "at",
+      "example": "an der Uni"
+    },
+    { "id": "A1_OLD_K2_073", "word": "arbeiten", "meaning": "to work" },
+    {
+      "id": "A1_OLD_K2_074",
+      "word": "die Architektur",
+      "meaning": "architecture"
+    },
+    {
+      "id": "A1_OLD_K2_075",
+      "word": "der Arzt",
+      "plural": "die Ärzte",
+      "meaning": "physician (m)"
+    },
+    {
+      "id": "A1_OLD_K2_076",
+      "word": "die Ärztin",
+      "plural": "die Ärztinnen",
+      "meaning": "physician (f)"
+    },
+    {
+      "id": "A1_OLD_K2_077",
+      "word": "das Auto",
+      "plural": "die Autos",
+      "meaning": "car"
+    },
+    {
+      "id": "A1_OLD_K2_078",
+      "word": "bei",
+      "meaning": "at",
+      "example": "Ich bin Techniker bei BMW."
+    },
+    {
+      "id": "A1_OLD_K2_079",
+      "word": "das Bild",
+      "plural": "die Bilder",
+      "meaning": "picture"
+    },
+    {
+      "id": "A1_OLD_K2_080",
+      "word": "bis",
+      "meaning": "to",
+      "example": "von Montag bis Freitag"
+    },
+    { "id": "A1_OLD_K2_081", "word": "fahren", "meaning": "to drive" },
+    {
+      "id": "A1_OLD_K2_082",
+      "word": "freihaben",
+      "meaning": "to have free, to have off",
+      "example": "Sie hat montags frei."
+    },
+    { "id": "A1_OLD_K2_083", "word": "für", "meaning": "for" },
+    {
+      "id": "A1_OLD_K2_084",
+      "word": "geben",
+      "meaning": "here: to be",
+      "example": "Es gibt 670 Studenten."
+    },
+    {
+      "id": "A1_OLD_K2_085",
+      "word": "haben",
+      "meaning": "to have",
+      "example": "Wir haben genug Platz."
+    },
+    { "id": "A1_OLD_K2_086", "word": "hier", "meaning": "here" },
+    {
+      "id": "A1_OLD_K2_087",
+      "word": "das Jahr",
+      "plural": "die Jahre",
+      "meaning": "year"
+    },
+    { "id": "A1_OLD_K2_088", "word": "der Kilometer", "meaning": "kilometer" },
+    {
+      "id": "A1_OLD_K2_089",
+      "word": "die Klinik",
+      "plural": "die Kliniken",
+      "meaning": "clinic"
+    },
+    {
+      "id": "A1_OLD_K2_090",
+      "word": "der Mensch",
+      "plural": "die Menschen",
+      "meaning": "person"
+    },
+    { "id": "A1_OLD_K2_091", "word": "nachts", "meaning": "at night" },
+    {
+      "id": "A1_OLD_K2_092",
+      "word": "oft",
+      "meaning": "often",
+      "example": "Ich arbeite oft am Samstag."
+    },
+    {
+      "id": "A1_OLD_K2_093",
+      "word": "der Patient",
+      "plural": "die Patienten",
+      "meaning": "patient"
+    },
+    {
+      "id": "A1_OLD_K2_094",
+      "word": "der Platz",
+      "meaning": "space",
+      "example": "Wir haben Platz für 100 Leute."
+    },
+    {
+      "id": "A1_OLD_K2_095",
+      "word": "pro",
+      "meaning": "per",
+      "example": "pro Jahr"
+    },
+    { "id": "A1_OLD_K2_096", "word": "produzieren", "meaning": "to produce" },
+    {
+      "id": "A1_OLD_K2_097",
+      "word": "der Student",
+      "plural": "die Studenten",
+      "meaning": "student (m)"
+    },
+    { "id": "A1_OLD_K2_098", "word": "studieren", "meaning": "to study" },
+    {
+      "id": "A1_OLD_K2_099",
+      "word": "die Stunde",
+      "plural": "die Stunden",
+      "meaning": "hour",
+      "example": "Ich arbeite acht Stunden am Tag."
+    },
+    {
+      "id": "A1_OLD_K2_100",
+      "word": "der Tag",
+      "plural": "die Tage",
+      "meaning": "day"
+    },
+    {
+      "id": "A1_OLD_K2_101",
+      "word": "der Taxifahrer",
+      "meaning": "taxi driver"
+    },
+    { "id": "A1_OLD_K2_102", "word": "der Techniker", "meaning": "technician" },
+    {
+      "id": "A1_OLD_K2_103",
+      "word": "der Text",
+      "plural": "die Texte",
+      "meaning": "text"
+    },
+    {
+      "id": "A1_OLD_K2_104",
+      "word": "die Uni",
+      "plural": "die Unis",
+      "meaning": "university"
+    },
+    {
+      "id": "A1_OLD_K2_105",
+      "word": "viel",
+      "meaning": "a lot",
+      "example": "Ich lese viel."
+    },
+    {
+      "id": "A1_OLD_K2_106",
+      "word": "die Woche",
+      "plural": "die Wochen",
+      "meaning": "week"
+    },
+    {
+      "id": "A1_OLD_K2_107",
+      "word": "passen",
+      "meaning": "to match",
+      "example": "Die Tasche passt zum Kleid."
+    },
+    {
+      "id": "A1_OLD_K2_108",
+      "word": "unterstreichen",
+      "meaning": "to underline"
+    },
+    {
+      "id": "A1_OLD_K2_109",
+      "word": "das Wort",
+      "plural": "die Wörter",
+      "meaning": "word"
+    },
+    {
+      "id": "A1_OLD_K2_110",
+      "word": "der Arbeitsplatz",
+      "plural": "die Arbeitsplätze",
+      "meaning": "workplace"
+    },
+    {
+      "id": "A1_OLD_K2_111",
+      "word": "die Arbeitszeit",
+      "plural": "die Arbeitszeiten",
+      "meaning": "working hours"
+    },
+    {
+      "id": "A1_OLD_K2_112",
+      "word": "der Beruf",
+      "plural": "die Berufe",
+      "meaning": "occupation"
+    },
+    { "id": "A1_OLD_K2_113", "word": "von Beruf", "meaning": "by profession" },
+    { "id": "A1_OLD_K2_114", "word": "markieren", "meaning": "to mark" },
+    {
+      "id": "A1_OLD_K2_115",
+      "word": "der Architekt",
+      "plural": "die Architekten",
+      "meaning": "architect"
+    },
+    { "id": "A1_OLD_K2_116", "word": "der Boxer", "meaning": "boxer" },
+    {
+      "id": "A1_OLD_K2_117",
+      "word": "der Ingenieur",
+      "plural": "die Ingenieure",
+      "meaning": "engineer"
+    },
+    {
+      "id": "A1_OLD_K2_118",
+      "word": "die Journalistin",
+      "plural": "die Journalistinnen",
+      "meaning": "journalist (f)"
+    },
+    {
+      "id": "A1_OLD_K2_119",
+      "word": "die Professorin",
+      "plural": "die Professorinnen",
+      "meaning": "professor (f)"
+    },
+    {
+      "id": "A1_OLD_K2_120",
+      "word": "der DJ",
+      "plural": "die DJs",
+      "meaning": "DJ"
+    },
+    {
+      "id": "A1_OLD_K2_121",
+      "word": "die Fotografin",
+      "plural": "die Fotografinnen",
+      "meaning": "photographer (f)"
+    },
+    {
+      "id": "A1_OLD_K2_122",
+      "word": "die Firma",
+      "plural": "die Firmen",
+      "meaning": "company, firm"
+    },
+    {
+      "id": "A1_OLD_K2_123",
+      "word": "die Notiz",
+      "plural": "die Notizen",
+      "meaning": "note"
+    },
+    {
+      "id": "A1_OLD_K2_124",
+      "word": "die Studentin",
+      "plural": "die Studentinnen",
+      "meaning": "student (f)"
+    },
+    { "id": "A1_OLD_K2_125", "word": "berichten", "meaning": "to report" },
+    {
+      "id": "A1_OLD_K2_126",
+      "word": "der Freund",
+      "plural": "die Freunde",
+      "meaning": "friend"
+    },
+    {
+      "id": "A1_OLD_K2_127",
+      "word": "der Kollege",
+      "plural": "die Kollegen",
+      "meaning": "colleague"
+    },
+    {
+      "id": "A1_OLD_K2_128",
+      "word": "der Hausmeister",
+      "meaning": "caretaker, janitor"
+    },
+    {
+      "id": "A1_OLD_K2_129",
+      "word": "die Juristin",
+      "plural": "die Juristinnen",
+      "meaning": "attorney (f)"
+    },
+    {
+      "id": "A1_OLD_K2_130",
+      "word": "die Lehrerin",
+      "plural": "die Lehrerinnen",
+      "meaning": "teacher (f)"
+    },
+    {
+      "id": "A1_OLD_K2_131",
+      "word": "der Programmierer",
+      "meaning": "programmer"
+    },
+    {
+      "id": "A1_OLD_K2_132",
+      "word": "der Elektriker",
+      "meaning": "electrician"
+    },
+    { "id": "A1_OLD_K2_133", "word": "der April", "meaning": "April" },
+    { "id": "A1_OLD_K2_134", "word": "der Dezember", "meaning": "December" },
+    { "id": "A1_OLD_K2_135", "word": "der Februar", "meaning": "February" },
+    { "id": "A1_OLD_K2_136", "word": "der Frühling", "meaning": "spring" },
+    { "id": "A1_OLD_K2_137", "word": "der Herbst", "meaning": "fall" },
+    {
+      "id": "A1_OLD_K2_138",
+      "word": "der Jänner",
+      "meaning": "January",
+      "example": "in Österreich"
+    },
+    { "id": "A1_OLD_K2_139", "word": "der Januar", "meaning": "January" },
+    { "id": "A1_OLD_K2_140", "word": "der Juli", "meaning": "July" },
+    { "id": "A1_OLD_K2_141", "word": "der Juni", "meaning": "June" },
+    { "id": "A1_OLD_K2_142", "word": "der Mai", "meaning": "May" },
+    { "id": "A1_OLD_K2_143", "word": "der März", "meaning": "March" },
+    {
+      "id": "A1_OLD_K2_144",
+      "word": "der Monat",
+      "plural": "die Monate",
+      "meaning": "month"
+    },
+    { "id": "A1_OLD_K2_145", "word": "der November", "meaning": "November" },
+    { "id": "A1_OLD_K2_146", "word": "der Oktober", "meaning": "October" },
+    { "id": "A1_OLD_K2_147", "word": "der September", "meaning": "September" },
+    { "id": "A1_OLD_K2_148", "word": "der Sommer", "meaning": "summer" },
+    { "id": "A1_OLD_K2_149", "word": "der Winter", "meaning": "winter" },
+    {
+      "id": "A1_OLD_K2_150",
+      "word": "die Jahreszeit",
+      "plural": "die Jahreszeiten",
+      "meaning": "season"
+    },
+    { "id": "A1_OLD_K2_151", "word": "malen", "meaning": "to draw, to paint" },
+    {
+      "id": "A1_OLD_K2_152",
+      "word": "das Plakat",
+      "plural": "die Plakate",
+      "meaning": "poster, placard"
+    },
+    {
+      "id": "A1_OLD_K2_153",
+      "word": "das Wörterbuch",
+      "plural": "die Wörterbücher",
+      "meaning": "dictionary"
+    },
+    { "id": "A1_OLD_K2_154", "word": "willkommen", "meaning": "welcome" },
+    {
+      "id": "A1_OLD_K2_155",
+      "word": "die Adresse",
+      "plural": "die Adressen",
+      "meaning": "address",
+      "example": "Ich notiere deine Adresse."
+    },
+    {
+      "id": "A1_OLD_K2_156",
+      "word": "das Geburtsdatum",
+      "plural": "die Geburtsdaten",
+      "meaning": "date of birth"
+    },
+    {
+      "id": "A1_OLD_K2_157",
+      "word": "der Geburtsort",
+      "plural": "die Geburtsorte",
+      "meaning": "birth place"
+    },
+    {
+      "id": "A1_OLD_K2_158",
+      "word": "der Vorname",
+      "plural": "die Vornamen",
+      "meaning": "first name"
+    },
+    {
+      "id": "A1_OLD_K2_159",
+      "word": "die Arbeit",
+      "plural": "die Arbeiten",
+      "meaning": "work"
+    },
+    {
+      "id": "A1_OLD_K2_160",
+      "word": "das Formular",
+      "plural": "die Formulare",
+      "meaning": "form"
+    },
+    {
+      "id": "A1_OLD_K2_161",
+      "word": "das Interesse",
+      "plural": "die Interessen",
+      "meaning": "interest"
+    },
+    {
+      "id": "A1_OLD_K2_162",
+      "word": "die Internetseite",
+      "plural": "die Internetseiten",
+      "meaning": "web page"
+    },
+    {
+      "id": "A1_OLD_K2_163",
+      "word": "der Lieblingsfilm",
+      "plural": "die Lieblingsfilme",
+      "meaning": "favorite film"
+    },
+    {
+      "id": "A1_OLD_K2_164",
+      "word": "die Lieblingsmusik",
+      "meaning": "favorite music"
+    },
+    { "id": "A1_OLD_K2_165", "word": "männlich", "meaning": "male, masculine" },
+    {
+      "id": "A1_OLD_K2_166",
+      "word": "der Nachname",
+      "plural": "die Nachnamen",
+      "meaning": "last name"
+    },
+    {
+      "id": "A1_OLD_K2_167",
+      "word": "die Nachricht",
+      "plural": "die Nachrichten",
+      "meaning": "report, news"
+    },
+    { "id": "A1_OLD_K2_168", "word": "online", "meaning": "online" },
+    {
+      "id": "A1_OLD_K2_169",
+      "word": "das Profil",
+      "plural": "die Profile",
+      "meaning": "profile"
+    },
+    {
+      "id": "A1_OLD_K2_170",
+      "word": "die Schule",
+      "plural": "die Schulen",
+      "meaning": "school"
+    },
+    {
+      "id": "A1_OLD_K2_171",
+      "word": "weiblich",
+      "meaning": "female, feminine"
+    },
+    {
+      "id": "A1_OLD_K2_172",
+      "word": "der Wohnort",
+      "plural": "die Wohnorte",
+      "meaning": "hometown"
+    },
+    { "id": "A1_OLD_K2_173", "word": "aufhängen", "meaning": "to hang up" }
+  ]
 }

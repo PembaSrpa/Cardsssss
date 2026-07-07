@@ -1,5 +1,799 @@
 {
   "level": "A1_OLD",
   "kapitel": 10,
-  "words": []
+  "words": [
+    {
+      "id": "A1_OLD_K10_001",
+      "word": "Ach!",
+      "meaning": "Oh!"
+    },
+    {
+      "id": "A1_OLD_K10_002",
+      "word": "die Bluse",
+      "plural": "die Blusen",
+      "meaning": "blouse"
+    },
+    {
+      "id": "A1_OLD_K10_003",
+      "word": "der Comic",
+      "plural": "die Comics",
+      "meaning": "comic book"
+    },
+    {
+      "id": "A1_OLD_K10_004",
+      "word": "die Hose",
+      "plural": "die Hosen",
+      "meaning": "pants"
+    },
+    {
+      "id": "A1_OLD_K10_005",
+      "word": "das Kleid",
+      "plural": "die Kleider",
+      "meaning": "dress"
+    },
+    {
+      "id": "A1_OLD_K10_006",
+      "word": "der Rock",
+      "plural": "die Röcke",
+      "meaning": "skirt",
+      "example": "Die Frau kauft einen Rock."
+    },
+    {
+      "id": "A1_OLD_K10_007",
+      "word": "stehen",
+      "meaning": "to suit (someone)",
+      "example": "Das Kleid steht dir gut."
+    },
+    {
+      "id": "A1_OLD_K10_008",
+      "word": "das T-Shirt",
+      "plural": "die T-Shirts",
+      "meaning": "t-shirt"
+    },
+    {
+      "id": "A1_OLD_K10_009",
+      "word": "ausgehen",
+      "meaning": "to go out",
+      "example": "Heute abend gehen wir aus."
+    },
+    {
+      "id": "A1_OLD_K10_010",
+      "word": "das Familienfest",
+      "plural": "die Familienfeste",
+      "meaning": "family reunion"
+    },
+    {
+      "id": "A1_OLD_K10_011",
+      "word": "gleich",
+      "meaning": "the same, equivalent",
+      "example": "Das ist in meiner Sprache gleich."
+    },
+    {
+      "id": "A1_OLD_K10_012",
+      "word": "der Gürtel",
+      "plural": "die Gürtel",
+      "meaning": "belt"
+    },
+    {
+      "id": "A1_OLD_K10_013",
+      "word": "die Mütze",
+      "plural": "die Mützen",
+      "meaning": "cap"
+    },
+    {
+      "id": "A1_OLD_K10_014",
+      "word": "der Sportschuh",
+      "plural": "die Sportschuhe",
+      "meaning": "athletic shoe"
+    },
+    {
+      "id": "A1_OLD_K10_015",
+      "word": "der Strumpf",
+      "plural": "die Strümpfe",
+      "meaning": "sock"
+    },
+    {
+      "id": "A1_OLD_K10_016",
+      "word": "der Katalog",
+      "plural": "die Kataloge",
+      "meaning": "catalog"
+    },
+    {
+      "id": "A1_OLD_K10_017",
+      "word": "das Kaufhaus",
+      "plural": "die Kaufhäuser",
+      "meaning": "department store"
+    },
+    {
+      "id": "A1_OLD_K10_018",
+      "word": "das Kleidergeschäft",
+      "plural": "die Kleidergeschäfte",
+      "meaning": "clothing store"
+    },
+    {
+      "id": "A1_OLD_K10_019",
+      "word": "besser",
+      "meaning": "better"
+    },
+    {
+      "id": "A1_OLD_K10_020",
+      "word": "diese",
+      "meaning": "this, these"
+    },
+    {
+      "id": "A1_OLD_K10_021",
+      "word": "die Entscheidung",
+      "plural": "die Entscheidungen",
+      "meaning": "decision"
+    },
+    {
+      "id": "A1_OLD_K10_022",
+      "word": "die Jacke",
+      "plural": "die Jacken",
+      "meaning": "jacket"
+    },
+    {
+      "id": "A1_OLD_K10_023",
+      "word": "der Mantel",
+      "plural": "die Mäntel",
+      "meaning": "coat"
+    },
+    {
+      "id": "A1_OLD_K10_024",
+      "word": "das Hemd",
+      "plural": "die Hemden",
+      "meaning": "shirt"
+    },
+    {
+      "id": "A1_OLD_K10_025",
+      "word": "der Pullover",
+      "plural": "die Pullover",
+      "meaning": "pullover, sweater"
+    },
+    {
+      "id": "A1_OLD_K10_026",
+      "word": "der Schal",
+      "plural": "die Schals",
+      "meaning": "scarf"
+    },
+    {
+      "id": "A1_OLD_K10_027",
+      "word": "der Schuh",
+      "plural": "die Schuhe",
+      "meaning": "shoe"
+    },
+    {
+      "id": "A1_OLD_K10_028",
+      "word": "der Stiefel",
+      "plural": "die Stiefel",
+      "meaning": "boot"
+    },
+    {
+      "id": "A1_OLD_K10_029",
+      "word": "das Sweatshirt",
+      "plural": "die Sweatshirts",
+      "meaning": "sweatshirt"
+    },
+    {
+      "id": "A1_OLD_K10_030",
+      "word": "das Tuch",
+      "plural": "die Tücher",
+      "meaning": "shawl, handkerchief, cloth"
+    },
+    {
+      "id": "A1_OLD_K10_031",
+      "word": "ankommen",
+      "meaning": "to arrive"
+    },
+    {
+      "id": "A1_OLD_K10_032",
+      "word": "aussehen",
+      "meaning": "to look",
+      "example": "Das Tuch sieht gut aus."
+    },
+    {
+      "id": "A1_OLD_K10_033",
+      "word": "bestimmt",
+      "meaning": "certainly, definitely"
+    },
+    {
+      "id": "A1_OLD_K10_034",
+      "word": "blöd",
+      "meaning": "dumb",
+      "example": "Das sieht blöd aus."
+    },
+    {
+      "id": "A1_OLD_K10_035",
+      "word": "erst",
+      "meaning": "here: just",
+      "example": "Das war doch erst gestern."
+    },
+    {
+      "id": "A1_OLD_K10_036",
+      "word": "gar nicht",
+      "meaning": "not at all"
+    },
+    {
+      "id": "A1_OLD_K10_037",
+      "word": "gestern",
+      "meaning": "yesterday"
+    },
+    {
+      "id": "A1_OLD_K10_038",
+      "word": "gleich",
+      "meaning": "here: right away",
+      "example": "Ich habe es gleich gemerkt."
+    },
+    {
+      "id": "A1_OLD_K10_039",
+      "word": "ja klar",
+      "meaning": "of course"
+    },
+    {
+      "id": "A1_OLD_K10_040",
+      "word": "los sein",
+      "meaning": "to be up, to be wrong",
+      "example": "Was ist los?"
+    },
+    {
+      "id": "A1_OLD_K10_041",
+      "word": "das Paket",
+      "plural": "die Pakete",
+      "meaning": "package"
+    },
+    {
+      "id": "A1_OLD_K10_042",
+      "word": "die Post",
+      "meaning": "postal service"
+    },
+    {
+      "id": "A1_OLD_K10_043",
+      "word": "probieren",
+      "meaning": "to taste, to try"
+    },
+    {
+      "id": "A1_OLD_K10_044",
+      "word": "umtauschen",
+      "meaning": "to exchange"
+    },
+    {
+      "id": "A1_OLD_K10_045",
+      "word": "vorgestern",
+      "meaning": "day before yesterday"
+    },
+    {
+      "id": "A1_OLD_K10_046",
+      "word": "weitersuchen",
+      "meaning": "to continue searching"
+    },
+    {
+      "id": "A1_OLD_K10_047",
+      "word": "zurückschicken",
+      "meaning": "to send back"
+    },
+    {
+      "id": "A1_OLD_K10_048",
+      "word": "verkaufen",
+      "meaning": "to sell"
+    },
+    {
+      "id": "A1_OLD_K10_049",
+      "word": "betont",
+      "meaning": "stressed, pointed"
+    },
+    {
+      "id": "A1_OLD_K10_050",
+      "word": "anprobieren",
+      "meaning": "to try on",
+      "example": "Kann ich den Rock anprobieren?"
+    },
+    {
+      "id": "A1_OLD_K10_051",
+      "word": "dunkelbraun",
+      "meaning": "dark brown"
+    },
+    {
+      "id": "A1_OLD_K10_052",
+      "word": "die Größe",
+      "plural": "die Größen",
+      "meaning": "size"
+    },
+    {
+      "id": "A1_OLD_K10_053",
+      "word": "die Verkäuferin",
+      "plural": "die Verkäuferinnen",
+      "meaning": "saleswoman"
+    },
+    {
+      "id": "A1_OLD_K10_054",
+      "word": "ausgezeichnet",
+      "meaning": "excellent, magnificent"
+    },
+    {
+      "id": "A1_OLD_K10_055",
+      "word": "braun",
+      "meaning": "brown"
+    },
+    {
+      "id": "A1_OLD_K10_056",
+      "word": "hellbraun",
+      "meaning": "light brown"
+    },
+    {
+      "id": "A1_OLD_K10_057",
+      "word": "der Pulli",
+      "plural": "die Pullis",
+      "meaning": "pullover"
+    },
+    {
+      "id": "A1_OLD_K10_058",
+      "word": "die Umkleidekabine",
+      "plural": "die Umkleidekabinen",
+      "meaning": "changing room"
+    },
+    {
+      "id": "A1_OLD_K10_059",
+      "word": "passen",
+      "meaning": "to fit",
+      "example": "Der Rock passt mir nicht."
+    },
+    {
+      "id": "A1_OLD_K10_060",
+      "word": "die Mode",
+      "plural": "die Moden",
+      "meaning": "fashion"
+    },
+    {
+      "id": "A1_OLD_K10_061",
+      "word": "zweimal",
+      "meaning": "twice"
+    },
+    {
+      "id": "A1_OLD_K10_062",
+      "word": "Abendkleidung",
+      "meaning": "evening wear"
+    },
+    {
+      "id": "A1_OLD_K10_063",
+      "word": "die Bademode",
+      "plural": "die Bademoden",
+      "meaning": "swimwear"
+    },
+    {
+      "id": "A1_OLD_K10_064",
+      "word": "die Batterie",
+      "plural": "die Batterien",
+      "meaning": "battery"
+    },
+    {
+      "id": "A1_OLD_K10_065",
+      "word": "die Damenmode",
+      "plural": "die Damenmoden",
+      "meaning": "women's fashion"
+    },
+    {
+      "id": "A1_OLD_K10_066",
+      "word": "die DVD",
+      "plural": "die DVDs",
+      "meaning": "DVD"
+    },
+    {
+      "id": "A1_OLD_K10_067",
+      "word": "das Fitnessgerät",
+      "plural": "die Fitnessgeräte",
+      "meaning": "fitness equipment"
+    },
+    {
+      "id": "A1_OLD_K10_068",
+      "word": "der Fotoapparat",
+      "plural": "die Fotoapparate",
+      "meaning": "camera"
+    },
+    {
+      "id": "A1_OLD_K10_069",
+      "word": "das Fotozubehör",
+      "meaning": "photo accessory"
+    },
+    {
+      "id": "A1_OLD_K10_070",
+      "word": "die Freizeitkleidung",
+      "meaning": "leisure clothes"
+    },
+    {
+      "id": "A1_OLD_K10_071",
+      "word": "das Fundbüro",
+      "plural": "die Fundbüros",
+      "meaning": "lost and found office"
+    },
+    {
+      "id": "A1_OLD_K10_072",
+      "word": "die Herrenmode",
+      "plural": "die Herrenmoden",
+      "meaning": "men's fashion"
+    },
+    {
+      "id": "A1_OLD_K10_073",
+      "word": "der/die Jugendliche",
+      "plural": "die Jugendlichen",
+      "meaning": "youth, young person"
+    },
+    {
+      "id": "A1_OLD_K10_074",
+      "word": "die Kosmetik",
+      "meaning": "cosmetics"
+    },
+    {
+      "id": "A1_OLD_K10_075",
+      "word": "der Kugelschreiber",
+      "plural": "die Kugelschreiber",
+      "meaning": "ballpoint pen"
+    },
+    {
+      "id": "A1_OLD_K10_076",
+      "word": "der Lippenstift",
+      "plural": "die Lippenstifte",
+      "meaning": "lipstick"
+    },
+    {
+      "id": "A1_OLD_K10_077",
+      "word": "das Parfüm",
+      "plural": "die Parfüme",
+      "meaning": "perfume"
+    },
+    {
+      "id": "A1_OLD_K10_078",
+      "word": "die Parfümerie",
+      "plural": "die Parfümerien",
+      "meaning": "perfumery, perfume shop"
+    },
+    {
+      "id": "A1_OLD_K10_079",
+      "word": "der Schmuck",
+      "meaning": "jewelry"
+    },
+    {
+      "id": "A1_OLD_K10_080",
+      "word": "die Schreibwaren",
+      "meaning": "stationery, writing materials"
+    },
+    {
+      "id": "A1_OLD_K10_081",
+      "word": "die Spielwaren",
+      "meaning": "toys"
+    },
+    {
+      "id": "A1_OLD_K10_082",
+      "word": "der Sportartikel",
+      "plural": "die Sportartikel",
+      "meaning": "sports equipment"
+    },
+    {
+      "id": "A1_OLD_K10_083",
+      "word": "die Technik",
+      "meaning": "technology"
+    },
+    {
+      "id": "A1_OLD_K10_084",
+      "word": "die Uhr",
+      "plural": "die Uhren",
+      "meaning": "watch, clock",
+      "example": "Hast du eine neue Uhr?"
+    },
+    {
+      "id": "A1_OLD_K10_085",
+      "word": "das Untergeschoss",
+      "plural": "die Untergeschosse",
+      "meaning": "basement"
+    },
+    {
+      "id": "A1_OLD_K10_086",
+      "word": "die Zeitschrift",
+      "plural": "die Zeitschriften",
+      "meaning": "magazine, periodical"
+    },
+    {
+      "id": "A1_OLD_K10_087",
+      "word": "die Schwester",
+      "plural": "die Schwestern",
+      "meaning": "sister"
+    },
+    {
+      "id": "A1_OLD_K10_088",
+      "word": "der Besuch",
+      "plural": "die Besuche",
+      "meaning": "visit"
+    },
+    {
+      "id": "A1_OLD_K10_089",
+      "word": "die Sporthose",
+      "plural": "die Sporthosen",
+      "meaning": "sports shorts"
+    },
+    {
+      "id": "A1_OLD_K10_090",
+      "word": "die Sportkleidung",
+      "meaning": "sportswear"
+    },
+    {
+      "id": "A1_OLD_K10_091",
+      "word": "der Buchladen",
+      "plural": "die Buchläden",
+      "meaning": "bookstore"
+    },
+    {
+      "id": "A1_OLD_K10_092",
+      "word": "geöffnet",
+      "meaning": "open"
+    },
+    {
+      "id": "A1_OLD_K10_093",
+      "word": "geschlossen",
+      "meaning": "closed"
+    },
+    {
+      "id": "A1_OLD_K10_094",
+      "word": "öffnen",
+      "meaning": "to open"
+    },
+    {
+      "id": "A1_OLD_K10_095",
+      "word": "das Schild",
+      "plural": "die Schilder",
+      "meaning": "sign"
+    },
+    {
+      "id": "A1_OLD_K10_096",
+      "word": "schließen",
+      "meaning": "to close"
+    },
+    {
+      "id": "A1_OLD_K10_097",
+      "word": "die Atmosphäre",
+      "meaning": "atmosphere"
+    },
+    {
+      "id": "A1_OLD_K10_098",
+      "word": "attraktiv",
+      "meaning": "attractive"
+    },
+    {
+      "id": "A1_OLD_K10_099",
+      "word": "auf jeden Fall",
+      "meaning": "at any rate"
+    },
+    {
+      "id": "A1_OLD_K10_100",
+      "word": "das Design",
+      "plural": "die Designs",
+      "meaning": "design"
+    },
+    {
+      "id": "A1_OLD_K10_101",
+      "word": "das Design-Atelier",
+      "plural": "die Design-Ateliers",
+      "meaning": "design studio"
+    },
+    {
+      "id": "A1_OLD_K10_102",
+      "word": "der Designfan",
+      "plural": "die Designfans",
+      "meaning": "design fan"
+    },
+    {
+      "id": "A1_OLD_K10_103",
+      "word": "der Fotograf",
+      "plural": "die Fotografen",
+      "meaning": "photographer"
+    },
+    {
+      "id": "A1_OLD_K10_104",
+      "word": "die Hauptstadt",
+      "plural": "die Hauptstädte",
+      "meaning": "capital city"
+    },
+    {
+      "id": "A1_OLD_K10_105",
+      "word": "der Künstler",
+      "plural": "die Künstler",
+      "meaning": "artist"
+    },
+    {
+      "id": "A1_OLD_K10_106",
+      "word": "das Label",
+      "plural": "die Labels",
+      "meaning": "label, brand"
+    },
+    {
+      "id": "A1_OLD_K10_107",
+      "word": "lebendig",
+      "meaning": "living"
+    },
+    {
+      "id": "A1_OLD_K10_108",
+      "word": "der Modedesigner",
+      "plural": "die Modedesigner",
+      "meaning": "fashion designer"
+    },
+    {
+      "id": "A1_OLD_K10_109",
+      "word": "rund",
+      "meaning": "about",
+      "example": "Es gibt rund 1000 Studenten."
+    },
+    {
+      "id": "A1_OLD_K10_110",
+      "word": "der Titel",
+      "plural": "die Titel",
+      "meaning": "title"
+    },
+    {
+      "id": "A1_OLD_K10_111",
+      "word": "die Trendstadt",
+      "plural": "die Trendstädte",
+      "meaning": "trendy city"
+    },
+    {
+      "id": "A1_OLD_K10_112",
+      "word": "die Überschrift",
+      "plural": "die Überschriften",
+      "meaning": "heading, title"
+    },
+    {
+      "id": "A1_OLD_K10_113",
+      "word": "die Ausstellung",
+      "plural": "die Ausstellungen",
+      "meaning": "exhibition"
+    },
+    {
+      "id": "A1_OLD_K10_114",
+      "word": "der Automat",
+      "plural": "die Automaten",
+      "meaning": "vending machine"
+    },
+    {
+      "id": "A1_OLD_K10_115",
+      "word": "bequem",
+      "meaning": "comfortable"
+    },
+    {
+      "id": "A1_OLD_K10_116",
+      "word": "der Berliner",
+      "plural": "die Berliner",
+      "meaning": "Berliner, person from Berlin",
+      "example": "Ich bin ein echter Berliner."
+    },
+    {
+      "id": "A1_OLD_K10_117",
+      "word": "der Blick",
+      "plural": "die Blicke",
+      "meaning": "glance, look"
+    },
+    {
+      "id": "A1_OLD_K10_118",
+      "word": "der Deckel",
+      "plural": "die Deckel",
+      "meaning": "lid"
+    },
+    {
+      "id": "A1_OLD_K10_119",
+      "word": "der Designer",
+      "plural": "die Designer",
+      "meaning": "designer"
+    },
+    {
+      "id": "A1_OLD_K10_120",
+      "word": "das Design-Objekt",
+      "plural": "die Design-Objekte",
+      "meaning": "designer object"
+    },
+    {
+      "id": "A1_OLD_K10_121",
+      "word": "die Form",
+      "plural": "die Formen",
+      "meaning": "form, shape, mold"
+    },
+    {
+      "id": "A1_OLD_K10_122",
+      "word": "der Hauptbahnhof",
+      "plural": "die Hauptbahnhöfe",
+      "meaning": "main train station"
+    },
+    {
+      "id": "A1_OLD_K10_123",
+      "word": "der Hof",
+      "plural": "die Höfe",
+      "meaning": "courtyard, farmyard"
+    },
+    {
+      "id": "A1_OLD_K10_124",
+      "word": "der Individualist",
+      "plural": "die Individualisten",
+      "meaning": "individualist"
+    },
+    {
+      "id": "A1_OLD_K10_125",
+      "word": "das Mousepad",
+      "plural": "die Mousepads",
+      "meaning": "mousepad"
+    },
+    {
+      "id": "A1_OLD_K10_126",
+      "word": "die Postkarte",
+      "plural": "die Postkarten",
+      "meaning": "postcard"
+    },
+    {
+      "id": "A1_OLD_K10_127",
+      "word": "die Presse",
+      "meaning": "press"
+    },
+    {
+      "id": "A1_OLD_K10_128",
+      "word": "realisieren",
+      "meaning": "to implement, to realize"
+    },
+    {
+      "id": "A1_OLD_K10_129",
+      "word": "die Saison",
+      "plural": "die Saisons",
+      "meaning": "season"
+    },
+    {
+      "id": "A1_OLD_K10_130",
+      "word": "der Schuhfan",
+      "plural": "die Schuhfans",
+      "meaning": "shoe aficionado"
+    },
+    {
+      "id": "A1_OLD_K10_131",
+      "word": "der Schuhladen",
+      "plural": "die Schuhläden",
+      "meaning": "footwear store"
+    },
+    {
+      "id": "A1_OLD_K10_132",
+      "word": "der Shop",
+      "plural": "die Shops",
+      "meaning": "shop"
+    },
+    {
+      "id": "A1_OLD_K10_133",
+      "word": "das Souvenir",
+      "plural": "die Souvenirs",
+      "meaning": "souvenir"
+    },
+    {
+      "id": "A1_OLD_K10_134",
+      "word": "die Tasche",
+      "plural": "die Taschen",
+      "meaning": "handbag, pocket"
+    },
+    {
+      "id": "A1_OLD_K10_135",
+      "word": "topaktuell",
+      "meaning": "cutting-edge"
+    },
+    {
+      "id": "A1_OLD_K10_136",
+      "word": "die Variation",
+      "plural": "die Variationen",
+      "meaning": "variation"
+    },
+    {
+      "id": "A1_OLD_K10_137",
+      "word": "vergessen",
+      "meaning": "to forget"
+    },
+    {
+      "id": "A1_OLD_K10_138",
+      "word": "wofür",
+      "meaning": "for what"
+    },
+    {
+      "id": "A1_OLD_K10_139",
+      "word": "die Öffnungszeit",
+      "plural": "die Öffnungszeiten",
+      "meaning": "business hours"
+    }
+  ]
 }
