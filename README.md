@@ -40,6 +40,6 @@ Light and dark themes are both supported, and switch instantly from the toggle i
 
 ## Feedback
 
-If you have any questions, comments, or suggestions, please [open an issue](https://github.com/card-io/cardssss/issues/new) or [email me](mailto:nirashanichang@gmail.com).
+If you have any questions, comments, or suggestions, please [email me](mailto:nirashanichang@gmail.com).
 
 ---
