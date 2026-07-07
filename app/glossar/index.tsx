@@ -4,7 +4,7 @@ import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { NavBar } from "../../components/NavBar";
 import { Scales } from "../../components/Scales";
 import { ThemeToggle } from "../../components/ThemeToggle";
-import { GLOSSAR_LEVELS, GLOSSAR_KAPITEL_COUNT, isB2Level } from "../../hooks/useGlossarData";
+import { GLOSSAR_LEVELS, GLOSSAR_KAPITEL_COUNT, isB2Level, getGlossarLevelLabel } from "../../hooks/useGlossarData";
 import { useTheme } from "../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../theme/typography";
 
@@ -36,7 +36,7 @@ function LevelCard({ level }: { level: string }): React.JSX.Element {
         { borderColor: colors.border, backgroundColor: colors.backgroundAlt, opacity: pressed ? 0.75 : 1 },
       ]}
     >
-      <Text style={[styles.levelCode, { color: colors.text }]}>{level}</Text>
+      <Text style={[styles.levelCode, { color: colors.text }]}>{getGlossarLevelLabel(level)}</Text>
       <Text style={[styles.count, { color: colors.textMuted }]}>
         {kapitelCount} Kapitel{isB2Level(level) ? " · 4 Module each" : ""}
       </Text>

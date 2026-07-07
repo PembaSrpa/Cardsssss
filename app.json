@@ -40,37 +40,7 @@
           }
         }
       ],
-      "expo-font",
-      [
-        "react-native-android-widget",
-        {
-          "widgets": [
-            {
-              "name": "IELTSFlashcard",
-              "label": "IELTS Flashcard",
-              "description": "A random IELTS word — tap to flip, use the arrows to move to another word.",
-              "minWidth": "220dp",
-              "minHeight": "180dp",
-              "targetCellWidth": 3,
-              "targetCellHeight": 2,
-              "resizeMode": "horizontal|vertical",
-              "widgetFeatures": "reconfigurable"
-            },
-            {
-              "name": "GlossarFlashcard",
-              "label": "Glossar Flashcard",
-              "description": "A random Deutsch Glossar word — tap to flip, use the arrows to move to another word.",
-              "minWidth": "220dp",
-              "minHeight": "180dp",
-              "targetCellWidth": 3,
-              "targetCellHeight": 2,
-              "resizeMode": "horizontal|vertical",
-              "widgetFeatures": "reconfigurable"
-            }
-          ]
-        }
-      ],
-      "./plugins/withWidgetAutoRefresh"
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true,

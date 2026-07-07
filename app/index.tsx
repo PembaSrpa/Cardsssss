@@ -97,6 +97,12 @@ export default function HomeScreen(): React.JSX.Element {
         <View style={styles.header}>
           <Text style={[styles.title, { color: colors.text }]}>Cards</Text>
           <View style={styles.headerControls}>
+            <Pressable
+              onPress={() => router.push("/creators")}
+              style={[styles.creatorsBtn, { borderColor: colors.border, backgroundColor: colors.backgroundAlt }]}
+            >
+              <Ionicons name="people-outline" size={18} color={colors.text} />
+            </Pressable>
             <ThemeToggle />
           </View>
         </View>
@@ -253,6 +259,14 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     alignItems: "center",
     gap: 8,
+  },
+  creatorsBtn: {
+    width: 38,
+    height: 38,
+    borderRadius: 19,
+    borderWidth: 1,
+    alignItems: "center",
+    justifyContent: "center",
   },
   sectionLabel: {
     fontFamily: FONTS.medium,

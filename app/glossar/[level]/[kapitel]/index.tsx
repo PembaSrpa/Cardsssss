@@ -7,7 +7,7 @@ import { NavBar } from "../../../../components/NavBar";
 import { Scales } from "../../../../components/Scales";
 import { ThemeToggle } from "../../../../components/ThemeToggle";
 import { AppButton } from "../../../../components/AppButton";
-import { useGlossarKapitel } from "../../../../hooks/useGlossarData";
+import { useGlossarKapitel, getGlossarLevelLabel } from "../../../../hooks/useGlossarData";
 import { glossarListIndexKey } from "../../../../store/uiStore";
 import { useTheme } from "../../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../../theme/typography";
@@ -43,7 +43,7 @@ export default function GlossarVocabularyListScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <View style={styles.inner}>
-        <NavBar title={`${level} · Kapitel ${kapitel}`} right={<ThemeToggle />} />
+        <NavBar title={`${getGlossarLevelLabel(level)} · Kapitel ${kapitel}`} right={<ThemeToggle />} />
 
         {resumeIndex !== null ? (
           <AppButton

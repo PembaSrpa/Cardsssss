@@ -4,7 +4,7 @@ import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { NavBar } from "../../../components/NavBar";
 import { Scales } from "../../../components/Scales";
 import { ThemeToggle } from "../../../components/ThemeToggle";
-import { GLOSSAR_KAPITEL_COUNT, isB2Level, getGlossarKapitelWords } from "../../../hooks/useGlossarData";
+import { GLOSSAR_KAPITEL_COUNT, isB2Level, getGlossarKapitelWords, getGlossarLevelLabel } from "../../../hooks/useGlossarData";
 import { getGlossarKapitelTitle } from "../../../constants/glossarKapitelTitles";
 import { useTheme } from "../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../theme/typography";
@@ -30,7 +30,7 @@ export default function GlossarKapitelListScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <ScrollView contentContainerStyle={styles.content}>
-        <NavBar title={level} right={<ThemeToggle />} />
+        <NavBar title={getGlossarLevelLabel(level)} right={<ThemeToggle />} />
         {kapitelList.map((kapitel) => (
           <KapitelRow key={kapitel} level={level} kapitel={kapitel} isB2={isB2} onPress={() => handlePress(kapitel)} />
         ))}

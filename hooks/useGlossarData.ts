@@ -15,15 +15,24 @@ export interface GlossarKapitelData {
   words: GlossarWord[];
 }
 
-export const GLOSSAR_LEVELS = ["A1", "A2", "B1", "B2"] as const;
+export const GLOSSAR_LEVELS = ["A1", "A1_OLD", "A2", "B1", "B2"] as const;
 export type GlossarLevel = (typeof GLOSSAR_LEVELS)[number];
 
 export const GLOSSAR_KAPITEL_COUNT: Record<GlossarLevel, number> = {
   A1: 12,
+  A1_OLD: 12,
   A2: 12,
   B1: 12,
   B2: 10,
 };
+
+export const GLOSSAR_LEVEL_LABELS: Partial<Record<string, string>> = {
+  A1_OLD: "A1 (old)",
+};
+
+export function getGlossarLevelLabel(level: string): string {
+  return GLOSSAR_LEVEL_LABELS[level] ?? level;
+}
 
 export function isB2Level(level: string): boolean {
   return level === "B2";
@@ -42,6 +51,18 @@ const GLOSSAR_DATA_MAP: { [key: string]: () => GlossarKapitelData } = {
   A1_K10: () => require("../assets/data/glossar_A1_K10.json"),
   A1_K11: () => require("../assets/data/glossar_A1_K11.json"),
   A1_K12: () => require("../assets/data/glossar_A1_K12.json"),
+  A1_OLD_K1: () => require("../assets/data/glossar_A1_OLD_K1.json"),
+  A1_OLD_K2: () => require("../assets/data/glossar_A1_OLD_K2.json"),
+  A1_OLD_K3: () => require("../assets/data/glossar_A1_OLD_K3.json"),
+  A1_OLD_K4: () => require("../assets/data/glossar_A1_OLD_K4.json"),
+  A1_OLD_K5: () => require("../assets/data/glossar_A1_OLD_K5.json"),
+  A1_OLD_K6: () => require("../assets/data/glossar_A1_OLD_K6.json"),
+  A1_OLD_K7: () => require("../assets/data/glossar_A1_OLD_K7.json"),
+  A1_OLD_K8: () => require("../assets/data/glossar_A1_OLD_K8.json"),
+  A1_OLD_K9: () => require("../assets/data/glossar_A1_OLD_K9.json"),
+  A1_OLD_K10: () => require("../assets/data/glossar_A1_OLD_K10.json"),
+  A1_OLD_K11: () => require("../assets/data/glossar_A1_OLD_K11.json"),
+  A1_OLD_K12: () => require("../assets/data/glossar_A1_OLD_K12.json"),
   A2_K1: () => require("../assets/data/glossar_A2_K1.json"),
   A2_K2: () => require("../assets/data/glossar_A2_K2.json"),
   A2_K3: () => require("../assets/data/glossar_A2_K3.json"),
@@ -101,7 +122,7 @@ export function getAllGlossarWordsFlat(): GlossarWord[] {
   }
   const all: GlossarWord[] = [];
 
-  for (const level of ["A1", "A2", "B1"] as const) {
+  for (const level of ["A1", "A1_OLD", "A2", "B1"] as const) {
     for (let kapitel = 1; kapitel <= GLOSSAR_KAPITEL_COUNT[level]; kapitel++) {
       all.push(...getGlossarKapitelWords(level, kapitel));
     }

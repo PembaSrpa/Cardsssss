@@ -11,7 +11,7 @@ import { AppButton } from "../../../../components/AppButton";
 import { NavBar } from "../../../../components/NavBar";
 import { ThemeToggle } from "../../../../components/ThemeToggle";
 import { Scales } from "../../../../components/Scales";
-import { useGlossarKapitel } from "../../../../hooks/useGlossarData";
+import { useGlossarKapitel, getGlossarLevelLabel } from "../../../../hooks/useGlossarData";
 import { UI_STORAGE_KEYS, glossarListIndexKey } from "../../../../store/uiStore";
 
 export default function GlossarFlashcardScreen(): React.JSX.Element {
@@ -87,7 +87,7 @@ export default function GlossarFlashcardScreen(): React.JSX.Element {
     <View style={[styles.root, { backgroundColor: colors.background }]}>
       <Scales variant="compact" edges={["left", "right"]} />
       <View style={styles.inner}>
-        <NavBar title={`${level} · Kapitel ${kapitel}`} right={<ThemeToggle />} />
+        <NavBar title={`${getGlossarLevelLabel(level)} · Kapitel ${kapitel}`} right={<ThemeToggle />} />
 
         {currentWord ? (
           <>
