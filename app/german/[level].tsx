@@ -5,6 +5,7 @@ import { Pressable, StyleSheet, Text, View } from "react-native";
 import { ArtikelCard, FeedbackState } from "../../components/ArtikelCard";
 import { NavBar } from "../../components/NavBar";
 import { Scales } from "../../components/Scales";
+import { StatChip } from "../../components/StatChip";
 import { ThemeToggle } from "../../components/ThemeToggle";
 import {
   GermanArtikel,
@@ -159,30 +160,6 @@ export default function GermanGameScreen(): React.JSX.Element {
       </View>
     </View>
   );
-
-  function StatChip({
-    label,
-    value,
-  }: {
-    label: string;
-    value: string;
-  }): React.JSX.Element {
-    return (
-      <View
-        style={[
-          styles.statChip,
-          { borderColor: colors.border, backgroundColor: colors.backgroundAlt },
-        ]}
-      >
-        <Text style={[styles.statChipLabel, { color: colors.textMuted }]}>
-          {label}
-        </Text>
-        <Text style={[styles.statChipValue, { color: colors.text }]}>
-          {value}
-        </Text>
-      </View>
-    );
-  }
 }
 
 const styles = StyleSheet.create({
@@ -200,23 +177,6 @@ const styles = StyleSheet.create({
     paddingBottom: 56,
   },
   statsRow: { flexDirection: "row", gap: 10, marginBottom: 28 },
-  statChip: {
-    flex: 1,
-    borderWidth: 1,
-    borderRadius: 10,
-    paddingVertical: 8,
-    alignItems: "center",
-  },
-  statChipLabel: {
-    fontFamily: FONTS.medium,
-    fontSize: FONT_SIZES.xs,
-    letterSpacing: 1,
-  },
-  statChipValue: {
-    fontFamily: FONTS.bold,
-    fontSize: FONT_SIZES.md,
-    marginTop: 2,
-  },
   cardArea: { flex: 1, justifyContent: "center", alignItems: "center" },
   finishedBox: {
     flex: 1,
