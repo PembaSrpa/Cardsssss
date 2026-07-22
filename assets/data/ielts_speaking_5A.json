@@ -1,0 +1,66 @@
+{
+  "section": "5A",
+  "title": "Hometown",
+  "questions": [
+    {
+      "id": "5A_P1_01",
+      "part": 1,
+      "question": "Where is your hometown?",
+      "answer": "My hometown is Pokhara, a mid-sized city in the western hills, known mostly for the lake in the middle of it and the mountains behind that lake."
+    },
+    {
+      "id": "5A_P1_02",
+      "part": 1,
+      "question": "Do you still live there?",
+      "answer": "Not at the moment. I moved away a few years ago for work, but I go back a couple of times a year, usually around festivals."
+    },
+    {
+      "id": "5A_P1_03",
+      "part": 1,
+      "question": "What do you like about your hometown?",
+      "answer": "The pace of it, mostly. Everything is close together, the air is cleaner than in a bigger city, and you can walk to the lake in about ten minutes from almost anywhere."
+    },
+    {
+      "id": "5A_P1_04",
+      "part": 1,
+      "question": "Has your hometown changed much recently?",
+      "answer": "Quite a bit, actually. New guesthouses and cafes have opened along the lakeside, and the road into town has been widened, so it feels busier than it did when I was a child."
+    },
+    {
+      "id": "5A_P2_01",
+      "part": 2,
+      "question": "Describe your hometown.",
+      "cueCardPoints": [
+        "where it is",
+        "what it looks like",
+        "what people usually do there",
+        "and explain how you feel about it"
+      ],
+      "answer": "I come from a city called Pokhara, tucked into the hills in the western part of the country, about six hours by road from the capital. It sits right beside a long lake, and behind the lake you can usually see a row of snow-covered peaks, which is probably the first thing anyone notices when they arrive. The town itself is fairly compact - a lakeside strip with cafes and small shops, a busier commercial area a bit further back, and residential streets climbing the hillsides around it. Most visitors spend their time boating on the lake, walking up to the viewpoints early in the morning, or just sitting at one of the lakeside cafes with a coffee. Locals tend to use the lake area differently - it is more of an evening spot, somewhere to walk after work or meet friends. What I feel about the place is a mix of familiarity and distance now, since I do not live there full time anymore. Every time I go back, I notice something new has been built, but the core of it, the lake and the mountains around it, has not changed at all, and that is probably why it still feels like home whenever I arrive."
+    },
+    {
+      "id": "5A_P3_01",
+      "part": 3,
+      "question": "Why do people become attached to the place they grew up in?",
+      "answer": "I think it comes down to familiarity building up over years without you noticing - the streets, the smells, even the way the light looks in the evening become part of how you recognise 'normal'. Once you leave, you realise how much of your sense of comfort was tied to those small, specific details."
+    },
+    {
+      "id": "5A_P3_02",
+      "part": 3,
+      "question": "Do you think small towns will keep losing population to big cities?",
+      "answer": "In the short term, probably yes, because jobs and higher education are still concentrated in cities. But if remote work keeps expanding, some of that pressure could ease, since people would no longer need to live where the office is."
+    },
+    {
+      "id": "5A_P3_03",
+      "part": 3,
+      "question": "How does tourism change a hometown over time?",
+      "answer": "It usually brings money and better infrastructure, roads, hotels, and services that locals benefit from too. The trade-off is that prices rise and some of the character of the place can get replaced by things built purely for visitors rather than residents."
+    },
+    {
+      "id": "5A_P3_04",
+      "part": 3,
+      "question": "Should governments do more to develop smaller towns instead of focusing on capital cities?",
+      "answer": "I would say yes, because over-concentration in one city creates housing shortages and traffic problems there while smaller towns are left without opportunities. Spreading investment more evenly would probably ease pressure on both ends."
+    }
+  ]
+}

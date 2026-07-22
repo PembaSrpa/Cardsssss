@@ -1,0 +1,66 @@
+{
+  "section": "5F",
+  "title": "Environment",
+  "questions": [
+    {
+      "id": "5F_P1_01",
+      "part": 1,
+      "question": "Do you consider yourself an environmentally conscious person?",
+      "answer": "To some extent, yes, though I am not perfect about it. I try to reduce plastic use and take public transport when I can, but I do not follow every recommendation strictly."
+    },
+    {
+      "id": "5F_P1_02",
+      "part": 1,
+      "question": "What environmental problems concern you most?",
+      "answer": "Air pollution probably concerns me the most, mainly because I notice its effects directly, especially during certain seasons when visibility drops noticeably."
+    },
+    {
+      "id": "5F_P1_03",
+      "part": 1,
+      "question": "Do you recycle at home?",
+      "answer": "Yes, we sort plastic, paper, and general waste separately, though I am honestly not always sure how much of it actually gets processed properly afterward."
+    },
+    {
+      "id": "5F_P1_04",
+      "part": 1,
+      "question": "Has your attitude toward the environment changed over the years?",
+      "answer": "It has, mainly because I have become more aware of how everyday choices, transport, food, packaging, add up collectively rather than mattering only individually."
+    },
+    {
+      "id": "5F_P2_01",
+      "part": 2,
+      "question": "Describe an environmental problem in your area.",
+      "cueCardPoints": [
+        "what the problem is",
+        "what causes it",
+        "who it affects",
+        "and explain what could be done to solve it"
+      ],
+      "answer": "The environmental issue I want to talk about is air pollution, which becomes especially noticeable in my city during the winter months. On the worst days, visibility drops considerably and there is a visible haze hanging over the streets, even in the middle of the afternoon. The causes are fairly well understood, a combination of vehicle emissions from increasing traffic, construction dust from ongoing building projects, and, during certain months, smoke from crop burning in nearby farmland that drifts into the city. It affects almost everyone, but the people most impacted are those with existing respiratory conditions, along with children and elderly residents who are more sensitive to poor air quality generally. Schools sometimes have to restrict outdoor activities on the worst days, and hospitals report a noticeable rise in respiratory complaints during that period. As for solutions, I think a combination of approaches would help more than any single measure. Expanding and subsidising public transport would reduce the number of private vehicles on the road, stricter enforcement around construction sites could limit dust, and better support for farmers to manage crop waste without burning it would address one of the seasonal causes. None of these are quick fixes, but together they would likely reduce the problem meaningfully over a few years rather than leaving it to worsen."
+    },
+    {
+      "id": "5F_P3_01",
+      "part": 3,
+      "question": "Whose responsibility is it to protect the environment, individuals or governments?",
+      "answer": "I think it has to be both, since individual choices matter but cannot offset large-scale industrial impact without supporting policy. Governments set the rules that make sustainable choices easier or harder for everyone else."
+    },
+    {
+      "id": "5F_P3_02",
+      "part": 3,
+      "question": "Do you think climate change is the most serious problem facing the world today?",
+      "answer": "It is certainly among the most serious, given how it intersects with food security, migration, and economic stability. Whether it is the single most serious issue is debatable, but its long-term consequences are difficult to overstate."
+    },
+    {
+      "id": "5F_P3_03",
+      "part": 3,
+      "question": "How can governments encourage people to adopt more sustainable habits?",
+      "answer": "Financial incentives tend to work well, subsidies for renewable energy, tax breaks for electric vehicles, alongside genuine investment in public transport so that sustainable choices are also the convenient ones rather than the harder option."
+    },
+    {
+      "id": "5F_P3_04",
+      "part": 3,
+      "question": "Do you think future generations will live in a cleaner environment than we do now?",
+      "answer": "I am cautiously optimistic, mainly because renewable technology keeps improving and becoming cheaper. Whether that progress outpaces the damage already being done is the real uncertainty, though."
+    }
+  ]
+}

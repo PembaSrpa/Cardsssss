@@ -19,7 +19,7 @@ const LIGHT: ThemeColors = {
   text: "#262626",
   textMuted: "#404040",
   border: "#D4D4D4",
-  accent: "#F97316",
+  accent: "#EAB308",
 };
 
 const DARK: ThemeColors = {
@@ -28,7 +28,7 @@ const DARK: ThemeColors = {
   text: "#E5E5E5",
   textMuted: "#D4D4D4",
   border: "#262626",
-  accent: "#FB923C",
+  accent: "#FACC15",
 };
 
 const STORAGE_KEY = "cards_theme_mode";

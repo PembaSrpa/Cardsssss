@@ -1,0 +1,66 @@
+{
+  "section": "5B",
+  "title": "Family",
+  "questions": [
+    {
+      "id": "5B_P1_01",
+      "part": 1,
+      "question": "How many people are there in your family?",
+      "answer": "There are four of us - my parents, my younger sister, and me. My sister is still studying, so she lives with our parents, while I moved out a couple of years ago."
+    },
+    {
+      "id": "5B_P1_02",
+      "part": 1,
+      "question": "Who are you closest to in your family?",
+      "answer": "Probably my sister. We are close in age, so we grew up doing most things together, and we still talk almost every day even though we live in different cities now."
+    },
+    {
+      "id": "5B_P1_03",
+      "part": 1,
+      "question": "What kind of activities do you do together as a family?",
+      "answer": "Mostly just having meals together when we are all in the same place, and occasionally a short trip during a holiday. Nothing very organised, just time spent in the same room."
+    },
+    {
+      "id": "5B_P1_04",
+      "part": 1,
+      "question": "Has your relationship with your family changed as you have grown older?",
+      "answer": "Yes, it has become more equal. When I was younger my parents made most of the decisions, but now we talk more like adults discussing things together rather than them simply telling me what to do."
+    },
+    {
+      "id": "5B_P2_01",
+      "part": 2,
+      "question": "Describe a family member you admire.",
+      "cueCardPoints": [
+        "who this person is",
+        "what they do",
+        "how you spend time together",
+        "and explain why you admire them"
+      ],
+      "answer": "I want to talk about my grandmother, who is in her late seventies and still lives in the house she raised her children in. She spent most of her working life running a small shop, and even after retiring she has kept herself busy, gardening, cooking for anyone who visits, and keeping track of everyone's schedules better than most of us manage for ourselves. When I go back to see her, we usually end up in the kitchen, since that is where she is most comfortable, and she will ask detailed questions about my work and my friends, remembering small details from months earlier that I had already forgotten I mentioned. What I admire most about her is how consistent she is. She has faced a fair number of difficult periods, financial pressure when she was younger, health problems more recently, but her attitude toward daily life has barely shifted. She still gets up early, still checks on the neighbours, still finds something to laugh about most days. It is a kind of steadiness that I do not think I have fully learned yet, and being around her reminds me that resilience does not have to look dramatic, sometimes it just looks like showing up the same way every single day."
+    },
+    {
+      "id": "5B_P3_01",
+      "part": 3,
+      "question": "How have family structures changed in your country over the past few decades?",
+      "answer": "Extended families living under one roof used to be far more common, but now smaller nuclear households are the norm, especially in cities. Economic pressures and job mobility mean people move away from their hometowns, which naturally shrinks the household."
+    },
+    {
+      "id": "5B_P3_02",
+      "part": 3,
+      "question": "Do you think grandparents should be involved in raising children?",
+      "answer": "I think it can be beneficial as long as roles are clear, since grandparents often bring patience and free time that working parents cannot always offer. The risk is disagreement over parenting methods, which needs open communication to avoid conflict."
+    },
+    {
+      "id": "5B_P3_03",
+      "part": 3,
+      "question": "What responsibilities do adult children have toward their aging parents?",
+      "answer": "At minimum, checking in regularly and helping arrange things like healthcare when needed. Beyond that it really depends on circumstances - not everyone can provide full-time care, but staying involved in decisions matters regardless of distance."
+    },
+    {
+      "id": "5B_P3_04",
+      "part": 3,
+      "question": "Is it becoming harder to balance family life with a career?",
+      "answer": "I would say yes, particularly in cities where commuting and long working hours eat into the time available. Flexible or remote work has helped some people, but for many jobs that still is not an option."
+    }
+  ]
+}

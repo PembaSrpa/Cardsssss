@@ -1,0 +1,66 @@
+{
+  "section": "5G",
+  "title": "Travel and Holidays",
+  "questions": [
+    {
+      "id": "5G_P1_01",
+      "part": 1,
+      "question": "Do you enjoy travelling?",
+      "answer": "Yes, quite a lot, though I do not get to do it as often as I would like because of work commitments."
+    },
+    {
+      "id": "5G_P1_02",
+      "part": 1,
+      "question": "What was the last place you visited?",
+      "answer": "I went to a coastal town a few hours from where I live, mainly just for a short weekend break to get away from the city."
+    },
+    {
+      "id": "5G_P1_03",
+      "part": 1,
+      "question": "Do you prefer travelling alone or with others?",
+      "answer": "With others, generally, mainly for the company, though I have done a couple of short solo trips and enjoyed the flexibility that comes with travelling alone."
+    },
+    {
+      "id": "5G_P1_04",
+      "part": 1,
+      "question": "What kind of holiday do you prefer, relaxing or adventurous?",
+      "answer": "A mix of both, honestly. I like having one or two active days, hiking or exploring, balanced with a day or two of just resting somewhere quiet."
+    },
+    {
+      "id": "5G_P2_01",
+      "part": 2,
+      "question": "Describe a memorable trip you have taken.",
+      "cueCardPoints": [
+        "where you went",
+        "who you went with",
+        "what you did there",
+        "and explain why it was memorable"
+      ],
+      "answer": "I want to describe a trip I took to a mountain region a few years ago with two close friends, mainly to do a multi-day trek that we had been planning for almost a year. We travelled by bus to the starting point and then walked for around five days, staying in small guesthouses along the route rather than camping. Each day involved several hours of walking through changing landscapes, forest lower down, and increasingly bare, rocky terrain as we climbed higher, with mountain views that got more dramatic the further we went. What made the trip memorable was not just the scenery, though that was genuinely impressive, but the combination of physical difficulty and shared effort with people I trusted. There were a couple of days where the walking was harder than expected, steep sections, thinner air at altitude, and we had to encourage each other to keep going rather than turning back early. By the final day, reaching a viewpoint we had been aiming for the entire trip, there was a real sense of having earned the view rather than simply arriving at it easily. It is a trip I still bring up in conversation years later, partly because of how physically demanding it was, and partly because it strengthened the friendships involved in a way that a more comfortable holiday probably would not have."
+    },
+    {
+      "id": "5G_P3_01",
+      "part": 3,
+      "question": "Why do you think people enjoy travelling to unfamiliar places?",
+      "answer": "Novelty plays a large role, since unfamiliar environments force people to pay closer attention to their surroundings than they do in daily routine. There is also the appeal of temporarily stepping outside normal responsibilities."
+    },
+    {
+      "id": "5G_P3_02",
+      "part": 3,
+      "question": "How has tourism changed in the last twenty years?",
+      "answer": "Access has expanded enormously through budget airlines and online booking, making travel far more affordable for ordinary people than it used to be. That has increased visitor numbers to many destinations, sometimes beyond what those places can comfortably handle."
+    },
+    {
+      "id": "5G_P3_03",
+      "part": 3,
+      "question": "Do you think overtourism is a serious problem?",
+      "answer": "In certain popular destinations, yes, since excessive visitor numbers strain local infrastructure and can push out residents through rising costs. Some cities have started limiting visitor numbers or taxing tourism specifically to manage this."
+    },
+    {
+      "id": "5G_P3_04",
+      "part": 3,
+      "question": "Is it better to travel to well-known destinations or lesser-known places?",
+      "answer": "Lesser-known places often offer a more genuine experience of everyday local life, without the crowds and inflated prices that follow popular destinations. That said, famous sites are usually well known precisely because they offer something worth seeing."
+    }
+  ]
+}

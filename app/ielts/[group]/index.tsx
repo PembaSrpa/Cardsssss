@@ -5,6 +5,7 @@ import { NavBar } from "../../../components/NavBar";
 import { Scales } from "../../../components/Scales";
 import { ThemeToggle } from "../../../components/ThemeToggle";
 import { IELTS_SECTION_GROUPS, useIELTSData } from "../../../hooks/useIELTSData";
+import { isIELTSSpeakingSection, useIELTSSpeakingData } from "../../../hooks/useIELTSSpeakingData";
 import { useTheme } from "../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../theme/typography";
 
@@ -28,7 +29,19 @@ export default function IELTSCategoryPickerScreen(): React.JSX.Element {
 
 function CategoryRow({ groupId, code }: { groupId: string; code: string }): React.JSX.Element {
   const { colors } = useTheme();
-  const { words, title } = useIELTSData(code);
+  const isSpeaking = isIELTSSpeakingSection(code);
+  const vocabData = useIELTSData(code);
+  const speakingData = useIELTSSpeakingData(code);
+
+  const title = isSpeaking ? speakingData.title : vocabData.title;
+  const count = isSpeaking ? speakingData.questions.length : vocabData.words.length;
+  const unit = isSpeaking
+    ? count === 1
+      ? "question"
+      : "questions"
+    : count === 1
+      ? "word"
+      : "words";
 
   return (
     <Pressable
@@ -42,7 +55,7 @@ function CategoryRow({ groupId, code }: { groupId: string; code: string }): Reac
         {title || code}
       </Text>
       <Text style={[styles.rowCount, { color: colors.textMuted }]}>
-        {words.length} {words.length === 1 ? "word" : "words"}
+        {count} {unit}
       </Text>
     </Pressable>
   );

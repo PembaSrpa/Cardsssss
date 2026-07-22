@@ -1,0 +1,66 @@
+{
+  "section": "5C",
+  "title": "Study and Work",
+  "questions": [
+    {
+      "id": "5C_P1_01",
+      "part": 1,
+      "question": "Are you currently a student or do you work?",
+      "answer": "I currently work. I finished my studies about three years ago and moved straight into a job in the same field."
+    },
+    {
+      "id": "5C_P1_02",
+      "part": 1,
+      "question": "What do you do for work?",
+      "answer": "I work as a data analyst for a small logistics company. Mostly I look at delivery patterns and try to find ways to make routes more efficient."
+    },
+    {
+      "id": "5C_P1_03",
+      "part": 1,
+      "question": "Do you enjoy your job?",
+      "answer": "For the most part, yes. The problem-solving side of it suits me, though the reporting side, writing things up for management, is less interesting."
+    },
+    {
+      "id": "5C_P1_04",
+      "part": 1,
+      "question": "What was your favourite subject at school?",
+      "answer": "Mathematics, surprisingly, since most people found it difficult. I liked that there was usually one correct answer and a clear way of reaching it."
+    },
+    {
+      "id": "5C_P2_01",
+      "part": 2,
+      "question": "Describe a job you would like to have in the future.",
+      "cueCardPoints": [
+        "what the job is",
+        "what skills it requires",
+        "why it appeals to you",
+        "and explain how you would prepare for it"
+      ],
+      "answer": "I would eventually like to move into a role focused on urban transport planning, essentially deciding how bus routes, cycling paths, and traffic systems fit together in a city. It is a step beyond what I do now, but related enough that the transition feels realistic. The role would require a mix of data analysis, which I already have from my current job, along with a much deeper understanding of city policy and how transport decisions affect different neighbourhoods differently. It appeals to me because the impact is visible and immediate - a well-planned bus route can change how thousands of people experience their daily commute, and that kind of tangible effect on ordinary people's lives is more motivating to me than producing internal reports that only a handful of managers ever read. To prepare, I have started taking an evening course in urban planning fundamentals, and I am trying to attend public city council meetings where transport proposals get discussed, partly to understand the political side of these decisions and partly to start recognising names and building connections in that field. It will likely take a few more years of studying alongside my current job before I am in a strong position to apply, but the direction feels worth the extra effort."
+    },
+    {
+      "id": "5C_P3_01",
+      "part": 3,
+      "question": "Do you think university education is still necessary for a good career?",
+      "answer": "It depends heavily on the field - for professions like medicine or law it remains essential, but for many technology and creative roles, skills and a portfolio increasingly matter more than a degree. Employers are gradually adjusting their hiring criteria to reflect that."
+    },
+    {
+      "id": "5C_P3_02",
+      "part": 3,
+      "question": "How has technology changed the way people work?",
+      "answer": "Remote and hybrid arrangements have become far more common, which was rare before certain global disruptions forced companies to adapt. Communication tools have also compressed how quickly decisions get made, for better and occasionally for worse."
+    },
+    {
+      "id": "5C_P3_03",
+      "part": 3,
+      "question": "Should companies offer more training for their employees?",
+      "answer": "Yes, especially given how quickly required skills change in most industries now. Companies that invest in training tend to retain staff longer, since employees feel their development is being taken seriously rather than assumed to be their own responsibility alone."
+    },
+    {
+      "id": "5C_P3_04",
+      "part": 3,
+      "question": "What qualities make someone successful in their career?",
+      "answer": "Consistency and adaptability probably matter more than raw talent over the long run. People who keep learning and adjust when circumstances change tend to outperform those who rely solely on an initial skill set."
+    }
+  ]
+}

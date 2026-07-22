@@ -1,0 +1,66 @@
+{
+  "section": "5J",
+  "title": "Future Plans and Goals",
+  "questions": [
+    {
+      "id": "5J_P1_01",
+      "part": 1,
+      "question": "What are your plans for the near future?",
+      "answer": "In the short term I am focused on finishing a certification course, and after that I am hoping to move into a slightly different role at work."
+    },
+    {
+      "id": "5J_P1_02",
+      "part": 1,
+      "question": "Do you set goals for yourself?",
+      "answer": "Yes, usually a handful each year, though I am honestly better at setting them than consistently following through on all of them."
+    },
+    {
+      "id": "5J_P1_03",
+      "part": 1,
+      "question": "Would you like to live in a different country in the future?",
+      "answer": "Possibly, yes. I have thought about working abroad for a couple of years at some point, mainly for the experience rather than any specific dissatisfaction with where I am now."
+    },
+    {
+      "id": "5J_P1_04",
+      "part": 1,
+      "question": "What is one thing you hope to achieve in the next five years?",
+      "answer": "Professionally, I would like to move into a more senior role, and personally I would like to finally learn a second language properly rather than the limited amount I currently know."
+    },
+    {
+      "id": "5J_P2_01",
+      "part": 2,
+      "question": "Describe a goal you hope to achieve in the future.",
+      "cueCardPoints": [
+        "what the goal is",
+        "why it is important to you",
+        "what steps you need to take",
+        "and explain how you feel about achieving it"
+      ],
+      "answer": "The goal I want to talk about is becoming proficient in a second language, something I have wanted to do properly for years without ever committing to it fully. I studied a language briefly at school, but that was a long time ago and most of what I learned has faded through lack of use. This matters to me for a few reasons, partly practical, since it would open up work opportunities abroad, and partly personal, since I have family connections to a country where that language is spoken, and I would like to be able to communicate with relatives there without relying on translation. To actually make progress, I know I need more structure than I have managed so far, a proper course rather than occasional phone app sessions, along with regular conversation practice, which is the part I tend to avoid because it feels uncomfortable being obviously unskilled in front of another person. I have already looked into evening classes near where I live and I am planning to start within the next couple of months, once my current work schedule settles down slightly. When I imagine actually achieving this, being able to hold a real conversation rather than just recognising isolated words, it feels both exciting and slightly intimidating, mainly because I know reaching that point will take sustained effort over a long period rather than a quick burst of enthusiasm that fades after a few weeks."
+    },
+    {
+      "id": "5J_P3_01",
+      "part": 3,
+      "question": "Do you think it is important for young people to have clear long-term goals?",
+      "answer": "Some direction is useful, but I would be cautious about being too rigid, since interests and circumstances change substantially over time. A general sense of direction, paired with willingness to adjust, seems more realistic than a fixed long-term plan."
+    },
+    {
+      "id": "5J_P3_02",
+      "part": 3,
+      "question": "How do people's priorities usually change as they get older?",
+      "answer": "Career advancement and material goals often matter more when people are younger, while stability, relationships, and health tend to take priority later in life. That shift usually happens gradually rather than through any single deciding moment."
+    },
+    {
+      "id": "5J_P3_03",
+      "part": 3,
+      "question": "Is it better to plan carefully for the future or take opportunities as they arise?",
+      "answer": "I think a mix works best, having a general direction while staying flexible enough to take unexpected opportunities that fit within it. Overly rigid planning can cause people to miss good options simply because they were not part of the original plan."
+    },
+    {
+      "id": "5J_P3_04",
+      "part": 3,
+      "question": "What role does luck play in whether someone achieves their goals?",
+      "answer": "It plays a bigger role than people often like to admit, timing, circumstances, and opportunities available are not entirely within anyone's control. That said, consistent effort still matters enormously in determining who is positioned to take advantage of good luck when it appears."
+    }
+  ]
+}

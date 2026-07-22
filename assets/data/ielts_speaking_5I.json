@@ -1,0 +1,66 @@
+{
+  "section": "5I",
+  "title": "Health and Fitness",
+  "questions": [
+    {
+      "id": "5I_P1_01",
+      "part": 1,
+      "question": "Do you exercise regularly?",
+      "answer": "I try to, though it is inconsistent. I usually manage three sessions a week, mostly running or basic strength training."
+    },
+    {
+      "id": "5I_P1_02",
+      "part": 1,
+      "question": "What is your favourite way to stay fit?",
+      "answer": "Running, mainly, since it does not require much equipment and I can do it almost anywhere without planning too far ahead."
+    },
+    {
+      "id": "5I_P1_03",
+      "part": 1,
+      "question": "Do you think people in your country are generally healthy?",
+      "answer": "It is mixed, honestly. Younger people in cities are increasingly health conscious, but overall diets and activity levels have declined compared to previous generations."
+    },
+    {
+      "id": "5I_P1_04",
+      "part": 1,
+      "question": "How do you relax when you feel stressed?",
+      "answer": "Usually by going for a walk or a run, since physical activity tends to clear my head far more effectively than just sitting and trying to relax."
+    },
+    {
+      "id": "5I_P2_01",
+      "part": 2,
+      "question": "Describe a time you made an effort to improve your health.",
+      "cueCardPoints": [
+        "what you did",
+        "why you decided to do it",
+        "how long it took",
+        "and explain how it affected you"
+      ],
+      "answer": "A couple of years ago I decided to start running regularly after a routine health check showed my fitness levels were lower than I expected for my age. Before that I had been almost entirely sedentary outside of work, sitting at a desk most of the day and rarely doing any structured exercise. I started with very short distances, barely more than a kilometre at first, since even that left me noticeably out of breath, and gradually increased the distance over several months rather than pushing too hard early on and risking an injury or simply giving up out of frustration. It took roughly six months before running felt genuinely comfortable rather than something I had to force myself into, and by that point I was covering distances I would not have thought possible when I started. Beyond the physical changes, better sleep, more energy during the day, the habit affected my mindset in ways I had not anticipated. Committing to something consistently, even when I did not feel like it on a given day, built a kind of discipline that carried over into other areas, work included. Looking back, the hardest part was not the physical effort itself but getting through the first few weeks before the routine became automatic rather than something I had to consciously decide to do each time."
+    },
+    {
+      "id": "5I_P3_01",
+      "part": 3,
+      "question": "Why do you think obesity rates are rising in many countries?",
+      "answer": "A combination of more sedentary jobs, increased availability of cheap processed food, and reduced physical activity in daily routines compared to previous generations. Urban design also plays a role, since many cities are not particularly walkable."
+    },
+    {
+      "id": "5I_P3_02",
+      "part": 3,
+      "question": "Should governments intervene to encourage healthier lifestyles?",
+      "answer": "To some extent, yes, particularly through taxing unhealthy products and investing in public spaces that make exercise more accessible. Complete reliance on individual willpower tends to underperform compared to policies that shape the easier default option."
+    },
+    {
+      "id": "5I_P3_03",
+      "part": 3,
+      "question": "How has the pandemic changed people's attitudes toward health?",
+      "answer": "It heightened general awareness of health risks and led many people to take exercise and immunity more seriously than before. Whether that increased awareness has translated into lasting habit change is less certain, though, since attention on the topic has since faded somewhat."
+    },
+    {
+      "id": "5I_P3_04",
+      "part": 3,
+      "question": "Is mental health as important as physical health?",
+      "answer": "I would say it is equally important, though it has historically received far less attention and funding. The two are also closely connected, since poor mental health often affects physical habits, and vice versa."
+    }
+  ]
+}

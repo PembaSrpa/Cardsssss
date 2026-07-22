@@ -1,0 +1,66 @@
+{
+  "section": "5E",
+  "title": "Technology and the Internet",
+  "questions": [
+    {
+      "id": "5E_P1_01",
+      "part": 1,
+      "question": "How often do you use the internet?",
+      "answer": "Constantly, honestly. Between work and personal use, I am online for most of the day in one way or another."
+    },
+    {
+      "id": "5E_P1_02",
+      "part": 1,
+      "question": "What do you mainly use the internet for?",
+      "answer": "Work communication mostly, plus reading news and watching videos in the evening to unwind."
+    },
+    {
+      "id": "5E_P1_03",
+      "part": 1,
+      "question": "Do you think you spend too much time online?",
+      "answer": "Probably, yes. I have tried cutting back a few times, but old habits creep back in fairly quickly once I stop paying attention."
+    },
+    {
+      "id": "5E_P1_04",
+      "part": 1,
+      "question": "What is one piece of technology you could not live without?",
+      "answer": "My phone, without much doubt, since it has replaced so many separate devices I used to rely on - a camera, a map, an alarm clock, all in one thing."
+    },
+    {
+      "id": "5E_P2_01",
+      "part": 2,
+      "question": "Describe a piece of technology that has changed your daily life.",
+      "cueCardPoints": [
+        "what it is",
+        "how you use it",
+        "when you started using it",
+        "and explain how it has changed your routine"
+      ],
+      "answer": "I want to talk about my smartphone, since it is difficult to think of a single piece of technology that has reshaped my day more thoroughly. I got my first proper smartphone around ten years ago, mostly to replace an old phone that only handled calls and text messages, and at the time I had no idea how central it would eventually become. Now I use it for almost everything, checking work emails first thing in the morning, navigating unfamiliar streets, paying for groceries, and even monitoring my sleep through a small tracking app. Before I had one, my mornings involved separately checking a paper map or asking someone for directions, carrying cash for small purchases, and using an actual alarm clock beside my bed. All of those small, separate routines have merged into a single device I keep within arm's reach at almost all times. The change has clearly made daily logistics easier, but it has also made it harder to switch off, since work messages arrive on the same screen I use for everything else. On balance I think the convenience outweighs the downside, but I am increasingly aware that the device that organises my life is also the main reason I sometimes struggle to properly rest from it."
+    },
+    {
+      "id": "5E_P3_01",
+      "part": 3,
+      "question": "How has the internet changed the way people communicate?",
+      "answer": "It has made communication instant and constant, which has benefits for staying in touch across distances but has also reduced the depth of some conversations, since messages tend to be short and frequent rather than long and considered."
+    },
+    {
+      "id": "5E_P3_02",
+      "part": 3,
+      "question": "Do you think social media has a positive or negative effect on society?",
+      "answer": "I would say it is genuinely mixed - it connects people and spreads useful information quickly, but it also amplifies misinformation and can affect mental health, particularly for younger users who compare themselves constantly to curated online lives."
+    },
+    {
+      "id": "5E_P3_03",
+      "part": 3,
+      "question": "Should there be stricter regulations on technology companies?",
+      "answer": "In certain areas, yes, particularly around data privacy and how algorithms target younger users. Complete deregulation has clearly allowed some harmful practices to continue simply because no one was required to address them."
+    },
+    {
+      "id": "5E_P3_04",
+      "part": 3,
+      "question": "How might artificial intelligence change everyday life in the next decade?",
+      "answer": "I expect it will take over more routine tasks, both at work and at home, freeing up time but also raising real questions about which jobs remain necessary. How well society manages that transition will matter more than the technology itself."
+    }
+  ]
+}

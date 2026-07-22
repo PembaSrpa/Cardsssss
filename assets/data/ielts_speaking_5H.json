@@ -1,0 +1,66 @@
+{
+  "section": "5H",
+  "title": "Food and Cooking",
+  "questions": [
+    {
+      "id": "5H_P1_01",
+      "part": 1,
+      "question": "Do you enjoy cooking?",
+      "answer": "I do, more so recently than I used to. It has become one of the ways I unwind after a long day."
+    },
+    {
+      "id": "5H_P1_02",
+      "part": 1,
+      "question": "What is your favourite type of food?",
+      "answer": "I have a strong preference for spicy food generally, though if I had to pick one cuisine I would probably choose Thai food."
+    },
+    {
+      "id": "5H_P1_03",
+      "part": 1,
+      "question": "Do you prefer eating at home or eating out?",
+      "answer": "At home, usually, mainly for cost reasons, though I do enjoy eating out occasionally for the variety and not having to clean up afterward."
+    },
+    {
+      "id": "5H_P1_04",
+      "part": 1,
+      "question": "Has your diet changed much in recent years?",
+      "answer": "Somewhat, yes. I eat less processed food than I used to and try to cook more meals from raw ingredients rather than relying on ready meals."
+    },
+    {
+      "id": "5H_P2_01",
+      "part": 2,
+      "question": "Describe a meal you really enjoyed.",
+      "cueCardPoints": [
+        "what the meal was",
+        "where you had it",
+        "who you were with",
+        "and explain why you enjoyed it so much"
+      ],
+      "answer": "The meal I want to describe was a home-cooked dinner my grandmother made the last time I visited her, a fairly simple dish of rice, lentils, and a vegetable curry that she has been making for decades. There was nothing unusual about the ingredients, all fairly ordinary things you could find in any local market, but the way she prepared it, slow-cooked over a longer time than most people would bother with now, gave it a depth of flavour that I have never quite managed to replicate myself. I ate it sitting in her kitchen, just the two of us, since the rest of the family had already left after an earlier gathering that day. We talked while I ate, mostly about small things, her garden, some neighbours she had not seen in a while, nothing especially significant on its own. What made the meal memorable was really the combination of the food itself and that unhurried conversation around it. I have eaten more elaborate meals at restaurants since then, dishes that were technically more impressive, but none of them stayed with me the way that simple dinner did. I think it comes down to the fact that food eaten slowly, with someone you care about, in a place with no particular pressure to be anywhere else, tends to leave a stronger impression than the meal itself would suggest on paper."
+    },
+    {
+      "id": "5H_P3_01",
+      "part": 3,
+      "question": "How have eating habits changed in your country over the past few decades?",
+      "answer": "Processed and convenience foods have become far more common, largely due to busier lifestyles leaving less time for cooking from scratch. At the same time, there has been a countertrend of growing interest in healthier, more traditional diets among some groups."
+    },
+    {
+      "id": "5H_P3_02",
+      "part": 3,
+      "question": "Do you think fast food is a serious health problem?",
+      "answer": "It certainly contributes to rising rates of diet-related illness, particularly when it replaces home-cooked meals as a daily habit rather than an occasional convenience. The affordability and speed of fast food make it difficult to avoid for many people, though."
+    },
+    {
+      "id": "5H_P3_03",
+      "part": 3,
+      "question": "Should schools teach children how to cook?",
+      "answer": "I think that would be genuinely useful, since basic cooking skills affect long-term health and reduce reliance on processed food. Many people reach adulthood without ever learning to prepare a simple, balanced meal."
+    },
+    {
+      "id": "5H_P3_04",
+      "part": 3,
+      "question": "How important is it to preserve traditional cuisine as food culture becomes more global?",
+      "answer": "Fairly important, since food often carries cultural history that gets lost once it is replaced entirely by more standardised global options. That said, cuisines have always evolved through outside influence, so some blending is probably inevitable and not necessarily negative."
+    }
+  ]
+}

@@ -84,6 +84,12 @@ export const IELTS_SECTION_GROUPS: IELTSSectionGroup[] = [
     subtitle: "",
     categories: ["4A", "4B", "4C", "4D", "4E", "4F"],
   },
+  {
+    id: "5",
+    title: "Speaking Topics",
+    subtitle: "Part 1, 2 & 3 Practice Questions",
+    categories: ["5A", "5B", "5C", "5D", "5E", "5F", "5G", "5H", "5I", "5J"],
+  },
 ];
 
 export function getSectionGroupId(section: string): string {

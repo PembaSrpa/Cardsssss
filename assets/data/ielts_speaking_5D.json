@@ -1,0 +1,66 @@
+{
+  "section": "5D",
+  "title": "Hobbies and Free Time",
+  "questions": [
+    {
+      "id": "5D_P1_01",
+      "part": 1,
+      "question": "What do you usually do in your free time?",
+      "answer": "I read a fair amount, and I have recently gotten into cooking, trying recipes I would never have attempted a year or two ago."
+    },
+    {
+      "id": "5D_P1_02",
+      "part": 1,
+      "question": "Do you prefer spending free time alone or with others?",
+      "answer": "It really depends on the day. After a busy week I lean toward being alone, but on weekends I usually want to see friends."
+    },
+    {
+      "id": "5D_P1_03",
+      "part": 1,
+      "question": "Have your hobbies changed since you were younger?",
+      "answer": "Definitely. As a child I spent most of my free time outdoors playing sports, whereas now my hobbies are quieter, mostly reading and cooking."
+    },
+    {
+      "id": "5D_P1_04",
+      "part": 1,
+      "question": "Is it important to have a hobby?",
+      "answer": "I think so, mainly because it gives you something separate from work to focus on, which helps prevent burnout over time."
+    },
+    {
+      "id": "5D_P2_01",
+      "part": 2,
+      "question": "Describe a hobby you enjoy.",
+      "cueCardPoints": [
+        "what the hobby is",
+        "how you started doing it",
+        "how often you do it",
+        "and explain why you find it enjoyable"
+      ],
+      "answer": "The hobby I want to describe is cooking, which is something I only really started taking seriously in the last couple of years. Before that I could barely manage the basics, but a friend gave me a cookbook as a gift, almost as a joke, and I decided to actually try a few of the recipes out of curiosity. I ended up enjoying the process far more than I expected. Now I cook properly, not just reheating something quick, at least four or five times a week, usually in the evenings after work, and I try a new recipe roughly once a fortnight so I do not fall back into cooking the same three dishes on repeat. What I enjoy about it is the combination of following a structured process and still having room for small adjustments, adding more chilli, swapping an ingredient I do not have on hand, and seeing how that changes the result. It is also one of the few activities where the outcome is immediate, you finish and there is a finished dish in front of you, which feels satisfying in a way that a lot of my regular work does not. There is also a practical side to it, since I save money by not ordering food as often, but honestly the main appeal by now is just the process itself rather than the result."
+    },
+    {
+      "id": "5D_P3_01",
+      "part": 3,
+      "question": "Do people have less free time now than in the past?",
+      "answer": "In some ways yes, since work often extends beyond fixed hours through phones and email, blurring the line between work and rest. On the other hand, many repetitive daily tasks have become faster, which frees up time elsewhere."
+    },
+    {
+      "id": "5D_P3_02",
+      "part": 3,
+      "question": "Are hobbies more important for mental health than people realise?",
+      "answer": "I would say so, since having an activity unrelated to work or responsibilities gives the mind a genuine break rather than just a change of task. Many people underestimate this until they stop doing hobbies and notice the difference in their mood."
+    },
+    {
+      "id": "5D_P3_03",
+      "part": 3,
+      "question": "Do you think online entertainment has replaced traditional hobbies?",
+      "answer": "To some extent, yes, particularly for younger people who have grown up with constant access to streaming and games. I do not think it has fully replaced traditional hobbies, but it has certainly reduced the time available for them."
+    },
+    {
+      "id": "5D_P3_04",
+      "part": 3,
+      "question": "Should schools teach children how to spend their free time productively?",
+      "answer": "That could be useful, since not everyone naturally develops a range of interests without some encouragement. Exposure to different activities at a young age, even briefly, often shapes what people continue doing as adults."
+    }
+  ]
+}

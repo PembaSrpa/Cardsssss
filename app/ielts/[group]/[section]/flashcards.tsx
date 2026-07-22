@@ -11,11 +11,13 @@ import Animated, {
 } from "react-native-reanimated";
 import { AppButton } from "../../../../components/AppButton";
 import { FlashCard } from "../../../../components/FlashCard";
+import { SpeakingCard } from "../../../../components/SpeakingCard";
 import { NavBar } from "../../../../components/NavBar";
 import { Scales } from "../../../../components/Scales";
 import { StatChip } from "../../../../components/StatChip";
 import { ThemeToggle } from "../../../../components/ThemeToggle";
 import { useIELTSData } from "../../../../hooks/useIELTSData";
+import { isIELTSSpeakingSection, useIELTSSpeakingData } from "../../../../hooks/useIELTSSpeakingData";
 import { UI_STORAGE_KEYS, ieltsListIndexKey } from "../../../../store/uiStore";
 import { useTheme } from "../../../../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../../../../theme/typography";
@@ -31,16 +33,22 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
   const section = params.section ?? "";
   const startParam = params.start ? parseInt(params.start, 10) : 0;
 
-  const { words, title, isLoading } = useIELTSData(section);
+  const isSpeaking = isIELTSSpeakingSection(section);
+  const vocabData = useIELTSData(section);
+  const speakingData = useIELTSSpeakingData(section);
+
+  const title = isSpeaking ? speakingData.title : vocabData.title;
+  const isLoading = isSpeaking ? speakingData.isLoading : vocabData.isLoading;
+  const itemCount = isSpeaking ? speakingData.questions.length : vocabData.words.length;
 
   const [index, setIndex] = useState<number>(startParam);
   const [flipped, setFlipped] = useState<boolean>(false);
 
   useEffect(() => {
-    if (words.length > 0 && index > words.length) {
-      setIndex(words.length);
+    if (itemCount > 0 && index > itemCount) {
+      setIndex(itemCount);
     }
-  }, [words.length, index]);
+  }, [itemCount, index]);
 
   useEffect(() => {
     AsyncStorage.setItem(ieltsListIndexKey(section), String(index));
@@ -48,12 +56,13 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
     AsyncStorage.setItem(UI_STORAGE_KEYS.LAST_IELTS_INDEX, String(index));
   }, [section, index]);
 
-  const isFinished = words.length > 0 && index >= words.length;
-  const currentWord = words[index];
+  const isFinished = itemCount > 0 && index >= itemCount;
+  const currentWord = vocabData.words[index];
+  const currentQuestion = speakingData.questions[index];
 
   const goNext = (): void => {
     setFlipped(false);
-    setIndex((prev) => Math.min(prev + 1, words.length));
+    setIndex((prev) => Math.min(prev + 1, itemCount));
   };
 
   const goPrev = (): void => {
@@ -105,7 +114,7 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
       <View style={styles.inner}>
         <NavBar title={title || section} right={<ThemeToggle />} />
 
-        {words.length === 0 ? (
+        {itemCount === 0 ? (
           <Text style={[styles.empty, { color: colors.textMuted }]}>
             no cards found
           </Text>
@@ -115,7 +124,7 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
               Section complete
             </Text>
             <Text style={[styles.finishedScore, { color: colors.textMuted }]}>
-              {words.length} / {words.length} reviewed
+              {itemCount} / {itemCount} reviewed
             </Text>
             <View style={styles.finishedActions}>
               <Pressable
@@ -147,16 +156,24 @@ export default function IELTSFlashcardsScreen(): React.JSX.Element {
         ) : (
           <>
             <View style={styles.statsRow}>
-              <StatChip label="CARD" value={`${index + 1}/${words.length}`} />
+              <StatChip label="CARD" value={`${index + 1}/${itemCount}`} />
             </View>
 
             <GestureDetector gesture={swipeGesture}>
               <Animated.View style={[styles.cardArea, swipeCardStyle]}>
-                <FlashCard
-                  word={currentWord}
-                  flipped={flipped}
-                  onPress={() => setFlipped((f) => !f)}
-                />
+                {isSpeaking ? (
+                  <SpeakingCard
+                    item={currentQuestion}
+                    flipped={flipped}
+                    onPress={() => setFlipped((f) => !f)}
+                  />
+                ) : (
+                  <FlashCard
+                    word={currentWord}
+                    flipped={flipped}
+                    onPress={() => setFlipped((f) => !f)}
+                  />
+                )}
               </Animated.View>
             </GestureDetector>
 
