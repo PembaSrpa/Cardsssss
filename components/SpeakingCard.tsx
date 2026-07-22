@@ -59,7 +59,11 @@ export function SpeakingCard({ item, flipped, onPress }: SpeakingCardProps): Rea
         ]}
       >
         <StatusBadge label={partLabel(item.part)} />
-        <ScrollView contentContainerStyle={styles.scrollContent} showsVerticalScrollIndicator={false}>
+        <ScrollView
+          style={styles.scroll}
+          contentContainerStyle={styles.scrollContent}
+          showsVerticalScrollIndicator={true}
+        >
           <Text style={[styles.question, { color: colors.text }]}>{item.question}</Text>
           {!!item.cueCardPoints && item.cueCardPoints.length > 0 && (
             <View style={styles.cuePoints}>
@@ -84,7 +88,11 @@ export function SpeakingCard({ item, flipped, onPress }: SpeakingCardProps): Rea
         ]}
       >
         <StatusBadge label="EXAMPLE ANSWER" />
-        <ScrollView contentContainerStyle={styles.scrollContent} showsVerticalScrollIndicator={false}>
+        <ScrollView
+          style={styles.scroll}
+          contentContainerStyle={styles.scrollContent}
+          showsVerticalScrollIndicator={true}
+        >
           <Text style={[styles.answer, { color: colors.text }]}>{item.answer}</Text>
         </ScrollView>
       </Animated.View>
@@ -113,11 +121,13 @@ const styles = StyleSheet.create({
     right: 0,
     bottom: 0,
   },
+  scroll: {
+    flex: 1,
+  },
   scrollContent: {
     flexGrow: 1,
-    justifyContent: "flex-start",
-    paddingTop: 12,
-    paddingBottom: 24,
+    justifyContent: "center",
+    paddingVertical: 12,
   },
   question: {
     fontFamily: FONTS.bold,
