@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { View, Text, StyleSheet, Pressable } from "react-native";
+import { View, Text, StyleSheet, Pressable, ScrollView } from "react-native";
 import Animated, {
   useSharedValue,
   useAnimatedStyle,
@@ -64,21 +64,27 @@ export function FlashCard({ word, flipped, onPress }: FlashCardProps): React.JSX
         ]}
       >
         <StatusBadge label={word.type} />
-        <Text style={[styles.meaning, { color: colors.text }]}>{word.meaning}</Text>
-        <Text style={[styles.example, { color: colors.textMuted }]}>{word.example}</Text>
+        <ScrollView
+          style={styles.scroll}
+          contentContainerStyle={styles.scrollContent}
+          showsVerticalScrollIndicator={true}
+        >
+          <Text style={[styles.meaning, { color: colors.text }]}>{word.meaning}</Text>
+          <Text style={[styles.example, { color: colors.textMuted }]}>{word.example}</Text>
 
-        {word.synonyms.length > 0 && (
-          <View style={styles.row}>
-            <Text style={[styles.rowLabel, { color: colors.textMuted }]}>SYN</Text>
-            <Text style={[styles.rowValue, { color: colors.text }]}>{word.synonyms.join(", ")}</Text>
-          </View>
-        )}
-        {word.antonyms.length > 0 && (
-          <View style={styles.row}>
-            <Text style={[styles.rowLabel, { color: colors.textMuted }]}>ANT</Text>
-            <Text style={[styles.rowValue, { color: colors.text }]}>{word.antonyms.join(", ")}</Text>
-          </View>
-        )}
+          {word.synonyms.length > 0 && (
+            <View style={styles.row}>
+              <Text style={[styles.rowLabel, { color: colors.textMuted }]}>SYN</Text>
+              <Text style={[styles.rowValue, { color: colors.text }]}>{word.synonyms.join(", ")}</Text>
+            </View>
+          )}
+          {word.antonyms.length > 0 && (
+            <View style={styles.row}>
+              <Text style={[styles.rowLabel, { color: colors.textMuted }]}>ANT</Text>
+              <Text style={[styles.rowValue, { color: colors.text }]}>{word.antonyms.join(", ")}</Text>
+            </View>
+          )}
+        </ScrollView>
       </Animated.View>
     </Pressable>
   );
@@ -98,6 +104,7 @@ const styles = StyleSheet.create({
     padding: 24,
     backfaceVisibility: "hidden",
     justifyContent: "center",
+    overflow: "hidden",
   },
   faceAbsolute: {
     position: "absolute",
@@ -105,6 +112,14 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     bottom: 0,
+  },
+  scroll: {
+    flex: 1,
+  },
+  scrollContent: {
+    flexGrow: 1,
+    justifyContent: "center",
+    paddingVertical: 4,
   },
   word: {
     fontFamily: FONTS.bold,
