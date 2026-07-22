@@ -1,0 +1,66 @@
+{
+  "section": "5AC",
+  "title": "Cars and Driving",
+  "questions": [
+    {
+      "id": "5AC_P1_01",
+      "part": 1,
+      "question": "Can you drive?",
+      "answer": "Yes, I learned in my early twenties, a bit later than most of my friends, mostly because I didn't have regular access to a car before then."
+    },
+    {
+      "id": "5AC_P1_02",
+      "part": 1,
+      "question": "Do you own a car?",
+      "answer": "No, actually. I rely on a motorbike and the occasional taxi, since a car isn't really practical for someone living alone in the city."
+    },
+    {
+      "id": "5AC_P1_03",
+      "part": 1,
+      "question": "Do you enjoy driving?",
+      "answer": "To an extent, yes, on quieter roads outside the city. In heavy traffic I find it fairly stressful rather than enjoyable."
+    },
+    {
+      "id": "5AC_P1_04",
+      "part": 1,
+      "question": "What's traffic like where you live?",
+      "answer": "Pretty heavy most of the day, honestly, particularly during the morning and evening rush when everyone seems to be on the road at once."
+    },
+    {
+      "id": "5AC_P2_01",
+      "part": 2,
+      "question": "Describe a memorable car journey you have had.",
+      "cueCardPoints": [
+        "where you were going",
+        "who you were travelling with",
+        "what happened during the journey",
+        "and explain why it was memorable"
+      ],
+      "answer": "I want to describe a road trip a group of four of us took along the coast a couple of summers ago, driving a rented car none of us were particularly confident handling on unfamiliar roads. We'd planned it fairly loosely, with a rough route but no fixed schedule, which turned out to be both the best and worst decision of the trip. About halfway through the second day we took a turn that our map insisted was a shortcut and ended up on a narrow, unpaved road along a cliff edge that none of us felt comfortable driving on, especially as the light started fading. We eventually had to reverse most of the way back, which took nearly an hour on a road barely wide enough for the car, with one of us walking ahead to guide the driver. At the time it was genuinely tense, and there was a fair bit of arguing about whose idea the shortcut had been in the first place. Looking back, though, it's become the story we tell most often from that trip, far more than any of the actual sights we'd planned to see. It taught me to trust a proper map over a shortcut suggested by an app, especially somewhere none of us actually knew."
+    },
+    {
+      "id": "5AC_P3_01",
+      "part": 3,
+      "question": "What are the main problems caused by increasing numbers of cars in cities?",
+      "answer": "Congestion and pollution, mostly, along with the amount of urban space that ends up dedicated to roads and parking rather than housing or green space, which affects how liveable a city ultimately feels. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5AC_P3_02",
+      "part": 3,
+      "question": "Do you think electric cars will fully replace petrol cars in the future?",
+      "answer": "Probably, eventually, though I'd expect the transition to take longer in poorer countries where the charging infrastructure and upfront cost remain significant barriers. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5AC_P3_03",
+      "part": 3,
+      "question": "Should there be stricter driving tests to reduce road accidents?",
+      "answer": "I would say yes, particularly around hazard awareness and driving in adverse weather, since a lot of accidents seem to stem from situations standard tests don't really prepare drivers for. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5AC_P3_04",
+      "part": 3,
+      "question": "How might self-driving cars change cities in the future?",
+      "answer": "They could reduce accidents significantly, assuming the technology matures properly, and might also reduce the need for private car ownership if shared autonomous vehicles become genuinely convenient and affordable. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

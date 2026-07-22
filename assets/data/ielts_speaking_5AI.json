@@ -1,0 +1,66 @@
+{
+  "section": "5AI",
+  "title": "History",
+  "questions": [
+    {
+      "id": "5AI_P1_01",
+      "part": 1,
+      "question": "Are you interested in history?",
+      "answer": "Fairly, yes, though more the social side of it, how ordinary people lived, rather than lists of kings and battles."
+    },
+    {
+      "id": "5AI_P1_02",
+      "part": 1,
+      "question": "Did you enjoy studying history at school?",
+      "answer": "Not always, if I'm honest. A lot of it was rote memorisation, and it only really clicked for me later, outside the classroom."
+    },
+    {
+      "id": "5AI_P1_03",
+      "part": 1,
+      "question": "What historical period interests you the most?",
+      "answer": "The early twentieth century, mostly because of how quickly the world seemed to change during that time, technologically and politically."
+    },
+    {
+      "id": "5AI_P1_04",
+      "part": 1,
+      "question": "Do you think it's important to learn about history?",
+      "answer": "Definitely, yes. I think a lot of present-day problems make more sense once you understand the history that led up to them."
+    },
+    {
+      "id": "5AI_P2_01",
+      "part": 2,
+      "question": "Describe a historical place you have visited.",
+      "cueCardPoints": [
+        "where it is",
+        "what its history is",
+        "when you visited it",
+        "and explain what you learned from visiting it"
+      ],
+      "answer": "I want to describe an old palace complex in the middle of the capital that I visited properly for the first time about three years ago, despite having lived nearby for most of my life and walked past it countless times without going in. It was built a couple of centuries ago as the residence of the ruling family at the time, and it survived a major earthquake that flattened large parts of the surrounding city, which is part of what makes it significant today. I went with a visiting friend who insisted on seeing it properly, which is honestly what finally got me through the entrance after years of taking it for granted. Inside, a lot of the original woodwork was still intact, carved in intricate patterns that a guide explained had taken specific craftsmen years to complete, using techniques that apparently aren't practised the same way anymore. What I learned wasn't really factual, in the sense of dates and names, but more a sense of how much skill and patience went into something I'd always dismissed as just an old building in the background of my city. It made me a bit more curious about other historical sites nearby that I'd similarly overlooked simply because they'd always been there."
+    },
+    {
+      "id": "5AI_P3_01",
+      "part": 3,
+      "question": "Why do you think some countries focus more on preserving their history than others?",
+      "answer": "It often comes down to resources and priorities - countries dealing with more immediate economic pressures may not be able to afford the same level of preservation that wealthier nations can invest in, regardless of how much they value their history. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5AI_P3_02",
+      "part": 3,
+      "question": "Do you think studying history helps people avoid repeating past mistakes?",
+      "answer": "To some extent, yes, though I'd say it depends heavily on whether that history is taught honestly. A sanitised version of history tends to teach the wrong lessons entirely. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5AI_P3_03",
+      "part": 3,
+      "question": "Should historical monuments associated with painful events be preserved or removed?",
+      "answer": "I'd lean toward preservation with proper context, since removing evidence of difficult history risks letting it be forgotten or repeated. That said, I understand why some communities feel differently about monuments tied to genuine trauma. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5AI_P3_04",
+      "part": 3,
+      "question": "How does understanding history help people understand the present?",
+      "answer": "Quite significantly, in my view, since current political and social tensions almost always have roots that stretch back further than they initially appear, and understanding that context tends to make present events feel less random. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

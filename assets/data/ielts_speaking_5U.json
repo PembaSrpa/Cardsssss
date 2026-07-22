@@ -1,0 +1,66 @@
+{
+  "section": "5U",
+  "title": "Social Media",
+  "questions": [
+    {
+      "id": "5U_P1_01",
+      "part": 1,
+      "question": "Do you use social media often?",
+      "answer": "Fairly often, yes, mostly just scrolling in short bursts rather than posting much myself. I'd say I'm more of an observer than a participant."
+    },
+    {
+      "id": "5U_P1_02",
+      "part": 1,
+      "question": "Which social media platform do you use the most?",
+      "answer": "Probably one of the messaging-based ones, since I use it more for keeping in touch with people than for browsing content."
+    },
+    {
+      "id": "5U_P1_03",
+      "part": 1,
+      "question": "How much time do you spend on social media each day?",
+      "answer": "Probably more than I'd like to admit, if I checked the screen time report honestly. An hour or two, spread across the day in small chunks."
+    },
+    {
+      "id": "5U_P1_04",
+      "part": 1,
+      "question": "Do you think social media is a good way to stay in touch with people?",
+      "answer": "To an extent, yes, especially with people who live far away. It's not a substitute for real conversation, but it keeps the connection from disappearing entirely."
+    },
+    {
+      "id": "5U_P2_01",
+      "part": 2,
+      "question": "Describe a social media platform you use regularly.",
+      "cueCardPoints": [
+        "what the platform is",
+        "how long you have used it",
+        "what you use it for",
+        "and explain how it has affected your life"
+      ],
+      "answer": "I want to describe an app I've used for close to eight years now, one built mainly around short posts and photo updates from friends and family rather than public content from strangers. I started using it in my last year of school, mostly because everyone else was already on it, and it's stayed part of my daily routine in one form or another ever since. These days I use it less for posting and more for keeping track of what people I don't see regularly are up to, cousins abroad, old classmates, that sort of loose connection that would otherwise probably fade completely. It's affected my life in a couple of ways I don't always notice until I step back and think about it. On the positive side, it genuinely has kept a few friendships alive that distance would have ended years ago. On the less positive side, I do think it's shortened my attention span somewhat, since I'll open it during small gaps in my day almost automatically, without really deciding to. I've tried a few times to cut down my usage, with mixed success, but I don't think I'd delete it entirely, since the connections it maintains still feel worth the trade-off."
+    },
+    {
+      "id": "5U_P3_01",
+      "part": 3,
+      "question": "How has social media changed the way people communicate?",
+      "answer": "It's made communication faster and more constant, but I'd argue also shallower in a lot of cases, since brief reactions have partly replaced longer, more considered conversation between people. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5U_P3_02",
+      "part": 3,
+      "question": "Do you think social media has a negative effect on young people's mental health?",
+      "answer": "There's a reasonable amount of evidence suggesting it can, particularly around comparison and self-image, though I'd hesitate to say it's the sole cause of any decline. It's probably one factor among several. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5U_P3_03",
+      "part": 3,
+      "question": "Should there be age restrictions on social media use?",
+      "answer": "I would say yes, at least for the platforms with public content and algorithmic feeds, since younger users are more vulnerable to the pressures those features tend to create. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5U_P3_04",
+      "part": 3,
+      "question": "How do you think social media will change in the next decade?",
+      "answer": "I'd expect a stronger shift toward private, smaller group spaces rather than large public feeds, partly as a reaction against the exposure and comparison that public platforms tend to encourage. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

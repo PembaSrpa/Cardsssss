@@ -1,0 +1,66 @@
+{
+  "section": "5L",
+  "title": "Shopping",
+  "questions": [
+    {
+      "id": "5L_P1_01",
+      "part": 1,
+      "question": "Do you enjoy shopping?",
+      "answer": "Not particularly, if I'm honest. I find it a bit tiring, so I usually go in with a list and try to get out as quickly as I can."
+    },
+    {
+      "id": "5L_P1_02",
+      "part": 1,
+      "question": "What kinds of things do you usually buy?",
+      "answer": "Mostly practical things - groceries, household basics, and occasionally clothes when something wears out. I don't really shop for fun."
+    },
+    {
+      "id": "5L_P1_03",
+      "part": 1,
+      "question": "Do you prefer shopping online or in physical stores?",
+      "answer": "Online, for almost everything except food. It saves time, and I can compare prices across a few sites before deciding."
+    },
+    {
+      "id": "5L_P1_04",
+      "part": 1,
+      "question": "Who do you usually go shopping with?",
+      "answer": "Usually alone, actually. I find it quicker to just go by myself rather than coordinating with someone else's schedule."
+    },
+    {
+      "id": "5L_P2_01",
+      "part": 2,
+      "question": "Describe a shop you like to visit.",
+      "cueCardPoints": [
+        "where it is",
+        "what it sells",
+        "why you like going there",
+        "and explain how you feel when you visit it"
+      ],
+      "answer": "There's a small bookshop close to where I used to live, tucked into a side street a couple of blocks from the main road, that I still go back to whenever I'm in that part of town. It's not a big place, maybe the size of a living room, but the shelves go right up to the ceiling, packed mostly with second-hand books, some fiction, some old travel guides, a whole corner of poetry that nobody seems to touch. What I like about it is that there's no real system to how things are arranged, so you end up browsing rather than searching for something specific, and you almost always come across a book you weren't expecting to want. The owner, an older man who's run the place for decades, remembers what I've bought before and sometimes sets something aside if he thinks I'd like it. Whenever I visit, I feel a kind of calm that I don't get in bigger shops - there's no music playing, no rush, just the smell of old paper and someone quietly reading in the corner chair. It's become less about buying books and more about having somewhere quiet to spend twenty minutes."
+    },
+    {
+      "id": "5L_P3_01",
+      "part": 3,
+      "question": "Why do some people enjoy shopping while others find it stressful?",
+      "answer": "I think it depends on what shopping represents to them - for some it's a form of relaxation or even a social activity, while for others, especially in crowded places, it just feels like a chore with too many decisions attached. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5L_P3_02",
+      "part": 3,
+      "question": "How has online shopping changed the way people buy things?",
+      "answer": "It's made buying almost anything instant and comparison-based, which is convenient, but it's also removed a lot of the physical browsing experience that used to shape what people bought in the first place. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5L_P3_03",
+      "part": 3,
+      "question": "Do you think small local shops can survive against large chains and online retailers?",
+      "answer": "Some can, but usually only if they offer something those bigger competitors can't easily replicate, like specialist knowledge or a personal relationship with customers. Pure price competition against big chains is a losing battle for most small shops. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5L_P3_04",
+      "part": 3,
+      "question": "Should governments regulate advertising aimed at encouraging people to spend more?",
+      "answer": "To some extent, particularly around debt-related products or advertising aimed at children, since those groups are more vulnerable to pressure. Beyond that, I think people should mostly be trusted to make their own spending decisions. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

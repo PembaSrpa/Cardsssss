@@ -1,0 +1,66 @@
+{
+  "section": "5V",
+  "title": "Childhood Memories",
+  "questions": [
+    {
+      "id": "5V_P1_01",
+      "part": 1,
+      "question": "What's one of your earliest childhood memories?",
+      "answer": "Being carried on my father's shoulders during a festival procession, mostly because I was too small to see over the crowd otherwise."
+    },
+    {
+      "id": "5V_P1_02",
+      "part": 1,
+      "question": "Did you grow up in a city or a village?",
+      "answer": "A small town, somewhere between the two really - quiet enough to know most neighbours, but with enough shops to feel a bit like a city."
+    },
+    {
+      "id": "5V_P1_03",
+      "part": 1,
+      "question": "What games did you play as a child?",
+      "answer": "Mostly outdoor games with the neighbourhood kids - a local version of tag, and a marble game that seems to have completely disappeared now."
+    },
+    {
+      "id": "5V_P1_04",
+      "part": 1,
+      "question": "Who did you spend most of your childhood with?",
+      "answer": "My cousins, mainly, since we all lived close together and our parents worked similar hours, so we were often left to entertain ourselves after school."
+    },
+    {
+      "id": "5V_P2_01",
+      "part": 2,
+      "question": "Describe a happy memory from your childhood.",
+      "cueCardPoints": [
+        "what the memory is",
+        "who was involved",
+        "where it happened",
+        "and explain why it makes you happy"
+      ],
+      "answer": "I want to describe a summer I spent at my grandparents' house in the hills when I was around nine years old, a stay that ended up lasting almost the entire school holiday because my parents were dealing with a house move at the time. My grandfather kept a small vegetable patch behind the house, and he let me have my own tiny corner of it to plant whatever I wanted, which turned out to be a slightly chaotic mix of chillies and marigolds that had no business growing together. Every morning I'd check on it before breakfast, convinced something dramatic had happened overnight, even though of course nothing ever had. My cousin was staying there too that summer, and the two of us spent most afternoons chasing chickens we were absolutely not supposed to be chasing, something my grandmother scolded us for constantly but never seemed to genuinely mind. It makes me happy now mostly because of how uncomplicated it all was, no real responsibility beyond a garden patch that didn't matter to anyone but me, and long unstructured days that felt endless at the time. My grandfather passed away a few years later, so looking back, that summer has taken on a weight it didn't have while I was living through it."
+    },
+    {
+      "id": "5V_P3_01",
+      "part": 3,
+      "question": "Why do you think childhood memories tend to stay so vivid?",
+      "answer": "I'd say it's because everything is new at that age, so the brain seems to encode those experiences more strongly than the repetitive routines of adult life, which often blur together over time. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5V_P3_02",
+      "part": 3,
+      "question": "Do you think children today have different childhoods compared to previous generations?",
+      "answer": "Quite different, yes, mainly because of technology - a lot of play now happens on screens rather than outdoors, which changes both the social dynamics and the type of memories children end up forming. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5V_P3_03",
+      "part": 3,
+      "question": "Is it important for children to spend time with extended family?",
+      "answer": "I would say so, since it exposes them to a wider range of relationships and perspectives than immediate family alone provides, and it tends to build a stronger sense of belonging to something larger. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5V_P3_04",
+      "part": 3,
+      "question": "How do childhood experiences shape a person's adult personality?",
+      "answer": "Quite significantly, in my view, particularly early patterns around security and independence, which seem to influence how people approach relationships and challenges much later in life, even if they can't always trace the connection directly. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

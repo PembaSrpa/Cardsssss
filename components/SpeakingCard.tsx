@@ -115,8 +115,9 @@ const styles = StyleSheet.create({
   },
   scrollContent: {
     flexGrow: 1,
-    justifyContent: "center",
-    paddingVertical: 12,
+    justifyContent: "flex-start",
+    paddingTop: 12,
+    paddingBottom: 24,
   },
   question: {
     fontFamily: FONTS.bold,

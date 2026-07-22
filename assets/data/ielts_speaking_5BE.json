@@ -1,0 +1,66 @@
+{
+  "section": "5BE",
+  "title": "Silence and Noise",
+  "questions": [
+    {
+      "id": "5BE_P1_01",
+      "part": 1,
+      "question": "Do you prefer silence or background noise while you work?",
+      "answer": "It depends on the task, honestly. For focused work I need near silence, but for repetitive tasks I actually prefer some background music."
+    },
+    {
+      "id": "5BE_P1_02",
+      "part": 1,
+      "question": "Is it noisy where you live?",
+      "answer": "Fairly, yes, especially during the day, given how close I am to a main road with constant traffic."
+    },
+    {
+      "id": "5BE_P1_03",
+      "part": 1,
+      "question": "Does noise bother you easily?",
+      "answer": "Sudden, unpredictable noise does, yes, more than a constant background hum, which I've mostly learned to tune out over time."
+    },
+    {
+      "id": "5BE_P1_04",
+      "part": 1,
+      "question": "Do you enjoy spending time in complete silence?",
+      "answer": "Occasionally, yes, though total silence for too long actually starts to feel slightly unsettling rather than peaceful."
+    },
+    {
+      "id": "5BE_P2_01",
+      "part": 2,
+      "question": "Describe a place you know that is very quiet.",
+      "cueCardPoints": [
+        "where this place is",
+        "when you usually go there",
+        "what makes it so quiet",
+        "and explain how being there makes you feel"
+      ],
+      "answer": "I want to describe a small monastery on a hillside outside the town where I grew up, a place I first visited with my grandmother as a child and have gone back to occasionally as an adult whenever I need to properly disconnect from everything else going on. I usually go early on a weekend morning, before it gets warm enough for many other visitors to arrive, since the quiet is genuinely part of the appeal and disappears quickly once a few tour groups turn up later in the day. What makes it so quiet is partly the remoteness, a fairly steep walk up from the nearest road, and partly a deliberate atmosphere the monks themselves seem to maintain, with visitors generally expected to keep conversation to a minimum inside the main courtyard. Being there makes me feel a specific kind of calm that's genuinely hard to replicate anywhere else I regularly go, my thoughts seem to slow down almost immediately once I'm sitting on one of the stone benches overlooking the valley below. I don't consider myself particularly religious, but I understand, at least a little, why people historically chose places like that specifically for reflection, since the silence itself seems to do a lot of the work that effort alone usually requires elsewhere."
+    },
+    {
+      "id": "5BE_P3_01",
+      "part": 3,
+      "question": "Why do you think silence has become harder to find in modern life?",
+      "answer": "Urban growth and constant connectivity are probably the biggest factors, since cities are simply louder by nature, and notifications from phones mean even quiet physical spaces rarely translate into genuine mental quiet anymore. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5BE_P3_02",
+      "part": 3,
+      "question": "Do you think noise pollution is a serious problem in cities?",
+      "answer": "Fairly serious, yes, particularly for long-term health, since studies have linked prolonged exposure to traffic and urban noise with increased stress and even cardiovascular issues over time. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5BE_P3_03",
+      "part": 3,
+      "question": "Should governments do more to regulate noise levels in urban areas?",
+      "answer": "I would say yes, particularly around residential areas at night, since unregulated construction or traffic noise during sleeping hours genuinely affects public health, not just general comfort. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5BE_P3_04",
+      "part": 3,
+      "question": "How does exposure to constant noise affect people's mental health?",
+      "answer": "Quite significantly, based on what I've read, contributing to chronic stress and reduced concentration, which is part of why quiet retreats and noise-cancelling technology have both become increasingly popular in recent years. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

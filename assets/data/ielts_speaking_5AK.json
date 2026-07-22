@@ -1,0 +1,66 @@
+{
+  "section": "5AK",
+  "title": "Money and Saving",
+  "questions": [
+    {
+      "id": "5AK_P1_01",
+      "part": 1,
+      "question": "Do you save money regularly?",
+      "answer": "I try to, yes, though it's inconsistent depending on how much unexpected spending comes up in a given month."
+    },
+    {
+      "id": "5AK_P1_02",
+      "part": 1,
+      "question": "What do you usually spend most of your money on?",
+      "answer": "Rent and food take up the biggest chunk, honestly, with whatever's left going toward transport and the occasional outing with friends."
+    },
+    {
+      "id": "5AK_P1_03",
+      "part": 1,
+      "question": "Are you good at managing money?",
+      "answer": "Reasonably, though I wasn't always. I only really started budgeting properly in the last few years, after a couple of tighter months taught me a lesson."
+    },
+    {
+      "id": "5AK_P1_04",
+      "part": 1,
+      "question": "Do you prefer to save money or spend it on experiences?",
+      "answer": "A balance, ideally, though if forced to choose I'd lean toward experiences, since I've noticed I remember trips far more than things I've bought."
+    },
+    {
+      "id": "5AK_P2_01",
+      "part": 2,
+      "question": "Describe a time when you saved money for something important.",
+      "cueCardPoints": [
+        "what you were saving for",
+        "how long it took you",
+        "how you managed to save the money",
+        "and explain how you felt once you achieved your goal"
+      ],
+      "answer": "I want to describe a period of about a year and a half when I was saving to buy my first proper laptop for freelance work, something I needed for a specific opportunity but genuinely couldn't afford outright at the time. I set aside a fixed, fairly small amount from every paycheck, put it into a separate account I deliberately made a little inconvenient to access, so I wouldn't be tempted to dip into it for smaller everyday purchases. It took longer than I'd originally planned, mostly because a health issue in the family meant I had to redirect some of those savings for a couple of months, which was frustrating at the time given how close I'd already gotten to the goal. I managed it mainly by cutting back on eating out, which had quietly become a bigger expense than I'd realised, and by taking on a couple of small side projects specifically earmarked for the laptop fund rather than general spending. When I finally had enough and actually made the purchase, I remember feeling a mix of relief and genuine pride, since it was the first significant thing I'd bought entirely through my own saving rather than any help from family. That laptop is still the one I use for most of my freelance work today, which makes the whole process feel worthwhile in hindsight."
+    },
+    {
+      "id": "5AK_P3_01",
+      "part": 3,
+      "question": "Why do some people find it difficult to save money?",
+      "answer": "Often it comes down to income simply not covering more than basic needs, though for people with disposable income, I'd say it's more about habit and impulse spending than genuine inability to save. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5AK_P3_02",
+      "part": 3,
+      "question": "Do you think schools should teach financial literacy?",
+      "answer": "Definitely, yes. A lot of adults, myself included at one point, enter adult life without any real understanding of budgeting or debt, which seems like a significant gap in most education systems. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5AK_P3_03",
+      "part": 3,
+      "question": "Is it better to save money for the future or spend it on enjoying life now?",
+      "answer": "I'd say a balance is healthiest, since saving purely for an uncertain future can mean missing out on experiences you can't get back, while spending everything immediately leaves no cushion for genuine emergencies. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5AK_P3_04",
+      "part": 3,
+      "question": "How do attitudes toward saving money differ between generations?",
+      "answer": "Older generations, in my experience, tend to prioritise saving and financial security more heavily, often shaped by having lived through harder economic periods, while younger generations seem somewhat more willing to spend on experiences over accumulating savings. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

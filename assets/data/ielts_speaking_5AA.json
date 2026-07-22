@@ -1,0 +1,66 @@
+{
+  "section": "5AA",
+  "title": "Advertising",
+  "questions": [
+    {
+      "id": "5AA_P1_01",
+      "part": 1,
+      "question": "Do you pay attention to advertisements?",
+      "answer": "Not really, no. I tend to tune them out automatically, especially online, where I'll skip anything skippable within a couple of seconds."
+    },
+    {
+      "id": "5AA_P1_02",
+      "part": 1,
+      "question": "What kinds of advertisements do you dislike?",
+      "answer": "Anything that interrupts a video halfway through, mostly. There's something about a forced pause that makes me dislike the product more than I would otherwise."
+    },
+    {
+      "id": "5AA_P1_03",
+      "part": 1,
+      "question": "Have advertisements ever influenced you to buy something?",
+      "answer": "Occasionally, yes, though usually indirectly - I'll see something advertised, forget about it, and then buy it later when I happen to need something similar."
+    },
+    {
+      "id": "5AA_P1_04",
+      "part": 1,
+      "question": "Where do you usually see advertisements?",
+      "answer": "Mostly on my phone now, between videos or embedded in apps. I barely notice traditional billboards or posters anymore."
+    },
+    {
+      "id": "5AA_P2_01",
+      "part": 2,
+      "question": "Describe an advertisement that you remember well.",
+      "cueCardPoints": [
+        "what the advertisement was for",
+        "where you saw it",
+        "what happened in it",
+        "and explain why you remember it"
+      ],
+      "answer": "I want to describe a television advert for a mobile network that used to air constantly when I was in my early teens, one built around a recurring family of characters rather than the usual straightforward pitch about coverage or pricing. It followed the same family across several separate adverts over a couple of years, showing small moments, a father teaching his son to ride a bike, a daughter calling home from university, each one loosely tied back to the idea of staying connected. I saw it mostly on the family television in the evening, since that was still the main way people watched anything at the time, before streaming had really taken over. What happened in the specific advert I remember most clearly was the daughter's first phone call home from her dormitory, sounding homesick, followed by the father sitting by the phone every evening waiting for her call, which is a fairly simple idea but was shot in a way that felt genuinely emotional rather than manipulative. I remember it well mostly because it didn't feel like an advert at the time, more like a short story that happened to end with a logo. I couldn't tell you a single detail about that company's actual pricing plans, but I remember that story clearly, over a decade later."
+    },
+    {
+      "id": "5AA_P3_01",
+      "part": 3,
+      "question": "Why do companies spend so much money on advertising?",
+      "answer": "Because it works, essentially - repeated exposure builds brand recognition, and recognition tends to translate into sales even when the actual product doesn't differ much from a competitor's. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5AA_P3_02",
+      "part": 3,
+      "question": "Do you think advertising aimed at children should be restricted?",
+      "answer": "I would say yes, particularly for products like sugary food or expensive toys, since children haven't developed the critical thinking needed to recognise persuasion techniques the way adults can. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5AA_P3_03",
+      "part": 3,
+      "question": "How has advertising changed with the rise of social media?",
+      "answer": "It's become far more personalised and harder to spot as advertising at all, particularly with influencer content that's presented as a genuine recommendation rather than a paid promotion. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5AA_P3_04",
+      "part": 3,
+      "question": "Do you think advertisements can be considered a form of art?",
+      "answer": "To some extent, yes, especially the more creative or emotionally driven ones, since they involve genuine storytelling and craft. I'd still separate that from fine art, though, given the underlying commercial purpose. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

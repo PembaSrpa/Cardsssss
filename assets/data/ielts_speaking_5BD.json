@@ -1,0 +1,66 @@
+{
+  "section": "5BD",
+  "title": "Plants and Gardening",
+  "questions": [
+    {
+      "id": "5BD_P1_01",
+      "part": 1,
+      "question": "Do you enjoy gardening?",
+      "answer": "A little, yes, though I'd describe myself as an enthusiastic beginner rather than someone genuinely skilled at it."
+    },
+    {
+      "id": "5BD_P1_02",
+      "part": 1,
+      "question": "Do you have any plants at home?",
+      "answer": "A handful, yes, mostly ones that are famously difficult to kill, since my track record with anything delicate isn't great."
+    },
+    {
+      "id": "5BD_P1_03",
+      "part": 1,
+      "question": "Did your family grow plants or vegetables when you were young?",
+      "answer": "Yes, actually - my grandfather kept a small vegetable patch that I used to help with occasionally as a child."
+    },
+    {
+      "id": "5BD_P1_04",
+      "part": 1,
+      "question": "Do you think gardening is a good hobby?",
+      "answer": "Definitely, yes. It seems to genuinely help with stress, based on both what I've read and my own limited experience with it."
+    },
+    {
+      "id": "5BD_P2_01",
+      "part": 2,
+      "question": "Describe a garden or a plant that is important to you.",
+      "cueCardPoints": [
+        "what the garden or plant is",
+        "where it is",
+        "who looks after it",
+        "and explain why it is important to you"
+      ],
+      "answer": "I want to describe a small money plant that sits on the windowsill of my current apartment, which was originally a cutting taken from a much larger plant my mother has kept alive in our family home for well over a decade. She gave me the cutting when I first moved out on my own, half joking that it would bring good luck, though I think the real intention was to give me something living to be responsible for, since I'd never managed to keep any plant alive before that point. I look after it myself now, though rather inconsistently if I'm honest, and it's survived several stretches of neglect that probably would have killed something less resilient. It's important to me mainly because of where it came from, a direct, physical connection to my mother's plant and, by extension, to the home I grew up in, even though I now live in a completely different city. Whenever I look at it, I'm reminded a little of her patience with that original plant, watering it faithfully for years without much apparent effort, which is a level of consistency I clearly haven't quite matched myself yet, though I keep trying."
+    },
+    {
+      "id": "5BD_P3_01",
+      "part": 3,
+      "question": "Why do you think gardening has become a popular hobby for many people?",
+      "answer": "I'd say it offers a tangible, physical counterbalance to increasingly screen-based daily life, along with a slow, visible sense of progress that's genuinely satisfying in a way that's harder to find in a lot of modern work. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5BD_P3_02",
+      "part": 3,
+      "question": "Do you think growing plants in cities is important, given limited space?",
+      "answer": "Quite important, in my view, even on a small scale, since urban greenery contributes to air quality and general wellbeing, and even a few plants on a balcony can meaningfully improve how a space feels. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5BD_P3_03",
+      "part": 3,
+      "question": "Should schools teach children about gardening and growing food?",
+      "answer": "I would say so, since it builds a practical understanding of where food actually comes from, something that's easy to lose touch with entirely when most people only encounter food already packaged in a supermarket. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5BD_P3_04",
+      "part": 3,
+      "question": "How does gardening benefit mental health?",
+      "answer": "It seems to offer a combination of physical activity, exposure to nature, and a slow, low-pressure sense of achievement, all of which research increasingly links to reduced stress and improved overall mood. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

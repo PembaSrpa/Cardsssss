@@ -1,0 +1,66 @@
+{
+  "section": "5AO",
+  "title": "Public Holidays",
+  "questions": [
+    {
+      "id": "5AO_P1_01",
+      "part": 1,
+      "question": "What public holidays does your country have?",
+      "answer": "Quite a few, honestly, mixing religious festivals with a handful of national days marking historical events like independence."
+    },
+    {
+      "id": "5AO_P1_02",
+      "part": 1,
+      "question": "What's your favourite public holiday?",
+      "answer": "Probably the new year holiday, mainly because it's one of the few times almost everyone I know is off work at the same time."
+    },
+    {
+      "id": "5AO_P1_03",
+      "part": 1,
+      "question": "How do you usually spend public holidays?",
+      "answer": "Mostly with family, or occasionally travelling somewhere close by if the holiday is long enough to justify a short trip."
+    },
+    {
+      "id": "5AO_P1_04",
+      "part": 1,
+      "question": "Do you think there are enough public holidays in your country?",
+      "answer": "Reasonably, yes, though I know some countries have significantly more, which honestly sounds appealing whenever I hear about it."
+    },
+    {
+      "id": "5AO_P2_01",
+      "part": 2,
+      "question": "Describe a public holiday you enjoy celebrating.",
+      "cueCardPoints": [
+        "what the holiday is",
+        "when it takes place",
+        "what people usually do on this day",
+        "and explain why you enjoy it"
+      ],
+      "answer": "I want to talk about our national new year holiday, which falls in mid-April according to our local calendar, marking the start of a new year that doesn't line up with the international calendar most people are familiar with. On the day itself, most shops close and streets are noticeably quieter in the morning, before filling up again in the afternoon as people head out to temples or gather at relatives' homes for a shared meal. Families typically prepare a specific set of traditional dishes for the occasion, and there's usually an exchange of small gifts or money between older and younger relatives, similar to what happens during some other festivals here. I enjoy it mainly because, unlike some of our other holidays which are tied closely to a particular religion, this one feels more universally shared, celebrated across different communities with slightly different traditions but a similar underlying spirit. It also tends to fall during a stretch of genuinely pleasant weather, right before the hotter months set in, which makes outdoor gatherings with extended family especially enjoyable. I always come away from it feeling like I've properly reconnected with relatives I don't see often enough during the rest of the year."
+    },
+    {
+      "id": "5AO_P3_01",
+      "part": 3,
+      "question": "Why do countries have public holidays?",
+      "answer": "Partly to mark significant historical or religious events, and partly for more practical reasons, giving people a shared, predictable break from work that benefits both individual wellbeing and, indirectly, the wider economy through spending and travel. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5AO_P3_02",
+      "part": 3,
+      "question": "Do you think public holidays should be based more on national events or religious ones?",
+      "answer": "I'd lean toward a mix that reflects a country's actual population, since a purely religious calendar can leave people of other faiths feeling excluded, while purely secular holidays can lose the cultural depth that religious festivals often carry. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5AO_P3_03",
+      "part": 3,
+      "question": "How do public holidays benefit the economy?",
+      "answer": "They tend to boost sectors like tourism, retail, and hospitality significantly, as people travel or spend more during time off, though some argue lost working days offset part of that benefit elsewhere in the economy. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5AO_P3_04",
+      "part": 3,
+      "question": "Should international companies respect the public holidays of every country they operate in?",
+      "answer": "I would say yes, generally, since imposing a single calendar across different cultures tends to disregard traditions that matter significantly to local employees, even if it's more administratively convenient for the company. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

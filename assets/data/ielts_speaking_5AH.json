@@ -1,0 +1,66 @@
+{
+  "section": "5AH",
+  "title": "Happiness and Emotions",
+  "questions": [
+    {
+      "id": "5AH_P1_01",
+      "part": 1,
+      "question": "What makes you happy?",
+      "answer": "Small, ordinary things, mostly - a good meal, a quiet morning, a conversation with someone I haven't spoken to in a while."
+    },
+    {
+      "id": "5AH_P1_02",
+      "part": 1,
+      "question": "Do you think money can buy happiness?",
+      "answer": "To a degree, yes, mainly by removing stress about basic needs. Beyond a certain point, though, I don't think more money adds much."
+    },
+    {
+      "id": "5AH_P1_03",
+      "part": 1,
+      "question": "How do you deal with negative emotions?",
+      "answer": "Usually by talking it through with someone close to me, or going for a walk if I need to clear my head first."
+    },
+    {
+      "id": "5AH_P1_04",
+      "part": 1,
+      "question": "Do you think people today are happier than in the past?",
+      "answer": "I'm honestly not sure. Material conditions have improved, but I suspect stress and comparison have increased alongside that, so it might balance out."
+    },
+    {
+      "id": "5AH_P2_01",
+      "part": 2,
+      "question": "Describe a time when you felt particularly happy.",
+      "cueCardPoints": [
+        "when this was",
+        "where you were",
+        "who you were with",
+        "and explain why you felt happy"
+      ],
+      "answer": "I want to describe a particular evening a few years ago, shortly after finishing a work project that had taken up most of my energy for nearly six months, when a small group of colleagues and I gathered on a rooftop to mark the end of it. It wasn't a big or formal celebration, just five or six of us with some food we'd ordered in and a couple of speakers playing music quietly in the background, nothing that would stand out as particularly special from the outside. What made it stick with me was the specific relief of the project actually being finished, combined with the fact that we'd genuinely become close over those six stressful months, in the way people sometimes do when they go through something difficult together. I remember laughing harder that evening than I had in a long time, mostly at fairly ordinary jokes that probably wouldn't have landed as well under normal circumstances. Part of the happiness, I think, came from the contrast, from how tense and exhausted we'd all been just days earlier, which made that specific evening feel disproportionately good compared to how objectively simple it actually was. I still think about it whenever I need reminding that happiness doesn't require anything elaborate, just the right people and a bit of released pressure."
+    },
+    {
+      "id": "5AH_P3_01",
+      "part": 3,
+      "question": "Why do you think happiness is difficult to define?",
+      "answer": "Because it means something slightly different to everyone, I'd say - some people define it through achievement, others through relationships or simple contentment, and those definitions don't always overlap neatly. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5AH_P3_02",
+      "part": 3,
+      "question": "Do you think social comparison affects people's happiness?",
+      "answer": "Quite significantly, in my view, especially now that social media makes comparison constant and largely one-directional, since people tend to compare their ordinary life to someone else's carefully curated highlights. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5AH_P3_03",
+      "part": 3,
+      "question": "Is it possible to be happy all the time?",
+      "answer": "No, and I'd argue it isn't even desirable, since negative emotions serve a purpose too, signalling when something needs to change. A life with no contrast would probably feel fairly flat rather than genuinely happy. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5AH_P3_04",
+      "part": 3,
+      "question": "How can governments contribute to the happiness of their citizens?",
+      "answer": "Mainly by addressing basic security, healthcare, housing, and stable employment, since a lot of unhappiness stems from anxiety about those fundamentals rather than from anything governments could directly control beyond that. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

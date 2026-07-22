@@ -1,0 +1,66 @@
+{
+  "section": "5AJ",
+  "title": "Internet and Apps",
+  "questions": [
+    {
+      "id": "5AJ_P1_01",
+      "part": 1,
+      "question": "How often do you use the internet?",
+      "answer": "Constantly, if I'm honest, throughout the whole day for work, communication, and just general browsing whenever I have a spare moment."
+    },
+    {
+      "id": "5AJ_P1_02",
+      "part": 1,
+      "question": "What do you use the internet for most?",
+      "answer": "Mostly work-related research and messaging, though a fair chunk of it is also just entertainment, videos and articles I stumble across."
+    },
+    {
+      "id": "5AJ_P1_03",
+      "part": 1,
+      "question": "What's your favourite app?",
+      "answer": "Probably a note-taking app I use constantly, for everything from shopping lists to half-formed ideas I don't want to forget."
+    },
+    {
+      "id": "5AJ_P1_04",
+      "part": 1,
+      "question": "Do you think you spend too much time online?",
+      "answer": "Probably, yes, if I'm being honest with myself. I've tried a few times to cut back, with limited success so far."
+    },
+    {
+      "id": "5AJ_P2_01",
+      "part": 2,
+      "question": "Describe an app that you find useful.",
+      "cueCardPoints": [
+        "what the app is",
+        "what it is used for",
+        "how often you use it",
+        "and explain why you find it useful"
+      ],
+      "answer": "I want to describe a language exchange app I started using about two years ago, originally out of curiosity more than any serious intention to use it regularly. It connects you with native speakers of a language you're trying to learn, who are in turn trying to learn your own language, so conversations end up being split roughly half and half between the two, with each person correcting the other along the way. I use it a few times a week now, usually short text conversations rather than voice calls, mostly during breaks when I don't have the energy for anything more demanding. What makes it useful, beyond the obvious language practice, is that it's introduced me to people I'd genuinely never have crossed paths with otherwise, including someone in a completely different part of the world who I now consider a proper friend rather than just a language partner. It's also made me far more aware of how differently people my age think about things depending on where they grew up, which I don't think I would have appreciated the same way from a textbook or a formal class. It's easily the app I'd be most reluctant to delete if I had to cut down on screen time."
+    },
+    {
+      "id": "5AJ_P3_01",
+      "part": 3,
+      "question": "How has the internet changed the way people access information?",
+      "answer": "Enormously, since information that used to require a trip to a library is now available instantly, though that ease has also made it harder to judge which sources are actually reliable. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5AJ_P3_02",
+      "part": 3,
+      "question": "Do you think people are becoming too dependent on their phones and apps?",
+      "answer": "To a significant extent, yes, particularly for basic tasks like navigation or even simple arithmetic, which people increasingly outsource to an app rather than working out themselves. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5AJ_P3_03",
+      "part": 3,
+      "question": "Should there be stricter regulation of what content is allowed online?",
+      "answer": "I'd lean toward yes for clearly harmful content, like misinformation around health or violent material, though I'd be cautious about regulation broad enough to limit legitimate free expression. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5AJ_P3_04",
+      "part": 3,
+      "question": "How might the internet develop in the next decade?",
+      "answer": "I'd expect artificial intelligence to become far more embedded in everyday browsing and search, to the point where the current idea of manually searching through a list of links might feel outdated fairly quickly. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

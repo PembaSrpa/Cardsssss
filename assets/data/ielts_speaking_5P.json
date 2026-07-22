@@ -1,0 +1,66 @@
+{
+  "section": "5P",
+  "title": "Transportation",
+  "questions": [
+    {
+      "id": "5P_P1_01",
+      "part": 1,
+      "question": "How do you usually travel around your city?",
+      "answer": "Mostly by motorbike, since traffic here makes cars fairly impractical for short distances. For longer trips across town I'll sometimes take a taxi instead."
+    },
+    {
+      "id": "5P_P1_02",
+      "part": 1,
+      "question": "Do you use public transport often?",
+      "answer": "Not that often, mainly because the coverage where I live isn't very reliable. I'll use it occasionally if I'm heading somewhere the roads are usually jammed."
+    },
+    {
+      "id": "5P_P1_03",
+      "part": 1,
+      "question": "What's transportation like in your city?",
+      "answer": "Fairly chaotic, to be honest. Traffic builds up quickly during peak hours, and the roads weren't really designed for the number of vehicles now using them."
+    },
+    {
+      "id": "5P_P1_04",
+      "part": 1,
+      "question": "Would you prefer to travel by car or by bike?",
+      "answer": "Bike, for shorter distances at least. It's quicker in heavy traffic, and honestly a lot less stressful than sitting in a queue of cars."
+    },
+    {
+      "id": "5P_P2_01",
+      "part": 2,
+      "question": "Describe a memorable journey you have taken.",
+      "cueCardPoints": [
+        "where you went",
+        "how you travelled",
+        "who you went with",
+        "and explain why the journey was memorable"
+      ],
+      "answer": "I want to describe an overnight bus journey I took from the capital up to a small town in the hills a few years ago, mainly because almost everything about it went differently from how I'd planned. I was travelling with my cousin, and we'd booked what was supposed to be a comfortable overnight service, the kind with reclining seats, expecting to sleep most of the way and arrive rested the next morning. Instead, the bus broke down around two in the morning on a stretch of road with no phone signal, and we ended up sitting on the roadside for almost four hours while the driver tried to fix it, surrounded by nothing but dark hills and the sound of insects. At the time it was frustrating, especially since we had plans lined up for that morning that we ended up missing entirely. Looking back, though, it's become one of my favourite travel memories, mostly because of the conversation my cousin and I had while we waited, the kind of long, meandering talk you don't usually get time for. We ended up watching the sunrise from the roadside instead of from our hotel window, which honestly turned out better than what we'd originally planned. It's a good reminder that the best part of a trip is rarely the part you planned carefully."
+    },
+    {
+      "id": "5P_P3_01",
+      "part": 3,
+      "question": "How do you think transportation will change in the next twenty years?",
+      "answer": "I'd expect electric vehicles to become the norm rather than the exception, and I wouldn't be surprised if self-driving cars became common in certain cities, though probably later than most predictions suggest. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5P_P3_02",
+      "part": 3,
+      "question": "Should governments invest more in public transport than in roads for private cars?",
+      "answer": "I would say yes, generally, because public transport moves far more people per unit of road space, which eases congestion more effectively than simply building additional lanes for cars. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5P_P3_03",
+      "part": 3,
+      "question": "What are the disadvantages of relying heavily on cars?",
+      "answer": "Beyond congestion, there's the environmental cost and the way cities end up designed around parking and roads rather than people, which can make places less walkable and, to some extent, less liveable. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5P_P3_04",
+      "part": 3,
+      "question": "Do you think younger generations are less interested in owning cars than previous generations?",
+      "answer": "To some extent, yes, at least in cities with decent alternatives, since ride-sharing and public transport have made car ownership feel less necessary than it did before. In areas without those alternatives, though, that shift is much less visible. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

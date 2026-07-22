@@ -1,0 +1,66 @@
+{
+  "section": "5AY",
+  "title": "Water, Rivers, and Lakes",
+  "questions": [
+    {
+      "id": "5AY_P1_01",
+      "part": 1,
+      "question": "Is there a river or lake near where you live?",
+      "answer": "There's a river about twenty minutes away by bike, though it's more of a stream during the dry season than a proper river."
+    },
+    {
+      "id": "5AY_P1_02",
+      "part": 1,
+      "question": "Do you enjoy spending time near water?",
+      "answer": "Yes, quite a lot, actually. There's something calming about it that I don't get from most other places."
+    },
+    {
+      "id": "5AY_P1_03",
+      "part": 1,
+      "question": "Have you ever gone swimming in a river or lake?",
+      "answer": "A few times, yes, mostly as a child, though I'd be more cautious about water quality now than I was back then."
+    },
+    {
+      "id": "5AY_P1_04",
+      "part": 1,
+      "question": "Do you think rivers and lakes in your country are well protected?",
+      "answer": "Not particularly, no. A fair number are affected by pollution, especially closer to larger towns and cities."
+    },
+    {
+      "id": "5AY_P2_01",
+      "part": 2,
+      "question": "Describe a river, lake, or other body of water that you know well.",
+      "cueCardPoints": [
+        "where it is",
+        "what it looks like",
+        "what you usually do there",
+        "and explain why it is important to you"
+      ],
+      "answer": "I want to describe a lake close to the town where I grew up, a long, fairly narrow stretch of water surrounded on one side by hills and on the other by a row of small guesthouses and cafes that have grown up along its edge over the years. In the early morning it's usually perfectly still, almost mirror-like, and you can see the outline of the mountains reflected in it before the wind picks up later in the day and breaks that stillness apart. Growing up, I spent a lot of afternoons there with friends, sometimes renting a small paddle boat for an hour, sometimes just sitting on the steps near the water doing nothing in particular. It's important to me mainly because so many specific memories are tied to it, my first proper conversation with someone I dated for years afterward happened on a bench near that lake, and I also scattered a portion of my grandfather's ashes there, following a wish he'd expressed long before he passed away. Whenever I go back to visit family, I try to walk along the lake at least once, even briefly, since it feels like checking in with something constant in a hometown that otherwise keeps slowly changing around it."
+    },
+    {
+      "id": "5AY_P3_01",
+      "part": 3,
+      "question": "Why are rivers and lakes important for human civilization?",
+      "answer": "Historically, they've provided drinking water, irrigation for farming, and transport routes, which is why so many major cities around the world developed alongside significant rivers rather than further inland. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5AY_P3_02",
+      "part": 3,
+      "question": "Do you think water pollution is a serious problem in your country?",
+      "answer": "Fairly serious, yes, particularly near urban areas where industrial and household waste often ends up in rivers without adequate treatment beforehand. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5AY_P3_03",
+      "part": 3,
+      "question": "What can be done to protect rivers and lakes from pollution?",
+      "answer": "Stricter regulation on industrial waste disposal would probably make the biggest difference, alongside better public waste management systems, since a lot of pollution comes from a lack of proper infrastructure rather than deliberate disregard. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5AY_P3_04",
+      "part": 3,
+      "question": "How might climate change affect rivers and lakes in the future?",
+      "answer": "I'd expect more unpredictable water levels, with some regions facing droughts and others facing more frequent flooding, as rainfall patterns shift away from what these water systems have historically been shaped around. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

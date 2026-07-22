@@ -1,0 +1,66 @@
+{
+  "section": "5Q",
+  "title": "Friendship",
+  "questions": [
+    {
+      "id": "5Q_P1_01",
+      "part": 1,
+      "question": "How many close friends do you have?",
+      "answer": "Just a handful, really - maybe three or four people I'd call genuinely close, even though I know a lot more people casually."
+    },
+    {
+      "id": "5Q_P1_02",
+      "part": 1,
+      "question": "How did you meet your closest friend?",
+      "answer": "We were seated next to each other in a university class and ended up working on a group project together, which is a fairly ordinary way for it to have started."
+    },
+    {
+      "id": "5Q_P1_03",
+      "part": 1,
+      "question": "What do you value most in a friendship?",
+      "answer": "Honesty, probably more than anything else. I'd rather a friend tell me something I don't want to hear than avoid the topic to keep things comfortable."
+    },
+    {
+      "id": "5Q_P1_04",
+      "part": 1,
+      "question": "Is it easy for you to make new friends?",
+      "answer": "Not particularly, no. I warm up slowly with new people, so it usually takes quite a while before I'd consider someone a proper friend rather than just an acquaintance."
+    },
+    {
+      "id": "5Q_P2_01",
+      "part": 2,
+      "question": "Describe a good friend of yours.",
+      "cueCardPoints": [
+        "who this friend is",
+        "how you met",
+        "what this person is like",
+        "and explain why you consider them a good friend"
+      ],
+      "answer": "I'd like to talk about a friend of mine called Sagar, who I met during my first job after university, where we were placed on the same small team and ended up sitting across from each other for almost two years. He's a fairly quiet person at first meeting, but once you know him he's actually one of the funnier people I've spent time with, with a kind of dry humour that catches you off guard. What stands out about him is how reliable he is in ways that don't always get noticed - he remembers small details about your life that you mentioned once in passing, and he'll bring them up months later, which always surprises me. A couple of years ago, when I was going through a difficult period after leaving that same job, he was one of the few people who checked in regularly without making a big deal out of it, just short messages asking how I was doing, nothing dramatic. I consider him a good friend mainly because of that consistency - he doesn't disappear when things get complicated, and he doesn't need the friendship to be constantly maintained through big gestures to stay solid. We don't see each other as often now that we work in different places, but whenever we do meet up, it feels exactly the same as it always did."
+    },
+    {
+      "id": "5Q_P3_01",
+      "part": 3,
+      "question": "Why do you think some friendships last a lifetime while others fade away?",
+      "answer": "I think it usually comes down to effort matching interest on both sides - friendships tend to survive distance and time when both people are willing to put in a bit of work to stay in touch, and fade when that effort becomes one-sided. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5Q_P3_02",
+      "part": 3,
+      "question": "Do you think social media has made it easier or harder to maintain friendships?",
+      "answer": "A bit of both, honestly. It makes staying loosely in touch easier, but I'd argue it's also made people more comfortable with shallow contact instead of the deeper effort real friendships need. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5Q_P3_03",
+      "part": 3,
+      "question": "Is it better to have many friends or just a few close ones?",
+      "answer": "I'd lean toward a few close ones, personally, since deeper friendships tend to offer more genuine support. That said, having a wider circle has its own value too, particularly for opportunities and general social variety. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5Q_P3_04",
+      "part": 3,
+      "question": "How do friendships change as people get older?",
+      "answer": "They tend to become fewer but more selective, in my experience, since adults generally have less free time and end up prioritising relationships that feel worth the effort rather than maintaining every connection they've made. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5AB",
+  "title": "Art and Museums",
+  "questions": [
+    {
+      "id": "5AB_P1_01",
+      "part": 1,
+      "question": "Do you enjoy visiting museums?",
+      "answer": "Yes, generally, though I prefer smaller, more focused museums to huge national ones where you end up exhausted after an hour."
+    },
+    {
+      "id": "5AB_P1_02",
+      "part": 1,
+      "question": "Are you interested in art?",
+      "answer": "A little, though I'd say I appreciate it more than I understand it. I couldn't tell you much about technique or movements."
+    },
+    {
+      "id": "5AB_P1_03",
+      "part": 1,
+      "question": "When did you last visit an art gallery or museum?",
+      "answer": "A few months ago, actually, for a photography exhibition a friend recommended. It's been longer than that since a proper art gallery."
+    },
+    {
+      "id": "5AB_P1_04",
+      "part": 1,
+      "question": "Do you prefer traditional art or modern art?",
+      "answer": "Traditional, generally, though certain modern pieces surprise me. I struggle more with abstract work that doesn't seem to be depicting anything at all."
+    },
+    {
+      "id": "5AB_P2_01",
+      "part": 2,
+      "question": "Describe a museum or art gallery you have visited.",
+      "cueCardPoints": [
+        "where it is",
+        "what kind of museum or gallery it is",
+        "what you saw there",
+        "and explain what you thought of it"
+      ],
+      "answer": "I want to describe a small museum dedicated to traditional crafts that I visited in a hill town a few years ago, tucked into what used to be someone's private house before it was converted. It wasn't a large or particularly famous museum, nothing like the major national ones in the capital, but it had a specific focus on local weaving and woodworking traditions that I hadn't seen documented anywhere else. Inside were looms that were still functional, demonstrated occasionally by an elderly woman who apparently used to weave professionally, along with photographs showing the same techniques being used generations earlier. What struck me most was a small back room filled with tools whose purpose wasn't obvious at all until an accompanying card explained them, simple objects that had clearly taken real skill to use properly. I hadn't expected to spend more than twenty minutes there, but ended up staying closer to two hours, partly because the woman running the loom demonstration was happy to answer questions and clearly enjoyed talking about it. I thought it was a far more memorable visit than the larger museums I've been to, mainly because of how personal and specific it felt, rather than being a broad overview of everything at once."
+    },
+    {
+      "id": "5AB_P3_01",
+      "part": 3,
+      "question": "Why do you think museums are important for society?",
+      "answer": "They preserve knowledge and history that would otherwise fade once the people who remember it are gone, which matters particularly for traditions or crafts that aren't well documented elsewhere. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5AB_P3_02",
+      "part": 3,
+      "question": "Should museum entry always be free?",
+      "answer": "I'd lean toward yes for major national museums, since access to a country's history and culture shouldn't depend entirely on someone's income. Smaller independent museums, though, often rely on entry fees to survive at all. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5AB_P3_03",
+      "part": 3,
+      "question": "Do you think children should be taken to museums more often?",
+      "answer": "I would say so, provided the visit is engaging rather than a passive walk through exhibits, since early exposure tends to build curiosity that carries into adulthood. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5AB_P3_04",
+      "part": 3,
+      "question": "How might museums change with new technology like virtual reality?",
+      "answer": "I'd expect a lot more interactive and immersive exhibits, which could make history feel more tangible for younger visitors, though I hope it doesn't fully replace the experience of seeing an actual original object in person. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

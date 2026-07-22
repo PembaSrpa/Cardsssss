@@ -1,0 +1,66 @@
+{
+  "section": "5AZ",
+  "title": "Rules and Regulations",
+  "questions": [
+    {
+      "id": "5AZ_P1_01",
+      "part": 1,
+      "question": "Do you generally follow rules?",
+      "answer": "Mostly, yes, particularly ones with a clear safety reason behind them. I'm less strict about rules that seem arbitrary."
+    },
+    {
+      "id": "5AZ_P1_02",
+      "part": 1,
+      "question": "What rule do you find most difficult to follow?",
+      "answer": "Speed limits, honestly, especially on quiet roads late at night, where the reasoning behind the limit feels less obvious."
+    },
+    {
+      "id": "5AZ_P1_03",
+      "part": 1,
+      "question": "Are there too many rules in your country, in your opinion?",
+      "answer": "Not too many, no, though I'd say enforcement is inconsistent, which sometimes makes rules feel more like suggestions."
+    },
+    {
+      "id": "5AZ_P1_04",
+      "part": 1,
+      "question": "Did your family have strict rules when you were growing up?",
+      "answer": "Fairly strict, yes, particularly around curfews and schoolwork, though they loosened considerably once I finished school."
+    },
+    {
+      "id": "5AZ_P2_01",
+      "part": 2,
+      "question": "Describe a rule that you think is important.",
+      "cueCardPoints": [
+        "what the rule is",
+        "where this rule applies",
+        "who it affects",
+        "and explain why you think it is important"
+      ],
+      "answer": "I want to describe a workplace rule from my current job requiring everyone, regardless of seniority, to submit expense claims through a shared, transparent system rather than dealing with reimbursements informally through a manager. It applies to every employee across the company, from new hires to senior directors, without exception, which is actually somewhat unusual compared to previous jobs I've had, where informal arrangements between managers and favoured staff were fairly common. It affects everyone financially in a small but meaningful way, since it removes the possibility of unfair treatment based on someone's relationship with a particular manager rather than the legitimacy of the claim itself. I think it's an important rule mainly because of what it represents beyond the expenses themselves, a broader culture of fairness and transparency that I've noticed extends into other areas of how the company operates. At a previous job, I remember a colleague being reimbursed for something questionable simply because he was close with a manager, while a more legitimate claim from someone else was rejected without much explanation, which created real resentment across the team. Seeing a system designed specifically to prevent that kind of inconsistency has genuinely changed how much I trust the fairness of my current workplace overall."
+    },
+    {
+      "id": "5AZ_P3_01",
+      "part": 3,
+      "question": "Why do societies need rules and regulations?",
+      "answer": "Without shared rules, coordinated behaviour among large groups of people would be nearly impossible, since individual self-interest would frequently override collective wellbeing without some agreed structure holding things together. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5AZ_P3_02",
+      "part": 3,
+      "question": "Do you think some rules are unnecessary or outdated?",
+      "answer": "Certainly, yes, particularly older regulations that haven't been reviewed in light of how technology or society has changed since they were originally written, which can leave rules feeling disconnected from current reality. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5AZ_P3_03",
+      "part": 3,
+      "question": "Should punishments for breaking rules always be the same for everyone, regardless of status?",
+      "answer": "I would say yes, in principle, since unequal enforcement undermines the entire point of having rules in the first place. In practice, though, I recognise that truly equal enforcement is harder to achieve than it sounds. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5AZ_P3_04",
+      "part": 3,
+      "question": "How do rules in the workplace differ from rules in wider society?",
+      "answer": "Workplace rules tend to be narrower and more specifically enforced, given a smaller, more controllable environment, whereas societal rules have to account for a far wider range of circumstances and are, as a result, often applied less consistently. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

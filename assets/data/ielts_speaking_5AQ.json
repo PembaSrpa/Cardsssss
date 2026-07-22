@@ -1,0 +1,66 @@
+{
+  "section": "5AQ",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "id": "5AQ_P1_01",
+      "part": 1,
+      "question": "What time do you usually wake up?",
+      "answer": "Around six thirty most days, though I'll admit that slips later on weekends when I don't have a reason to be up early."
+    },
+    {
+      "id": "5AQ_P1_02",
+      "part": 1,
+      "question": "What's the first thing you do in the morning?",
+      "answer": "Check my phone, honestly, before I've even properly opened my eyes, which I know isn't a great habit."
+    },
+    {
+      "id": "5AQ_P1_03",
+      "part": 1,
+      "question": "Does your daily routine change much from day to day?",
+      "answer": "Not hugely on weekdays, since work keeps things fairly structured. Weekends are far more unpredictable in comparison."
+    },
+    {
+      "id": "5AQ_P1_04",
+      "part": 1,
+      "question": "What part of your day do you enjoy most?",
+      "answer": "The early morning, actually, before anyone else is really awake and the house is completely quiet."
+    },
+    {
+      "id": "5AQ_P2_01",
+      "part": 2,
+      "question": "Describe your typical daily routine.",
+      "cueCardPoints": [
+        "what time you usually get up",
+        "what you do during the day",
+        "what you do in the evening",
+        "and explain whether you would like to change your routine"
+      ],
+      "answer": "My typical day starts around six thirty, earlier than I'd probably choose if I didn't have somewhere to be, and I usually spend the first twenty minutes or so just sitting with a cup of tea before doing anything productive, which has become a fairly non-negotiable part of how I wake up properly. After that I get ready and head to work, which takes about half an hour by motorbike depending on traffic, and the working day itself runs fairly predictably from around nine until six, with a short lunch break usually spent at my desk rather than going out. In the evenings I try to keep some kind of boundary between work and everything else, though I'll admit that boundary gets blurry more often than I'd like, especially when a deadline is close. Most evenings involve cooking something simple, a bit of reading or a show, and occasionally a call with family, since a few of them live in a different city now. I would like to change my routine in one specific way, honestly, by building in some form of regular exercise, which I keep telling myself I'll start and then quietly deprioritise whenever the day gets busy. Beyond that, though, I think the overall shape of my routine suits me reasonably well."
+    },
+    {
+      "id": "5AQ_P3_01",
+      "part": 3,
+      "question": "Why do you think routines are important for people?",
+      "answer": "I'd say they reduce the mental effort of constant decision-making, since a lot of the day runs on autopilot once a routine is established, which frees up energy for things that actually require focused thought. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5AQ_P3_02",
+      "part": 3,
+      "question": "Do you think technology has made daily routines more or less structured?",
+      "answer": "A bit of both, honestly - reminders and scheduling apps have made structure easier to maintain, but constant notifications also tend to fragment attention throughout the day in a way that disrupts routine just as often. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5AQ_P3_03",
+      "part": 3,
+      "question": "How do daily routines differ between people in cities and people in rural areas?",
+      "answer": "City routines tend to be shaped heavily around commuting and fixed working hours, while rural routines, especially in farming communities, often follow the rhythm of daylight and season far more closely than the clock. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5AQ_P3_04",
+      "part": 3,
+      "question": "Do you think it's healthy to follow the exact same routine every day?",
+      "answer": "Not entirely, no. Some consistency is genuinely useful, but I think a bit of variation prevents the kind of monotony that can make time feel like it's passing without anything memorable happening. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5AU",
+  "title": "Handwriting and Letters",
+  "questions": [
+    {
+      "id": "5AU_P1_01",
+      "part": 1,
+      "question": "Do you write by hand often?",
+      "answer": "Rarely now, if I'm honest, mostly just for quick notes. Almost everything else I type on my phone or laptop."
+    },
+    {
+      "id": "5AU_P1_02",
+      "part": 1,
+      "question": "Is your handwriting neat?",
+      "answer": "Not particularly, no. It's gotten noticeably worse since I stopped writing regularly for schoolwork years ago."
+    },
+    {
+      "id": "5AU_P1_03",
+      "part": 1,
+      "question": "Have you ever written a letter to someone?",
+      "answer": "A few times, yes, mostly to a friend who moved abroad and specifically asked for handwritten letters instead of messages."
+    },
+    {
+      "id": "5AU_P1_04",
+      "part": 1,
+      "question": "Do you think handwriting is still an important skill?",
+      "answer": "To some degree, yes, though I'd admit its practical importance has dropped significantly compared to when I was in school."
+    },
+    {
+      "id": "5AU_P2_01",
+      "part": 2,
+      "question": "Describe a letter you received or wrote that was meaningful to you.",
+      "cueCardPoints": [
+        "who the letter was from or to",
+        "when you received or wrote it",
+        "what it said",
+        "and explain why it was meaningful"
+      ],
+      "answer": "I want to describe a letter my grandfather wrote me shortly before he passed away, which I received in the post a few weeks after moving to a different city for university, a time when I was struggling more than I let on to anyone in my family. He wasn't someone who expressed emotion openly in conversation, so a full page of his handwriting, slightly shaky but still legible, felt unusual and significant the moment I saw the envelope with his familiar writing on the front. The letter itself was fairly simple, mostly practical advice about managing money and staying disciplined with studies, but it ended with a line about being proud of me for leaving home despite how difficult he could tell it was, which caught me completely off guard given how rarely he said things like that directly. It was meaningful mainly because of that contrast, someone usually reserved putting real effort into writing something he clearly meant, on paper rather than saying it briefly over a phone call, which would have been far easier for him. He passed away less than a year later, so that letter has become one of the few things of his I've kept, and I still reread it occasionally when I need reminding of that period."
+    },
+    {
+      "id": "5AU_P3_01",
+      "part": 3,
+      "question": "Why has handwriting become less common in recent years?",
+      "answer": "Mostly because typing is faster and more practical for almost every purpose it used to serve, from note-taking to correspondence, which has naturally pushed handwriting into a smaller, more occasional role in daily life. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5AU_P3_02",
+      "part": 3,
+      "question": "Do you think handwritten letters are more meaningful than digital messages?",
+      "answer": "Generally, yes, I'd say, mainly because of the visible effort involved, the time taken, the physical object itself, all of which give a handwritten letter a weight that a quickly typed message rarely carries. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5AU_P3_03",
+      "part": 3,
+      "question": "Should schools still teach children handwriting, given how much writing is now done digitally?",
+      "answer": "I would say so, at least at a basic level, since research suggests handwriting supports memory and learning in ways typing doesn't fully replicate, even if it's used less often in adult life. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5AU_P3_04",
+      "part": 3,
+      "question": "How might the decline of handwriting affect future generations?",
+      "answer": "I'd guess future generations may struggle to read older handwritten documents or letters, and something of the personal, individual quality handwriting carries could gradually be lost as digital text becomes almost entirely uniform. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

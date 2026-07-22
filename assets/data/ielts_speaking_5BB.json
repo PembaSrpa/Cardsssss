@@ -1,0 +1,66 @@
+{
+  "section": "5BB",
+  "title": "Dreams and Ambitions",
+  "questions": [
+    {
+      "id": "5BB_P1_01",
+      "part": 1,
+      "question": "What did you want to be when you were a child?",
+      "answer": "A pilot, for a strangely specific stretch of my childhood, mostly because I was fascinated by the idea of seeing clouds from above."
+    },
+    {
+      "id": "5BB_P1_02",
+      "part": 1,
+      "question": "Do you have a clear ambition for the future?",
+      "answer": "Somewhat, yes, though it's less about a specific job title now and more about the kind of lifestyle I'd like to build."
+    },
+    {
+      "id": "5BB_P1_03",
+      "part": 1,
+      "question": "Have your ambitions changed much since you were younger?",
+      "answer": "Considerably, yes. What felt important as a teenager barely resembles what actually matters to me now as an adult."
+    },
+    {
+      "id": "5BB_P1_04",
+      "part": 1,
+      "question": "Do you think it's important to have ambitions?",
+      "answer": "I do, yes, mainly because having some direction, even a loose one, tends to give day-to-day decisions more purpose."
+    },
+    {
+      "id": "5BB_P2_01",
+      "part": 2,
+      "question": "Describe an ambition you have for the future.",
+      "cueCardPoints": [
+        "what the ambition is",
+        "when you first thought about it",
+        "what you would need to do to achieve it",
+        "and explain why this ambition is important to you"
+      ],
+      "answer": "I want to talk about an ambition I've had for the past few years, which is to eventually start a small, independent business of my own rather than continuing to work for someone else indefinitely, most likely something connected to the freelance work I already do on the side. I first started thinking seriously about it around the time I finished that laptop-saving goal I mentioned before, once I realised how much I actually enjoyed managing my own small projects compared to the more routine parts of my regular job. To achieve it, I'd need to build up a more stable client base than I currently have, and honestly, I'd also need to save a fair amount as a financial buffer before taking the risk of leaving stable employment entirely. This ambition matters to me mainly because of the independence it represents, being able to shape my own working hours and choose projects based on genuine interest rather than simply what's assigned to me. I'm not in any rush to make the jump immediately, since I think doing it prematurely, without proper preparation, would likely end badly, but it's become a fairly consistent, motivating goal sitting in the background of most of my bigger decisions lately."
+    },
+    {
+      "id": "5BB_P3_01",
+      "part": 3,
+      "question": "Why do people's ambitions often change as they get older?",
+      "answer": "I'd say experience gradually replaces idealism with a more realistic sense of what actually brings satisfaction, which often looks quite different from the more dramatic or externally impressive ambitions people tend to have when they're younger. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5BB_P3_02",
+      "part": 3,
+      "question": "Do you think society places too much pressure on young people to have clear ambitions early in life?",
+      "answer": "To some extent, yes, particularly around choosing a career path while still a teenager, before most people have had enough experience to genuinely know what they want long term. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5BB_P3_03",
+      "part": 3,
+      "question": "Is it better to have one clear ambition or several different goals?",
+      "answer": "I'd lean toward several flexible goals rather than one rigid ambition, since circumstances change, and being too fixed on a single outcome can make people miss genuinely good alternative opportunities along the way. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5BB_P3_04",
+      "part": 3,
+      "question": "How do family expectations influence a person's ambitions?",
+      "answer": "Quite significantly, in many cases, particularly in cultures where family opinion carries a lot of weight in career decisions, which can sometimes create tension between what someone personally wants and what their family expects of them. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

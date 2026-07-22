@@ -1,0 +1,66 @@
+{
+  "section": "5S",
+  "title": "Festivals and Celebrations",
+  "questions": [
+    {
+      "id": "5S_P1_01",
+      "part": 1,
+      "question": "What's your favourite festival?",
+      "answer": "Probably the festival of lights we celebrate in autumn, mainly because the whole street gets decorated and there's a proper sense of everyone being outside at once."
+    },
+    {
+      "id": "5S_P1_02",
+      "part": 1,
+      "question": "How do you usually celebrate festivals?",
+      "answer": "Mostly by visiting family, eating far too much food, and lighting a few decorations outside the house with my younger cousins."
+    },
+    {
+      "id": "5S_P1_03",
+      "part": 1,
+      "question": "Do you prefer big celebrations or small, quiet ones?",
+      "answer": "Small ones, if I'm honest. I enjoy the atmosphere of a big festival for an hour or two, but I'd rather wind down with close family after that."
+    },
+    {
+      "id": "5S_P1_04",
+      "part": 1,
+      "question": "Are festivals in your country mostly religious or cultural?",
+      "answer": "A mix of both, really, though a lot of the religious meaning has softened over time into something more cultural and family-focused for most people."
+    },
+    {
+      "id": "5S_P2_01",
+      "part": 2,
+      "question": "Describe a festival that is important in your country.",
+      "cueCardPoints": [
+        "what the festival is called",
+        "when it takes place",
+        "what people do during it",
+        "and explain why it is important"
+      ],
+      "answer": "The festival I want to describe is Dashain, which is probably the most widely celebrated festival where I'm from, usually falling somewhere in September or October depending on the lunar calendar. It stretches across about two weeks, though the main days are toward the end, when families gather at the home of the eldest relative for a ritual involving blessings, coloured rice pressed onto the forehead, and money given to younger family members. In the days leading up to it, people travel back to their hometowns, sometimes from the other side of the country, which turns the roads and bus stations into something close to chaos every single year. Kites appear on rooftops everywhere, and you'll see makeshift swings built from bamboo in almost every neighbourhood, which is a tradition I still enjoy even as an adult. What makes it important, beyond the rituals themselves, is that it forces an entire country to pause at once and reconnect with family, something that doesn't happen naturally the rest of the year given how spread out people's jobs have become. I always come away from it slightly exhausted from the travelling and the food, but also genuinely recharged in a way few other times of year manage."
+    },
+    {
+      "id": "5S_P3_01",
+      "part": 3,
+      "question": "Why do you think festivals remain important even in modern, busy societies?",
+      "answer": "I'd say they give people a scheduled reason to slow down and reconnect, which busy modern life doesn't naturally allow for otherwise. Without that fixed point in the calendar, family gatherings would probably happen far less often. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5S_P3_02",
+      "part": 3,
+      "question": "Do you think festivals have become too commercialised?",
+      "answer": "To some extent, yes, particularly the more globally recognised ones, where the marketing side sometimes overshadows the original meaning. That said, I don't think commercialisation has erased the personal significance festivals still hold for most families. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5S_P3_03",
+      "part": 3,
+      "question": "Should workplaces give people more holiday time around major festivals?",
+      "answer": "I would say yes, especially in countries where a large portion of the population travels long distances during that period, since a short break often isn't enough to make the journey worthwhile. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5S_P3_04",
+      "part": 3,
+      "question": "How do celebrations differ between generations?",
+      "answer": "Older generations tend to focus more on the ritual and religious side, while younger people often treat the same festival more as a social occasion, built around gathering with friends rather than strictly following tradition. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

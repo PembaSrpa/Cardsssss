@@ -1,0 +1,66 @@
+{
+  "section": "5AE",
+  "title": "Crime and Law",
+  "questions": [
+    {
+      "id": "5AE_P1_01",
+      "part": 1,
+      "question": "Do you think crime is a serious problem in your country?",
+      "answer": "In certain areas, yes, though where I live specifically it's fairly minor compared to what I've read about elsewhere."
+    },
+    {
+      "id": "5AE_P1_02",
+      "part": 1,
+      "question": "Have you or anyone you know been a victim of crime?",
+      "answer": "A minor case, yes - my bike was stolen a couple of years ago, though nothing more serious than that, thankfully."
+    },
+    {
+      "id": "5AE_P1_03",
+      "part": 1,
+      "question": "Do you think punishments for crime are too harsh or too lenient in your country?",
+      "answer": "Too lenient, in some cases, particularly for repeat offenders, though I recognise it's a more complicated balance than a simple yes or no answer."
+    },
+    {
+      "id": "5AE_P1_04",
+      "part": 1,
+      "question": "Do you trust the police in your country?",
+      "answer": "Mostly, yes, though I know that trust isn't shared equally across the country, particularly in regions with less oversight."
+    },
+    {
+      "id": "5AE_P2_01",
+      "part": 2,
+      "question": "Describe a law in your country that you think is important.",
+      "cueCardPoints": [
+        "what the law is",
+        "when it was introduced",
+        "who it affects",
+        "and explain why you think it is important"
+      ],
+      "answer": "I want to describe a law introduced a few years ago requiring motorbike riders and passengers to wear helmets, which sounds like an obvious rule but wasn't strictly enforced until relatively recently where I'm from. Before it was properly enforced, helmet use was fairly inconsistent, especially for short trips around town, where people assumed the risk was low enough not to bother. It affects essentially everyone, since motorbikes are the most common form of transport in most cities here, far more than cars. I remember when enforcement actually began, with checkpoints appearing on major roads and fines being issued fairly consistently for the first time, which caused a fair amount of grumbling initially, mostly from people who found helmets uncomfortable or inconvenient. I think it's an important law because head injuries from motorbike accidents are genuinely severe, and a helmet meaningfully reduces that risk in a way that's easy to overlook until it directly affects someone you know. A cousin of mine was in a minor accident a couple of years after the law was enforced and walked away with barely a scratch, something a doctor told him would likely not have been the case without the helmet. That single case probably did more to convince our extended family of its value than any government campaign could have."
+    },
+    {
+      "id": "5AE_P3_01",
+      "part": 3,
+      "question": "Why do crime rates tend to be higher in some areas than others?",
+      "answer": "Poverty and lack of opportunity are usually significant factors, since areas with limited access to education or stable employment often see higher crime rates as a consequence rather than a cause of underlying disadvantage. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5AE_P3_02",
+      "part": 3,
+      "question": "Do you think prison is an effective way to reduce crime?",
+      "answer": "To some extent, particularly for serious offences where removing someone from society is genuinely necessary. For lesser crimes, though, I think rehabilitation programmes tend to be more effective at preventing reoffending than prison alone. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5AE_P3_03",
+      "part": 3,
+      "question": "Should the death penalty be used for serious crimes?",
+      "answer": "I'd lean against it, personally, partly because of the risk of wrongful conviction, and partly because I'm not convinced it deters crime any more effectively than long-term imprisonment does. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5AE_P3_04",
+      "part": 3,
+      "question": "How can governments reduce crime more effectively?",
+      "answer": "I would say investing in education and economic opportunity tends to address root causes more effectively than policing alone, though a reasonable level of law enforcement obviously remains necessary alongside that. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5AG",
+  "title": "Gifts and Giving",
+  "questions": [
+    {
+      "id": "5AG_P1_01",
+      "part": 1,
+      "question": "Do you enjoy giving gifts?",
+      "answer": "Yes, quite a lot actually, though I sometimes overthink it and end up spending far too long deciding on something small."
+    },
+    {
+      "id": "5AG_P1_02",
+      "part": 1,
+      "question": "What was the last gift you gave someone?",
+      "answer": "A secondhand book I found for my sister, one by an author she'd mentioned liking a while back, which I remembered mostly by luck."
+    },
+    {
+      "id": "5AG_P1_03",
+      "part": 1,
+      "question": "Do you prefer giving or receiving gifts?",
+      "answer": "Giving, honestly. There's a specific satisfaction in getting a reaction right that I don't get from receiving gifts myself."
+    },
+    {
+      "id": "5AG_P1_04",
+      "part": 1,
+      "question": "What kind of gifts do you usually give to close friends?",
+      "answer": "Usually something small and specific to them rather than anything generic, even if it costs less than a more obvious, safer choice."
+    },
+    {
+      "id": "5AG_P2_01",
+      "part": 2,
+      "question": "Describe a gift you received that you particularly liked.",
+      "cueCardPoints": [
+        "what the gift was",
+        "who gave it to you",
+        "why they gave it to you",
+        "and explain why you liked it"
+      ],
+      "answer": "I want to describe a hand-drawn map my younger sister gave me a few years ago, marking out every place we'd visited together as children, drawn from memory on a single large sheet of paper with small notes scribbled next to each location. She gave it to me for my birthday shortly after I'd moved to a different city for work, which I think was partly the reason behind it, since she mentioned wanting to give me something to remember home by rather than another generic present. It wasn't an expensive gift by any measure, just paper, a few coloured pens, and clearly a fair number of hours spent working on it in secret, since I had no idea she was making it. I liked it far more than any of the more conventional gifts I'd received that year, mainly because of how personal and specific it was, referencing small details only the two of us would recognise, like a particular tree we used to climb that doesn't even exist anymore. I still have it framed on a wall in my apartment, and it's probably the one object I'd try to save first if something ever went wrong at home, given how irreplaceable it genuinely is."
+    },
+    {
+      "id": "5AG_P3_01",
+      "part": 3,
+      "question": "Why do people give gifts?",
+      "answer": "I'd say it's mostly a way of showing thought and effort toward someone, a tangible signal of care that words alone don't always fully convey, particularly in cultures where direct emotional expression isn't the norm. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5AG_P3_02",
+      "part": 3,
+      "question": "Do you think expensive gifts are always better than cheap ones?",
+      "answer": "Not at all, in my view. The thought and personal relevance behind a gift usually matters far more than its price, and an expensive but generic gift often feels less meaningful than something small and specific. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5AG_P3_03",
+      "part": 3,
+      "question": "How do gift-giving traditions differ between cultures?",
+      "answer": "Quite significantly - some cultures expect immediate opening of gifts in front of the giver, while others consider that impolite. There are also differences around reciprocity, with some cultures expecting a gift of roughly equal value in return. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5AG_P3_04",
+      "part": 3,
+      "question": "Do you think gift-giving has become too commercialised, especially around holidays?",
+      "answer": "To some extent, yes, particularly around major shopping periods that seem designed more to encourage spending than genuine thoughtfulness, though I don't think that's replaced the personal meaning gifts can still carry between close friends and family. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

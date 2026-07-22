@@ -1,0 +1,66 @@
+{
+  "section": "5Y",
+  "title": "City Life vs Countryside Life",
+  "questions": [
+    {
+      "id": "5Y_P1_01",
+      "part": 1,
+      "question": "Do you live in a city or in the countryside?",
+      "answer": "In a city currently, though I grew up somewhere much smaller, closer to the countryside than to any real urban area."
+    },
+    {
+      "id": "5Y_P1_02",
+      "part": 1,
+      "question": "What do you like about city life?",
+      "answer": "The convenience, mostly - everything from hospitals to restaurants is close by, and there's always something happening if you want it."
+    },
+    {
+      "id": "5Y_P1_03",
+      "part": 1,
+      "question": "Would you prefer to live in the countryside?",
+      "answer": "Eventually, maybe, particularly once I'm less tied to a specific office. Right now the city makes more practical sense for work."
+    },
+    {
+      "id": "5Y_P1_04",
+      "part": 1,
+      "question": "What are the main differences between life in a city and life in the countryside?",
+      "answer": "Pace, mostly, and the size of your social circle. Cities move faster and feel more anonymous, while countryside life tends to be slower and more communal."
+    },
+    {
+      "id": "5Y_P2_01",
+      "part": 2,
+      "question": "Describe a place in the countryside that you have visited.",
+      "cueCardPoints": [
+        "where it is",
+        "when you visited",
+        "what you did there",
+        "and explain how you felt while you were there"
+      ],
+      "answer": "I want to describe a small farming village where my mother grew up, a few hours from the nearest town, which I visited most recently about two years ago after a fairly long gap. The last time before that had been almost a decade earlier, so a lot had changed, though the surrounding rice terraces and the narrow dirt road leading in were exactly as I remembered them. I stayed for about five days with a distant relative, spending most mornings walking through the fields with her, since she still farms a small plot despite being well into her seventies. In the evenings there was very little to do beyond sitting outside and talking, since electricity in that area is still unreliable and the nearest shop is a fair walk away. At first the lack of anything to occupy myself with felt strange, almost uncomfortable, since I'm used to constant background noise from my phone or the city around me. By the third day, though, I noticed I felt genuinely calmer than I had in months, sleeping earlier and waking naturally without an alarm. I left feeling reluctant to return to the city, which surprised me, since I'd always assumed I preferred urban life without much question."
+    },
+    {
+      "id": "5Y_P3_01",
+      "part": 3,
+      "question": "Why do so many people move from the countryside to cities?",
+      "answer": "Mostly for work and education, since those opportunities tend to be concentrated in urban areas. Once enough people make that move, services in rural areas often decline further, which pushes even more people to leave. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5Y_P3_02",
+      "part": 3,
+      "question": "Do you think city life is better than countryside life?",
+      "answer": "I wouldn't say better exactly, just different, since each suits a different set of priorities. Cities offer opportunity and convenience, while the countryside tends to offer space and a slower pace, and which matters more depends entirely on the person. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5Y_P3_03",
+      "part": 3,
+      "question": "Should governments do more to improve infrastructure in rural areas?",
+      "answer": "I would say yes, since better roads, healthcare, and internet access in rural regions could ease some of the pressure driving people toward already overcrowded cities. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5Y_P3_04",
+      "part": 3,
+      "question": "How might remote work change the balance between city and countryside populations?",
+      "answer": "It could shift things meaningfully over time, since people no longer strictly need to live near their workplace. I wouldn't expect a dramatic reversal, but a gradual movement back toward smaller towns seems plausible. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

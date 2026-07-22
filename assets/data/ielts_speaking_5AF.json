@@ -1,0 +1,66 @@
+{
+  "section": "5AF",
+  "title": "Education Systems",
+  "questions": [
+    {
+      "id": "5AF_P1_01",
+      "part": 1,
+      "question": "What was school like for you growing up?",
+      "answer": "Fairly strict, honestly, with a lot of emphasis on memorisation and exams rather than the kind of discussion-based learning I've seen described in other countries."
+    },
+    {
+      "id": "5AF_P1_02",
+      "part": 1,
+      "question": "Do you think your country's education system is good?",
+      "answer": "It has strengths, particularly in maths and sciences, but I think it puts too much pressure on exams at the expense of practical or creative skills."
+    },
+    {
+      "id": "5AF_P1_03",
+      "part": 1,
+      "question": "What subject did you enjoy most at school?",
+      "answer": "History, mostly, mainly because of one particular teacher who made it feel relevant rather than just a list of dates to memorise."
+    },
+    {
+      "id": "5AF_P1_04",
+      "part": 1,
+      "question": "Do you think school prepared you well for adult life?",
+      "answer": "Partially, yes, academically at least, but I'd say it did very little to prepare me for practical things like managing money or dealing with real workplace situations."
+    },
+    {
+      "id": "5AF_P2_01",
+      "part": 2,
+      "question": "Describe an aspect of your country's education system you would like to change.",
+      "cueCardPoints": [
+        "what the aspect is",
+        "how it currently works",
+        "why you would like to change it",
+        "and explain what you would change it to"
+      ],
+      "answer": "I want to talk about the heavy emphasis on final exams in our education system, which currently determines almost everything about a student's future, university placement, scholarship eligibility, even certain job opportunities, based largely on performance across a handful of exams at the end of secondary school. As it currently works, students spend years being trained specifically for exam technique rather than genuine understanding, with private tutoring centres built entirely around preparing for these tests becoming almost a parallel education system of their own. I'd like to change it mainly because I've seen capable, hardworking students underperform simply due to exam anxiety or a single bad day, which then affects their entire future disproportionately to what that one exam actually measured about their ability. What I'd change it to is a system that weighs continuous assessment more heavily alongside final exams, similar to models I've read about in some European countries, where coursework and projects contribute meaningfully to a final grade rather than everything resting on a few hours of testing. I think that would reduce the extreme pressure students currently face and give a more accurate picture of what someone can actually do, rather than just how well they perform under exam conditions specifically."
+    },
+    {
+      "id": "5AF_P3_01",
+      "part": 3,
+      "question": "Why do education systems vary so much between countries?",
+      "answer": "A lot of it comes down to culture and history, since some countries prioritise exam performance and discipline, while others emphasise creativity or critical thinking, often reflecting broader values about what success is supposed to look like. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5AF_P3_02",
+      "part": 3,
+      "question": "Do you think exams are the best way to measure a student's ability?",
+      "answer": "Not entirely, no. Exams measure a narrow set of skills well, particularly recall under pressure, but they miss a lot of practical or creative ability that doesn't show up on a written test. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5AF_P3_03",
+      "part": 3,
+      "question": "Should university education be free for everyone?",
+      "answer": "I'd lean toward yes, or at least heavily subsidised, since financial barriers to higher education tend to reinforce existing inequality rather than reward ability or effort. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5AF_P3_04",
+      "part": 3,
+      "question": "How might education systems need to change to prepare students for future careers?",
+      "answer": "I'd expect a bigger shift toward adaptability and problem-solving skills, given how quickly specific technical knowledge becomes outdated. Rigid, fact-based curricula seem less useful in a job market that keeps changing shape. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

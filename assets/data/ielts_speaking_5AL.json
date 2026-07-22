@@ -1,0 +1,66 @@
+{
+  "section": "5AL",
+  "title": "Natural Disasters",
+  "questions": [
+    {
+      "id": "5AL_P1_01",
+      "part": 1,
+      "question": "Has your country experienced any natural disasters?",
+      "answer": "Yes, earthquakes mostly, given where we're located. There was a major one about a decade ago that affected a huge part of the country."
+    },
+    {
+      "id": "5AL_P1_02",
+      "part": 1,
+      "question": "Are you worried about natural disasters?",
+      "answer": "Somewhat, yes, particularly earthquakes, since there isn't much warning beforehand compared to something like a storm you can see coming."
+    },
+    {
+      "id": "5AL_P1_03",
+      "part": 1,
+      "question": "Have you or your family ever been affected by a natural disaster?",
+      "answer": "My family's house had some structural damage during the major earthquake I mentioned, though thankfully nobody was seriously hurt."
+    },
+    {
+      "id": "5AL_P1_04",
+      "part": 1,
+      "question": "Do you think people in your country are well prepared for natural disasters?",
+      "answer": "Not as well as they should be, honestly, particularly in terms of building standards in older parts of the city."
+    },
+    {
+      "id": "5AL_P2_01",
+      "part": 2,
+      "question": "Describe a natural disaster that affected you or your community.",
+      "cueCardPoints": [
+        "what the disaster was",
+        "when it happened",
+        "how it affected people",
+        "and explain how the community responded to it"
+      ],
+      "answer": "I want to describe a major earthquake that hit the country I'm from about a decade ago, which I remember with unusual clarity given how young I was at the time. It happened on a Saturday afternoon, and I was at home with my mother when the shaking started, mild at first before it became strong enough that we ran outside without really deciding to, following instinct more than any actual plan. The immediate area lost power for several days, and a number of older buildings nearby, including part of a local temple, were badly damaged or collapsed entirely. My family was fortunate compared to many others, since our house needed repairs but remained structurally sound, unlike some neighbours who lost their homes completely and ended up in temporary shelters for weeks afterward. What I remember most clearly, though, wasn't the disaster itself but how the community responded almost immediately, neighbours who barely spoke to each other before suddenly sharing food, tents, and information, organising informal supply points before any official aid arrived. It genuinely changed how I think about community, since I saw firsthand how quickly people can come together when something forces them to rely on each other rather than manage everything individually."
+    },
+    {
+      "id": "5AL_P3_01",
+      "part": 3,
+      "question": "Why do some countries suffer more damage from natural disasters than others?",
+      "answer": "Infrastructure and wealth play a huge role, since wealthier countries can afford stricter building codes and better early warning systems, which significantly reduces the damage from an equivalent disaster compared to a poorer country. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5AL_P3_02",
+      "part": 3,
+      "question": "Do you think climate change is increasing the frequency of natural disasters?",
+      "answer": "Based on what I've read, yes, particularly for weather-related disasters like floods and storms, which appear to be increasing in both frequency and intensity in a lot of regions. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5AL_P3_03",
+      "part": 3,
+      "question": "How can governments better prepare their citizens for natural disasters?",
+      "answer": "Stricter building regulations and regular public drills seem to make the biggest difference, alongside clear, well-communicated emergency plans that people actually know and can follow when something happens. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5AL_P3_04",
+      "part": 3,
+      "question": "Should wealthier countries help poorer countries recover from natural disasters?",
+      "answer": "I would say yes, partly out of basic humanitarian responsibility, and partly because global instability caused by unaddressed disasters in one region tends to have ripple effects that reach far beyond that country's borders eventually. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

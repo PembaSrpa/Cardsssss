@@ -1,0 +1,66 @@
+{
+  "section": "5AX",
+  "title": "Watching Sports Events",
+  "questions": [
+    {
+      "id": "5AX_P1_01",
+      "part": 1,
+      "question": "Do you enjoy watching sports events?",
+      "answer": "Yes, quite a lot, particularly football, though I'll watch almost any major international competition if it's on."
+    },
+    {
+      "id": "5AX_P1_02",
+      "part": 1,
+      "question": "Do you prefer watching sports live or on television?",
+      "answer": "On television, mostly, for practical reasons, though I've been to a handful of live matches that were genuinely more exciting."
+    },
+    {
+      "id": "5AX_P1_03",
+      "part": 1,
+      "question": "Which sports events do you follow most closely?",
+      "answer": "International football tournaments, mainly, along with the occasional cricket match when there's a significant regional rivalry involved."
+    },
+    {
+      "id": "5AX_P1_04",
+      "part": 1,
+      "question": "Do you watch sports alone or with other people?",
+      "answer": "Almost always with others, if possible. Watching a big match alone feels like missing half the experience, honestly."
+    },
+    {
+      "id": "5AX_P2_01",
+      "part": 2,
+      "question": "Describe a sports event you watched that you found exciting.",
+      "cueCardPoints": [
+        "what the event was",
+        "when and where you watched it",
+        "who you watched it with",
+        "and explain why you found it exciting"
+      ],
+      "answer": "I want to describe a football match I watched a few years ago, a fairly late-stage match in a major international tournament, which I watched at a friend's apartment along with about six other people crammed onto two sofas and a scattering of floor cushions. It wasn't a match involving our own country's team, since we don't usually qualify for that stage, but rather two teams neither of us had a strong personal connection to, which made it strange how invested the whole room became as the match progressed. The score stayed level for almost the entire ninety minutes, with several near misses that had the whole room groaning or cheering within seconds of each other, before it eventually went to extra time and then, agonisingly, to penalties. I remember the tension in that room being almost unbearable by the final penalty, with everyone completely silent for the few seconds before the ball was struck. What made it exciting wasn't really loyalty to either team but the shared, collective tension of watching it unfold with a group of people equally invested, reacting in real time to something none of us could influence at all. I don't even remember which team ultimately won, but I remember that room and the noise it made vividly."
+    },
+    {
+      "id": "5AX_P3_01",
+      "part": 3,
+      "question": "Why do people enjoy watching sports events even when they're not playing themselves?",
+      "answer": "I'd say it comes down to shared excitement and unpredictability, watching something unfold live, with a genuine outcome at stake, offers a kind of engagement that's hard to replicate through scripted entertainment. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5AX_P3_02",
+      "part": 3,
+      "question": "Do you think major sports events bring communities or countries together?",
+      "answer": "To a significant extent, yes, at least temporarily, since a shared event gives people something in common to talk about and rally behind, regardless of other differences that might otherwise divide them. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5AX_P3_03",
+      "part": 3,
+      "question": "Should governments spend public money on hosting major international sports events?",
+      "answer": "I'd be cautious about this, honestly. While hosting can boost tourism and national pride temporarily, the infrastructure costs are often significant, and I've read of several cases where the long-term economic benefit didn't justify the initial spending. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5AX_P3_04",
+      "part": 3,
+      "question": "How has watching sports changed with the rise of streaming and online platforms?",
+      "answer": "It's become far more flexible, since viewers are no longer tied to a fixed broadcast schedule, though I'd say something is lost too, since the shared, simultaneous experience of watching live on a fixed channel used to feel more communal. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

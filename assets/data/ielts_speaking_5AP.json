@@ -1,0 +1,66 @@
+{
+  "section": "5AP",
+  "title": "Volunteering",
+  "questions": [
+    {
+      "id": "5AP_P1_01",
+      "part": 1,
+      "question": "Have you ever done any volunteer work?",
+      "answer": "Yes, a little, mostly through a local group that organises occasional clean-up drives around rivers near the city."
+    },
+    {
+      "id": "5AP_P1_02",
+      "part": 1,
+      "question": "Do you think volunteering is important?",
+      "answer": "Definitely, yes. It's one of the more direct ways an individual can contribute to a community without needing significant money or influence."
+    },
+    {
+      "id": "5AP_P1_03",
+      "part": 1,
+      "question": "What kind of volunteer work would you like to do?",
+      "answer": "Something education-related, ideally, tutoring children who don't have easy access to extra academic support outside school."
+    },
+    {
+      "id": "5AP_P1_04",
+      "part": 1,
+      "question": "Do many people in your country do volunteer work?",
+      "answer": "Not as many as I'd expect, honestly, though the ones who do tend to be quite dedicated and involved in multiple causes at once."
+    },
+    {
+      "id": "5AP_P2_01",
+      "part": 2,
+      "question": "Describe a time when you did volunteer work.",
+      "cueCardPoints": [
+        "what the volunteer work involved",
+        "when and where you did it",
+        "who you did it with",
+        "and explain how you felt about the experience"
+      ],
+      "answer": "I want to describe a weekend I spent volunteering at a shelter for stray animals on the outskirts of the city, something a coworker invited me to after mentioning she went most weekends and thought I might enjoy it. It involved fairly basic tasks, cleaning enclosures, refilling food and water, and walking a few of the calmer dogs around a small yard attached to the property, nothing that required any special training beyond a willingness to get a bit dirty. I went with that same coworker and one other volunteer neither of us had met before, a retired teacher who apparently came almost every weekend and clearly knew every animal there individually. I felt genuinely tired by the end of the day, more physically demanding than I'd expected, but also surprisingly content in a way that's hard to fully explain, probably because the tasks were simple and the impact felt immediate rather than abstract. What stayed with me most was a particularly nervous dog who wouldn't approach anyone at the start of the day but was willing to sit beside me by the time I left, which felt like a small but genuine achievement. I went back a few more times after that, though not as regularly as I probably should, given how worthwhile it consistently felt."
+    },
+    {
+      "id": "5AP_P3_01",
+      "part": 3,
+      "question": "Why do you think some people choose to volunteer their time?",
+      "answer": "For a mix of reasons, I'd say, genuine care for a cause, a desire for a sense of purpose beyond paid work, and sometimes a practical motivation like gaining experience relevant to a future career. That said, I know opinions on this vary a lot depending on someone's own background and experience."
+    },
+    {
+      "id": "5AP_P3_02",
+      "part": 3,
+      "question": "Should schools require students to complete a certain number of volunteer hours?",
+      "answer": "I'd lean toward yes, since early exposure tends to build a habit that continues into adulthood, though I'd worry slightly about it feeling more like an obligation than a genuine choice if enforced too rigidly. Of course, there are exceptions to this, and I wouldn't want to generalise too confidently."
+    },
+    {
+      "id": "5AP_P3_03",
+      "part": 3,
+      "question": "Do you think companies should encourage their employees to volunteer?",
+      "answer": "I would say so, particularly by giving paid time specifically for it, since a lot of people would otherwise struggle to fit volunteering around already demanding work schedules. It's a fairly complex issue though, and I don't think there's one answer that fits every situation."
+    },
+    {
+      "id": "5AP_P3_04",
+      "part": 3,
+      "question": "What are the benefits of volunteering, both for individuals and for society?",
+      "answer": "For individuals, it often builds skills and a genuine sense of purpose, while for society it fills gaps that government or paid services don't always reach, particularly in smaller or under-resourced communities. I'll admit my view here is shaped mostly by what I've personally observed rather than any deep research."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5N",
+  "title": "Books and Reading",
+  "questions": [
+    {
+      "id": "5N_P1_01",
+      "part": 1,
+      "question": "Do you enjoy reading?",
+      "answer": "I do, though I go through phases - some months I'll read every night, and other months I barely pick up a book at all."
+    },
+    {
+      "id": "5N_P1_02",
+      "part": 1,
+      "question": "What kind of books do you usually read?",
+      "answer": "Mostly non-fiction, things like history or biographies, though I'll occasionally read a novel if a friend recommends one strongly enough."
+    },
+    {
+      "id": "5N_P1_03",
+      "part": 1,
+      "question": "Do you prefer physical books or e-books?",
+      "answer": "Physical books, even though e-readers are more practical for travelling. There's something about turning actual pages that keeps me more focused."
+    },
+    {
+      "id": "5N_P1_04",
+      "part": 1,
+      "question": "Did you read a lot as a child?",
+      "answer": "Not as much as I probably should have. I preferred being outside, and reading only really became a habit for me in my twenties."
+    },
+    {
+      "id": "5N_P2_01",
+      "part": 2,
+      "question": "Describe a book that had a strong impact on you.",
+      "cueCardPoints": [
+        "what the book was about",
+        "when you read it",
+        "why you decided to read it",
+        "and explain what impact it had on you"
+      ],
+      "answer": "The book I'd like to describe is a biography of a mountaineer who spent most of his life attempting climbs that very few people had survived, and I read it during a fairly directionless period a few years after finishing university. A colleague at the time recommended it almost casually, saying it had nothing to do with my job but that I might get something out of it anyway, so I picked it up mostly out of curiosity rather than any real interest in mountaineering. What struck me wasn't really the climbing itself but how the author described decision-making under pressure - moments where turning back would have been the sensible choice but weren't taken, and the consequences that followed from that. I remember finishing it in about four days, which was unusual for me at the time since I wasn't reading much at all. The impact it had was less about mountains and more about how I started thinking about my own choices afterward, particularly around sticking with a job I didn't enjoy simply because turning back felt harder than continuing. I ended up changing careers about a year later, and while I wouldn't say the book alone caused that, it was definitely part of what pushed the decision along."
+    },
+    {
+      "id": "5N_P3_01",
+      "part": 3,
+      "question": "Why do you think some people prefer reading to watching films?",
+      "answer": "I'd say it comes down to pace and imagination - books let you build the world at your own speed, whereas films hand you a finished version of it. Some people find that slower, more active process more satisfying. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5N_P3_02",
+      "part": 3,
+      "question": "Do you think children read less than they used to because of technology?",
+      "answer": "Probably, yes, at least in terms of time spent, since phones and games compete directly for the same attention span reading used to occupy. Whether that's entirely negative is debatable, though, since children are still absorbing stories, just through different formats. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5N_P3_03",
+      "part": 3,
+      "question": "Should governments invest more in public libraries?",
+      "answer": "I would say yes, particularly because libraries offer free access to information and quiet space that not everyone has at home. Cutting that kind of funding tends to affect lower-income communities the most. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5N_P3_04",
+      "part": 3,
+      "question": "How important is reading for developing a person's language skills?",
+      "answer": "Quite important, in my view, because reading exposes you to structures and vocabulary you wouldn't necessarily pick up through speaking alone. It builds a kind of passive fluency that later shows up in how someone writes or argues a point. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5AS",
+  "title": "Colours",
+  "questions": [
+    {
+      "id": "5AS_P1_01",
+      "part": 1,
+      "question": "What's your favourite colour?",
+      "answer": "Green, generally, particularly the darker, more muted shades rather than anything too bright or artificial-looking."
+    },
+    {
+      "id": "5AS_P1_02",
+      "part": 1,
+      "question": "Has your favourite colour changed since you were a child?",
+      "answer": "Yes, actually - I was fairly obsessed with a bright orange as a child, which I can barely stand looking at now."
+    },
+    {
+      "id": "5AS_P1_03",
+      "part": 1,
+      "question": "Do the colours you wear reflect your personality?",
+      "answer": "Maybe a little, though mostly I just gravitate toward colours that are easy to match with everything else I own."
+    },
+    {
+      "id": "5AS_P1_04",
+      "part": 1,
+      "question": "Do you think colours can affect people's moods?",
+      "answer": "I do, yes, at least to some degree - certain colours in a room genuinely make me feel calmer or more alert than others."
+    },
+    {
+      "id": "5AS_P2_01",
+      "part": 2,
+      "question": "Describe a colour that is important or meaningful to you.",
+      "cueCardPoints": [
+        "what the colour is",
+        "where you usually see it",
+        "why it is meaningful to you",
+        "and explain how it makes you feel"
+      ],
+      "answer": "I want to talk about a specific deep red, close to maroon, that was the exact colour of a shawl my grandmother wore almost every day for as long as I can remember her. I see it most often now in old family photographs, since she passed away several years ago, and occasionally in fabric shops, where I'll sometimes stop and stare at a bolt of cloth simply because the colour matches so closely. It's meaningful to me mainly because of how specifically tied it is to her, more than any single memory or object could manage on its own, since it appears across dozens of different photographs and moments spanning years. I bought a scarf in almost exactly that shade a couple of years after she died, not because I particularly needed one, but because I wanted something in that colour to keep with me regularly rather than only encountering it occasionally in old photos. It makes me feel a specific kind of quiet comfort whenever I notice it somewhere unexpected, a shop window, someone's coat on the street, a brief, small reminder of her that doesn't require any deliberate effort to summon. I doubt most people would think twice about that particular shade of red, but for me it carries a fair amount of weight."
+    },
+    {
+      "id": "5AS_P3_01",
+      "part": 3,
+      "question": "Why do different cultures associate different meanings with the same colour?",
+      "answer": "It usually traces back to history and tradition, since a colour used in religious ceremonies or royal clothing in one culture might have had entirely different associations in another, and those meanings tend to stick over generations. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5AS_P3_02",
+      "part": 3,
+      "question": "Do you think colours in advertising influence consumer behaviour?",
+      "answer": "To some extent, yes, since companies clearly invest significant thought into branding colours, and certain colours are consistently associated with urgency or trust, which advertisers deliberately use to their advantage. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5AS_P3_03",
+      "part": 3,
+      "question": "How might colour preferences differ between generations?",
+      "answer": "Older generations often gravitate toward more muted, traditional colours, in my observation, while younger generations seem more open to bold or unconventional colour choices, particularly in fashion and design. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5AS_P3_04",
+      "part": 3,
+      "question": "Should colour be considered a serious subject of academic study?",
+      "answer": "I would say so, given how much it influences fields like psychology, design, and marketing. It might seem like a minor topic on the surface, but the underlying effects on human behaviour are genuinely well documented. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

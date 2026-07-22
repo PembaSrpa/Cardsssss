@@ -1,0 +1,66 @@
+{
+  "section": "5BA",
+  "title": "Leisure Time",
+  "questions": [
+    {
+      "id": "5BA_P1_01",
+      "part": 1,
+      "question": "How much leisure time do you usually have?",
+      "answer": "Not a huge amount on weekdays, honestly, maybe an hour or two in the evening after work and other obligations."
+    },
+    {
+      "id": "5BA_P1_02",
+      "part": 1,
+      "question": "What do you usually do in your leisure time?",
+      "answer": "Mostly reading or watching something, though I try to get outside at least once during the weekend if the weather cooperates."
+    },
+    {
+      "id": "5BA_P1_03",
+      "part": 1,
+      "question": "Do you think you have enough leisure time?",
+      "answer": "Not quite, if I'm honest. I'd like more time for hobbies I've let slide over the past couple of years."
+    },
+    {
+      "id": "5BA_P1_04",
+      "part": 1,
+      "question": "Has the amount of leisure time you have changed since you started working?",
+      "answer": "Significantly, yes. As a student I had far more free time, even though I probably didn't appreciate it as much back then."
+    },
+    {
+      "id": "5BA_P2_01",
+      "part": 2,
+      "question": "Describe how you like to spend your leisure time.",
+      "cueCardPoints": [
+        "what activities you enjoy doing",
+        "who you usually do these activities with",
+        "when you find time for them",
+        "and explain why you enjoy spending your time this way"
+      ],
+      "answer": "I want to describe how I've come to spend most of my leisure time over the past couple of years, which has settled fairly consistently around cooking, something I never particularly cared about until fairly recently. Most weekday evenings I'll spend around forty minutes preparing a proper meal rather than something quick, usually alone, with music playing in the background, though on weekends I'll sometimes cook with a close friend who lives nearby and shares the same interest. I find time for it mainly by treating it as a fixed part of my evening rather than something optional that gets pushed aside when I'm tired, which is a habit I had to deliberately build rather than one that came naturally. I enjoy spending my time this way for a few reasons, honestly. It's practical, obviously, since I need to eat regardless, but it's also become one of the few activities where I'm fully focused on something physical and immediate rather than staring at a screen, which takes up most of the rest of my day. There's also a small, satisfying sense of progress to it, noticing a dish I've made a dozen times gradually improving, which feels different from the more abstract progress I track at work."
+    },
+    {
+      "id": "5BA_P3_01",
+      "part": 3,
+      "question": "Why do people need leisure time?",
+      "answer": "Beyond simple rest, leisure time allows people to pursue interests unrelated to work obligations, which contributes significantly to mental wellbeing and, indirectly, to being more effective during actual working hours too. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5BA_P3_02",
+      "part": 3,
+      "question": "Do you think people today have less leisure time than in the past?",
+      "answer": "In terms of raw hours, possibly not significantly less, but I'd argue the quality has declined, since even leisure time is now frequently interrupted by work notifications that previous generations simply didn't have to deal with. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5BA_P3_03",
+      "part": 3,
+      "question": "Should governments regulate maximum working hours to protect leisure time?",
+      "answer": "I would say yes, generally, particularly in industries known for excessive overtime, since without some regulation, competitive pressure tends to push working hours upward regardless of the toll it takes on employees. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5BA_P3_04",
+      "part": 3,
+      "question": "How do people's leisure activities differ between generations?",
+      "answer": "Older generations, in my observation, tend toward more social or outdoor leisure activities, while younger generations often gravitate toward digital entertainment, though I'd hesitate to assume one is inherently more valuable than the other. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

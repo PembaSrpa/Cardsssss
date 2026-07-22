@@ -1,0 +1,66 @@
+{
+  "section": "5AN",
+  "title": "Photography",
+  "questions": [
+    {
+      "id": "5AN_P1_01",
+      "part": 1,
+      "question": "Do you enjoy taking photographs?",
+      "answer": "Yes, quite a lot actually, mostly on my phone rather than with a proper camera, though I've been considering buying one."
+    },
+    {
+      "id": "5AN_P1_02",
+      "part": 1,
+      "question": "What do you usually take photographs of?",
+      "answer": "Mostly food and small everyday moments, honestly, rather than dramatic landscapes or anything particularly artistic."
+    },
+    {
+      "id": "5AN_P1_03",
+      "part": 1,
+      "question": "Do you prefer taking photos of people or places?",
+      "answer": "Places, generally, though candid photos of friends without them noticing tend to be my favourites when I look back at them later."
+    },
+    {
+      "id": "5AN_P1_04",
+      "part": 1,
+      "question": "Do you often look back at old photographs?",
+      "answer": "Occasionally, yes, usually when I'm searching for something specific and end up scrolling much further back than intended."
+    },
+    {
+      "id": "5AN_P2_01",
+      "part": 2,
+      "question": "Describe a photograph that is important to you.",
+      "cueCardPoints": [
+        "what the photograph shows",
+        "when it was taken",
+        "who took it",
+        "and explain why it is important to you"
+      ],
+      "answer": "I want to describe a slightly blurry photograph of my grandmother and me sitting on the steps outside her old house, taken by my father on an actual film camera, back when every shot genuinely counted since you couldn't just delete a bad one. I must have been around five years old in it, and my grandmother, who passed away several years ago now, is laughing at something clearly said just before the photo was taken, an expression I can still picture perfectly even without looking at it. My father took it during what turned out to be one of the last visits before we moved to a different city, though none of us knew that at the time. It's important to me mainly because it's one of the few clear photographs I have of her from that specific period of my childhood, since photographs weren't taken as casually or as frequently back then as they are now with everyone carrying a phone. I keep a printed copy of it in my wallet, slightly worn at the edges from being carried around for years, and whenever I come across it I'm reminded of a version of my childhood that otherwise exists mostly as vague, fading memory rather than anything concrete."
+    },
+    {
+      "id": "5AN_P3_01",
+      "part": 3,
+      "question": "How has photography changed since the introduction of smartphones?",
+      "answer": "Enormously, since taking a photo now costs nothing and requires no real skill or planning, which has made photography far more casual and constant compared to the deliberate, limited approach film cameras used to demand. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5AN_P3_02",
+      "part": 3,
+      "question": "Do you think people take too many photographs nowadays?",
+      "answer": "Probably, yes, and I'd say it sometimes comes at the cost of actually experiencing a moment, since people are often more focused on capturing an event than genuinely being present in it. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5AN_P3_03",
+      "part": 3,
+      "question": "Is photography a form of art?",
+      "answer": "I'd say it can be, certainly, when there's genuine skill and intention behind composition and lighting, though a lot of everyday photography is more documentation than art in any deliberate sense. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5AN_P3_04",
+      "part": 3,
+      "question": "How do photographs help preserve history and personal memories?",
+      "answer": "They provide a fixed, visual reference point that memory alone tends to distort over time, which makes them genuinely valuable both for personal history and for documenting broader historical events as they actually looked. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5AD",
+  "title": "Celebrities",
+  "questions": [
+    {
+      "id": "5AD_P1_01",
+      "part": 1,
+      "question": "Are you interested in celebrities?",
+      "answer": "Not particularly, no. I'll recognise a few well-known names, but I don't follow celebrity news or social media accounts."
+    },
+    {
+      "id": "5AD_P1_02",
+      "part": 1,
+      "question": "Do you follow any celebrities on social media?",
+      "answer": "A couple, mostly musicians whose work I actually follow rather than their personal lives specifically."
+    },
+    {
+      "id": "5AD_P1_03",
+      "part": 1,
+      "question": "Do you think celebrities have too much influence on young people?",
+      "answer": "To some extent, yes, particularly around appearance and lifestyle, since young people often look up to them without questioning how curated that image usually is."
+    },
+    {
+      "id": "5AD_P1_04",
+      "part": 1,
+      "question": "Would you like to meet a celebrity in person?",
+      "answer": "Not especially, if I'm honest. I imagine most of them are fairly different from their public image, which might be disappointing."
+    },
+    {
+      "id": "5AD_P2_01",
+      "part": 2,
+      "question": "Describe a celebrity you admire.",
+      "cueCardPoints": [
+        "who this person is",
+        "what they are known for",
+        "how you learned about them",
+        "and explain why you admire them"
+      ],
+      "answer": "I want to talk about a mountaineer and public speaker who's fairly well known in my country, though probably not internationally, someone who's climbed several of the highest peaks in the region while also running education programmes for children from remote mountain villages. I first learned about him through a documentary a friend recommended a few years back, which focused less on the climbing itself and more on his background, growing up in a small village with very limited access to schooling. What makes him stand out to me isn't really the climbing achievements, impressive as they are, but the fact that he's used that recognition specifically to fund and build schools in areas similar to where he grew up, rather than simply capitalising on his fame commercially. I admire him mainly because his public profile seems to genuinely serve a purpose beyond himself, which isn't always the case with well-known figures. I remember watching an interview where he talked about turning down a fairly lucrative sponsorship because the company's values didn't align with the education work he was doing, which struck me as a rare kind of consistency between what someone says publicly and what they actually choose to do."
+    },
+    {
+      "id": "5AD_P3_01",
+      "part": 3,
+      "question": "Why do people become so interested in the lives of celebrities?",
+      "answer": "I'd say it partly satisfies curiosity about lives very different from our own, and partly offers a sense of parasocial connection, following someone regularly enough that they start to feel almost familiar. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5AD_P3_02",
+      "part": 3,
+      "question": "Do you think celebrities should be held to a higher standard of behaviour than ordinary people?",
+      "answer": "To some extent, yes, given the influence they have, particularly over young or impressionable audiences, though I'd be careful not to expect impossible perfection from anyone, famous or not. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5AD_P3_03",
+      "part": 3,
+      "question": "How has social media changed the relationship between celebrities and the public?",
+      "answer": "It's made that relationship far more direct and, in some ways, more demanding, since fans now expect constant access and updates, which has blurred the line between public and private life considerably. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5AD_P3_04",
+      "part": 3,
+      "question": "Do you think fame brings more happiness or more problems for the people who achieve it?",
+      "answer": "I'd guess more problems than people assume from the outside, given the loss of privacy and constant scrutiny involved, though obviously fame also brings genuine opportunities that most people never get access to. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

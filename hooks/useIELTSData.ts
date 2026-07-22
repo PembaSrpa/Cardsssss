@@ -88,7 +88,7 @@ export const IELTS_SECTION_GROUPS: IELTSSectionGroup[] = [
     id: "5",
     title: "Speaking Topics",
     subtitle: "Part 1, 2 & 3 Practice Questions",
-    categories: ["5A", "5B", "5C", "5D", "5E", "5F", "5G", "5H", "5I", "5J"],
+    categories: ["5A", "5B", "5C", "5D", "5E", "5F", "5G", "5H", "5I", "5J", "5K", "5L", "5M", "5N", "5O", "5P", "5Q", "5R", "5S", "5T", "5U", "5V", "5W", "5X", "5Y", "5Z", "5AA", "5AB", "5AC", "5AD", "5AE", "5AF", "5AG", "5AH", "5AI", "5AJ", "5AK", "5AL", "5AM", "5AN", "5AO", "5AP", "5AQ", "5AR", "5AS", "5AT", "5AU", "5AV", "5AW", "5AX", "5AY", "5AZ", "5BA", "5BB", "5BC", "5BD", "5BE", "5BF"],
   },
 ];
 

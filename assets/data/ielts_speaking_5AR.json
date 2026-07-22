@@ -1,0 +1,66 @@
+{
+  "section": "5AR",
+  "title": "Weekends",
+  "questions": [
+    {
+      "id": "5AR_P1_01",
+      "part": 1,
+      "question": "What do you usually do on weekends?",
+      "answer": "A mix of errands and rest, honestly - catching up on chores in the morning and leaving the afternoon free for whatever I feel like doing."
+    },
+    {
+      "id": "5AR_P1_02",
+      "part": 1,
+      "question": "Do you prefer spending weekends alone or with other people?",
+      "answer": "With people, generally, though I do value at least a few hours alone to properly unwind without needing to be sociable."
+    },
+    {
+      "id": "5AR_P1_03",
+      "part": 1,
+      "question": "Are weekends different for you now compared to when you were younger?",
+      "answer": "Quite a bit, yes. As a student, weekends meant sleeping in and doing very little, whereas now they're often filled with errands I couldn't fit in during the week."
+    },
+    {
+      "id": "5AR_P1_04",
+      "part": 1,
+      "question": "Do you think two-day weekends are enough?",
+      "answer": "Honestly, no. I think a three-day weekend would make a noticeable difference to how rested people actually feel by Monday."
+    },
+    {
+      "id": "5AR_P2_01",
+      "part": 2,
+      "question": "Describe a weekend that you particularly enjoyed.",
+      "cueCardPoints": [
+        "when this weekend was",
+        "what you did",
+        "who you spent it with",
+        "and explain why you enjoyed it so much"
+      ],
+      "answer": "I want to describe a weekend from last spring when three old university friends and I decided, somewhat spontaneously, to drive out to a lake a couple of hours from the city rather than doing our usual routine of meeting for coffee somewhere nearby. None of us had planned it more than a few days in advance, which is unusual for our group, since we're normally the type to overthink logistics for weeks before agreeing on anything. We rented a small boat for a couple of hours on the Saturday, cooked a fairly disastrous meal over a makeshift fire that evening, and mostly just talked late into the night the way we used to when we all lived closer together as students. What made it particularly enjoyable was how unstructured the whole thing was, no fixed itinerary, no real plan beyond being somewhere different together, which felt like a rare thing given how busy everyone's schedules have become since we all started working full time. I remember driving back on the Sunday evening feeling genuinely reluctant for the weekend to end, which doesn't happen often anymore. It reminded me how much I'd been missing that specific, unplanned kind of time with people I've known for years but rarely see properly these days."
+    },
+    {
+      "id": "5AR_P3_01",
+      "part": 3,
+      "question": "Why do people value weekends so highly?",
+      "answer": "Mostly because they represent a break from the obligations of work, giving people time to rest and pursue things they actually want to do rather than things they're required to do. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5AR_P3_02",
+      "part": 3,
+      "question": "Do you think how people spend their weekends has changed over the past few decades?",
+      "answer": "I'd say so, particularly with more people now spending weekend time on screens rather than the outdoor or social activities that were probably more common a couple of generations ago. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5AR_P3_03",
+      "part": 3,
+      "question": "Should weekends be longer to improve people's wellbeing?",
+      "answer": "I would lean toward yes, based on some of the trial results I've read about from countries experimenting with four-day working weeks, which generally show improved wellbeing without a proportional drop in productivity. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5AR_P3_04",
+      "part": 3,
+      "question": "How important is it to separate work and leisure time?",
+      "answer": "Quite important, in my view, since blurring that boundary too often tends to lead to burnout over time. Having a clear stretch of time genuinely free from work obligations seems to matter for long-term mental health. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

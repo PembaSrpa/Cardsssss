@@ -1,0 +1,66 @@
+{
+  "section": "5W",
+  "title": "Pets and Animals",
+  "questions": [
+    {
+      "id": "5W_P1_01",
+      "part": 1,
+      "question": "Do you have any pets?",
+      "answer": "I have a cat, actually, who mostly ignores me except at mealtimes, which I'm told is fairly typical cat behaviour."
+    },
+    {
+      "id": "5W_P1_02",
+      "part": 1,
+      "question": "What's your favourite animal?",
+      "answer": "Elephants, if I had to pick - there's something about how deliberate and calm their movements are that I find genuinely fascinating to watch."
+    },
+    {
+      "id": "5W_P1_03",
+      "part": 1,
+      "question": "Did you have any pets when you were a child?",
+      "answer": "We had a dog for most of my childhood, a scruffy mixed-breed that basically raised alongside me and my brother."
+    },
+    {
+      "id": "5W_P1_04",
+      "part": 1,
+      "question": "Do you think keeping animals as pets is a good idea?",
+      "answer": "Generally yes, provided people are realistic about the commitment involved. I've seen too many cases of pets being taken on impulsively and then neglected."
+    },
+    {
+      "id": "5W_P2_01",
+      "part": 2,
+      "question": "Describe an animal you find interesting.",
+      "cueCardPoints": [
+        "what the animal is",
+        "where it is usually found",
+        "what makes it interesting",
+        "and explain how you feel about this animal"
+      ],
+      "answer": "I'd like to talk about the octopus, an animal I became genuinely fascinated by after watching a documentary about them a couple of years ago, almost by accident on a night I couldn't sleep. They're found in oceans pretty much everywhere, from shallow reefs to fairly deep water, and what makes them interesting to me isn't just their appearance, which is strange enough on its own, but how intelligent they apparently are despite being nothing like us biologically. The documentary showed one solving a puzzle box to get food inside, and another apparently recognising individual humans who had been kind to it, which genuinely surprised me given how differently their brains are structured compared to ours. They also change colour and texture almost instantly to match their surroundings, which still looks like some kind of trick every time I see footage of it happening. I feel a strange mix of admiration and unease about them, if I'm honest, admiration for how capable they clearly are, and unease simply because they're so alien compared to any other animal I've read about. Since watching that documentary I've ended up reading a fair amount about marine biology generally, which wasn't something I had any interest in before."
+    },
+    {
+      "id": "5W_P3_01",
+      "part": 3,
+      "question": "Why do you think humans form such strong bonds with pets?",
+      "answer": "I'd say it comes down to unconditional companionship - pets offer attention and loyalty without the complications that come with human relationships, which fills an emotional need a lot of people don't get elsewhere. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5W_P3_02",
+      "part": 3,
+      "question": "Do you think zoos are good or bad for animals?",
+      "answer": "It depends heavily on the individual zoo, in my view. Well-run ones contribute to conservation and education, but poorly managed ones can cause real suffering, so I wouldn't judge the concept as a whole in either direction. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5W_P3_03",
+      "part": 3,
+      "question": "Should wild animal habitats be protected even if it limits economic development?",
+      "answer": "I would say yes, generally, since habitat loss is often irreversible while the economic benefits of development are usually short-term by comparison. That said, I recognise it's a harder trade-off in poorer regions dependent on that development. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5W_P3_04",
+      "part": 3,
+      "question": "How does a country's relationship with animals reflect its culture?",
+      "answer": "Quite closely, I'd say - which animals are treated as sacred, as pests, or as livestock tends to reveal a lot about a society's history and values, often tracing back to religious or agricultural traditions. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

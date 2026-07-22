@@ -1,0 +1,66 @@
+{
+  "section": "5AW",
+  "title": "Neighbourhood Shops and Markets",
+  "questions": [
+    {
+      "id": "5AW_P1_01",
+      "part": 1,
+      "question": "Do you shop at local markets or shops near your home?",
+      "answer": "Fairly often, yes, mainly for fresh produce, since the quality tends to be noticeably better than at bigger supermarkets."
+    },
+    {
+      "id": "5AW_P1_02",
+      "part": 1,
+      "question": "What kinds of things do you buy from local shops?",
+      "answer": "Mostly vegetables, fruit, and small household items I need quickly, without wanting to make a proper trip to a larger store."
+    },
+    {
+      "id": "5AW_P1_03",
+      "part": 1,
+      "question": "Do you prefer local shops or large supermarkets?",
+      "answer": "Local shops, generally, at least for food. Supermarkets I'll use more for bulk items or things local shops simply don't stock."
+    },
+    {
+      "id": "5AW_P1_04",
+      "part": 1,
+      "question": "Has your local market changed over the years?",
+      "answer": "A little, yes - a few of the older stalls have closed, replaced by slightly more modern shops, though the overall character hasn't changed too much."
+    },
+    {
+      "id": "5AW_P2_01",
+      "part": 2,
+      "question": "Describe a local market or shop near where you live.",
+      "cueCardPoints": [
+        "where it is",
+        "what it sells",
+        "who usually works or shops there",
+        "and explain why you like or dislike it"
+      ],
+      "answer": "I want to describe a small vegetable market a short walk from my apartment, set up every morning along a side street that gets closed to traffic specifically for the vendors during those hours. It sells mostly fresh produce, seasonal vegetables, fruit, and a couple of stalls selling fresh herbs and spices, all of it sourced from farms just outside the city rather than anything imported or processed. The vendors are mostly women, several of whom have been running the same stall for years, and a lot of the customers are regulars, older residents from the surrounding streets who seem to know each vendor personally and chat while making their selections. I like it a great deal, mainly because of that personal element, being able to ask a vendor directly which vegetables are freshest that day rather than guessing based on how something looks under supermarket lighting. There's also a kind of unhurried rhythm to shopping there that I genuinely enjoy, unlike the efficient but impersonal experience of a large supermarket. The one downside is that it only runs in the mornings, so if I miss it, which happens more often than I'd like given my work schedule, I have to fall back on a nearby supermarket instead, which never feels quite the same."
+    },
+    {
+      "id": "5AW_P3_01",
+      "part": 3,
+      "question": "Why are traditional markets important for local communities?",
+      "answer": "They support local farmers and small vendors directly, keeping money within the community rather than flowing to large corporations, and they also tend to serve as informal social spaces where neighbours regularly interact. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5AW_P3_02",
+      "part": 3,
+      "question": "Do you think large supermarkets are a threat to traditional local markets?",
+      "answer": "To some extent, yes, particularly through pricing pressure, since supermarkets can often sell certain goods more cheaply due to bulk purchasing, which makes it harder for small vendors to compete on price alone. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5AW_P3_03",
+      "part": 3,
+      "question": "Should governments do more to protect local markets from large retail chains?",
+      "answer": "I would lean toward yes, through measures like zoning regulations or support programmes for small vendors, since losing these markets would mean losing something beyond just a shopping option, a genuine piece of community infrastructure. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5AW_P3_04",
+      "part": 3,
+      "question": "How do shopping habits differ between older and younger generations?",
+      "answer": "Older generations tend to prefer the personal, familiar experience of local markets, in my observation, while younger generations often gravitate toward the convenience of supermarkets or online shopping, even when it's not necessarily cheaper. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

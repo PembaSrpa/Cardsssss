@@ -1,0 +1,66 @@
+{
+  "section": "5AM",
+  "title": "News and Media",
+  "questions": [
+    {
+      "id": "5AM_P1_01",
+      "part": 1,
+      "question": "How do you usually get your news?",
+      "answer": "Mostly through apps on my phone now, a couple of news aggregators, rather than a single newspaper or channel I follow consistently."
+    },
+    {
+      "id": "5AM_P1_02",
+      "part": 1,
+      "question": "Do you trust the news you read?",
+      "answer": "Selectively, yes. I've become more cautious about believing anything without checking a second source first, especially anything that seems designed to provoke a strong reaction."
+    },
+    {
+      "id": "5AM_P1_03",
+      "part": 1,
+      "question": "How often do you check the news?",
+      "answer": "A few times a day, usually in short bursts rather than sitting down to read anything in depth."
+    },
+    {
+      "id": "5AM_P1_04",
+      "part": 1,
+      "question": "Do you think it's important to stay informed about current events?",
+      "answer": "Definitely, yes, though I try to balance that with not letting it consume too much of my mental energy, since a lot of news is genuinely stressful."
+    },
+    {
+      "id": "5AM_P2_01",
+      "part": 2,
+      "question": "Describe a news story that you found interesting or important.",
+      "cueCardPoints": [
+        "what the story was about",
+        "when you heard about it",
+        "how you found out about it",
+        "and explain why you found it interesting or important"
+      ],
+      "answer": "I want to describe a news story from a couple of years ago about a community-led reforestation project in a region that had been badly deforested over the previous few decades, which I came across almost by accident while scrolling through a news app during a lunch break. It focused on a group of villagers who had organised themselves, without much government involvement initially, to replant a hillside that had become increasingly prone to landslides after the original tree cover was cleared for farmland years earlier. What caught my attention was a photograph accompanying the article showing the same hillside before and after several years of the project, which looked almost unrecognisable, from bare, eroded soil to a genuinely green slope again. I found out about it through one of those news aggregator apps I use regularly, buried among a lot of less memorable headlines that day. I found it interesting mainly because it stood in contrast to most environmental news I come across, which tends to focus entirely on damage and decline rather than any kind of recovery. It felt important to me because it demonstrated that meaningful environmental change doesn't always require large-scale government intervention, sometimes a committed, organised community can genuinely reverse damage that seemed permanent."
+    },
+    {
+      "id": "5AM_P3_01",
+      "part": 3,
+      "question": "Why is it important for a country to have a free press?",
+      "answer": "It acts as a check on those in power, since without independent reporting, governments and large institutions can act with far less accountability, knowing that mistakes or abuses are less likely to be exposed publicly. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5AM_P3_02",
+      "part": 3,
+      "question": "Do you think social media has made news less reliable?",
+      "answer": "In some ways, yes, since anyone can publish something that spreads widely regardless of whether it's accurate, though social media has also allowed genuinely important stories to break faster than traditional media sometimes manages. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5AM_P3_03",
+      "part": 3,
+      "question": "How can people tell the difference between reliable and unreliable news sources?",
+      "answer": "Checking whether a story is reported by multiple independent outlets is usually a good starting point, along with being cautious of headlines designed purely to provoke a strong emotional reaction rather than inform. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5AM_P3_04",
+      "part": 3,
+      "question": "Should the news focus more on positive stories rather than negative ones?",
+      "answer": "I'd say a better balance would help, since constant negative news can genuinely affect people's mental wellbeing over time, though I wouldn't want positive stories to come at the expense of reporting on real, difficult issues that need attention. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

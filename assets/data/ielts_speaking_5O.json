@@ -1,0 +1,66 @@
+{
+  "section": "5O",
+  "title": "Sports",
+  "questions": [
+    {
+      "id": "5O_P1_01",
+      "part": 1,
+      "question": "Do you play any sports?",
+      "answer": "I play badminton fairly regularly, usually once or twice a week with a couple of friends from my old job."
+    },
+    {
+      "id": "5O_P1_02",
+      "part": 1,
+      "question": "What sports are popular in your country?",
+      "answer": "Football is probably the most talked about, but cricket gets huge attention too, especially whenever there's a major international match on."
+    },
+    {
+      "id": "5O_P1_03",
+      "part": 1,
+      "question": "Did you do a lot of sport when you were younger?",
+      "answer": "I did, actually - I played on my school's volleyball team for a few years, though I haven't touched a volleyball in a long time now."
+    },
+    {
+      "id": "5O_P1_04",
+      "part": 1,
+      "question": "Do you prefer playing sports or watching them?",
+      "answer": "Playing, without much hesitation. Watching is fine as background entertainment, but I don't get the same satisfaction from it that I do from actually being on the court."
+    },
+    {
+      "id": "5O_P2_01",
+      "part": 2,
+      "question": "Describe a sport you would like to try.",
+      "cueCardPoints": [
+        "what the sport is",
+        "where you would need to go to try it",
+        "why you haven't tried it yet",
+        "and explain why you would like to try it"
+      ],
+      "answer": "I'd like to talk about rock climbing, specifically the outdoor kind on real cliffs rather than the indoor climbing gyms that have become popular in cities recently. I've watched a fair number of documentaries about climbers, and there's a particular kind of focus it seems to demand that I find genuinely fascinating, almost meditative in a strange way, given how dangerous it actually looks. To try it properly I'd need to travel to one of the hill regions a few hours from where I live, where there are apparently a few registered climbing routes with instructors, since I'm not confident enough to just attempt it alone. The main reason I haven't tried it yet is honestly just scheduling - between work and other commitments, a full weekend trip out of the city hasn't lined up with anyone else's availability. I'd like to try it mainly because it seems like the opposite of most of my daily life, which is fairly sedentary and screen-based. There's something appealing about a sport where a mistake has immediate, physical consequences, which forces total concentration in a way office work never does. I've told myself I'll book an introductory session this year, though I've been saying that for about two years now."
+    },
+    {
+      "id": "5O_P3_01",
+      "part": 3,
+      "question": "Why do you think some sports are more popular in certain countries than others?",
+      "answer": "A lot of it comes down to history and access - sports that were introduced early, through colonisation or schools, tend to become embedded in a culture, and then facilities and coaching naturally follow that early popularity. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5O_P3_02",
+      "part": 3,
+      "question": "Should schools focus more on sport or academic subjects?",
+      "answer": "I'd say both matter, but sport tends to get cut first when budgets are tight, which seems backwards given how much it contributes to concentration and general wellbeing, not just physical health. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5O_P3_03",
+      "part": 3,
+      "question": "Do you think professional athletes are paid too much?",
+      "answer": "To some extent, yes, especially compared to professions that arguably contribute more directly to society, like teaching or medicine. That said, the money largely follows audience demand, so it's more a reflection of what people choose to watch. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5O_P3_04",
+      "part": 3,
+      "question": "How has technology changed the way people follow sports?",
+      "answer": "It's made following sport far more immediate, with live stats and instant replays available on a phone during the match itself. It's also made highlights more shareable, so people can follow a sport casually without watching entire games. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

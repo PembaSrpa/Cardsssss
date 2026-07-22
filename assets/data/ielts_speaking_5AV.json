@@ -1,0 +1,66 @@
+{
+  "section": "5AV",
+  "title": "Public Transport vs Private Transport",
+  "questions": [
+    {
+      "id": "5AV_P1_01",
+      "part": 1,
+      "question": "Do you usually use public or private transport?",
+      "answer": "Mostly private, honestly, since I have a motorbike, though I'll use public transport occasionally for longer trips across the city."
+    },
+    {
+      "id": "5AV_P1_02",
+      "part": 1,
+      "question": "What's the public transport like in your city?",
+      "answer": "Fairly basic, in most areas - buses run, but not always on a strict schedule, and coverage in newer neighbourhoods is limited."
+    },
+    {
+      "id": "5AV_P1_03",
+      "part": 1,
+      "question": "Would you prefer to rely entirely on public transport?",
+      "answer": "Not entirely, no, mainly because of reliability. I'd need to trust the schedule far more than I currently do before giving up private transport."
+    },
+    {
+      "id": "5AV_P1_04",
+      "part": 1,
+      "question": "Is public transport expensive in your country?",
+      "answer": "Not really, no. It's actually one of the more affordable options, though the unreliability tends to offset that low cost for a lot of people."
+    },
+    {
+      "id": "5AV_P2_01",
+      "part": 2,
+      "question": "Describe a public transport experience you remember.",
+      "cueCardPoints": [
+        "what form of transport it was",
+        "where you were travelling",
+        "what happened during the journey",
+        "and explain why you remember this experience"
+      ],
+      "answer": "I want to describe a local bus journey I took across the city about a year ago, on a route I'd never used before, during a week when my motorbike was in for repairs and I had no other reasonable option to get to work. The bus itself was fairly crowded, standing room only by the second stop, and it took nearly twice as long as my usual commute due to a combination of traffic and a route that wound through several neighbourhoods rather than heading directly toward the centre. What made the journey memorable wasn't really the inconvenience, though there was plenty of that, but a brief conversation I ended up having with an elderly man standing next to me, who noticed I looked lost checking a map on my phone and offered directions without me even asking. We ended up talking for most of the remaining journey, about his decades working as a bus conductor on that exact route before retiring, long before smartphones existed to help confused passengers like me. I remember it mainly because it was such an unplanned, small interaction, the kind that rarely happens when I'm on my own bike, isolated in traffic rather than surrounded by other people forced to share the same slow, crowded space."
+    },
+    {
+      "id": "5AV_P3_01",
+      "part": 3,
+      "question": "What are the main advantages of public transport over private vehicles?",
+      "answer": "Reduced traffic congestion and lower environmental impact per person are probably the biggest advantages, along with affordability, since public transport is generally far cheaper than owning and maintaining a private vehicle. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5AV_P3_02",
+      "part": 3,
+      "question": "Why do people still prefer private vehicles even when public transport is available?",
+      "answer": "Convenience and control, mostly - private vehicles allow flexible timing and direct routes, whereas public transport requires adapting to fixed schedules and often involves longer, less direct journeys. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5AV_P3_03",
+      "part": 3,
+      "question": "Should governments invest more heavily in improving public transport systems?",
+      "answer": "I would say yes, generally, since a reliable public transport system tends to reduce both congestion and pollution more effectively than continuing to expand road infrastructure for private cars. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5AV_P3_04",
+      "part": 3,
+      "question": "How might the balance between public and private transport change in the future?",
+      "answer": "I'd expect a gradual shift toward public transport in cities that invest properly in reliability and coverage, though private vehicles will probably remain dominant in areas where public options stay limited or inconvenient. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

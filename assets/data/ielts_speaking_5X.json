@@ -1,0 +1,66 @@
+{
+  "section": "5X",
+  "title": "Fashion and Clothing",
+  "questions": [
+    {
+      "id": "5X_P1_01",
+      "part": 1,
+      "question": "Are you interested in fashion?",
+      "answer": "Not hugely, no. I care more about comfort than trends, though I'll admit I pay a bit more attention to how I dress for work."
+    },
+    {
+      "id": "5X_P1_02",
+      "part": 1,
+      "question": "What kind of clothes do you usually wear?",
+      "answer": "Fairly simple, casual clothes most days - jeans, plain shirts, nothing too bold. I save anything dressier for specific occasions."
+    },
+    {
+      "id": "5X_P1_03",
+      "part": 1,
+      "question": "Do you follow fashion trends?",
+      "answer": "Not really, no. I tend to notice trends a season or two after everyone else has already moved on to something new."
+    },
+    {
+      "id": "5X_P1_04",
+      "part": 1,
+      "question": "Do you prefer buying new clothes or second-hand ones?",
+      "answer": "A mix, honestly, though I've started buying second-hand more often recently, mainly for the price but also because of the environmental impact."
+    },
+    {
+      "id": "5X_P2_01",
+      "part": 2,
+      "question": "Describe an item of clothing you like to wear.",
+      "cueCardPoints": [
+        "what the item is",
+        "when you got it",
+        "when you usually wear it",
+        "and explain why you like it"
+      ],
+      "answer": "I want to describe an old denim jacket that belonged to my uncle before it somehow ended up in my wardrobe, which I've now had for close to six years. He gave it to me almost as an afterthought during a family visit, saying he never wore it anymore, and I only tried it on out of politeness at first, not expecting it to actually fit or suit me. It's fairly worn now, with a small tear near one cuff that I've never bothered fixing, and the colour has faded to something between blue and grey after so many washes. I usually wear it in autumn, over a plain shirt, whenever the weather turns cool enough to need a layer but not cold enough for anything heavier. I like it partly for practical reasons, since it genuinely goes with almost everything I own, but mostly because of where it came from. My uncle passed away a couple of years after giving it to me, so wearing it now carries a bit more weight than a jacket normally would. Friends have occasionally suggested I replace it with something newer, but I don't think I ever will, not while it still fits and still holds together."
+    },
+    {
+      "id": "5X_P3_01",
+      "part": 3,
+      "question": "Why do fashion trends change so quickly?",
+      "answer": "I'd say it's largely driven by the industry itself, since constant new trends encourage constant new spending. Social media has probably accelerated that cycle even further, since trends now spread and fade within weeks rather than seasons. It's worth adding that circumstances differ a lot from one place to another, so this isn't universal."
+    },
+    {
+      "id": "5X_P3_02",
+      "part": 3,
+      "question": "Do you think what people wear reflects their personality?",
+      "answer": "To some extent, yes, though I'd be cautious about reading too much into it, since practical factors like budget and climate shape clothing choices just as much as personal taste does. I think the answer probably depends quite a bit on the specific situation being discussed."
+    },
+    {
+      "id": "5X_P3_03",
+      "part": 3,
+      "question": "Should schools require students to wear uniforms?",
+      "answer": "I'd lean toward yes, mainly because it reduces visible inequality between students from different financial backgrounds. The downside is that it limits a form of self-expression some students genuinely value at that age. That's roughly how I see it, though I wouldn't claim to have thought it through exhaustively."
+    },
+    {
+      "id": "5X_P3_04",
+      "part": 3,
+      "question": "How has fast fashion affected the environment?",
+      "answer": "Quite significantly and mostly negatively, in my view, given the volume of textile waste and water usage involved in producing cheap, short-lived clothing at the current global scale. There are probably arguments on both sides that I haven't fully considered."
+    }
+  ]
+}

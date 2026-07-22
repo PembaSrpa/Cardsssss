@@ -1,0 +1,66 @@
+{
+  "section": "5M",
+  "title": "Music",
+  "questions": [
+    {
+      "id": "5M_P1_01",
+      "part": 1,
+      "question": "What kind of music do you like?",
+      "answer": "Mostly acoustic and folk stuff, although it really depends on my mood - sometimes I want something upbeat, other times just quiet guitar in the background while I work."
+    },
+    {
+      "id": "5M_P1_02",
+      "part": 1,
+      "question": "Do you play any musical instruments?",
+      "answer": "I learned guitar as a teenager, quite badly, and I still pick it up occasionally, though I wouldn't say I'm any good at it now."
+    },
+    {
+      "id": "5M_P1_03",
+      "part": 1,
+      "question": "How do you usually listen to music?",
+      "answer": "Almost entirely through streaming apps on my phone, usually with headphones if I'm out, or through a speaker if I'm at home."
+    },
+    {
+      "id": "5M_P1_04",
+      "part": 1,
+      "question": "Has your taste in music changed over the years?",
+      "answer": "Definitely. I used to only listen to whatever was popular at school, but now I've drifted toward slower, more instrumental music that I probably would have found boring back then."
+    },
+    {
+      "id": "5M_P2_01",
+      "part": 2,
+      "question": "Describe a song that means something to you.",
+      "cueCardPoints": [
+        "what the song is",
+        "when you first heard it",
+        "what it's about",
+        "and explain why it means something to you"
+      ],
+      "answer": "The song I want to talk about is one my father used to play in the car on long drives when I was young, an old folk song in our local language that I couldn't really explain the meaning of at the time. I must have first heard it when I was maybe seven or eight, half asleep in the back seat on the way to visit relatives, and it became one of those songs that got repeated so often it just stuck in the background of my childhood. It's about someone leaving their village to find work in the city and missing the sound of the river near their home, which is a fairly common theme in older songs from that region. I didn't think much about the lyrics as a child, but a few years ago, after I moved away from home myself, I heard it again by accident and the meaning suddenly landed differently. It means something to me now because it connects two periods of my life that otherwise don't have much in common - being a child in the back of that car, and being an adult who now understands exactly what the song is describing. I still can't hear it without thinking of both at once."
+    },
+    {
+      "id": "5M_P3_01",
+      "part": 3,
+      "question": "Why is music such an important part of most cultures?",
+      "answer": "I think it works as a shared emotional language that doesn't need translation - people can feel the mood of a piece even without understanding the words, which is probably why it's shown up in every culture throughout history. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5M_P3_02",
+      "part": 3,
+      "question": "Do you think streaming services have changed how people value music?",
+      "answer": "To some extent, yes, because music now feels almost disposable when you have unlimited access to it. On the other hand, it's also given lesser-known artists a way to reach audiences they never could have before. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5M_P3_03",
+      "part": 3,
+      "question": "Should music education be compulsory in schools?",
+      "answer": "I'd lean toward yes, mainly because it develops discipline and listening skills that carry over into other subjects, not just musical ability itself. That said, it shouldn't come at the expense of subjects students genuinely need for future careers. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5M_P3_04",
+      "part": 3,
+      "question": "How does music influence people's emotions?",
+      "answer": "It can shift a mood almost instantly, which is why it's used so deliberately in films and advertising. I'd say the effect is partly cultural association and partly something more physical, tied to rhythm and tempo themselves. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5Z",
+  "title": "Language Learning",
+  "questions": [
+    {
+      "id": "5Z_P1_01",
+      "part": 1,
+      "question": "Do you enjoy learning new languages?",
+      "answer": "I do, though I'm not particularly disciplined about it. I'll study intensely for a few weeks and then let it slide for months."
+    },
+    {
+      "id": "5Z_P1_02",
+      "part": 1,
+      "question": "How many languages can you speak?",
+      "answer": "Two fairly fluently, and a third one I can get by in, though my grammar in that third one is honestly a bit shaky."
+    },
+    {
+      "id": "5Z_P1_03",
+      "part": 1,
+      "question": "Why did you start learning English?",
+      "answer": "Mostly for school, at first, since it was compulsory, but later for work opportunities, since a lot of jobs where I live expect a decent level of it."
+    },
+    {
+      "id": "5Z_P1_04",
+      "part": 1,
+      "question": "What's the most difficult part of learning a new language for you?",
+      "answer": "Speaking naturally under pressure, without a doubt. I can read and write reasonably well, but forming sentences quickly in conversation still trips me up."
+    },
+    {
+      "id": "5Z_P2_01",
+      "part": 2,
+      "question": "Describe a language you would like to learn.",
+      "cueCardPoints": [
+        "what the language is",
+        "why you would like to learn it",
+        "how you would learn it",
+        "and explain what you would do with it if you learned it"
+      ],
+      "answer": "I'd like to talk about Spanish, a language I've wanted to learn properly for a few years now without ever quite committing to it beyond a couple of false starts. Part of the reason is a trip I took to South America a while back, where I got by almost entirely on gestures and a translation app, which worked but left me feeling slightly embarrassed at how little I could actually communicate with people who were consistently kind to me despite the language gap. I'd want to learn it properly this time, probably through a structured course rather than an app alone, since I think I need the accountability of a teacher and a fixed schedule to actually stick with it. Ideally I'd also find a way to practise speaking regularly with a native speaker, since that's always been the part I neglect most when learning languages on my own. If I did learn it to a decent level, I'd like to travel back to that same region and actually hold a proper conversation, rather than relying on a translation app the entire time. I'd also like to read a few Spanish-language authors in the original text eventually, since I've heard a lot gets lost in translation with some of them."
+    },
+    {
+      "id": "5Z_P3_01",
+      "part": 3,
+      "question": "Why do you think some people find learning languages easier than others?",
+      "answer": "I'd say exposure and motivation matter more than any innate talent, since people who grew up around multiple languages tend to pick up new ones faster, having already built the mental flexibility for switching between them. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5Z_P3_02",
+      "part": 3,
+      "question": "Do you think everyone should learn a second language at school?",
+      "answer": "I would say yes, mainly because early exposure makes acquisition significantly easier, and it opens up opportunities later that monolingual speakers often miss out on entirely. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5Z_P3_03",
+      "part": 3,
+      "question": "How has technology changed the way people learn languages?",
+      "answer": "Quite dramatically, in my view, since apps and online tutors have made practice far more accessible than traditional classroom learning alone used to allow, though I'd still argue nothing fully replaces real conversation with a native speaker. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5Z_P3_04",
+      "part": 3,
+      "question": "Do you think a global common language would be a good thing?",
+      "answer": "To some extent it would simplify international communication, but I'd worry it might accelerate the decline of smaller languages, which carry cultural knowledge that doesn't always translate cleanly into another tongue. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

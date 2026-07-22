@@ -1,0 +1,66 @@
+{
+  "section": "5AT",
+  "title": "Names",
+  "questions": [
+    {
+      "id": "5AT_P1_01",
+      "part": 1,
+      "question": "What does your name mean?",
+      "answer": "It roughly translates to something related to light, according to my parents, though I've never verified that with a dictionary myself."
+    },
+    {
+      "id": "5AT_P1_02",
+      "part": 1,
+      "question": "Do you like your name?",
+      "answer": "I do now, yes, though I went through a phase as a teenager where I wished I'd been given something more common."
+    },
+    {
+      "id": "5AT_P1_03",
+      "part": 1,
+      "question": "Who chose your name?",
+      "answer": "My grandfather, mostly, along with some input from my parents, following a tradition in our family of the eldest relative suggesting names."
+    },
+    {
+      "id": "5AT_P1_04",
+      "part": 1,
+      "question": "Is it common in your country for names to have specific meanings?",
+      "answer": "Very common, yes. Most names carry some intended meaning or reference, often tied to nature, virtues, or religious figures."
+    },
+    {
+      "id": "5AT_P2_01",
+      "part": 2,
+      "question": "Describe a name you like, other than your own.",
+      "cueCardPoints": [
+        "what the name is",
+        "who has this name",
+        "why you like it",
+        "and explain what it means, if anything"
+      ],
+      "answer": "I want to talk about the name Anaya, which belongs to a close friend's daughter who was born a couple of years ago, and which I've genuinely liked since the first time I heard it, well before I knew the child it belonged to. It means something close to caring or compassionate, depending on which regional interpretation you go by, and it has a soft, deliberate sound to it that I find pleasant to say out loud, without being overly common or overly unusual. I like it partly for that sound, but also because of how thoughtfully my friend chose it, going through what felt like dozens of options over several months before finally settling on this one, wanting something that felt meaningful rather than simply fashionable at the time. I remember her explaining the meaning to me over a phone call, sounding genuinely excited about it in a way that made the name feel more significant than a name usually does when you first hear it. Whenever I hear the name mentioned now, whether referring to her daughter or, occasionally, someone else entirely, I still think of that phone call and how much thought clearly went into choosing it, rather than it just being a pleasant-sounding word."
+    },
+    {
+      "id": "5AT_P3_01",
+      "part": 3,
+      "question": "Why do parents put so much thought into choosing a name for their child?",
+      "answer": "I'd say it's because a name is one of the first genuine decisions parents get to make for a child, and it carries a kind of permanence that feels significant, especially in cultures where names are expected to hold specific meaning. It probably comes down to priorities, and people weigh those differently depending on their own lives."
+    },
+    {
+      "id": "5AT_P3_02",
+      "part": 3,
+      "question": "Do you think names can influence how people are perceived by others?",
+      "answer": "To some extent, unfortunately, yes. Research has suggested that unfamiliar or unusual names can lead to unconscious bias, particularly in professional settings like job applications, which says more about the bias than the name itself. I could be wrong about this, but that's genuinely how it looks to me."
+    },
+    {
+      "id": "5AT_P3_03",
+      "part": 3,
+      "question": "How do naming traditions differ between cultures?",
+      "answer": "Quite significantly - some cultures prioritise family names being passed down, others focus heavily on meaning, and some choose names based on the day or circumstances of birth rather than any predetermined family list. There's likely more nuance to it than I can properly capture in a short answer."
+    },
+    {
+      "id": "5AT_P3_04",
+      "part": 3,
+      "question": "Should people be allowed to legally change their name if they don't like it?",
+      "answer": "I would say yes, without much hesitation, since a name is such a personal and constant part of someone's identity that forcing them to keep one they genuinely dislike seems unnecessarily restrictive. It's worth saying that context matters a great deal here, more than a general rule can capture."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "section": "5BC",
+  "title": "Mobile Phones",
+  "questions": [
+    {
+      "id": "5BC_P1_01",
+      "part": 1,
+      "question": "How often do you use your mobile phone?",
+      "answer": "Almost constantly, if I'm honest, throughout the day for messaging, work, and general browsing whenever I have a spare moment."
+    },
+    {
+      "id": "5BC_P1_02",
+      "part": 1,
+      "question": "What do you use your phone for most?",
+      "answer": "Messaging and reading news, mostly, though a fair amount of time also goes toward apps I probably don't need."
+    },
+    {
+      "id": "5BC_P1_03",
+      "part": 1,
+      "question": "Do you think you're too dependent on your phone?",
+      "answer": "Probably, yes. I've noticed a bit of restlessness whenever I don't have it nearby, which isn't a particularly healthy sign."
+    },
+    {
+      "id": "5BC_P1_04",
+      "part": 1,
+      "question": "Did you have a mobile phone as a child?",
+      "answer": "Not until my early teens, and even then it was a very basic phone, nothing close to what a smartphone offers now."
+    },
+    {
+      "id": "5BC_P2_01",
+      "part": 2,
+      "question": "Describe how mobile phones have changed the way you live.",
+      "cueCardPoints": [
+        "what you use your phone for",
+        "how often you use it",
+        "how your life would be different without it",
+        "and explain whether you think this change has been positive or negative"
+      ],
+      "answer": "I want to talk about how much my mobile phone has quietly taken over tasks that used to require separate tools or a fair amount of planning, something I only really noticed once I tried, briefly and unsuccessfully, to cut down my usage a while back. I use it for navigation, banking, reading, messaging, and work communication, essentially replacing a map, a wallet, a book, and a computer for most everyday purposes. I'd estimate I check it dozens of times a day, often without any specific reason, which is honestly the part that concerns me most when I actually stop to think about it. Without it, my life would look noticeably different, slower in some ways, since I'd need to plan routes or conversations in advance rather than relying on instant access to information whenever I need it. I think the change has been a genuine mix of positive and negative, honestly. Positively, it's made staying connected with distant family significantly easier, and it's genuinely useful for work. Negatively, though, I think it's shortened my patience for boredom or stillness, since there's always something available to fill even the smallest gap of unoccupied time, which I suspect wasn't particularly healthy before phones existed either, but is now much harder to avoid."
+    },
+    {
+      "id": "5BC_P3_01",
+      "part": 3,
+      "question": "How have mobile phones changed the way people communicate with each other?",
+      "answer": "They've made communication far more constant and immediate, though I'd argue also somewhat shallower in many cases, since quick messages have partly replaced the longer, more considered conversations people used to have in person or over calls. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5BC_P3_02",
+      "part": 3,
+      "question": "Do you think children should be allowed to use mobile phones from a young age?",
+      "answer": "I'd lean toward a cautious, limited approach, since there's growing evidence that early, unrestricted phone use can affect attention span and social development, though a basic phone for safety reasons seems reasonable. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5BC_P3_03",
+      "part": 3,
+      "question": "What are the negative effects of excessive mobile phone use?",
+      "answer": "Reduced attention span, disrupted sleep from screen exposure at night, and a general erosion of patience for boredom are probably the most commonly cited effects, alongside the risk of excessive social comparison through apps. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5BC_P3_04",
+      "part": 3,
+      "question": "How might mobile phones continue to develop in the future?",
+      "answer": "I'd expect them to become even more central to daily tasks, possibly integrating more directly with other devices and artificial intelligence tools, which could make the current level of dependence look mild by comparison. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

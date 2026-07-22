@@ -1,0 +1,66 @@
+{
+  "section": "5T",
+  "title": "Movies and Television",
+  "questions": [
+    {
+      "id": "5T_P1_01",
+      "part": 1,
+      "question": "Do you enjoy watching films?",
+      "answer": "Quite a lot, yes, though I'm more particular about it than I used to be - I'll research a film before committing two hours to it."
+    },
+    {
+      "id": "5T_P1_02",
+      "part": 1,
+      "question": "What kind of films do you like?",
+      "answer": "Mostly slower, character-driven dramas rather than big action films. I prefer something that stays with me after it ends."
+    },
+    {
+      "id": "5T_P1_03",
+      "part": 1,
+      "question": "Do you prefer watching films at the cinema or at home?",
+      "answer": "At home, generally, mainly for convenience, though there's an atmosphere at the cinema I do miss, especially for films that rely on sound."
+    },
+    {
+      "id": "5T_P1_04",
+      "part": 1,
+      "question": "How often do you watch television series?",
+      "answer": "Fairly often, especially in the evenings when I want something less demanding than reading. I'll usually have one series going at a time."
+    },
+    {
+      "id": "5T_P2_01",
+      "part": 2,
+      "question": "Describe a film or television series that you enjoyed watching.",
+      "cueCardPoints": [
+        "what it was about",
+        "when you watched it",
+        "who you watched it with",
+        "and explain why you enjoyed it"
+      ],
+      "answer": "I want to talk about a television series I watched over the course of last winter, a slow-moving drama about a small fishing community dealing with a changing economy and a younger generation leaving for the cities. I started it almost by accident, after a friend mentioned it in passing, and ended up watching most of it alone late at night, which suited its quiet, unhurried pace far better than watching it with company would have. What I enjoyed most wasn't the plot itself, which was fairly simple, but the way it captured small, ordinary moments, a fisherman repairing a net in silence, an old shopkeeper closing up for the night, that most shows would cut entirely. It reminded me a little of visits to my grandparents' village as a child, even though the setting was completely different, which is probably why it affected me more than I expected. By the final episode I genuinely didn't want it to end, which doesn't happen to me often with television. I've recommended it to a few people since, though most found it too slow for their taste, which I understand, but for me the slowness was exactly the point."
+    },
+    {
+      "id": "5T_P3_01",
+      "part": 3,
+      "question": "How has streaming changed the way people watch television?",
+      "answer": "It's shifted control entirely to the viewer, who can now watch an entire series in one sitting rather than waiting week to week. That's changed how shows are written too, since pacing no longer needs to hold an audience across separate broadcasts. I'd say that's the general pattern, even if individual cases can look quite different."
+    },
+    {
+      "id": "5T_P3_02",
+      "part": 3,
+      "question": "Do you think films influence people's opinions and behaviour?",
+      "answer": "To some extent, yes, particularly with younger audiences, since repeated exposure to certain attitudes or lifestyles on screen can normalise them without viewers fully realising it. I'd say the effect is subtle rather than direct, though. It's a topic I find myself going back and forth on, if I'm honest."
+    },
+    {
+      "id": "5T_P3_03",
+      "part": 3,
+      "question": "Should there be stricter controls on violent content in films?",
+      "answer": "I'd lean toward age-appropriate restrictions rather than outright bans, since context matters a great deal. A film exploring the consequences of violence is quite different from one that glorifies it purely for entertainment. That's been my experience, anyway, though someone else might describe it quite differently."
+    },
+    {
+      "id": "5T_P3_04",
+      "part": 3,
+      "question": "How do you think the film industry will change in the future?",
+      "answer": "I'd expect streaming platforms to keep gaining ground over traditional cinemas, and I wouldn't be surprised if artificial intelligence started playing a bigger role in production, particularly for visual effects and editing. I don't think it's a simple yes or no answer, if I'm honest about it."
+    }
+  ]
+}

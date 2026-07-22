@@ -1,0 +1,66 @@
+{
+  "section": "5K",
+  "title": "Weather and Seasons",
+  "questions": [
+    {
+      "id": "5K_P1_01",
+      "part": 1,
+      "question": "What's the weather like in your country?",
+      "answer": "It varies a lot depending on where you are, but where I live we get a proper monsoon in summer and pretty cold, dry winters in the hills."
+    },
+    {
+      "id": "5K_P1_02",
+      "part": 1,
+      "question": "What's your favourite season?",
+      "answer": "Autumn, without much debate. The heat breaks, the sky clears up after the rains, and you can actually see the mountains again."
+    },
+    {
+      "id": "5K_P1_03",
+      "part": 1,
+      "question": "Do you check the weather forecast often?",
+      "answer": "Almost every morning, mainly to decide whether I need an umbrella or an extra layer before I leave the house."
+    },
+    {
+      "id": "5K_P1_04",
+      "part": 1,
+      "question": "Has the weather changed compared to when you were a child?",
+      "answer": "It has, honestly. Summers feel longer and hotter than I remember, and the rains seem to arrive later than they used to."
+    },
+    {
+      "id": "5K_P2_01",
+      "part": 2,
+      "question": "Describe a time when the weather affected your plans.",
+      "cueCardPoints": [
+        "what the plan was",
+        "what the weather was like",
+        "how it affected the plan",
+        "and explain how you felt about it"
+      ],
+      "answer": "I want to talk about a hiking trip I'd planned with two friends a couple of years ago. We'd booked a guesthouse near a viewpoint a few hours outside the city and were planning to leave early on a Saturday to catch the sunrise from the top. The night before, though, it started raining harder than the forecast had suggested, and by the time we were supposed to leave, the trail had basically turned into a stream of mud. We waited around for a couple of hours hoping it would clear, but if anything it got worse, with thick fog rolling in on top of the rain. In the end we had to cancel the hike completely and just stayed in the guesthouse playing cards instead, which was not exactly what we'd pictured. At the time I was pretty disappointed, since we'd been looking forward to it for weeks, but looking back it turned into one of those trips people remember for a different reason - we still talk about that afternoon stuck indoors more than we talk about the view we missed. It taught me to build a backup plan into outdoor trips now, rather than assuming the weather will cooperate."
+    },
+    {
+      "id": "5K_P3_01",
+      "part": 3,
+      "question": "Why do people in different countries have different attitudes towards weather?",
+      "answer": "I'd say it comes down to what they're used to - people who grow up with harsh winters tend to plan their whole year around it, packing coats and boots without a second thought, while in places with milder climates, weather barely factors into daily decisions at all beyond whether to carry an umbrella."
+    },
+    {
+      "id": "5K_P3_02",
+      "part": 3,
+      "question": "Do you think climate change is affecting seasons around the world?",
+      "answer": "To some extent, yes, based on what I've read and noticed myself - seasons seem less predictable than they used to be, with heatwaves and storms turning up outside their usual windows. I wouldn't claim to understand the science in detail, but the shift feels noticeable even to someone just watching the sky."
+    },
+    {
+      "id": "5K_P3_03",
+      "part": 3,
+      "question": "Should schools teach children more about climate and weather patterns?",
+      "answer": "I would say so, because understanding how weather systems work helps people make sense of news about droughts or floods, rather than just reacting emotionally to it. It also seems like the kind of practical science that stays useful well beyond the classroom, unlike some subjects children forget almost immediately."
+    },
+    {
+      "id": "5K_P3_04",
+      "part": 3,
+      "question": "How does weather influence a country's economy?",
+      "answer": "It affects agriculture most directly, since a bad harvest tied to unusual weather can ripple through food prices and even employment in farming regions. Tourism is affected too, particularly in places that depend on predictable seasons to attract visitors, and a single bad season can hurt small business owners for years afterward."
+    }
+  ]
+}

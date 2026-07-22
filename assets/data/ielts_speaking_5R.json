@@ -1,0 +1,66 @@
+{
+  "section": "5R",
+  "title": "Neighbours and Neighbourhood",
+  "questions": [
+    {
+      "id": "5R_P1_01",
+      "part": 1,
+      "question": "Do you know your neighbours well?",
+      "answer": "A few of them, yes, mainly the ones who've lived on my street for a long time. The newer arrivals I mostly just nod to in passing."
+    },
+    {
+      "id": "5R_P1_02",
+      "part": 1,
+      "question": "What is your neighbourhood like?",
+      "answer": "Fairly quiet, residential mostly, with a small row of shops at one end that covers most of what you'd need day to day."
+    },
+    {
+      "id": "5R_P1_03",
+      "part": 1,
+      "question": "Do you think it's important to have a good relationship with your neighbours?",
+      "answer": "I do, honestly, especially for small things like keeping an eye on each other's homes or lending something in an emergency."
+    },
+    {
+      "id": "5R_P1_04",
+      "part": 1,
+      "question": "Has your neighbourhood changed since you moved there?",
+      "answer": "A little. A few older houses have been replaced with apartment buildings, so it feels slightly busier and less familiar than when I first arrived."
+    },
+    {
+      "id": "5R_P2_01",
+      "part": 2,
+      "question": "Describe a helpful neighbour you have had.",
+      "cueCardPoints": [
+        "who this neighbour is",
+        "where they live in relation to you",
+        "what they did to help you",
+        "and explain how you felt about their help"
+      ],
+      "answer": "I want to describe an older woman named Maya who lived directly across the hall from my old apartment for the three years I stayed there before moving to my current place. She'd been in that building for over a decade and knew basically everyone on the floor, which made her a kind of unofficial point of contact whenever something went wrong. The specific incident I remember most clearly was when I locked myself out of my flat late one evening, having left both my keys and my phone inside, with no obvious way to reach anyone. I ended up knocking on her door out of desperation, more than genuine expectation of help, and she not only let me sit in her flat while she called a locksmith she knew personally, but she also refused to let me pay her back for the call-out fee she'd covered upfront. What struck me afterward was how little fuss she made about the whole thing, treating it as completely ordinary rather than a big favour. I felt genuinely grateful, obviously, but also slightly embarrassed that I hadn't made more effort to get to know her better before that evening happened. After that we became much closer, and I still visit her occasionally even though I've since moved out of that building."
+    },
+    {
+      "id": "5R_P3_01",
+      "part": 3,
+      "question": "Why do people in cities often know their neighbours less than people in rural areas?",
+      "answer": "I'd say it comes down to both pace and mobility - city residents tend to move more often and have busier schedules, which leaves less natural opportunity for the kind of repeated, casual contact that builds familiarity over time. Other people I know would probably disagree with me on this, and I can see their point too."
+    },
+    {
+      "id": "5R_P3_02",
+      "part": 3,
+      "question": "Do you think apartment living discourages a sense of community compared to houses?",
+      "answer": "To some extent, yes, particularly in larger buildings where people can go months without seeing the same neighbour twice. Smaller buildings or those with shared spaces tend to encourage more interaction almost by design. It's the kind of question where reasonable people can land in quite different places."
+    },
+    {
+      "id": "5R_P3_03",
+      "part": 3,
+      "question": "Should neighbours be legally required to help each other in emergencies?",
+      "answer": "I don't think that would work well in practice, since genuine helpfulness is hard to enforce through law. It's more effective, in my view, to encourage community-building through shared spaces and events instead. I might change my mind on this if I saw more evidence pointing the other way."
+    },
+    {
+      "id": "5R_P3_04",
+      "part": 3,
+      "question": "How might neighbourhoods change as more people work from home?",
+      "answer": "I'd expect local shops and cafes to benefit, since people are around during the day and spending more time in their immediate area rather than commuting elsewhere. It could also increase casual interaction between neighbours simply because people are home more often. This is just my impression, though, and I could easily be missing some important context."
+    }
+  ]
+}
