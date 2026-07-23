@@ -19,9 +19,12 @@ export default function IELTSCategoryPickerScreen(): React.JSX.Element {
       <Scales variant="compact" edges={["left", "right"]} />
       <ScrollView contentContainerStyle={styles.content}>
         <NavBar title={group ? `Section ${group.id}` : "Section"} right={<ThemeToggle />} />
-        {group?.categories.map((code) => (
-          <CategoryRow key={code} groupId={group.id} code={code} />
-        ))}
+        {group?.categories
+          .slice()
+          .sort((a, b) => a.localeCompare(b))
+          .map((code) => (
+            <CategoryRow key={code} groupId={group.id} code={code} />
+          ))}
       </ScrollView>
     </View>
   );

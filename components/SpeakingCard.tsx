@@ -1,18 +1,22 @@
 import React, { useEffect } from "react";
-import { View, Text, StyleSheet } from "react-native";
-import { Gesture, GestureDetector, ScrollView } from "react-native-gesture-handler";
+import { StyleSheet, Text, View } from "react-native";
+import {
+  Gesture,
+  GestureDetector,
+  ScrollView,
+} from "react-native-gesture-handler";
 import Animated, {
-  useSharedValue,
-  useAnimatedStyle,
-  withTiming,
-  interpolate,
   Extrapolation,
+  interpolate,
   runOnJS,
+  useAnimatedStyle,
+  useSharedValue,
+  withTiming,
 } from "react-native-reanimated";
+import { IELTSSpeakingQuestion } from "../hooks/useIELTSSpeakingData";
 import { useTheme } from "../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../theme/typography";
 import { StatusBadge } from "./StatusBadge";
-import { IELTSSpeakingQuestion } from "../hooks/useIELTSSpeakingData";
 
 interface SpeakingCardProps {
   item: IELTSSpeakingQuestion;
@@ -27,7 +31,11 @@ function partLabel(part: number): string {
   return `PART ${part}`;
 }
 
-export function SpeakingCard({ item, flipped, onPress }: SpeakingCardProps): React.JSX.Element {
+export function SpeakingCard({
+  item,
+  flipped,
+  onPress,
+}: SpeakingCardProps): React.JSX.Element {
   const { colors } = useTheme();
   const rotation = useSharedValue<number>(0);
 
@@ -36,7 +44,12 @@ export function SpeakingCard({ item, flipped, onPress }: SpeakingCardProps): Rea
   }, [flipped, rotation]);
 
   const frontStyle = useAnimatedStyle(() => {
-    const rotateY = interpolate(rotation.value, [0, 180], [0, 180], Extrapolation.CLAMP);
+    const rotateY = interpolate(
+      rotation.value,
+      [0, 180],
+      [0, 180],
+      Extrapolation.CLAMP,
+    );
     return {
       transform: [{ perspective: 1200 }, { rotateY: `${rotateY}deg` }],
       opacity: rotation.value < 90 ? 1 : 0,
@@ -44,7 +57,12 @@ export function SpeakingCard({ item, flipped, onPress }: SpeakingCardProps): Rea
   });
 
   const backStyle = useAnimatedStyle(() => {
-    const rotateY = interpolate(rotation.value, [0, 180], [180, 360], Extrapolation.CLAMP);
+    const rotateY = interpolate(
+      rotation.value,
+      [0, 180],
+      [180, 360],
+      Extrapolation.CLAMP,
+    );
     return {
       transform: [{ perspective: 1200 }, { rotateY: `${rotateY}deg` }],
       opacity: rotation.value >= 90 ? 1 : 0,
@@ -59,53 +77,70 @@ export function SpeakingCard({ item, flipped, onPress }: SpeakingCardProps): Rea
 
   return (
     <GestureDetector gesture={tapGesture}>
-    <Animated.View style={styles.wrapper}>
-      <Animated.View
-        style={[
-          styles.face,
-          frontStyle,
-          { backgroundColor: colors.backgroundAlt, borderColor: colors.border },
-        ]}
-      >
-        <StatusBadge label={partLabel(item.part)} />
-        <ScrollView
-          style={styles.scroll}
-          contentContainerStyle={styles.scrollContent}
-          showsVerticalScrollIndicator={true}
+      <Animated.View style={styles.wrapper}>
+        <Animated.View
+          style={[
+            styles.face,
+            frontStyle,
+            {
+              backgroundColor: colors.backgroundAlt,
+              borderColor: colors.border,
+            },
+          ]}
         >
-          <Text style={[styles.question, { color: colors.text }]}>{item.question}</Text>
-          {!!item.cueCardPoints && item.cueCardPoints.length > 0 && (
-            <View style={styles.cuePoints}>
-              <Text style={[styles.cueLabel, { color: colors.textMuted }]}>You should say:</Text>
-              {item.cueCardPoints.map((point, idx) => (
-                <Text key={idx} style={[styles.cueItem, { color: colors.textMuted }]}>
-                  {`\u2022 ${point}`}
+          <StatusBadge label={partLabel(item.part)} />
+          <ScrollView
+            style={styles.scroll}
+            contentContainerStyle={styles.scrollContent}
+            showsVerticalScrollIndicator={true}
+          >
+            <Text style={[styles.question, { color: colors.text }]}>
+              {item.question}
+            </Text>
+            {!!item.cueCardPoints && item.cueCardPoints.length > 0 && (
+              <View style={styles.cuePoints}>
+                <Text style={[styles.cueLabel, { color: colors.textMuted }]}>
+                  You should say:
                 </Text>
-              ))}
-            </View>
-          )}
-        </ScrollView>
-        <Text style={[styles.hint, { color: colors.textMuted }]}>tap to flip</Text>
-      </Animated.View>
+                {item.cueCardPoints.map((point, idx) => (
+                  <Text
+                    key={idx}
+                    style={[styles.cueItem, { color: colors.textMuted }]}
+                  >
+                    {`\u2022 ${point}`}
+                  </Text>
+                ))}
+              </View>
+            )}
+          </ScrollView>
+          <Text style={[styles.hint, { color: colors.textMuted }]}>
+            tap to flip
+          </Text>
+        </Animated.View>
 
-      <Animated.View
-        style={[
-          styles.face,
-          styles.faceAbsolute,
-          backStyle,
-          { backgroundColor: colors.backgroundAlt, borderColor: colors.border },
-        ]}
-      >
-        <StatusBadge label="EXAMPLE ANSWER" />
-        <ScrollView
-          style={styles.scroll}
-          contentContainerStyle={styles.scrollContent}
-          showsVerticalScrollIndicator={true}
+        <Animated.View
+          style={[
+            styles.face,
+            styles.faceAbsolute,
+            backStyle,
+            {
+              backgroundColor: colors.backgroundAlt,
+              borderColor: colors.border,
+            },
+          ]}
         >
-          <Text style={[styles.answer, { color: colors.text }]}>{item.answer}</Text>
-        </ScrollView>
+          <StatusBadge label="EXAMPLE ANSWER" />
+          <ScrollView
+            style={styles.scroll}
+            contentContainerStyle={styles.scrollContent}
+            showsVerticalScrollIndicator={true}
+          >
+            <Text style={[styles.answer, { color: colors.text }]}>
+              {item.answer}
+            </Text>
+          </ScrollView>
+        </Animated.View>
       </Animated.View>
-    </Animated.View>
     </GestureDetector>
   );
 }
