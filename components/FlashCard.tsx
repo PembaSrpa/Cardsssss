@@ -1,11 +1,13 @@
 import React, { useEffect } from "react";
-import { View, Text, StyleSheet, Pressable, ScrollView } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
+import { Gesture, GestureDetector, ScrollView } from "react-native-gesture-handler";
 import Animated, {
   useSharedValue,
   useAnimatedStyle,
   withTiming,
   interpolate,
   Extrapolation,
+  runOnJS,
 } from "react-native-reanimated";
 import { useTheme } from "../theme/ThemeContext";
 import { FONTS, FONT_SIZES } from "../theme/typography";
@@ -42,8 +44,15 @@ export function FlashCard({ word, flipped, onPress }: FlashCardProps): React.JSX
     };
   });
 
+  const tapGesture = Gesture.Tap().onEnd((_event, success) => {
+    if (success) {
+      runOnJS(onPress)();
+    }
+  });
+
   return (
-    <Pressable onPress={onPress} style={styles.wrapper}>
+    <GestureDetector gesture={tapGesture}>
+    <Animated.View style={styles.wrapper}>
       <Animated.View
         style={[
           styles.face,
@@ -86,7 +95,8 @@ export function FlashCard({ word, flipped, onPress }: FlashCardProps): React.JSX
           )}
         </ScrollView>
       </Animated.View>
-    </Pressable>
+    </Animated.View>
+    </GestureDetector>
   );
 }
 
